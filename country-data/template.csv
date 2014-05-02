@@ -1,0 +1,2 @@
+country-code,year,dimension-id,value
+(iso country code alpha-2),(yyyy),(id from dimensions.csv),(value)
