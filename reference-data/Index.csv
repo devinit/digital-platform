@@ -1,5 +1,0 @@
-Dataset Code,Dataset Name,Description,Source
-r001,DI Sector Groups,DI Grouping of CRS Purpose Codes into 15 broad sectors,DI
-r002,CRS-3 Purpose Codes,Mapping of CRS 3-digit Purpose Codes against DI Sector Groups,DI / OECD
-r003,ISO Country Codes,"Alpha-2, Alpha-3 and English short-names from ISO 3166-1",ISO
-r004,Country Classifications,OECD DAC and UN country and region classifications,OECD / UN
