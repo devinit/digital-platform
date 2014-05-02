@@ -1,0 +1,44 @@
+Country-level data,Format,Notes
+Country name,Alpha,
+Country code,Integer,Use ISO code?
+Year,Integer,
+GDP,Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+GNI,Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Population,Integer,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Total government revenue,Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+"Total government spending, actual",Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Gov spending (Health),Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Gov spending (Education),Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Gov spending (Agriculture),Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Gov spending (Infrastructure),Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Total government budget,Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Gov budget (Health),Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Gov budget (Education),Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Gov budget (Agriculture),Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Gov budget (Infrastructure),Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Aid component of total budget,Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Aid component of gov. budget (Health),Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Aid component of gov. budget (Education),Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Aid component of gov. budget (Agriculture),Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Aid component of gov. budget (Infrastructure),Decimal,Should we have separate fields for US$ and local currency amounts for each monetary value?
+Child mortality rate,Percentage,"Under-5 mortality rate, or some other measure?"
+Literacy rate,Percentage,"Should we have separate fields for for male, female and total literacy rates?"
+Employment in agriculture,Percentage,"Should this be %, number or both?"
+Population in poverty ($1.25/day) - percentage,Percentage,
+Population in poverty ($1.25/day) - number,Integer,
+Population in poverty ($2/day) - percentage,Percentage,
+Population in poverty ($2/day) - number,Integer,
+Population vulverable to poverty (MPI) - percentage,Percentage,
+Population vulverable to poverty (MPI) - number,Integer,
+Population in severe poverty (MPI) - percentage,Percentage,
+Population in severe poverty (MPI) - number,Integer,
+Population suffering health deprivation (MPI) - percentage,Percentage,
+Population suffering health deprivation (MPI) - number,Integer,
+Population suffering education deprivation (MPI) - percentage,Percentage,
+Population suffering education deprivation (MPI) - number,Integer,
+Population suffering living standards deprivation (MPI) - percentage,Percentage,"Should we use the separate indicators for electricity, water, etc or the single 'living standards' indicator?"
+Population suffering living standards deprivation (MPI) - number,Integer,
+Depth of poverty,?,What indicator should we use for this?
+Chronic poverty,?,What indicator should we use for this?
+GINI index,Decimal,
+Other inequality measures?,?,What indicator should we use for this?
