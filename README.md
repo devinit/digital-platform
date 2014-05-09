@@ -8,7 +8,7 @@ All data and related indexes are being stored in csv format.
 There are currently three data workspaces:
 
 reference-data:
-- an index of referebce datasets
+- an index of reference datasets
 - reference datasets (named r000.csv) - with no fixed format
 
 country-data:
