@@ -14,7 +14,7 @@ reference-data:
 country-data:
 - an index of datasets
 - an index of dimensions
-- country datasets (named c0000.csv)  - all in the normalised format of country-id, year, dimansion, value
+- country datasets (named c0000.csv)  - all in the normalised format of country-id, year, dimension, value
 
 work-in-progress:
 - various wip data 
