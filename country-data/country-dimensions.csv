@@ -1,2 +1,2 @@
-dimension-id,dimension-name,unit-of-measure,dataset-id,dimension-description
-cd0001,(Dimension name),(unit-of-measure id from reference table?),(Id of the dataset from index.csv),"(description, usage, guidance)"
+dimension-id,unit-of-measure,dataset-id,description,Source
+poor-people,millions,poor-people,Number of poor people living on under $1.25 per day,Urban population (from ...) + Rural population (from) * Percentage of population living in under $1.25 per day (from ...)
