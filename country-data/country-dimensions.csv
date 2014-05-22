@@ -1,2 +1,3 @@
 dimension-id,unit-of-measure,dataset-id,description,Source
 poor-people,millions,poor-people,Number of poor people living on under $1.25 per day,Urban population (from ...) + Rural population (from) * Percentage of population living in under $1.25 per day (from ...)
+gross-oda-per-poor-person,USD,gross-oda-per-poor-person,,ITEP 2013
