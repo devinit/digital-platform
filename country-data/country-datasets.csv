@@ -1,1 +1,2 @@
-dataset-id,name,description,source
+dataset-id,name,description,source,dimensions,attributes
+poor-people,Number of poor people in a country living on under $1.25 per day,Various,poor-people,none
