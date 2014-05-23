@@ -1,0 +1,9 @@
+concept,description,format,uom,source,xref,calculation
+country-id,ISO-3166 Alpha-3 country codes,3(A),,ISO,,
+sector-id,DI grouping of CRS purpose codes,1(A),,DI,,
+year,Calendar year ,yyyy,,,,
+crs3-purpose-id,CRS 3-digit purpose code,3(N),,OECD,sector-id,
+crs5-purpose-id,CRS 5-digit purpose code,5(N),,OECD,crs3-purpose-id; sector-id,
+,,,,,,
+poor-people,Number of poor people living on under $1.25 per day,,millions,??,,Urban population (from ???) + Rural population (from ???) * Percentage of population living in under $1.25 per day (from ???)
+oda-per-poor-person,,,USD (current??),DI (ITEP 2013),,
