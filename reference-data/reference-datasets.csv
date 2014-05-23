@@ -1,4 +1,4 @@
 Dataset Code,Dataset Name,Description,Source
 di-sector-groups,DI Sector Groups,DI Grouping of CRS Purpose Codes into 15 broad sectors,DI
 crs-3digit-sectors,CRS-3 Purpose Codes,Mapping of CRS 3-digit Purpose Codes against DI Sector Groups,DI / OECD
-country-codes,Country Classifications,OECD DAC and UN country and region classifications,OECD / UN
+country-id,Country Classifications,OECD DAC and UN country and region classifications. Primary key is ISO Alpha-3 code.,OECD / UN
