@@ -1,6 +1,8 @@
 series,concept,description,format,uom,source,xref,calculation
 reference,aid-bundle-id,,1(A),,DI,,
 reference,country-id,ISO-3166 Alpha-3 country codes,3(A),,ISO,,
+reference,adm1-id,First-level sub-national administrative sub-divisions,,,,country-id,
+reference,adm2-id,Second-level sub-national administrative sub-divisions,,,,country-id; adm1-id,
 reference,sector-id,DI grouping of CRS purpose codes,1(A),,DI,,
 reference,year,Calendar year ,yyyy,,,,
 reference,crs3-purpose-id,CRS 3-digit purpose code,3(N),,OECD,sector-id,
