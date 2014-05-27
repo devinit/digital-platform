@@ -1,5 +1,5 @@
-country-id,adm1-id,adm2-name
-UGA,1,Central
-UGA,2,Eastern
-UGA,3,Northern
-UGA,4,Western
+country-id,adm1-id,adm1-name
+UG,UG-1,Central
+UG,UG-2,Eastern
+UG,UG-3,Northern
+UG,UG-4,Western
