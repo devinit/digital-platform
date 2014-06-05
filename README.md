@@ -1,5 +1,5 @@
-DI Country Datamart
-===================
+DI Digital Platform Datamart
+============================
 
 This is a repository for storing (and working with) the data that will be used in the first iteration of the new DI "country profiles" (NB. that there is ingoing discussion as to what this 'thing' should be called: we might first work on country-based data but it's bigger than that).
 
