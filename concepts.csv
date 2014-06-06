@@ -1,20 +1,20 @@
 series,concept,description,format,uom,source,xref,calculation
-country-year,fdi-usd-2012,Inward Foreign Direct Investment (Constant 2012 US$m),,USD,"UNCTAD, UNCTADstat - Inward and outward foreign direct investment flows, annual, 1970-2012 (current US$)",,This dataset uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
-country-year,gdp-usd-2005,GDP (Constant 2005 US$m),,USD,,,
-country-year,gdp-usd-current,GDP (Current US$m),,USD,,,
-country-year,gni-usd-2005,GDP (Constant 2005 US$m),,USD,,,
-country-year,gni-usd-current,GNI (Current US$m),,USD,,,
+country-year,fdi-usd-2012,Inward Foreign Direct Investment (Constant 2012 US$),,USD,"UNCTAD, UNCTADstat - Inward and outward foreign direct investment flows, annual, 1970-2012 (current US$)",,This dataset uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
+country-year,gdp-usd-2005,GDP (Constant 2005 US$),,USD,,,
+country-year,gdp-usd-current,GDP (Current US$),,USD,,,
+country-year,gni-usd-2005,GDP (Constant 2005 US$),,USD,,,
+country-year,gni-usd-current,GNI (Current US$),,USD,,,
 country-year,oda-per-poor-person,,,USD (current??),DI (ITEP 2013),,
-country-year,oda-sector-aid-bundle-usd-current,Annual country breakdown of ODA by (DI) sector and by (DI) aid-bundle,,USD,,sector-id; aid-bundle-id,
+country-year,oda-sector-aid-bundle-usd-current,Annual country breakdown of ODA by (DI) sector and by (DI) aid-bundle,,USD,"CRS transactions, DI sector grouping, DI Aid bundle grouping",sector-id; aid-bundle-id,
 country-year,oda-sector-usd-current,Annual country breakdown of ODA by (DI) sector ,,USD,"CRS transactions, DI sector grouping",sector-id ,
 country-year,poor-people,Number of poor people living on under $1.25 per day,,unit,??,,Total population (from ???) * Percentage of population living in under $1.25 per day (from ???)
 country-year,population-0-14,Population ages 0-14 (% of total),,percent,,,
 country-year,population-15-64,Population ages 15-64 (% of total),,percent,,,
 country-year,population-15-64,Population ages 65 and above (% of total),,percent,,,
-country-year,population-rural,Rural population (m),,unit,,,
-country-year,population-total,Total population (m),,unit,,,
-country-year,population-urban,Urban population (m),,unit,,,
-country-year,remittance-usd-2012,"Remittances, constant 2012 US$ millions",,USD,"World Bank. Accessed Jan 2014. http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTDECPROSPECTS/0,,contentMDK:22759429~pagePK:64165401~piPK:64165026~theSitePK:476883,00.html#Remittances",,Uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
+country-year,population-rural,Rural population,,unit,,,
+country-year,population-total,Total population,,unit,,,
+country-year,population-urban,Urban population,,unit,,,
+country-year,remittance-usd-2012,Remittances (Constant 2012 US$),,USD,"World Bank. Accessed Jan 2014. http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTDECPROSPECTS/0,,contentMDK:22759429~pagePK:64165401~piPK:64165026~theSitePK:476883,00.html#Remittances",,Uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
 reference,adm1-id,First-level sub-national administrative sub-divisions,,,,country-id,
 reference,adm2-id,Second-level sub-national administrative sub-divisions,,,,country-id; adm1-id,
 reference,adm4-id,Fourth-level sub-national administrative sub-divisions,,,,country-id; adm1-id; admin2-id; admin3-id,
