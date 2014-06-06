@@ -14,6 +14,7 @@ country-year,population-15-64,Population ages 65 and above (% of total),,percent
 country-year,population-rural,Rural population (m),,unit,,,
 country-year,population-total,Total population (m),,unit,,,
 country-year,population-urban,Urban population (m),,unit,,,
+country-year,remittance-usd-2012,"Remittances, constant 2012 US$ millions",,USD,"World Bank. Accessed Jan 2014. http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTDECPROSPECTS/0,,contentMDK:22759429~pagePK:64165401~piPK:64165026~theSitePK:476883,00.html#Remittances",,Uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
 reference,adm1-id,First-level sub-national administrative sub-divisions,,,,country-id,
 reference,adm2-id,Second-level sub-national administrative sub-divisions,,,,country-id; adm1-id,
 reference,adm4-id,Fourth-level sub-national administrative sub-divisions,,,,country-id; adm1-id; admin2-id; admin3-id,
