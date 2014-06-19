@@ -1,4 +1,4 @@
-country-id,year,sector-id,aid-bundle-id,value
+country,year,sector,aid-bundle,value
 AF,2006,A,A,0
 AF,2006,A,B,27230
 AF,2006,A,E,24111
