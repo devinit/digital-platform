@@ -11,7 +11,7 @@ country-year,oda-sector-usd-current,Annual country breakdown of ODA by (DI) sect
 country-year,poor-people,Number of poor people living on under $1.25 per day,,unit,??,,Total population (from ???) * Percentage of population living in under $1.25 per day (from ???)
 country-year,population-0-14,Population ages 0-14 (% of total),,percent,,,
 country-year,population-15-64,Population ages 15-64 (% of total),,percent,,,
-country-year,population-15-64,Population ages 65 and above (% of total),,percent,,,
+country-year,population-65-,Population ages 65 and above (% of total),,percent,,,
 country-year,population-rural,Rural population,,unit,,,
 country-year,population-total,Total population,,unit,,,
 country-year,population-urban,Urban population,,unit,,,
