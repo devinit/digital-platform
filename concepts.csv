@@ -21,6 +21,7 @@ country-year,remittance-usd-2012,Remittances (Constant 2012 US$),,USD,"World Ban
 country-year,short-debt-usd-2012,Net flows of Short Term Debt (Constant 2012 US$),,USD,World Bank. Accessed 13th Jan 2013. http://data.worldbank.org/indicator/DT.NFL.DSTC.CD,,Uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
 country-year,under-5-mortality,"Under 5 mortality rate (per 1,000 live births)",,unit,WDI,,
 country-year,maternal-mortality,"Maternal mortality rate (per 100,000 live births)",,unit,WDI,,
+country-year,infant-mortality,"Infant mortality rate (per 1,000 live births)",,unit,WDI,,
 region-year,,,,,,,
 reference,admin1,First-level sub-national administrative sub-divisions,,,Geonames.org,"country, geonames-id",
 reference,admin2,Second-level sub-national administrative sub-divisions,,,Geonames.org,"country, admin1, geonames-id",
