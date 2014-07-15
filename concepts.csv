@@ -19,6 +19,7 @@ country-year,poverty-125,Percentage of population living under $1.25 per day,,pe
 country-year,poverty-200,Percentage of population living under $2.00 per day,,percent,,,
 country-year,remittance-usd-2012,Remittances (Constant 2012 US$),,USD,"World Bank. Accessed Jan 2014. http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTDECPROSPECTS/0,,contentMDK:22759429~pagePK:64165401~piPK:64165026~theSitePK:476883,00.html#Remittances",,Uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
 country-year,short-debt-usd-2012,Net flows of Short Term Debt (Constant 2012 US$),,USD,World Bank. Accessed 13th Jan 2013. http://data.worldbank.org/indicator/DT.NFL.DSTC.CD,,Uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
+country-year,under-5-mortality,"Under 5 mortality rate (per 1,000 live births)",,unit,WDI,,
 region-year,,,,,,,
 reference,admin1,First-level sub-national administrative sub-divisions,,,Geonames.org,"country, geonames-id",
 reference,admin2,Second-level sub-national administrative sub-divisions,,,Geonames.org,"country, admin1, geonames-id",
