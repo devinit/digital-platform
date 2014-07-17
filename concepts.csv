@@ -1,5 +1,6 @@
 series,concept,description,format,uom,source,xref,calculation
 country-year,fdi-usd-2012,Inward Foreign Direct Investment (Constant 2012 US$),,USD,"UNCTAD, UNCTADstat - Inward and outward foreign direct investment flows, annual, 1970-2012 (current US$)",,This dataset uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
+country-year,govtspend_pc,"Government spending per person, 2011 PPP$, net of general budget support ODA and disbursements on debt to the public sector",,2011 PPP$,"Development Initiatives, based on IMF WEO, OECD DAC, World Bank",,"Calculated from IMF WEO data on government spending as a proportion of GDP. Receipts of general budget support ODA and disbursements on public debt are subtracted from total government spending before dividing by the population, to avoid double counting when comparing with international resource flows."
 country-year,gdp-usd-2005,GDP (Constant 2005 US$),,USD,,,
 country-year,gdp-usd-current,GDP (Current US$),,USD,,,
 country-year,gni-usd-2005,GDP (Constant 2005 US$),,USD,,,
