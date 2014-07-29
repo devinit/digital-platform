@@ -1,5 +1,6 @@
 series,concept,description,format,uom,source,xref,calculation
 country-year,bl_remittances,"Bilateral flows of remittances between pairs of countries, 2010-2012",,constant 2012 US$ millions,World Bank Migration and Remittances Factbook (estimates of bilateral remittance flows),,This dataset uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
+country-year,bl_ha,"Bilateral flows of humanitarian assistance between countries, 2000-2012",,constant 2012 US$ millions,Global Humanitarian Assistance,,
 country-year,bundle_fdi,"Breakdown of financing types for FDI in developing countries, or a subset of developing countries (based on data availability).",,constant 2012 US$ millions,"Sources vary by country: 
 Denmark: Denmark NationalBank (breakdown data only available for Africa, Turkey, Mexico, Argentina, Brazil, India, China, Malaysia and Thailand)
 France: Banque de France statistics (data are for the 43 developing countries with data on modalities from the Banque de France, representing around 97% of total investment in developing countries)
@@ -14,6 +15,7 @@ country-year,gdp-usd-current,GDP (Current US$),,USD,,,
 country-year,gni-usd-2005,GDP (Constant 2005 US$),,USD,,,
 country-year,gni-usd-current,GNI (Current US$),,USD,,,
 country-year,in_fdi,Inward Net Foreign Direct Investment,,constant 2012 US$ millions,UNCTAD Stat,,This dataset uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
+country-year,in_ha,"Inward humanitarian assistance, 2000-2012",,constant 2012 US$ millions,Global Humanitarian Assistance,,
 country-year,in_remittances,Inward remittances,,constant 2012 US$ millions,World Bank migration and remittances factbook,,This dataset uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
 country-year,in_shortdebt,Net inward disbursements on short-term debt,,constant 2012 US$ millions,World Bank International Debt Statistics,,This dataset uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012
 country-year,in_longdebt,Net inward disbursements on long-term debt,,constant 2012 US$ millions,Development Initiatives calculations based on World Bank International Debt Statistics,,"Disbursements on ODA and OOF loans have been subtracted from the official component of long-term debt disbursements. See methodology for details.
