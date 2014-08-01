@@ -1,4348 +1,4348 @@
-country,year,from_fdi_profits,country-name
-AE,1990,0.00,United Arab Emirates
-AE,1991,0.00,United Arab Emirates
-AE,1992,0.00,United Arab Emirates
-AE,1993,0.00,United Arab Emirates
-AE,1994,0.00,United Arab Emirates
-AE,1995,0.00,United Arab Emirates
-AE,1996,0.00,United Arab Emirates
-AE,1997,0.00,United Arab Emirates
-AE,1998,0.00,United Arab Emirates
-AE,1999,0.00,United Arab Emirates
-AE,2000,0.00,United Arab Emirates
-AE,2001,0.00,United Arab Emirates
-AE,2002,0.00,United Arab Emirates
-AE,2003,0.00,United Arab Emirates
-AE,2004,0.00,United Arab Emirates
-AE,2005,0.00,United Arab Emirates
-AE,2006,0.00,United Arab Emirates
-AE,2007,0.00,United Arab Emirates
-AE,2008,0.00,United Arab Emirates
-AE,2009,0.00,United Arab Emirates
-AE,2010,0.00,United Arab Emirates
-AE,2011,0.00,United Arab Emirates
-AE,2012,0.00,United Arab Emirates
-AF,1990,,Afghanistan
-AF,1991,,Afghanistan
-AF,1992,,Afghanistan
-AF,1993,,Afghanistan
-AF,1994,,Afghanistan
-AF,1995,,Afghanistan
-AF,1996,,Afghanistan
-AF,1997,,Afghanistan
-AF,1998,,Afghanistan
-AF,1999,,Afghanistan
-AF,2000,,Afghanistan
-AF,2001,,Afghanistan
-AF,2002,0.00,Afghanistan
-AF,2003,0.00,Afghanistan
-AF,2004,0.00,Afghanistan
-AF,2005,0.00,Afghanistan
-AF,2006,0.00,Afghanistan
-AF,2007,0.00,Afghanistan
-AF,2008,0.11,Afghanistan
-AF,2009,0.15,Afghanistan
-AF,2010,0.41,Afghanistan
-AF,2011,0.08,Afghanistan
-AF,2012,1.50,Afghanistan
-AG,1990,0.00,Antigua and Barbuda
-AG,1991,0.00,Antigua and Barbuda
-AG,1992,0.00,Antigua and Barbuda
-AG,1993,0.00,Antigua and Barbuda
-AG,1994,0.00,Antigua and Barbuda
-AG,1995,0.00,Antigua and Barbuda
-AG,1996,0.00,Antigua and Barbuda
-AG,1997,0.00,Antigua and Barbuda
-AG,1998,0.00,Antigua and Barbuda
-AG,1999,0.00,Antigua and Barbuda
-AG,2000,0.00,Antigua and Barbuda
-AG,2001,0.00,Antigua and Barbuda
-AG,2002,0.00,Antigua and Barbuda
-AG,2003,0.00,Antigua and Barbuda
-AG,2004,0.00,Antigua and Barbuda
-AG,2005,0.00,Antigua and Barbuda
-AG,2006,0.00,Antigua and Barbuda
-AG,2007,0.00,Antigua and Barbuda
-AG,2008,0.00,Antigua and Barbuda
-AG,2009,0.00,Antigua and Barbuda
-AG,2010,0.00,Antigua and Barbuda
-AG,2011,0.00,Antigua and Barbuda
-AG,2012,0.00,Antigua and Barbuda
-AL,1990,0.00,Albania
-AL,1991,0.00,Albania
-AL,1992,0.00,Albania
-AL,1993,0.00,Albania
-AL,1994,0.00,Albania
-AL,1995,7.74,Albania
-AL,1996,3.81,Albania
-AL,1997,4.92,Albania
-AL,1998,0.00,Albania
-AL,1999,0.00,Albania
-AL,2000,0.19,Albania
-AL,2001,0.18,Albania
-AL,2002,1.04,Albania
-AL,2003,1.40,Albania
-AL,2004,0.24,Albania
-AL,2005,2.38,Albania
-AL,2006,4.89,Albania
-AL,2007,8.15,Albania
-AL,2008,253.62,Albania
-AL,2009,417.40,Albania
-AL,2010,380.27,Albania
-AL,2011,109.19,Albania
-AL,2012,212.27,Albania
-AM,1990,,Armenia
-AM,1991,,Armenia
-AM,1992,0.00,Armenia
-AM,1993,0.00,Armenia
-AM,1994,0.00,Armenia
-AM,1995,0.00,Armenia
-AM,1996,6.95,Armenia
-AM,1997,23.75,Armenia
-AM,1998,39.01,Armenia
-AM,1999,29.06,Armenia
-AM,2000,46.79,Armenia
-AM,2001,7.51,Armenia
-AM,2002,28.00,Armenia
-AM,2003,72.21,Armenia
-AM,2004,263.56,Armenia
-AM,2005,254.57,Armenia
-AM,2006,318.13,Armenia
-AM,2007,341.16,Armenia
-AM,2008,242.03,Armenia
-AM,2009,332.84,Armenia
-AM,2010,348.60,Armenia
-AM,2011,345.61,Armenia
-AM,2012,334.89,Armenia
-AO,1990,1056.37,Angola
-AO,1991,1097.37,Angola
-AO,1992,1549.57,Angola
-AO,1993,1696.70,Angola
-AO,1994,2229.73,Angola
-AO,1995,2217.47,Angola
-AO,1996,2867.44,Angola
-AO,1997,2686.72,Angola
-AO,1998,2140.79,Angola
-AO,1999,4042.09,Angola
-AO,2000,3985.46,Angola
-AO,2001,4195.69,Angola
-AO,2002,4475.38,Angola
-AO,2003,4333.28,Angola
-AO,2004,5253.09,Angola
-AO,2005,7133.97,Angola
-AO,2006,9018.86,Angola
-AO,2007,10524.78,Angola
-AO,2008,15604.49,Angola
-AO,2009,8285.16,Angola
-AO,2010,9628.09,Angola
-AO,2011,9519.95,Angola
-AO,2012,9722.10,Angola
-AR,1990,835.26,Argentina
-AR,1991,871.65,Argentina
-AR,1992,1230.39,Argentina
-AR,1993,1817.20,Argentina
-AR,1994,1996.20,Argentina
-AR,1995,2035.05,Argentina
-AR,1996,1993.37,Argentina
-AR,1997,2633.90,Argentina
-AR,1998,2704.49,Argentina
-AR,1999,2091.19,Argentina
-AR,2000,3040.89,Argentina
-AR,2001,1391.31,Argentina
-AR,2002,2092.13,Argentina
-AR,2003,3315.95,Argentina
-AR,2004,6926.06,Argentina
-AR,2005,9304.58,Argentina
-AR,2006,11226.07,Argentina
-AR,2007,10206.38,Argentina
-AR,2008,9477.72,Argentina
-AR,2009,10728.70,Argentina
-AR,2010,11612.73,Argentina
-AR,2011,11339.77,Argentina
-AR,2012,9270.79,Argentina
-AT,1990,0.00,Austria
-AT,1991,0.00,Austria
-AT,1992,0.00,Austria
-AT,1993,0.00,Austria
-AT,1994,0.00,Austria
-AT,1995,0.00,Austria
-AT,1996,0.00,Austria
-AT,1997,0.00,Austria
-AT,1998,0.00,Austria
-AT,1999,0.00,Austria
-AT,2000,0.00,Austria
-AT,2001,0.00,Austria
-AT,2002,0.00,Austria
-AT,2003,0.00,Austria
-AT,2004,0.00,Austria
-AT,2005,0.00,Austria
-AT,2006,0.00,Austria
-AT,2007,0.00,Austria
-AT,2008,0.00,Austria
-AT,2009,0.00,Austria
-AT,2010,0.00,Austria
-AT,2011,0.00,Austria
-AT,2012,0.00,Austria
-AU,1990,0.00,Australia
-AU,1991,0.00,Australia
-AU,1992,0.00,Australia
-AU,1993,0.00,Australia
-AU,1994,0.00,Australia
-AU,1995,0.00,Australia
-AU,1996,0.00,Australia
-AU,1997,0.00,Australia
-AU,1998,0.00,Australia
-AU,1999,0.00,Australia
-AU,2000,0.00,Australia
-AU,2001,0.00,Australia
-AU,2002,0.00,Australia
-AU,2003,0.00,Australia
-AU,2004,0.00,Australia
-AU,2005,0.00,Australia
-AU,2006,0.00,Australia
-AU,2007,0.00,Australia
-AU,2008,0.00,Australia
-AU,2009,0.00,Australia
-AU,2010,0.00,Australia
-AU,2011,0.00,Australia
-AU,2012,0.00,Australia
-AZ,1990,,Azerbaijan
-AZ,1991,,Azerbaijan
-AZ,1992,0.00,Azerbaijan
-AZ,1993,0.00,Azerbaijan
-AZ,1994,0.00,Azerbaijan
-AZ,1995,0.04,Azerbaijan
-AZ,1996,0.00,Azerbaijan
-AZ,1997,25.92,Azerbaijan
-AZ,1998,28.11,Azerbaijan
-AZ,1999,7.37,Azerbaijan
-AZ,2000,1067.35,Azerbaijan
-AZ,2001,1089.13,Azerbaijan
-AZ,2002,1168.00,Azerbaijan
-AZ,2003,1309.95,Azerbaijan
-AZ,2004,1664.95,Azerbaijan
-AZ,2005,3754.12,Azerbaijan
-AZ,2006,5277.28,Azerbaijan
-AZ,2007,7978.79,Azerbaijan
-AZ,2008,6820.36,Azerbaijan
-AZ,2009,5294.92,Azerbaijan
-AZ,2010,4843.85,Azerbaijan
-AZ,2011,5693.82,Azerbaijan
-AZ,2012,4906.19,Azerbaijan
-BA,1990,,Bosnia-Herzegovina
-BA,1991,,Bosnia-Herzegovina
-BA,1992,,Bosnia-Herzegovina
-BA,1993,,Bosnia-Herzegovina
-BA,1994,,Bosnia-Herzegovina
-BA,1995,,Bosnia-Herzegovina
-BA,1996,,Bosnia-Herzegovina
-BA,1997,,Bosnia-Herzegovina
-BA,1998,0.00,Bosnia-Herzegovina
-BA,1999,0.00,Bosnia-Herzegovina
-BA,2000,0.00,Bosnia-Herzegovina
-BA,2001,4.49,Bosnia-Herzegovina
-BA,2002,8.87,Bosnia-Herzegovina
-BA,2003,15.67,Bosnia-Herzegovina
-BA,2004,81.70,Bosnia-Herzegovina
-BA,2005,129.40,Bosnia-Herzegovina
-BA,2006,217.19,Bosnia-Herzegovina
-BA,2007,368.47,Bosnia-Herzegovina
-BA,2008,172.81,Bosnia-Herzegovina
-BA,2009,-101.66,Bosnia-Herzegovina
-BA,2010,79.03,Bosnia-Herzegovina
-BA,2011,254.23,Bosnia-Herzegovina
-BA,2012,205.23,Bosnia-Herzegovina
-BB,1990,0.00,Barbados
-BB,1991,0.00,Barbados
-BB,1992,0.00,Barbados
-BB,1993,0.00,Barbados
-BB,1994,0.00,Barbados
-BB,1995,0.00,Barbados
-BB,1996,0.00,Barbados
-BB,1997,0.00,Barbados
-BB,1998,0.00,Barbados
-BB,1999,0.00,Barbados
-BB,2000,0.00,Barbados
-BB,2001,0.00,Barbados
-BB,2002,0.00,Barbados
-BB,2003,0.00,Barbados
-BB,2004,0.00,Barbados
-BB,2005,0.00,Barbados
-BB,2006,0.00,Barbados
-BB,2007,0.00,Barbados
-BB,2008,0.00,Barbados
-BB,2009,0.00,Barbados
-BB,2010,0.00,Barbados
-BB,2011,0.00,Barbados
-BB,2012,0.00,Barbados
-BD,1990,0.00,Bangladesh
-BD,1991,0.00,Bangladesh
-BD,1992,0.00,Bangladesh
-BD,1993,0.00,Bangladesh
-BD,1994,0.00,Bangladesh
-BD,1995,0.00,Bangladesh
-BD,1996,22.39,Bangladesh
-BD,1997,32.08,Bangladesh
-BD,1998,49.42,Bangladesh
-BD,1999,103.00,Bangladesh
-BD,2000,194.35,Bangladesh
-BD,2001,238.93,Bangladesh
-BD,2002,175.21,Bangladesh
-BD,2003,232.74,Bangladesh
-BD,2004,315.97,Bangladesh
-BD,2005,870.96,Bangladesh
-BD,2006,1005.88,Bangladesh
-BD,2007,1113.22,Bangladesh
-BD,2008,960.28,Bangladesh
-BD,2009,1191.37,Bangladesh
-BD,2010,1240.13,Bangladesh
-BD,2011,1318.96,Bangladesh
-BD,2012,1572.11,Bangladesh
-BE,1990,0.00,Belgium
-BE,1991,0.00,Belgium
-BE,1992,0.00,Belgium
-BE,1993,0.00,Belgium
-BE,1994,0.00,Belgium
-BE,1995,0.00,Belgium
-BE,1996,0.00,Belgium
-BE,1997,0.00,Belgium
-BE,1998,0.00,Belgium
-BE,1999,0.00,Belgium
-BE,2000,0.00,Belgium
-BE,2001,0.00,Belgium
-BE,2002,0.00,Belgium
-BE,2003,0.00,Belgium
-BE,2004,0.00,Belgium
-BE,2005,0.00,Belgium
-BE,2006,0.00,Belgium
-BE,2007,0.00,Belgium
-BE,2008,0.00,Belgium
-BE,2009,0.00,Belgium
-BE,2010,0.00,Belgium
-BE,2011,0.00,Belgium
-BE,2012,0.00,Belgium
-BF,1990,6.25,Burkina Faso
-BF,1991,2.25,Burkina Faso
-BF,1992,0.00,Burkina Faso
-BF,1993,0.00,Burkina Faso
-BF,1994,0.00,Burkina Faso
-BF,1995,0.00,Burkina Faso
-BF,1996,0.00,Burkina Faso
-BF,1997,0.00,Burkina Faso
-BF,1998,0.00,Burkina Faso
-BF,1999,0.00,Burkina Faso
-BF,2000,6.32,Burkina Faso
-BF,2001,9.52,Burkina Faso
-BF,2002,17.43,Burkina Faso
-BF,2003,16.69,Burkina Faso
-BF,2004,12.19,Burkina Faso
-BF,2005,9.06,Burkina Faso
-BF,2006,9.56,Burkina Faso
-BF,2007,13.57,Burkina Faso
-BF,2008,39.26,Burkina Faso
-BF,2009,36.87,Burkina Faso
-BF,2010,27.84,Burkina Faso
-BF,2011,0.00,Burkina Faso
-BF,2012,0.00,Burkina Faso
-BG,1990,0.00,Bulgaria
-BG,1991,0.00,Bulgaria
-BG,1992,0.00,Bulgaria
-BG,1993,0.00,Bulgaria
-BG,1994,0.00,Bulgaria
-BG,1995,0.00,Bulgaria
-BG,1996,0.00,Bulgaria
-BG,1997,0.00,Bulgaria
-BG,1998,132.20,Bulgaria
-BG,1999,-52.22,Bulgaria
-BG,2000,277.88,Bulgaria
-BG,2001,374.90,Bulgaria
-BG,2002,521.53,Bulgaria
-BG,2003,1027.15,Bulgaria
-BG,2004,1230.49,Bulgaria
-BG,2005,1380.65,Bulgaria
-BG,2006,2608.96,Bulgaria
-BG,2007,4411.66,Bulgaria
-BG,2008,2759.37,Bulgaria
-BG,2009,1870.53,Bulgaria
-BG,2010,1647.34,Bulgaria
-BG,2011,2401.14,Bulgaria
-BG,2012,2054.37,Bulgaria
-BH,1990,0.00,Bahrain
-BH,1991,0.00,Bahrain
-BH,1992,0.00,Bahrain
-BH,1993,0.00,Bahrain
-BH,1994,0.00,Bahrain
-BH,1995,0.00,Bahrain
-BH,1996,0.00,Bahrain
-BH,1997,0.00,Bahrain
-BH,1998,0.00,Bahrain
-BH,1999,0.00,Bahrain
-BH,2000,0.00,Bahrain
-BH,2001,0.00,Bahrain
-BH,2002,0.00,Bahrain
-BH,2003,0.00,Bahrain
-BH,2004,0.00,Bahrain
-BH,2005,0.00,Bahrain
-BH,2006,0.00,Bahrain
-BH,2007,0.00,Bahrain
-BH,2008,0.00,Bahrain
-BH,2009,0.00,Bahrain
-BH,2010,0.00,Bahrain
-BH,2011,0.00,Bahrain
-BH,2012,0.00,Bahrain
-BI,1990,4.47,Burundi
-BI,1991,3.01,Burundi
-BI,1992,6.47,Burundi
-BI,1993,4.79,Burundi
-BI,1994,5.53,Burundi
-BI,1995,4.29,Burundi
-BI,1996,2.01,Burundi
-BI,1997,0.75,Burundi
-BI,1998,0.03,Burundi
-BI,1999,0.03,Burundi
-BI,2000,0.66,Burundi
-BI,2001,2.71,Burundi
-BI,2002,0.00,Burundi
-BI,2003,10.23,Burundi
-BI,2004,12.86,Burundi
-BI,2005,3.56,Burundi
-BI,2006,5.20,Burundi
-BI,2007,7.16,Burundi
-BI,2008,0.00,Burundi
-BI,2009,0.00,Burundi
-BI,2010,0.00,Burundi
-BI,2011,0.00,Burundi
-BI,2012,0.00,Burundi
-BJ,1990,0.57,Benin
-BJ,1991,0.62,Benin
-BJ,1992,1.38,Benin
-BJ,1993,1.61,Benin
-BJ,1994,0.59,Benin
-BJ,1995,10.20,Benin
-BJ,1996,14.86,Benin
-BJ,1997,22.75,Benin
-BJ,1998,25.99,Benin
-BJ,1999,15.32,Benin
-BJ,2000,-1.51,Benin
-BJ,2001,0.50,Benin
-BJ,2002,23.56,Benin
-BJ,2003,34.29,Benin
-BJ,2004,18.67,Benin
-BJ,2005,11.91,Benin
-BJ,2006,18.87,Benin
-BJ,2007,60.15,Benin
-BJ,2008,29.14,Benin
-BJ,2009,32.29,Benin
-BJ,2010,57.79,Benin
-BJ,2011,0.00,Benin
-BJ,2012,0.00,Benin
-BN,1990,0.00,Brunei Darussalam
-BN,1991,0.00,Brunei Darussalam
-BN,1992,0.00,Brunei Darussalam
-BN,1993,0.00,Brunei Darussalam
-BN,1994,0.00,Brunei Darussalam
-BN,1995,0.00,Brunei Darussalam
-BN,1996,0.00,Brunei Darussalam
-BN,1997,0.00,Brunei Darussalam
-BN,1998,0.00,Brunei Darussalam
-BN,1999,0.00,Brunei Darussalam
-BN,2000,0.00,Brunei Darussalam
-BN,2001,0.00,Brunei Darussalam
-BN,2002,0.00,Brunei Darussalam
-BN,2003,0.00,Brunei Darussalam
-BN,2004,0.00,Brunei Darussalam
-BN,2005,0.00,Brunei Darussalam
-BN,2006,0.00,Brunei Darussalam
-BN,2007,0.00,Brunei Darussalam
-BN,2008,0.00,Brunei Darussalam
-BN,2009,0.00,Brunei Darussalam
-BN,2010,0.00,Brunei Darussalam
-BN,2011,0.00,Brunei Darussalam
-BN,2012,0.00,Brunei Darussalam
-BO,1990,40.74,Bolivia
-BO,1991,41.38,Bolivia
-BO,1992,44.25,Bolivia
-BO,1993,56.75,Bolivia
-BO,1994,45.64,Bolivia
-BO,1995,51.92,Bolivia
-BO,1996,80.73,Bolivia
-BO,1997,158.64,Bolivia
-BO,1998,156.92,Bolivia
-BO,1999,283.75,Bolivia
-BO,2000,298.92,Bolivia
-BO,2001,352.97,Bolivia
-BO,2002,407.52,Bolivia
-BO,2003,521.98,Bolivia
-BO,2004,625.77,Bolivia
-BO,2005,556.16,Bolivia
-BO,2006,700.42,Bolivia
-BO,2007,1049.93,Bolivia
-BO,2008,927.24,Bolivia
-BO,2009,1040.87,Bolivia
-BO,2010,1074.16,Bolivia
-BO,2011,1048.37,Bolivia
-BO,2012,1648.98,Bolivia
-BR,1990,4831.24,Brazil
-BR,1991,3098.18,Brazil
-BR,1992,2518.99,Brazil
-BR,1993,5642.79,Brazil
-BR,1994,5576.44,Brazil
-BR,1995,5025.03,Brazil
-BR,1996,6643.98,Brazil
-BR,1997,10109.33,Brazil
-BR,1998,11105.06,Brazil
-BR,1999,12773.27,Brazil
-BR,2000,9980.64,Brazil
-BR,2001,13894.66,Brazil
-BR,2002,18567.06,Brazil
-BR,2003,17303.27,Brazil
-BR,2004,17451.84,Brazil
-BR,2005,21793.26,Brazil
-BR,2006,23080.61,Brazil
-BR,2007,27677.89,Brazil
-BR,2008,35157.91,Brazil
-BR,2009,26104.14,Brazil
-BR,2010,26865.82,Brazil
-BR,2011,28513.71,Brazil
-BR,2012,24563.73,Brazil
-BS,1990,#N/A,The Bahamas
-BS,1991,#N/A,The Bahamas
-BS,1992,#N/A,The Bahamas
-BS,1993,#N/A,The Bahamas
-BS,1994,#N/A,The Bahamas
-BS,1995,#N/A,The Bahamas
-BS,1996,#N/A,The Bahamas
-BS,1997,#N/A,The Bahamas
-BS,1998,#N/A,The Bahamas
-BS,1999,#N/A,The Bahamas
-BS,2000,#N/A,The Bahamas
-BS,2001,#N/A,The Bahamas
-BS,2002,#N/A,The Bahamas
-BS,2003,#N/A,The Bahamas
-BS,2004,#N/A,The Bahamas
-BS,2005,#N/A,The Bahamas
-BS,2006,#N/A,The Bahamas
-BS,2007,#N/A,The Bahamas
-BS,2008,#N/A,The Bahamas
-BS,2009,#N/A,The Bahamas
-BS,2010,#N/A,The Bahamas
-BS,2011,#N/A,The Bahamas
-BS,2012,#N/A,The Bahamas
-BT,1990,0.00,Bhutan
-BT,1991,0.00,Bhutan
-BT,1992,0.00,Bhutan
-BT,1993,0.00,Bhutan
-BT,1994,0.00,Bhutan
-BT,1995,0.00,Bhutan
-BT,1996,0.00,Bhutan
-BT,1997,0.00,Bhutan
-BT,1998,0.00,Bhutan
-BT,1999,0.00,Bhutan
-BT,2000,0.00,Bhutan
-BT,2001,0.00,Bhutan
-BT,2002,0.00,Bhutan
-BT,2003,0.00,Bhutan
-BT,2004,0.00,Bhutan
-BT,2005,0.00,Bhutan
-BT,2006,0.53,Bhutan
-BT,2007,1.48,Bhutan
-BT,2008,3.61,Bhutan
-BT,2009,-0.96,Bhutan
-BT,2010,4.92,Bhutan
-BT,2011,4.02,Bhutan
-BT,2012,-0.22,Bhutan
-BW,1990,499.88,Botswana
-BW,1991,424.41,Botswana
-BW,1992,372.10,Botswana
-BW,1993,103.01,Botswana
-BW,1994,342.17,Botswana
-BW,1995,519.14,Botswana
-BW,1996,826.17,Botswana
-BW,1997,878.26,Botswana
-BW,1998,562.07,Botswana
-BW,1999,851.30,Botswana
-BW,2000,1014.78,Botswana
-BW,2001,559.28,Botswana
-BW,2002,1562.22,Botswana
-BW,2003,1326.01,Botswana
-BW,2004,1242.52,Botswana
-BW,2005,1136.81,Botswana
-BW,2006,1184.33,Botswana
-BW,2007,1232.57,Botswana
-BW,2008,1216.86,Botswana
-BW,2009,244.41,Botswana
-BW,2010,193.71,Botswana
-BW,2011,-112.84,Botswana
-BW,2012,427.94,Botswana
-BY,1990,,Belarus
-BY,1991,,Belarus
-BY,1992,0.00,Belarus
-BY,1993,0.00,Belarus
-BY,1994,0.00,Belarus
-BY,1995,0.00,Belarus
-BY,1996,0.00,Belarus
-BY,1997,13.03,Belarus
-BY,1998,31.79,Belarus
-BY,1999,1.58,Belarus
-BY,2000,12.82,Belarus
-BY,2001,32.73,Belarus
-BY,2002,58.64,Belarus
-BY,2003,71.87,Belarus
-BY,2004,124.53,Belarus
-BY,2005,185.98,Belarus
-BY,2006,292.85,Belarus
-BY,2007,478.13,Belarus
-BY,2008,616.54,Belarus
-BY,2009,973.90,Belarus
-BY,2010,1114.87,Belarus
-BY,2011,1241.23,Belarus
-BY,2012,1257.60,Belarus
-BZ,1990,10.17,Belize
-BZ,1991,12.45,Belize
-BZ,1992,16.70,Belize
-BZ,1993,16.41,Belize
-BZ,1994,16.74,Belize
-BZ,1995,9.64,Belize
-BZ,1996,31.00,Belize
-BZ,1997,28.87,Belize
-BZ,1998,35.69,Belize
-BZ,1999,28.00,Belize
-BZ,2000,36.74,Belize
-BZ,2001,40.11,Belize
-BZ,2002,39.15,Belize
-BZ,2003,37.80,Belize
-BZ,2004,50.63,Belize
-BZ,2005,40.74,Belize
-BZ,2006,57.80,Belize
-BZ,2007,92.54,Belize
-BZ,2008,111.42,Belize
-BZ,2009,60.21,Belize
-BZ,2010,108.53,Belize
-BZ,2011,40.70,Belize
-BZ,2012,68.28,Belize
-CA,1990,0.00,Canada
-CA,1991,0.00,Canada
-CA,1992,0.00,Canada
-CA,1993,0.00,Canada
-CA,1994,0.00,Canada
-CA,1995,0.00,Canada
-CA,1996,0.00,Canada
-CA,1997,0.00,Canada
-CA,1998,0.00,Canada
-CA,1999,0.00,Canada
-CA,2000,0.00,Canada
-CA,2001,0.00,Canada
-CA,2002,0.00,Canada
-CA,2003,0.00,Canada
-CA,2004,0.00,Canada
-CA,2005,0.00,Canada
-CA,2006,0.00,Canada
-CA,2007,0.00,Canada
-CA,2008,0.00,Canada
-CA,2009,0.00,Canada
-CA,2010,0.00,Canada
-CA,2011,0.00,Canada
-CA,2012,0.00,Canada
-CD,1990,0.00,"Congo, Dem. Rep."
-CD,1991,0.00,"Congo, Dem. Rep."
-CD,1992,0.00,"Congo, Dem. Rep."
-CD,1993,0.00,"Congo, Dem. Rep."
-CD,1994,0.00,"Congo, Dem. Rep."
-CD,1995,0.00,"Congo, Dem. Rep."
-CD,1996,0.00,"Congo, Dem. Rep."
-CD,1997,0.00,"Congo, Dem. Rep."
-CD,1998,0.00,"Congo, Dem. Rep."
-CD,1999,0.00,"Congo, Dem. Rep."
-CD,2000,0.00,"Congo, Dem. Rep."
-CD,2001,0.00,"Congo, Dem. Rep."
-CD,2002,0.00,"Congo, Dem. Rep."
-CD,2003,0.00,"Congo, Dem. Rep."
-CD,2004,0.00,"Congo, Dem. Rep."
-CD,2005,0.00,"Congo, Dem. Rep."
-CD,2006,0.00,"Congo, Dem. Rep."
-CD,2007,0.00,"Congo, Dem. Rep."
-CD,2008,0.00,"Congo, Dem. Rep."
-CD,2009,0.00,"Congo, Dem. Rep."
-CD,2010,153.71,"Congo, Dem. Rep."
-CD,2011,0.00,"Congo, Dem. Rep."
-CD,2012,0.00,"Congo, Dem. Rep."
-CF,1990,2.21,Central African Rep.
-CF,1991,1.59,Central African Rep.
-CF,1992,0.00,Central African Rep.
-CF,1993,0.00,Central African Rep.
-CF,1994,0.00,Central African Rep.
-CF,1995,0.00,Central African Rep.
-CF,1996,0.00,Central African Rep.
-CF,1997,0.00,Central African Rep.
-CF,1998,0.00,Central African Rep.
-CF,1999,0.00,Central African Rep.
-CF,2000,0.00,Central African Rep.
-CF,2001,0.00,Central African Rep.
-CF,2002,0.00,Central African Rep.
-CF,2003,0.00,Central African Rep.
-CF,2004,0.00,Central African Rep.
-CF,2005,0.00,Central African Rep.
-CF,2006,0.00,Central African Rep.
-CF,2007,0.00,Central African Rep.
-CF,2008,0.00,Central African Rep.
-CF,2009,0.00,Central African Rep.
-CF,2010,0.00,Central African Rep.
-CF,2011,0.00,Central African Rep.
-CF,2012,0.00,Central African Rep.
-CG,1990,0.00,"Congo, Rep."
-CG,1991,0.00,"Congo, Rep."
-CG,1992,0.00,"Congo, Rep."
-CG,1993,0.00,"Congo, Rep."
-CG,1994,0.00,"Congo, Rep."
-CG,1995,1108.19,"Congo, Rep."
-CG,1996,1351.89,"Congo, Rep."
-CG,1997,318.14,"Congo, Rep."
-CG,1998,-303.60,"Congo, Rep."
-CG,1999,576.85,"Congo, Rep."
-CG,2000,1171.53,"Congo, Rep."
-CG,2001,1109.50,"Congo, Rep."
-CG,2002,1664.79,"Congo, Rep."
-CG,2003,980.69,"Congo, Rep."
-CG,2004,1274.01,"Congo, Rep."
-CG,2005,2099.78,"Congo, Rep."
-CG,2006,1901.96,"Congo, Rep."
-CG,2007,2028.14,"Congo, Rep."
-CG,2008,0.00,"Congo, Rep."
-CG,2009,0.00,"Congo, Rep."
-CG,2010,0.00,"Congo, Rep."
-CG,2011,0.00,"Congo, Rep."
-CG,2012,0.00,"Congo, Rep."
-CH,1990,0.00,Switzerland
-CH,1991,0.00,Switzerland
-CH,1992,0.00,Switzerland
-CH,1993,0.00,Switzerland
-CH,1994,0.00,Switzerland
-CH,1995,0.00,Switzerland
-CH,1996,0.00,Switzerland
-CH,1997,0.00,Switzerland
-CH,1998,0.00,Switzerland
-CH,1999,0.00,Switzerland
-CH,2000,0.00,Switzerland
-CH,2001,0.00,Switzerland
-CH,2002,0.00,Switzerland
-CH,2003,0.00,Switzerland
-CH,2004,0.00,Switzerland
-CH,2005,0.00,Switzerland
-CH,2006,0.00,Switzerland
-CH,2007,0.00,Switzerland
-CH,2008,0.00,Switzerland
-CH,2009,0.00,Switzerland
-CH,2010,0.00,Switzerland
-CH,2011,0.00,Switzerland
-CH,2012,0.00,Switzerland
-CI,1990,106.30,Cote d'Ivoire
-CI,1991,57.98,Cote d'Ivoire
-CI,1992,62.65,Cote d'Ivoire
-CI,1993,82.27,Cote d'Ivoire
-CI,1994,169.02,Cote d'Ivoire
-CI,1995,338.25,Cote d'Ivoire
-CI,1996,364.82,Cote d'Ivoire
-CI,1997,400.93,Cote d'Ivoire
-CI,1998,494.37,Cote d'Ivoire
-CI,1999,589.20,Cote d'Ivoire
-CI,2000,575.57,Cote d'Ivoire
-CI,2001,540.79,Cote d'Ivoire
-CI,2002,513.02,Cote d'Ivoire
-CI,2003,498.41,Cote d'Ivoire
-CI,2004,488.62,Cote d'Ivoire
-CI,2005,479.12,Cote d'Ivoire
-CI,2006,587.62,Cote d'Ivoire
-CI,2007,581.36,Cote d'Ivoire
-CI,2008,549.28,Cote d'Ivoire
-CI,2009,586.24,Cote d'Ivoire
-CI,2010,577.70,Cote d'Ivoire
-CI,2011,0.00,Cote d'Ivoire
-CI,2012,0.00,Cote d'Ivoire
-CL,1990,0.00,Chile
-CL,1991,0.00,Chile
-CL,1992,0.00,Chile
-CL,1993,0.00,Chile
-CL,1994,0.00,Chile
-CL,1995,0.00,Chile
-CL,1996,0.00,Chile
-CL,1997,0.00,Chile
-CL,1998,0.00,Chile
-CL,1999,0.00,Chile
-CL,2000,0.00,Chile
-CL,2001,0.00,Chile
-CL,2002,0.00,Chile
-CL,2003,0.00,Chile
-CL,2004,0.00,Chile
-CL,2005,0.00,Chile
-CL,2006,0.00,Chile
-CL,2007,0.00,Chile
-CL,2008,0.00,Chile
-CL,2009,0.00,Chile
-CL,2010,0.00,Chile
-CL,2011,0.00,Chile
-CL,2012,0.00,Chile
-CM,1990,159.78,Cameroon
-CM,1991,87.20,Cameroon
-CM,1992,147.39,Cameroon
-CM,1993,108.16,Cameroon
-CM,1994,39.18,Cameroon
-CM,1995,30.41,Cameroon
-CM,1996,67.87,Cameroon
-CM,1997,88.57,Cameroon
-CM,1998,129.32,Cameroon
-CM,1999,108.60,Cameroon
-CM,2000,73.95,Cameroon
-CM,2001,98.00,Cameroon
-CM,2002,149.70,Cameroon
-CM,2003,172.24,Cameroon
-CM,2004,231.60,Cameroon
-CM,2005,349.50,Cameroon
-CM,2006,11.35,Cameroon
-CM,2007,402.13,Cameroon
-CM,2008,153.30,Cameroon
-CM,2009,442.68,Cameroon
-CM,2010,170.92,Cameroon
-CM,2011,267.70,Cameroon
-CM,2012,503.42,Cameroon
-CN,1990,112.78,China
-CN,1991,25.53,China
-CN,1992,53.78,China
-CN,1993,512.37,China
-CN,1994,1100.16,China
-CN,1995,23327.88,China
-CN,1996,25605.32,China
-CN,1997,28663.35,China
-CN,1998,34801.62,China
-CN,1999,35247.54,China
-CN,2000,43504.00,China
-CN,2001,45345.80,China
-CN,2002,37385.51,China
-CN,2003,40347.08,China
-CN,2004,36401.34,China
-CN,2005,86649.83,China
-CN,2006,84453.32,China
-CN,2007,93676.76,China
-CN,2008,93177.57,China
-CN,2009,134435.40,China
-CN,2010,188265.51,China
-CN,2011,213478.24,China
-CN,2012,187502.02,China
-CO,1990,2941.58,Colombia
-CO,1991,2695.56,Colombia
-CO,1992,2779.44,Colombia
-CO,1993,2581.03,Colombia
-CO,1994,1015.54,Colombia
-CO,1995,693.32,Colombia
-CO,1996,1171.38,Colombia
-CO,1997,1142.39,Colombia
-CO,1998,-61.08,Colombia
-CO,1999,-646.75,Colombia
-CO,2000,1464.03,Colombia
-CO,2001,2133.64,Colombia
-CO,2002,2511.40,Colombia
-CO,2003,3869.27,Colombia
-CO,2004,5290.40,Colombia
-CO,2005,6482.66,Colombia
-CO,2006,8030.03,Colombia
-CO,2007,9671.88,Colombia
-CO,2008,11234.05,Colombia
-CO,2009,10439.96,Colombia
-CO,2010,11545.24,Colombia
-CO,2011,15566.78,Colombia
-CO,2012,15318.11,Colombia
-CR,1990,169.62,Costa Rica
-CR,1991,150.19,Costa Rica
-CR,1992,194.19,Costa Rica
-CR,1993,204.59,Costa Rica
-CR,1994,125.06,Costa Rica
-CR,1995,197.14,Costa Rica
-CR,1996,161.13,Costa Rica
-CR,1997,315.69,Costa Rica
-CR,1998,664.31,Costa Rica
-CR,1999,2892.89,Costa Rica
-CR,2000,1929.70,Costa Rica
-CR,2001,940.38,Costa Rica
-CR,2002,579.89,Costa Rica
-CR,2003,1096.60,Costa Rica
-CR,2004,551.66,Costa Rica
-CR,2005,1226.17,Costa Rica
-CR,2006,1357.26,Costa Rica
-CR,2007,1662.74,Costa Rica
-CR,2008,998.39,Costa Rica
-CR,2009,1320.18,Costa Rica
-CR,2010,689.50,Costa Rica
-CR,2011,788.22,Costa Rica
-CR,2012,1045.52,Costa Rica
-CV,1990,#N/A,Cape Verde
-CV,1991,#N/A,Cape Verde
-CV,1992,#N/A,Cape Verde
-CV,1993,#N/A,Cape Verde
-CV,1994,#N/A,Cape Verde
-CV,1995,#N/A,Cape Verde
-CV,1996,#N/A,Cape Verde
-CV,1997,#N/A,Cape Verde
-CV,1998,#N/A,Cape Verde
-CV,1999,#N/A,Cape Verde
-CV,2000,#N/A,Cape Verde
-CV,2001,#N/A,Cape Verde
-CV,2002,#N/A,Cape Verde
-CV,2003,#N/A,Cape Verde
-CV,2004,#N/A,Cape Verde
-CV,2005,#N/A,Cape Verde
-CV,2006,#N/A,Cape Verde
-CV,2007,#N/A,Cape Verde
-CV,2008,#N/A,Cape Verde
-CV,2009,#N/A,Cape Verde
-CV,2010,#N/A,Cape Verde
-CV,2011,#N/A,Cape Verde
-CV,2012,#N/A,Cape Verde
-CY,1990,0.00,Cyprus
-CY,1991,0.00,Cyprus
-CY,1992,0.00,Cyprus
-CY,1993,0.00,Cyprus
-CY,1994,0.00,Cyprus
-CY,1995,0.00,Cyprus
-CY,1996,0.00,Cyprus
-CY,1997,0.00,Cyprus
-CY,1998,0.00,Cyprus
-CY,1999,0.00,Cyprus
-CY,2000,0.00,Cyprus
-CY,2001,0.00,Cyprus
-CY,2002,0.00,Cyprus
-CY,2003,0.00,Cyprus
-CY,2004,0.00,Cyprus
-CY,2005,0.00,Cyprus
-CY,2006,0.00,Cyprus
-CY,2007,0.00,Cyprus
-CY,2008,0.00,Cyprus
-CY,2009,0.00,Cyprus
-CY,2010,0.00,Cyprus
-CY,2011,0.00,Cyprus
-CY,2012,0.00,Cyprus
-CZ,1990,,Czech Republic
-CZ,1991,,Czech Republic
-CZ,1992,,Czech Republic
-CZ,1993,,Czech Republic
-CZ,1994,,Czech Republic
-CZ,1995,0.00,Czech Republic
-CZ,1996,0.00,Czech Republic
-CZ,1997,0.00,Czech Republic
-CZ,1998,0.00,Czech Republic
-CZ,1999,0.00,Czech Republic
-CZ,2000,0.00,Czech Republic
-CZ,2001,0.00,Czech Republic
-CZ,2002,0.00,Czech Republic
-CZ,2003,0.00,Czech Republic
-CZ,2004,0.00,Czech Republic
-CZ,2005,0.00,Czech Republic
-CZ,2006,0.00,Czech Republic
-CZ,2007,0.00,Czech Republic
-CZ,2008,0.00,Czech Republic
-CZ,2009,0.00,Czech Republic
-CZ,2010,0.00,Czech Republic
-CZ,2011,0.00,Czech Republic
-CZ,2012,0.00,Czech Republic
-DE,1990,0.00,Germany
-DE,1991,0.00,Germany
-DE,1992,0.00,Germany
-DE,1993,0.00,Germany
-DE,1994,0.00,Germany
-DE,1995,0.00,Germany
-DE,1996,0.00,Germany
-DE,1997,0.00,Germany
-DE,1998,0.00,Germany
-DE,1999,0.00,Germany
-DE,2000,0.00,Germany
-DE,2001,0.00,Germany
-DE,2002,0.00,Germany
-DE,2003,0.00,Germany
-DE,2004,0.00,Germany
-DE,2005,0.00,Germany
-DE,2006,0.00,Germany
-DE,2007,0.00,Germany
-DE,2008,0.00,Germany
-DE,2009,0.00,Germany
-DE,2010,0.00,Germany
-DE,2011,0.00,Germany
-DE,2012,0.00,Germany
-DJ,1990,,Djibouti
-DJ,1991,6.96,Djibouti
-DJ,1992,6.72,Djibouti
-DJ,1993,4.98,Djibouti
-DJ,1994,5.18,Djibouti
-DJ,1995,8.03,Djibouti
-DJ,1996,7.93,Djibouti
-DJ,1997,7.34,Djibouti
-DJ,1998,6.96,Djibouti
-DJ,1999,6.33,Djibouti
-DJ,2000,6.35,Djibouti
-DJ,2001,6.44,Djibouti
-DJ,2002,6.53,Djibouti
-DJ,2003,8.76,Djibouti
-DJ,2004,8.47,Djibouti
-DJ,2005,8.08,Djibouti
-DJ,2006,7.81,Djibouti
-DJ,2007,5.39,Djibouti
-DJ,2008,5.83,Djibouti
-DJ,2009,7.45,Djibouti
-DJ,2010,7.44,Djibouti
-DJ,2011,18.79,Djibouti
-DJ,2012,7.25,Djibouti
-DK,1990,0.00,Denmark
-DK,1991,0.00,Denmark
-DK,1992,0.00,Denmark
-DK,1993,0.00,Denmark
-DK,1994,0.00,Denmark
-DK,1995,0.00,Denmark
-DK,1996,0.00,Denmark
-DK,1997,0.00,Denmark
-DK,1998,0.00,Denmark
-DK,1999,0.00,Denmark
-DK,2000,0.00,Denmark
-DK,2001,0.00,Denmark
-DK,2002,0.00,Denmark
-DK,2003,0.00,Denmark
-DK,2004,0.00,Denmark
-DK,2005,0.00,Denmark
-DK,2006,0.00,Denmark
-DK,2007,0.00,Denmark
-DK,2008,0.00,Denmark
-DK,2009,0.00,Denmark
-DK,2010,0.00,Denmark
-DK,2011,0.00,Denmark
-DK,2012,0.00,Denmark
-DM,1990,8.58,Dominica
-DM,1991,9.58,Dominica
-DM,1992,9.14,Dominica
-DM,1993,7.71,Dominica
-DM,1994,12.87,Dominica
-DM,1995,16.04,Dominica
-DM,1996,21.59,Dominica
-DM,1997,19.54,Dominica
-DM,1998,18.42,Dominica
-DM,1999,27.24,Dominica
-DM,2000,39.72,Dominica
-DM,2001,22.31,Dominica
-DM,2002,21.39,Dominica
-DM,2003,19.22,Dominica
-DM,2004,25.37,Dominica
-DM,2005,26.70,Dominica
-DM,2006,8.46,Dominica
-DM,2007,14.60,Dominica
-DM,2008,13.84,Dominica
-DM,2009,13.71,Dominica
-DM,2010,8.22,Dominica
-DM,2011,5.09,Dominica
-DM,2012,5.18,Dominica
-DO,1990,202.83,Dominican Republic
-DO,1991,223.02,Dominican Republic
-DO,1992,352.85,Dominican Republic
-DO,1993,857.40,Dominican Republic
-DO,1994,873.95,Dominican Republic
-DO,1995,934.63,Dominican Republic
-DO,1996,884.00,Dominican Republic
-DO,1997,994.88,Dominican Republic
-DO,1998,1169.13,Dominican Republic
-DO,1999,1362.28,Dominican Republic
-DO,2000,1444.19,Dominican Republic
-DO,2001,1446.46,Dominican Republic
-DO,2002,1522.94,Dominican Republic
-DO,2003,2290.81,Dominican Republic
-DO,2004,2668.20,Dominican Republic
-DO,2005,2011.91,Dominican Republic
-DO,2006,2301.11,Dominican Republic
-DO,2007,2465.50,Dominican Republic
-DO,2008,1778.76,Dominican Republic
-DO,2009,1638.52,Dominican Republic
-DO,2010,1609.26,Dominican Republic
-DO,2011,1840.76,Dominican Republic
-DO,2012,1883.90,Dominican Republic
-DZ,1990,269.99,Algeria
-DZ,1991,774.12,Algeria
-DZ,1992,0.00,Algeria
-DZ,1993,0.00,Algeria
-DZ,1994,0.00,Algeria
-DZ,1995,0.00,Algeria
-DZ,1996,0.00,Algeria
-DZ,1997,0.00,Algeria
-DZ,1998,0.00,Algeria
-DZ,1999,0.00,Algeria
-DZ,2000,0.00,Algeria
-DZ,2001,0.00,Algeria
-DZ,2002,0.00,Algeria
-DZ,2003,0.00,Algeria
-DZ,2004,0.00,Algeria
-DZ,2005,9021.67,Algeria
-DZ,2006,9284.19,Algeria
-DZ,2007,7144.59,Algeria
-DZ,2008,6628.04,Algeria
-DZ,2009,7979.46,Algeria
-DZ,2010,5792.08,Algeria
-DZ,2011,6264.65,Algeria
-DZ,2012,7452.94,Algeria
-EC,1990,416.38,Ecuador
-EC,1991,399.41,Ecuador
-EC,1992,384.39,Ecuador
-EC,1993,240.50,Ecuador
-EC,1994,314.32,Ecuador
-EC,1995,302.79,Ecuador
-EC,1996,386.38,Ecuador
-EC,1997,368.42,Ecuador
-EC,1998,443.85,Ecuador
-EC,1999,635.79,Ecuador
-EC,2000,915.88,Ecuador
-EC,2001,832.38,Ecuador
-EC,2002,793.73,Ecuador
-EC,2003,1052.12,Ecuador
-EC,2004,1635.21,Ecuador
-EC,2005,1580.79,Ecuador
-EC,2006,1424.94,Ecuador
-EC,2007,1585.77,Ecuador
-EC,2008,942.74,Ecuador
-EC,2009,979.59,Ecuador
-EC,2010,605.73,Ecuador
-EC,2011,731.36,Ecuador
-EC,2012,675.54,Ecuador
-EE,1990,,Estonia
-EE,1991,,Estonia
-EE,1992,,Estonia
-EE,1993,0.00,Estonia
-EE,1994,0.00,Estonia
-EE,1995,0.00,Estonia
-EE,1996,0.00,Estonia
-EE,1997,0.00,Estonia
-EE,1998,0.00,Estonia
-EE,1999,0.00,Estonia
-EE,2000,0.00,Estonia
-EE,2001,0.00,Estonia
-EE,2002,0.00,Estonia
-EE,2003,0.00,Estonia
-EE,2004,0.00,Estonia
-EE,2005,0.00,Estonia
-EE,2006,0.00,Estonia
-EE,2007,0.00,Estonia
-EE,2008,0.00,Estonia
-EE,2009,0.00,Estonia
-EE,2010,0.00,Estonia
-EE,2011,0.00,Estonia
-EE,2012,0.00,Estonia
-EG,1990,15.02,Egypt
-EG,1991,15.78,Egypt
-EG,1992,34.71,Egypt
-EG,1993,29.58,Egypt
-EG,1994,708.09,Egypt
-EG,1995,442.12,Egypt
-EG,1996,61.51,Egypt
-EG,1997,192.18,Egypt
-EG,1998,220.18,Egypt
-EG,1999,164.27,Egypt
-EG,2000,143.92,Egypt
-EG,2001,46.94,Egypt
-EG,2002,173.19,Egypt
-EG,2003,100.33,Egypt
-EG,2004,126.18,Egypt
-EG,2005,1350.07,Egypt
-EG,2006,1700.99,Egypt
-EG,2007,1663.72,Egypt
-EG,2008,958.19,Egypt
-EG,2009,2670.32,Egypt
-EG,2010,6070.96,Egypt
-EG,2011,5532.05,Egypt
-EG,2012,5703.90,Egypt
-ER,1990,,Eritrea
-ER,1991,,Eritrea
-ER,1992,0.00,Eritrea
-ER,1993,0.00,Eritrea
-ER,1994,0.00,Eritrea
-ER,1995,0.00,Eritrea
-ER,1996,0.00,Eritrea
-ER,1997,0.00,Eritrea
-ER,1998,1.49,Eritrea
-ER,1999,2.78,Eritrea
-ER,2000,15.25,Eritrea
-ER,2001,0.00,Eritrea
-ER,2002,0.00,Eritrea
-ER,2003,0.00,Eritrea
-ER,2004,0.00,Eritrea
-ER,2005,0.00,Eritrea
-ER,2006,0.00,Eritrea
-ER,2007,0.00,Eritrea
-ER,2008,0.00,Eritrea
-ER,2009,0.00,Eritrea
-ER,2010,0.00,Eritrea
-ER,2011,0.00,Eritrea
-ER,2012,0.00,Eritrea
-ES,1990,0.00,Spain
-ES,1991,0.00,Spain
-ES,1992,0.00,Spain
-ES,1993,0.00,Spain
-ES,1994,0.00,Spain
-ES,1995,0.00,Spain
-ES,1996,0.00,Spain
-ES,1997,0.00,Spain
-ES,1998,0.00,Spain
-ES,1999,0.00,Spain
-ES,2000,0.00,Spain
-ES,2001,0.00,Spain
-ES,2002,0.00,Spain
-ES,2003,0.00,Spain
-ES,2004,0.00,Spain
-ES,2005,0.00,Spain
-ES,2006,0.00,Spain
-ES,2007,0.00,Spain
-ES,2008,0.00,Spain
-ES,2009,0.00,Spain
-ES,2010,0.00,Spain
-ES,2011,0.00,Spain
-ES,2012,0.00,Spain
-ET,1990,0.00,Ethiopia
-ET,1991,0.00,Ethiopia
-ET,1992,0.00,Ethiopia
-ET,1993,0.00,Ethiopia
-ET,1994,0.00,Ethiopia
-ET,1995,0.00,Ethiopia
-ET,1996,3.05,Ethiopia
-ET,1997,11.78,Ethiopia
-ET,1998,11.52,Ethiopia
-ET,1999,3.69,Ethiopia
-ET,2000,17.89,Ethiopia
-ET,2001,24.09,Ethiopia
-ET,2002,24.45,Ethiopia
-ET,2003,33.02,Ethiopia
-ET,2004,51.89,Ethiopia
-ET,2005,36.70,Ethiopia
-ET,2006,36.63,Ethiopia
-ET,2007,24.32,Ethiopia
-ET,2008,18.35,Ethiopia
-ET,2009,17.66,Ethiopia
-ET,2010,42.00,Ethiopia
-ET,2011,28.07,Ethiopia
-ET,2012,5.91,Ethiopia
-FI,1990,0.00,Finland
-FI,1991,0.00,Finland
-FI,1992,0.00,Finland
-FI,1993,0.00,Finland
-FI,1994,0.00,Finland
-FI,1995,0.00,Finland
-FI,1996,0.00,Finland
-FI,1997,0.00,Finland
-FI,1998,0.00,Finland
-FI,1999,0.00,Finland
-FI,2000,0.00,Finland
-FI,2001,0.00,Finland
-FI,2002,0.00,Finland
-FI,2003,0.00,Finland
-FI,2004,0.00,Finland
-FI,2005,0.00,Finland
-FI,2006,0.00,Finland
-FI,2007,0.00,Finland
-FI,2008,0.00,Finland
-FI,2009,0.00,Finland
-FI,2010,0.00,Finland
-FI,2011,0.00,Finland
-FI,2012,0.00,Finland
-FJ,1990,88.83,Fiji
-FJ,1991,85.73,Fiji
-FJ,1992,99.78,Fiji
-FJ,1993,100.87,Fiji
-FJ,1994,133.42,Fiji
-FJ,1995,118.06,Fiji
-FJ,1996,114.21,Fiji
-FJ,1997,123.26,Fiji
-FJ,1998,181.45,Fiji
-FJ,1999,122.41,Fiji
-FJ,2000,13.88,Fiji
-FJ,2001,110.99,Fiji
-FJ,2002,96.15,Fiji
-FJ,2003,122.15,Fiji
-FJ,2004,180.92,Fiji
-FJ,2005,161.99,Fiji
-FJ,2006,196.30,Fiji
-FJ,2007,138.25,Fiji
-FJ,2008,126.04,Fiji
-FJ,2009,59.90,Fiji
-FJ,2010,168.40,Fiji
-FJ,2011,0.00,Fiji
-FJ,2012,0.00,Fiji
-FM,1990,,"Micronesia, Fed. States"
-FM,1991,,"Micronesia, Fed. States"
-FM,1992,,"Micronesia, Fed. States"
-FM,1993,,"Micronesia, Fed. States"
-FM,1994,,"Micronesia, Fed. States"
-FM,1995,0.00,"Micronesia, Fed. States"
-FM,1996,0.00,"Micronesia, Fed. States"
-FM,1997,0.00,"Micronesia, Fed. States"
-FM,1998,0.00,"Micronesia, Fed. States"
-FM,1999,0.00,"Micronesia, Fed. States"
-FM,2000,0.00,"Micronesia, Fed. States"
-FM,2001,0.00,"Micronesia, Fed. States"
-FM,2002,0.00,"Micronesia, Fed. States"
-FM,2003,0.00,"Micronesia, Fed. States"
-FM,2004,0.00,"Micronesia, Fed. States"
-FM,2005,0.00,"Micronesia, Fed. States"
-FM,2006,0.00,"Micronesia, Fed. States"
-FM,2007,0.00,"Micronesia, Fed. States"
-FM,2008,0.00,"Micronesia, Fed. States"
-FM,2009,0.00,"Micronesia, Fed. States"
-FM,2010,0.00,"Micronesia, Fed. States"
-FM,2011,0.00,"Micronesia, Fed. States"
-FM,2012,0.00,"Micronesia, Fed. States"
-FR,1990,0.00,France
-FR,1991,0.00,France
-FR,1992,0.00,France
-FR,1993,0.00,France
-FR,1994,0.00,France
-FR,1995,0.00,France
-FR,1996,0.00,France
-FR,1997,0.00,France
-FR,1998,0.00,France
-FR,1999,0.00,France
-FR,2000,0.00,France
-FR,2001,0.00,France
-FR,2002,0.00,France
-FR,2003,0.00,France
-FR,2004,0.00,France
-FR,2005,0.00,France
-FR,2006,0.00,France
-FR,2007,0.00,France
-FR,2008,0.00,France
-FR,2009,0.00,France
-FR,2010,0.00,France
-FR,2011,0.00,France
-FR,2012,0.00,France
-GA,1990,208.64,Gabon
-GA,1991,296.30,Gabon
-GA,1992,306.80,Gabon
-GA,1993,344.15,Gabon
-GA,1994,369.50,Gabon
-GA,1995,591.94,Gabon
-GA,1996,872.06,Gabon
-GA,1997,843.57,Gabon
-GA,1998,554.47,Gabon
-GA,1999,622.83,Gabon
-GA,2000,1172.63,Gabon
-GA,2001,525.46,Gabon
-GA,2002,770.03,Gabon
-GA,2003,764.61,Gabon
-GA,2004,1308.03,Gabon
-GA,2005,1133.25,Gabon
-GA,2006,0.00,Gabon
-GA,2007,0.00,Gabon
-GA,2008,0.00,Gabon
-GA,2009,0.00,Gabon
-GA,2010,0.00,Gabon
-GA,2011,0.00,Gabon
-GA,2012,0.00,Gabon
-GB,1990,0.00,United Kingdom
-GB,1991,0.00,United Kingdom
-GB,1992,0.00,United Kingdom
-GB,1993,0.00,United Kingdom
-GB,1994,0.00,United Kingdom
-GB,1995,0.00,United Kingdom
-GB,1996,0.00,United Kingdom
-GB,1997,0.00,United Kingdom
-GB,1998,0.00,United Kingdom
-GB,1999,0.00,United Kingdom
-GB,2000,0.00,United Kingdom
-GB,2001,0.00,United Kingdom
-GB,2002,0.00,United Kingdom
-GB,2003,0.00,United Kingdom
-GB,2004,0.00,United Kingdom
-GB,2005,0.00,United Kingdom
-GB,2006,0.00,United Kingdom
-GB,2007,0.00,United Kingdom
-GB,2008,0.00,United Kingdom
-GB,2009,0.00,United Kingdom
-GB,2010,0.00,United Kingdom
-GB,2011,0.00,United Kingdom
-GB,2012,0.00,United Kingdom
-GD,1990,14.23,Grenada
-GD,1991,9.22,Grenada
-GD,1992,9.35,Grenada
-GD,1993,10.79,Grenada
-GD,1994,11.15,Grenada
-GD,1995,18.01,Grenada
-GD,1996,19.62,Grenada
-GD,1997,21.11,Grenada
-GD,1998,26.48,Grenada
-GD,1999,27.78,Grenada
-GD,2000,36.32,Grenada
-GD,2001,43.03,Grenada
-GD,2002,41.00,Grenada
-GD,2003,33.35,Grenada
-GD,2004,31.16,Grenada
-GD,2005,27.76,Grenada
-GD,2006,25.69,Grenada
-GD,2007,40.63,Grenada
-GD,2008,33.46,Grenada
-GD,2009,58.50,Grenada
-GD,2010,32.37,Grenada
-GD,2011,21.58,Grenada
-GD,2012,21.00,Grenada
-GE,1990,,Georgia
-GE,1991,,Georgia
-GE,1992,,Georgia
-GE,1993,,Georgia
-GE,1994,0.00,Georgia
-GE,1995,0.00,Georgia
-GE,1996,0.00,Georgia
-GE,1997,5.52,Georgia
-GE,1998,0.00,Georgia
-GE,1999,0.80,Georgia
-GE,2000,90.36,Georgia
-GE,2001,122.39,Georgia
-GE,2002,188.21,Georgia
-GE,2003,207.53,Georgia
-GE,2004,193.23,Georgia
-GE,2005,196.42,Georgia
-GE,2006,144.49,Georgia
-GE,2007,389.38,Georgia
-GE,2008,381.55,Georgia
-GE,2009,318.68,Georgia
-GE,2010,562.58,Georgia
-GE,2011,827.34,Georgia
-GE,2012,747.23,Georgia
-GH,1990,9.41,Ghana
-GH,1991,8.64,Ghana
-GH,1992,10.61,Ghana
-GH,1993,14.07,Ghana
-GH,1994,18.96,Ghana
-GH,1995,30.12,Ghana
-GH,1996,56.64,Ghana
-GH,1997,49.43,Ghana
-GH,1998,39.04,Ghana
-GH,1999,34.11,Ghana
-GH,2000,42.60,Ghana
-GH,2001,46.67,Ghana
-GH,2002,140.28,Ghana
-GH,2003,115.46,Ghana
-GH,2004,141.15,Ghana
-GH,2005,128.28,Ghana
-GH,2006,112.65,Ghana
-GH,2007,360.49,Ghana
-GH,2008,-81.70,Ghana
-GH,2009,579.19,Ghana
-GH,2010,400.49,Ghana
-GH,2011,1026.87,Ghana
-GH,2012,1914.53,Ghana
-GM,1990,0.00,Gambia
-GM,1991,0.00,Gambia
-GM,1992,0.00,Gambia
-GM,1993,0.00,Gambia
-GM,1994,0.00,Gambia
-GM,1995,0.00,Gambia
-GM,1996,0.00,Gambia
-GM,1997,0.00,Gambia
-GM,1998,0.00,Gambia
-GM,1999,0.00,Gambia
-GM,2000,0.00,Gambia
-GM,2001,0.00,Gambia
-GM,2002,0.00,Gambia
-GM,2003,25.61,Gambia
-GM,2004,26.81,Gambia
-GM,2005,30.89,Gambia
-GM,2006,36.40,Gambia
-GM,2007,36.17,Gambia
-GM,2008,35.27,Gambia
-GM,2009,11.00,Gambia
-GM,2010,10.72,Gambia
-GM,2011,10.78,Gambia
-GM,2012,10.25,Gambia
-GN,1990,62.11,Guinea
-GN,1991,83.94,Guinea
-GN,1992,51.96,Guinea
-GN,1993,24.02,Guinea
-GN,1994,14.68,Guinea
-GN,1995,20.60,Guinea
-GN,1996,31.80,Guinea
-GN,1997,44.14,Guinea
-GN,1998,63.36,Guinea
-GN,1999,37.06,Guinea
-GN,2000,11.03,Guinea
-GN,2001,63.52,Guinea
-GN,2002,1.67,Guinea
-GN,2003,102.02,Guinea
-GN,2004,0.00,Guinea
-GN,2005,0.00,Guinea
-GN,2006,0.00,Guinea
-GN,2007,63.58,Guinea
-GN,2008,16.14,Guinea
-GN,2009,96.79,Guinea
-GN,2010,0.28,Guinea
-GN,2011,27.45,Guinea
-GN,2012,38.95,Guinea
-GQ,1990,0.00,Equatorial Guinea
-GQ,1991,0.00,Equatorial Guinea
-GQ,1992,0.00,Equatorial Guinea
-GQ,1993,0.00,Equatorial Guinea
-GQ,1994,0.00,Equatorial Guinea
-GQ,1995,0.00,Equatorial Guinea
-GQ,1996,0.00,Equatorial Guinea
-GQ,1997,0.00,Equatorial Guinea
-GQ,1998,0.00,Equatorial Guinea
-GQ,1999,0.00,Equatorial Guinea
-GQ,2000,0.00,Equatorial Guinea
-GQ,2001,0.00,Equatorial Guinea
-GQ,2002,0.00,Equatorial Guinea
-GQ,2003,0.00,Equatorial Guinea
-GQ,2004,0.00,Equatorial Guinea
-GQ,2005,0.00,Equatorial Guinea
-GQ,2006,0.00,Equatorial Guinea
-GQ,2007,0.00,Equatorial Guinea
-GQ,2008,0.00,Equatorial Guinea
-GQ,2009,0.00,Equatorial Guinea
-GQ,2010,0.00,Equatorial Guinea
-GQ,2011,0.00,Equatorial Guinea
-GQ,2012,0.00,Equatorial Guinea
-GR,1990,0.00,Greece
-GR,1991,0.00,Greece
-GR,1992,0.00,Greece
-GR,1993,0.00,Greece
-GR,1994,0.00,Greece
-GR,1995,0.00,Greece
-GR,1996,0.00,Greece
-GR,1997,0.00,Greece
-GR,1998,0.00,Greece
-GR,1999,0.00,Greece
-GR,2000,0.00,Greece
-GR,2001,0.00,Greece
-GR,2002,0.00,Greece
-GR,2003,0.00,Greece
-GR,2004,0.00,Greece
-GR,2005,0.00,Greece
-GR,2006,0.00,Greece
-GR,2007,0.00,Greece
-GR,2008,0.00,Greece
-GR,2009,0.00,Greece
-GR,2010,0.00,Greece
-GR,2011,0.00,Greece
-GR,2012,0.00,Greece
-GT,1990,122.81,Guatemala
-GT,1991,122.01,Guatemala
-GT,1992,94.91,Guatemala
-GT,1993,130.87,Guatemala
-GT,1994,134.12,Guatemala
-GT,1995,202.50,Guatemala
-GT,1996,265.22,Guatemala
-GT,1997,308.20,Guatemala
-GT,1998,237.62,Guatemala
-GT,1999,299.20,Guatemala
-GT,2000,486.76,Guatemala
-GT,2001,378.57,Guatemala
-GT,2002,493.98,Guatemala
-GT,2003,534.16,Guatemala
-GT,2004,427.15,Guatemala
-GT,2005,532.08,Guatemala
-GT,2006,828.57,Guatemala
-GT,2007,1052.40,Guatemala
-GT,2008,1024.66,Guatemala
-GT,2009,1146.60,Guatemala
-GT,2010,1133.62,Guatemala
-GT,2011,1487.02,Guatemala
-GT,2012,1192.30,Guatemala
-GW,1990,0.00,Guinea-Bissau
-GW,1991,0.00,Guinea-Bissau
-GW,1992,0.00,Guinea-Bissau
-GW,1993,0.00,Guinea-Bissau
-GW,1994,0.00,Guinea-Bissau
-GW,1995,0.00,Guinea-Bissau
-GW,1996,0.00,Guinea-Bissau
-GW,1997,0.00,Guinea-Bissau
-GW,1998,0.00,Guinea-Bissau
-GW,1999,0.00,Guinea-Bissau
-GW,2000,0.00,Guinea-Bissau
-GW,2001,0.00,Guinea-Bissau
-GW,2002,1.06,Guinea-Bissau
-GW,2003,0.21,Guinea-Bissau
-GW,2004,0.06,Guinea-Bissau
-GW,2005,0.00,Guinea-Bissau
-GW,2006,0.00,Guinea-Bissau
-GW,2007,0.00,Guinea-Bissau
-GW,2008,0.23,Guinea-Bissau
-GW,2009,5.13,Guinea-Bissau
-GW,2010,5.36,Guinea-Bissau
-GW,2011,0.00,Guinea-Bissau
-GW,2012,0.00,Guinea-Bissau
-GY,1990,0.00,Guyana
-GY,1991,0.00,Guyana
-GY,1992,0.00,Guyana
-GY,1993,0.00,Guyana
-GY,1994,0.00,Guyana
-GY,1995,0.00,Guyana
-GY,1996,25.90,Guyana
-GY,1997,10.73,Guyana
-GY,1998,6.19,Guyana
-GY,1999,5.78,Guyana
-GY,2000,10.89,Guyana
-GY,2001,9.25,Guyana
-GY,2002,7.09,Guyana
-GY,2003,4.04,Guyana
-GY,2004,4.59,Guyana
-GY,2005,10.97,Guyana
-GY,2006,13.83,Guyana
-GY,2007,-9.72,Guyana
-GY,2008,14.75,Guyana
-GY,2009,15.32,Guyana
-GY,2010,15.38,Guyana
-GY,2011,19.00,Guyana
-GY,2012,8.06,Guyana
-HK,1990,#N/A,Hong Kong SAR
-HK,1991,#N/A,Hong Kong SAR
-HK,1992,#N/A,Hong Kong SAR
-HK,1993,#N/A,Hong Kong SAR
-HK,1994,#N/A,Hong Kong SAR
-HK,1995,#N/A,Hong Kong SAR
-HK,1996,#N/A,Hong Kong SAR
-HK,1997,#N/A,Hong Kong SAR
-HK,1998,#N/A,Hong Kong SAR
-HK,1999,#N/A,Hong Kong SAR
-HK,2000,#N/A,Hong Kong SAR
-HK,2001,#N/A,Hong Kong SAR
-HK,2002,#N/A,Hong Kong SAR
-HK,2003,#N/A,Hong Kong SAR
-HK,2004,#N/A,Hong Kong SAR
-HK,2005,#N/A,Hong Kong SAR
-HK,2006,#N/A,Hong Kong SAR
-HK,2007,#N/A,Hong Kong SAR
-HK,2008,#N/A,Hong Kong SAR
-HK,2009,#N/A,Hong Kong SAR
-HK,2010,#N/A,Hong Kong SAR
-HK,2011,#N/A,Hong Kong SAR
-HK,2012,#N/A,Hong Kong SAR
-HN,1990,164.01,Honduras
-HN,1991,168.23,Honduras
-HN,1992,163.69,Honduras
-HN,1993,61.95,Honduras
-HN,1994,69.40,Honduras
-HN,1995,83.48,Honduras
-HN,1996,141.07,Honduras
-HN,1997,134.94,Honduras
-HN,1998,124.45,Honduras
-HN,1999,73.61,Honduras
-HN,2000,258.54,Honduras
-HN,2001,330.10,Honduras
-HN,2002,367.98,Honduras
-HN,2003,456.99,Honduras
-HN,2004,603.02,Honduras
-HN,2005,712.36,Honduras
-HN,2006,876.65,Honduras
-HN,2007,708.63,Honduras
-HN,2008,656.34,Honduras
-HN,2009,686.83,Honduras
-HN,2010,742.26,Honduras
-HN,2011,918.10,Honduras
-HN,2012,1218.05,Honduras
-HR,1990,,Croatia
-HR,1991,,Croatia
-HR,1992,0.00,Croatia
-HR,1993,0.00,Croatia
-HR,1994,0.00,Croatia
-HR,1995,0.00,Croatia
-HR,1996,0.00,Croatia
-HR,1997,0.00,Croatia
-HR,1998,0.00,Croatia
-HR,1999,0.00,Croatia
-HR,2000,0.00,Croatia
-HR,2001,0.00,Croatia
-HR,2002,0.00,Croatia
-HR,2003,0.00,Croatia
-HR,2004,0.00,Croatia
-HR,2005,0.00,Croatia
-HR,2006,0.00,Croatia
-HR,2007,0.00,Croatia
-HR,2008,0.00,Croatia
-HR,2009,0.00,Croatia
-HR,2010,0.00,Croatia
-HR,2011,0.00,Croatia
-HR,2012,0.00,Croatia
-HT,1990,0.00,Haiti
-HT,1991,0.00,Haiti
-HT,1992,0.00,Haiti
-HT,1993,0.00,Haiti
-HT,1994,0.00,Haiti
-HT,1995,8.54,Haiti
-HT,1996,-0.91,Haiti
-HT,1997,0.00,Haiti
-HT,1998,0.00,Haiti
-HT,1999,0.00,Haiti
-HT,2000,0.00,Haiti
-HT,2001,0.00,Haiti
-HT,2002,0.00,Haiti
-HT,2003,0.00,Haiti
-HT,2004,0.00,Haiti
-HT,2005,0.00,Haiti
-HT,2006,0.00,Haiti
-HT,2007,0.00,Haiti
-HT,2008,0.00,Haiti
-HT,2009,0.00,Haiti
-HT,2010,0.00,Haiti
-HT,2011,0.00,Haiti
-HT,2012,0.00,Haiti
-HU,1990,0.00,Hungary
-HU,1991,0.00,Hungary
-HU,1992,0.00,Hungary
-HU,1993,0.00,Hungary
-HU,1994,0.00,Hungary
-HU,1995,0.00,Hungary
-HU,1996,0.00,Hungary
-HU,1997,0.00,Hungary
-HU,1998,0.00,Hungary
-HU,1999,0.00,Hungary
-HU,2000,0.00,Hungary
-HU,2001,0.00,Hungary
-HU,2002,0.00,Hungary
-HU,2003,0.00,Hungary
-HU,2004,0.00,Hungary
-HU,2005,6747.21,Hungary
-HU,2006,12389.55,Hungary
-HU,2007,15933.07,Hungary
-HU,2008,16325.45,Hungary
-HU,2009,17725.67,Hungary
-HU,2010,19205.24,Hungary
-HU,2011,14754.21,Hungary
-HU,2012,15136.93,Hungary
-ID,1990,6089.09,Indonesia
-ID,1991,6148.27,Indonesia
-ID,1992,6823.83,Indonesia
-ID,1993,3893.41,Indonesia
-ID,1994,1410.50,Indonesia
-ID,1995,1606.55,Indonesia
-ID,1996,2067.47,Indonesia
-ID,1997,3173.38,Indonesia
-ID,1998,16455.04,Indonesia
-ID,1999,11825.97,Indonesia
-ID,2000,10087.66,Indonesia
-ID,2001,9502.37,Indonesia
-ID,2002,8290.65,Indonesia
-ID,2003,6199.96,Indonesia
-ID,2004,17979.48,Indonesia
-ID,2005,19558.98,Indonesia
-ID,2006,16374.79,Indonesia
-ID,2007,16468.89,Indonesia
-ID,2008,14595.53,Indonesia
-ID,2009,11996.25,Indonesia
-ID,2010,14046.17,Indonesia
-ID,2011,17560.57,Indonesia
-ID,2012,17366.19,Indonesia
-IE,1990,0.00,Ireland
-IE,1991,0.00,Ireland
-IE,1992,0.00,Ireland
-IE,1993,0.00,Ireland
-IE,1994,0.00,Ireland
-IE,1995,0.00,Ireland
-IE,1996,0.00,Ireland
-IE,1997,0.00,Ireland
-IE,1998,0.00,Ireland
-IE,1999,0.00,Ireland
-IE,2000,0.00,Ireland
-IE,2001,0.00,Ireland
-IE,2002,0.00,Ireland
-IE,2003,0.00,Ireland
-IE,2004,0.00,Ireland
-IE,2005,0.00,Ireland
-IE,2006,0.00,Ireland
-IE,2007,0.00,Ireland
-IE,2008,0.00,Ireland
-IE,2009,0.00,Ireland
-IE,2010,0.00,Ireland
-IE,2011,0.00,Ireland
-IE,2012,0.00,Ireland
-IL,1990,0.00,Israel
-IL,1991,0.00,Israel
-IL,1992,0.00,Israel
-IL,1993,0.00,Israel
-IL,1994,0.00,Israel
-IL,1995,0.00,Israel
-IL,1996,0.00,Israel
-IL,1997,0.00,Israel
-IL,1998,0.00,Israel
-IL,1999,0.00,Israel
-IL,2000,0.00,Israel
-IL,2001,0.00,Israel
-IL,2002,0.00,Israel
-IL,2003,0.00,Israel
-IL,2004,0.00,Israel
-IL,2005,0.00,Israel
-IL,2006,0.00,Israel
-IL,2007,0.00,Israel
-IL,2008,0.00,Israel
-IL,2009,0.00,Israel
-IL,2010,0.00,Israel
-IL,2011,0.00,Israel
-IL,2012,0.00,Israel
-IN,1990,0.00,India
-IN,1991,0.00,India
-IN,1992,0.00,India
-IN,1993,0.00,India
-IN,1994,0.00,India
-IN,1995,0.00,India
-IN,1996,0.00,India
-IN,1997,0.00,India
-IN,1998,0.00,India
-IN,1999,0.00,India
-IN,2000,0.00,India
-IN,2001,3668.06,India
-IN,2002,3892.57,India
-IN,2003,3693.35,India
-IN,2004,4925.12,India
-IN,2005,7017.70,India
-IN,2006,9943.57,India
-IN,2007,11797.86,India
-IN,2008,13637.15,India
-IN,2009,13574.00,India
-IN,2010,21198.97,India
-IN,2011,22427.89,India
-IN,2012,16389.05,India
-IQ,1990,,Iraq
-IQ,1991,,Iraq
-IQ,1992,,Iraq
-IQ,1993,,Iraq
-IQ,1994,,Iraq
-IQ,1995,,Iraq
-IQ,1996,,Iraq
-IQ,1997,,Iraq
-IQ,1998,,Iraq
-IQ,1999,,Iraq
-IQ,2000,,Iraq
-IQ,2001,,Iraq
-IQ,2002,,Iraq
-IQ,2003,,Iraq
-IQ,2004,0.00,Iraq
-IQ,2005,0.00,Iraq
-IQ,2006,0.00,Iraq
-IQ,2007,0.00,Iraq
-IQ,2008,0.00,Iraq
-IQ,2009,0.00,Iraq
-IQ,2010,0.00,Iraq
-IQ,2011,0.00,Iraq
-IQ,2012,0.00,Iraq
-IR,1990,0.00,Iran
-IR,1991,0.00,Iran
-IR,1992,0.00,Iran
-IR,1993,0.00,Iran
-IR,1994,0.00,Iran
-IR,1995,0.00,Iran
-IR,1996,0.00,Iran
-IR,1997,0.00,Iran
-IR,1998,0.00,Iran
-IR,1999,0.00,Iran
-IR,2000,0.00,Iran
-IR,2001,0.00,Iran
-IR,2002,0.00,Iran
-IR,2003,0.00,Iran
-IR,2004,0.00,Iran
-IR,2005,0.00,Iran
-IR,2006,0.00,Iran
-IR,2007,0.00,Iran
-IR,2008,0.00,Iran
-IR,2009,0.00,Iran
-IR,2010,0.00,Iran
-IR,2011,0.00,Iran
-IR,2012,0.00,Iran
-IS,1990,0.00,Iceland
-IS,1991,0.00,Iceland
-IS,1992,0.00,Iceland
-IS,1993,0.00,Iceland
-IS,1994,0.00,Iceland
-IS,1995,0.00,Iceland
-IS,1996,0.00,Iceland
-IS,1997,0.00,Iceland
-IS,1998,0.00,Iceland
-IS,1999,0.00,Iceland
-IS,2000,0.00,Iceland
-IS,2001,0.00,Iceland
-IS,2002,0.00,Iceland
-IS,2003,0.00,Iceland
-IS,2004,0.00,Iceland
-IS,2005,0.00,Iceland
-IS,2006,0.00,Iceland
-IS,2007,0.00,Iceland
-IS,2008,0.00,Iceland
-IS,2009,0.00,Iceland
-IS,2010,0.00,Iceland
-IS,2011,0.00,Iceland
-IS,2012,0.00,Iceland
-IT,1990,0.00,Italy
-IT,1991,0.00,Italy
-IT,1992,0.00,Italy
-IT,1993,0.00,Italy
-IT,1994,0.00,Italy
-IT,1995,0.00,Italy
-IT,1996,0.00,Italy
-IT,1997,0.00,Italy
-IT,1998,0.00,Italy
-IT,1999,0.00,Italy
-IT,2000,0.00,Italy
-IT,2001,0.00,Italy
-IT,2002,0.00,Italy
-IT,2003,0.00,Italy
-IT,2004,0.00,Italy
-IT,2005,0.00,Italy
-IT,2006,0.00,Italy
-IT,2007,0.00,Italy
-IT,2008,0.00,Italy
-IT,2009,0.00,Italy
-IT,2010,0.00,Italy
-IT,2011,0.00,Italy
-IT,2012,0.00,Italy
-JM,1990,510.11,Jamaica
-JM,1991,471.82,Jamaica
-JM,1992,171.08,Jamaica
-JM,1993,12.08,Jamaica
-JM,1994,446.58,Jamaica
-JM,1995,488.76,Jamaica
-JM,1996,201.83,Jamaica
-JM,1997,290.65,Jamaica
-JM,1998,282.78,Jamaica
-JM,1999,349.47,Jamaica
-JM,2000,439.00,Jamaica
-JM,2001,454.82,Jamaica
-JM,2002,625.47,Jamaica
-JM,2003,502.09,Jamaica
-JM,2004,522.55,Jamaica
-JM,2005,599.35,Jamaica
-JM,2006,479.88,Jamaica
-JM,2007,640.17,Jamaica
-JM,2008,420.36,Jamaica
-JM,2009,283.87,Jamaica
-JM,2010,140.60,Jamaica
-JM,2011,115.09,Jamaica
-JM,2012,0.00,Jamaica
-JO,1990,0.00,Jordan
-JO,1991,0.00,Jordan
-JO,1992,0.00,Jordan
-JO,1993,0.00,Jordan
-JO,1994,0.00,Jordan
-JO,1995,0.00,Jordan
-JO,1996,0.00,Jordan
-JO,1997,0.00,Jordan
-JO,1998,0.00,Jordan
-JO,1999,0.00,Jordan
-JO,2000,62.89,Jordan
-JO,2001,59.42,Jordan
-JO,2002,80.18,Jordan
-JO,2003,87.88,Jordan
-JO,2004,89.22,Jordan
-JO,2005,127.16,Jordan
-JO,2006,202.98,Jordan
-JO,2007,238.27,Jordan
-JO,2008,317.14,Jordan
-JO,2009,377.48,Jordan
-JO,2010,904.97,Jordan
-JO,2011,745.49,Jordan
-JO,2012,820.85,Jordan
-JP,1990,0.00,Japan
-JP,1991,0.00,Japan
-JP,1992,0.00,Japan
-JP,1993,0.00,Japan
-JP,1994,0.00,Japan
-JP,1995,0.00,Japan
-JP,1996,0.00,Japan
-JP,1997,0.00,Japan
-JP,1998,0.00,Japan
-JP,1999,0.00,Japan
-JP,2000,0.00,Japan
-JP,2001,0.00,Japan
-JP,2002,0.00,Japan
-JP,2003,0.00,Japan
-JP,2004,0.00,Japan
-JP,2005,0.00,Japan
-JP,2006,0.00,Japan
-JP,2007,0.00,Japan
-JP,2008,0.00,Japan
-JP,2009,0.00,Japan
-JP,2010,0.00,Japan
-JP,2011,0.00,Japan
-JP,2012,0.00,Japan
-KE,1990,227.07,Kenya
-KE,1991,108.76,Kenya
-KE,1992,232.70,Kenya
-KE,1993,100.30,Kenya
-KE,1994,154.83,Kenya
-KE,1995,216.90,Kenya
-KE,1996,83.55,Kenya
-KE,1997,72.68,Kenya
-KE,1998,76.68,Kenya
-KE,1999,76.59,Kenya
-KE,2000,56.13,Kenya
-KE,2001,96.14,Kenya
-KE,2002,148.79,Kenya
-KE,2003,58.11,Kenya
-KE,2004,53.39,Kenya
-KE,2005,55.36,Kenya
-KE,2006,54.61,Kenya
-KE,2007,153.85,Kenya
-KE,2008,58.52,Kenya
-KE,2009,69.47,Kenya
-KE,2010,69.84,Kenya
-KE,2011,118.90,Kenya
-KE,2012,110.91,Kenya
-KG,1990,,Kyrgyz Republic
-KG,1991,,Kyrgyz Republic
-KG,1992,0.00,Kyrgyz Republic
-KG,1993,0.00,Kyrgyz Republic
-KG,1994,0.00,Kyrgyz Republic
-KG,1995,0.00,Kyrgyz Republic
-KG,1996,3.87,Kyrgyz Republic
-KG,1997,1.81,Kyrgyz Republic
-KG,1998,19.30,Kyrgyz Republic
-KG,1999,15.23,Kyrgyz Republic
-KG,2000,115.48,Kyrgyz Republic
-KG,2001,75.07,Kyrgyz Republic
-KG,2002,54.37,Kyrgyz Republic
-KG,2003,66.53,Kyrgyz Republic
-KG,2004,132.77,Kyrgyz Republic
-KG,2005,74.60,Kyrgyz Republic
-KG,2006,73.86,Kyrgyz Republic
-KG,2007,58.43,Kyrgyz Republic
-KG,2008,212.93,Kyrgyz Republic
-KG,2009,159.82,Kyrgyz Republic
-KG,2010,325.21,Kyrgyz Republic
-KG,2011,656.39,Kyrgyz Republic
-KG,2012,85.64,Kyrgyz Republic
-KH,1990,0.00,Cambodia
-KH,1991,0.00,Cambodia
-KH,1992,0.00,Cambodia
-KH,1993,2.11,Cambodia
-KH,1994,5.43,Cambodia
-KH,1995,-4.44,Cambodia
-KH,1996,5.31,Cambodia
-KH,1997,5.77,Cambodia
-KH,1998,85.07,Cambodia
-KH,1999,129.21,Cambodia
-KH,2000,191.40,Cambodia
-KH,2001,209.48,Cambodia
-KH,2002,243.17,Cambodia
-KH,2003,243.93,Cambodia
-KH,2004,302.24,Cambodia
-KH,2005,320.67,Cambodia
-KH,2006,365.49,Cambodia
-KH,2007,443.16,Cambodia
-KH,2008,451.05,Cambodia
-KH,2009,397.87,Cambodia
-KH,2010,435.77,Cambodia
-KH,2011,598.04,Cambodia
-KH,2012,706.57,Cambodia
-KI,1990,0.00,Kiribati
-KI,1991,0.00,Kiribati
-KI,1992,0.00,Kiribati
-KI,1993,0.00,Kiribati
-KI,1994,0.00,Kiribati
-KI,1995,0.00,Kiribati
-KI,1996,0.00,Kiribati
-KI,1997,0.00,Kiribati
-KI,1998,0.00,Kiribati
-KI,1999,0.00,Kiribati
-KI,2000,0.00,Kiribati
-KI,2001,0.00,Kiribati
-KI,2002,0.00,Kiribati
-KI,2003,0.00,Kiribati
-KI,2004,0.00,Kiribati
-KI,2005,0.00,Kiribati
-KI,2006,0.00,Kiribati
-KI,2007,0.00,Kiribati
-KI,2008,0.00,Kiribati
-KI,2009,0.00,Kiribati
-KI,2010,0.00,Kiribati
-KI,2011,0.00,Kiribati
-KI,2012,0.00,Kiribati
-KM,1990,1.02,Comoros
-KM,1991,1.20,Comoros
-KM,1992,4.23,Comoros
-KM,1993,1.65,Comoros
-KM,1994,1.09,Comoros
-KM,1995,0.40,Comoros
-KM,1996,0.00,Comoros
-KM,1997,0.00,Comoros
-KM,1998,0.00,Comoros
-KM,1999,0.00,Comoros
-KM,2000,0.00,Comoros
-KM,2001,0.00,Comoros
-KM,2002,0.00,Comoros
-KM,2003,0.00,Comoros
-KM,2004,0.00,Comoros
-KM,2005,0.00,Comoros
-KM,2006,0.00,Comoros
-KM,2007,0.00,Comoros
-KM,2008,0.00,Comoros
-KM,2009,0.00,Comoros
-KM,2010,0.00,Comoros
-KM,2011,0.00,Comoros
-KM,2012,0.00,Comoros
-KN,1990,0.00,St. Kitts-Nevis
-KN,1991,0.00,St. Kitts-Nevis
-KN,1992,0.00,St. Kitts-Nevis
-KN,1993,0.00,St. Kitts-Nevis
-KN,1994,0.00,St. Kitts-Nevis
-KN,1995,0.00,St. Kitts-Nevis
-KN,1996,0.00,St. Kitts-Nevis
-KN,1997,0.00,St. Kitts-Nevis
-KN,1998,0.00,St. Kitts-Nevis
-KN,1999,0.00,St. Kitts-Nevis
-KN,2000,0.00,St. Kitts-Nevis
-KN,2001,0.00,St. Kitts-Nevis
-KN,2002,0.00,St. Kitts-Nevis
-KN,2003,0.00,St. Kitts-Nevis
-KN,2004,0.00,St. Kitts-Nevis
-KN,2005,0.00,St. Kitts-Nevis
-KN,2006,0.00,St. Kitts-Nevis
-KN,2007,0.00,St. Kitts-Nevis
-KN,2008,0.00,St. Kitts-Nevis
-KN,2009,0.00,St. Kitts-Nevis
-KN,2010,0.00,St. Kitts-Nevis
-KN,2011,0.00,St. Kitts-Nevis
-KN,2012,0.00,St. Kitts-Nevis
-KR,1990,#N/A,Korea
-KR,1991,#N/A,Korea
-KR,1992,#N/A,Korea
-KR,1993,#N/A,Korea
-KR,1994,#N/A,Korea
-KR,1995,#N/A,Korea
-KR,1996,#N/A,Korea
-KR,1997,#N/A,Korea
-KR,1998,#N/A,Korea
-KR,1999,#N/A,Korea
-KR,2000,#N/A,Korea
-KR,2001,#N/A,Korea
-KR,2002,#N/A,Korea
-KR,2003,#N/A,Korea
-KR,2004,#N/A,Korea
-KR,2005,#N/A,Korea
-KR,2006,#N/A,Korea
-KR,2007,#N/A,Korea
-KR,2008,#N/A,Korea
-KR,2009,#N/A,Korea
-KR,2010,#N/A,Korea
-KR,2011,#N/A,Korea
-KR,2012,#N/A,Korea
-KW,1990,0.00,Kuwait
-KW,1991,0.00,Kuwait
-KW,1992,0.00,Kuwait
-KW,1993,0.00,Kuwait
-KW,1994,0.00,Kuwait
-KW,1995,0.00,Kuwait
-KW,1996,0.00,Kuwait
-KW,1997,0.00,Kuwait
-KW,1998,0.00,Kuwait
-KW,1999,0.00,Kuwait
-KW,2000,0.00,Kuwait
-KW,2001,0.00,Kuwait
-KW,2002,0.00,Kuwait
-KW,2003,0.00,Kuwait
-KW,2004,0.00,Kuwait
-KW,2005,0.00,Kuwait
-KW,2006,0.00,Kuwait
-KW,2007,0.00,Kuwait
-KW,2008,0.00,Kuwait
-KW,2009,0.00,Kuwait
-KW,2010,0.00,Kuwait
-KW,2011,0.00,Kuwait
-KW,2012,0.00,Kuwait
-KZ,1990,,Kazakhstan
-KZ,1991,,Kazakhstan
-KZ,1992,0.00,Kazakhstan
-KZ,1993,0.00,Kazakhstan
-KZ,1994,0.00,Kazakhstan
-KZ,1995,318.95,Kazakhstan
-KZ,1996,408.03,Kazakhstan
-KZ,1997,515.65,Kazakhstan
-KZ,1998,317.70,Kazakhstan
-KZ,1999,1203.01,Kazakhstan
-KZ,2000,4655.21,Kazakhstan
-KZ,2001,4762.10,Kazakhstan
-KZ,2002,4148.00,Kazakhstan
-KZ,2003,5148.85,Kazakhstan
-KZ,2004,6609.71,Kazakhstan
-KZ,2005,10814.04,Kazakhstan
-KZ,2006,14019.38,Kazakhstan
-KZ,2007,17330.89,Kazakhstan
-KZ,2008,21098.56,Kazakhstan
-KZ,2009,15177.90,Kazakhstan
-KZ,2010,21088.20,Kazakhstan
-KZ,2011,25656.66,Kazakhstan
-KZ,2012,24589.22,Kazakhstan
-LA,1990,0.00,Laos
-LA,1991,0.00,Laos
-LA,1992,0.00,Laos
-LA,1993,0.00,Laos
-LA,1994,0.00,Laos
-LA,1995,9.23,Laos
-LA,1996,10.13,Laos
-LA,1997,19.44,Laos
-LA,1998,37.32,Laos
-LA,1999,33.70,Laos
-LA,2000,0.00,Laos
-LA,2001,49.19,Laos
-LA,2002,26.77,Laos
-LA,2003,16.79,Laos
-LA,2004,23.97,Laos
-LA,2005,49.02,Laos
-LA,2006,38.15,Laos
-LA,2007,70.85,Laos
-LA,2008,32.68,Laos
-LA,2009,55.98,Laos
-LA,2010,50.73,Laos
-LA,2011,16.86,Laos
-LA,2012,52.00,Laos
-LB,1990,0.00,Lebanon
-LB,1991,0.00,Lebanon
-LB,1992,0.00,Lebanon
-LB,1993,0.00,Lebanon
-LB,1994,0.00,Lebanon
-LB,1995,0.00,Lebanon
-LB,1996,0.00,Lebanon
-LB,1997,0.00,Lebanon
-LB,1998,0.00,Lebanon
-LB,1999,0.00,Lebanon
-LB,2000,0.00,Lebanon
-LB,2001,0.00,Lebanon
-LB,2002,0.00,Lebanon
-LB,2003,92.49,Lebanon
-LB,2004,119.56,Lebanon
-LB,2005,127.55,Lebanon
-LB,2006,127.25,Lebanon
-LB,2007,81.97,Lebanon
-LB,2008,145.11,Lebanon
-LB,2009,102.96,Lebanon
-LB,2010,225.58,Lebanon
-LB,2011,192.07,Lebanon
-LB,2012,212.94,Lebanon
-LC,1990,47.56,St. Lucia
-LC,1991,47.41,St. Lucia
-LC,1992,46.41,St. Lucia
-LC,1993,50.09,St. Lucia
-LC,1994,46.76,St. Lucia
-LC,1995,53.71,St. Lucia
-LC,1996,40.09,St. Lucia
-LC,1997,39.05,St. Lucia
-LC,1998,44.62,St. Lucia
-LC,1999,44.10,St. Lucia
-LC,2000,46.25,St. Lucia
-LC,2001,44.06,St. Lucia
-LC,2002,31.72,St. Lucia
-LC,2003,43.23,St. Lucia
-LC,2004,65.23,St. Lucia
-LC,2005,63.63,St. Lucia
-LC,2006,40.33,St. Lucia
-LC,2007,49.95,St. Lucia
-LC,2008,58.80,St. Lucia
-LC,2009,39.64,St. Lucia
-LC,2010,33.37,St. Lucia
-LC,2011,12.39,St. Lucia
-LC,2012,12.22,St. Lucia
-LK,1990,57.43,Sri Lanka
-LK,1991,42.30,Sri Lanka
-LK,1992,70.30,Sri Lanka
-LK,1993,67.57,Sri Lanka
-LK,1994,145.45,Sri Lanka
-LK,1995,132.34,Sri Lanka
-LK,1996,117.35,Sri Lanka
-LK,1997,137.28,Sri Lanka
-LK,1998,159.71,Sri Lanka
-LK,1999,208.84,Sri Lanka
-LK,2000,207.28,Sri Lanka
-LK,2001,202.61,Sri Lanka
-LK,2002,182.89,Sri Lanka
-LK,2003,164.04,Sri Lanka
-LK,2004,163.94,Sri Lanka
-LK,2005,177.89,Sri Lanka
-LK,2006,522.61,Sri Lanka
-LK,2007,469.66,Sri Lanka
-LK,2008,532.55,Sri Lanka
-LK,2009,261.07,Sri Lanka
-LK,2010,315.47,Sri Lanka
-LK,2011,363.55,Sri Lanka
-LK,2012,444.90,Sri Lanka
-LR,1990,,Liberia
-LR,1991,,Liberia
-LR,1992,,Liberia
-LR,1993,,Liberia
-LR,1994,,Liberia
-LR,1995,,Liberia
-LR,1996,,Liberia
-LR,1997,,Liberia
-LR,1998,,Liberia
-LR,1999,,Liberia
-LR,2000,0.00,Liberia
-LR,2001,0.00,Liberia
-LR,2002,0.00,Liberia
-LR,2003,0.00,Liberia
-LR,2004,9.47,Liberia
-LR,2005,10.85,Liberia
-LR,2006,20.83,Liberia
-LR,2007,19.73,Liberia
-LR,2008,27.60,Liberia
-LR,2009,7.12,Liberia
-LR,2010,0.10,Liberia
-LR,2011,12.18,Liberia
-LR,2012,0.00,Liberia
-LS,1990,22.27,Lesotho
-LS,1991,18.30,Lesotho
-LS,1992,34.27,Lesotho
-LS,1993,25.20,Lesotho
-LS,1994,41.48,Lesotho
-LS,1995,101.71,Lesotho
-LS,1996,68.64,Lesotho
-LS,1997,60.85,Lesotho
-LS,1998,85.00,Lesotho
-LS,1999,48.30,Lesotho
-LS,2000,128.60,Lesotho
-LS,2001,194.21,Lesotho
-LS,2002,226.34,Lesotho
-LS,2003,206.27,Lesotho
-LS,2004,210.98,Lesotho
-LS,2005,242.09,Lesotho
-LS,2006,311.32,Lesotho
-LS,2007,350.80,Lesotho
-LS,2008,111.03,Lesotho
-LS,2009,137.97,Lesotho
-LS,2010,311.44,Lesotho
-LS,2011,351.89,Lesotho
-LS,2012,406.79,Lesotho
-LT,1990,,Lithuania
-LT,1991,,Lithuania
-LT,1992,,Lithuania
-LT,1993,,Lithuania
-LT,1994,,Lithuania
-LT,1995,0.00,Lithuania
-LT,1996,0.00,Lithuania
-LT,1997,0.00,Lithuania
-LT,1998,0.00,Lithuania
-LT,1999,0.00,Lithuania
-LT,2000,0.00,Lithuania
-LT,2001,0.00,Lithuania
-LT,2002,0.00,Lithuania
-LT,2003,0.00,Lithuania
-LT,2004,0.00,Lithuania
-LT,2005,0.00,Lithuania
-LT,2006,0.00,Lithuania
-LT,2007,0.00,Lithuania
-LT,2008,0.00,Lithuania
-LT,2009,0.00,Lithuania
-LT,2010,0.00,Lithuania
-LT,2011,0.00,Lithuania
-LT,2012,0.00,Lithuania
-LU,1990,0.00,Luxembourg
-LU,1991,0.00,Luxembourg
-LU,1992,0.00,Luxembourg
-LU,1993,0.00,Luxembourg
-LU,1994,0.00,Luxembourg
-LU,1995,0.00,Luxembourg
-LU,1996,0.00,Luxembourg
-LU,1997,0.00,Luxembourg
-LU,1998,0.00,Luxembourg
-LU,1999,0.00,Luxembourg
-LU,2000,0.00,Luxembourg
-LU,2001,0.00,Luxembourg
-LU,2002,0.00,Luxembourg
-LU,2003,0.00,Luxembourg
-LU,2004,0.00,Luxembourg
-LU,2005,0.00,Luxembourg
-LU,2006,0.00,Luxembourg
-LU,2007,0.00,Luxembourg
-LU,2008,0.00,Luxembourg
-LU,2009,0.00,Luxembourg
-LU,2010,0.00,Luxembourg
-LU,2011,0.00,Luxembourg
-LU,2012,0.00,Luxembourg
-LV,1990,,Latvia
-LV,1991,,Latvia
-LV,1992,0.00,Latvia
-LV,1993,0.00,Latvia
-LV,1994,0.00,Latvia
-LV,1995,0.00,Latvia
-LV,1996,0.00,Latvia
-LV,1997,0.00,Latvia
-LV,1998,0.00,Latvia
-LV,1999,0.00,Latvia
-LV,2000,0.00,Latvia
-LV,2001,0.00,Latvia
-LV,2002,0.00,Latvia
-LV,2003,0.00,Latvia
-LV,2004,0.00,Latvia
-LV,2005,0.00,Latvia
-LV,2006,0.00,Latvia
-LV,2007,0.00,Latvia
-LV,2008,0.00,Latvia
-LV,2009,0.00,Latvia
-LV,2010,0.00,Latvia
-LV,2011,0.00,Latvia
-LV,2012,0.00,Latvia
-LY,1990,0.00,Libya
-LY,1991,0.00,Libya
-LY,1992,0.00,Libya
-LY,1993,0.00,Libya
-LY,1994,0.00,Libya
-LY,1995,0.00,Libya
-LY,1996,0.00,Libya
-LY,1997,0.00,Libya
-LY,1998,0.00,Libya
-LY,1999,0.00,Libya
-LY,2000,0.00,Libya
-LY,2001,0.00,Libya
-LY,2002,0.00,Libya
-LY,2003,0.00,Libya
-LY,2004,0.00,Libya
-LY,2005,0.00,Libya
-LY,2006,0.00,Libya
-LY,2007,0.00,Libya
-LY,2008,0.00,Libya
-LY,2009,0.00,Libya
-LY,2010,0.00,Libya
-LY,2011,0.00,Libya
-LY,2012,0.00,Libya
-MA,1990,116.88,Morocco
-MA,1991,158.71,Morocco
-MA,1992,269.36,Morocco
-MA,1993,102.42,Morocco
-MA,1994,150.84,Morocco
-MA,1995,138.92,Morocco
-MA,1996,161.72,Morocco
-MA,1997,238.94,Morocco
-MA,1998,191.90,Morocco
-MA,1999,253.90,Morocco
-MA,2000,399.00,Morocco
-MA,2001,628.69,Morocco
-MA,2002,728.99,Morocco
-MA,2003,774.38,Morocco
-MA,2004,801.44,Morocco
-MA,2005,700.23,Morocco
-MA,2006,776.43,Morocco
-MA,2007,753.39,Morocco
-MA,2008,770.31,Morocco
-MA,2009,1656.23,Morocco
-MA,2010,1417.33,Morocco
-MA,2011,1965.06,Morocco
-MA,2012,2092.15,Morocco
-MD,1990,,Moldova
-MD,1991,,Moldova
-MD,1992,0.00,Moldova
-MD,1993,0.00,Moldova
-MD,1994,0.00,Moldova
-MD,1995,0.26,Moldova
-MD,1996,2.18,Moldova
-MD,1997,4.41,Moldova
-MD,1998,17.34,Moldova
-MD,1999,40.42,Moldova
-MD,2000,8.86,Moldova
-MD,2001,-61.75,Moldova
-MD,2002,-38.90,Moldova
-MD,2003,63.49,Moldova
-MD,2004,104.07,Moldova
-MD,2005,88.06,Moldova
-MD,2006,194.43,Moldova
-MD,2007,262.13,Moldova
-MD,2008,169.84,Moldova
-MD,2009,165.83,Moldova
-MD,2010,179.56,Moldova
-MD,2011,268.37,Moldova
-MD,2012,117.99,Moldova
-ME,1990,,Montenegro
-ME,1991,,Montenegro
-ME,1992,,Montenegro
-ME,1993,,Montenegro
-ME,1994,,Montenegro
-ME,1995,,Montenegro
-ME,1996,,Montenegro
-ME,1997,,Montenegro
-ME,1998,,Montenegro
-ME,1999,,Montenegro
-ME,2000,,Montenegro
-ME,2001,0.00,Montenegro
-ME,2002,0.00,Montenegro
-ME,2003,0.00,Montenegro
-ME,2004,0.00,Montenegro
-ME,2005,0.00,Montenegro
-ME,2006,0.00,Montenegro
-ME,2007,16.65,Montenegro
-ME,2008,39.62,Montenegro
-ME,2009,86.36,Montenegro
-ME,2010,97.22,Montenegro
-ME,2011,41.45,Montenegro
-ME,2012,32.51,Montenegro
-MG,1990,1.35,Madagascar
-MG,1991,4.12,Madagascar
-MG,1992,2.46,Madagascar
-MG,1993,6.40,Madagascar
-MG,1994,2.57,Madagascar
-MG,1995,6.38,Madagascar
-MG,1996,0.00,Madagascar
-MG,1997,12.64,Madagascar
-MG,1998,12.43,Madagascar
-MG,1999,16.32,Madagascar
-MG,2000,7.91,Madagascar
-MG,2001,64.98,Madagascar
-MG,2002,99.82,Madagascar
-MG,2003,42.85,Madagascar
-MG,2004,37.18,Madagascar
-MG,2005,62.05,Madagascar
-MG,2006,0.00,Madagascar
-MG,2007,0.00,Madagascar
-MG,2008,0.00,Madagascar
-MG,2009,0.00,Madagascar
-MG,2010,0.00,Madagascar
-MG,2011,0.00,Madagascar
-MG,2012,0.00,Madagascar
-MH,1990,,Marshall Islands
-MH,1991,,Marshall Islands
-MH,1992,,Marshall Islands
-MH,1993,,Marshall Islands
-MH,1994,,Marshall Islands
-MH,1995,,Marshall Islands
-MH,1996,,Marshall Islands
-MH,1997,0.00,Marshall Islands
-MH,1998,0.00,Marshall Islands
-MH,1999,0.00,Marshall Islands
-MH,2000,0.00,Marshall Islands
-MH,2001,0.00,Marshall Islands
-MH,2002,0.00,Marshall Islands
-MH,2003,0.00,Marshall Islands
-MH,2004,0.00,Marshall Islands
-MH,2005,0.00,Marshall Islands
-MH,2006,0.00,Marshall Islands
-MH,2007,0.00,Marshall Islands
-MH,2008,0.00,Marshall Islands
-MH,2009,0.00,Marshall Islands
-MH,2010,0.00,Marshall Islands
-MH,2011,0.00,Marshall Islands
-MH,2012,0.00,Marshall Islands
-MK,1990,,"Macedonia, FYR"
-MK,1991,,"Macedonia, FYR"
-MK,1992,0.00,"Macedonia, FYR"
-MK,1993,0.00,"Macedonia, FYR"
-MK,1994,0.00,"Macedonia, FYR"
-MK,1995,0.00,"Macedonia, FYR"
-MK,1996,0.00,"Macedonia, FYR"
-MK,1997,0.00,"Macedonia, FYR"
-MK,1998,17.14,"Macedonia, FYR"
-MK,1999,59.29,"Macedonia, FYR"
-MK,2000,63.42,"Macedonia, FYR"
-MK,2001,-1.62,"Macedonia, FYR"
-MK,2002,73.34,"Macedonia, FYR"
-MK,2003,96.95,"Macedonia, FYR"
-MK,2004,91.88,"Macedonia, FYR"
-MK,2005,185.66,"Macedonia, FYR"
-MK,2006,73.60,"Macedonia, FYR"
-MK,2007,502.51,"Macedonia, FYR"
-MK,2008,235.35,"Macedonia, FYR"
-MK,2009,134.90,"Macedonia, FYR"
-MK,2010,231.78,"Macedonia, FYR"
-MK,2011,251.71,"Macedonia, FYR"
-MK,2012,267.64,"Macedonia, FYR"
-ML,1990,5.79,Mali
-ML,1991,2.61,Mali
-ML,1992,6.25,Mali
-ML,1993,12.10,Mali
-ML,1994,0.08,Mali
-ML,1995,9.41,Mali
-ML,1996,30.33,Mali
-ML,1997,37.66,Mali
-ML,1998,70.14,Mali
-ML,1999,115.44,Mali
-ML,2000,166.73,Mali
-ML,2001,304.69,Mali
-ML,2002,485.07,Mali
-ML,2003,208.54,Mali
-ML,2004,228.98,Mali
-ML,2005,276.24,Mali
-ML,2006,343.59,Mali
-ML,2007,320.83,Mali
-ML,2008,341.61,Mali
-ML,2009,490.84,Mali
-ML,2010,432.75,Mali
-ML,2011,0.00,Mali
-ML,2012,0.00,Mali
-MM,1990,,Myanmar
-MM,1991,,Myanmar
-MM,1992,,Myanmar
-MM,1993,,Myanmar
-MM,1994,,Myanmar
-MM,1995,,Myanmar
-MM,1996,,Myanmar
-MM,1997,,Myanmar
-MM,1998,0.00,Myanmar
-MM,1999,57.67,Myanmar
-MM,2000,242.33,Myanmar
-MM,2001,1435.75,Myanmar
-MM,2002,1695.77,Myanmar
-MM,2003,1612.42,Myanmar
-MM,2004,1837.68,Myanmar
-MM,2005,3389.11,Myanmar
-MM,2006,2974.21,Myanmar
-MM,2007,2547.07,Myanmar
-MM,2008,2414.98,Myanmar
-MM,2009,2215.42,Myanmar
-MM,2010,1795.61,Myanmar
-MM,2011,1591.77,Myanmar
-MM,2012,0.00,Myanmar
-MN,1990,0.00,Mongolia
-MN,1991,0.00,Mongolia
-MN,1992,27.65,Mongolia
-MN,1993,51.27,Mongolia
-MN,1994,30.34,Mongolia
-MN,1995,44.68,Mongolia
-MN,1996,44.57,Mongolia
-MN,1997,24.91,Mongolia
-MN,1998,1.78,Mongolia
-MN,1999,1.56,Mongolia
-MN,2000,32.28,Mongolia
-MN,2001,19.98,Mongolia
-MN,2002,16.53,Mongolia
-MN,2003,15.08,Mongolia
-MN,2004,25.41,Mongolia
-MN,2005,92.81,Mongolia
-MN,2006,263.50,Mongolia
-MN,2007,202.98,Mongolia
-MN,2008,144.74,Mongolia
-MN,2009,193.91,Mongolia
-MN,2010,585.68,Mongolia
-MN,2011,662.16,Mongolia
-MN,2012,594.09,Mongolia
-MR,1990,1.03,Mauritania
-MR,1991,0.99,Mauritania
-MR,1992,2.54,Mauritania
-MR,1993,2.92,Mauritania
-MR,1994,3.47,Mauritania
-MR,1995,6.81,Mauritania
-MR,1996,0.00,Mauritania
-MR,1997,2.26,Mauritania
-MR,1998,2.31,Mauritania
-MR,1999,0.00,Mauritania
-MR,2000,0.00,Mauritania
-MR,2001,0.00,Mauritania
-MR,2002,0.00,Mauritania
-MR,2003,0.00,Mauritania
-MR,2004,0.00,Mauritania
-MR,2005,0.00,Mauritania
-MR,2006,0.00,Mauritania
-MR,2007,0.00,Mauritania
-MR,2008,0.00,Mauritania
-MR,2009,0.00,Mauritania
-MR,2010,0.00,Mauritania
-MR,2011,0.00,Mauritania
-MR,2012,0.00,Mauritania
-MT,1990,,Malta
-MT,1991,,Malta
-MT,1992,,Malta
-MT,1993,,Malta
-MT,1994,,Malta
-MT,1995,,Malta
-MT,1996,,Malta
-MT,1997,,Malta
-MT,1998,,Malta
-MT,1999,,Malta
-MT,2000,0.00,Malta
-MT,2001,0.00,Malta
-MT,2002,0.00,Malta
-MT,2003,0.00,Malta
-MT,2004,0.00,Malta
-MT,2005,0.00,Malta
-MT,2006,0.00,Malta
-MT,2007,0.00,Malta
-MT,2008,0.00,Malta
-MT,2009,0.00,Malta
-MT,2010,0.00,Malta
-MT,2011,0.00,Malta
-MT,2012,0.00,Malta
-MU,1990,35.87,Mauritius
-MU,1991,29.30,Mauritius
-MU,1992,32.76,Mauritius
-MU,1993,29.05,Mauritius
-MU,1994,17.43,Mauritius
-MU,1995,20.99,Mauritius
-MU,1996,12.56,Mauritius
-MU,1997,9.86,Mauritius
-MU,1998,19.61,Mauritius
-MU,1999,6.70,Mauritius
-MU,2000,12.65,Mauritius
-MU,2001,8.14,Mauritius
-MU,2002,15.43,Mauritius
-MU,2003,32.70,Mauritius
-MU,2004,17.37,Mauritius
-MU,2005,44.16,Mauritius
-MU,2006,116.57,Mauritius
-MU,2007,109.08,Mauritius
-MU,2008,168.52,Mauritius
-MU,2009,226.00,Mauritius
-MU,2010,5102.46,Mauritius
-MU,2011,538.73,Mauritius
-MU,2012,568.79,Mauritius
-MV,1990,29.17,Maldives
-MV,1991,30.86,Maldives
-MV,1992,30.29,Maldives
-MV,1993,29.59,Maldives
-MV,1994,33.23,Maldives
-MV,1995,28.62,Maldives
-MV,1996,31.94,Maldives
-MV,1997,36.95,Maldives
-MV,1998,40.57,Maldives
-MV,1999,43.08,Maldives
-MV,2000,42.83,Maldives
-MV,2001,53.44,Maldives
-MV,2002,46.62,Maldives
-MV,2003,51.25,Maldives
-MV,2004,47.54,Maldives
-MV,2005,40.05,Maldives
-MV,2006,48.35,Maldives
-MV,2007,266.55,Maldives
-MV,2008,250.37,Maldives
-MV,2009,218.07,Maldives
-MV,2010,250.32,Maldives
-MV,2011,282.16,Maldives
-MV,2012,281.00,Maldives
-MW,1990,5.49,Malawi
-MW,1991,8.23,Malawi
-MW,1992,8.63,Malawi
-MW,1993,3.01,Malawi
-MW,1994,15.23,Malawi
-MW,1995,12.54,Malawi
-MW,1996,11.34,Malawi
-MW,1997,12.20,Malawi
-MW,1998,19.16,Malawi
-MW,1999,26.92,Malawi
-MW,2000,21.73,Malawi
-MW,2001,20.18,Malawi
-MW,2002,20.76,Malawi
-MW,2003,67.26,Malawi
-MW,2004,70.60,Malawi
-MW,2005,52.28,Malawi
-MW,2006,51.68,Malawi
-MW,2007,57.36,Malawi
-MW,2008,109.75,Malawi
-MW,2009,75.24,Malawi
-MW,2010,126.01,Malawi
-MW,2011,67.15,Malawi
-MW,2012,92.50,Malawi
-MX,1990,5061.24,Mexico
-MX,1991,4757.86,Mexico
-MX,1992,3942.21,Mexico
-MX,1993,3616.50,Mexico
-MX,1994,6908.22,Mexico
-MX,1995,8873.42,Mexico
-MX,1996,7676.67,Mexico
-MX,1997,6374.57,Mexico
-MX,1998,8883.46,Mexico
-MX,1999,5453.28,Mexico
-MX,2000,8161.23,Mexico
-MX,2001,7020.01,Mexico
-MX,2002,4873.51,Mexico
-MX,2003,4736.84,Mexico
-MX,2004,4833.54,Mexico
-MX,2005,9367.86,Mexico
-MX,2006,11038.73,Mexico
-MX,2007,13905.89,Mexico
-MX,2008,11129.28,Mexico
-MX,2009,9419.09,Mexico
-MX,2010,8254.26,Mexico
-MX,2011,11332.35,Mexico
-MX,2012,13401.73,Mexico
-MY,1990,3927.68,Malaysia
-MY,1991,4487.04,Malaysia
-MY,1992,5242.46,Malaysia
-MY,1993,5584.35,Malaysia
-MY,1994,6694.90,Malaysia
-MY,1995,6488.46,Malaysia
-MY,1996,6763.87,Malaysia
-MY,1997,8318.16,Malaysia
-MY,1998,5891.77,Malaysia
-MY,1999,11018.00,Malaysia
-MY,2000,13418.50,Malaysia
-MY,2001,11278.05,Malaysia
-MY,2002,11281.19,Malaysia
-MY,2003,12017.48,Malaysia
-MY,2004,13056.13,Malaysia
-MY,2005,12791.05,Malaysia
-MY,2006,12667.00,Malaysia
-MY,2007,12690.21,Malaysia
-MY,2008,15531.35,Malaysia
-MY,2009,14039.70,Malaysia
-MY,2010,16957.18,Malaysia
-MY,2011,18068.47,Malaysia
-MY,2012,18384.56,Malaysia
-MZ,1990,0.00,Mozambique
-MZ,1991,0.00,Mozambique
-MZ,1992,0.00,Mozambique
-MZ,1993,0.00,Mozambique
-MZ,1994,0.00,Mozambique
-MZ,1995,0.00,Mozambique
-MZ,1996,0.00,Mozambique
-MZ,1997,0.00,Mozambique
-MZ,1998,0.00,Mozambique
-MZ,1999,7.17,Mozambique
-MZ,2000,0.41,Mozambique
-MZ,2001,32.07,Mozambique
-MZ,2002,46.28,Mozambique
-MZ,2003,67.59,Mozambique
-MZ,2004,237.62,Mozambique
-MZ,2005,377.99,Mozambique
-MZ,2006,621.70,Mozambique
-MZ,2007,695.84,Mozambique
-MZ,2008,597.19,Mozambique
-MZ,2009,279.20,Mozambique
-MZ,2010,277.86,Mozambique
-MZ,2011,248.20,Mozambique
-MZ,2012,50.30,Mozambique
-NA,1990,0.00,Namibia
-NA,1991,0.00,Namibia
-NA,1992,0.00,Namibia
-NA,1993,0.00,Namibia
-NA,1994,0.00,Namibia
-NA,1995,0.00,Namibia
-NA,1996,0.00,Namibia
-NA,1997,0.00,Namibia
-NA,1998,0.00,Namibia
-NA,1999,0.00,Namibia
-NA,2000,0.00,Namibia
-NA,2001,0.00,Namibia
-NA,2002,0.00,Namibia
-NA,2003,0.00,Namibia
-NA,2004,0.00,Namibia
-NA,2005,0.00,Namibia
-NA,2006,0.00,Namibia
-NA,2007,0.00,Namibia
-NA,2008,0.00,Namibia
-NA,2009,0.00,Namibia
-NA,2010,0.00,Namibia
-NA,2011,0.00,Namibia
-NA,2012,0.00,Namibia
-NE,1990,28.74,Niger
-NE,1991,4.98,Niger
-NE,1992,19.86,Niger
-NE,1993,8.51,Niger
-NE,1994,15.96,Niger
-NE,1995,6.45,Niger
-NE,1996,7.73,Niger
-NE,1997,6.77,Niger
-NE,1998,-1.53,Niger
-NE,1999,-6.21,Niger
-NE,2000,3.99,Niger
-NE,2001,-6.26,Niger
-NE,2002,5.25,Niger
-NE,2003,14.93,Niger
-NE,2004,22.97,Niger
-NE,2005,28.35,Niger
-NE,2006,16.58,Niger
-NE,2007,32.77,Niger
-NE,2008,23.43,Niger
-NE,2009,83.86,Niger
-NE,2010,17.94,Niger
-NE,2011,0.00,Niger
-NE,2012,0.00,Niger
-NG,1990,351.11,Nigeria
-NG,1991,534.33,Nigeria
-NG,1992,370.94,Nigeria
-NG,1993,7010.85,Nigeria
-NG,1994,6210.34,Nigeria
-NG,1995,3023.67,Nigeria
-NG,1996,3061.32,Nigeria
-NG,1997,3783.54,Nigeria
-NG,1998,4055.81,Nigeria
-NG,1999,4226.22,Nigeria
-NG,2000,4839.08,Nigeria
-NG,2001,4835.44,Nigeria
-NG,2002,4230.73,Nigeria
-NG,2003,7000.05,Nigeria
-NG,2004,4822.58,Nigeria
-NG,2005,3849.62,Nigeria
-NG,2006,6994.26,Nigeria
-NG,2007,14601.22,Nigeria
-NG,2008,16246.62,Nigeria
-NG,2009,18847.96,Nigeria
-NG,2010,19970.70,Nigeria
-NG,2011,23043.38,Nigeria
-NG,2012,22429.82,Nigeria
-NI,1990,0.00,Nicaragua
-NI,1991,0.00,Nicaragua
-NI,1992,15.31,Nicaragua
-NI,1993,13.28,Nicaragua
-NI,1994,22.47,Nicaragua
-NI,1995,37.88,Nicaragua
-NI,1996,61.13,Nicaragua
-NI,1997,74.01,Nicaragua
-NI,1998,79.24,Nicaragua
-NI,1999,86.66,Nicaragua
-NI,2000,95.51,Nicaragua
-NI,2001,104.76,Nicaragua
-NI,2002,99.70,Nicaragua
-NI,2003,108.06,Nicaragua
-NI,2004,108.76,Nicaragua
-NI,2005,107.06,Nicaragua
-NI,2006,107.01,Nicaragua
-NI,2007,111.71,Nicaragua
-NI,2008,127.79,Nicaragua
-NI,2009,135.94,Nicaragua
-NI,2010,149.11,Nicaragua
-NI,2011,151.41,Nicaragua
-NI,2012,157.00,Nicaragua
-NL,1990,0.00,Netherlands
-NL,1991,0.00,Netherlands
-NL,1992,0.00,Netherlands
-NL,1993,0.00,Netherlands
-NL,1994,0.00,Netherlands
-NL,1995,0.00,Netherlands
-NL,1996,0.00,Netherlands
-NL,1997,0.00,Netherlands
-NL,1998,0.00,Netherlands
-NL,1999,0.00,Netherlands
-NL,2000,0.00,Netherlands
-NL,2001,0.00,Netherlands
-NL,2002,0.00,Netherlands
-NL,2003,0.00,Netherlands
-NL,2004,0.00,Netherlands
-NL,2005,0.00,Netherlands
-NL,2006,0.00,Netherlands
-NL,2007,0.00,Netherlands
-NL,2008,0.00,Netherlands
-NL,2009,0.00,Netherlands
-NL,2010,0.00,Netherlands
-NL,2011,0.00,Netherlands
-NL,2012,0.00,Netherlands
-NO,1990,0.00,Norway
-NO,1991,0.00,Norway
-NO,1992,0.00,Norway
-NO,1993,0.00,Norway
-NO,1994,0.00,Norway
-NO,1995,0.00,Norway
-NO,1996,0.00,Norway
-NO,1997,0.00,Norway
-NO,1998,0.00,Norway
-NO,1999,0.00,Norway
-NO,2000,0.00,Norway
-NO,2001,0.00,Norway
-NO,2002,0.00,Norway
-NO,2003,0.00,Norway
-NO,2004,0.00,Norway
-NO,2005,0.00,Norway
-NO,2006,0.00,Norway
-NO,2007,0.00,Norway
-NO,2008,0.00,Norway
-NO,2009,0.00,Norway
-NO,2010,0.00,Norway
-NO,2011,0.00,Norway
-NO,2012,0.00,Norway
-NP,1990,0.00,Nepal
-NP,1991,0.00,Nepal
-NP,1992,0.00,Nepal
-NP,1993,0.00,Nepal
-NP,1994,0.00,Nepal
-NP,1995,0.00,Nepal
-NP,1996,0.00,Nepal
-NP,1997,0.00,Nepal
-NP,1998,0.00,Nepal
-NP,1999,0.00,Nepal
-NP,2000,0.00,Nepal
-NP,2001,0.00,Nepal
-NP,2002,93.68,Nepal
-NP,2003,86.32,Nepal
-NP,2004,83.91,Nepal
-NP,2005,97.34,Nepal
-NP,2006,89.64,Nepal
-NP,2007,78.60,Nepal
-NP,2008,56.08,Nepal
-NP,2009,11.39,Nepal
-NP,2010,54.40,Nepal
-NP,2011,55.75,Nepal
-NP,2012,33.89,Nepal
-NZ,1990,0.00,New Zealand
-NZ,1991,0.00,New Zealand
-NZ,1992,0.00,New Zealand
-NZ,1993,0.00,New Zealand
-NZ,1994,0.00,New Zealand
-NZ,1995,0.00,New Zealand
-NZ,1996,0.00,New Zealand
-NZ,1997,0.00,New Zealand
-NZ,1998,0.00,New Zealand
-NZ,1999,0.00,New Zealand
-NZ,2000,0.00,New Zealand
-NZ,2001,0.00,New Zealand
-NZ,2002,0.00,New Zealand
-NZ,2003,0.00,New Zealand
-NZ,2004,0.00,New Zealand
-NZ,2005,0.00,New Zealand
-NZ,2006,0.00,New Zealand
-NZ,2007,0.00,New Zealand
-NZ,2008,0.00,New Zealand
-NZ,2009,0.00,New Zealand
-NZ,2010,0.00,New Zealand
-NZ,2011,0.00,New Zealand
-NZ,2012,0.00,New Zealand
-OM,1990,0.00,Oman
-OM,1991,0.00,Oman
-OM,1992,0.00,Oman
-OM,1993,0.00,Oman
-OM,1994,0.00,Oman
-OM,1995,0.00,Oman
-OM,1996,0.00,Oman
-OM,1997,0.00,Oman
-OM,1998,0.00,Oman
-OM,1999,0.00,Oman
-OM,2000,0.00,Oman
-OM,2001,0.00,Oman
-OM,2002,0.00,Oman
-OM,2003,0.00,Oman
-OM,2004,0.00,Oman
-OM,2005,0.00,Oman
-OM,2006,0.00,Oman
-OM,2007,0.00,Oman
-OM,2008,0.00,Oman
-OM,2009,0.00,Oman
-OM,2010,0.00,Oman
-OM,2011,0.00,Oman
-OM,2012,0.00,Oman
-PA,1990,341.97,Panama
-PA,1991,477.15,Panama
-PA,1992,550.75,Panama
-PA,1993,494.01,Panama
-PA,1994,425.75,Panama
-PA,1995,606.67,Panama
-PA,1996,569.45,Panama
-PA,1997,718.84,Panama
-PA,1998,866.52,Panama
-PA,1999,975.02,Panama
-PA,2000,766.23,Panama
-PA,2001,767.47,Panama
-PA,2002,257.70,Panama
-PA,2003,969.77,Panama
-PA,2004,1245.53,Panama
-PA,2005,1325.81,Panama
-PA,2006,1483.01,Panama
-PA,2007,1829.08,Panama
-PA,2008,1992.53,Panama
-PA,2009,1476.24,Panama
-PA,2010,1977.56,Panama
-PA,2011,2170.59,Panama
-PA,2012,2873.40,Panama
-PE,1990,35.53,Peru
-PE,1991,73.02,Peru
-PE,1992,123.51,Peru
-PE,1993,368.61,Peru
-PE,1994,591.77,Peru
-PE,1995,1390.15,Peru
-PE,1996,1109.38,Peru
-PE,1997,1532.62,Peru
-PE,1998,379.82,Peru
-PE,1999,35.20,Peru
-PE,2000,653.29,Peru
-PE,2001,246.39,Peru
-PE,2002,898.96,Peru
-PE,2003,2009.55,Peru
-PE,2004,4286.89,Peru
-PE,2005,6311.41,Peru
-PE,2006,9781.02,Peru
-PE,2007,10593.93,Peru
-PE,2008,10538.51,Peru
-PE,2009,10400.70,Peru
-PE,2010,12241.96,Peru
-PE,2011,13685.50,Peru
-PE,2012,11747.67,Peru
-PG,1990,266.27,Papua New Guinea
-PG,1991,299.51,Papua New Guinea
-PG,1992,414.81,Papua New Guinea
-PG,1993,404.19,Papua New Guinea
-PG,1994,384.66,Papua New Guinea
-PG,1995,692.64,Papua New Guinea
-PG,1996,627.11,Papua New Guinea
-PG,1997,412.77,Papua New Guinea
-PG,1998,401.16,Papua New Guinea
-PG,1999,608.36,Papua New Guinea
-PG,2000,481.01,Papua New Guinea
-PG,2001,570.39,Papua New Guinea
-PG,2002,619.26,Papua New Guinea
-PG,2003,1080.16,Papua New Guinea
-PG,2004,873.37,Papua New Guinea
-PG,2005,994.23,Papua New Guinea
-PG,2006,1427.45,Papua New Guinea
-PG,2007,1102.72,Papua New Guinea
-PG,2008,844.61,Papua New Guinea
-PG,2009,777.51,Papua New Guinea
-PG,2010,606.47,Papua New Guinea
-PG,2011,0.00,Papua New Guinea
-PG,2012,0.00,Papua New Guinea
-PH,1990,679.68,Philippines
-PH,1991,642.04,Philippines
-PH,1992,736.69,Philippines
-PH,1993,667.86,Philippines
-PH,1994,544.97,Philippines
-PH,1995,747.11,Philippines
-PH,1996,706.10,Philippines
-PH,1997,654.21,Philippines
-PH,1998,756.08,Philippines
-PH,1999,1369.26,Philippines
-PH,2000,402.90,Philippines
-PH,2001,1307.91,Philippines
-PH,2002,2253.01,Philippines
-PH,2003,2020.44,Philippines
-PH,2004,2547.43,Philippines
-PH,2005,2397.11,Philippines
-PH,2006,3082.25,Philippines
-PH,2007,2846.34,Philippines
-PH,2008,2002.90,Philippines
-PH,2009,2679.39,Philippines
-PH,2010,2406.13,Philippines
-PH,2011,3057.16,Philippines
-PH,2012,4237.00,Philippines
-PK,1990,88.61,Pakistan
-PK,1991,65.21,Pakistan
-PK,1992,83.64,Pakistan
-PK,1993,305.70,Pakistan
-PK,1994,380.20,Pakistan
-PK,1995,416.90,Pakistan
-PK,1996,253.39,Pakistan
-PK,1997,409.78,Pakistan
-PK,1998,463.91,Pakistan
-PK,1999,443.39,Pakistan
-PK,2000,719.64,Pakistan
-PK,2001,817.28,Pakistan
-PK,2002,1038.03,Pakistan
-PK,2003,1466.60,Pakistan
-PK,2004,2228.65,Pakistan
-PK,2005,2724.94,Pakistan
-PK,2006,3435.98,Pakistan
-PK,2007,3762.79,Pakistan
-PK,2008,3789.05,Pakistan
-PK,2009,3050.93,Pakistan
-PK,2010,2511.96,Pakistan
-PK,2011,2125.73,Pakistan
-PK,2012,2374.83,Pakistan
-PL,1990,0.00,Poland
-PL,1991,0.00,Poland
-PL,1992,0.00,Poland
-PL,1993,0.00,Poland
-PL,1994,0.00,Poland
-PL,1995,0.00,Poland
-PL,1996,0.00,Poland
-PL,1997,0.00,Poland
-PL,1998,0.00,Poland
-PL,1999,0.00,Poland
-PL,2000,0.00,Poland
-PL,2001,0.00,Poland
-PL,2002,0.00,Poland
-PL,2003,0.00,Poland
-PL,2004,0.00,Poland
-PL,2005,0.00,Poland
-PL,2006,0.00,Poland
-PL,2007,0.00,Poland
-PL,2008,0.00,Poland
-PL,2009,0.00,Poland
-PL,2010,0.00,Poland
-PL,2011,0.00,Poland
-PL,2012,0.00,Poland
-PT,1990,0.00,Portugal
-PT,1991,0.00,Portugal
-PT,1992,0.00,Portugal
-PT,1993,0.00,Portugal
-PT,1994,0.00,Portugal
-PT,1995,0.00,Portugal
-PT,1996,0.00,Portugal
-PT,1997,0.00,Portugal
-PT,1998,0.00,Portugal
-PT,1999,0.00,Portugal
-PT,2000,0.00,Portugal
-PT,2001,0.00,Portugal
-PT,2002,0.00,Portugal
-PT,2003,0.00,Portugal
-PT,2004,0.00,Portugal
-PT,2005,0.00,Portugal
-PT,2006,0.00,Portugal
-PT,2007,0.00,Portugal
-PT,2008,0.00,Portugal
-PT,2009,0.00,Portugal
-PT,2010,0.00,Portugal
-PT,2011,0.00,Portugal
-PT,2012,0.00,Portugal
-PW,1990,,Palau
-PW,1991,,Palau
-PW,1992,,Palau
-PW,1993,,Palau
-PW,1994,,Palau
-PW,1995,,Palau
-PW,1996,,Palau
-PW,1997,,Palau
-PW,1998,,Palau
-PW,1999,,Palau
-PW,2000,0.00,Palau
-PW,2001,0.00,Palau
-PW,2002,0.00,Palau
-PW,2003,0.00,Palau
-PW,2004,0.00,Palau
-PW,2005,0.00,Palau
-PW,2006,0.00,Palau
-PW,2007,0.00,Palau
-PW,2008,0.00,Palau
-PW,2009,0.00,Palau
-PW,2010,0.00,Palau
-PW,2011,0.00,Palau
-PW,2012,0.00,Palau
-PY,1990,46.77,Paraguay
-PY,1991,49.43,Paraguay
-PY,1992,38.45,Paraguay
-PY,1993,88.86,Paraguay
-PY,1994,78.89,Paraguay
-PY,1995,115.60,Paraguay
-PY,1996,136.93,Paraguay
-PY,1997,270.01,Paraguay
-PY,1998,353.67,Paraguay
-PY,1999,220.06,Paraguay
-PY,2000,177.41,Paraguay
-PY,2001,197.66,Paraguay
-PY,2002,106.53,Paraguay
-PY,2003,162.48,Paraguay
-PY,2004,446.07,Paraguay
-PY,2005,343.19,Paraguay
-PY,2006,505.84,Paraguay
-PY,2007,553.52,Paraguay
-PY,2008,608.59,Paraguay
-PY,2009,745.03,Paraguay
-PY,2010,889.58,Paraguay
-PY,2011,558.82,Paraguay
-PY,2012,860.90,Paraguay
-QA,1990,0.00,Qatar
-QA,1991,0.00,Qatar
-QA,1992,0.00,Qatar
-QA,1993,0.00,Qatar
-QA,1994,0.00,Qatar
-QA,1995,0.00,Qatar
-QA,1996,0.00,Qatar
-QA,1997,0.00,Qatar
-QA,1998,0.00,Qatar
-QA,1999,0.00,Qatar
-QA,2000,0.00,Qatar
-QA,2001,0.00,Qatar
-QA,2002,0.00,Qatar
-QA,2003,0.00,Qatar
-QA,2004,0.00,Qatar
-QA,2005,0.00,Qatar
-QA,2006,0.00,Qatar
-QA,2007,0.00,Qatar
-QA,2008,0.00,Qatar
-QA,2009,0.00,Qatar
-QA,2010,0.00,Qatar
-QA,2011,0.00,Qatar
-QA,2012,0.00,Qatar
-RO,1990,0.00,Romania
-RO,1991,0.00,Romania
-RO,1992,0.00,Romania
-RO,1993,15.79,Romania
-RO,1994,43.14,Romania
-RO,1995,91.43,Romania
-RO,1996,81.83,Romania
-RO,1997,96.18,Romania
-RO,1998,393.73,Romania
-RO,1999,155.50,Romania
-RO,2000,211.27,Romania
-RO,2001,333.73,Romania
-RO,2002,521.12,Romania
-RO,2003,546.80,Romania
-RO,2004,4753.13,Romania
-RO,2005,4267.18,Romania
-RO,2006,5295.17,Romania
-RO,2007,5817.79,Romania
-RO,2008,3774.93,Romania
-RO,2009,1222.54,Romania
-RO,2010,715.65,Romania
-RO,2011,616.93,Romania
-RO,2012,-378.00,Romania
-RS,1990,,Serbia
-RS,1991,,Serbia
-RS,1992,,Serbia
-RS,1993,,Serbia
-RS,1994,,Serbia
-RS,1995,,Serbia
-RS,1996,,Serbia
-RS,1997,,Serbia
-RS,1998,,Serbia
-RS,1999,,Serbia
-RS,2000,0.00,Serbia
-RS,2001,0.00,Serbia
-RS,2002,0.00,Serbia
-RS,2003,0.00,Serbia
-RS,2004,0.00,Serbia
-RS,2005,0.00,Serbia
-RS,2006,0.00,Serbia
-RS,2007,573.04,Serbia
-RS,2008,729.97,Serbia
-RS,2009,422.44,Serbia
-RS,2010,572.94,Serbia
-RS,2011,469.08,Serbia
-RS,2012,602.40,Serbia
-RU,1990,#N/A,Russia
-RU,1991,#N/A,Russia
-RU,1992,#N/A,Russia
-RU,1993,#N/A,Russia
-RU,1994,#N/A,Russia
-RU,1995,#N/A,Russia
-RU,1996,#N/A,Russia
-RU,1997,#N/A,Russia
-RU,1998,#N/A,Russia
-RU,1999,#N/A,Russia
-RU,2000,#N/A,Russia
-RU,2001,#N/A,Russia
-RU,2002,#N/A,Russia
-RU,2003,#N/A,Russia
-RU,2004,#N/A,Russia
-RU,2005,#N/A,Russia
-RU,2006,#N/A,Russia
-RU,2007,#N/A,Russia
-RU,2008,#N/A,Russia
-RU,2009,#N/A,Russia
-RU,2010,#N/A,Russia
-RU,2011,#N/A,Russia
-RU,2012,#N/A,Russia
-RW,1990,6.49,Rwanda
-RW,1991,7.55,Rwanda
-RW,1992,5.46,Rwanda
-RW,1993,4.19,Rwanda
-RW,1994,0.00,Rwanda
-RW,1995,2.12,Rwanda
-RW,1996,3.23,Rwanda
-RW,1997,5.09,Rwanda
-RW,1998,0.31,Rwanda
-RW,1999,1.10,Rwanda
-RW,2000,4.94,Rwanda
-RW,2001,6.05,Rwanda
-RW,2002,0.73,Rwanda
-RW,2003,10.35,Rwanda
-RW,2004,5.28,Rwanda
-RW,2005,7.44,Rwanda
-RW,2006,5.63,Rwanda
-RW,2007,15.10,Rwanda
-RW,2008,18.58,Rwanda
-RW,2009,5.03,Rwanda
-RW,2010,4.05,Rwanda
-RW,2011,12.53,Rwanda
-RW,2012,0.86,Rwanda
-SA,1990,0.00,Saudi Arabia
-SA,1991,0.00,Saudi Arabia
-SA,1992,0.00,Saudi Arabia
-SA,1993,0.00,Saudi Arabia
-SA,1994,0.00,Saudi Arabia
-SA,1995,0.00,Saudi Arabia
-SA,1996,0.00,Saudi Arabia
-SA,1997,0.00,Saudi Arabia
-SA,1998,0.00,Saudi Arabia
-SA,1999,0.00,Saudi Arabia
-SA,2000,0.00,Saudi Arabia
-SA,2001,0.00,Saudi Arabia
-SA,2002,0.00,Saudi Arabia
-SA,2003,0.00,Saudi Arabia
-SA,2004,0.00,Saudi Arabia
-SA,2005,0.00,Saudi Arabia
-SA,2006,0.00,Saudi Arabia
-SA,2007,0.00,Saudi Arabia
-SA,2008,0.00,Saudi Arabia
-SA,2009,0.00,Saudi Arabia
-SA,2010,0.00,Saudi Arabia
-SA,2011,0.00,Saudi Arabia
-SA,2012,0.00,Saudi Arabia
-SB,1990,4.52,Solomon Islands
-SB,1991,8.58,Solomon Islands
-SB,1992,8.52,Solomon Islands
-SB,1993,6.54,Solomon Islands
-SB,1994,6.02,Solomon Islands
-SB,1995,11.11,Solomon Islands
-SB,1996,11.30,Solomon Islands
-SB,1997,12.22,Solomon Islands
-SB,1998,13.17,Solomon Islands
-SB,1999,16.81,Solomon Islands
-SB,2000,13.28,Solomon Islands
-SB,2001,4.12,Solomon Islands
-SB,2002,11.75,Solomon Islands
-SB,2003,10.12,Solomon Islands
-SB,2004,11.74,Solomon Islands
-SB,2005,8.80,Solomon Islands
-SB,2006,36.94,Solomon Islands
-SB,2007,62.24,Solomon Islands
-SB,2008,142.77,Solomon Islands
-SB,2009,181.08,Solomon Islands
-SB,2010,160.48,Solomon Islands
-SB,2011,146.47,Solomon Islands
-SB,2012,84.24,Solomon Islands
-SC,1990,11.98,Seychelles
-SC,1991,10.80,Seychelles
-SC,1992,8.71,Seychelles
-SC,1993,7.94,Seychelles
-SC,1994,10.20,Seychelles
-SC,1995,17.24,Seychelles
-SC,1996,13.00,Seychelles
-SC,1997,8.36,Seychelles
-SC,1998,7.78,Seychelles
-SC,1999,9.70,Seychelles
-SC,2000,11.16,Seychelles
-SC,2001,15.37,Seychelles
-SC,2002,57.89,Seychelles
-SC,2003,28.48,Seychelles
-SC,2004,15.46,Seychelles
-SC,2005,18.16,Seychelles
-SC,2006,22.38,Seychelles
-SC,2007,2.26,Seychelles
-SC,2008,2.45,Seychelles
-SC,2009,0.67,Seychelles
-SC,2010,-1.15,Seychelles
-SC,2011,4.08,Seychelles
-SC,2012,3.25,Seychelles
-SD,1990,0.00,Sudan
-SD,1991,0.00,Sudan
-SD,1992,0.00,Sudan
-SD,1993,0.00,Sudan
-SD,1994,0.00,Sudan
-SD,1995,0.00,Sudan
-SD,1996,0.00,Sudan
-SD,1997,0.00,Sudan
-SD,1998,0.00,Sudan
-SD,1999,0.00,Sudan
-SD,2000,0.00,Sudan
-SD,2001,0.00,Sudan
-SD,2002,1846.96,Sudan
-SD,2003,2328.38,Sudan
-SD,2004,2607.18,Sudan
-SD,2005,2073.69,Sudan
-SD,2006,3091.10,Sudan
-SD,2007,2902.14,Sudan
-SD,2008,4820.66,Sudan
-SD,2009,3495.60,Sudan
-SD,2010,3228.88,Sudan
-SD,2011,370.90,Sudan
-SD,2012,4.95,Sudan
-SE,1990,0.00,Sweden
-SE,1991,0.00,Sweden
-SE,1992,0.00,Sweden
-SE,1993,0.00,Sweden
-SE,1994,0.00,Sweden
-SE,1995,0.00,Sweden
-SE,1996,0.00,Sweden
-SE,1997,0.00,Sweden
-SE,1998,0.00,Sweden
-SE,1999,0.00,Sweden
-SE,2000,0.00,Sweden
-SE,2001,0.00,Sweden
-SE,2002,0.00,Sweden
-SE,2003,0.00,Sweden
-SE,2004,0.00,Sweden
-SE,2005,0.00,Sweden
-SE,2006,0.00,Sweden
-SE,2007,0.00,Sweden
-SE,2008,0.00,Sweden
-SE,2009,0.00,Sweden
-SE,2010,0.00,Sweden
-SE,2011,0.00,Sweden
-SE,2012,0.00,Sweden
-SG,1990,0.00,Singapore
-SG,1991,0.00,Singapore
-SG,1992,0.00,Singapore
-SG,1993,0.00,Singapore
-SG,1994,0.00,Singapore
-SG,1995,0.00,Singapore
-SG,1996,0.00,Singapore
-SG,1997,0.00,Singapore
-SG,1998,0.00,Singapore
-SG,1999,0.00,Singapore
-SG,2000,0.00,Singapore
-SG,2001,0.00,Singapore
-SG,2002,0.00,Singapore
-SG,2003,0.00,Singapore
-SG,2004,0.00,Singapore
-SG,2005,0.00,Singapore
-SG,2006,0.00,Singapore
-SG,2007,0.00,Singapore
-SG,2008,0.00,Singapore
-SG,2009,0.00,Singapore
-SG,2010,0.00,Singapore
-SG,2011,0.00,Singapore
-SG,2012,0.00,Singapore
-SI,1990,,Slovenia
-SI,1991,,Slovenia
-SI,1992,,Slovenia
-SI,1993,,Slovenia
-SI,1994,,Slovenia
-SI,1995,,Slovenia
-SI,1996,,Slovenia
-SI,1997,,Slovenia
-SI,1998,,Slovenia
-SI,1999,,Slovenia
-SI,2000,,Slovenia
-SI,2001,,Slovenia
-SI,2002,,Slovenia
-SI,2003,,Slovenia
-SI,2004,,Slovenia
-SI,2005,0.00,Slovenia
-SI,2006,0.00,Slovenia
-SI,2007,0.00,Slovenia
-SI,2008,0.00,Slovenia
-SI,2009,0.00,Slovenia
-SI,2010,0.00,Slovenia
-SI,2011,0.00,Slovenia
-SI,2012,0.00,Slovenia
-SK,1990,,Slovak Republic
-SK,1991,,Slovak Republic
-SK,1992,,Slovak Republic
-SK,1993,0.00,Slovak Republic
-SK,1994,0.00,Slovak Republic
-SK,1995,0.00,Slovak Republic
-SK,1996,0.00,Slovak Republic
-SK,1997,0.00,Slovak Republic
-SK,1998,0.00,Slovak Republic
-SK,1999,0.00,Slovak Republic
-SK,2000,0.00,Slovak Republic
-SK,2001,0.00,Slovak Republic
-SK,2002,0.00,Slovak Republic
-SK,2003,0.00,Slovak Republic
-SK,2004,0.00,Slovak Republic
-SK,2005,0.00,Slovak Republic
-SK,2006,0.00,Slovak Republic
-SK,2007,0.00,Slovak Republic
-SK,2008,0.00,Slovak Republic
-SK,2009,0.00,Slovak Republic
-SK,2010,0.00,Slovak Republic
-SK,2011,0.00,Slovak Republic
-SK,2012,0.00,Slovak Republic
-SL,1990,155.86,Sierra Leone
-SL,1991,37.54,Sierra Leone
-SL,1992,3.11,Sierra Leone
-SL,1993,1.74,Sierra Leone
-SL,1994,0.46,Sierra Leone
-SL,1995,20.00,Sierra Leone
-SL,1996,5.39,Sierra Leone
-SL,1997,2.90,Sierra Leone
-SL,1998,4.70,Sierra Leone
-SL,1999,8.05,Sierra Leone
-SL,2000,2.55,Sierra Leone
-SL,2001,0.80,Sierra Leone
-SL,2002,3.09,Sierra Leone
-SL,2003,14.78,Sierra Leone
-SL,2004,51.85,Sierra Leone
-SL,2005,60.20,Sierra Leone
-SL,2006,36.31,Sierra Leone
-SL,2007,153.19,Sierra Leone
-SL,2008,86.45,Sierra Leone
-SL,2009,46.86,Sierra Leone
-SL,2010,55.66,Sierra Leone
-SL,2011,245.51,Sierra Leone
-SL,2012,130.49,Sierra Leone
-SM,1990,,San Marino
-SM,1991,,San Marino
-SM,1992,,San Marino
-SM,1993,,San Marino
-SM,1994,,San Marino
-SM,1995,,San Marino
-SM,1996,,San Marino
-SM,1997,,San Marino
-SM,1998,,San Marino
-SM,1999,,San Marino
-SM,2000,,San Marino
-SM,2001,,San Marino
-SM,2002,,San Marino
-SM,2003,,San Marino
-SM,2004,0.00,San Marino
-SM,2005,0.00,San Marino
-SM,2006,0.00,San Marino
-SM,2007,0.00,San Marino
-SM,2008,0.00,San Marino
-SM,2009,0.00,San Marino
-SM,2010,0.00,San Marino
-SM,2011,0.00,San Marino
-SM,2012,0.00,San Marino
-SN,1990,69.40,Senegal
-SN,1991,32.15,Senegal
-SN,1992,33.40,Senegal
-SN,1993,29.87,Senegal
-SN,1994,61.25,Senegal
-SN,1995,92.20,Senegal
-SN,1996,21.67,Senegal
-SN,1997,26.95,Senegal
-SN,1998,72.01,Senegal
-SN,1999,117.71,Senegal
-SN,2000,142.80,Senegal
-SN,2001,127.90,Senegal
-SN,2002,158.18,Senegal
-SN,2003,129.19,Senegal
-SN,2004,88.99,Senegal
-SN,2005,221.67,Senegal
-SN,2006,151.48,Senegal
-SN,2007,150.18,Senegal
-SN,2008,164.73,Senegal
-SN,2009,146.18,Senegal
-SN,2010,138.23,Senegal
-SN,2011,0.00,Senegal
-SN,2012,0.00,Senegal
-SR,1990,0.00,Suriname
-SR,1991,0.00,Suriname
-SR,1992,0.00,Suriname
-SR,1993,0.00,Suriname
-SR,1994,0.00,Suriname
-SR,1995,0.00,Suriname
-SR,1996,0.00,Suriname
-SR,1997,0.00,Suriname
-SR,1998,0.00,Suriname
-SR,1999,0.00,Suriname
-SR,2000,0.00,Suriname
-SR,2001,0.00,Suriname
-SR,2002,0.00,Suriname
-SR,2003,0.00,Suriname
-SR,2004,0.00,Suriname
-SR,2005,0.00,Suriname
-SR,2006,0.00,Suriname
-SR,2007,0.00,Suriname
-SR,2008,0.00,Suriname
-SR,2009,0.00,Suriname
-SR,2010,0.00,Suriname
-SR,2011,0.00,Suriname
-SR,2012,0.00,Suriname
-SS,1990,,South Sudan
-SS,1991,,South Sudan
-SS,1992,,South Sudan
-SS,1993,,South Sudan
-SS,1994,,South Sudan
-SS,1995,,South Sudan
-SS,1996,,South Sudan
-SS,1997,,South Sudan
-SS,1998,,South Sudan
-SS,1999,,South Sudan
-SS,2000,,South Sudan
-SS,2001,,South Sudan
-SS,2002,,South Sudan
-SS,2003,,South Sudan
-SS,2004,,South Sudan
-SS,2005,,South Sudan
-SS,2006,,South Sudan
-SS,2007,,South Sudan
-SS,2008,,South Sudan
-SS,2009,,South Sudan
-SS,2010,,South Sudan
-SS,2011,0.00,South Sudan
-SS,2012,0.00,South Sudan
-ST,1990,0.00,Sao Tome & Principe
-ST,1991,0.00,Sao Tome & Principe
-ST,1992,0.00,Sao Tome & Principe
-ST,1993,0.00,Sao Tome & Principe
-ST,1994,0.00,Sao Tome & Principe
-ST,1995,0.00,Sao Tome & Principe
-ST,1996,0.00,Sao Tome & Principe
-ST,1997,0.00,Sao Tome & Principe
-ST,1998,0.00,Sao Tome & Principe
-ST,1999,0.00,Sao Tome & Principe
-ST,2000,0.00,Sao Tome & Principe
-ST,2001,0.00,Sao Tome & Principe
-ST,2002,0.00,Sao Tome & Principe
-ST,2003,0.00,Sao Tome & Principe
-ST,2004,0.00,Sao Tome & Principe
-ST,2005,0.00,Sao Tome & Principe
-ST,2006,0.00,Sao Tome & Principe
-ST,2007,0.00,Sao Tome & Principe
-ST,2008,0.00,Sao Tome & Principe
-ST,2009,0.00,Sao Tome & Principe
-ST,2010,0.00,Sao Tome & Principe
-ST,2011,0.00,Sao Tome & Principe
-ST,2012,0.00,Sao Tome & Principe
-SV,1990,79.00,El Salvador
-SV,1991,85.12,El Salvador
-SV,1992,59.36,El Salvador
-SV,1993,52.80,El Salvador
-SV,1994,51.16,El Salvador
-SV,1995,0.00,El Salvador
-SV,1996,0.00,El Salvador
-SV,1997,0.00,El Salvador
-SV,1998,43.96,El Salvador
-SV,1999,165.38,El Salvador
-SV,2000,86.10,El Salvador
-SV,2001,102.72,El Salvador
-SV,2002,123.48,El Salvador
-SV,2003,114.19,El Salvador
-SV,2004,104.94,El Salvador
-SV,2005,226.03,El Salvador
-SV,2006,108.97,El Salvador
-SV,2007,181.85,El Salvador
-SV,2008,42.83,El Salvador
-SV,2009,191.75,El Salvador
-SV,2010,223.56,El Salvador
-SV,2011,278.85,El Salvador
-SV,2012,514.86,El Salvador
-SY,1990,,Syria
-SY,1991,,Syria
-SY,1992,,Syria
-SY,1993,,Syria
-SY,1994,,Syria
-SY,1995,,Syria
-SY,1996,,Syria
-SY,1997,,Syria
-SY,1998,,Syria
-SY,1999,,Syria
-SY,2000,,Syria
-SY,2001,,Syria
-SY,2002,,Syria
-SY,2003,,Syria
-SY,2004,,Syria
-SY,2005,,Syria
-SY,2006,,Syria
-SY,2007,,Syria
-SY,2008,,Syria
-SY,2009,,Syria
-SY,2010,,Syria
-SY,2011,,Syria
-SY,2012,,Syria
-SZ,1990,173.18,Swaziland
-SZ,1991,169.68,Swaziland
-SZ,1992,182.82,Swaziland
-SZ,1993,166.40,Swaziland
-SZ,1994,243.79,Swaziland
-SZ,1995,105.07,Swaziland
-SZ,1996,84.95,Swaziland
-SZ,1997,38.66,Swaziland
-SZ,1998,176.88,Swaziland
-SZ,1999,84.95,Swaziland
-SZ,2000,131.53,Swaziland
-SZ,2001,65.68,Swaziland
-SZ,2002,316.27,Swaziland
-SZ,2003,130.89,Swaziland
-SZ,2004,118.84,Swaziland
-SZ,2005,57.52,Swaziland
-SZ,2006,197.61,Swaziland
-SZ,2007,189.52,Swaziland
-SZ,2008,309.16,Swaziland
-SZ,2009,415.74,Swaziland
-SZ,2010,393.71,Swaziland
-SZ,2011,0.00,Swaziland
-SZ,2012,0.00,Swaziland
-TD,1990,0.00,Chad
-TD,1991,0.00,Chad
-TD,1992,23.82,Chad
-TD,1993,0.00,Chad
-TD,1994,0.00,Chad
-TD,1995,0.00,Chad
-TD,1996,0.00,Chad
-TD,1997,0.00,Chad
-TD,1998,0.00,Chad
-TD,1999,0.00,Chad
-TD,2000,0.00,Chad
-TD,2001,0.00,Chad
-TD,2002,0.00,Chad
-TD,2003,0.00,Chad
-TD,2004,0.00,Chad
-TD,2005,0.00,Chad
-TD,2006,0.00,Chad
-TD,2007,0.00,Chad
-TD,2008,0.00,Chad
-TD,2009,0.00,Chad
-TD,2010,0.00,Chad
-TD,2011,0.00,Chad
-TD,2012,0.00,Chad
-TG,1990,22.31,Togo
-TG,1991,17.00,Togo
-TG,1992,18.51,Togo
-TG,1993,18.33,Togo
-TG,1994,9.04,Togo
-TG,1995,2.60,Togo
-TG,1996,10.39,Togo
-TG,1997,29.08,Togo
-TG,1998,34.01,Togo
-TG,1999,34.74,Togo
-TG,2000,37.84,Togo
-TG,2001,53.02,Togo
-TG,2002,34.29,Togo
-TG,2003,32.11,Togo
-TG,2004,59.34,Togo
-TG,2005,67.12,Togo
-TG,2006,78.03,Togo
-TG,2007,55.79,Togo
-TG,2008,53.16,Togo
-TG,2009,44.44,Togo
-TG,2010,74.43,Togo
-TG,2011,0.00,Togo
-TG,2012,0.00,Togo
-TH,1990,531.86,Thailand
-TH,1991,91.24,Thailand
-TH,1992,0.00,Thailand
-TH,1993,0.00,Thailand
-TH,1994,0.00,Thailand
-TH,1995,0.00,Thailand
-TH,1996,0.00,Thailand
-TH,1997,0.00,Thailand
-TH,1998,0.00,Thailand
-TH,1999,0.00,Thailand
-TH,2000,0.00,Thailand
-TH,2001,2335.24,Thailand
-TH,2002,4552.47,Thailand
-TH,2003,6023.43,Thailand
-TH,2004,7209.72,Thailand
-TH,2005,17671.75,Thailand
-TH,2006,16628.84,Thailand
-TH,2007,18406.65,Thailand
-TH,2008,18150.79,Thailand
-TH,2009,16044.22,Thailand
-TH,2010,20291.65,Thailand
-TH,2011,18549.86,Thailand
-TH,2012,22595.94,Thailand
-TJ,1990,,Tajikistan
-TJ,1991,,Tajikistan
-TJ,1992,0.00,Tajikistan
-TJ,1993,0.00,Tajikistan
-TJ,1994,0.00,Tajikistan
-TJ,1995,0.00,Tajikistan
-TJ,1996,0.00,Tajikistan
-TJ,1997,0.00,Tajikistan
-TJ,1998,0.00,Tajikistan
-TJ,1999,0.00,Tajikistan
-TJ,2000,0.00,Tajikistan
-TJ,2001,0.00,Tajikistan
-TJ,2002,0.04,Tajikistan
-TJ,2003,1.87,Tajikistan
-TJ,2004,2.78,Tajikistan
-TJ,2005,4.50,Tajikistan
-TJ,2006,83.79,Tajikistan
-TJ,2007,38.71,Tajikistan
-TJ,2008,4.78,Tajikistan
-TJ,2009,6.68,Tajikistan
-TJ,2010,10.62,Tajikistan
-TJ,2011,7.75,Tajikistan
-TJ,2012,33.04,Tajikistan
-TL,1990,,Timor-Leste
-TL,1991,,Timor-Leste
-TL,1992,,Timor-Leste
-TL,1993,,Timor-Leste
-TL,1994,,Timor-Leste
-TL,1995,,Timor-Leste
-TL,1996,,Timor-Leste
-TL,1997,,Timor-Leste
-TL,1998,,Timor-Leste
-TL,1999,,Timor-Leste
-TL,2000,0.00,Timor-Leste
-TL,2001,0.00,Timor-Leste
-TL,2002,0.00,Timor-Leste
-TL,2003,0.00,Timor-Leste
-TL,2004,0.00,Timor-Leste
-TL,2005,0.00,Timor-Leste
-TL,2006,0.00,Timor-Leste
-TL,2007,0.00,Timor-Leste
-TL,2008,0.00,Timor-Leste
-TL,2009,0.00,Timor-Leste
-TL,2010,0.00,Timor-Leste
-TL,2011,0.00,Timor-Leste
-TL,2012,0.00,Timor-Leste
-TM,1990,,Turkmenistan
-TM,1991,,Turkmenistan
-TM,1992,0.00,Turkmenistan
-TM,1993,0.00,Turkmenistan
-TM,1994,0.00,Turkmenistan
-TM,1995,0.00,Turkmenistan
-TM,1996,114.84,Turkmenistan
-TM,1997,13.67,Turkmenistan
-TM,1998,0.00,Turkmenistan
-TM,1999,0.00,Turkmenistan
-TM,2000,0.00,Turkmenistan
-TM,2001,0.00,Turkmenistan
-TM,2002,0.00,Turkmenistan
-TM,2003,0.00,Turkmenistan
-TM,2004,0.00,Turkmenistan
-TM,2005,0.00,Turkmenistan
-TM,2006,0.00,Turkmenistan
-TM,2007,0.00,Turkmenistan
-TM,2008,0.00,Turkmenistan
-TM,2009,0.00,Turkmenistan
-TM,2010,0.00,Turkmenistan
-TM,2011,0.00,Turkmenistan
-TM,2012,0.00,Turkmenistan
-TN,1990,131.28,Tunisia
-TN,1991,254.54,Tunisia
-TN,1992,219.53,Tunisia
-TN,1993,159.50,Tunisia
-TN,1994,236.58,Tunisia
-TN,1995,196.15,Tunisia
-TN,1996,349.70,Tunisia
-TN,1997,402.56,Tunisia
-TN,1998,405.27,Tunisia
-TN,1999,481.79,Tunisia
-TN,2000,631.02,Tunisia
-TN,2001,660.29,Tunisia
-TN,2002,631.04,Tunisia
-TN,2003,637.48,Tunisia
-TN,2004,750.33,Tunisia
-TN,2005,1070.14,Tunisia
-TN,2006,1090.68,Tunisia
-TN,2007,1577.80,Tunisia
-TN,2008,1839.17,Tunisia
-TN,2009,1582.13,Tunisia
-TN,2010,1669.15,Tunisia
-TN,2011,1632.36,Tunisia
-TN,2012,1533.33,Tunisia
-TO,1990,0.72,Tonga
-TO,1991,0.00,Tonga
-TO,1992,0.00,Tonga
-TO,1993,0.00,Tonga
-TO,1994,0.00,Tonga
-TO,1995,0.00,Tonga
-TO,1996,0.00,Tonga
-TO,1997,0.00,Tonga
-TO,1998,0.00,Tonga
-TO,1999,0.00,Tonga
-TO,2000,0.00,Tonga
-TO,2001,0.00,Tonga
-TO,2002,1.60,Tonga
-TO,2003,1.59,Tonga
-TO,2004,0.00,Tonga
-TO,2005,0.00,Tonga
-TO,2006,0.00,Tonga
-TO,2007,0.00,Tonga
-TO,2008,0.00,Tonga
-TO,2009,0.03,Tonga
-TO,2010,0.00,Tonga
-TO,2011,0.00,Tonga
-TO,2012,0.00,Tonga
-TR,1990,269.39,Turkey
-TR,1991,265.18,Turkey
-TR,1992,262.44,Turkey
-TR,1993,408.07,Turkey
-TR,1994,236.65,Turkey
-TR,1995,542.80,Turkey
-TR,1996,359.22,Turkey
-TR,1997,362.12,Turkey
-TR,1998,572.12,Turkey
-TR,1999,568.04,Turkey
-TR,2000,507.51,Turkey
-TR,2001,720.97,Turkey
-TR,2002,837.79,Turkey
-TR,2003,1084.41,Turkey
-TR,2004,1486.67,Turkey
-TR,2005,1319.48,Turkey
-TR,2006,1446.75,Turkey
-TR,2007,2321.35,Turkey
-TR,2008,2758.66,Turkey
-TR,2009,3096.88,Turkey
-TR,2010,2779.01,Turkey
-TR,2011,2911.05,Turkey
-TR,2012,2193.00,Turkey
-TT,1990,0.00,Trinidad and Tobago
-TT,1991,0.00,Trinidad and Tobago
-TT,1992,0.00,Trinidad and Tobago
-TT,1993,0.00,Trinidad and Tobago
-TT,1994,0.00,Trinidad and Tobago
-TT,1995,0.00,Trinidad and Tobago
-TT,1996,0.00,Trinidad and Tobago
-TT,1997,0.00,Trinidad and Tobago
-TT,1998,0.00,Trinidad and Tobago
-TT,1999,0.00,Trinidad and Tobago
-TT,2000,0.00,Trinidad and Tobago
-TT,2001,0.00,Trinidad and Tobago
-TT,2002,0.00,Trinidad and Tobago
-TT,2003,0.00,Trinidad and Tobago
-TT,2004,0.00,Trinidad and Tobago
-TT,2005,0.00,Trinidad and Tobago
-TT,2006,0.00,Trinidad and Tobago
-TT,2007,0.00,Trinidad and Tobago
-TT,2008,0.00,Trinidad and Tobago
-TT,2009,0.00,Trinidad and Tobago
-TT,2010,0.00,Trinidad and Tobago
-TT,2011,0.00,Trinidad and Tobago
-TT,2012,0.00,Trinidad and Tobago
-TV,1990,,Tuvalu
-TV,1991,,Tuvalu
-TV,1992,,Tuvalu
-TV,1993,,Tuvalu
-TV,1994,,Tuvalu
-TV,1995,,Tuvalu
-TV,1996,,Tuvalu
-TV,1997,,Tuvalu
-TV,1998,,Tuvalu
-TV,1999,,Tuvalu
-TV,2000,0.00,Tuvalu
-TV,2001,0.00,Tuvalu
-TV,2002,0.00,Tuvalu
-TV,2003,0.00,Tuvalu
-TV,2004,0.00,Tuvalu
-TV,2005,0.00,Tuvalu
-TV,2006,0.00,Tuvalu
-TV,2007,0.00,Tuvalu
-TV,2008,0.00,Tuvalu
-TV,2009,0.00,Tuvalu
-TV,2010,0.00,Tuvalu
-TV,2011,0.00,Tuvalu
-TV,2012,0.00,Tuvalu
-TW,1990,#N/A,Taiwan Province of China
-TW,1991,#N/A,Taiwan Province of China
-TW,1992,#N/A,Taiwan Province of China
-TW,1993,#N/A,Taiwan Province of China
-TW,1994,#N/A,Taiwan Province of China
-TW,1995,#N/A,Taiwan Province of China
-TW,1996,#N/A,Taiwan Province of China
-TW,1997,#N/A,Taiwan Province of China
-TW,1998,#N/A,Taiwan Province of China
-TW,1999,#N/A,Taiwan Province of China
-TW,2000,#N/A,Taiwan Province of China
-TW,2001,#N/A,Taiwan Province of China
-TW,2002,#N/A,Taiwan Province of China
-TW,2003,#N/A,Taiwan Province of China
-TW,2004,#N/A,Taiwan Province of China
-TW,2005,#N/A,Taiwan Province of China
-TW,2006,#N/A,Taiwan Province of China
-TW,2007,#N/A,Taiwan Province of China
-TW,2008,#N/A,Taiwan Province of China
-TW,2009,#N/A,Taiwan Province of China
-TW,2010,#N/A,Taiwan Province of China
-TW,2011,#N/A,Taiwan Province of China
-TW,2012,#N/A,Taiwan Province of China
-TZ,1990,0.00,Tanzania
-TZ,1991,0.00,Tanzania
-TZ,1992,0.00,Tanzania
-TZ,1993,0.00,Tanzania
-TZ,1994,0.00,Tanzania
-TZ,1995,2.64,Tanzania
-TZ,1996,2.95,Tanzania
-TZ,1997,4.25,Tanzania
-TZ,1998,10.29,Tanzania
-TZ,1999,21.06,Tanzania
-TZ,2000,16.52,Tanzania
-TZ,2001,314.31,Tanzania
-TZ,2002,90.28,Tanzania
-TZ,2003,153.74,Tanzania
-TZ,2004,228.92,Tanzania
-TZ,2005,404.00,Tanzania
-TZ,2006,33.77,Tanzania
-TZ,2007,376.37,Tanzania
-TZ,2008,338.72,Tanzania
-TZ,2009,373.49,Tanzania
-TZ,2010,398.89,Tanzania
-TZ,2011,344.25,Tanzania
-TZ,2012,267.51,Tanzania
-UA,1990,,Ukraine
-UA,1991,,Ukraine
-UA,1992,0.00,Ukraine
-UA,1993,0.00,Ukraine
-UA,1994,0.00,Ukraine
-UA,1995,0.00,Ukraine
-UA,1996,76.02,Ukraine
-UA,1997,94.93,Ukraine
-UA,1998,161.21,Ukraine
-UA,1999,226.49,Ukraine
-UA,2000,151.05,Ukraine
-UA,2001,249.30,Ukraine
-UA,2002,312.53,Ukraine
-UA,2003,248.05,Ukraine
-UA,2004,429.66,Ukraine
-UA,2005,496.10,Ukraine
-UA,2006,1583.77,Ukraine
-UA,2007,1521.74,Ukraine
-UA,2008,2624.10,Ukraine
-UA,2009,3484.49,Ukraine
-UA,2010,2719.79,Ukraine
-UA,2011,4397.49,Ukraine
-UA,2012,4775.00,Ukraine
-UG,1990,0.00,Uganda
-UG,1991,0.00,Uganda
-UG,1992,0.00,Uganda
-UG,1993,31.99,Uganda
-UG,1994,31.61,Uganda
-UG,1995,70.12,Uganda
-UG,1996,31.89,Uganda
-UG,1997,12.60,Uganda
-UG,1998,19.55,Uganda
-UG,1999,23.58,Uganda
-UG,2000,29.99,Uganda
-UG,2001,107.93,Uganda
-UG,2002,104.50,Uganda
-UG,2003,138.72,Uganda
-UG,2004,324.49,Uganda
-UG,2005,276.88,Uganda
-UG,2006,333.14,Uganda
-UG,2007,307.73,Uganda
-UG,2008,268.59,Uganda
-UG,2009,273.73,Uganda
-UG,2010,207.09,Uganda
-UG,2011,297.39,Uganda
-UG,2012,368.54,Uganda
-US,1990,0.00,United States
-US,1991,0.00,United States
-US,1992,0.00,United States
-US,1993,0.00,United States
-US,1994,0.00,United States
-US,1995,0.00,United States
-US,1996,0.00,United States
-US,1997,0.00,United States
-US,1998,0.00,United States
-US,1999,0.00,United States
-US,2000,0.00,United States
-US,2001,0.00,United States
-US,2002,0.00,United States
-US,2003,0.00,United States
-US,2004,0.00,United States
-US,2005,0.00,United States
-US,2006,0.00,United States
-US,2007,0.00,United States
-US,2008,0.00,United States
-US,2009,0.00,United States
-US,2010,0.00,United States
-US,2011,0.00,United States
-US,2012,0.00,United States
-UY,1990,0.00,Uruguay
-UY,1991,0.00,Uruguay
-UY,1992,0.00,Uruguay
-UY,1993,0.00,Uruguay
-UY,1994,0.00,Uruguay
-UY,1995,0.00,Uruguay
-UY,1996,0.00,Uruguay
-UY,1997,0.00,Uruguay
-UY,1998,0.00,Uruguay
-UY,1999,0.00,Uruguay
-UY,2000,0.00,Uruguay
-UY,2001,0.00,Uruguay
-UY,2002,0.00,Uruguay
-UY,2003,0.00,Uruguay
-UY,2004,0.00,Uruguay
-UY,2005,0.00,Uruguay
-UY,2006,0.00,Uruguay
-UY,2007,0.00,Uruguay
-UY,2008,0.00,Uruguay
-UY,2009,0.00,Uruguay
-UY,2010,0.00,Uruguay
-UY,2011,0.00,Uruguay
-UY,2012,0.00,Uruguay
-UZ,1990,,Uzbekistan
-UZ,1991,,Uzbekistan
-UZ,1992,0.00,Uzbekistan
-UZ,1993,0.00,Uzbekistan
-UZ,1994,0.00,Uzbekistan
-UZ,1995,0.00,Uzbekistan
-UZ,1996,0.00,Uzbekistan
-UZ,1997,0.00,Uzbekistan
-UZ,1998,0.00,Uzbekistan
-UZ,1999,0.00,Uzbekistan
-UZ,2000,0.00,Uzbekistan
-UZ,2001,0.00,Uzbekistan
-UZ,2002,0.00,Uzbekistan
-UZ,2003,0.00,Uzbekistan
-UZ,2004,0.00,Uzbekistan
-UZ,2005,0.00,Uzbekistan
-UZ,2006,0.00,Uzbekistan
-UZ,2007,0.00,Uzbekistan
-UZ,2008,0.00,Uzbekistan
-UZ,2009,0.00,Uzbekistan
-UZ,2010,0.00,Uzbekistan
-UZ,2011,0.00,Uzbekistan
-UZ,2012,0.00,Uzbekistan
-VC,1990,21.98,St.Vincent & Grenadines
-VC,1991,20.48,St.Vincent & Grenadines
-VC,1992,14.18,St.Vincent & Grenadines
-VC,1993,11.31,St.Vincent & Grenadines
-VC,1994,16.80,St.Vincent & Grenadines
-VC,1995,16.04,St.Vincent & Grenadines
-VC,1996,12.77,St.Vincent & Grenadines
-VC,1997,14.16,St.Vincent & Grenadines
-VC,1998,14.55,St.Vincent & Grenadines
-VC,1999,19.73,St.Vincent & Grenadines
-VC,2000,16.82,St.Vincent & Grenadines
-VC,2001,13.84,St.Vincent & Grenadines
-VC,2002,18.48,St.Vincent & Grenadines
-VC,2003,26.18,St.Vincent & Grenadines
-VC,2004,30.33,St.Vincent & Grenadines
-VC,2005,26.26,St.Vincent & Grenadines
-VC,2006,26.09,St.Vincent & Grenadines
-VC,2007,20.51,St.Vincent & Grenadines
-VC,2008,18.55,St.Vincent & Grenadines
-VC,2009,12.80,St.Vincent & Grenadines
-VC,2010,11.05,St.Vincent & Grenadines
-VC,2011,7.49,St.Vincent & Grenadines
-VC,2012,7.68,St.Vincent & Grenadines
-VE,1990,958.52,Venezuela
-VE,1991,970.49,Venezuela
-VE,1992,2022.87,Venezuela
-VE,1993,2317.01,Venezuela
-VE,1994,2078.43,Venezuela
-VE,1995,1365.47,Venezuela
-VE,1996,1530.62,Venezuela
-VE,1997,5011.95,Venezuela
-VE,1998,6242.49,Venezuela
-VE,1999,2205.94,Venezuela
-VE,2000,3095.45,Venezuela
-VE,2001,4035.78,Venezuela
-VE,2002,4947.26,Venezuela
-VE,2003,4775.57,Venezuela
-VE,2004,8145.19,Venezuela
-VE,2005,7732.09,Venezuela
-VE,2006,11312.85,Venezuela
-VE,2007,6739.51,Venezuela
-VE,2008,6098.94,Venezuela
-VE,2009,3351.74,Venezuela
-VE,2010,5717.08,Venezuela
-VE,2011,5486.26,Venezuela
-VE,2012,5757.00,Venezuela
-VN,1990,0.00,Vietnam
-VN,1991,0.00,Vietnam
-VN,1992,0.00,Vietnam
-VN,1993,0.00,Vietnam
-VN,1994,0.00,Vietnam
-VN,1995,0.00,Vietnam
-VN,1996,0.00,Vietnam
-VN,1997,0.00,Vietnam
-VN,1998,0.00,Vietnam
-VN,1999,0.00,Vietnam
-VN,2000,0.00,Vietnam
-VN,2001,0.00,Vietnam
-VN,2002,0.00,Vietnam
-VN,2003,0.00,Vietnam
-VN,2004,0.00,Vietnam
-VN,2005,0.00,Vietnam
-VN,2006,0.00,Vietnam
-VN,2007,0.00,Vietnam
-VN,2008,0.00,Vietnam
-VN,2009,0.00,Vietnam
-VN,2010,0.00,Vietnam
-VN,2011,0.00,Vietnam
-VN,2012,0.00,Vietnam
-VU,1990,38.14,Vanuatu
-VU,1991,63.29,Vanuatu
-VU,1992,64.61,Vanuatu
-VU,1993,68.30,Vanuatu
-VU,1994,72.81,Vanuatu
-VU,1995,70.92,Vanuatu
-VU,1996,59.83,Vanuatu
-VU,1997,55.91,Vanuatu
-VU,1998,42.19,Vanuatu
-VU,1999,27.60,Vanuatu
-VU,2000,46.20,Vanuatu
-VU,2001,29.97,Vanuatu
-VU,2002,36.05,Vanuatu
-VU,2003,36.30,Vanuatu
-VU,2004,42.24,Vanuatu
-VU,2005,53.61,Vanuatu
-VU,2006,50.63,Vanuatu
-VU,2007,59.27,Vanuatu
-VU,2008,35.54,Vanuatu
-VU,2009,51.33,Vanuatu
-VU,2010,52.32,Vanuatu
-VU,2011,51.90,Vanuatu
-VU,2012,76.81,Vanuatu
-WS,1990,0.00,Samoa
-WS,1991,0.00,Samoa
-WS,1992,0.00,Samoa
-WS,1993,0.00,Samoa
-WS,1994,0.00,Samoa
-WS,1995,0.00,Samoa
-WS,1996,0.00,Samoa
-WS,1997,0.00,Samoa
-WS,1998,0.00,Samoa
-WS,1999,1.30,Samoa
-WS,2000,0.00,Samoa
-WS,2001,0.00,Samoa
-WS,2002,0.00,Samoa
-WS,2003,0.00,Samoa
-WS,2004,15.97,Samoa
-WS,2005,46.07,Samoa
-WS,2006,40.69,Samoa
-WS,2007,49.29,Samoa
-WS,2008,63.12,Samoa
-WS,2009,34.40,Samoa
-WS,2010,20.08,Samoa
-WS,2011,29.95,Samoa
-WS,2012,35.95,Samoa
-XK,1990,,Kosovo
-XK,1991,,Kosovo
-XK,1992,,Kosovo
-XK,1993,,Kosovo
-XK,1994,,Kosovo
-XK,1995,,Kosovo
-XK,1996,,Kosovo
-XK,1997,,Kosovo
-XK,1998,,Kosovo
-XK,1999,,Kosovo
-XK,2000,0.00,Kosovo
-XK,2001,0.00,Kosovo
-XK,2002,0.00,Kosovo
-XK,2003,0.00,Kosovo
-XK,2004,23.05,Kosovo
-XK,2005,34.57,Kosovo
-XK,2006,37.96,Kosovo
-XK,2007,64.21,Kosovo
-XK,2008,84.32,Kosovo
-XK,2009,104.56,Kosovo
-XK,2010,135.18,Kosovo
-XK,2011,137.52,Kosovo
-XK,2012,64.22,Kosovo
-YE,1990,333.42,Yemen
-YE,1991,313.11,Yemen
-YE,1992,225.11,Yemen
-YE,1993,199.73,Yemen
-YE,1994,256.56,Yemen
-YE,1995,679.91,Yemen
-YE,1996,1750.60,Yemen
-YE,1997,1791.74,Yemen
-YE,1998,1189.72,Yemen
-YE,1999,2105.64,Yemen
-YE,2000,2281.90,Yemen
-YE,2001,2175.93,Yemen
-YE,2002,2187.39,Yemen
-YE,2003,2318.01,Yemen
-YE,2004,2793.81,Yemen
-YE,2005,3039.20,Yemen
-YE,2006,2408.75,Yemen
-YE,2007,2172.33,Yemen
-YE,2008,2443.36,Yemen
-YE,2009,1342.61,Yemen
-YE,2010,1779.25,Yemen
-YE,2011,2314.31,Yemen
-YE,2012,0.00,Yemen
-ZA,1990,1823.63,South Africa
-ZA,1991,1774.64,South Africa
-ZA,1992,1397.84,South Africa
-ZA,1993,1054.63,South Africa
-ZA,1994,1043.11,South Africa
-ZA,1995,784.59,South Africa
-ZA,1996,1095.89,South Africa
-ZA,1997,1309.33,South Africa
-ZA,1998,1431.43,South Africa
-ZA,1999,2039.56,South Africa
-ZA,2000,4456.76,South Africa
-ZA,2001,6353.68,South Africa
-ZA,2002,4926.20,South Africa
-ZA,2003,5339.83,South Africa
-ZA,2004,4327.63,South Africa
-ZA,2005,5371.30,South Africa
-ZA,2006,6010.94,South Africa
-ZA,2007,10376.71,South Africa
-ZA,2008,10414.73,South Africa
-ZA,2009,6458.56,South Africa
-ZA,2010,6080.36,South Africa
-ZA,2011,7728.42,South Africa
-ZA,2012,8144.02,South Africa
-ZM,1990,324.50,Zambia
-ZM,1991,86.74,Zambia
-ZM,1992,0.00,Zambia
-ZM,1993,0.00,Zambia
-ZM,1994,0.00,Zambia
-ZM,1995,0.00,Zambia
-ZM,1996,0.00,Zambia
-ZM,1997,0.00,Zambia
-ZM,1998,0.00,Zambia
-ZM,1999,0.00,Zambia
-ZM,2000,228.33,Zambia
-ZM,2001,130.24,Zambia
-ZM,2002,354.95,Zambia
-ZM,2003,122.62,Zambia
-ZM,2004,606.54,Zambia
-ZM,2005,845.39,Zambia
-ZM,2006,1446.41,Zambia
-ZM,2007,1896.00,Zambia
-ZM,2008,1442.82,Zambia
-ZM,2009,346.08,Zambia
-ZM,2010,1445.93,Zambia
-ZM,2011,1092.19,Zambia
-ZM,2012,1032.59,Zambia
-ZW,1990,,Zimbabwe
-ZW,1991,,Zimbabwe
-ZW,1992,,Zimbabwe
-ZW,1993,,Zimbabwe
-ZW,1994,,Zimbabwe
-ZW,1995,,Zimbabwe
-ZW,1996,,Zimbabwe
-ZW,1997,,Zimbabwe
-ZW,1998,,Zimbabwe
-ZW,1999,,Zimbabwe
-ZW,2000,0.00,Zimbabwe
-ZW,2001,0.00,Zimbabwe
-ZW,2002,0.00,Zimbabwe
-ZW,2003,0.00,Zimbabwe
-ZW,2004,0.00,Zimbabwe
-ZW,2005,0.00,Zimbabwe
-ZW,2006,0.00,Zimbabwe
-ZW,2007,0.00,Zimbabwe
-ZW,2008,0.00,Zimbabwe
-ZW,2009,0.00,Zimbabwe
-ZW,2010,0.00,Zimbabwe
-ZW,2011,0.00,Zimbabwe
-ZW,2012,0.00,Zimbabwe
+country,year,from_fdi_profits
+AE,1990,0
+AE,1991,0
+AE,1992,0
+AE,1993,0
+AE,1994,0
+AE,1995,0
+AE,1996,0
+AE,1997,0
+AE,1998,0
+AE,1999,0
+AE,2000,0
+AE,2001,0
+AE,2002,0
+AE,2003,0
+AE,2004,0
+AE,2005,0
+AE,2006,0
+AE,2007,0
+AE,2008,0
+AE,2009,0
+AE,2010,0
+AE,2011,0
+AE,2012,0
+AF,1990,
+AF,1991,
+AF,1992,
+AF,1993,
+AF,1994,
+AF,1995,
+AF,1996,
+AF,1997,
+AF,1998,
+AF,1999,
+AF,2000,
+AF,2001,
+AF,2002,0
+AF,2003,0
+AF,2004,0
+AF,2005,0
+AF,2006,0
+AF,2007,0
+AF,2008,0.11
+AF,2009,0.15
+AF,2010,0.41
+AF,2011,0.08
+AF,2012,1.5
+AG,1990,0
+AG,1991,0
+AG,1992,0
+AG,1993,0
+AG,1994,0
+AG,1995,0
+AG,1996,0
+AG,1997,0
+AG,1998,0
+AG,1999,0
+AG,2000,0
+AG,2001,0
+AG,2002,0
+AG,2003,0
+AG,2004,0
+AG,2005,0
+AG,2006,0
+AG,2007,0
+AG,2008,0
+AG,2009,0
+AG,2010,0
+AG,2011,0
+AG,2012,0
+AL,1990,0
+AL,1991,0
+AL,1992,0
+AL,1993,0
+AL,1994,0
+AL,1995,7.74
+AL,1996,3.81
+AL,1997,4.92
+AL,1998,0
+AL,1999,0
+AL,2000,0.19
+AL,2001,0.18
+AL,2002,1.04
+AL,2003,1.4
+AL,2004,0.24
+AL,2005,2.38
+AL,2006,4.89
+AL,2007,8.15
+AL,2008,253.62
+AL,2009,417.4
+AL,2010,380.27
+AL,2011,109.19
+AL,2012,212.27
+AM,1990,
+AM,1991,
+AM,1992,0
+AM,1993,0
+AM,1994,0
+AM,1995,0
+AM,1996,6.95
+AM,1997,23.75
+AM,1998,39.01
+AM,1999,29.06
+AM,2000,46.79
+AM,2001,7.51
+AM,2002,28
+AM,2003,72.21
+AM,2004,263.56
+AM,2005,254.57
+AM,2006,318.13
+AM,2007,341.16
+AM,2008,242.03
+AM,2009,332.84
+AM,2010,348.6
+AM,2011,345.61
+AM,2012,334.89
+AO,1990,1056.37
+AO,1991,1097.37
+AO,1992,1549.57
+AO,1993,1696.7
+AO,1994,2229.73
+AO,1995,2217.47
+AO,1996,2867.44
+AO,1997,2686.72
+AO,1998,2140.79
+AO,1999,4042.09
+AO,2000,3985.46
+AO,2001,4195.69
+AO,2002,4475.38
+AO,2003,4333.28
+AO,2004,5253.09
+AO,2005,7133.97
+AO,2006,9018.86
+AO,2007,10524.78
+AO,2008,15604.49
+AO,2009,8285.16
+AO,2010,9628.09
+AO,2011,9519.95
+AO,2012,9722.1
+AR,1990,835.26
+AR,1991,871.65
+AR,1992,1230.39
+AR,1993,1817.2
+AR,1994,1996.2
+AR,1995,2035.05
+AR,1996,1993.37
+AR,1997,2633.9
+AR,1998,2704.49
+AR,1999,2091.19
+AR,2000,3040.89
+AR,2001,1391.31
+AR,2002,2092.13
+AR,2003,3315.95
+AR,2004,6926.06
+AR,2005,9304.58
+AR,2006,11226.07
+AR,2007,10206.38
+AR,2008,9477.72
+AR,2009,10728.7
+AR,2010,11612.73
+AR,2011,11339.77
+AR,2012,9270.79
+AT,1990,0
+AT,1991,0
+AT,1992,0
+AT,1993,0
+AT,1994,0
+AT,1995,0
+AT,1996,0
+AT,1997,0
+AT,1998,0
+AT,1999,0
+AT,2000,0
+AT,2001,0
+AT,2002,0
+AT,2003,0
+AT,2004,0
+AT,2005,0
+AT,2006,0
+AT,2007,0
+AT,2008,0
+AT,2009,0
+AT,2010,0
+AT,2011,0
+AT,2012,0
+AU,1990,0
+AU,1991,0
+AU,1992,0
+AU,1993,0
+AU,1994,0
+AU,1995,0
+AU,1996,0
+AU,1997,0
+AU,1998,0
+AU,1999,0
+AU,2000,0
+AU,2001,0
+AU,2002,0
+AU,2003,0
+AU,2004,0
+AU,2005,0
+AU,2006,0
+AU,2007,0
+AU,2008,0
+AU,2009,0
+AU,2010,0
+AU,2011,0
+AU,2012,0
+AZ,1990,
+AZ,1991,
+AZ,1992,0
+AZ,1993,0
+AZ,1994,0
+AZ,1995,0.04
+AZ,1996,0
+AZ,1997,25.92
+AZ,1998,28.11
+AZ,1999,7.37
+AZ,2000,1067.35
+AZ,2001,1089.13
+AZ,2002,1168
+AZ,2003,1309.95
+AZ,2004,1664.95
+AZ,2005,3754.12
+AZ,2006,5277.28
+AZ,2007,7978.79
+AZ,2008,6820.36
+AZ,2009,5294.92
+AZ,2010,4843.85
+AZ,2011,5693.82
+AZ,2012,4906.19
+BA,1990,
+BA,1991,
+BA,1992,
+BA,1993,
+BA,1994,
+BA,1995,
+BA,1996,
+BA,1997,
+BA,1998,0
+BA,1999,0
+BA,2000,0
+BA,2001,4.49
+BA,2002,8.87
+BA,2003,15.67
+BA,2004,81.7
+BA,2005,129.4
+BA,2006,217.19
+BA,2007,368.47
+BA,2008,172.81
+BA,2009,-101.66
+BA,2010,79.03
+BA,2011,254.23
+BA,2012,205.23
+BB,1990,0
+BB,1991,0
+BB,1992,0
+BB,1993,0
+BB,1994,0
+BB,1995,0
+BB,1996,0
+BB,1997,0
+BB,1998,0
+BB,1999,0
+BB,2000,0
+BB,2001,0
+BB,2002,0
+BB,2003,0
+BB,2004,0
+BB,2005,0
+BB,2006,0
+BB,2007,0
+BB,2008,0
+BB,2009,0
+BB,2010,0
+BB,2011,0
+BB,2012,0
+BD,1990,0
+BD,1991,0
+BD,1992,0
+BD,1993,0
+BD,1994,0
+BD,1995,0
+BD,1996,22.39
+BD,1997,32.08
+BD,1998,49.42
+BD,1999,103
+BD,2000,194.35
+BD,2001,238.93
+BD,2002,175.21
+BD,2003,232.74
+BD,2004,315.97
+BD,2005,870.96
+BD,2006,1005.88
+BD,2007,1113.22
+BD,2008,960.28
+BD,2009,1191.37
+BD,2010,1240.13
+BD,2011,1318.96
+BD,2012,1572.11
+BE,1990,0
+BE,1991,0
+BE,1992,0
+BE,1993,0
+BE,1994,0
+BE,1995,0
+BE,1996,0
+BE,1997,0
+BE,1998,0
+BE,1999,0
+BE,2000,0
+BE,2001,0
+BE,2002,0
+BE,2003,0
+BE,2004,0
+BE,2005,0
+BE,2006,0
+BE,2007,0
+BE,2008,0
+BE,2009,0
+BE,2010,0
+BE,2011,0
+BE,2012,0
+BF,1990,6.25
+BF,1991,2.25
+BF,1992,0
+BF,1993,0
+BF,1994,0
+BF,1995,0
+BF,1996,0
+BF,1997,0
+BF,1998,0
+BF,1999,0
+BF,2000,6.32
+BF,2001,9.52
+BF,2002,17.43
+BF,2003,16.69
+BF,2004,12.19
+BF,2005,9.06
+BF,2006,9.56
+BF,2007,13.57
+BF,2008,39.26
+BF,2009,36.87
+BF,2010,27.84
+BF,2011,0
+BF,2012,0
+BG,1990,0
+BG,1991,0
+BG,1992,0
+BG,1993,0
+BG,1994,0
+BG,1995,0
+BG,1996,0
+BG,1997,0
+BG,1998,132.2
+BG,1999,-52.22
+BG,2000,277.88
+BG,2001,374.9
+BG,2002,521.53
+BG,2003,1027.15
+BG,2004,1230.49
+BG,2005,1380.65
+BG,2006,2608.96
+BG,2007,4411.66
+BG,2008,2759.37
+BG,2009,1870.53
+BG,2010,1647.34
+BG,2011,2401.14
+BG,2012,2054.37
+BH,1990,0
+BH,1991,0
+BH,1992,0
+BH,1993,0
+BH,1994,0
+BH,1995,0
+BH,1996,0
+BH,1997,0
+BH,1998,0
+BH,1999,0
+BH,2000,0
+BH,2001,0
+BH,2002,0
+BH,2003,0
+BH,2004,0
+BH,2005,0
+BH,2006,0
+BH,2007,0
+BH,2008,0
+BH,2009,0
+BH,2010,0
+BH,2011,0
+BH,2012,0
+BI,1990,4.47
+BI,1991,3.01
+BI,1992,6.47
+BI,1993,4.79
+BI,1994,5.53
+BI,1995,4.29
+BI,1996,2.01
+BI,1997,0.75
+BI,1998,0.03
+BI,1999,0.03
+BI,2000,0.66
+BI,2001,2.71
+BI,2002,0
+BI,2003,10.23
+BI,2004,12.86
+BI,2005,3.56
+BI,2006,5.2
+BI,2007,7.16
+BI,2008,0
+BI,2009,0
+BI,2010,0
+BI,2011,0
+BI,2012,0
+BJ,1990,0.57
+BJ,1991,0.62
+BJ,1992,1.38
+BJ,1993,1.61
+BJ,1994,0.59
+BJ,1995,10.2
+BJ,1996,14.86
+BJ,1997,22.75
+BJ,1998,25.99
+BJ,1999,15.32
+BJ,2000,-1.51
+BJ,2001,0.5
+BJ,2002,23.56
+BJ,2003,34.29
+BJ,2004,18.67
+BJ,2005,11.91
+BJ,2006,18.87
+BJ,2007,60.15
+BJ,2008,29.14
+BJ,2009,32.29
+BJ,2010,57.79
+BJ,2011,0
+BJ,2012,0
+BN,1990,0
+BN,1991,0
+BN,1992,0
+BN,1993,0
+BN,1994,0
+BN,1995,0
+BN,1996,0
+BN,1997,0
+BN,1998,0
+BN,1999,0
+BN,2000,0
+BN,2001,0
+BN,2002,0
+BN,2003,0
+BN,2004,0
+BN,2005,0
+BN,2006,0
+BN,2007,0
+BN,2008,0
+BN,2009,0
+BN,2010,0
+BN,2011,0
+BN,2012,0
+BO,1990,40.74
+BO,1991,41.38
+BO,1992,44.25
+BO,1993,56.75
+BO,1994,45.64
+BO,1995,51.92
+BO,1996,80.73
+BO,1997,158.64
+BO,1998,156.92
+BO,1999,283.75
+BO,2000,298.92
+BO,2001,352.97
+BO,2002,407.52
+BO,2003,521.98
+BO,2004,625.77
+BO,2005,556.16
+BO,2006,700.42
+BO,2007,1049.93
+BO,2008,927.24
+BO,2009,1040.87
+BO,2010,1074.16
+BO,2011,1048.37
+BO,2012,1648.98
+BR,1990,4831.24
+BR,1991,3098.18
+BR,1992,2518.99
+BR,1993,5642.79
+BR,1994,5576.44
+BR,1995,5025.03
+BR,1996,6643.98
+BR,1997,10109.33
+BR,1998,11105.06
+BR,1999,12773.27
+BR,2000,9980.64
+BR,2001,13894.66
+BR,2002,18567.06
+BR,2003,17303.27
+BR,2004,17451.84
+BR,2005,21793.26
+BR,2006,23080.61
+BR,2007,27677.89
+BR,2008,35157.91
+BR,2009,26104.14
+BR,2010,26865.82
+BR,2011,28513.71
+BR,2012,24563.73
+BS,1990,#N/A
+BS,1991,#N/A
+BS,1992,#N/A
+BS,1993,#N/A
+BS,1994,#N/A
+BS,1995,#N/A
+BS,1996,#N/A
+BS,1997,#N/A
+BS,1998,#N/A
+BS,1999,#N/A
+BS,2000,#N/A
+BS,2001,#N/A
+BS,2002,#N/A
+BS,2003,#N/A
+BS,2004,#N/A
+BS,2005,#N/A
+BS,2006,#N/A
+BS,2007,#N/A
+BS,2008,#N/A
+BS,2009,#N/A
+BS,2010,#N/A
+BS,2011,#N/A
+BS,2012,#N/A
+BT,1990,0
+BT,1991,0
+BT,1992,0
+BT,1993,0
+BT,1994,0
+BT,1995,0
+BT,1996,0
+BT,1997,0
+BT,1998,0
+BT,1999,0
+BT,2000,0
+BT,2001,0
+BT,2002,0
+BT,2003,0
+BT,2004,0
+BT,2005,0
+BT,2006,0.53
+BT,2007,1.48
+BT,2008,3.61
+BT,2009,-0.96
+BT,2010,4.92
+BT,2011,4.02
+BT,2012,-0.22
+BW,1990,499.88
+BW,1991,424.41
+BW,1992,372.1
+BW,1993,103.01
+BW,1994,342.17
+BW,1995,519.14
+BW,1996,826.17
+BW,1997,878.26
+BW,1998,562.07
+BW,1999,851.3
+BW,2000,1014.78
+BW,2001,559.28
+BW,2002,1562.22
+BW,2003,1326.01
+BW,2004,1242.52
+BW,2005,1136.81
+BW,2006,1184.33
+BW,2007,1232.57
+BW,2008,1216.86
+BW,2009,244.41
+BW,2010,193.71
+BW,2011,-112.84
+BW,2012,427.94
+BY,1990,
+BY,1991,
+BY,1992,0
+BY,1993,0
+BY,1994,0
+BY,1995,0
+BY,1996,0
+BY,1997,13.03
+BY,1998,31.79
+BY,1999,1.58
+BY,2000,12.82
+BY,2001,32.73
+BY,2002,58.64
+BY,2003,71.87
+BY,2004,124.53
+BY,2005,185.98
+BY,2006,292.85
+BY,2007,478.13
+BY,2008,616.54
+BY,2009,973.9
+BY,2010,1114.87
+BY,2011,1241.23
+BY,2012,1257.6
+BZ,1990,10.17
+BZ,1991,12.45
+BZ,1992,16.7
+BZ,1993,16.41
+BZ,1994,16.74
+BZ,1995,9.64
+BZ,1996,31
+BZ,1997,28.87
+BZ,1998,35.69
+BZ,1999,28
+BZ,2000,36.74
+BZ,2001,40.11
+BZ,2002,39.15
+BZ,2003,37.8
+BZ,2004,50.63
+BZ,2005,40.74
+BZ,2006,57.8
+BZ,2007,92.54
+BZ,2008,111.42
+BZ,2009,60.21
+BZ,2010,108.53
+BZ,2011,40.7
+BZ,2012,68.28
+CA,1990,0
+CA,1991,0
+CA,1992,0
+CA,1993,0
+CA,1994,0
+CA,1995,0
+CA,1996,0
+CA,1997,0
+CA,1998,0
+CA,1999,0
+CA,2000,0
+CA,2001,0
+CA,2002,0
+CA,2003,0
+CA,2004,0
+CA,2005,0
+CA,2006,0
+CA,2007,0
+CA,2008,0
+CA,2009,0
+CA,2010,0
+CA,2011,0
+CA,2012,0
+CD,1990,0
+CD,1991,0
+CD,1992,0
+CD,1993,0
+CD,1994,0
+CD,1995,0
+CD,1996,0
+CD,1997,0
+CD,1998,0
+CD,1999,0
+CD,2000,0
+CD,2001,0
+CD,2002,0
+CD,2003,0
+CD,2004,0
+CD,2005,0
+CD,2006,0
+CD,2007,0
+CD,2008,0
+CD,2009,0
+CD,2010,153.71
+CD,2011,0
+CD,2012,0
+CF,1990,2.21
+CF,1991,1.59
+CF,1992,0
+CF,1993,0
+CF,1994,0
+CF,1995,0
+CF,1996,0
+CF,1997,0
+CF,1998,0
+CF,1999,0
+CF,2000,0
+CF,2001,0
+CF,2002,0
+CF,2003,0
+CF,2004,0
+CF,2005,0
+CF,2006,0
+CF,2007,0
+CF,2008,0
+CF,2009,0
+CF,2010,0
+CF,2011,0
+CF,2012,0
+CG,1990,0
+CG,1991,0
+CG,1992,0
+CG,1993,0
+CG,1994,0
+CG,1995,1108.19
+CG,1996,1351.89
+CG,1997,318.14
+CG,1998,-303.6
+CG,1999,576.85
+CG,2000,1171.53
+CG,2001,1109.5
+CG,2002,1664.79
+CG,2003,980.69
+CG,2004,1274.01
+CG,2005,2099.78
+CG,2006,1901.96
+CG,2007,2028.14
+CG,2008,0
+CG,2009,0
+CG,2010,0
+CG,2011,0
+CG,2012,0
+CH,1990,0
+CH,1991,0
+CH,1992,0
+CH,1993,0
+CH,1994,0
+CH,1995,0
+CH,1996,0
+CH,1997,0
+CH,1998,0
+CH,1999,0
+CH,2000,0
+CH,2001,0
+CH,2002,0
+CH,2003,0
+CH,2004,0
+CH,2005,0
+CH,2006,0
+CH,2007,0
+CH,2008,0
+CH,2009,0
+CH,2010,0
+CH,2011,0
+CH,2012,0
+CI,1990,106.3
+CI,1991,57.98
+CI,1992,62.65
+CI,1993,82.27
+CI,1994,169.02
+CI,1995,338.25
+CI,1996,364.82
+CI,1997,400.93
+CI,1998,494.37
+CI,1999,589.2
+CI,2000,575.57
+CI,2001,540.79
+CI,2002,513.02
+CI,2003,498.41
+CI,2004,488.62
+CI,2005,479.12
+CI,2006,587.62
+CI,2007,581.36
+CI,2008,549.28
+CI,2009,586.24
+CI,2010,577.7
+CI,2011,0
+CI,2012,0
+CL,1990,0
+CL,1991,0
+CL,1992,0
+CL,1993,0
+CL,1994,0
+CL,1995,0
+CL,1996,0
+CL,1997,0
+CL,1998,0
+CL,1999,0
+CL,2000,0
+CL,2001,0
+CL,2002,0
+CL,2003,0
+CL,2004,0
+CL,2005,0
+CL,2006,0
+CL,2007,0
+CL,2008,0
+CL,2009,0
+CL,2010,0
+CL,2011,0
+CL,2012,0
+CM,1990,159.78
+CM,1991,87.2
+CM,1992,147.39
+CM,1993,108.16
+CM,1994,39.18
+CM,1995,30.41
+CM,1996,67.87
+CM,1997,88.57
+CM,1998,129.32
+CM,1999,108.6
+CM,2000,73.95
+CM,2001,98
+CM,2002,149.7
+CM,2003,172.24
+CM,2004,231.6
+CM,2005,349.5
+CM,2006,11.35
+CM,2007,402.13
+CM,2008,153.3
+CM,2009,442.68
+CM,2010,170.92
+CM,2011,267.7
+CM,2012,503.42
+CN,1990,112.78
+CN,1991,25.53
+CN,1992,53.78
+CN,1993,512.37
+CN,1994,1100.16
+CN,1995,23327.88
+CN,1996,25605.32
+CN,1997,28663.35
+CN,1998,34801.62
+CN,1999,35247.54
+CN,2000,43504
+CN,2001,45345.8
+CN,2002,37385.51
+CN,2003,40347.08
+CN,2004,36401.34
+CN,2005,86649.83
+CN,2006,84453.32
+CN,2007,93676.76
+CN,2008,93177.57
+CN,2009,134435.4
+CN,2010,188265.51
+CN,2011,213478.24
+CN,2012,187502.02
+CO,1990,2941.58
+CO,1991,2695.56
+CO,1992,2779.44
+CO,1993,2581.03
+CO,1994,1015.54
+CO,1995,693.32
+CO,1996,1171.38
+CO,1997,1142.39
+CO,1998,-61.08
+CO,1999,-646.75
+CO,2000,1464.03
+CO,2001,2133.64
+CO,2002,2511.4
+CO,2003,3869.27
+CO,2004,5290.4
+CO,2005,6482.66
+CO,2006,8030.03
+CO,2007,9671.88
+CO,2008,11234.05
+CO,2009,10439.96
+CO,2010,11545.24
+CO,2011,15566.78
+CO,2012,15318.11
+CR,1990,169.62
+CR,1991,150.19
+CR,1992,194.19
+CR,1993,204.59
+CR,1994,125.06
+CR,1995,197.14
+CR,1996,161.13
+CR,1997,315.69
+CR,1998,664.31
+CR,1999,2892.89
+CR,2000,1929.7
+CR,2001,940.38
+CR,2002,579.89
+CR,2003,1096.6
+CR,2004,551.66
+CR,2005,1226.17
+CR,2006,1357.26
+CR,2007,1662.74
+CR,2008,998.39
+CR,2009,1320.18
+CR,2010,689.5
+CR,2011,788.22
+CR,2012,1045.52
+CV,1990,#N/A
+CV,1991,#N/A
+CV,1992,#N/A
+CV,1993,#N/A
+CV,1994,#N/A
+CV,1995,#N/A
+CV,1996,#N/A
+CV,1997,#N/A
+CV,1998,#N/A
+CV,1999,#N/A
+CV,2000,#N/A
+CV,2001,#N/A
+CV,2002,#N/A
+CV,2003,#N/A
+CV,2004,#N/A
+CV,2005,#N/A
+CV,2006,#N/A
+CV,2007,#N/A
+CV,2008,#N/A
+CV,2009,#N/A
+CV,2010,#N/A
+CV,2011,#N/A
+CV,2012,#N/A
+CY,1990,0
+CY,1991,0
+CY,1992,0
+CY,1993,0
+CY,1994,0
+CY,1995,0
+CY,1996,0
+CY,1997,0
+CY,1998,0
+CY,1999,0
+CY,2000,0
+CY,2001,0
+CY,2002,0
+CY,2003,0
+CY,2004,0
+CY,2005,0
+CY,2006,0
+CY,2007,0
+CY,2008,0
+CY,2009,0
+CY,2010,0
+CY,2011,0
+CY,2012,0
+CZ,1990,
+CZ,1991,
+CZ,1992,
+CZ,1993,
+CZ,1994,
+CZ,1995,0
+CZ,1996,0
+CZ,1997,0
+CZ,1998,0
+CZ,1999,0
+CZ,2000,0
+CZ,2001,0
+CZ,2002,0
+CZ,2003,0
+CZ,2004,0
+CZ,2005,0
+CZ,2006,0
+CZ,2007,0
+CZ,2008,0
+CZ,2009,0
+CZ,2010,0
+CZ,2011,0
+CZ,2012,0
+DE,1990,0
+DE,1991,0
+DE,1992,0
+DE,1993,0
+DE,1994,0
+DE,1995,0
+DE,1996,0
+DE,1997,0
+DE,1998,0
+DE,1999,0
+DE,2000,0
+DE,2001,0
+DE,2002,0
+DE,2003,0
+DE,2004,0
+DE,2005,0
+DE,2006,0
+DE,2007,0
+DE,2008,0
+DE,2009,0
+DE,2010,0
+DE,2011,0
+DE,2012,0
+DJ,1990,
+DJ,1991,6.96
+DJ,1992,6.72
+DJ,1993,4.98
+DJ,1994,5.18
+DJ,1995,8.03
+DJ,1996,7.93
+DJ,1997,7.34
+DJ,1998,6.96
+DJ,1999,6.33
+DJ,2000,6.35
+DJ,2001,6.44
+DJ,2002,6.53
+DJ,2003,8.76
+DJ,2004,8.47
+DJ,2005,8.08
+DJ,2006,7.81
+DJ,2007,5.39
+DJ,2008,5.83
+DJ,2009,7.45
+DJ,2010,7.44
+DJ,2011,18.79
+DJ,2012,7.25
+DK,1990,0
+DK,1991,0
+DK,1992,0
+DK,1993,0
+DK,1994,0
+DK,1995,0
+DK,1996,0
+DK,1997,0
+DK,1998,0
+DK,1999,0
+DK,2000,0
+DK,2001,0
+DK,2002,0
+DK,2003,0
+DK,2004,0
+DK,2005,0
+DK,2006,0
+DK,2007,0
+DK,2008,0
+DK,2009,0
+DK,2010,0
+DK,2011,0
+DK,2012,0
+DM,1990,8.58
+DM,1991,9.58
+DM,1992,9.14
+DM,1993,7.71
+DM,1994,12.87
+DM,1995,16.04
+DM,1996,21.59
+DM,1997,19.54
+DM,1998,18.42
+DM,1999,27.24
+DM,2000,39.72
+DM,2001,22.31
+DM,2002,21.39
+DM,2003,19.22
+DM,2004,25.37
+DM,2005,26.7
+DM,2006,8.46
+DM,2007,14.6
+DM,2008,13.84
+DM,2009,13.71
+DM,2010,8.22
+DM,2011,5.09
+DM,2012,5.18
+DO,1990,202.83
+DO,1991,223.02
+DO,1992,352.85
+DO,1993,857.4
+DO,1994,873.95
+DO,1995,934.63
+DO,1996,884
+DO,1997,994.88
+DO,1998,1169.13
+DO,1999,1362.28
+DO,2000,1444.19
+DO,2001,1446.46
+DO,2002,1522.94
+DO,2003,2290.81
+DO,2004,2668.2
+DO,2005,2011.91
+DO,2006,2301.11
+DO,2007,2465.5
+DO,2008,1778.76
+DO,2009,1638.52
+DO,2010,1609.26
+DO,2011,1840.76
+DO,2012,1883.9
+DZ,1990,269.99
+DZ,1991,774.12
+DZ,1992,0
+DZ,1993,0
+DZ,1994,0
+DZ,1995,0
+DZ,1996,0
+DZ,1997,0
+DZ,1998,0
+DZ,1999,0
+DZ,2000,0
+DZ,2001,0
+DZ,2002,0
+DZ,2003,0
+DZ,2004,0
+DZ,2005,9021.67
+DZ,2006,9284.19
+DZ,2007,7144.59
+DZ,2008,6628.04
+DZ,2009,7979.46
+DZ,2010,5792.08
+DZ,2011,6264.65
+DZ,2012,7452.94
+EC,1990,416.38
+EC,1991,399.41
+EC,1992,384.39
+EC,1993,240.5
+EC,1994,314.32
+EC,1995,302.79
+EC,1996,386.38
+EC,1997,368.42
+EC,1998,443.85
+EC,1999,635.79
+EC,2000,915.88
+EC,2001,832.38
+EC,2002,793.73
+EC,2003,1052.12
+EC,2004,1635.21
+EC,2005,1580.79
+EC,2006,1424.94
+EC,2007,1585.77
+EC,2008,942.74
+EC,2009,979.59
+EC,2010,605.73
+EC,2011,731.36
+EC,2012,675.54
+EE,1990,
+EE,1991,
+EE,1992,
+EE,1993,0
+EE,1994,0
+EE,1995,0
+EE,1996,0
+EE,1997,0
+EE,1998,0
+EE,1999,0
+EE,2000,0
+EE,2001,0
+EE,2002,0
+EE,2003,0
+EE,2004,0
+EE,2005,0
+EE,2006,0
+EE,2007,0
+EE,2008,0
+EE,2009,0
+EE,2010,0
+EE,2011,0
+EE,2012,0
+EG,1990,15.02
+EG,1991,15.78
+EG,1992,34.71
+EG,1993,29.58
+EG,1994,708.09
+EG,1995,442.12
+EG,1996,61.51
+EG,1997,192.18
+EG,1998,220.18
+EG,1999,164.27
+EG,2000,143.92
+EG,2001,46.94
+EG,2002,173.19
+EG,2003,100.33
+EG,2004,126.18
+EG,2005,1350.07
+EG,2006,1700.99
+EG,2007,1663.72
+EG,2008,958.19
+EG,2009,2670.32
+EG,2010,6070.96
+EG,2011,5532.05
+EG,2012,5703.9
+ER,1990,
+ER,1991,
+ER,1992,0
+ER,1993,0
+ER,1994,0
+ER,1995,0
+ER,1996,0
+ER,1997,0
+ER,1998,1.49
+ER,1999,2.78
+ER,2000,15.25
+ER,2001,0
+ER,2002,0
+ER,2003,0
+ER,2004,0
+ER,2005,0
+ER,2006,0
+ER,2007,0
+ER,2008,0
+ER,2009,0
+ER,2010,0
+ER,2011,0
+ER,2012,0
+ES,1990,0
+ES,1991,0
+ES,1992,0
+ES,1993,0
+ES,1994,0
+ES,1995,0
+ES,1996,0
+ES,1997,0
+ES,1998,0
+ES,1999,0
+ES,2000,0
+ES,2001,0
+ES,2002,0
+ES,2003,0
+ES,2004,0
+ES,2005,0
+ES,2006,0
+ES,2007,0
+ES,2008,0
+ES,2009,0
+ES,2010,0
+ES,2011,0
+ES,2012,0
+ET,1990,0
+ET,1991,0
+ET,1992,0
+ET,1993,0
+ET,1994,0
+ET,1995,0
+ET,1996,3.05
+ET,1997,11.78
+ET,1998,11.52
+ET,1999,3.69
+ET,2000,17.89
+ET,2001,24.09
+ET,2002,24.45
+ET,2003,33.02
+ET,2004,51.89
+ET,2005,36.7
+ET,2006,36.63
+ET,2007,24.32
+ET,2008,18.35
+ET,2009,17.66
+ET,2010,42
+ET,2011,28.07
+ET,2012,5.91
+FI,1990,0
+FI,1991,0
+FI,1992,0
+FI,1993,0
+FI,1994,0
+FI,1995,0
+FI,1996,0
+FI,1997,0
+FI,1998,0
+FI,1999,0
+FI,2000,0
+FI,2001,0
+FI,2002,0
+FI,2003,0
+FI,2004,0
+FI,2005,0
+FI,2006,0
+FI,2007,0
+FI,2008,0
+FI,2009,0
+FI,2010,0
+FI,2011,0
+FI,2012,0
+FJ,1990,88.83
+FJ,1991,85.73
+FJ,1992,99.78
+FJ,1993,100.87
+FJ,1994,133.42
+FJ,1995,118.06
+FJ,1996,114.21
+FJ,1997,123.26
+FJ,1998,181.45
+FJ,1999,122.41
+FJ,2000,13.88
+FJ,2001,110.99
+FJ,2002,96.15
+FJ,2003,122.15
+FJ,2004,180.92
+FJ,2005,161.99
+FJ,2006,196.3
+FJ,2007,138.25
+FJ,2008,126.04
+FJ,2009,59.9
+FJ,2010,168.4
+FJ,2011,0
+FJ,2012,0
+FM,1990,
+FM,1991,
+FM,1992,
+FM,1993,
+FM,1994,
+FM,1995,0
+FM,1996,0
+FM,1997,0
+FM,1998,0
+FM,1999,0
+FM,2000,0
+FM,2001,0
+FM,2002,0
+FM,2003,0
+FM,2004,0
+FM,2005,0
+FM,2006,0
+FM,2007,0
+FM,2008,0
+FM,2009,0
+FM,2010,0
+FM,2011,0
+FM,2012,0
+FR,1990,0
+FR,1991,0
+FR,1992,0
+FR,1993,0
+FR,1994,0
+FR,1995,0
+FR,1996,0
+FR,1997,0
+FR,1998,0
+FR,1999,0
+FR,2000,0
+FR,2001,0
+FR,2002,0
+FR,2003,0
+FR,2004,0
+FR,2005,0
+FR,2006,0
+FR,2007,0
+FR,2008,0
+FR,2009,0
+FR,2010,0
+FR,2011,0
+FR,2012,0
+GA,1990,208.64
+GA,1991,296.3
+GA,1992,306.8
+GA,1993,344.15
+GA,1994,369.5
+GA,1995,591.94
+GA,1996,872.06
+GA,1997,843.57
+GA,1998,554.47
+GA,1999,622.83
+GA,2000,1172.63
+GA,2001,525.46
+GA,2002,770.03
+GA,2003,764.61
+GA,2004,1308.03
+GA,2005,1133.25
+GA,2006,0
+GA,2007,0
+GA,2008,0
+GA,2009,0
+GA,2010,0
+GA,2011,0
+GA,2012,0
+GB,1990,0
+GB,1991,0
+GB,1992,0
+GB,1993,0
+GB,1994,0
+GB,1995,0
+GB,1996,0
+GB,1997,0
+GB,1998,0
+GB,1999,0
+GB,2000,0
+GB,2001,0
+GB,2002,0
+GB,2003,0
+GB,2004,0
+GB,2005,0
+GB,2006,0
+GB,2007,0
+GB,2008,0
+GB,2009,0
+GB,2010,0
+GB,2011,0
+GB,2012,0
+GD,1990,14.23
+GD,1991,9.22
+GD,1992,9.35
+GD,1993,10.79
+GD,1994,11.15
+GD,1995,18.01
+GD,1996,19.62
+GD,1997,21.11
+GD,1998,26.48
+GD,1999,27.78
+GD,2000,36.32
+GD,2001,43.03
+GD,2002,41
+GD,2003,33.35
+GD,2004,31.16
+GD,2005,27.76
+GD,2006,25.69
+GD,2007,40.63
+GD,2008,33.46
+GD,2009,58.5
+GD,2010,32.37
+GD,2011,21.58
+GD,2012,21
+GE,1990,
+GE,1991,
+GE,1992,
+GE,1993,
+GE,1994,0
+GE,1995,0
+GE,1996,0
+GE,1997,5.52
+GE,1998,0
+GE,1999,0.8
+GE,2000,90.36
+GE,2001,122.39
+GE,2002,188.21
+GE,2003,207.53
+GE,2004,193.23
+GE,2005,196.42
+GE,2006,144.49
+GE,2007,389.38
+GE,2008,381.55
+GE,2009,318.68
+GE,2010,562.58
+GE,2011,827.34
+GE,2012,747.23
+GH,1990,9.41
+GH,1991,8.64
+GH,1992,10.61
+GH,1993,14.07
+GH,1994,18.96
+GH,1995,30.12
+GH,1996,56.64
+GH,1997,49.43
+GH,1998,39.04
+GH,1999,34.11
+GH,2000,42.6
+GH,2001,46.67
+GH,2002,140.28
+GH,2003,115.46
+GH,2004,141.15
+GH,2005,128.28
+GH,2006,112.65
+GH,2007,360.49
+GH,2008,-81.7
+GH,2009,579.19
+GH,2010,400.49
+GH,2011,1026.87
+GH,2012,1914.53
+GM,1990,0
+GM,1991,0
+GM,1992,0
+GM,1993,0
+GM,1994,0
+GM,1995,0
+GM,1996,0
+GM,1997,0
+GM,1998,0
+GM,1999,0
+GM,2000,0
+GM,2001,0
+GM,2002,0
+GM,2003,25.61
+GM,2004,26.81
+GM,2005,30.89
+GM,2006,36.4
+GM,2007,36.17
+GM,2008,35.27
+GM,2009,11
+GM,2010,10.72
+GM,2011,10.78
+GM,2012,10.25
+GN,1990,62.11
+GN,1991,83.94
+GN,1992,51.96
+GN,1993,24.02
+GN,1994,14.68
+GN,1995,20.6
+GN,1996,31.8
+GN,1997,44.14
+GN,1998,63.36
+GN,1999,37.06
+GN,2000,11.03
+GN,2001,63.52
+GN,2002,1.67
+GN,2003,102.02
+GN,2004,0
+GN,2005,0
+GN,2006,0
+GN,2007,63.58
+GN,2008,16.14
+GN,2009,96.79
+GN,2010,0.28
+GN,2011,27.45
+GN,2012,38.95
+GQ,1990,0
+GQ,1991,0
+GQ,1992,0
+GQ,1993,0
+GQ,1994,0
+GQ,1995,0
+GQ,1996,0
+GQ,1997,0
+GQ,1998,0
+GQ,1999,0
+GQ,2000,0
+GQ,2001,0
+GQ,2002,0
+GQ,2003,0
+GQ,2004,0
+GQ,2005,0
+GQ,2006,0
+GQ,2007,0
+GQ,2008,0
+GQ,2009,0
+GQ,2010,0
+GQ,2011,0
+GQ,2012,0
+GR,1990,0
+GR,1991,0
+GR,1992,0
+GR,1993,0
+GR,1994,0
+GR,1995,0
+GR,1996,0
+GR,1997,0
+GR,1998,0
+GR,1999,0
+GR,2000,0
+GR,2001,0
+GR,2002,0
+GR,2003,0
+GR,2004,0
+GR,2005,0
+GR,2006,0
+GR,2007,0
+GR,2008,0
+GR,2009,0
+GR,2010,0
+GR,2011,0
+GR,2012,0
+GT,1990,122.81
+GT,1991,122.01
+GT,1992,94.91
+GT,1993,130.87
+GT,1994,134.12
+GT,1995,202.5
+GT,1996,265.22
+GT,1997,308.2
+GT,1998,237.62
+GT,1999,299.2
+GT,2000,486.76
+GT,2001,378.57
+GT,2002,493.98
+GT,2003,534.16
+GT,2004,427.15
+GT,2005,532.08
+GT,2006,828.57
+GT,2007,1052.4
+GT,2008,1024.66
+GT,2009,1146.6
+GT,2010,1133.62
+GT,2011,1487.02
+GT,2012,1192.3
+GW,1990,0
+GW,1991,0
+GW,1992,0
+GW,1993,0
+GW,1994,0
+GW,1995,0
+GW,1996,0
+GW,1997,0
+GW,1998,0
+GW,1999,0
+GW,2000,0
+GW,2001,0
+GW,2002,1.06
+GW,2003,0.21
+GW,2004,0.06
+GW,2005,0
+GW,2006,0
+GW,2007,0
+GW,2008,0.23
+GW,2009,5.13
+GW,2010,5.36
+GW,2011,0
+GW,2012,0
+GY,1990,0
+GY,1991,0
+GY,1992,0
+GY,1993,0
+GY,1994,0
+GY,1995,0
+GY,1996,25.9
+GY,1997,10.73
+GY,1998,6.19
+GY,1999,5.78
+GY,2000,10.89
+GY,2001,9.25
+GY,2002,7.09
+GY,2003,4.04
+GY,2004,4.59
+GY,2005,10.97
+GY,2006,13.83
+GY,2007,-9.72
+GY,2008,14.75
+GY,2009,15.32
+GY,2010,15.38
+GY,2011,19
+GY,2012,8.06
+HK,1990,#N/A
+HK,1991,#N/A
+HK,1992,#N/A
+HK,1993,#N/A
+HK,1994,#N/A
+HK,1995,#N/A
+HK,1996,#N/A
+HK,1997,#N/A
+HK,1998,#N/A
+HK,1999,#N/A
+HK,2000,#N/A
+HK,2001,#N/A
+HK,2002,#N/A
+HK,2003,#N/A
+HK,2004,#N/A
+HK,2005,#N/A
+HK,2006,#N/A
+HK,2007,#N/A
+HK,2008,#N/A
+HK,2009,#N/A
+HK,2010,#N/A
+HK,2011,#N/A
+HK,2012,#N/A
+HN,1990,164.01
+HN,1991,168.23
+HN,1992,163.69
+HN,1993,61.95
+HN,1994,69.4
+HN,1995,83.48
+HN,1996,141.07
+HN,1997,134.94
+HN,1998,124.45
+HN,1999,73.61
+HN,2000,258.54
+HN,2001,330.1
+HN,2002,367.98
+HN,2003,456.99
+HN,2004,603.02
+HN,2005,712.36
+HN,2006,876.65
+HN,2007,708.63
+HN,2008,656.34
+HN,2009,686.83
+HN,2010,742.26
+HN,2011,918.1
+HN,2012,1218.05
+HR,1990,
+HR,1991,
+HR,1992,0
+HR,1993,0
+HR,1994,0
+HR,1995,0
+HR,1996,0
+HR,1997,0
+HR,1998,0
+HR,1999,0
+HR,2000,0
+HR,2001,0
+HR,2002,0
+HR,2003,0
+HR,2004,0
+HR,2005,0
+HR,2006,0
+HR,2007,0
+HR,2008,0
+HR,2009,0
+HR,2010,0
+HR,2011,0
+HR,2012,0
+HT,1990,0
+HT,1991,0
+HT,1992,0
+HT,1993,0
+HT,1994,0
+HT,1995,8.54
+HT,1996,-0.91
+HT,1997,0
+HT,1998,0
+HT,1999,0
+HT,2000,0
+HT,2001,0
+HT,2002,0
+HT,2003,0
+HT,2004,0
+HT,2005,0
+HT,2006,0
+HT,2007,0
+HT,2008,0
+HT,2009,0
+HT,2010,0
+HT,2011,0
+HT,2012,0
+HU,1990,0
+HU,1991,0
+HU,1992,0
+HU,1993,0
+HU,1994,0
+HU,1995,0
+HU,1996,0
+HU,1997,0
+HU,1998,0
+HU,1999,0
+HU,2000,0
+HU,2001,0
+HU,2002,0
+HU,2003,0
+HU,2004,0
+HU,2005,6747.21
+HU,2006,12389.55
+HU,2007,15933.07
+HU,2008,16325.45
+HU,2009,17725.67
+HU,2010,19205.24
+HU,2011,14754.21
+HU,2012,15136.93
+ID,1990,6089.09
+ID,1991,6148.27
+ID,1992,6823.83
+ID,1993,3893.41
+ID,1994,1410.5
+ID,1995,1606.55
+ID,1996,2067.47
+ID,1997,3173.38
+ID,1998,16455.04
+ID,1999,11825.97
+ID,2000,10087.66
+ID,2001,9502.37
+ID,2002,8290.65
+ID,2003,6199.96
+ID,2004,17979.48
+ID,2005,19558.98
+ID,2006,16374.79
+ID,2007,16468.89
+ID,2008,14595.53
+ID,2009,11996.25
+ID,2010,14046.17
+ID,2011,17560.57
+ID,2012,17366.19
+IE,1990,0
+IE,1991,0
+IE,1992,0
+IE,1993,0
+IE,1994,0
+IE,1995,0
+IE,1996,0
+IE,1997,0
+IE,1998,0
+IE,1999,0
+IE,2000,0
+IE,2001,0
+IE,2002,0
+IE,2003,0
+IE,2004,0
+IE,2005,0
+IE,2006,0
+IE,2007,0
+IE,2008,0
+IE,2009,0
+IE,2010,0
+IE,2011,0
+IE,2012,0
+IL,1990,0
+IL,1991,0
+IL,1992,0
+IL,1993,0
+IL,1994,0
+IL,1995,0
+IL,1996,0
+IL,1997,0
+IL,1998,0
+IL,1999,0
+IL,2000,0
+IL,2001,0
+IL,2002,0
+IL,2003,0
+IL,2004,0
+IL,2005,0
+IL,2006,0
+IL,2007,0
+IL,2008,0
+IL,2009,0
+IL,2010,0
+IL,2011,0
+IL,2012,0
+IN,1990,0
+IN,1991,0
+IN,1992,0
+IN,1993,0
+IN,1994,0
+IN,1995,0
+IN,1996,0
+IN,1997,0
+IN,1998,0
+IN,1999,0
+IN,2000,0
+IN,2001,3668.06
+IN,2002,3892.57
+IN,2003,3693.35
+IN,2004,4925.12
+IN,2005,7017.7
+IN,2006,9943.57
+IN,2007,11797.86
+IN,2008,13637.15
+IN,2009,13574
+IN,2010,21198.97
+IN,2011,22427.89
+IN,2012,16389.05
+IQ,1990,
+IQ,1991,
+IQ,1992,
+IQ,1993,
+IQ,1994,
+IQ,1995,
+IQ,1996,
+IQ,1997,
+IQ,1998,
+IQ,1999,
+IQ,2000,
+IQ,2001,
+IQ,2002,
+IQ,2003,
+IQ,2004,0
+IQ,2005,0
+IQ,2006,0
+IQ,2007,0
+IQ,2008,0
+IQ,2009,0
+IQ,2010,0
+IQ,2011,0
+IQ,2012,0
+IR,1990,0
+IR,1991,0
+IR,1992,0
+IR,1993,0
+IR,1994,0
+IR,1995,0
+IR,1996,0
+IR,1997,0
+IR,1998,0
+IR,1999,0
+IR,2000,0
+IR,2001,0
+IR,2002,0
+IR,2003,0
+IR,2004,0
+IR,2005,0
+IR,2006,0
+IR,2007,0
+IR,2008,0
+IR,2009,0
+IR,2010,0
+IR,2011,0
+IR,2012,0
+IS,1990,0
+IS,1991,0
+IS,1992,0
+IS,1993,0
+IS,1994,0
+IS,1995,0
+IS,1996,0
+IS,1997,0
+IS,1998,0
+IS,1999,0
+IS,2000,0
+IS,2001,0
+IS,2002,0
+IS,2003,0
+IS,2004,0
+IS,2005,0
+IS,2006,0
+IS,2007,0
+IS,2008,0
+IS,2009,0
+IS,2010,0
+IS,2011,0
+IS,2012,0
+IT,1990,0
+IT,1991,0
+IT,1992,0
+IT,1993,0
+IT,1994,0
+IT,1995,0
+IT,1996,0
+IT,1997,0
+IT,1998,0
+IT,1999,0
+IT,2000,0
+IT,2001,0
+IT,2002,0
+IT,2003,0
+IT,2004,0
+IT,2005,0
+IT,2006,0
+IT,2007,0
+IT,2008,0
+IT,2009,0
+IT,2010,0
+IT,2011,0
+IT,2012,0
+JM,1990,510.11
+JM,1991,471.82
+JM,1992,171.08
+JM,1993,12.08
+JM,1994,446.58
+JM,1995,488.76
+JM,1996,201.83
+JM,1997,290.65
+JM,1998,282.78
+JM,1999,349.47
+JM,2000,439
+JM,2001,454.82
+JM,2002,625.47
+JM,2003,502.09
+JM,2004,522.55
+JM,2005,599.35
+JM,2006,479.88
+JM,2007,640.17
+JM,2008,420.36
+JM,2009,283.87
+JM,2010,140.6
+JM,2011,115.09
+JM,2012,0
+JO,1990,0
+JO,1991,0
+JO,1992,0
+JO,1993,0
+JO,1994,0
+JO,1995,0
+JO,1996,0
+JO,1997,0
+JO,1998,0
+JO,1999,0
+JO,2000,62.89
+JO,2001,59.42
+JO,2002,80.18
+JO,2003,87.88
+JO,2004,89.22
+JO,2005,127.16
+JO,2006,202.98
+JO,2007,238.27
+JO,2008,317.14
+JO,2009,377.48
+JO,2010,904.97
+JO,2011,745.49
+JO,2012,820.85
+JP,1990,0
+JP,1991,0
+JP,1992,0
+JP,1993,0
+JP,1994,0
+JP,1995,0
+JP,1996,0
+JP,1997,0
+JP,1998,0
+JP,1999,0
+JP,2000,0
+JP,2001,0
+JP,2002,0
+JP,2003,0
+JP,2004,0
+JP,2005,0
+JP,2006,0
+JP,2007,0
+JP,2008,0
+JP,2009,0
+JP,2010,0
+JP,2011,0
+JP,2012,0
+KE,1990,227.07
+KE,1991,108.76
+KE,1992,232.7
+KE,1993,100.3
+KE,1994,154.83
+KE,1995,216.9
+KE,1996,83.55
+KE,1997,72.68
+KE,1998,76.68
+KE,1999,76.59
+KE,2000,56.13
+KE,2001,96.14
+KE,2002,148.79
+KE,2003,58.11
+KE,2004,53.39
+KE,2005,55.36
+KE,2006,54.61
+KE,2007,153.85
+KE,2008,58.52
+KE,2009,69.47
+KE,2010,69.84
+KE,2011,118.9
+KE,2012,110.91
+KG,1990,
+KG,1991,
+KG,1992,0
+KG,1993,0
+KG,1994,0
+KG,1995,0
+KG,1996,3.87
+KG,1997,1.81
+KG,1998,19.3
+KG,1999,15.23
+KG,2000,115.48
+KG,2001,75.07
+KG,2002,54.37
+KG,2003,66.53
+KG,2004,132.77
+KG,2005,74.6
+KG,2006,73.86
+KG,2007,58.43
+KG,2008,212.93
+KG,2009,159.82
+KG,2010,325.21
+KG,2011,656.39
+KG,2012,85.64
+KH,1990,0
+KH,1991,0
+KH,1992,0
+KH,1993,2.11
+KH,1994,5.43
+KH,1995,-4.44
+KH,1996,5.31
+KH,1997,5.77
+KH,1998,85.07
+KH,1999,129.21
+KH,2000,191.4
+KH,2001,209.48
+KH,2002,243.17
+KH,2003,243.93
+KH,2004,302.24
+KH,2005,320.67
+KH,2006,365.49
+KH,2007,443.16
+KH,2008,451.05
+KH,2009,397.87
+KH,2010,435.77
+KH,2011,598.04
+KH,2012,706.57
+KI,1990,0
+KI,1991,0
+KI,1992,0
+KI,1993,0
+KI,1994,0
+KI,1995,0
+KI,1996,0
+KI,1997,0
+KI,1998,0
+KI,1999,0
+KI,2000,0
+KI,2001,0
+KI,2002,0
+KI,2003,0
+KI,2004,0
+KI,2005,0
+KI,2006,0
+KI,2007,0
+KI,2008,0
+KI,2009,0
+KI,2010,0
+KI,2011,0
+KI,2012,0
+KM,1990,1.02
+KM,1991,1.2
+KM,1992,4.23
+KM,1993,1.65
+KM,1994,1.09
+KM,1995,0.4
+KM,1996,0
+KM,1997,0
+KM,1998,0
+KM,1999,0
+KM,2000,0
+KM,2001,0
+KM,2002,0
+KM,2003,0
+KM,2004,0
+KM,2005,0
+KM,2006,0
+KM,2007,0
+KM,2008,0
+KM,2009,0
+KM,2010,0
+KM,2011,0
+KM,2012,0
+KN,1990,0
+KN,1991,0
+KN,1992,0
+KN,1993,0
+KN,1994,0
+KN,1995,0
+KN,1996,0
+KN,1997,0
+KN,1998,0
+KN,1999,0
+KN,2000,0
+KN,2001,0
+KN,2002,0
+KN,2003,0
+KN,2004,0
+KN,2005,0
+KN,2006,0
+KN,2007,0
+KN,2008,0
+KN,2009,0
+KN,2010,0
+KN,2011,0
+KN,2012,0
+KR,1990,#N/A
+KR,1991,#N/A
+KR,1992,#N/A
+KR,1993,#N/A
+KR,1994,#N/A
+KR,1995,#N/A
+KR,1996,#N/A
+KR,1997,#N/A
+KR,1998,#N/A
+KR,1999,#N/A
+KR,2000,#N/A
+KR,2001,#N/A
+KR,2002,#N/A
+KR,2003,#N/A
+KR,2004,#N/A
+KR,2005,#N/A
+KR,2006,#N/A
+KR,2007,#N/A
+KR,2008,#N/A
+KR,2009,#N/A
+KR,2010,#N/A
+KR,2011,#N/A
+KR,2012,#N/A
+KW,1990,0
+KW,1991,0
+KW,1992,0
+KW,1993,0
+KW,1994,0
+KW,1995,0
+KW,1996,0
+KW,1997,0
+KW,1998,0
+KW,1999,0
+KW,2000,0
+KW,2001,0
+KW,2002,0
+KW,2003,0
+KW,2004,0
+KW,2005,0
+KW,2006,0
+KW,2007,0
+KW,2008,0
+KW,2009,0
+KW,2010,0
+KW,2011,0
+KW,2012,0
+KZ,1990,
+KZ,1991,
+KZ,1992,0
+KZ,1993,0
+KZ,1994,0
+KZ,1995,318.95
+KZ,1996,408.03
+KZ,1997,515.65
+KZ,1998,317.7
+KZ,1999,1203.01
+KZ,2000,4655.21
+KZ,2001,4762.1
+KZ,2002,4148
+KZ,2003,5148.85
+KZ,2004,6609.71
+KZ,2005,10814.04
+KZ,2006,14019.38
+KZ,2007,17330.89
+KZ,2008,21098.56
+KZ,2009,15177.9
+KZ,2010,21088.2
+KZ,2011,25656.66
+KZ,2012,24589.22
+LA,1990,0
+LA,1991,0
+LA,1992,0
+LA,1993,0
+LA,1994,0
+LA,1995,9.23
+LA,1996,10.13
+LA,1997,19.44
+LA,1998,37.32
+LA,1999,33.7
+LA,2000,0
+LA,2001,49.19
+LA,2002,26.77
+LA,2003,16.79
+LA,2004,23.97
+LA,2005,49.02
+LA,2006,38.15
+LA,2007,70.85
+LA,2008,32.68
+LA,2009,55.98
+LA,2010,50.73
+LA,2011,16.86
+LA,2012,52
+LB,1990,0
+LB,1991,0
+LB,1992,0
+LB,1993,0
+LB,1994,0
+LB,1995,0
+LB,1996,0
+LB,1997,0
+LB,1998,0
+LB,1999,0
+LB,2000,0
+LB,2001,0
+LB,2002,0
+LB,2003,92.49
+LB,2004,119.56
+LB,2005,127.55
+LB,2006,127.25
+LB,2007,81.97
+LB,2008,145.11
+LB,2009,102.96
+LB,2010,225.58
+LB,2011,192.07
+LB,2012,212.94
+LC,1990,47.56
+LC,1991,47.41
+LC,1992,46.41
+LC,1993,50.09
+LC,1994,46.76
+LC,1995,53.71
+LC,1996,40.09
+LC,1997,39.05
+LC,1998,44.62
+LC,1999,44.1
+LC,2000,46.25
+LC,2001,44.06
+LC,2002,31.72
+LC,2003,43.23
+LC,2004,65.23
+LC,2005,63.63
+LC,2006,40.33
+LC,2007,49.95
+LC,2008,58.8
+LC,2009,39.64
+LC,2010,33.37
+LC,2011,12.39
+LC,2012,12.22
+LK,1990,57.43
+LK,1991,42.3
+LK,1992,70.3
+LK,1993,67.57
+LK,1994,145.45
+LK,1995,132.34
+LK,1996,117.35
+LK,1997,137.28
+LK,1998,159.71
+LK,1999,208.84
+LK,2000,207.28
+LK,2001,202.61
+LK,2002,182.89
+LK,2003,164.04
+LK,2004,163.94
+LK,2005,177.89
+LK,2006,522.61
+LK,2007,469.66
+LK,2008,532.55
+LK,2009,261.07
+LK,2010,315.47
+LK,2011,363.55
+LK,2012,444.9
+LR,1990,
+LR,1991,
+LR,1992,
+LR,1993,
+LR,1994,
+LR,1995,
+LR,1996,
+LR,1997,
+LR,1998,
+LR,1999,
+LR,2000,0
+LR,2001,0
+LR,2002,0
+LR,2003,0
+LR,2004,9.47
+LR,2005,10.85
+LR,2006,20.83
+LR,2007,19.73
+LR,2008,27.6
+LR,2009,7.12
+LR,2010,0.1
+LR,2011,12.18
+LR,2012,0
+LS,1990,22.27
+LS,1991,18.3
+LS,1992,34.27
+LS,1993,25.2
+LS,1994,41.48
+LS,1995,101.71
+LS,1996,68.64
+LS,1997,60.85
+LS,1998,85
+LS,1999,48.3
+LS,2000,128.6
+LS,2001,194.21
+LS,2002,226.34
+LS,2003,206.27
+LS,2004,210.98
+LS,2005,242.09
+LS,2006,311.32
+LS,2007,350.8
+LS,2008,111.03
+LS,2009,137.97
+LS,2010,311.44
+LS,2011,351.89
+LS,2012,406.79
+LT,1990,
+LT,1991,
+LT,1992,
+LT,1993,
+LT,1994,
+LT,1995,0
+LT,1996,0
+LT,1997,0
+LT,1998,0
+LT,1999,0
+LT,2000,0
+LT,2001,0
+LT,2002,0
+LT,2003,0
+LT,2004,0
+LT,2005,0
+LT,2006,0
+LT,2007,0
+LT,2008,0
+LT,2009,0
+LT,2010,0
+LT,2011,0
+LT,2012,0
+LU,1990,0
+LU,1991,0
+LU,1992,0
+LU,1993,0
+LU,1994,0
+LU,1995,0
+LU,1996,0
+LU,1997,0
+LU,1998,0
+LU,1999,0
+LU,2000,0
+LU,2001,0
+LU,2002,0
+LU,2003,0
+LU,2004,0
+LU,2005,0
+LU,2006,0
+LU,2007,0
+LU,2008,0
+LU,2009,0
+LU,2010,0
+LU,2011,0
+LU,2012,0
+LV,1990,
+LV,1991,
+LV,1992,0
+LV,1993,0
+LV,1994,0
+LV,1995,0
+LV,1996,0
+LV,1997,0
+LV,1998,0
+LV,1999,0
+LV,2000,0
+LV,2001,0
+LV,2002,0
+LV,2003,0
+LV,2004,0
+LV,2005,0
+LV,2006,0
+LV,2007,0
+LV,2008,0
+LV,2009,0
+LV,2010,0
+LV,2011,0
+LV,2012,0
+LY,1990,0
+LY,1991,0
+LY,1992,0
+LY,1993,0
+LY,1994,0
+LY,1995,0
+LY,1996,0
+LY,1997,0
+LY,1998,0
+LY,1999,0
+LY,2000,0
+LY,2001,0
+LY,2002,0
+LY,2003,0
+LY,2004,0
+LY,2005,0
+LY,2006,0
+LY,2007,0
+LY,2008,0
+LY,2009,0
+LY,2010,0
+LY,2011,0
+LY,2012,0
+MA,1990,116.88
+MA,1991,158.71
+MA,1992,269.36
+MA,1993,102.42
+MA,1994,150.84
+MA,1995,138.92
+MA,1996,161.72
+MA,1997,238.94
+MA,1998,191.9
+MA,1999,253.9
+MA,2000,399
+MA,2001,628.69
+MA,2002,728.99
+MA,2003,774.38
+MA,2004,801.44
+MA,2005,700.23
+MA,2006,776.43
+MA,2007,753.39
+MA,2008,770.31
+MA,2009,1656.23
+MA,2010,1417.33
+MA,2011,1965.06
+MA,2012,2092.15
+MD,1990,
+MD,1991,
+MD,1992,0
+MD,1993,0
+MD,1994,0
+MD,1995,0.26
+MD,1996,2.18
+MD,1997,4.41
+MD,1998,17.34
+MD,1999,40.42
+MD,2000,8.86
+MD,2001,-61.75
+MD,2002,-38.9
+MD,2003,63.49
+MD,2004,104.07
+MD,2005,88.06
+MD,2006,194.43
+MD,2007,262.13
+MD,2008,169.84
+MD,2009,165.83
+MD,2010,179.56
+MD,2011,268.37
+MD,2012,117.99
+ME,1990,
+ME,1991,
+ME,1992,
+ME,1993,
+ME,1994,
+ME,1995,
+ME,1996,
+ME,1997,
+ME,1998,
+ME,1999,
+ME,2000,
+ME,2001,0
+ME,2002,0
+ME,2003,0
+ME,2004,0
+ME,2005,0
+ME,2006,0
+ME,2007,16.65
+ME,2008,39.62
+ME,2009,86.36
+ME,2010,97.22
+ME,2011,41.45
+ME,2012,32.51
+MG,1990,1.35
+MG,1991,4.12
+MG,1992,2.46
+MG,1993,6.4
+MG,1994,2.57
+MG,1995,6.38
+MG,1996,0
+MG,1997,12.64
+MG,1998,12.43
+MG,1999,16.32
+MG,2000,7.91
+MG,2001,64.98
+MG,2002,99.82
+MG,2003,42.85
+MG,2004,37.18
+MG,2005,62.05
+MG,2006,0
+MG,2007,0
+MG,2008,0
+MG,2009,0
+MG,2010,0
+MG,2011,0
+MG,2012,0
+MH,1990,
+MH,1991,
+MH,1992,
+MH,1993,
+MH,1994,
+MH,1995,
+MH,1996,
+MH,1997,0
+MH,1998,0
+MH,1999,0
+MH,2000,0
+MH,2001,0
+MH,2002,0
+MH,2003,0
+MH,2004,0
+MH,2005,0
+MH,2006,0
+MH,2007,0
+MH,2008,0
+MH,2009,0
+MH,2010,0
+MH,2011,0
+MH,2012,0
+MK,1990,
+MK,1991,
+MK,1992,0
+MK,1993,0
+MK,1994,0
+MK,1995,0
+MK,1996,0
+MK,1997,0
+MK,1998,17.14
+MK,1999,59.29
+MK,2000,63.42
+MK,2001,-1.62
+MK,2002,73.34
+MK,2003,96.95
+MK,2004,91.88
+MK,2005,185.66
+MK,2006,73.6
+MK,2007,502.51
+MK,2008,235.35
+MK,2009,134.9
+MK,2010,231.78
+MK,2011,251.71
+MK,2012,267.64
+ML,1990,5.79
+ML,1991,2.61
+ML,1992,6.25
+ML,1993,12.1
+ML,1994,0.08
+ML,1995,9.41
+ML,1996,30.33
+ML,1997,37.66
+ML,1998,70.14
+ML,1999,115.44
+ML,2000,166.73
+ML,2001,304.69
+ML,2002,485.07
+ML,2003,208.54
+ML,2004,228.98
+ML,2005,276.24
+ML,2006,343.59
+ML,2007,320.83
+ML,2008,341.61
+ML,2009,490.84
+ML,2010,432.75
+ML,2011,0
+ML,2012,0
+MM,1990,
+MM,1991,
+MM,1992,
+MM,1993,
+MM,1994,
+MM,1995,
+MM,1996,
+MM,1997,
+MM,1998,0
+MM,1999,57.67
+MM,2000,242.33
+MM,2001,1435.75
+MM,2002,1695.77
+MM,2003,1612.42
+MM,2004,1837.68
+MM,2005,3389.11
+MM,2006,2974.21
+MM,2007,2547.07
+MM,2008,2414.98
+MM,2009,2215.42
+MM,2010,1795.61
+MM,2011,1591.77
+MM,2012,0
+MN,1990,0
+MN,1991,0
+MN,1992,27.65
+MN,1993,51.27
+MN,1994,30.34
+MN,1995,44.68
+MN,1996,44.57
+MN,1997,24.91
+MN,1998,1.78
+MN,1999,1.56
+MN,2000,32.28
+MN,2001,19.98
+MN,2002,16.53
+MN,2003,15.08
+MN,2004,25.41
+MN,2005,92.81
+MN,2006,263.5
+MN,2007,202.98
+MN,2008,144.74
+MN,2009,193.91
+MN,2010,585.68
+MN,2011,662.16
+MN,2012,594.09
+MR,1990,1.03
+MR,1991,0.99
+MR,1992,2.54
+MR,1993,2.92
+MR,1994,3.47
+MR,1995,6.81
+MR,1996,0
+MR,1997,2.26
+MR,1998,2.31
+MR,1999,0
+MR,2000,0
+MR,2001,0
+MR,2002,0
+MR,2003,0
+MR,2004,0
+MR,2005,0
+MR,2006,0
+MR,2007,0
+MR,2008,0
+MR,2009,0
+MR,2010,0
+MR,2011,0
+MR,2012,0
+MT,1990,
+MT,1991,
+MT,1992,
+MT,1993,
+MT,1994,
+MT,1995,
+MT,1996,
+MT,1997,
+MT,1998,
+MT,1999,
+MT,2000,0
+MT,2001,0
+MT,2002,0
+MT,2003,0
+MT,2004,0
+MT,2005,0
+MT,2006,0
+MT,2007,0
+MT,2008,0
+MT,2009,0
+MT,2010,0
+MT,2011,0
+MT,2012,0
+MU,1990,35.87
+MU,1991,29.3
+MU,1992,32.76
+MU,1993,29.05
+MU,1994,17.43
+MU,1995,20.99
+MU,1996,12.56
+MU,1997,9.86
+MU,1998,19.61
+MU,1999,6.7
+MU,2000,12.65
+MU,2001,8.14
+MU,2002,15.43
+MU,2003,32.7
+MU,2004,17.37
+MU,2005,44.16
+MU,2006,116.57
+MU,2007,109.08
+MU,2008,168.52
+MU,2009,226
+MU,2010,5102.46
+MU,2011,538.73
+MU,2012,568.79
+MV,1990,29.17
+MV,1991,30.86
+MV,1992,30.29
+MV,1993,29.59
+MV,1994,33.23
+MV,1995,28.62
+MV,1996,31.94
+MV,1997,36.95
+MV,1998,40.57
+MV,1999,43.08
+MV,2000,42.83
+MV,2001,53.44
+MV,2002,46.62
+MV,2003,51.25
+MV,2004,47.54
+MV,2005,40.05
+MV,2006,48.35
+MV,2007,266.55
+MV,2008,250.37
+MV,2009,218.07
+MV,2010,250.32
+MV,2011,282.16
+MV,2012,281
+MW,1990,5.49
+MW,1991,8.23
+MW,1992,8.63
+MW,1993,3.01
+MW,1994,15.23
+MW,1995,12.54
+MW,1996,11.34
+MW,1997,12.2
+MW,1998,19.16
+MW,1999,26.92
+MW,2000,21.73
+MW,2001,20.18
+MW,2002,20.76
+MW,2003,67.26
+MW,2004,70.6
+MW,2005,52.28
+MW,2006,51.68
+MW,2007,57.36
+MW,2008,109.75
+MW,2009,75.24
+MW,2010,126.01
+MW,2011,67.15
+MW,2012,92.5
+MX,1990,5061.24
+MX,1991,4757.86
+MX,1992,3942.21
+MX,1993,3616.5
+MX,1994,6908.22
+MX,1995,8873.42
+MX,1996,7676.67
+MX,1997,6374.57
+MX,1998,8883.46
+MX,1999,5453.28
+MX,2000,8161.23
+MX,2001,7020.01
+MX,2002,4873.51
+MX,2003,4736.84
+MX,2004,4833.54
+MX,2005,9367.86
+MX,2006,11038.73
+MX,2007,13905.89
+MX,2008,11129.28
+MX,2009,9419.09
+MX,2010,8254.26
+MX,2011,11332.35
+MX,2012,13401.73
+MY,1990,3927.68
+MY,1991,4487.04
+MY,1992,5242.46
+MY,1993,5584.35
+MY,1994,6694.9
+MY,1995,6488.46
+MY,1996,6763.87
+MY,1997,8318.16
+MY,1998,5891.77
+MY,1999,11018
+MY,2000,13418.5
+MY,2001,11278.05
+MY,2002,11281.19
+MY,2003,12017.48
+MY,2004,13056.13
+MY,2005,12791.05
+MY,2006,12667
+MY,2007,12690.21
+MY,2008,15531.35
+MY,2009,14039.7
+MY,2010,16957.18
+MY,2011,18068.47
+MY,2012,18384.56
+MZ,1990,0
+MZ,1991,0
+MZ,1992,0
+MZ,1993,0
+MZ,1994,0
+MZ,1995,0
+MZ,1996,0
+MZ,1997,0
+MZ,1998,0
+MZ,1999,7.17
+MZ,2000,0.41
+MZ,2001,32.07
+MZ,2002,46.28
+MZ,2003,67.59
+MZ,2004,237.62
+MZ,2005,377.99
+MZ,2006,621.7
+MZ,2007,695.84
+MZ,2008,597.19
+MZ,2009,279.2
+MZ,2010,277.86
+MZ,2011,248.2
+MZ,2012,50.3
+NA,1990,0
+NA,1991,0
+NA,1992,0
+NA,1993,0
+NA,1994,0
+NA,1995,0
+NA,1996,0
+NA,1997,0
+NA,1998,0
+NA,1999,0
+NA,2000,0
+NA,2001,0
+NA,2002,0
+NA,2003,0
+NA,2004,0
+NA,2005,0
+NA,2006,0
+NA,2007,0
+NA,2008,0
+NA,2009,0
+NA,2010,0
+NA,2011,0
+NA,2012,0
+NE,1990,28.74
+NE,1991,4.98
+NE,1992,19.86
+NE,1993,8.51
+NE,1994,15.96
+NE,1995,6.45
+NE,1996,7.73
+NE,1997,6.77
+NE,1998,-1.53
+NE,1999,-6.21
+NE,2000,3.99
+NE,2001,-6.26
+NE,2002,5.25
+NE,2003,14.93
+NE,2004,22.97
+NE,2005,28.35
+NE,2006,16.58
+NE,2007,32.77
+NE,2008,23.43
+NE,2009,83.86
+NE,2010,17.94
+NE,2011,0
+NE,2012,0
+NG,1990,351.11
+NG,1991,534.33
+NG,1992,370.94
+NG,1993,7010.85
+NG,1994,6210.34
+NG,1995,3023.67
+NG,1996,3061.32
+NG,1997,3783.54
+NG,1998,4055.81
+NG,1999,4226.22
+NG,2000,4839.08
+NG,2001,4835.44
+NG,2002,4230.73
+NG,2003,7000.05
+NG,2004,4822.58
+NG,2005,3849.62
+NG,2006,6994.26
+NG,2007,14601.22
+NG,2008,16246.62
+NG,2009,18847.96
+NG,2010,19970.7
+NG,2011,23043.38
+NG,2012,22429.82
+NI,1990,0
+NI,1991,0
+NI,1992,15.31
+NI,1993,13.28
+NI,1994,22.47
+NI,1995,37.88
+NI,1996,61.13
+NI,1997,74.01
+NI,1998,79.24
+NI,1999,86.66
+NI,2000,95.51
+NI,2001,104.76
+NI,2002,99.7
+NI,2003,108.06
+NI,2004,108.76
+NI,2005,107.06
+NI,2006,107.01
+NI,2007,111.71
+NI,2008,127.79
+NI,2009,135.94
+NI,2010,149.11
+NI,2011,151.41
+NI,2012,157
+NL,1990,0
+NL,1991,0
+NL,1992,0
+NL,1993,0
+NL,1994,0
+NL,1995,0
+NL,1996,0
+NL,1997,0
+NL,1998,0
+NL,1999,0
+NL,2000,0
+NL,2001,0
+NL,2002,0
+NL,2003,0
+NL,2004,0
+NL,2005,0
+NL,2006,0
+NL,2007,0
+NL,2008,0
+NL,2009,0
+NL,2010,0
+NL,2011,0
+NL,2012,0
+NO,1990,0
+NO,1991,0
+NO,1992,0
+NO,1993,0
+NO,1994,0
+NO,1995,0
+NO,1996,0
+NO,1997,0
+NO,1998,0
+NO,1999,0
+NO,2000,0
+NO,2001,0
+NO,2002,0
+NO,2003,0
+NO,2004,0
+NO,2005,0
+NO,2006,0
+NO,2007,0
+NO,2008,0
+NO,2009,0
+NO,2010,0
+NO,2011,0
+NO,2012,0
+NP,1990,0
+NP,1991,0
+NP,1992,0
+NP,1993,0
+NP,1994,0
+NP,1995,0
+NP,1996,0
+NP,1997,0
+NP,1998,0
+NP,1999,0
+NP,2000,0
+NP,2001,0
+NP,2002,93.68
+NP,2003,86.32
+NP,2004,83.91
+NP,2005,97.34
+NP,2006,89.64
+NP,2007,78.6
+NP,2008,56.08
+NP,2009,11.39
+NP,2010,54.4
+NP,2011,55.75
+NP,2012,33.89
+NZ,1990,0
+NZ,1991,0
+NZ,1992,0
+NZ,1993,0
+NZ,1994,0
+NZ,1995,0
+NZ,1996,0
+NZ,1997,0
+NZ,1998,0
+NZ,1999,0
+NZ,2000,0
+NZ,2001,0
+NZ,2002,0
+NZ,2003,0
+NZ,2004,0
+NZ,2005,0
+NZ,2006,0
+NZ,2007,0
+NZ,2008,0
+NZ,2009,0
+NZ,2010,0
+NZ,2011,0
+NZ,2012,0
+OM,1990,0
+OM,1991,0
+OM,1992,0
+OM,1993,0
+OM,1994,0
+OM,1995,0
+OM,1996,0
+OM,1997,0
+OM,1998,0
+OM,1999,0
+OM,2000,0
+OM,2001,0
+OM,2002,0
+OM,2003,0
+OM,2004,0
+OM,2005,0
+OM,2006,0
+OM,2007,0
+OM,2008,0
+OM,2009,0
+OM,2010,0
+OM,2011,0
+OM,2012,0
+PA,1990,341.97
+PA,1991,477.15
+PA,1992,550.75
+PA,1993,494.01
+PA,1994,425.75
+PA,1995,606.67
+PA,1996,569.45
+PA,1997,718.84
+PA,1998,866.52
+PA,1999,975.02
+PA,2000,766.23
+PA,2001,767.47
+PA,2002,257.7
+PA,2003,969.77
+PA,2004,1245.53
+PA,2005,1325.81
+PA,2006,1483.01
+PA,2007,1829.08
+PA,2008,1992.53
+PA,2009,1476.24
+PA,2010,1977.56
+PA,2011,2170.59
+PA,2012,2873.4
+PE,1990,35.53
+PE,1991,73.02
+PE,1992,123.51
+PE,1993,368.61
+PE,1994,591.77
+PE,1995,1390.15
+PE,1996,1109.38
+PE,1997,1532.62
+PE,1998,379.82
+PE,1999,35.2
+PE,2000,653.29
+PE,2001,246.39
+PE,2002,898.96
+PE,2003,2009.55
+PE,2004,4286.89
+PE,2005,6311.41
+PE,2006,9781.02
+PE,2007,10593.93
+PE,2008,10538.51
+PE,2009,10400.7
+PE,2010,12241.96
+PE,2011,13685.5
+PE,2012,11747.67
+PG,1990,266.27
+PG,1991,299.51
+PG,1992,414.81
+PG,1993,404.19
+PG,1994,384.66
+PG,1995,692.64
+PG,1996,627.11
+PG,1997,412.77
+PG,1998,401.16
+PG,1999,608.36
+PG,2000,481.01
+PG,2001,570.39
+PG,2002,619.26
+PG,2003,1080.16
+PG,2004,873.37
+PG,2005,994.23
+PG,2006,1427.45
+PG,2007,1102.72
+PG,2008,844.61
+PG,2009,777.51
+PG,2010,606.47
+PG,2011,0
+PG,2012,0
+PH,1990,679.68
+PH,1991,642.04
+PH,1992,736.69
+PH,1993,667.86
+PH,1994,544.97
+PH,1995,747.11
+PH,1996,706.1
+PH,1997,654.21
+PH,1998,756.08
+PH,1999,1369.26
+PH,2000,402.9
+PH,2001,1307.91
+PH,2002,2253.01
+PH,2003,2020.44
+PH,2004,2547.43
+PH,2005,2397.11
+PH,2006,3082.25
+PH,2007,2846.34
+PH,2008,2002.9
+PH,2009,2679.39
+PH,2010,2406.13
+PH,2011,3057.16
+PH,2012,4237
+PK,1990,88.61
+PK,1991,65.21
+PK,1992,83.64
+PK,1993,305.7
+PK,1994,380.2
+PK,1995,416.9
+PK,1996,253.39
+PK,1997,409.78
+PK,1998,463.91
+PK,1999,443.39
+PK,2000,719.64
+PK,2001,817.28
+PK,2002,1038.03
+PK,2003,1466.6
+PK,2004,2228.65
+PK,2005,2724.94
+PK,2006,3435.98
+PK,2007,3762.79
+PK,2008,3789.05
+PK,2009,3050.93
+PK,2010,2511.96
+PK,2011,2125.73
+PK,2012,2374.83
+PL,1990,0
+PL,1991,0
+PL,1992,0
+PL,1993,0
+PL,1994,0
+PL,1995,0
+PL,1996,0
+PL,1997,0
+PL,1998,0
+PL,1999,0
+PL,2000,0
+PL,2001,0
+PL,2002,0
+PL,2003,0
+PL,2004,0
+PL,2005,0
+PL,2006,0
+PL,2007,0
+PL,2008,0
+PL,2009,0
+PL,2010,0
+PL,2011,0
+PL,2012,0
+PT,1990,0
+PT,1991,0
+PT,1992,0
+PT,1993,0
+PT,1994,0
+PT,1995,0
+PT,1996,0
+PT,1997,0
+PT,1998,0
+PT,1999,0
+PT,2000,0
+PT,2001,0
+PT,2002,0
+PT,2003,0
+PT,2004,0
+PT,2005,0
+PT,2006,0
+PT,2007,0
+PT,2008,0
+PT,2009,0
+PT,2010,0
+PT,2011,0
+PT,2012,0
+PW,1990,
+PW,1991,
+PW,1992,
+PW,1993,
+PW,1994,
+PW,1995,
+PW,1996,
+PW,1997,
+PW,1998,
+PW,1999,
+PW,2000,0
+PW,2001,0
+PW,2002,0
+PW,2003,0
+PW,2004,0
+PW,2005,0
+PW,2006,0
+PW,2007,0
+PW,2008,0
+PW,2009,0
+PW,2010,0
+PW,2011,0
+PW,2012,0
+PY,1990,46.77
+PY,1991,49.43
+PY,1992,38.45
+PY,1993,88.86
+PY,1994,78.89
+PY,1995,115.6
+PY,1996,136.93
+PY,1997,270.01
+PY,1998,353.67
+PY,1999,220.06
+PY,2000,177.41
+PY,2001,197.66
+PY,2002,106.53
+PY,2003,162.48
+PY,2004,446.07
+PY,2005,343.19
+PY,2006,505.84
+PY,2007,553.52
+PY,2008,608.59
+PY,2009,745.03
+PY,2010,889.58
+PY,2011,558.82
+PY,2012,860.9
+QA,1990,0
+QA,1991,0
+QA,1992,0
+QA,1993,0
+QA,1994,0
+QA,1995,0
+QA,1996,0
+QA,1997,0
+QA,1998,0
+QA,1999,0
+QA,2000,0
+QA,2001,0
+QA,2002,0
+QA,2003,0
+QA,2004,0
+QA,2005,0
+QA,2006,0
+QA,2007,0
+QA,2008,0
+QA,2009,0
+QA,2010,0
+QA,2011,0
+QA,2012,0
+RO,1990,0
+RO,1991,0
+RO,1992,0
+RO,1993,15.79
+RO,1994,43.14
+RO,1995,91.43
+RO,1996,81.83
+RO,1997,96.18
+RO,1998,393.73
+RO,1999,155.5
+RO,2000,211.27
+RO,2001,333.73
+RO,2002,521.12
+RO,2003,546.8
+RO,2004,4753.13
+RO,2005,4267.18
+RO,2006,5295.17
+RO,2007,5817.79
+RO,2008,3774.93
+RO,2009,1222.54
+RO,2010,715.65
+RO,2011,616.93
+RO,2012,-378
+RS,1990,
+RS,1991,
+RS,1992,
+RS,1993,
+RS,1994,
+RS,1995,
+RS,1996,
+RS,1997,
+RS,1998,
+RS,1999,
+RS,2000,0
+RS,2001,0
+RS,2002,0
+RS,2003,0
+RS,2004,0
+RS,2005,0
+RS,2006,0
+RS,2007,573.04
+RS,2008,729.97
+RS,2009,422.44
+RS,2010,572.94
+RS,2011,469.08
+RS,2012,602.4
+RU,1990,#N/A
+RU,1991,#N/A
+RU,1992,#N/A
+RU,1993,#N/A
+RU,1994,#N/A
+RU,1995,#N/A
+RU,1996,#N/A
+RU,1997,#N/A
+RU,1998,#N/A
+RU,1999,#N/A
+RU,2000,#N/A
+RU,2001,#N/A
+RU,2002,#N/A
+RU,2003,#N/A
+RU,2004,#N/A
+RU,2005,#N/A
+RU,2006,#N/A
+RU,2007,#N/A
+RU,2008,#N/A
+RU,2009,#N/A
+RU,2010,#N/A
+RU,2011,#N/A
+RU,2012,#N/A
+RW,1990,6.49
+RW,1991,7.55
+RW,1992,5.46
+RW,1993,4.19
+RW,1994,0
+RW,1995,2.12
+RW,1996,3.23
+RW,1997,5.09
+RW,1998,0.31
+RW,1999,1.1
+RW,2000,4.94
+RW,2001,6.05
+RW,2002,0.73
+RW,2003,10.35
+RW,2004,5.28
+RW,2005,7.44
+RW,2006,5.63
+RW,2007,15.1
+RW,2008,18.58
+RW,2009,5.03
+RW,2010,4.05
+RW,2011,12.53
+RW,2012,0.86
+SA,1990,0
+SA,1991,0
+SA,1992,0
+SA,1993,0
+SA,1994,0
+SA,1995,0
+SA,1996,0
+SA,1997,0
+SA,1998,0
+SA,1999,0
+SA,2000,0
+SA,2001,0
+SA,2002,0
+SA,2003,0
+SA,2004,0
+SA,2005,0
+SA,2006,0
+SA,2007,0
+SA,2008,0
+SA,2009,0
+SA,2010,0
+SA,2011,0
+SA,2012,0
+SB,1990,4.52
+SB,1991,8.58
+SB,1992,8.52
+SB,1993,6.54
+SB,1994,6.02
+SB,1995,11.11
+SB,1996,11.3
+SB,1997,12.22
+SB,1998,13.17
+SB,1999,16.81
+SB,2000,13.28
+SB,2001,4.12
+SB,2002,11.75
+SB,2003,10.12
+SB,2004,11.74
+SB,2005,8.8
+SB,2006,36.94
+SB,2007,62.24
+SB,2008,142.77
+SB,2009,181.08
+SB,2010,160.48
+SB,2011,146.47
+SB,2012,84.24
+SC,1990,11.98
+SC,1991,10.8
+SC,1992,8.71
+SC,1993,7.94
+SC,1994,10.2
+SC,1995,17.24
+SC,1996,13
+SC,1997,8.36
+SC,1998,7.78
+SC,1999,9.7
+SC,2000,11.16
+SC,2001,15.37
+SC,2002,57.89
+SC,2003,28.48
+SC,2004,15.46
+SC,2005,18.16
+SC,2006,22.38
+SC,2007,2.26
+SC,2008,2.45
+SC,2009,0.67
+SC,2010,-1.15
+SC,2011,4.08
+SC,2012,3.25
+SD,1990,0
+SD,1991,0
+SD,1992,0
+SD,1993,0
+SD,1994,0
+SD,1995,0
+SD,1996,0
+SD,1997,0
+SD,1998,0
+SD,1999,0
+SD,2000,0
+SD,2001,0
+SD,2002,1846.96
+SD,2003,2328.38
+SD,2004,2607.18
+SD,2005,2073.69
+SD,2006,3091.1
+SD,2007,2902.14
+SD,2008,4820.66
+SD,2009,3495.6
+SD,2010,3228.88
+SD,2011,370.9
+SD,2012,4.95
+SE,1990,0
+SE,1991,0
+SE,1992,0
+SE,1993,0
+SE,1994,0
+SE,1995,0
+SE,1996,0
+SE,1997,0
+SE,1998,0
+SE,1999,0
+SE,2000,0
+SE,2001,0
+SE,2002,0
+SE,2003,0
+SE,2004,0
+SE,2005,0
+SE,2006,0
+SE,2007,0
+SE,2008,0
+SE,2009,0
+SE,2010,0
+SE,2011,0
+SE,2012,0
+SG,1990,0
+SG,1991,0
+SG,1992,0
+SG,1993,0
+SG,1994,0
+SG,1995,0
+SG,1996,0
+SG,1997,0
+SG,1998,0
+SG,1999,0
+SG,2000,0
+SG,2001,0
+SG,2002,0
+SG,2003,0
+SG,2004,0
+SG,2005,0
+SG,2006,0
+SG,2007,0
+SG,2008,0
+SG,2009,0
+SG,2010,0
+SG,2011,0
+SG,2012,0
+SI,1990,
+SI,1991,
+SI,1992,
+SI,1993,
+SI,1994,
+SI,1995,
+SI,1996,
+SI,1997,
+SI,1998,
+SI,1999,
+SI,2000,
+SI,2001,
+SI,2002,
+SI,2003,
+SI,2004,
+SI,2005,0
+SI,2006,0
+SI,2007,0
+SI,2008,0
+SI,2009,0
+SI,2010,0
+SI,2011,0
+SI,2012,0
+SK,1990,
+SK,1991,
+SK,1992,
+SK,1993,0
+SK,1994,0
+SK,1995,0
+SK,1996,0
+SK,1997,0
+SK,1998,0
+SK,1999,0
+SK,2000,0
+SK,2001,0
+SK,2002,0
+SK,2003,0
+SK,2004,0
+SK,2005,0
+SK,2006,0
+SK,2007,0
+SK,2008,0
+SK,2009,0
+SK,2010,0
+SK,2011,0
+SK,2012,0
+SL,1990,155.86
+SL,1991,37.54
+SL,1992,3.11
+SL,1993,1.74
+SL,1994,0.46
+SL,1995,20
+SL,1996,5.39
+SL,1997,2.9
+SL,1998,4.7
+SL,1999,8.05
+SL,2000,2.55
+SL,2001,0.8
+SL,2002,3.09
+SL,2003,14.78
+SL,2004,51.85
+SL,2005,60.2
+SL,2006,36.31
+SL,2007,153.19
+SL,2008,86.45
+SL,2009,46.86
+SL,2010,55.66
+SL,2011,245.51
+SL,2012,130.49
+SM,1990,
+SM,1991,
+SM,1992,
+SM,1993,
+SM,1994,
+SM,1995,
+SM,1996,
+SM,1997,
+SM,1998,
+SM,1999,
+SM,2000,
+SM,2001,
+SM,2002,
+SM,2003,
+SM,2004,0
+SM,2005,0
+SM,2006,0
+SM,2007,0
+SM,2008,0
+SM,2009,0
+SM,2010,0
+SM,2011,0
+SM,2012,0
+SN,1990,69.4
+SN,1991,32.15
+SN,1992,33.4
+SN,1993,29.87
+SN,1994,61.25
+SN,1995,92.2
+SN,1996,21.67
+SN,1997,26.95
+SN,1998,72.01
+SN,1999,117.71
+SN,2000,142.8
+SN,2001,127.9
+SN,2002,158.18
+SN,2003,129.19
+SN,2004,88.99
+SN,2005,221.67
+SN,2006,151.48
+SN,2007,150.18
+SN,2008,164.73
+SN,2009,146.18
+SN,2010,138.23
+SN,2011,0
+SN,2012,0
+SR,1990,0
+SR,1991,0
+SR,1992,0
+SR,1993,0
+SR,1994,0
+SR,1995,0
+SR,1996,0
+SR,1997,0
+SR,1998,0
+SR,1999,0
+SR,2000,0
+SR,2001,0
+SR,2002,0
+SR,2003,0
+SR,2004,0
+SR,2005,0
+SR,2006,0
+SR,2007,0
+SR,2008,0
+SR,2009,0
+SR,2010,0
+SR,2011,0
+SR,2012,0
+SS,1990,
+SS,1991,
+SS,1992,
+SS,1993,
+SS,1994,
+SS,1995,
+SS,1996,
+SS,1997,
+SS,1998,
+SS,1999,
+SS,2000,
+SS,2001,
+SS,2002,
+SS,2003,
+SS,2004,
+SS,2005,
+SS,2006,
+SS,2007,
+SS,2008,
+SS,2009,
+SS,2010,
+SS,2011,0
+SS,2012,0
+ST,1990,0
+ST,1991,0
+ST,1992,0
+ST,1993,0
+ST,1994,0
+ST,1995,0
+ST,1996,0
+ST,1997,0
+ST,1998,0
+ST,1999,0
+ST,2000,0
+ST,2001,0
+ST,2002,0
+ST,2003,0
+ST,2004,0
+ST,2005,0
+ST,2006,0
+ST,2007,0
+ST,2008,0
+ST,2009,0
+ST,2010,0
+ST,2011,0
+ST,2012,0
+SV,1990,79
+SV,1991,85.12
+SV,1992,59.36
+SV,1993,52.8
+SV,1994,51.16
+SV,1995,0
+SV,1996,0
+SV,1997,0
+SV,1998,43.96
+SV,1999,165.38
+SV,2000,86.1
+SV,2001,102.72
+SV,2002,123.48
+SV,2003,114.19
+SV,2004,104.94
+SV,2005,226.03
+SV,2006,108.97
+SV,2007,181.85
+SV,2008,42.83
+SV,2009,191.75
+SV,2010,223.56
+SV,2011,278.85
+SV,2012,514.86
+SY,1990,
+SY,1991,
+SY,1992,
+SY,1993,
+SY,1994,
+SY,1995,
+SY,1996,
+SY,1997,
+SY,1998,
+SY,1999,
+SY,2000,
+SY,2001,
+SY,2002,
+SY,2003,
+SY,2004,
+SY,2005,
+SY,2006,
+SY,2007,
+SY,2008,
+SY,2009,
+SY,2010,
+SY,2011,
+SY,2012,
+SZ,1990,173.18
+SZ,1991,169.68
+SZ,1992,182.82
+SZ,1993,166.4
+SZ,1994,243.79
+SZ,1995,105.07
+SZ,1996,84.95
+SZ,1997,38.66
+SZ,1998,176.88
+SZ,1999,84.95
+SZ,2000,131.53
+SZ,2001,65.68
+SZ,2002,316.27
+SZ,2003,130.89
+SZ,2004,118.84
+SZ,2005,57.52
+SZ,2006,197.61
+SZ,2007,189.52
+SZ,2008,309.16
+SZ,2009,415.74
+SZ,2010,393.71
+SZ,2011,0
+SZ,2012,0
+TD,1990,0
+TD,1991,0
+TD,1992,23.82
+TD,1993,0
+TD,1994,0
+TD,1995,0
+TD,1996,0
+TD,1997,0
+TD,1998,0
+TD,1999,0
+TD,2000,0
+TD,2001,0
+TD,2002,0
+TD,2003,0
+TD,2004,0
+TD,2005,0
+TD,2006,0
+TD,2007,0
+TD,2008,0
+TD,2009,0
+TD,2010,0
+TD,2011,0
+TD,2012,0
+TG,1990,22.31
+TG,1991,17
+TG,1992,18.51
+TG,1993,18.33
+TG,1994,9.04
+TG,1995,2.6
+TG,1996,10.39
+TG,1997,29.08
+TG,1998,34.01
+TG,1999,34.74
+TG,2000,37.84
+TG,2001,53.02
+TG,2002,34.29
+TG,2003,32.11
+TG,2004,59.34
+TG,2005,67.12
+TG,2006,78.03
+TG,2007,55.79
+TG,2008,53.16
+TG,2009,44.44
+TG,2010,74.43
+TG,2011,0
+TG,2012,0
+TH,1990,531.86
+TH,1991,91.24
+TH,1992,0
+TH,1993,0
+TH,1994,0
+TH,1995,0
+TH,1996,0
+TH,1997,0
+TH,1998,0
+TH,1999,0
+TH,2000,0
+TH,2001,2335.24
+TH,2002,4552.47
+TH,2003,6023.43
+TH,2004,7209.72
+TH,2005,17671.75
+TH,2006,16628.84
+TH,2007,18406.65
+TH,2008,18150.79
+TH,2009,16044.22
+TH,2010,20291.65
+TH,2011,18549.86
+TH,2012,22595.94
+TJ,1990,
+TJ,1991,
+TJ,1992,0
+TJ,1993,0
+TJ,1994,0
+TJ,1995,0
+TJ,1996,0
+TJ,1997,0
+TJ,1998,0
+TJ,1999,0
+TJ,2000,0
+TJ,2001,0
+TJ,2002,0.04
+TJ,2003,1.87
+TJ,2004,2.78
+TJ,2005,4.5
+TJ,2006,83.79
+TJ,2007,38.71
+TJ,2008,4.78
+TJ,2009,6.68
+TJ,2010,10.62
+TJ,2011,7.75
+TJ,2012,33.04
+TL,1990,
+TL,1991,
+TL,1992,
+TL,1993,
+TL,1994,
+TL,1995,
+TL,1996,
+TL,1997,
+TL,1998,
+TL,1999,
+TL,2000,0
+TL,2001,0
+TL,2002,0
+TL,2003,0
+TL,2004,0
+TL,2005,0
+TL,2006,0
+TL,2007,0
+TL,2008,0
+TL,2009,0
+TL,2010,0
+TL,2011,0
+TL,2012,0
+TM,1990,
+TM,1991,
+TM,1992,0
+TM,1993,0
+TM,1994,0
+TM,1995,0
+TM,1996,114.84
+TM,1997,13.67
+TM,1998,0
+TM,1999,0
+TM,2000,0
+TM,2001,0
+TM,2002,0
+TM,2003,0
+TM,2004,0
+TM,2005,0
+TM,2006,0
+TM,2007,0
+TM,2008,0
+TM,2009,0
+TM,2010,0
+TM,2011,0
+TM,2012,0
+TN,1990,131.28
+TN,1991,254.54
+TN,1992,219.53
+TN,1993,159.5
+TN,1994,236.58
+TN,1995,196.15
+TN,1996,349.7
+TN,1997,402.56
+TN,1998,405.27
+TN,1999,481.79
+TN,2000,631.02
+TN,2001,660.29
+TN,2002,631.04
+TN,2003,637.48
+TN,2004,750.33
+TN,2005,1070.14
+TN,2006,1090.68
+TN,2007,1577.8
+TN,2008,1839.17
+TN,2009,1582.13
+TN,2010,1669.15
+TN,2011,1632.36
+TN,2012,1533.33
+TO,1990,0.72
+TO,1991,0
+TO,1992,0
+TO,1993,0
+TO,1994,0
+TO,1995,0
+TO,1996,0
+TO,1997,0
+TO,1998,0
+TO,1999,0
+TO,2000,0
+TO,2001,0
+TO,2002,1.6
+TO,2003,1.59
+TO,2004,0
+TO,2005,0
+TO,2006,0
+TO,2007,0
+TO,2008,0
+TO,2009,0.03
+TO,2010,0
+TO,2011,0
+TO,2012,0
+TR,1990,269.39
+TR,1991,265.18
+TR,1992,262.44
+TR,1993,408.07
+TR,1994,236.65
+TR,1995,542.8
+TR,1996,359.22
+TR,1997,362.12
+TR,1998,572.12
+TR,1999,568.04
+TR,2000,507.51
+TR,2001,720.97
+TR,2002,837.79
+TR,2003,1084.41
+TR,2004,1486.67
+TR,2005,1319.48
+TR,2006,1446.75
+TR,2007,2321.35
+TR,2008,2758.66
+TR,2009,3096.88
+TR,2010,2779.01
+TR,2011,2911.05
+TR,2012,2193
+TT,1990,0
+TT,1991,0
+TT,1992,0
+TT,1993,0
+TT,1994,0
+TT,1995,0
+TT,1996,0
+TT,1997,0
+TT,1998,0
+TT,1999,0
+TT,2000,0
+TT,2001,0
+TT,2002,0
+TT,2003,0
+TT,2004,0
+TT,2005,0
+TT,2006,0
+TT,2007,0
+TT,2008,0
+TT,2009,0
+TT,2010,0
+TT,2011,0
+TT,2012,0
+TV,1990,
+TV,1991,
+TV,1992,
+TV,1993,
+TV,1994,
+TV,1995,
+TV,1996,
+TV,1997,
+TV,1998,
+TV,1999,
+TV,2000,0
+TV,2001,0
+TV,2002,0
+TV,2003,0
+TV,2004,0
+TV,2005,0
+TV,2006,0
+TV,2007,0
+TV,2008,0
+TV,2009,0
+TV,2010,0
+TV,2011,0
+TV,2012,0
+TW,1990,#N/A
+TW,1991,#N/A
+TW,1992,#N/A
+TW,1993,#N/A
+TW,1994,#N/A
+TW,1995,#N/A
+TW,1996,#N/A
+TW,1997,#N/A
+TW,1998,#N/A
+TW,1999,#N/A
+TW,2000,#N/A
+TW,2001,#N/A
+TW,2002,#N/A
+TW,2003,#N/A
+TW,2004,#N/A
+TW,2005,#N/A
+TW,2006,#N/A
+TW,2007,#N/A
+TW,2008,#N/A
+TW,2009,#N/A
+TW,2010,#N/A
+TW,2011,#N/A
+TW,2012,#N/A
+TZ,1990,0
+TZ,1991,0
+TZ,1992,0
+TZ,1993,0
+TZ,1994,0
+TZ,1995,2.64
+TZ,1996,2.95
+TZ,1997,4.25
+TZ,1998,10.29
+TZ,1999,21.06
+TZ,2000,16.52
+TZ,2001,314.31
+TZ,2002,90.28
+TZ,2003,153.74
+TZ,2004,228.92
+TZ,2005,404
+TZ,2006,33.77
+TZ,2007,376.37
+TZ,2008,338.72
+TZ,2009,373.49
+TZ,2010,398.89
+TZ,2011,344.25
+TZ,2012,267.51
+UA,1990,
+UA,1991,
+UA,1992,0
+UA,1993,0
+UA,1994,0
+UA,1995,0
+UA,1996,76.02
+UA,1997,94.93
+UA,1998,161.21
+UA,1999,226.49
+UA,2000,151.05
+UA,2001,249.3
+UA,2002,312.53
+UA,2003,248.05
+UA,2004,429.66
+UA,2005,496.1
+UA,2006,1583.77
+UA,2007,1521.74
+UA,2008,2624.1
+UA,2009,3484.49
+UA,2010,2719.79
+UA,2011,4397.49
+UA,2012,4775
+UG,1990,0
+UG,1991,0
+UG,1992,0
+UG,1993,31.99
+UG,1994,31.61
+UG,1995,70.12
+UG,1996,31.89
+UG,1997,12.6
+UG,1998,19.55
+UG,1999,23.58
+UG,2000,29.99
+UG,2001,107.93
+UG,2002,104.5
+UG,2003,138.72
+UG,2004,324.49
+UG,2005,276.88
+UG,2006,333.14
+UG,2007,307.73
+UG,2008,268.59
+UG,2009,273.73
+UG,2010,207.09
+UG,2011,297.39
+UG,2012,368.54
+US,1990,0
+US,1991,0
+US,1992,0
+US,1993,0
+US,1994,0
+US,1995,0
+US,1996,0
+US,1997,0
+US,1998,0
+US,1999,0
+US,2000,0
+US,2001,0
+US,2002,0
+US,2003,0
+US,2004,0
+US,2005,0
+US,2006,0
+US,2007,0
+US,2008,0
+US,2009,0
+US,2010,0
+US,2011,0
+US,2012,0
+UY,1990,0
+UY,1991,0
+UY,1992,0
+UY,1993,0
+UY,1994,0
+UY,1995,0
+UY,1996,0
+UY,1997,0
+UY,1998,0
+UY,1999,0
+UY,2000,0
+UY,2001,0
+UY,2002,0
+UY,2003,0
+UY,2004,0
+UY,2005,0
+UY,2006,0
+UY,2007,0
+UY,2008,0
+UY,2009,0
+UY,2010,0
+UY,2011,0
+UY,2012,0
+UZ,1990,
+UZ,1991,
+UZ,1992,0
+UZ,1993,0
+UZ,1994,0
+UZ,1995,0
+UZ,1996,0
+UZ,1997,0
+UZ,1998,0
+UZ,1999,0
+UZ,2000,0
+UZ,2001,0
+UZ,2002,0
+UZ,2003,0
+UZ,2004,0
+UZ,2005,0
+UZ,2006,0
+UZ,2007,0
+UZ,2008,0
+UZ,2009,0
+UZ,2010,0
+UZ,2011,0
+UZ,2012,0
+VC,1990,21.98
+VC,1991,20.48
+VC,1992,14.18
+VC,1993,11.31
+VC,1994,16.8
+VC,1995,16.04
+VC,1996,12.77
+VC,1997,14.16
+VC,1998,14.55
+VC,1999,19.73
+VC,2000,16.82
+VC,2001,13.84
+VC,2002,18.48
+VC,2003,26.18
+VC,2004,30.33
+VC,2005,26.26
+VC,2006,26.09
+VC,2007,20.51
+VC,2008,18.55
+VC,2009,12.8
+VC,2010,11.05
+VC,2011,7.49
+VC,2012,7.68
+VE,1990,958.52
+VE,1991,970.49
+VE,1992,2022.87
+VE,1993,2317.01
+VE,1994,2078.43
+VE,1995,1365.47
+VE,1996,1530.62
+VE,1997,5011.95
+VE,1998,6242.49
+VE,1999,2205.94
+VE,2000,3095.45
+VE,2001,4035.78
+VE,2002,4947.26
+VE,2003,4775.57
+VE,2004,8145.19
+VE,2005,7732.09
+VE,2006,11312.85
+VE,2007,6739.51
+VE,2008,6098.94
+VE,2009,3351.74
+VE,2010,5717.08
+VE,2011,5486.26
+VE,2012,5757
+VN,1990,0
+VN,1991,0
+VN,1992,0
+VN,1993,0
+VN,1994,0
+VN,1995,0
+VN,1996,0
+VN,1997,0
+VN,1998,0
+VN,1999,0
+VN,2000,0
+VN,2001,0
+VN,2002,0
+VN,2003,0
+VN,2004,0
+VN,2005,0
+VN,2006,0
+VN,2007,0
+VN,2008,0
+VN,2009,0
+VN,2010,0
+VN,2011,0
+VN,2012,0
+VU,1990,38.14
+VU,1991,63.29
+VU,1992,64.61
+VU,1993,68.3
+VU,1994,72.81
+VU,1995,70.92
+VU,1996,59.83
+VU,1997,55.91
+VU,1998,42.19
+VU,1999,27.6
+VU,2000,46.2
+VU,2001,29.97
+VU,2002,36.05
+VU,2003,36.3
+VU,2004,42.24
+VU,2005,53.61
+VU,2006,50.63
+VU,2007,59.27
+VU,2008,35.54
+VU,2009,51.33
+VU,2010,52.32
+VU,2011,51.9
+VU,2012,76.81
+WS,1990,0
+WS,1991,0
+WS,1992,0
+WS,1993,0
+WS,1994,0
+WS,1995,0
+WS,1996,0
+WS,1997,0
+WS,1998,0
+WS,1999,1.3
+WS,2000,0
+WS,2001,0
+WS,2002,0
+WS,2003,0
+WS,2004,15.97
+WS,2005,46.07
+WS,2006,40.69
+WS,2007,49.29
+WS,2008,63.12
+WS,2009,34.4
+WS,2010,20.08
+WS,2011,29.95
+WS,2012,35.95
+XK,1990,
+XK,1991,
+XK,1992,
+XK,1993,
+XK,1994,
+XK,1995,
+XK,1996,
+XK,1997,
+XK,1998,
+XK,1999,
+XK,2000,0
+XK,2001,0
+XK,2002,0
+XK,2003,0
+XK,2004,23.05
+XK,2005,34.57
+XK,2006,37.96
+XK,2007,64.21
+XK,2008,84.32
+XK,2009,104.56
+XK,2010,135.18
+XK,2011,137.52
+XK,2012,64.22
+YE,1990,333.42
+YE,1991,313.11
+YE,1992,225.11
+YE,1993,199.73
+YE,1994,256.56
+YE,1995,679.91
+YE,1996,1750.6
+YE,1997,1791.74
+YE,1998,1189.72
+YE,1999,2105.64
+YE,2000,2281.9
+YE,2001,2175.93
+YE,2002,2187.39
+YE,2003,2318.01
+YE,2004,2793.81
+YE,2005,3039.2
+YE,2006,2408.75
+YE,2007,2172.33
+YE,2008,2443.36
+YE,2009,1342.61
+YE,2010,1779.25
+YE,2011,2314.31
+YE,2012,0
+ZA,1990,1823.63
+ZA,1991,1774.64
+ZA,1992,1397.84
+ZA,1993,1054.63
+ZA,1994,1043.11
+ZA,1995,784.59
+ZA,1996,1095.89
+ZA,1997,1309.33
+ZA,1998,1431.43
+ZA,1999,2039.56
+ZA,2000,4456.76
+ZA,2001,6353.68
+ZA,2002,4926.2
+ZA,2003,5339.83
+ZA,2004,4327.63
+ZA,2005,5371.3
+ZA,2006,6010.94
+ZA,2007,10376.71
+ZA,2008,10414.73
+ZA,2009,6458.56
+ZA,2010,6080.36
+ZA,2011,7728.42
+ZA,2012,8144.02
+ZM,1990,324.5
+ZM,1991,86.74
+ZM,1992,0
+ZM,1993,0
+ZM,1994,0
+ZM,1995,0
+ZM,1996,0
+ZM,1997,0
+ZM,1998,0
+ZM,1999,0
+ZM,2000,228.33
+ZM,2001,130.24
+ZM,2002,354.95
+ZM,2003,122.62
+ZM,2004,606.54
+ZM,2005,845.39
+ZM,2006,1446.41
+ZM,2007,1896
+ZM,2008,1442.82
+ZM,2009,346.08
+ZM,2010,1445.93
+ZM,2011,1092.19
+ZM,2012,1032.59
+ZW,1990,
+ZW,1991,
+ZW,1992,
+ZW,1993,
+ZW,1994,
+ZW,1995,
+ZW,1996,
+ZW,1997,
+ZW,1998,
+ZW,1999,
+ZW,2000,0
+ZW,2001,0
+ZW,2002,0
+ZW,2003,0
+ZW,2004,0
+ZW,2005,0
+ZW,2006,0
+ZW,2007,0
+ZW,2008,0
+ZW,2009,0
+ZW,2010,0
+ZW,2011,0
+ZW,2012,0
