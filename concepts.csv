@@ -11,6 +11,8 @@ country-year,from_fdi_profits,Outflows of profits on FDI leaving the country,,co
 country-year,from_illicitfinance,Estimates of illicit finance outflows,,constant 2012 US$ millions,Global Financial Integrity,,"Estimates use GFI's Hot Money Narrow (HMN) Method 
 This dataset uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012"
 country-year,from_longdebt_capital,Capital repayments on outstanding long term debt,,constant 2012 US$ millions,World Bank International Debt Statistics,,
+country-year,from_trademispricing,Estimates of trade mispricing outflows,,constant 2012 US$ millions,Global Financial Integrity,,"Estimates use GFI's Gross Excluding Reversals (GER) Method of estimating trade mispricing flows
+This dataset uses OECD DAC deflators for countries included in their deflators dataset and deflators calculated from IMF WEO GDP figures for all other countries. BASE YEAR = 2012"
 country-year,govtspend_pc,"Government spending per person, 2011 PPP$, net of general budget support ODA and disbursements on debt to the public sector",,2011 PPP$,"Development Initiatives, based on IMF WEO, OECD DAC, World Bank",,"Calculated from IMF WEO data on government spending as a proportion of GDP. Receipts of general budget support ODA and disbursements on public debt are subtracted from total government spending before dividing by the population, to avoid double counting when comparing with international resource flows."
 country-year,gdp-usd-2005,GDP (Constant 2005 US$),,USD,,,
 country-year,gdp-usd-current,GDP (Current US$),,USD,,,
