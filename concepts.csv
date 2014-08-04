@@ -27,6 +27,7 @@ This dataset uses OECD DAC deflators for countries included in their deflators d
 country-year,in_oda_gross,"Gross ODA disbursements, all donors",,constant 2012 US$ millions,OECD DAC Table 2A,,
 country-year,in_oofs_gross,"Gross disbursements of other official flows, all donors",,constant 2012 US$ millions,OECD DAC Table 2B,,
 country-year,in_portfeq,Net inward portfolio equity,,constant 2012 US$ millions,World Bank databank,,
+country-year,intlresources_total,Total international resource flows received,,constant 2012 US$ millions,Development Initiatives calculations based on numerous sources,,"Is the sum of net inflows of FDI, remittances, gross ODA, gross OOFs, portfolio equity, net inflows of short-term debt, long-term debt, humanitarian assistance and peacekeeping. This series aims to estimate gross inflows so negative net inflows are excluded (set to zero). Data on peacekeeping is only available for 2012 and humanitarian assistance (excluding that reported as ODA to the OECD DAC) is only available from 2000-2012."
 country-year,oda-per-poor-person,.,,USD (current??),DI (ITEP 2013),,
 country-year,oda-sector-aid-bundle-usd-current,Annual country breakdown of ODA by (DI) sector and by (DI) aid-bundle,,USD,"CRS transactions, DI sector grouping, DI Aid bundle grouping",sector; aid-bundle,
 country-year,oda-sector-usd-current,Annual country breakdown of ODA by (DI) sector ,,USD,"CRS transactions, DI sector grouping",sector,
