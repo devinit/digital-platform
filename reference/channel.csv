@@ -1,0 +1,11 @@
+channel,channel-name
+A,Public-sector (unknown country)
+B,Public-sector (Donor government)
+C,Public-sector (Recipient government)
+D,NGO (unknown country)
+E,NGO (Donor-country-based)
+F,NGO (Recipient-country-based)
+G,Punlic-private partnership
+H,Multilateral
+I,"Other (Private sector, think-tank, etc)"
+J,Unspecified
