@@ -1,0 +1,196 @@
+,country,year,out_DFIs_coms
+Austria,AT,2000,
+Austria,AT,2001,
+Austria,AT,2002,
+Austria,AT,2003,
+Austria,AT,2004,
+Austria,AT,2005,
+Austria,AT,2006,
+Austria,AT,2007,
+Austria,AT,2008,126.72
+Austria,AT,2009,137.83
+Austria,AT,2010,173.88
+Austria,AT,2011,111.57
+Austria,AT,2012,
+Belgium,BE,2000,
+Belgium,BE,2001,
+Belgium,BE,2002,
+Belgium,BE,2003,
+Belgium,BE,2004,
+Belgium,BE,2005,
+Belgium,BE,2006,47.17
+Belgium,BE,2007,48.78
+Belgium,BE,2008,83.02
+Belgium,BE,2009,95.05
+Belgium,BE,2010,162.66
+Belgium,BE,2011,166.91
+Belgium,BE,2012,
+Denmark,DK,2000,109.86
+Denmark,DK,2001,124.69
+Denmark,DK,2002,128.76
+Denmark,DK,2003,134.27
+Denmark,DK,2004,107.43
+Denmark,DK,2005,74.06
+Denmark,DK,2006,109.84
+Denmark,DK,2007,102.24
+Denmark,DK,2008,86.87
+Denmark,DK,2009,129.22
+Denmark,DK,2010,104.94
+Denmark,DK,2011,88.82
+Denmark,DK,2012,
+Finland,FI,2000,18.12
+Finland,FI,2001,32.20
+Finland,FI,2002,29.83
+Finland,FI,2003,31.81
+Finland,FI,2004,86.92
+Finland,FI,2005,84.07
+Finland,FI,2006,96.61
+Finland,FI,2007,60.88
+Finland,FI,2008,118.53
+Finland,FI,2009,141.04
+Finland,FI,2010,74.64
+Finland,FI,2011,0.00
+Finland,FI,2012,
+France,FR,2000,
+France,FR,2001,
+France,FR,2002,
+France,FR,2003,
+France,FR,2004,
+France,FR,2005,543.51
+France,FR,2006,636.88
+France,FR,2007,564.54
+France,FR,2008,654.53
+France,FR,2009,1308.81
+France,FR,2010,1330.93
+France,FR,2011,1120.05
+France,FR,2012,
+Germany,DE,2000,
+Germany,DE,2001,
+Germany,DE,2002,
+Germany,DE,2003,
+Germany,DE,2004,
+Germany,DE,2005,
+Germany,DE,2006,2232.69
+Germany,DE,2007,2427.44
+Germany,DE,2008,4124.58
+Germany,DE,2009,4427.31
+Germany,DE,2010,5128.21
+Germany,DE,2011,0.00
+Germany,DE,2012,
+Japan,JP,2000,
+Japan,JP,2001,
+Japan,JP,2002,
+Japan,JP,2003,
+Japan,JP,2004,
+Japan,JP,2005,
+Japan,JP,2006,
+Japan,JP,2007,
+Japan,JP,2008,
+Japan,JP,2009,11083.55
+Japan,JP,2010,6235.81
+Japan,JP,2011,7729.96
+Japan,JP,2012,
+Netherlands,NL,2000,
+Netherlands,NL,2001,
+Netherlands,NL,2002,
+Netherlands,NL,2003,950.21
+Netherlands,NL,2004,1026.89
+Netherlands,NL,2005,1003.68
+Netherlands,NL,2006,1458.49
+Netherlands,NL,2007,1645.18
+Netherlands,NL,2008,1744.97
+Netherlands,NL,2009,1333.77
+Netherlands,NL,2010,1445.05
+Netherlands,NL,2011,1691.14
+Netherlands,NL,2012,
+Norway,NO,2000,
+Norway,NO,2001,
+Norway,NO,2002,
+Norway,NO,2003,
+Norway,NO,2004,
+Norway,NO,2005,
+Norway,NO,2006,162.36
+Norway,NO,2007,165.19
+Norway,NO,2008,135.36
+Norway,NO,2009,127.35
+Norway,NO,2010,75.42
+Norway,NO,2011,97.68
+Norway,NO,2012,
+Portugal,PT,2000,
+Portugal,PT,2001,
+Portugal,PT,2002,
+Portugal,PT,2003,
+Portugal,PT,2004,
+Portugal,PT,2005,
+Portugal,PT,2006,
+Portugal,PT,2007,
+Portugal,PT,2008,
+Portugal,PT,2009,
+Portugal,PT,2010,
+Portugal,PT,2011,
+Portugal,PT,2012,
+Spain,ES,2000,
+Spain,ES,2001,
+Spain,ES,2002,231.91
+Spain,ES,2003,234.87
+Spain,ES,2004,180.08
+Spain,ES,2005,93.46
+Spain,ES,2006,223.35
+Spain,ES,2007,205.23
+Spain,ES,2008,279.59
+Spain,ES,2009,268.09
+Spain,ES,2010,228.69
+Spain,ES,2011,250.28
+Spain,ES,2012,
+Sweden,SE,2000,
+Sweden,SE,2001,
+Sweden,SE,2002,
+Sweden,SE,2003,
+Sweden,SE,2004,
+Sweden,SE,2005,
+Sweden,SE,2006,
+Sweden,SE,2007,73.16
+Sweden,SE,2008,74.41
+Sweden,SE,2009,104.88
+Sweden,SE,2010,61.02
+Sweden,SE,2011,38.98
+Sweden,SE,2012,
+Switzerland,CH,2000,
+Switzerland,CH,2001,
+Switzerland,CH,2002,
+Switzerland,CH,2003,
+Switzerland,CH,2004,
+Switzerland,CH,2005,
+Switzerland,CH,2006,
+Switzerland,CH,2007,
+Switzerland,CH,2008,
+Switzerland,CH,2009,
+Switzerland,CH,2010,
+Switzerland,CH,2011,57.10
+Switzerland,CH,2012,
+United Kingdom,GB,2000,
+United Kingdom,GB,2001,13.65
+United Kingdom,GB,2002,151.61
+United Kingdom,GB,2003,0.00
+United Kingdom,GB,2004,314.43
+United Kingdom,GB,2005,116.37
+United Kingdom,GB,2006,399.18
+United Kingdom,GB,2007,613.18
+United Kingdom,GB,2008,62.15
+United Kingdom,GB,2009,203.90
+United Kingdom,GB,2010,71.14
+United Kingdom,GB,2011,193.93
+United Kingdom,GB,2012,
+United States,US,2000,2254.59
+United States,US,2001,1760.71
+United States,US,2002,1183.20
+United States,US,2003,1994.20
+United States,US,2004,2195.76
+United States,US,2005,1133.83
+United States,US,2006,620.35
+United States,US,2007,1333.40
+United States,US,2008,380.51
+United States,US,2009,2201.20
+United States,US,2010,502.28
+United States,US,2011,41.52
+United States,US,2012,
