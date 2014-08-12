@@ -94,6 +94,7 @@ country-year,out-oof-gross,Gross OOFs by donor,,USD,"DI, based on OECD-DAC data"
 country-year,in-oof-gross,Gross OOFs by recipient,,USD,"DI, based on OECD-DAC data",,
 country-year,to-oof-capital,Capital repayments on OOFs to donors,,USD,"DI, based on OECD-DAC data",,
 country-year,to-oof-interest,Interest repayments on OOFs to donors,,USD,"DI, based on OECD-DAC data",,
+country-year,oda-gross-bl-dest-region,Gross ODA by donor and destination region,,USD,"DI, based on OECD-DAC data",,
 region-year,,,,,,,
 reference,admin1,First-level sub-national administrative sub-divisions,,,Geonames.org,"country, geonames-id",
 reference,admin2,Second-level sub-national administrative sub-divisions,,,Geonames.org,"country, admin1, geonames-id",
