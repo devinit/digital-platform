@@ -1,308 +1,308 @@
-country,country-name,ISO Alpha-2,ISO Alpha-3,DAC Recipient code,DAC Recipient name (EN),DAC Recipient Region Code,DAC Recipient Region,DAC Continent Code,DAC Continent,DAC Income group,UN Country Code,UN Region Code,UN Region Name,UN Continent Code,UN Continent Name
-AD,Andorra,AD,AND,,,,,,,,2222,,,,
-AE,United Arab Emirates,AE,ARE,,,,,,,,,,,,
-AF,Afghanistan,AF,AFG,625,Afghanistan,689,Asia (South & Central Asia),798,Asia,LDCs,4,34,Southern Asia,142,Asia
-AG,Antigua and Barbuda,AG,ATG,377,Antigua and Barbuda,389,America (North & Central America),498,America,UMICs,28,29,Caribbean,19,Americas
-AI,Anguilla,AI,AIA,376,Anguilla,389,America (North & Central America),498,America,UMICs,660,29,Caribbean,19,Americas
-AL,Albania,AL,ALB,71,Albania,89,Europe,89,Europe,UMICs,8,39,Southern Europe,150,Europe
-AM,Armenia,AM,ARM,610,Armenia,689,Asia (South & Central Asia),798,Asia,LMICs,51,145,Western Asia,142,Asia
-AO,Angola,AO,AGO,225,Angola,289,Africa (South of Sahara),298,Africa,LDCs,24,17,Middle Africa,2,Africa
-AQ,Antarctica,AQ,ATA,,,,,,,,,,,,
-AR,Argentina,AR,ARG,425,Argentina,489,America (South America),498,America,UMICs,32,5,South America,19,Americas
-AS,American Samoa,AS,ASM,,,,,,,,,,,,
-AT,Austria,AT,AUT,,,,,,,,,,,,
-AU,Australia,AU,AUS,,,,,,,,,,,,
-AW,Aruba,AW,ABW,,,,,,,,,,,,
-AX,Åland Islands,AX,ALA,,,,,,,,,,,,
-AZ,Azerbaijan,AZ,AZE,611,Azerbaijan,689,Asia (South & Central Asia),798,Asia,UMICs,31,145,Western Asia,142,Asia
-BA,Bosnia and Herzegovina,BA,BIH,64,Bosnia-Herzegovina,89,Europe,89,Europe,UMICs,70,39,Southern Europe,150,Europe
-BB,Barbados,BB,BRB,,,,,,,,,,,,
-BD,Bangladesh,BD,BGD,666,Bangladesh,689,Asia (South & Central Asia),798,Asia,LDCs,50,34,Southern Asia,142,Asia
-BE,Belgium,BE,BEL,,,,,,,,,,,,
-BF,Burkina Faso,BF,BFA,287,Burkina Faso,289,Africa (South of Sahara),298,Africa,LDCs,854,11,Western Africa,2,Africa
-BG,Bulgaria,BG,BGR,,,,,,,,,,,,
-BH,Bahrain,BH,BHR,,,,,,,,,,,,
-BI,Burundi,BI,BDI,228,Burundi,289,Africa (South of Sahara),298,Africa,LDCs,108,14,Eastern Africa,2,Africa
-BJ,Benin,BJ,BEN,236,Benin,289,Africa (South of Sahara),298,Africa,LDCs,204,11,Western Africa,2,Africa
-BL,Saint Barthélemy,BL,BLM,,,,,,,,,,,,
-BM,Bermuda,BM,BMU,,,,,,,,,,,,
-BN,Brunei Darussalam,BN,BRN,,,,,,,,,,,,
-BO,"Bolivia, Plurinational State of",BO,BOL,428,Bolivia,489,America (South America),498,America,LMICs,68,5,South America,19,Americas
-BQ,"Bonaire, Sint Eustatius and Saba",BQ,BES,,,,,,,,,,,,
-BR,Brazil,BR,BRA,431,Brazil,489,America (South America),498,America,UMICs,76,5,South America,19,Americas
-BS,Bahamas,BS,BHS,,,,,,,,,,,,
-BT,Bhutan,BT,BTN,630,Bhutan,689,Asia (South & Central Asia),798,Asia,LDCs,64,34,Southern Asia,142,Asia
-BV,Bouvet Island,BV,BVT,,,,,,,,,,,,
-BW,Botswana,BW,BWA,227,Botswana,289,Africa (South of Sahara),298,Africa,UMICs,72,18,Southern Africa,2,Africa
-BY,Belarus,BY,BLR,86,Belarus,89,Europe,89,Europe,UMICs,112,151,Eastern Europe,150,Europe
-BZ,Belize,BZ,BLZ,352,Belize,389,America (North & Central America),498,America,LMICs,84,13,Central America,19,Americas
-CA,Canada,CA,CAN,,,,,,,,,,,,
-CC,Cocos (Keeling) Islands,CC,CCK,,,,,,,,,,,,
-CD,"Congo, the Democratic Republic of the",CD,COD,235,"Congo, Dem. Rep.",289,Africa (South of Sahara),298,Africa,LDCs,180,17,Middle Africa,2,Africa
-CF,Central African Republic,CF,CAF,231,Central African Rep.,289,Africa (South of Sahara),298,Africa,LDCs,140,17,Middle Africa,2,Africa
-CG,Congo,CG,COG,234,"Congo, Rep.",289,Africa (South of Sahara),298,Africa,LMICs,178,17,Middle Africa,2,Africa
-CH,Switzerland,CH,CHE,,,,,,,,,,,,
-CI,Côte d'Ivoire,CI,CIV,247,Cote d'Ivoire,289,Africa (South of Sahara),298,Africa,LMICs,384,11,Western Africa,2,Africa
-CK,Cook Islands,CK,COK,831,Cook Islands,889,Oceania,889,Oceania,UMICs,184,61,Polynesia,9,Oceania
-CL,Chile,CL,CHL,434,Chile,489,America (South America),498,America,UMICs,152,5,South America,19,Americas
-CM,Cameroon,CM,CMR,229,Cameroon,289,Africa (South of Sahara),298,Africa,LMICs,120,17,Middle Africa,2,Africa
-CN,China,CN,CHN,730,China,789,Asia (Far East Asia),798,Asia,UMICs,156,30,Eastern Asia,142,Asia
-CO,Colombia,CO,COL,437,Colombia,489,America (South America),498,America,UMICs,170,5,South America,19,Americas
-CR,Costa Rica,CR,CRI,336,Costa Rica,389,America (North & Central America),498,America,UMICs,188,13,Central America,19,Americas
-CU,Cuba,CU,CUB,338,Cuba,389,America (North & Central America),498,America,UMICs,192,29,Caribbean,19,Americas
-CV,Cape Verde,CV,CPV,230,Cape Verde,289,Africa (South of Sahara),298,Africa,LMICs,132,11,Western Africa,2,Africa
-CW,Curaçao,CW,CUW,,,,,,,,,,,,
-CX,Christmas Island,CX,CXR,,,,,,,,,,,,
-CY,Cyprus,CY,CYP,,,,,,,,,,,,
-CZ,Czech Republic,CZ,CZE,,,,,,,,,,,,
-DE,Germany,DE,DEU,,,,,,,,,,,,
-DJ,Djibouti,DJ,DJI,274,Djibouti,289,Africa (South of Sahara),298,Africa,LDCs,262,14,Eastern Africa,2,Africa
-DK,Denmark,DK,DNK,,,,,,,,,,,,
-DM,Dominica,DM,DMA,378,Dominica,389,America (North & Central America),498,America,UMICs,212,29,Caribbean,19,Americas
-DO,Dominican Republic,DO,DOM,340,Dominican Republic,389,America (North & Central America),498,America,UMICs,214,29,Caribbean,19,Americas
-DZ,Algeria,DZ,DZA,130,Algeria,189,Africa (North of Sahara),298,Africa,UMICs,12,15,Northern Africa,2,Africa
-EC,Ecuador,EC,ECU,440,Ecuador,489,America (South America),498,America,UMICs,218,5,South America,19,Americas
-EE,Estonia,EE,EST,,,,,,,,,,,,
-EG,Egypt,EG,EGY,142,Egypt,189,Africa (North of Sahara),298,Africa,LMICs,818,15,Northern Africa,2,Africa
-EH,Western Sahara,EH,ESH,,,,,,,,,,,,
-ER,Eritrea,ER,ERI,271,Eritrea,289,Africa (South of Sahara),298,Africa,LDCs,232,14,Eastern Africa,2,Africa
-ES,Spain,ES,ESP,,,,,,,,,,,,
-ET,Ethiopia,ET,ETH,238,Ethiopia,289,Africa (South of Sahara),298,Africa,LDCs,231,14,Eastern Africa,2,Africa
-FI,Finland,FI,FIN,,,,,,,,,,,,
-FJ,Fiji,FJ,FJI,832,Fiji,889,Oceania,889,Oceania,LMICs,242,54,Melanesia,9,Oceania
-FK,Falkland Islands (Malvinas),FK,FLK,,,,,,,,,,,,
-FM,"Micronesia, Federated States of",FM,FSM,860,"Micronesia, Fed. States",889,Oceania,889,Oceania,LMICs,583,57,Micronesia,9,Oceania
-FO,Faroe Islands,FO,FRO,,,,,,,,,,,,
-FR,France,FR,FRA,,,,,,,,,,,,
-GA,Gabon,GA,GAB,239,Gabon,289,Africa (South of Sahara),298,Africa,UMICs,266,17,Middle Africa,2,Africa
-GB,United Kingdom,GB,GBR,,,,,,,,,,,,
-GD,Grenada,GD,GRD,381,Grenada,389,America (North & Central America),498,America,UMICs,308,29,Caribbean,19,Americas
-GE,Georgia,GE,GEO,612,Georgia,689,Asia (South & Central Asia),798,Asia,LMICs,268,145,Western Asia,142,Asia
-GF,French Guiana,GF,GUF,,,,,,,,,,,,
-GG,Guernsey,GG,GGY,,,,,,,,,,,,
-GH,Ghana,GH,GHA,241,Ghana,289,Africa (South of Sahara),298,Africa,LMICs,288,11,Western Africa,2,Africa
-GI,Gibraltar,GI,GIB,,,,,,,,,,,,
-GL,Greenland,GL,GRL,,,,,,,,,,,,
-GM,Gambia,GM,GMB,240,Gambia,289,Africa (South of Sahara),298,Africa,LDCs,270,11,Western Africa,2,Africa
-GN,Guinea,GN,GIN,243,Guinea,289,Africa (South of Sahara),298,Africa,LDCs,324,11,Western Africa,2,Africa
-GP,Guadeloupe,GP,GLP,,,,,,,,,,,,
-GQ,Equatorial Guinea,GQ,GNQ,245,Equatorial Guinea,289,Africa (South of Sahara),298,Africa,LDCs,226,17,Middle Africa,2,Africa
-GR,Greece,GR,GRC,,,,,,,,,,,,
-GS,South Georgia and the South Sandwich Islands,GS,SGS,,,,,,,,,,,,
-GT,Guatemala,GT,GTM,347,Guatemala,389,America (North & Central America),498,America,LMICs,320,13,Central America,19,Americas
-GU,Guam,GU,GUM,,,,,,,,,,,,
-GW,Guinea-Bissau,GW,GNB,244,Guinea-Bissau,289,Africa (South of Sahara),298,Africa,LDCs,624,11,Western Africa,2,Africa
-GY,Guyana,GY,GUY,446,Guyana,489,America (South America),498,America,LMICs,328,5,South America,19,Americas
-HK,Hong Kong,HK,HKG,,,,,,,,,,,,
-HM,Heard Island and McDonald Islands,HM,HMD,,,,,,,,,,,,
-HN,Honduras,HN,HND,351,Honduras,389,America (North & Central America),498,America,LMICs,340,13,Central America,19,Americas
-HR,Croatia,HR,HRV,,,,,,,,,,,,
-HT,Haiti,HT,HTI,349,Haiti,389,America (North & Central America),498,America,LDCs,332,29,Caribbean,19,Americas
-HU,Hungary,HU,HUN,,,,,,,,,,,,
-ID,Indonesia,ID,IDN,738,Indonesia,789,Asia (Far East Asia),798,Asia,LMICs,360,35,South-Eastern Asia,142,Asia
-IE,Ireland,IE,IRL,,,,,,,,,,,,
-IL,Israel,IL,ISR,,,,,,,,,,,,
-IM,Isle of Man,IM,IMN,,,,,,,,,,,,
-IN,India,IN,IND,645,India,689,Asia (South & Central Asia),798,Asia,LMICs,356,34,Southern Asia,142,Asia
-IO,British Indian Ocean Territory,IO,IOT,,,,,,,,,,,,
-IQ,Iraq,IQ,IRQ,543,Iraq,589,Asia (Middle East Asia),798,Asia,LMICs,368,145,Western Asia,142,Asia
-IR,"Iran, Islamic Republic of",IR,IRN,540,Iran,589,Asia (Middle East Asia),798,Asia,UMICs,364,34,Southern Asia,142,Asia
-IS,Iceland,IS,ISL,,,,,,,,,,,,
-IT,Italy,IT,ITA,,,,,,,,,,,,
-JE,Jersey,JE,JEY,,,,,,,,,,,,
-JM,Jamaica,JM,JAM,354,Jamaica,389,America (North & Central America),498,America,UMICs,388,29,Caribbean,19,Americas
-JO,Jordan,JO,JOR,549,Jordan,589,Asia (Middle East Asia),798,Asia,UMICs,400,145,Western Asia,142,Asia
-JP,Japan,JP,JPN,,,,,,,,,,,,
-KE,Kenya,KE,KEN,248,Kenya,289,Africa (South of Sahara),298,Africa,Other LICs,404,14,Eastern Africa,2,Africa
-KG,Kyrgyzstan,KG,KGZ,614,Kyrgyz Republic,689,Asia (South & Central Asia),798,Asia,Other LICs,417,143,Central Asia,142,Asia
-KH,Cambodia,KH,KHM,728,Cambodia,789,Asia (Far East Asia),798,Asia,LDCs,116,35,South-Eastern Asia,142,Asia
-KI,Kiribati,KI,KIR,836,Kiribati,889,Oceania,889,Oceania,LDCs,296,57,Micronesia,9,Oceania
-KM,Comoros,KM,COM,233,Comoros,289,Africa (South of Sahara),298,Africa,LDCs,174,14,Eastern Africa,2,Africa
-KN,Saint Kitts and Nevis,KN,KNA,382,St. Kitts-Nevis,389,America (North & Central America),498,America,UMICs,659,29,Caribbean,19,Americas
-KP,"Korea, Democratic People's Republic of",KP,PRK,740,"Korea, Dem. Rep.",789,Asia (Far East Asia),798,Asia,Other LICs,408,30,Eastern Asia,142,Asia
-KR,"Korea, Republic of",KR,KOR,,,,,,,,,,,,
-KW,Kuwait,KW,KWT,,,,,,,,,,,,
-KY,Cayman Islands,KY,CYM,,,,,,,,,,,,
-KZ,Kazakhstan,KZ,KAZ,613,Kazakhstan,689,Asia (South & Central Asia),798,Asia,UMICs,398,143,Central Asia,142,Asia
-LA,Lao People's Democratic Republic,LA,LAO,745,Laos,789,Asia (Far East Asia),798,Asia,LDCs,418,35,South-Eastern Asia,142,Asia
-LB,Lebanon,LB,LBN,555,Lebanon,589,Asia (Middle East Asia),798,Asia,UMICs,422,145,Western Asia,142,Asia
-LC,Saint Lucia,LC,LCA,383,St. Lucia,389,America (North & Central America),498,America,UMICs,662,29,Caribbean,19,Americas
-LI,Liechtenstein,LI,LIE,,,,,,,,,,,,
-LK,Sri Lanka,LK,LKA,640,Sri Lanka,689,Asia (South & Central Asia),798,Asia,LMICs,144,34,Southern Asia,142,Asia
-LR,Liberia,LR,LBR,251,Liberia,289,Africa (South of Sahara),298,Africa,LDCs,430,11,Western Africa,2,Africa
-LS,Lesotho,LS,LSO,249,Lesotho,289,Africa (South of Sahara),298,Africa,LDCs,426,18,Southern Africa,2,Africa
-LT,Lithuania,LT,LTU,,,,,,,,,,,,
-LU,Luxembourg,LU,LUX,,,,,,,,,,,,
-LV,Latvia,LV,LVA,,,,,,,,,,,,
-LY,Libya,LY,LBY,133,Libya,189,Africa (North of Sahara),298,Africa,UMICs,434,15,Northern Africa,2,Africa
-MA,Morocco,MA,MAR,136,Morocco,189,Africa (North of Sahara),298,Africa,LMICs,504,15,Northern Africa,2,Africa
-MC,Monaco,MC,MCO,,,,,,,,,,,,
-MD,"Moldova, Republic of",MD,MDA,93,Moldova,89,Europe,89,Europe,LMICs,498,151,Eastern Europe,150,Europe
-ME,Montenegro,ME,MNE,65,Montenegro,89,Europe,89,Europe,UMICs,499,39,Southern Europe,150,Europe
-MF,Saint Martin (French part),MF,MAF,,,,,,,,,,,,
-MG,Madagascar,MG,MDG,252,Madagascar,289,Africa (South of Sahara),298,Africa,LDCs,450,14,Eastern Africa,2,Africa
-MH,Marshall Islands,MH,MHL,859,Marshall Islands,889,Oceania,889,Oceania,LMICs,584,57,Micronesia,9,Oceania
-MK,Fiji,MK,MKD,66,Former Yugoslav Republic of Macedonia (FYROM),89,Europe,89,Europe,UMICs,807,39,Southern Europe,150,Europe
-MK,"Macedonia, the former Yugoslav Republic of",MK,MKD,,,,,,,,,,,,
-ML,Mali,ML,MLI,255,Mali,289,Africa (South of Sahara),298,Africa,LDCs,466,11,Western Africa,2,Africa
-MM,Myanmar,MM,MMR,635,Myanmar,689,Asia (South & Central Asia),798,Asia,LDCs,104,35,South-Eastern Asia,142,Asia
-MN,Mongolia,MN,MNG,753,Mongolia,789,Asia (Far East Asia),798,Asia,LMICs,496,30,Eastern Asia,142,Asia
-MO,Macao,MO,MAC,,,,,,,,,,,,
-MP,Northern Mariana Islands,MP,MNP,,,,,,,,,,,,
-MQ,Martinique,MQ,MTQ,,,,,,,,,,,,
-MR,Mauritania,MR,MRT,256,Mauritania,289,Africa (South of Sahara),298,Africa,LDCs,478,11,Western Africa,2,Africa
-MS,Montserrat,MS,MSR,385,Montserrat,389,America (North & Central America),498,America,UMICs,500,29,Caribbean,19,Americas
-MT,Malta,MT,MLT,,,,,,,,,,,,
-MU,Mauritius,MU,MUS,257,Mauritius,289,Africa (South of Sahara),298,Africa,UMICs,480,14,Eastern Africa,2,Africa
-MV,Maldives,MV,MDV,655,Maldives,689,Asia (South & Central Asia),798,Asia,UMICs,462,34,Southern Asia,142,Asia
-MW,Malawi,MW,MWI,253,Malawi,289,Africa (South of Sahara),298,Africa,LDCs,454,14,Eastern Africa,2,Africa
-MX,Mexico,MX,MEX,358,Mexico,389,America (North & Central America),498,America,UMICs,484,13,Central America,19,Americas
-MY,Malaysia,MY,MYS,751,Malaysia,789,Asia (Far East Asia),798,Asia,UMICs,458,35,South-Eastern Asia,142,Asia
-MZ,Mozambique,MZ,MOZ,259,Mozambique,289,Africa (South of Sahara),298,Africa,LDCs,508,14,Eastern Africa,2,Africa
-NA,Namibia,NA,NAM,275,Namibia,289,Africa (South of Sahara),298,Africa,UMICs,516,18,Southern Africa,2,Africa
-NC,New Caledonia,NC,NCL,,,,,,,,,,,,
-NE,Niger,NE,NER,260,Niger,289,Africa (South of Sahara),298,Africa,LDCs,562,11,Western Africa,2,Africa
-NF,Norfolk Island,NF,NFK,,,,,,,,,,,,
-NG,Nigeria,NG,NGA,261,Nigeria,289,Africa (South of Sahara),298,Africa,LMICs,566,11,Western Africa,2,Africa
-NI,Nicaragua,NI,NIC,364,Nicaragua,389,America (North & Central America),498,America,LMICs,558,13,Central America,19,Americas
-NL,Netherlands,NL,NLD,,,,,,,,,,,,
-NO,Norway,NO,NOR,,,,,,,,,,,,
-NP,Nepal,NP,NPL,660,Nepal,689,Asia (South & Central Asia),798,Asia,LDCs,524,34,Southern Asia,142,Asia
-NR,Nauru,NR,NRU,845,Nauru,889,Oceania,889,Oceania,UMICs,520,57,Micronesia,9,Oceania
-NU,Niue,NU,NIU,856,Niue,889,Oceania,889,Oceania,UMICs,570,61,Polynesia,9,Oceania
-NZ,New Zealand,NZ,NZL,,,,,,,,,,,,
-OM,Oman,OM,OMN,,,,,,,,,,,,
-PA,Panama,PA,PAN,366,Panama,389,America (North & Central America),498,America,UMICs,591,13,Central America,19,Americas
-PE,Peru,PE,PER,454,Peru,489,America (South America),498,America,UMICs,604,5,South America,19,Americas
-PF,French Polynesia,PF,PYF,,,,,,,,,,,,
-PG,Papua New Guinea,PG,PNG,862,Papua New Guinea,889,Oceania,889,Oceania,LMICs,598,54,Melanesia,9,Oceania
-PH,Philippines,PH,PHL,755,Philippines,789,Asia (Far East Asia),798,Asia,LMICs,608,35,South-Eastern Asia,142,Asia
-PK,Pakistan,PK,PAK,665,Pakistan,689,Asia (South & Central Asia),798,Asia,LMICs,586,34,Southern Asia,142,Asia
-PL,Poland,PL,POL,,,,,,,,,,,,
-PM,Saint Pierre and Miquelon,PM,SPM,,,,,,,,,,,,
-PN,Pitcairn,PN,PCN,,,,,,,,,,,,
-PR,Puerto Rico,PR,PRI,,,,,,,,,,,,
-PS,"Palestine, State of",PS,PSE,550,West Bank & Gaza Strip,589,Asia (Middle East Asia),798,Asia,LMICs,275,145,Western Asia,142,Asia
-PT,Portugal,PT,PRT,,,,,,,,,,,,
-PW,Palau,PW,PLW,861,Palau,889,Oceania,889,Oceania,UMICs,585,57,Micronesia,9,Oceania
-PY,Paraguay,PY,PRY,451,Paraguay,489,America (South America),498,America,LMICs,600,5,South America,19,Americas
-QA,Qatar,QA,QAT,,,,,,,,,,,,
-RE,Réunion,RE,REU,,,,,,,,,,,,
-RO,Romania,RO,ROU,,,,,,,,,,,,
-RS,Serbia,RS,SRB,63,Serbia,89,Europe,89,Europe,UMICs,688,39,Southern Europe,150,Europe
-RU,Russian Federation,RU,RUS,,,,,,,,,,,,
-RW,Rwanda,RW,RWA,266,Rwanda,289,Africa (South of Sahara),298,Africa,LDCs,646,14,Eastern Africa,2,Africa
-SA,Saudi Arabia,SA,SAU,,,,,,,,,,,,
-SB,Solomon Islands,SB,SLB,866,Solomon Islands,889,Oceania,889,Oceania,LDCs,90,54,Melanesia,9,Oceania
-SC,Seychelles,SC,SYC,270,Seychelles,289,Africa (South of Sahara),298,Africa,UMICs,690,14,Eastern Africa,2,Africa
-SD,Sudan,SD,SDN,278,Sudan,289,Africa (South of Sahara),298,Africa,LDCs,729,15,Northern Africa,2,Africa
-SE,Sweden,SE,SWE,,,,,,,,,,,,
-SG,Singapore,SG,SGP,,,,,,,,,,,,
-SH,"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,276,St. Helena,289,Africa (South of Sahara),298,Africa,UMICs,654,11,Western Africa,2,Africa
-SI,Slovenia,SI,SVN,,,,,,,,,,,,
-SJ,Svalbard and Jan Mayen,SJ,SJM,,,,,,,,,,,,
-SK,Slovakia,SK,SVK,,,,,,,,,,,,
-SL,Sierra Leone,SL,SLE,272,Sierra Leone,289,Africa (South of Sahara),298,Africa,LDCs,694,11,Western Africa,2,Africa
-SM,San Marino,SM,SMR,,,,,,,,,,,,
-SN,Senegal,SN,SEN,269,Senegal,289,Africa (South of Sahara),298,Africa,LDCs,686,11,Western Africa,2,Africa
-SO,Somalia,SO,SOM,273,Somalia,289,Africa (South of Sahara),298,Africa,LDCs,706,14,Eastern Africa,2,Africa
-SR,Suriname,SR,SUR,457,Suriname,489,America (South America),498,America,UMICs,740,5,South America,19,Americas
-SS,South Sudan,SS,SSD,279,South Sudan,289,Africa (South of Sahara),298,Africa,LDCs,728,14,Eastern Africa,2,Africa
-ST,Sao Tome and Principe,ST,STP,268,Sao Tome & Principe,289,Africa (South of Sahara),298,Africa,LDCs,678,17,Middle Africa,2,Africa
-SV,El Salvador,SV,SLV,342,El Salvador,389,America (North & Central America),498,America,LMICs,222,13,Central America,19,Americas
-SX,Sint Maarten (Dutch part),SX,SXM,,,,,,,,,,,,
-SY,Syrian Arab Republic,SY,SYR,573,Syria,589,Asia (Middle East Asia),798,Asia,LMICs,760,145,Western Asia,142,Asia
-SZ,Swaziland,SZ,SWZ,280,Swaziland,289,Africa (South of Sahara),298,Africa,LMICs,748,18,Southern Africa,2,Africa
-TC,Turks and Caicos Islands,TC,TCA,,,,,,,,,,,,
-TD,Chad,TD,TCD,232,Chad,289,Africa (South of Sahara),298,Africa,LDCs,148,17,Middle Africa,2,Africa
-TF,French Southern Territories,TF,ATF,,,,,,,,,,,,
-TG,Togo,TG,TGO,283,Togo,289,Africa (South of Sahara),298,Africa,LDCs,768,11,Western Africa,2,Africa
-TH,Thailand,TH,THA,764,Thailand,789,Asia (Far East Asia),798,Asia,UMICs,764,35,South-Eastern Asia,142,Asia
-TJ,Tajikistan,TJ,TJK,615,Tajikistan,689,Asia (South & Central Asia),798,Asia,Other LICs,762,143,Central Asia,142,Asia
-TK,Tokelau,TK,TKL,868,Tokelau,889,Oceania,889,Oceania,LMICs,772,61,Polynesia,9,Oceania
-TL,Timor-Leste,TL,TLS,765,Timor-Leste,789,Asia (Far East Asia),798,Asia,LDCs,626,35,South-Eastern Asia,142,Asia
-TM,Turkmenistan,TM,TKM,616,Turkmenistan,689,Asia (South & Central Asia),798,Asia,LMICs,795,143,Central Asia,142,Asia
-TN,Tunisia,TN,TUN,139,Tunisia,189,Africa (North of Sahara),298,Africa,UMICs,788,15,Northern Africa,2,Africa
-TO,Tonga,TO,TON,870,Tonga,889,Oceania,889,Oceania,LMICs,776,61,Polynesia,9,Oceania
-TR,Turkey,TR,TUR,55,Turkey,89,Europe,89,Europe,UMICs,792,145,Western Asia,142,Asia
-TT,Trinidad and Tobago,TT,TTO,,,,,,,,,,,,
-TV,Tuvalu,TV,TUV,872,Tuvalu,889,Oceania,889,Oceania,LDCs,798,61,Polynesia,9,Oceania
-TW,"Taiwan, Province of China",TW,TWN,,,,,,,,,,,,
-TZ,"Tanzania, United Republic of",TZ,TZA,282,Tanzania,289,Africa (South of Sahara),298,Africa,LDCs,834,14,Eastern Africa,2,Africa
-UA,Ukraine,UA,UKR,85,Ukraine,89,Europe,89,Europe,LMICs,804,151,Eastern Europe,150,Europe
-UG,Uganda,UG,UGA,285,Uganda,289,Africa (South of Sahara),298,Africa,LDCs,800,14,Eastern Africa,2,Africa
-UM,United States Minor Outlying Islands,UM,UMI,,,,,,,,,,,,
-US,United States,US,USA,,,,,,,,,,,,
-UY,Uruguay,UY,URY,460,Uruguay,489,America (South America),498,America,UMICs,858,5,South America,19,Americas
-UZ,Uzbekistan,UZ,UZB,617,Uzbekistan,689,Asia (South & Central Asia),798,Asia,LMICs,860,143,Central Asia,142,Asia
-VA,Holy See (Vatican City State),VA,VAT,,,,,,,,,,,,
-VC,Saint Vincent and the Grenadines,VC,VCT,384,St.Vincent & Grenadines,389,America (North & Central America),498,America,UMICs,670,29,Caribbean,19,Americas
-VE,"Venezuela, Bolivarian Republic of",VE,VEN,463,Venezuela,489,America (South America),498,America,UMICs,862,5,South America,19,Americas
-VG,"Virgin Islands, British",VG,VGB,,,,,,,,,,,,
-VI,"Virgin Islands, U.S.",VI,VIR,,,,,,,,,,,,
-VN,Viet Nam,VN,VNM,769,Vietnam,789,Asia (Far East Asia),798,Asia,LMICs,704,35,South-Eastern Asia,142,Asia
-VU,Vanuatu,VU,VUT,854,Vanuatu,889,Oceania,889,Oceania,LDCs,548,54,Melanesia,9,Oceania
-WF,Wallis and Futuna,WF,WLF,876,Wallis & Futuna,889,Oceania,889,Oceania,UMICs,876,61,Polynesia,9,Oceania
-WS,Samoa,WS,WSM,880,Samoa,889,Oceania,889,Oceania,LDCs,882,61,Polynesia,9,Oceania
-XK,Kosovo,XK,XKS,57,Kosovo,89,Europe,89,Europe,LMICs,882,61,Polynesia,9,Oceania
-YE,Yemen,YE,YEM,580,Yemen,589,Asia (Middle East Asia),798,Asia,LDCs,887,145,Western Asia,142,Asia
-YT,Mayotte,YT,MYT,,,,,,,,,,,,
-ZA,South Africa,ZA,ZAF,218,South Africa,289,Africa (South of Sahara),298,Africa,UMICs,710,18,Southern Africa,2,Africa
-ZM,Zambia,ZM,ZMB,288,Zambia,289,Africa (South of Sahara),298,Africa,LDCs,894,14,Eastern Africa,2,Africa
-ZW,Zimbabwe,ZW,ZWE,265,Zimbabwe,289,Africa (South of Sahara),298,Africa,Other LICs,716,14,Eastern Africa,2,Africa
-EU,European Union,EU,,,,,,,,,,,,,
-1,AfDB,1,,,,,,,,,,,,,
-2,AfDF,2,,,,,,,,,,,,,
-3,AFESD,3,,,,,,,,,,,,,
-4,Arab Fund (AFESD),4,,,,,,,,,,,,,
-5,AsDB,5,,,,,,,,,,,,,
-6,AsDB Special Funds,6,,,,,,,,,,,,,
-7,BADEA,7,,,,,,,,,,,,,
-8,CarDB,8,,,,,,,,,,,,,
-9,EBRD,9,,,,,,,,,,,,,
-10,GAVI,10,,,,,,,,,,,,,
-11,GEF,11,,,,,,,,,,,,,
-12,Global Fund,12,,,,,,,,,,,,,
-13,IAEA,13,,,,,,,,,,,,,
-14,IBRD,14,,,,,,,,,,,,,
-15,IDA,15,,,,,,,,,,,,,
-16,IDB,16,,,,,,,,,,,,,
-17,IDB Sp.Fund,17,,,,,,,,,,,,,
-18,IFAD,18,,,,,,,,,,,,,
-19,IFC,19,,,,,,,,,,,,,
-20,IMF,20,,,,,,,,,,,,,
-21,IMF (Concessional Trust Funds),21,,,,,,,,,,,,,
-22,Isl.Dev Bank,22,,,,,,,,,,,,,
-23,Montreal Protocol,23,,,,,,,,,,,,,
-24,Nordic Dev.Fund,24,,,,,,,,,,,,,
-25,OFID,25,,,,,,,,,,,,,
-26,OSCE,26,,,,,,,,,,,,,
-27,UNAIDS,27,,,,,,,,,,,,,
-28,UNDP,28,,,,,,,,,,,,,
-29,UNECE,29,,,,,,,,,,,,,
-30,UNEP,30,,,,,,,,,,,,,
-31,UNFPA,31,,,,,,,,,,,,,
-32,UNHCR,32,,,,,,,,,,,,,
-33,UNICEF,33,,,,,,,,,,,,,
-34,UNPBF,34,,,,,,,,,,,,,
-35,UNRWA,35,,,,,,,,,,,,,
-36,UNTA,36,,,,,,,,,,,,,
-37,WFP,37,,,,,,,,,,,,,
-38,WHO,38,,,,,,,,,,,,,
-51,"Africa, regional",51,,,,,,,,,,,,,
-52,"America, regional",52,,,,,,,,,,,,,
-53,"Asia, regional",53,,,,,,,,,,,,,
-54,"Central Asia, regional",54,,,,,,,,,,,,,
-55,"Bilateral, unspecified",55,,,,,,,,,,,,,
-56,"Europe, regional",56,,,,,,,,,,,,,
-57,"Far East Asia, regional",57,,,,,,,,,,,,,
-58,"Middle East, regional",58,,,,,,,,,,,,,
-59,"North & Central America, regional",59,,,,,,,,,,,,,
-60,"North of Sahara, regional",60,,,,,,,,,,,,,
-61,"Oceania, regional",61,,,,,,,,,,,,,
-62,"South & Central Asia, regional",62,,,,,,,,,,,,,
-63,"South America, regional",63,,,,,,,,,,,,,
-64,"South Asia, regional",64,,,,,,,,,,,,,
-65,"South of Sahara, regional",65,,,,,,,,,,,,,
-66,States Ex-Yugoslavia unspecified,66,,,,,,,,,,,,,
-67,"West Indies, regional",67,,,,,,,,,,,,,
+country,country-name,ISO Alpha-2,ISO Alpha-3,DAC Recipient code,DAC Recipient name (EN),DAC Recipient Region Code,DAC Recipient Region,DAC Continent Code,DAC Continent,DAC Income group,UN Country Code,UN Region Code,UN Region Name,UN Continent Code,UN Continent Name,Profile,Profile type
+AD,Andorra,AD,AND,,,,,,,,2222,,,,,,
+AE,United Arab Emirates,AE,ARE,,,,,,,,,,,,,D,Donor
+AF,Afghanistan,AF,AFG,625,Afghanistan,689,Asia (South & Central Asia),798,Asia,LDCs,4,34,Southern Asia,142,Asia,R,Recipient
+AG,Antigua and Barbuda,AG,ATG,377,Antigua and Barbuda,389,America (North & Central America),498,America,UMICs,28,29,Caribbean,19,Americas,R,Recipient
+AI,Anguilla,AI,AIA,376,Anguilla,389,America (North & Central America),498,America,UMICs,660,29,Caribbean,19,Americas,R,Recipient
+AL,Albania,AL,ALB,71,Albania,89,Europe,89,Europe,UMICs,8,39,Southern Europe,150,Europe,R,Recipient
+AM,Armenia,AM,ARM,610,Armenia,689,Asia (South & Central Asia),798,Asia,LMICs,51,145,Western Asia,142,Asia,R,Recipient
+AO,Angola,AO,AGO,225,Angola,289,Africa (South of Sahara),298,Africa,LDCs,24,17,Middle Africa,2,Africa,R,Recipient
+AQ,Antarctica,AQ,ATA,,,,,,,,,,,,,,
+AR,Argentina,AR,ARG,425,Argentina,489,America (South America),498,America,UMICs,32,5,South America,19,Americas,R,Recipient
+AS,American Samoa,AS,ASM,,,,,,,,,,,,,,
+AT,Austria,AT,AUT,,,,,,,,,,,,,D,Donor
+AU,Australia,AU,AUS,,,,,,,,,,,,,D,Donor
+AW,Aruba,AW,ABW,,,,,,,,,,,,,,
+AX,Åland Islands,AX,ALA,,,,,,,,,,,,,,
+AZ,Azerbaijan,AZ,AZE,611,Azerbaijan,689,Asia (South & Central Asia),798,Asia,UMICs,31,145,Western Asia,142,Asia,R,Recipient
+BA,Bosnia and Herzegovina,BA,BIH,64,Bosnia-Herzegovina,89,Europe,89,Europe,UMICs,70,39,Southern Europe,150,Europe,R,Recipient
+BB,Barbados,BB,BRB,,,,,,,,,,,,,,
+BD,Bangladesh,BD,BGD,666,Bangladesh,689,Asia (South & Central Asia),798,Asia,LDCs,50,34,Southern Asia,142,Asia,R,Recipient
+BE,Belgium,BE,BEL,,,,,,,,,,,,,D,Donor
+BF,Burkina Faso,BF,BFA,287,Burkina Faso,289,Africa (South of Sahara),298,Africa,LDCs,854,11,Western Africa,2,Africa,R,Recipient
+BG,Bulgaria,BG,BGR,,,,,,,,,,,,,,
+BH,Bahrain,BH,BHR,,,,,,,,,,,,,,
+BI,Burundi,BI,BDI,228,Burundi,289,Africa (South of Sahara),298,Africa,LDCs,108,14,Eastern Africa,2,Africa,R,Recipient
+BJ,Benin,BJ,BEN,236,Benin,289,Africa (South of Sahara),298,Africa,LDCs,204,11,Western Africa,2,Africa,R,Recipient
+BL,Saint Barthélemy,BL,BLM,,,,,,,,,,,,,,
+BM,Bermuda,BM,BMU,,,,,,,,,,,,,,
+BN,Brunei Darussalam,BN,BRN,,,,,,,,,,,,,,
+BO,"Bolivia, Plurinational State of",BO,BOL,428,Bolivia,489,America (South America),498,America,LMICs,68,5,South America,19,Americas,R,Recipient
+BQ,"Bonaire, Sint Eustatius and Saba",BQ,BES,,,,,,,,,,,,,,
+BR,Brazil,BR,BRA,431,Brazil,489,America (South America),498,America,UMICs,76,5,South America,19,Americas,R,Recipient
+BS,Bahamas,BS,BHS,,,,,,,,,,,,,,
+BT,Bhutan,BT,BTN,630,Bhutan,689,Asia (South & Central Asia),798,Asia,LDCs,64,34,Southern Asia,142,Asia,R,Recipient
+BV,Bouvet Island,BV,BVT,,,,,,,,,,,,,,
+BW,Botswana,BW,BWA,227,Botswana,289,Africa (South of Sahara),298,Africa,UMICs,72,18,Southern Africa,2,Africa,R,Recipient
+BY,Belarus,BY,BLR,86,Belarus,89,Europe,89,Europe,UMICs,112,151,Eastern Europe,150,Europe,R,Recipient
+BZ,Belize,BZ,BLZ,352,Belize,389,America (North & Central America),498,America,LMICs,84,13,Central America,19,Americas,R,Recipient
+CA,Canada,CA,CAN,,,,,,,,,,,,,D,Donor
+CC,Cocos (Keeling) Islands,CC,CCK,,,,,,,,,,,,,,
+CD,"Congo, the Democratic Republic of the",CD,COD,235,"Congo, Dem. Rep.",289,Africa (South of Sahara),298,Africa,LDCs,180,17,Middle Africa,2,Africa,R,Recipient
+CF,Central African Republic,CF,CAF,231,Central African Rep.,289,Africa (South of Sahara),298,Africa,LDCs,140,17,Middle Africa,2,Africa,R,Recipient
+CG,Congo,CG,COG,234,"Congo, Rep.",289,Africa (South of Sahara),298,Africa,LMICs,178,17,Middle Africa,2,Africa,R,Recipient
+CH,Switzerland,CH,CHE,,,,,,,,,,,,,D,Donor
+CI,Côte d'Ivoire,CI,CIV,247,Cote d'Ivoire,289,Africa (South of Sahara),298,Africa,LMICs,384,11,Western Africa,2,Africa,R,Recipient
+CK,Cook Islands,CK,COK,831,Cook Islands,889,Oceania,889,Oceania,UMICs,184,61,Polynesia,9,Oceania,R,Recipient
+CL,Chile,CL,CHL,434,Chile,489,America (South America),498,America,UMICs,152,5,South America,19,Americas,R,Recipient
+CM,Cameroon,CM,CMR,229,Cameroon,289,Africa (South of Sahara),298,Africa,LMICs,120,17,Middle Africa,2,Africa,R,Recipient
+CN,China,CN,CHN,730,China,789,Asia (Far East Asia),798,Asia,UMICs,156,30,Eastern Asia,142,Asia,R,Recipient
+CO,Colombia,CO,COL,437,Colombia,489,America (South America),498,America,UMICs,170,5,South America,19,Americas,R,Recipient
+CR,Costa Rica,CR,CRI,336,Costa Rica,389,America (North & Central America),498,America,UMICs,188,13,Central America,19,Americas,R,Recipient
+CU,Cuba,CU,CUB,338,Cuba,389,America (North & Central America),498,America,UMICs,192,29,Caribbean,19,Americas,R,Recipient
+CV,Cape Verde,CV,CPV,230,Cape Verde,289,Africa (South of Sahara),298,Africa,LMICs,132,11,Western Africa,2,Africa,R,Recipient
+CW,Curaçao,CW,CUW,,,,,,,,,,,,,,
+CX,Christmas Island,CX,CXR,,,,,,,,,,,,,,
+CY,Cyprus,CY,CYP,,,,,,,,,,,,,,
+CZ,Czech Republic,CZ,CZE,,,,,,,,,,,,,D,Donor
+DE,Germany,DE,DEU,,,,,,,,,,,,,D,Donor
+DJ,Djibouti,DJ,DJI,274,Djibouti,289,Africa (South of Sahara),298,Africa,LDCs,262,14,Eastern Africa,2,Africa,R,Recipient
+DK,Denmark,DK,DNK,,,,,,,,,,,,,D,Donor
+DM,Dominica,DM,DMA,378,Dominica,389,America (North & Central America),498,America,UMICs,212,29,Caribbean,19,Americas,R,Recipient
+DO,Dominican Republic,DO,DOM,340,Dominican Republic,389,America (North & Central America),498,America,UMICs,214,29,Caribbean,19,Americas,R,Recipient
+DZ,Algeria,DZ,DZA,130,Algeria,189,Africa (North of Sahara),298,Africa,UMICs,12,15,Northern Africa,2,Africa,R,Recipient
+EC,Ecuador,EC,ECU,440,Ecuador,489,America (South America),498,America,UMICs,218,5,South America,19,Americas,R,Recipient
+EE,Estonia,EE,EST,,,,,,,,,,,,,,
+EG,Egypt,EG,EGY,142,Egypt,189,Africa (North of Sahara),298,Africa,LMICs,818,15,Northern Africa,2,Africa,R,Recipient
+EH,Western Sahara,EH,ESH,,,,,,,,,,,,,,
+ER,Eritrea,ER,ERI,271,Eritrea,289,Africa (South of Sahara),298,Africa,LDCs,232,14,Eastern Africa,2,Africa,R,Recipient
+ES,Spain,ES,ESP,,,,,,,,,,,,,D,Donor
+ET,Ethiopia,ET,ETH,238,Ethiopia,289,Africa (South of Sahara),298,Africa,LDCs,231,14,Eastern Africa,2,Africa,R,Recipient
+FI,Finland,FI,FIN,,,,,,,,,,,,,D,Donor
+FJ,Fiji,FJ,FJI,832,Fiji,889,Oceania,889,Oceania,LMICs,242,54,Melanesia,9,Oceania,R,Recipient
+FK,Falkland Islands (Malvinas),FK,FLK,,,,,,,,,,,,,,
+FM,"Micronesia, Federated States of",FM,FSM,860,"Micronesia, Fed. States",889,Oceania,889,Oceania,LMICs,583,57,Micronesia,9,Oceania,R,Recipient
+FO,Faroe Islands,FO,FRO,,,,,,,,,,,,,,
+FR,France,FR,FRA,,,,,,,,,,,,,D,Donor
+GA,Gabon,GA,GAB,239,Gabon,289,Africa (South of Sahara),298,Africa,UMICs,266,17,Middle Africa,2,Africa,R,Recipient
+GB,United Kingdom,GB,GBR,,,,,,,,,,,,,D,Donor
+GD,Grenada,GD,GRD,381,Grenada,389,America (North & Central America),498,America,UMICs,308,29,Caribbean,19,Americas,R,Recipient
+GE,Georgia,GE,GEO,612,Georgia,689,Asia (South & Central Asia),798,Asia,LMICs,268,145,Western Asia,142,Asia,R,Recipient
+GF,French Guiana,GF,GUF,,,,,,,,,,,,,,
+GG,Guernsey,GG,GGY,,,,,,,,,,,,,,
+GH,Ghana,GH,GHA,241,Ghana,289,Africa (South of Sahara),298,Africa,LMICs,288,11,Western Africa,2,Africa,R,Recipient
+GI,Gibraltar,GI,GIB,,,,,,,,,,,,,,
+GL,Greenland,GL,GRL,,,,,,,,,,,,,,
+GM,Gambia,GM,GMB,240,Gambia,289,Africa (South of Sahara),298,Africa,LDCs,270,11,Western Africa,2,Africa,R,Recipient
+GN,Guinea,GN,GIN,243,Guinea,289,Africa (South of Sahara),298,Africa,LDCs,324,11,Western Africa,2,Africa,R,Recipient
+GP,Guadeloupe,GP,GLP,,,,,,,,,,,,,,
+GQ,Equatorial Guinea,GQ,GNQ,245,Equatorial Guinea,289,Africa (South of Sahara),298,Africa,LDCs,226,17,Middle Africa,2,Africa,R,Recipient
+GR,Greece,GR,GRC,,,,,,,,,,,,,D,Donor
+GS,South Georgia and the South Sandwich Islands,GS,SGS,,,,,,,,,,,,,,
+GT,Guatemala,GT,GTM,347,Guatemala,389,America (North & Central America),498,America,LMICs,320,13,Central America,19,Americas,R,Recipient
+GU,Guam,GU,GUM,,,,,,,,,,,,,,
+GW,Guinea-Bissau,GW,GNB,244,Guinea-Bissau,289,Africa (South of Sahara),298,Africa,LDCs,624,11,Western Africa,2,Africa,R,Recipient
+GY,Guyana,GY,GUY,446,Guyana,489,America (South America),498,America,LMICs,328,5,South America,19,Americas,R,Recipient
+HK,Hong Kong,HK,HKG,,,,,,,,,,,,,,
+HM,Heard Island and McDonald Islands,HM,HMD,,,,,,,,,,,,,,
+HN,Honduras,HN,HND,351,Honduras,389,America (North & Central America),498,America,LMICs,340,13,Central America,19,Americas,R,Recipient
+HR,Croatia,HR,HRV,,,,,,,,,,,,,,
+HT,Haiti,HT,HTI,349,Haiti,389,America (North & Central America),498,America,LDCs,332,29,Caribbean,19,Americas,R,Recipient
+HU,Hungary,HU,HUN,,,,,,,,,,,,,,
+ID,Indonesia,ID,IDN,738,Indonesia,789,Asia (Far East Asia),798,Asia,LMICs,360,35,South-Eastern Asia,142,Asia,R,Recipient
+IE,Ireland,IE,IRL,,,,,,,,,,,,,D,Donor
+IL,Israel,IL,ISR,,,,,,,,,,,,,,
+IM,Isle of Man,IM,IMN,,,,,,,,,,,,,,
+IN,India,IN,IND,645,India,689,Asia (South & Central Asia),798,Asia,LMICs,356,34,Southern Asia,142,Asia,R,Recipient
+IO,British Indian Ocean Territory,IO,IOT,,,,,,,,,,,,,,
+IQ,Iraq,IQ,IRQ,543,Iraq,589,Asia (Middle East Asia),798,Asia,LMICs,368,145,Western Asia,142,Asia,R,Recipient
+IR,"Iran, Islamic Republic of",IR,IRN,540,Iran,589,Asia (Middle East Asia),798,Asia,UMICs,364,34,Southern Asia,142,Asia,R,Recipient
+IS,Iceland,IS,ISL,,,,,,,,,,,,,D,Donor
+IT,Italy,IT,ITA,,,,,,,,,,,,,D,Donor
+JE,Jersey,JE,JEY,,,,,,,,,,,,,,
+JM,Jamaica,JM,JAM,354,Jamaica,389,America (North & Central America),498,America,UMICs,388,29,Caribbean,19,Americas,R,Recipient
+JO,Jordan,JO,JOR,549,Jordan,589,Asia (Middle East Asia),798,Asia,UMICs,400,145,Western Asia,142,Asia,R,Recipient
+JP,Japan,JP,JPN,,,,,,,,,,,,,D,Donor
+KE,Kenya,KE,KEN,248,Kenya,289,Africa (South of Sahara),298,Africa,Other LICs,404,14,Eastern Africa,2,Africa,R,Recipient
+KG,Kyrgyzstan,KG,KGZ,614,Kyrgyz Republic,689,Asia (South & Central Asia),798,Asia,Other LICs,417,143,Central Asia,142,Asia,R,Recipient
+KH,Cambodia,KH,KHM,728,Cambodia,789,Asia (Far East Asia),798,Asia,LDCs,116,35,South-Eastern Asia,142,Asia,R,Recipient
+KI,Kiribati,KI,KIR,836,Kiribati,889,Oceania,889,Oceania,LDCs,296,57,Micronesia,9,Oceania,R,Recipient
+KM,Comoros,KM,COM,233,Comoros,289,Africa (South of Sahara),298,Africa,LDCs,174,14,Eastern Africa,2,Africa,R,Recipient
+KN,Saint Kitts and Nevis,KN,KNA,382,St. Kitts-Nevis,389,America (North & Central America),498,America,UMICs,659,29,Caribbean,19,Americas,R,Recipient
+KP,"Korea, Democratic People's Republic of",KP,PRK,740,"Korea, Dem. Rep.",789,Asia (Far East Asia),798,Asia,Other LICs,408,30,Eastern Asia,142,Asia,R,Recipient
+KR,"Korea, Republic of",KR,KOR,,,,,,,,,,,,,D,Donor
+KW,Kuwait,KW,KWT,,,,,,,,,,,,,D,Donor
+KY,Cayman Islands,KY,CYM,,,,,,,,,,,,,,
+KZ,Kazakhstan,KZ,KAZ,613,Kazakhstan,689,Asia (South & Central Asia),798,Asia,UMICs,398,143,Central Asia,142,Asia,R,Recipient
+LA,Lao People's Democratic Republic,LA,LAO,745,Laos,789,Asia (Far East Asia),798,Asia,LDCs,418,35,South-Eastern Asia,142,Asia,R,Recipient
+LB,Lebanon,LB,LBN,555,Lebanon,589,Asia (Middle East Asia),798,Asia,UMICs,422,145,Western Asia,142,Asia,R,Recipient
+LC,Saint Lucia,LC,LCA,383,St. Lucia,389,America (North & Central America),498,America,UMICs,662,29,Caribbean,19,Americas,R,Recipient
+LI,Liechtenstein,LI,LIE,,,,,,,,,,,,,,
+LK,Sri Lanka,LK,LKA,640,Sri Lanka,689,Asia (South & Central Asia),798,Asia,LMICs,144,34,Southern Asia,142,Asia,R,Recipient
+LR,Liberia,LR,LBR,251,Liberia,289,Africa (South of Sahara),298,Africa,LDCs,430,11,Western Africa,2,Africa,R,Recipient
+LS,Lesotho,LS,LSO,249,Lesotho,289,Africa (South of Sahara),298,Africa,LDCs,426,18,Southern Africa,2,Africa,R,Recipient
+LT,Lithuania,LT,LTU,,,,,,,,,,,,,,
+LU,Luxembourg,LU,LUX,,,,,,,,,,,,,D,Donor
+LV,Latvia,LV,LVA,,,,,,,,,,,,,,
+LY,Libya,LY,LBY,133,Libya,189,Africa (North of Sahara),298,Africa,UMICs,434,15,Northern Africa,2,Africa,R,Recipient
+MA,Morocco,MA,MAR,136,Morocco,189,Africa (North of Sahara),298,Africa,LMICs,504,15,Northern Africa,2,Africa,R,Recipient
+MC,Monaco,MC,MCO,,,,,,,,,,,,,,
+MD,"Moldova, Republic of",MD,MDA,93,Moldova,89,Europe,89,Europe,LMICs,498,151,Eastern Europe,150,Europe,R,Recipient
+ME,Montenegro,ME,MNE,65,Montenegro,89,Europe,89,Europe,UMICs,499,39,Southern Europe,150,Europe,R,Recipient
+MF,Saint Martin (French part),MF,MAF,,,,,,,,,,,,,,
+MG,Madagascar,MG,MDG,252,Madagascar,289,Africa (South of Sahara),298,Africa,LDCs,450,14,Eastern Africa,2,Africa,R,Recipient
+MH,Marshall Islands,MH,MHL,859,Marshall Islands,889,Oceania,889,Oceania,LMICs,584,57,Micronesia,9,Oceania,R,Recipient
+MK,Fiji,MK,MKD,66,Former Yugoslav Republic of Macedonia (FYROM),89,Europe,89,Europe,UMICs,807,39,Southern Europe,150,Europe,R,Recipient
+MK,"Macedonia, the former Yugoslav Republic of",MK,MKD,,,,,,,,,,,,,,
+ML,Mali,ML,MLI,255,Mali,289,Africa (South of Sahara),298,Africa,LDCs,466,11,Western Africa,2,Africa,R,Recipient
+MM,Myanmar,MM,MMR,635,Myanmar,689,Asia (South & Central Asia),798,Asia,LDCs,104,35,South-Eastern Asia,142,Asia,R,Recipient
+MN,Mongolia,MN,MNG,753,Mongolia,789,Asia (Far East Asia),798,Asia,LMICs,496,30,Eastern Asia,142,Asia,R,Recipient
+MO,Macao,MO,MAC,,,,,,,,,,,,,,
+MP,Northern Mariana Islands,MP,MNP,,,,,,,,,,,,,,
+MQ,Martinique,MQ,MTQ,,,,,,,,,,,,,,
+MR,Mauritania,MR,MRT,256,Mauritania,289,Africa (South of Sahara),298,Africa,LDCs,478,11,Western Africa,2,Africa,R,Recipient
+MS,Montserrat,MS,MSR,385,Montserrat,389,America (North & Central America),498,America,UMICs,500,29,Caribbean,19,Americas,R,Recipient
+MT,Malta,MT,MLT,,,,,,,,,,,,,,
+MU,Mauritius,MU,MUS,257,Mauritius,289,Africa (South of Sahara),298,Africa,UMICs,480,14,Eastern Africa,2,Africa,R,Recipient
+MV,Maldives,MV,MDV,655,Maldives,689,Asia (South & Central Asia),798,Asia,UMICs,462,34,Southern Asia,142,Asia,R,Recipient
+MW,Malawi,MW,MWI,253,Malawi,289,Africa (South of Sahara),298,Africa,LDCs,454,14,Eastern Africa,2,Africa,R,Recipient
+MX,Mexico,MX,MEX,358,Mexico,389,America (North & Central America),498,America,UMICs,484,13,Central America,19,Americas,R,Recipient
+MY,Malaysia,MY,MYS,751,Malaysia,789,Asia (Far East Asia),798,Asia,UMICs,458,35,South-Eastern Asia,142,Asia,R,Recipient
+MZ,Mozambique,MZ,MOZ,259,Mozambique,289,Africa (South of Sahara),298,Africa,LDCs,508,14,Eastern Africa,2,Africa,R,Recipient
+NA,Namibia,NA,NAM,275,Namibia,289,Africa (South of Sahara),298,Africa,UMICs,516,18,Southern Africa,2,Africa,R,Recipient
+NC,New Caledonia,NC,NCL,,,,,,,,,,,,,,
+NE,Niger,NE,NER,260,Niger,289,Africa (South of Sahara),298,Africa,LDCs,562,11,Western Africa,2,Africa,R,Recipient
+NF,Norfolk Island,NF,NFK,,,,,,,,,,,,,,
+NG,Nigeria,NG,NGA,261,Nigeria,289,Africa (South of Sahara),298,Africa,LMICs,566,11,Western Africa,2,Africa,R,Recipient
+NI,Nicaragua,NI,NIC,364,Nicaragua,389,America (North & Central America),498,America,LMICs,558,13,Central America,19,Americas,R,Recipient
+NL,Netherlands,NL,NLD,,,,,,,,,,,,,D,Donor
+NO,Norway,NO,NOR,,,,,,,,,,,,,D,Donor
+NP,Nepal,NP,NPL,660,Nepal,689,Asia (South & Central Asia),798,Asia,LDCs,524,34,Southern Asia,142,Asia,R,Recipient
+NR,Nauru,NR,NRU,845,Nauru,889,Oceania,889,Oceania,UMICs,520,57,Micronesia,9,Oceania,R,Recipient
+NU,Niue,NU,NIU,856,Niue,889,Oceania,889,Oceania,UMICs,570,61,Polynesia,9,Oceania,R,Recipient
+NZ,New Zealand,NZ,NZL,,,,,,,,,,,,,D,Donor
+OM,Oman,OM,OMN,,,,,,,,,,,,,,
+PA,Panama,PA,PAN,366,Panama,389,America (North & Central America),498,America,UMICs,591,13,Central America,19,Americas,R,Recipient
+PE,Peru,PE,PER,454,Peru,489,America (South America),498,America,UMICs,604,5,South America,19,Americas,R,Recipient
+PF,French Polynesia,PF,PYF,,,,,,,,,,,,,,
+PG,Papua New Guinea,PG,PNG,862,Papua New Guinea,889,Oceania,889,Oceania,LMICs,598,54,Melanesia,9,Oceania,R,Recipient
+PH,Philippines,PH,PHL,755,Philippines,789,Asia (Far East Asia),798,Asia,LMICs,608,35,South-Eastern Asia,142,Asia,R,Recipient
+PK,Pakistan,PK,PAK,665,Pakistan,689,Asia (South & Central Asia),798,Asia,LMICs,586,34,Southern Asia,142,Asia,R,Recipient
+PL,Poland,PL,POL,,,,,,,,,,,,,D,Donor
+PM,Saint Pierre and Miquelon,PM,SPM,,,,,,,,,,,,,,
+PN,Pitcairn,PN,PCN,,,,,,,,,,,,,,
+PR,Puerto Rico,PR,PRI,,,,,,,,,,,,,,
+PS,"Palestine, State of",PS,PSE,550,West Bank & Gaza Strip,589,Asia (Middle East Asia),798,Asia,LMICs,275,145,Western Asia,142,Asia,R,Recipient
+PT,Portugal,PT,PRT,,,,,,,,,,,,,D,Donor
+PW,Palau,PW,PLW,861,Palau,889,Oceania,889,Oceania,UMICs,585,57,Micronesia,9,Oceania,R,Recipient
+PY,Paraguay,PY,PRY,451,Paraguay,489,America (South America),498,America,LMICs,600,5,South America,19,Americas,R,Recipient
+QA,Qatar,QA,QAT,,,,,,,,,,,,,,
+RE,Réunion,RE,REU,,,,,,,,,,,,,,
+RO,Romania,RO,ROU,,,,,,,,,,,,,,
+RS,Serbia,RS,SRB,63,Serbia,89,Europe,89,Europe,UMICs,688,39,Southern Europe,150,Europe,R,Recipient
+RU,Russian Federation,RU,RUS,,,,,,,,,,,,,D,Donor
+RW,Rwanda,RW,RWA,266,Rwanda,289,Africa (South of Sahara),298,Africa,LDCs,646,14,Eastern Africa,2,Africa,R,Recipient
+SA,Saudi Arabia,SA,SAU,,,,,,,,,,,,,D,Donor
+SB,Solomon Islands,SB,SLB,866,Solomon Islands,889,Oceania,889,Oceania,LDCs,90,54,Melanesia,9,Oceania,R,Recipient
+SC,Seychelles,SC,SYC,270,Seychelles,289,Africa (South of Sahara),298,Africa,UMICs,690,14,Eastern Africa,2,Africa,R,Recipient
+SD,Sudan,SD,SDN,278,Sudan,289,Africa (South of Sahara),298,Africa,LDCs,729,15,Northern Africa,2,Africa,R,Recipient
+SE,Sweden,SE,SWE,,,,,,,,,,,,,D,Donor
+SG,Singapore,SG,SGP,,,,,,,,,,,,,,
+SH,"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,276,St. Helena,289,Africa (South of Sahara),298,Africa,UMICs,654,11,Western Africa,2,Africa,R,Recipient
+SI,Slovenia,SI,SVN,,,,,,,,,,,,,D,Donor
+SJ,Svalbard and Jan Mayen,SJ,SJM,,,,,,,,,,,,,,
+SK,Slovakia,SK,SVK,,,,,,,,,,,,,D,Donor
+SL,Sierra Leone,SL,SLE,272,Sierra Leone,289,Africa (South of Sahara),298,Africa,LDCs,694,11,Western Africa,2,Africa,R,Recipient
+SM,San Marino,SM,SMR,,,,,,,,,,,,,,
+SN,Senegal,SN,SEN,269,Senegal,289,Africa (South of Sahara),298,Africa,LDCs,686,11,Western Africa,2,Africa,R,Recipient
+SO,Somalia,SO,SOM,273,Somalia,289,Africa (South of Sahara),298,Africa,LDCs,706,14,Eastern Africa,2,Africa,R,Recipient
+SR,Suriname,SR,SUR,457,Suriname,489,America (South America),498,America,UMICs,740,5,South America,19,Americas,R,Recipient
+SS,South Sudan,SS,SSD,279,South Sudan,289,Africa (South of Sahara),298,Africa,LDCs,728,14,Eastern Africa,2,Africa,R,Recipient
+ST,Sao Tome and Principe,ST,STP,268,Sao Tome & Principe,289,Africa (South of Sahara),298,Africa,LDCs,678,17,Middle Africa,2,Africa,R,Recipient
+SV,El Salvador,SV,SLV,342,El Salvador,389,America (North & Central America),498,America,LMICs,222,13,Central America,19,Americas,R,Recipient
+SX,Sint Maarten (Dutch part),SX,SXM,,,,,,,,,,,,,,
+SY,Syrian Arab Republic,SY,SYR,573,Syria,589,Asia (Middle East Asia),798,Asia,LMICs,760,145,Western Asia,142,Asia,R,Recipient
+SZ,Swaziland,SZ,SWZ,280,Swaziland,289,Africa (South of Sahara),298,Africa,LMICs,748,18,Southern Africa,2,Africa,R,Recipient
+TC,Turks and Caicos Islands,TC,TCA,,,,,,,,,,,,,,
+TD,Chad,TD,TCD,232,Chad,289,Africa (South of Sahara),298,Africa,LDCs,148,17,Middle Africa,2,Africa,R,Recipient
+TF,French Southern Territories,TF,ATF,,,,,,,,,,,,,,
+TG,Togo,TG,TGO,283,Togo,289,Africa (South of Sahara),298,Africa,LDCs,768,11,Western Africa,2,Africa,R,Recipient
+TH,Thailand,TH,THA,764,Thailand,789,Asia (Far East Asia),798,Asia,UMICs,764,35,South-Eastern Asia,142,Asia,R,Recipient
+TJ,Tajikistan,TJ,TJK,615,Tajikistan,689,Asia (South & Central Asia),798,Asia,Other LICs,762,143,Central Asia,142,Asia,R,Recipient
+TK,Tokelau,TK,TKL,868,Tokelau,889,Oceania,889,Oceania,LMICs,772,61,Polynesia,9,Oceania,R,Recipient
+TL,Timor-Leste,TL,TLS,765,Timor-Leste,789,Asia (Far East Asia),798,Asia,LDCs,626,35,South-Eastern Asia,142,Asia,R,Recipient
+TM,Turkmenistan,TM,TKM,616,Turkmenistan,689,Asia (South & Central Asia),798,Asia,LMICs,795,143,Central Asia,142,Asia,R,Recipient
+TN,Tunisia,TN,TUN,139,Tunisia,189,Africa (North of Sahara),298,Africa,UMICs,788,15,Northern Africa,2,Africa,R,Recipient
+TO,Tonga,TO,TON,870,Tonga,889,Oceania,889,Oceania,LMICs,776,61,Polynesia,9,Oceania,R,Recipient
+TR,Turkey,TR,TUR,55,Turkey,89,Europe,89,Europe,UMICs,792,145,Western Asia,142,Asia,R,Recipient
+TT,Trinidad and Tobago,TT,TTO,,,,,,,,,,,,,,
+TV,Tuvalu,TV,TUV,872,Tuvalu,889,Oceania,889,Oceania,LDCs,798,61,Polynesia,9,Oceania,R,Recipient
+TW,"Taiwan, Province of China",TW,TWN,,,,,,,,,,,,,,
+TZ,"Tanzania, United Republic of",TZ,TZA,282,Tanzania,289,Africa (South of Sahara),298,Africa,LDCs,834,14,Eastern Africa,2,Africa,R,Recipient
+UA,Ukraine,UA,UKR,85,Ukraine,89,Europe,89,Europe,LMICs,804,151,Eastern Europe,150,Europe,R,Recipient
+UG,Uganda,UG,UGA,285,Uganda,289,Africa (South of Sahara),298,Africa,LDCs,800,14,Eastern Africa,2,Africa,R,Recipient
+UM,United States Minor Outlying Islands,UM,UMI,,,,,,,,,,,,,,
+US,United States,US,USA,,,,,,,,,,,,,D,Donor
+UY,Uruguay,UY,URY,460,Uruguay,489,America (South America),498,America,UMICs,858,5,South America,19,Americas,R,Recipient
+UZ,Uzbekistan,UZ,UZB,617,Uzbekistan,689,Asia (South & Central Asia),798,Asia,LMICs,860,143,Central Asia,142,Asia,R,Recipient
+VA,Holy See (Vatican City State),VA,VAT,,,,,,,,,,,,,,
+VC,Saint Vincent and the Grenadines,VC,VCT,384,St.Vincent & Grenadines,389,America (North & Central America),498,America,UMICs,670,29,Caribbean,19,Americas,R,Recipient
+VE,"Venezuela, Bolivarian Republic of",VE,VEN,463,Venezuela,489,America (South America),498,America,UMICs,862,5,South America,19,Americas,R,Recipient
+VG,"Virgin Islands, British",VG,VGB,,,,,,,,,,,,,,
+VI,"Virgin Islands, U.S.",VI,VIR,,,,,,,,,,,,,,
+VN,Viet Nam,VN,VNM,769,Vietnam,789,Asia (Far East Asia),798,Asia,LMICs,704,35,South-Eastern Asia,142,Asia,R,Recipient
+VU,Vanuatu,VU,VUT,854,Vanuatu,889,Oceania,889,Oceania,LDCs,548,54,Melanesia,9,Oceania,R,Recipient
+WF,Wallis and Futuna,WF,WLF,876,Wallis & Futuna,889,Oceania,889,Oceania,UMICs,876,61,Polynesia,9,Oceania,R,Recipient
+WS,Samoa,WS,WSM,880,Samoa,889,Oceania,889,Oceania,LDCs,882,61,Polynesia,9,Oceania,R,Recipient
+XK,Kosovo,XK,XKS,57,Kosovo,89,Europe,89,Europe,LMICs,882,61,Polynesia,9,Oceania,R,Recipient
+YE,Yemen,YE,YEM,580,Yemen,589,Asia (Middle East Asia),798,Asia,LDCs,887,145,Western Asia,142,Asia,R,Recipient
+YT,Mayotte,YT,MYT,,,,,,,,,,,,,,
+ZA,South Africa,ZA,ZAF,218,South Africa,289,Africa (South of Sahara),298,Africa,UMICs,710,18,Southern Africa,2,Africa,R,Recipient
+ZM,Zambia,ZM,ZMB,288,Zambia,289,Africa (South of Sahara),298,Africa,LDCs,894,14,Eastern Africa,2,Africa,R,Recipient
+ZW,Zimbabwe,ZW,ZWE,265,Zimbabwe,289,Africa (South of Sahara),298,Africa,Other LICs,716,14,Eastern Africa,2,Africa,R,Recipient
+EU,European Union,EU,,,,,,,,,,,,,,M,Multilateral Donor
+1,AfDB,1,,,,,,,,,,,,,,M,Multilateral Donor
+2,AfDF,2,,,,,,,,,,,,,,,
+3,AFESD,3,,,,,,,,,,,,,,,
+4,Arab Fund (AFESD),4,,,,,,,,,,,,,,,
+5,AsDB,5,,,,,,,,,,,,,,M,Multilateral Donor
+6,AsDB Special Funds,6,,,,,,,,,,,,,,,
+7,BADEA,7,,,,,,,,,,,,,,,
+8,CarDB,8,,,,,,,,,,,,,,,
+9,EBRD,9,,,,,,,,,,,,,,,
+10,GAVI,10,,,,,,,,,,,,,,,
+11,GEF,11,,,,,,,,,,,,,,,
+12,Global Fund,12,,,,,,,,,,,,,,M,Multilateral Donor
+13,IAEA,13,,,,,,,,,,,,,,,
+14,IBRD,14,,,,,,,,,,,,,,,
+15,IDA,15,,,,,,,,,,,,,,M,Multilateral Donor
+16,IDB,16,,,,,,,,,,,,,,,
+17,IDB Sp.Fund,17,,,,,,,,,,,,,,,
+18,IFAD,18,,,,,,,,,,,,,,,
+19,IFC,19,,,,,,,,,,,,,,,
+20,IMF,20,,,,,,,,,,,,,,M,Multilateral Donor
+21,IMF (Concessional Trust Funds),21,,,,,,,,,,,,,,,
+22,Isl.Dev Bank,22,,,,,,,,,,,,,,,
+23,Montreal Protocol,23,,,,,,,,,,,,,,,
+24,Nordic Dev.Fund,24,,,,,,,,,,,,,,,
+25,OFID,25,,,,,,,,,,,,,,,
+26,OSCE,26,,,,,,,,,,,,,,,
+27,UNAIDS,27,,,,,,,,,,,,,,,
+28,UNDP,28,,,,,,,,,,,,,,,
+29,UNECE,29,,,,,,,,,,,,,,,
+30,UNEP,30,,,,,,,,,,,,,,,
+31,UNFPA,31,,,,,,,,,,,,,,,
+32,UNHCR,32,,,,,,,,,,,,,,,
+33,UNICEF,33,,,,,,,,,,,,,,,
+34,UNPBF,34,,,,,,,,,,,,,,,
+35,UNRWA,35,,,,,,,,,,,,,,,
+36,UNTA,36,,,,,,,,,,,,,,,
+37,WFP,37,,,,,,,,,,,,,,,
+38,WHO,38,,,,,,,,,,,,,,,
+51,"Africa, regional",51,,,,,,,,,,,,,,,
+52,"America, regional",52,,,,,,,,,,,,,,,
+53,"Asia, regional",53,,,,,,,,,,,,,,,
+54,"Central Asia, regional",54,,,,,,,,,,,,,,,
+55,"Bilateral, unspecified",55,,,,,,,,,,,,,,,
+56,"Europe, regional",56,,,,,,,,,,,,,,,
+57,"Far East Asia, regional",57,,,,,,,,,,,,,,,
+58,"Middle East, regional",58,,,,,,,,,,,,,,,
+59,"North & Central America, regional",59,,,,,,,,,,,,,,,
+60,"North of Sahara, regional",60,,,,,,,,,,,,,,,
+61,"Oceania, regional",61,,,,,,,,,,,,,,,
+62,"South & Central Asia, regional",62,,,,,,,,,,,,,,,
+63,"South America, regional",63,,,,,,,,,,,,,,,
+64,"South Asia, regional",64,,,,,,,,,,,,,,,
+65,"South of Sahara, regional",65,,,,,,,,,,,,,,,
+66,States Ex-Yugoslavia unspecified,66,,,,,,,,,,,,,,,
+67,"West Indies, regional",67,,,,,,,,,,,,,,,
