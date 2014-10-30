@@ -1,0 +1,805 @@
+Year,Country,district,District_name,By_Source,Unit_measure,Value
+2014,UG,,Abim,Government funded,NCU,4163275000
+2014,UG,,Adjumani,Government funded,NCU,5277963000
+2014,UG,,Agago,Government funded,NCU,6254668000
+2014,UG,,Alebtong,Government funded,NCU,7371460000
+2014,UG,,Amolatar,Government funded,NCU,3648907000
+2014,UG,,Amudat,Government funded,NCU,1052852000
+2014,UG,,Amuria,Government funded,NCU,8216086000
+2014,UG,,Amuru,Government funded,NCU,5279588000
+2014,UG,,Apac,Government funded,NCU,11948757000
+2014,UG,,Arua,Government funded,NCU,26588906000
+2014,UG,,Budaka,Government funded,NCU,7305865000
+2014,UG,,Bududa,Government funded,NCU,6510822000
+2014,UG,,Bugiri,Government funded,NCU,11421369000
+2014,UG,,Buhweju,Government funded,NCU,3597732000
+2014,UG,,Buikwe,Government funded,NCU,11997235000
+2014,UG,,Bukedea,Government funded,NCU,8348744000
+2014,UG,,Bukomansimbi,Government funded,NCU,6456015000
+2014,UG,,Bukwa,Government funded,NCU,3947023000
+2014,UG,,Bulambuli,Government funded,NCU,4865484000
+2014,UG,,Buliisa,Government funded,NCU,3163350000
+2014,UG,,Bundibugyo,Government funded,NCU,7772274000
+2014,UG,,Bushenyi,Government funded,NCU,9693274000
+2014,UG,,Busia,Government funded,NCU,10291466000
+2014,UG,,Butaleja,Government funded,NCU,8935163000
+2014,UG,,Butambala,Government funded,NCU,7360913000
+2014,UG,,Buvuma,Government funded,NCU,880857000
+2014,UG,,Buyende,Government funded,NCU,7333688000
+2014,UG,,Dokolo,Government funded,NCU,6147984000
+2014,UG,,Gomba,Government funded,NCU,6943600000
+2014,UG,,Gulu,Government funded,NCU,13717665000
+2014,UG,,Hoima,Government funded,NCU,9743033000
+2014,UG,,Ibanda,Government funded,NCU,9405375000
+2014,UG,,Iganga,Government funded,NCU,21255596000
+2014,UG,,Isingiro,Government funded,NCU,11386400000
+2014,UG,,Jinja,Government funded,NCU,15217396000
+2014,UG,,Kaabong,Government funded,NCU,7272606000
+2014,UG,,Kabale,Government funded,NCU,24980211000
+2014,UG,,Kabarole,Government funded,NCU,12530346000
+2014,UG,,Kaberamaido,Government funded,NCU,6747696000
+2014,UG,,Kalangala ,Government funded,NCU,1963697000
+2014,UG,,Kaliro,Government funded,NCU,9018427000
+2014,UG,,Kalungu,Government funded,NCU,8986883000
+2014,UG,,Kampala,Government funded,NCU,0
+2014,UG,,Kamuli,Government funded,NCU,18075029000
+2014,UG,,Kamwenge,Government funded,NCU,10432589000
+2014,UG,,Kanungu,Government funded,NCU,10764037000
+2014,UG,,Kapchorwa,Government funded,NCU,6021204000
+2014,UG,,Kasese,Government funded,NCU,21860456000
+2014,UG,,Katakwi,Government funded,NCU,5985088000
+2014,UG,,Kayunga,Government funded,NCU,12894770000
+2014,UG,,Kibaale,Government funded,NCU,15866082000
+2014,UG,,Kiboga,Government funded,NCU,6074193000
+2014,UG,,Kibuku,Government funded,NCU,6460348000
+2014,UG,,Kiruhura,Government funded,NCU,6860894000
+2014,UG,,Kiryandongo,Government funded,NCU,5805694000
+2014,UG,,Kisoro,Government funded,NCU,10532567000
+2014,UG,,Kitgum,Government funded,NCU,10352255000
+2014,UG,,Koboko,Government funded,NCU,6341157000
+2014,UG,,Kole,Government funded,NCU,7736325000
+2014,UG,,Kotido,Government funded,NCU,2821723000
+2014,UG,,Kumi,Government funded,NCU,7498401000
+2014,UG,,Kween,Government funded,NCU,3285314000
+2014,UG,,Kyankwanzi,Government funded,NCU,6128300000
+2014,UG,,Kyegegwa,Government funded,NCU,4498761000
+2014,UG,,Kyenjojo,Government funded,NCU,9448409000
+2014,UG,,Lamwo,Government funded,NCU,4880641000
+2014,UG,,Lira,Government funded,NCU,13072020000
+2014,UG,,Luuka,Government funded,NCU,8992740000
+2014,UG,,Luweero,Government funded,NCU,21702782000
+2014,UG,,Lwengo,Government funded,NCU,10361765000
+2014,UG,,Lyantonde,Government funded,NCU,3062531000
+2014,UG,,Manafwa,Government funded,NCU,14546555000
+2014,UG,,Maracha,Government funded,NCU,7276194000
+2014,UG,,Masaka ,Government funded,NCU,7609957000
+2014,UG,,Masindi,Government funded,NCU,5483124000
+2014,UG,,Mayuge,Government funded,NCU,12902248000
+2014,UG,,Mbale,Government funded,NCU,16010024000
+2014,UG,,Mbarara,Government funded,NCU,16900889000
+2014,UG,,Mitooma,Government funded,NCU,8829995000
+2014,UG,,Mityana,Government funded,NCU,11460558000
+2014,UG,,Moroto,Government funded,NCU,3181222000
+2014,UG,,Moyo,Government funded,NCU,5979238000
+2014,UG,,Mpigi,Government funded,NCU,9257038000
+2014,UG,,Mubende,Government funded,NCU,14846661000
+2014,UG,,Mukono,Government funded,NCU,15875468000
+2014,UG,,Nakapiripirit,Government funded,NCU,5026305000
+2014,UG,,Nakaseke,Government funded,NCU,8141923000
+2014,UG,,Nakasongola,Government funded,NCU,6988751000
+2014,UG,,Namayingo,Government funded,NCU,5302185000
+2014,UG,,Namutumba,Government funded,NCU,8391866000
+2014,UG,,Napak,Government funded,NCU,2669531000
+2014,UG,,Nebbi,Government funded,NCU,11508417000
+2014,UG,,Ngora,Government funded,NCU,6713429000
+2014,UG,,Ntoroko,Government funded,NCU,2458530000
+2014,UG,,Ntungamo,Government funded,NCU,17836788000
+2014,UG,,Nwoya,Government funded,NCU,4333286000
+2014,UG,,Otuke,Government funded,NCU,4096717000
+2014,UG,,Oyam,Government funded,NCU,12756677000
+2014,UG,,Pader ,Government funded,NCU,7561007000
+2014,UG,,Pallisa,Government funded,NCU,12327104000
+2014,UG,,Rakai,Government funded,NCU,20048465000
+2014,UG,,Rubirizi,Government funded,NCU,3795477000
+2014,UG,,Rukungiri,Government funded,NCU,13234071000
+2014,UG,,Sembabule,Government funded,NCU,10613655000
+2014,UG,,Serere,Government funded,NCU,7727064000
+2014,UG,,Sheema,Government funded,NCU,11924829000
+2014,UG,,Sironko,Government funded,NCU,9833086000
+2014,UG,,Soroti,Government funded,NCU,9351014000
+2014,UG,,Tororo,Government funded,NCU,17569584000
+2014,UG,,Wakiso,Government funded,NCU,27393555000
+2014,UG,,Yumbe,Government funded,NCU,10253248000
+2014,UG,,Zombo,Government funded,NCU,6344885000
+2014,UG,,Arua Municipal Council,Government funded,NCU,3548701000
+2014,UG,,Entebbe Municipal Council,Government funded,NCU,3286348000
+2014,UG,,Fort-Portal Municipal Council,Government funded,NCU,3710387000
+2014,UG,,Gulu Municipal Council,Government funded,NCU,6238964000
+2014,UG,,Jinja Municipal Council,Government funded,NCU,5198437000
+2014,UG,,Kabale Municipal Council,Government funded,NCU,4919988000
+2014,UG,,Lira Municipal Council,Government funded,NCU,4180295000
+2014,UG,,Masaka Municipal Council,Government funded,NCU,3644097000
+2014,UG,,Mbale Municipal Council,Government funded,NCU,6363113000
+2014,UG,,Mbarara Municipal Council,Government funded,NCU,5872270000
+2014,UG,,Moroto Municipal Council,Government funded,NCU,1154104000
+2014,UG,,Soroti Municipal Council,Government funded,NCU,4321531000
+2014,UG,,Tororo Municipal Council,Government funded,NCU,3078333000
+2014,UG,,Kasese Municipal Council,Government funded,NCU,3702731000
+2014,UG,,Hoima Municipal Council,Government funded,NCU,4360471000
+2014,UG,,Mukono Municipal Council,Government funded,NCU,4683100000
+2014,UG,,Iganga Municipal Council,Government funded,NCU,3498722000
+2014,UG,,Masindi Municipal Council,Government funded,NCU,4285724000
+2014,UG,,Ntungamo Municipal Council,Government funded,NCU,933420000
+2014,UG,,Busia Municipal Council,Government funded,NCU,2037317000
+2014,UG,,Bushenyi - Ishaka Municipal Council,Government funded,NCU,3276895000
+2014,UG,,Rukungiri Municipal Council,Government funded,NCU,2833807000
+2014,UG,,Abim,External funding,NCU,523251000
+2014,UG,,Adjumani,External funding,NCU,109293000
+2014,UG,,Agago,External funding,NCU,70000000
+2014,UG,,Alebtong,External funding,NCU,0
+2014,UG,,Amolatar,External funding,NCU,0
+2014,UG,,Amudat,External funding,NCU,137799000
+2014,UG,,Amuria,External funding,NCU,0
+2014,UG,,Amuru,External funding,NCU,3344083000
+2014,UG,,Apac,External funding,NCU,100000000
+2014,UG,,Arua,External funding,NCU,0
+2014,UG,,Budaka,External funding,NCU,0
+2014,UG,,Bududa,External funding,NCU,0
+2014,UG,,Bugiri,External funding,NCU,37575000
+2014,UG,,Buhweju,External funding,NCU,0
+2014,UG,,Buikwe,External funding,NCU,0
+2014,UG,,Bukedea,External funding,NCU,30005000
+2014,UG,,Bukomansimbi,External funding,NCU,0
+2014,UG,,Bukwa,External funding,NCU,0
+2014,UG,,Bulambuli,External funding,NCU,0
+2014,UG,,Buliisa,External funding,NCU,70000000
+2014,UG,,Bundibugyo,External funding,NCU,243610000
+2014,UG,,Bushenyi,External funding,NCU,0
+2014,UG,,Busia,External funding,NCU,0
+2014,UG,,Butaleja,External funding,NCU,0
+2014,UG,,Butambala,External funding,NCU,0
+2014,UG,,Buvuma,External funding,NCU,0
+2014,UG,,Buyende,External funding,NCU,0
+2014,UG,,Dokolo,External funding,NCU,0
+2014,UG,,Gomba,External funding,NCU,1370000
+2014,UG,,Gulu,External funding,NCU,4249639000
+2014,UG,,Hoima,External funding,NCU,42241000
+2014,UG,,Ibanda,External funding,NCU,0
+2014,UG,,Iganga,External funding,NCU,26190000
+2014,UG,,Isingiro,External funding,NCU,0
+2014,UG,,Jinja,External funding,NCU,0
+2014,UG,,Kaabong,External funding,NCU,167726000
+2014,UG,,Kabale,External funding,NCU,0
+2014,UG,,Kabarole,External funding,NCU,173832000
+2014,UG,,Kaberamaido,External funding,NCU,0
+2014,UG,,Kalangala ,External funding,NCU,1337534000
+2014,UG,,Kaliro,External funding,NCU,0
+2014,UG,,Kalungu,External funding,NCU,13750000
+2014,UG,,Kampala,External funding,NCU,0
+2014,UG,,Kamuli,External funding,NCU,0
+2014,UG,,Kamwenge,External funding,NCU,0
+2014,UG,,Kanungu,External funding,NCU,0
+2014,UG,,Kapchorwa,External funding,NCU,0
+2014,UG,,Kasese,External funding,NCU,0
+2014,UG,,Katakwi,External funding,NCU,0
+2014,UG,,Kayunga,External funding,NCU,0
+2014,UG,,Kibaale,External funding,NCU,19166000
+2014,UG,,Kiboga,External funding,NCU,0
+2014,UG,,Kibuku,External funding,NCU,0
+2014,UG,,Kiruhura,External funding,NCU,0
+2014,UG,,Kiryandongo,External funding,NCU,0
+2014,UG,,Kisoro,External funding,NCU,9396000
+2014,UG,,Kitgum,External funding,NCU,941968000
+2014,UG,,Koboko,External funding,NCU,0
+2014,UG,,Kole,External funding,NCU,0
+2014,UG,,Kotido,External funding,NCU,259145000
+2014,UG,,Kumi,External funding,NCU,0
+2014,UG,,Kween,External funding,NCU,0
+2014,UG,,Kyankwanzi,External funding,NCU,0
+2014,UG,,Kyegegwa,External funding,NCU,206073000
+2014,UG,,Kyenjojo,External funding,NCU,146057000
+2014,UG,,Lamwo,External funding,NCU,736709000
+2014,UG,,Lira,External funding,NCU,0
+2014,UG,,Luuka,External funding,NCU,0
+2014,UG,,Luweero,External funding,NCU,0
+2014,UG,,Lwengo,External funding,NCU,0
+2014,UG,,Lyantonde,External funding,NCU,0
+2014,UG,,Manafwa,External funding,NCU,0
+2014,UG,,Maracha,External funding,NCU,0
+2014,UG,,Masaka ,External funding,NCU,225200000
+2014,UG,,Masindi,External funding,NCU,92769000
+2014,UG,,Mayuge,External funding,NCU,0
+2014,UG,,Mbale,External funding,NCU,200000
+2014,UG,,Mbarara,External funding,NCU,0
+2014,UG,,Mitooma,External funding,NCU,0
+2014,UG,,Mityana,External funding,NCU,0
+2014,UG,,Moroto,External funding,NCU,110000000
+2014,UG,,Moyo,External funding,NCU,0
+2014,UG,,Mpigi,External funding,NCU,0
+2014,UG,,Mubende,External funding,NCU,100000000
+2014,UG,,Mukono,External funding,NCU,0
+2014,UG,,Nakapiripirit,External funding,NCU,178789000
+2014,UG,,Nakaseke,External funding,NCU,0
+2014,UG,,Nakasongola,External funding,NCU,0
+2014,UG,,Namayingo,External funding,NCU,17277000
+2014,UG,,Namutumba,External funding,NCU,0
+2014,UG,,Napak,External funding,NCU,50000000
+2014,UG,,Nebbi,External funding,NCU,1192439000
+2014,UG,,Ngora,External funding,NCU,0
+2014,UG,,Ntoroko,External funding,NCU,231586000
+2014,UG,,Ntungamo,External funding,NCU,0
+2014,UG,,Nwoya,External funding,NCU,7616238000
+2014,UG,,Otuke,External funding,NCU,10000000
+2014,UG,,Oyam,External funding,NCU,2764600000
+2014,UG,,Pader ,External funding,NCU,224558000
+2014,UG,,Pallisa,External funding,NCU,0
+2014,UG,,Rakai,External funding,NCU,0
+2014,UG,,Rubirizi,External funding,NCU,12225000
+2014,UG,,Rukungiri,External funding,NCU,0
+2014,UG,,Sembabule,External funding,NCU,0
+2014,UG,,Serere,External funding,NCU,0
+2014,UG,,Sheema,External funding,NCU,35000000
+2014,UG,,Sironko,External funding,NCU,82520000
+2014,UG,,Soroti,External funding,NCU,0
+2014,UG,,Tororo,External funding,NCU,0
+2014,UG,,Wakiso,External funding,NCU,0
+2014,UG,,Yumbe,External funding,NCU,13000000
+2014,UG,,Zombo,External funding,NCU,60000000
+2014,UG,,Arua Municipal Council,External funding,NCU,0
+2014,UG,,Entebbe Municipal Council,External funding,NCU,0
+2014,UG,,Fort-Portal Municipal Council,External funding,NCU,50000000
+2014,UG,,Gulu Municipal Council,External funding,NCU,0
+2014,UG,,Jinja Municipal Council,External funding,NCU,0
+2014,UG,,Kabale Municipal Council,External funding,NCU,0
+2014,UG,,Lira Municipal Council,External funding,NCU,0
+2014,UG,,Masaka Municipal Council,External funding,NCU,12000000
+2014,UG,,Mbale Municipal Council,External funding,NCU,0
+2014,UG,,Mbarara Municipal Council,External funding,NCU,0
+2014,UG,,Moroto Municipal Council,External funding,NCU,22201000
+2014,UG,,Soroti Municipal Council,External funding,NCU,0
+2014,UG,,Tororo Municipal Council,External funding,NCU,0
+2014,UG,,Kasese Municipal Council,External funding,NCU,0
+2014,UG,,Hoima Municipal Council,External funding,NCU,0
+2014,UG,,Mukono Municipal Council,External funding,NCU,0
+2014,UG,,Iganga Municipal Council,External funding,NCU,0
+2014,UG,,Masindi Municipal Council,External funding,NCU,0
+2014,UG,,Ntungamo Municipal Council,External funding,NCU,0
+2014,UG,,Busia Municipal Council,External funding,NCU,0
+2014,UG,,Bushenyi - Ishaka Municipal Council,External funding,NCU,0
+2014,UG,,Rukungiri Municipal Council,External funding,NCU,0
+2014,UG,,Abim,Government funded,US$,16653100
+2014,UG,,Adjumani,Government funded,US$,21111852
+2014,UG,,Agago,Government funded,US$,25018672
+2014,UG,,Alebtong,Government funded,US$,29485840
+2014,UG,,Amolatar,Government funded,US$,14595628
+2014,UG,,Amudat,Government funded,US$,4211408
+2014,UG,,Amuria,Government funded,US$,32864344
+2014,UG,,Amuru,Government funded,US$,21118352
+2014,UG,,Apac,Government funded,US$,47795028
+2014,UG,,Arua,Government funded,US$,106355624
+2014,UG,,Budaka,Government funded,US$,29223460
+2014,UG,,Bududa,Government funded,US$,26043288
+2014,UG,,Bugiri,Government funded,US$,45685476
+2014,UG,,Buhweju,Government funded,US$,14390928
+2014,UG,,Buikwe,Government funded,US$,47988940
+2014,UG,,Bukedea,Government funded,US$,33394976
+2014,UG,,Bukomansimbi,Government funded,US$,25824060
+2014,UG,,Bukwa,Government funded,US$,15788092
+2014,UG,,Bulambuli,Government funded,US$,19461936
+2014,UG,,Buliisa,Government funded,US$,12653400
+2014,UG,,Bundibugyo,Government funded,US$,31089096
+2014,UG,,Bushenyi,Government funded,US$,38773096
+2014,UG,,Busia,Government funded,US$,41165864
+2014,UG,,Butaleja,Government funded,US$,35740652
+2014,UG,,Butambala,Government funded,US$,29443652
+2014,UG,,Buvuma,Government funded,US$,3523428
+2014,UG,,Buyende,Government funded,US$,29334752
+2014,UG,,Dokolo,Government funded,US$,24591936
+2014,UG,,Gomba,Government funded,US$,27774400
+2014,UG,,Gulu,Government funded,US$,54870660
+2014,UG,,Hoima,Government funded,US$,38972132
+2014,UG,,Ibanda,Government funded,US$,37621500
+2014,UG,,Iganga,Government funded,US$,85022384
+2014,UG,,Isingiro,Government funded,US$,45545600
+2014,UG,,Jinja,Government funded,US$,60869584
+2014,UG,,Kaabong,Government funded,US$,29090424
+2014,UG,,Kabale,Government funded,US$,99920844
+2014,UG,,Kabarole,Government funded,US$,50121384
+2014,UG,,Kaberamaido,Government funded,US$,26990784
+2014,UG,,Kalangala ,Government funded,US$,7854788
+2014,UG,,Kaliro,Government funded,US$,36073708
+2014,UG,,Kalungu,Government funded,US$,35947532
+2014,UG,,Kampala,Government funded,US$,0
+2014,UG,,Kamuli,Government funded,US$,72300116
+2014,UG,,Kamwenge,Government funded,US$,41730356
+2014,UG,,Kanungu,Government funded,US$,43056148
+2014,UG,,Kapchorwa,Government funded,US$,24084816
+2014,UG,,Kasese,Government funded,US$,87441824
+2014,UG,,Katakwi,Government funded,US$,23940352
+2014,UG,,Kayunga,Government funded,US$,51579080
+2014,UG,,Kibaale,Government funded,US$,63464328
+2014,UG,,Kiboga,Government funded,US$,24296772
+2014,UG,,Kibuku,Government funded,US$,25841392
+2014,UG,,Kiruhura,Government funded,US$,27443576
+2014,UG,,Kiryandongo,Government funded,US$,23222776
+2014,UG,,Kisoro,Government funded,US$,42130268
+2014,UG,,Kitgum,Government funded,US$,41409020
+2014,UG,,Koboko,Government funded,US$,25364628
+2014,UG,,Kole,Government funded,US$,30945300
+2014,UG,,Kotido,Government funded,US$,11286892
+2014,UG,,Kumi,Government funded,US$,29993604
+2014,UG,,Kween,Government funded,US$,13141256
+2014,UG,,Kyankwanzi,Government funded,US$,24513200
+2014,UG,,Kyegegwa,Government funded,US$,17995044
+2014,UG,,Kyenjojo,Government funded,US$,37793636
+2014,UG,,Lamwo,Government funded,US$,19522564
+2014,UG,,Lira,Government funded,US$,52288080
+2014,UG,,Luuka,Government funded,US$,35970960
+2014,UG,,Luweero,Government funded,US$,86811128
+2014,UG,,Lwengo,Government funded,US$,41447060
+2014,UG,,Lyantonde,Government funded,US$,12250124
+2014,UG,,Manafwa,Government funded,US$,58186220
+2014,UG,,Maracha,Government funded,US$,29104776
+2014,UG,,Masaka ,Government funded,US$,30439828
+2014,UG,,Masindi,Government funded,US$,21932496
+2014,UG,,Mayuge,Government funded,US$,51608992
+2014,UG,,Mbale,Government funded,US$,64040096
+2014,UG,,Mbarara,Government funded,US$,67603556
+2014,UG,,Mitooma,Government funded,US$,35319980
+2014,UG,,Mityana,Government funded,US$,45842232
+2014,UG,,Moroto,Government funded,US$,12724888
+2014,UG,,Moyo,Government funded,US$,23916952
+2014,UG,,Mpigi,Government funded,US$,37028152
+2014,UG,,Mubende,Government funded,US$,59386644
+2014,UG,,Mukono,Government funded,US$,63501872
+2014,UG,,Nakapiripirit,Government funded,US$,20105220
+2014,UG,,Nakaseke,Government funded,US$,32567692
+2014,UG,,Nakasongola,Government funded,US$,27955004
+2014,UG,,Namayingo,Government funded,US$,21208740
+2014,UG,,Namutumba,Government funded,US$,33567464
+2014,UG,,Napak,Government funded,US$,10678124
+2014,UG,,Nebbi,Government funded,US$,46033668
+2014,UG,,Ngora,Government funded,US$,26853716
+2014,UG,,Ntoroko,Government funded,US$,9834120
+2014,UG,,Ntungamo,Government funded,US$,71347152
+2014,UG,,Nwoya,Government funded,US$,17333144
+2014,UG,,Otuke,Government funded,US$,16386868
+2014,UG,,Oyam,Government funded,US$,51026708
+2014,UG,,Pader ,Government funded,US$,30244028
+2014,UG,,Pallisa,Government funded,US$,49308416
+2014,UG,,Rakai,Government funded,US$,80193860
+2014,UG,,Rubirizi,Government funded,US$,15181908
+2014,UG,,Rukungiri,Government funded,US$,52936284
+2014,UG,,Sembabule,Government funded,US$,42454620
+2014,UG,,Serere,Government funded,US$,30908256
+2014,UG,,Sheema,Government funded,US$,47699316
+2014,UG,,Sironko,Government funded,US$,39332344
+2014,UG,,Soroti,Government funded,US$,37404056
+2014,UG,,Tororo,Government funded,US$,70278336
+2014,UG,,Wakiso,Government funded,US$,109574220
+2014,UG,,Yumbe,Government funded,US$,41012992
+2014,UG,,Zombo,Government funded,US$,25379540
+2014,UG,,Arua Municipal Council,Government funded,US$,14194804
+2014,UG,,Entebbe Municipal Council,Government funded,US$,13145392
+2014,UG,,Fort-Portal Municipal Council,Government funded,US$,14841548
+2014,UG,,Gulu Municipal Council,Government funded,US$,24955856
+2014,UG,,Jinja Municipal Council,Government funded,US$,20793748
+2014,UG,,Kabale Municipal Council,Government funded,US$,19679952
+2014,UG,,Lira Municipal Council,Government funded,US$,16721180
+2014,UG,,Masaka Municipal Council,Government funded,US$,14576388
+2014,UG,,Mbale Municipal Council,Government funded,US$,25452452
+2014,UG,,Mbarara Municipal Council,Government funded,US$,23489080
+2014,UG,,Moroto Municipal Council,Government funded,US$,4616416
+2014,UG,,Soroti Municipal Council,Government funded,US$,17286124
+2014,UG,,Tororo Municipal Council,Government funded,US$,12313332
+2014,UG,,Kasese Municipal Council,Government funded,US$,14810924
+2014,UG,,Hoima Municipal Council,Government funded,US$,17441884
+2014,UG,,Mukono Municipal Council,Government funded,US$,18732400
+2014,UG,,Iganga Municipal Council,Government funded,US$,13994888
+2014,UG,,Masindi Municipal Council,Government funded,US$,17142896
+2014,UG,,Ntungamo Municipal Council,Government funded,US$,3733680
+2014,UG,,Busia Municipal Council,Government funded,US$,8149268
+2014,UG,,Bushenyi - Ishaka Municipal Council,Government funded,US$,13107580
+2014,UG,,Rukungiri Municipal Council,Government funded,US$,11335228
+2014,UG,,Abim,External funding,US$,2093004
+2014,UG,,Adjumani,External funding,US$,437172
+2014,UG,,Agago,External funding,US$,280000
+2014,UG,,Alebtong,External funding,US$,0
+2014,UG,,Amolatar,External funding,US$,0
+2014,UG,,Amudat,External funding,US$,551196
+2014,UG,,Amuria,External funding,US$,0
+2014,UG,,Amuru,External funding,US$,13376332
+2014,UG,,Apac,External funding,US$,400000
+2014,UG,,Arua,External funding,US$,0
+2014,UG,,Budaka,External funding,US$,0
+2014,UG,,Bududa,External funding,US$,0
+2014,UG,,Bugiri,External funding,US$,150300
+2014,UG,,Buhweju,External funding,US$,0
+2014,UG,,Buikwe,External funding,US$,0
+2014,UG,,Bukedea,External funding,US$,120020
+2014,UG,,Bukomansimbi,External funding,US$,0
+2014,UG,,Bukwa,External funding,US$,0
+2014,UG,,Bulambuli,External funding,US$,0
+2014,UG,,Buliisa,External funding,US$,280000
+2014,UG,,Bundibugyo,External funding,US$,974440
+2014,UG,,Bushenyi,External funding,US$,0
+2014,UG,,Busia,External funding,US$,0
+2014,UG,,Butaleja,External funding,US$,0
+2014,UG,,Butambala,External funding,US$,0
+2014,UG,,Buvuma,External funding,US$,0
+2014,UG,,Buyende,External funding,US$,0
+2014,UG,,Dokolo,External funding,US$,0
+2014,UG,,Gomba,External funding,US$,5480
+2014,UG,,Gulu,External funding,US$,16998556
+2014,UG,,Hoima,External funding,US$,168964
+2014,UG,,Ibanda,External funding,US$,0
+2014,UG,,Iganga,External funding,US$,104760
+2014,UG,,Isingiro,External funding,US$,0
+2014,UG,,Jinja,External funding,US$,0
+2014,UG,,Kaabong,External funding,US$,670904
+2014,UG,,Kabale,External funding,US$,0
+2014,UG,,Kabarole,External funding,US$,695328
+2014,UG,,Kaberamaido,External funding,US$,0
+2014,UG,,Kalangala ,External funding,US$,5350136
+2014,UG,,Kaliro,External funding,US$,0
+2014,UG,,Kalungu,External funding,US$,55000
+2014,UG,,Kampala,External funding,US$,0
+2014,UG,,Kamuli,External funding,US$,0
+2014,UG,,Kamwenge,External funding,US$,0
+2014,UG,,Kanungu,External funding,US$,0
+2014,UG,,Kapchorwa,External funding,US$,0
+2014,UG,,Kasese,External funding,US$,0
+2014,UG,,Katakwi,External funding,US$,0
+2014,UG,,Kayunga,External funding,US$,0
+2014,UG,,Kibaale,External funding,US$,76664
+2014,UG,,Kiboga,External funding,US$,0
+2014,UG,,Kibuku,External funding,US$,0
+2014,UG,,Kiruhura,External funding,US$,0
+2014,UG,,Kiryandongo,External funding,US$,0
+2014,UG,,Kisoro,External funding,US$,37584
+2014,UG,,Kitgum,External funding,US$,3767872
+2014,UG,,Koboko,External funding,US$,0
+2014,UG,,Kole,External funding,US$,0
+2014,UG,,Kotido,External funding,US$,1036580
+2014,UG,,Kumi,External funding,US$,0
+2014,UG,,Kween,External funding,US$,0
+2014,UG,,Kyankwanzi,External funding,US$,0
+2014,UG,,Kyegegwa,External funding,US$,824292
+2014,UG,,Kyenjojo,External funding,US$,584228
+2014,UG,,Lamwo,External funding,US$,2946836
+2014,UG,,Lira,External funding,US$,0
+2014,UG,,Luuka,External funding,US$,0
+2014,UG,,Luweero,External funding,US$,0
+2014,UG,,Lwengo,External funding,US$,0
+2014,UG,,Lyantonde,External funding,US$,0
+2014,UG,,Manafwa,External funding,US$,0
+2014,UG,,Maracha,External funding,US$,0
+2014,UG,,Masaka ,External funding,US$,900800
+2014,UG,,Masindi,External funding,US$,371076
+2014,UG,,Mayuge,External funding,US$,0
+2014,UG,,Mbale,External funding,US$,800
+2014,UG,,Mbarara,External funding,US$,0
+2014,UG,,Mitooma,External funding,US$,0
+2014,UG,,Mityana,External funding,US$,0
+2014,UG,,Moroto,External funding,US$,440000
+2014,UG,,Moyo,External funding,US$,0
+2014,UG,,Mpigi,External funding,US$,0
+2014,UG,,Mubende,External funding,US$,400000
+2014,UG,,Mukono,External funding,US$,0
+2014,UG,,Nakapiripirit,External funding,US$,715156
+2014,UG,,Nakaseke,External funding,US$,0
+2014,UG,,Nakasongola,External funding,US$,0
+2014,UG,,Namayingo,External funding,US$,69108
+2014,UG,,Namutumba,External funding,US$,0
+2014,UG,,Napak,External funding,US$,200000
+2014,UG,,Nebbi,External funding,US$,4769756
+2014,UG,,Ngora,External funding,US$,0
+2014,UG,,Ntoroko,External funding,US$,926344
+2014,UG,,Ntungamo,External funding,US$,0
+2014,UG,,Nwoya,External funding,US$,30464952
+2014,UG,,Otuke,External funding,US$,40000
+2014,UG,,Oyam,External funding,US$,11058400
+2014,UG,,Pader ,External funding,US$,898232
+2014,UG,,Pallisa,External funding,US$,0
+2014,UG,,Rakai,External funding,US$,0
+2014,UG,,Rubirizi,External funding,US$,48900
+2014,UG,,Rukungiri,External funding,US$,0
+2014,UG,,Sembabule,External funding,US$,0
+2014,UG,,Serere,External funding,US$,0
+2014,UG,,Sheema,External funding,US$,140000
+2014,UG,,Sironko,External funding,US$,330080
+2014,UG,,Soroti,External funding,US$,0
+2014,UG,,Tororo,External funding,US$,0
+2014,UG,,Wakiso,External funding,US$,0
+2014,UG,,Yumbe,External funding,US$,52000
+2014,UG,,Zombo,External funding,US$,240000
+2014,UG,,Arua Municipal Council,External funding,US$,0
+2014,UG,,Entebbe Municipal Council,External funding,US$,0
+2014,UG,,Fort-Portal Municipal Council,External funding,US$,200000
+2014,UG,,Gulu Municipal Council,External funding,US$,0
+2014,UG,,Jinja Municipal Council,External funding,US$,0
+2014,UG,,Kabale Municipal Council,External funding,US$,0
+2014,UG,,Lira Municipal Council,External funding,US$,0
+2014,UG,,Masaka Municipal Council,External funding,US$,48000
+2014,UG,,Mbale Municipal Council,External funding,US$,0
+2014,UG,,Mbarara Municipal Council,External funding,US$,0
+2014,UG,,Moroto Municipal Council,External funding,US$,88804
+2014,UG,,Soroti Municipal Council,External funding,US$,0
+2014,UG,,Tororo Municipal Council,External funding,US$,0
+2014,UG,,Kasese Municipal Council,External funding,US$,0
+2014,UG,,Hoima Municipal Council,External funding,US$,0
+2014,UG,,Mukono Municipal Council,External funding,US$,0
+2014,UG,,Iganga Municipal Council,External funding,US$,0
+2014,UG,,Masindi Municipal Council,External funding,US$,0
+2014,UG,,Ntungamo Municipal Council,External funding,US$,0
+2014,UG,,Busia Municipal Council,External funding,US$,0
+2014,UG,,Bushenyi - Ishaka Municipal Council,External funding,US$,0
+2014,UG,,Rukungiri Municipal Council,External funding,US$,0
+2014,UG,,Abim,Government funded,$Spend per child,518.9627663
+2014,UG,,Adjumani,Government funded,$Spend per child,91.70007714
+2014,UG,,Agago,Government funded,$Spend per child,141.7113546
+2014,UG,,Alebtong,Government funded,$Spend per child,225.1903581
+2014,UG,,Amolatar,Government funded,$Spend per child,198.7560138
+2014,UG,,Amudat,Government funded,$Spend per child,62.29847412
+2014,UG,,Amuria,Government funded,$Spend per child,132.7781468
+2014,UG,,Amuru,Government funded,$Spend per child,205.0333399
+2014,UG,,Apac,Government funded,$Spend per child,229.7743986
+2014,UG,,Arua,Government funded,$Spend per child,239.9860461
+2014,UG,,Budaka,Government funded,$Spend per child,283.5695648
+2014,UG,,Bududa,Government funded,$Spend per child,247.4572136
+2014,UG,,Bugiri,Government funded,$Spend per child,175.2297352
+2014,UG,,Buhweju,Government funded,$Spend per child,248.568586
+2014,UG,,Buikwe,Government funded,$Spend per child,193.9283213
+2014,UG,,Bukedea,Government funded,$Spend per child,306.2118645
+2014,UG,,Bukomansimbi,Government funded,$Spend per child,296.217455
+2014,UG,,Bukwa,Government funded,$Spend per child,368.8435975
+2014,UG,,Bulambuli,Government funded,$Spend per child,269.7628929
+2014,UG,,Buliisa,Government funded,$Spend per child,272.4043504
+2014,UG,,Bundibugyo,Government funded,$Spend per child,202.1648722
+2014,UG,,Bushenyi,Government funded,$Spend per child,264.2695238
+2014,UG,,Busia,Government funded,$Spend per child,236.4305225
+2014,UG,,Butaleja,Government funded,$Spend per child,278.4476709
+2014,UG,,Butambala,Government funded,$Spend per child,520.1608341
+2014,UG,,Buvuma,Government funded,$Spend per child,110.5743014
+2014,UG,,Buyende,Government funded,$Spend per child,190.9094944
+2014,UG,,Dokolo,Government funded,$Spend per child,231.0800899
+2014,UG,,Gomba,Government funded,$Spend per child,319.6173945
+2014,UG,,Gulu,Government funded,$Spend per child,246.1643992
+2014,UG,,Hoima,Government funded,$Spend per child,122.542198
+2014,UG,,Ibanda,Government funded,$Spend per child,256.0576454
+2014,UG,,Iganga,Government funded,$Spend per child,275.9284463
+2014,UG,,Isingiro,Government funded,$Spend per child,187.888111
+2014,UG,,Jinja,Government funded,$Spend per child,213.2508772
+2014,UG,,Kaabong,Government funded,$Spend per child,122.7908791
+2014,UG,,Kabale,Government funded,$Spend per child,356.0033334
+2014,UG,,Kabarole,Government funded,$Spend per child,211.8637194
+2014,UG,,Kaberamaido,Government funded,$Spend per child,226.0014151
+2014,UG,,Kalangala ,Government funded,$Spend per child,326.3039216
+2014,UG,,Kaliro,Government funded,$Spend per child,287.0647759
+2014,UG,,Kalungu,Government funded,$Spend per child,358.375823
+2014,UG,,Kampala,Government funded,$Spend per child,0
+2014,UG,,Kamuli,Government funded,$Spend per child,236.4422529
+2014,UG,,Kamwenge,Government funded,$Spend per child,215.6440379
+2014,UG,,Kanungu,Government funded,$Spend per child,295.7656799
+2014,UG,,Kapchorwa,Government funded,$Spend per child,352.3288994
+2014,UG,,Kasese,Government funded,$Spend per child,196.2735382
+2014,UG,,Katakwi,Government funded,$Spend per child,234.4335292
+2014,UG,,Kayunga,Government funded,$Spend per child,237.8449517
+2014,UG,,Kibaale,Government funded,$Spend per child,150.9420223
+2014,UG,,Kiboga,Government funded,$Spend per child,249.4314876
+2014,UG,,Kibuku,Government funded,$Spend per child,245.016422
+2014,UG,,Kiruhura,Government funded,$Spend per child,157.1443312
+2014,UG,,Kiryandongo,Government funded,$Spend per child,123.752833
+2014,UG,,Kisoro,Government funded,$Spend per child,278.8776388
+2014,UG,,Kitgum,Government funded,$Spend per child,291.7410186
+2014,UG,,Koboko,Government funded,$Spend per child,179.5601296
+2014,UG,,Kole,Government funded,$Spend per child,230.2210458
+2014,UG,,Kotido,Government funded,$Spend per child,80.97695575
+2014,UG,,Kumi,Government funded,$Spend per child,202.042438
+2014,UG,,Kween,Government funded,$Spend per child,217.4995242
+2014,UG,,Kyankwanzi,Government funded,$Spend per child,229.0122834
+2014,UG,,Kyegegwa,Government funded,$Spend per child,193.4663889
+2014,UG,,Kyenjojo,Government funded,$Spend per child,163.8457163
+2014,UG,,Lamwo,Government funded,$Spend per child,195.393483
+2014,UG,,Lira,Government funded,$Spend per child,221.6266186
+2014,UG,,Luuka,Government funded,$Spend per child,237.6551456
+2014,UG,,Luweero,Government funded,$Spend per child,328.671297
+2014,UG,,Lwengo,Government funded,$Spend per child,273.7335212
+2014,UG,,Lyantonde,Government funded,$Spend per child,266.9465546
+2014,UG,,Manafwa,Government funded,$Spend per child,272.9440848
+2014,UG,,Maracha,Government funded,$Spend per child,252.3354627
+2014,UG,,Masaka ,Government funded,$Spend per child,204.7772295
+2014,UG,,Masindi,Government funded,$Spend per child,105.7738116
+2014,UG,,Mayuge,Government funded,$Spend per child,183.4234428
+2014,UG,,Mbale,Government funded,$Spend per child,256.059087
+2014,UG,,Mbarara,Government funded,$Spend per child,271.7451229
+2014,UG,,Mitooma,Government funded,$Spend per child,314.0098061
+2014,UG,,Mityana,Government funded,$Spend per child,258.1839133
+2014,UG,,Moroto,Government funded,$Spend per child,172.4954792
+2014,UG,,Moyo,Government funded,$Spend per child,97.07981449
+2014,UG,,Mpigi,Government funded,$Spend per child,282.7008093
+2014,UG,,Mubende,Government funded,$Spend per child,162.2119653
+2014,UG,,Mukono,Government funded,$Spend per child,201.1713594
+2014,UG,,Nakapiripirit,Government funded,$Spend per child,208.7134444
+2014,UG,,Nakaseke,Government funded,$Spend per child,293.9388705
+2014,UG,,Nakasongola,Government funded,$Spend per child,302.6599426
+2014,UG,,Namayingo,Government funded,$Spend per child,155.1302447
+2014,UG,,Namutumba,Government funded,$Spend per child,266.1701588
+2014,UG,,Napak,Government funded,$Spend per child,91.0286424
+2014,UG,,Nebbi,Government funded,$Spend per child,230.6686603
+2014,UG,,Ngora,Government funded,$Spend per child,291.1653677
+2014,UG,,Ntoroko,Government funded,$Spend per child,198.2989329
+2014,UG,,Ntungamo,Government funded,$Spend per child,258.9139334
+2014,UG,,Nwoya,Government funded,$Spend per child,556.7003581
+2014,UG,,Otuke,Government funded,$Spend per child,328.9426057
+2014,UG,,Oyam,Government funded,$Spend per child,232.0916018
+2014,UG,,Pader ,Government funded,$Spend per child,226.5185205
+2014,UG,,Pallisa,Government funded,$Spend per child,225.2984627
+2014,UG,,Rakai,Government funded,$Spend per child,286.3820958
+2014,UG,,Rubirizi,Government funded,$Spend per child,213.256301
+2014,UG,,Rukungiri,Government funded,$Spend per child,289.4496244
+2014,UG,,Sembabule,Government funded,$Spend per child,332.0739103
+2014,UG,,Serere,Government funded,$Spend per child,177.9552018
+2014,UG,,Sheema,Government funded,$Spend per child,378.9015986
+2014,UG,,Sironko,Government funded,$Spend per child,292.6559418
+2014,UG,,Soroti,Government funded,$Spend per child,195.1130829
+2014,UG,,Tororo,Government funded,$Spend per child,249.0645187
+2014,UG,,Wakiso,Government funded,$Spend per child,145.1744889
+2014,UG,,Yumbe,Government funded,$Spend per child,117.9195009
+2014,UG,,Zombo,Government funded,$Spend per child,200.7981436
+2014,UG,,Arua Municipal Council,Government funded,$Spend per child,401.629856
+2014,UG,,Entebbe Municipal Council,Government funded,$Spend per child,270.266105
+2014,UG,,Fort-Portal Municipal Council,Government funded,$Spend per child,548.8697569
+2014,UG,,Gulu Municipal Council,Government funded,$Spend per child,272.7442784
+2014,UG,,Jinja Municipal Council,Government funded,$Spend per child,392.2275604
+2014,UG,,Kabale Municipal Council,Government funded,$Spend per child,774.3957691
+2014,UG,,Lira Municipal Council,Government funded,$Spend per child,257.3922708
+2014,UG,,Masaka Municipal Council,Government funded,$Spend per child,344.1439246
+2014,UG,,Mbale Municipal Council,Government funded,$Spend per child,362.3785117
+2014,UG,,Mbarara Municipal Council,Government funded,$Spend per child,480.1607549
+2014,UG,,Moroto Municipal Council,Government funded,$Spend per child,600.6500384
+2014,UG,,Soroti Municipal Council,Government funded,$Spend per child,420.3691031
+2014,UG,,Tororo Municipal Council,Government funded,$Spend per child,478.1895075
+2014,UG,,Kasese Municipal Council,Government funded,$Spend per child,207.8813704
+2014,UG,,Hoima Municipal Council,Government funded,$Spend per child,306.9171009
+2014,UG,,Mukono Municipal Council,Government funded,$Spend per child,272.5803048
+2014,UG,,Iganga Municipal Council,Government funded,$Spend per child,336.2038332
+2014,UG,,Masindi Municipal Council,Government funded,$Spend per child,269.4686674
+2014,UG,,Ntungamo Municipal Council,Government funded,$Spend per child,386.9419226
+2014,UG,,Busia Municipal Council,Government funded,$Spend per child,291.1087058
+2014,UG,,Bushenyi - Ishaka Municipal Council,Government funded,$Spend per child,497.1206432
+2014,UG,,Rukungiri Municipal Council,Government funded,$Spend per child,599.74434
+2014,UG,,Abim,External funding,$Spend per child,65.22456153
+2014,UG,,Adjumani,External funding,$Spend per child,1.898872071
+2014,UG,,Agago,External funding,$Spend per child,1.585982632
+2014,UG,,Alebtong,External funding,$Spend per child,0
+2014,UG,,Amolatar,External funding,$Spend per child,0
+2014,UG,,Amudat,External funding,$Spend per child,8.153726674
+2014,UG,,Amuria,External funding,$Spend per child,0
+2014,UG,,Amuru,External funding,$Spend per child,129.8678053
+2014,UG,,Apac,External funding,$Spend per child,1.922998339
+2014,UG,,Arua,External funding,$Spend per child,0
+2014,UG,,Budaka,External funding,$Spend per child,0
+2014,UG,,Bududa,External funding,$Spend per child,0
+2014,UG,,Bugiri,External funding,$Spend per child,0.576485822
+2014,UG,,Buhweju,External funding,$Spend per child,0
+2014,UG,,Buikwe,External funding,$Spend per child,0
+2014,UG,,Bukedea,External funding,$Spend per child,1.100511286
+2014,UG,,Bukomansimbi,External funding,$Spend per child,0
+2014,UG,,Bukwa,External funding,$Spend per child,0
+2014,UG,,Bulambuli,External funding,$Spend per child,0
+2014,UG,,Buliisa,External funding,$Spend per child,6.027883266
+2014,UG,,Bundibugyo,External funding,$Spend per child,6.336547647
+2014,UG,,Bushenyi,External funding,$Spend per child,0
+2014,UG,,Busia,External funding,$Spend per child,0
+2014,UG,,Butaleja,External funding,$Spend per child,0
+2014,UG,,Butambala,External funding,$Spend per child,0
+2014,UG,,Buvuma,External funding,$Spend per child,0
+2014,UG,,Buyende,External funding,$Spend per child,0
+2014,UG,,Dokolo,External funding,$Spend per child,0
+2014,UG,,Gomba,External funding,$Spend per child,0.063061788
+2014,UG,,Gulu,External funding,$Spend per child,76.26005092
+2014,UG,,Hoima,External funding,$Spend per child,0.531282711
+2014,UG,,Ibanda,External funding,$Spend per child,0
+2014,UG,,Iganga,External funding,$Spend per child,0.339984163
+2014,UG,,Isingiro,External funding,$Spend per child,0
+2014,UG,,Jinja,External funding,$Spend per child,0
+2014,UG,,Kaabong,External funding,$Spend per child,2.831890382
+2014,UG,,Kabale,External funding,$Spend per child,0
+2014,UG,,Kabarole,External funding,$Spend per child,2.939160186
+2014,UG,,Kaberamaido,External funding,$Spend per child,0
+2014,UG,,Kalangala ,External funding,$Spend per child,222.2555666
+2014,UG,,Kaliro,External funding,$Spend per child,0
+2014,UG,,Kalungu,External funding,$Spend per child,0.548317761
+2014,UG,,Kampala,External funding,$Spend per child,0
+2014,UG,,Kamuli,External funding,$Spend per child,0
+2014,UG,,Kamwenge,External funding,$Spend per child,0
+2014,UG,,Kanungu,External funding,$Spend per child,0
+2014,UG,,Kapchorwa,External funding,$Spend per child,0
+2014,UG,,Kasese,External funding,$Spend per child,0
+2014,UG,,Katakwi,External funding,$Spend per child,0
+2014,UG,,Kayunga,External funding,$Spend per child,0
+2014,UG,,Kibaale,External funding,$Spend per child,0.182335803
+2014,UG,,Kiboga,External funding,$Spend per child,0
+2014,UG,,Kibuku,External funding,$Spend per child,0
+2014,UG,,Kiruhura,External funding,$Spend per child,0
+2014,UG,,Kiryandongo,External funding,$Spend per child,0
+2014,UG,,Kisoro,External funding,$Spend per child,0.248784014
+2014,UG,,Kitgum,External funding,$Spend per child,26.54597513
+2014,UG,,Koboko,External funding,$Spend per child,0
+2014,UG,,Kole,External funding,$Spend per child,0
+2014,UG,,Kotido,External funding,$Spend per child,7.436865063
+2014,UG,,Kumi,External funding,$Spend per child,0
+2014,UG,,Kween,External funding,$Spend per child,0
+2014,UG,,Kyankwanzi,External funding,$Spend per child,0
+2014,UG,,Kyegegwa,External funding,$Spend per child,8.862039826
+2014,UG,,Kyenjojo,External funding,$Spend per child,2.532787667
+2014,UG,,Lamwo,External funding,$Spend per child,29.49369508
+2014,UG,,Lira,External funding,$Spend per child,0
+2014,UG,,Luuka,External funding,$Spend per child,0
+2014,UG,,Luweero,External funding,$Spend per child,0
+2014,UG,,Lwengo,External funding,$Spend per child,0
+2014,UG,,Lyantonde,External funding,$Spend per child,0
+2014,UG,,Manafwa,External funding,$Spend per child,0
+2014,UG,,Maracha,External funding,$Spend per child,0
+2014,UG,,Masaka ,External funding,$Spend per child,6.059933333
+2014,UG,,Masindi,External funding,$Spend per child,1.789587601
+2014,UG,,Mayuge,External funding,$Spend per child,0
+2014,UG,,Mbale,External funding,$Spend per child,0.003198735
+2014,UG,,Mbarara,External funding,$Spend per child,0
+2014,UG,,Mitooma,External funding,$Spend per child,0
+2014,UG,,Mityana,External funding,$Spend per child,0
+2014,UG,,Moroto,External funding,$Spend per child,5.96453272
+2014,UG,,Moyo,External funding,$Spend per child,0
+2014,UG,,Mpigi,External funding,$Spend per child,0
+2014,UG,,Mubende,External funding,$Spend per child,1.092582132
+2014,UG,,Mukono,External funding,$Spend per child,0
+2014,UG,,Nakapiripirit,External funding,$Spend per child,7.424075541
+2014,UG,,Nakaseke,External funding,$Spend per child,0
+2014,UG,,Nakasongola,External funding,$Spend per child,0
+2014,UG,,Namayingo,External funding,$Spend per child,0.505486934
+2014,UG,,Namutumba,External funding,$Spend per child,0
+2014,UG,,Napak,External funding,$Spend per child,1.70495571
+2014,UG,,Nebbi,External funding,$Spend per child,23.90062045
+2014,UG,,Ngora,External funding,$Spend per child,0
+2014,UG,,Ntoroko,External funding,$Spend per child,18.67915245
+2014,UG,,Ntungamo,External funding,$Spend per child,0
+2014,UG,,Nwoya,External funding,$Spend per child,978.4635545
+2014,UG,,Otuke,External funding,$Spend per child,0.802941979
+2014,UG,,Oyam,External funding,$Spend per child,50.2984
+2014,UG,,Pader ,External funding,$Spend per child,6.727482983
+2014,UG,,Pallisa,External funding,$Spend per child,0
+2014,UG,,Rakai,External funding,$Spend per child,0
+2014,UG,,Rubirizi,External funding,$Spend per child,0.686885543
+2014,UG,,Rukungiri,External funding,$Spend per child,0
+2014,UG,,Sembabule,External funding,$Spend per child,0
+2014,UG,,Serere,External funding,$Spend per child,0
+2014,UG,,Sheema,External funding,$Spend per child,1.112096111
+2014,UG,,Sironko,External funding,$Spend per child,2.455990756
+2014,UG,,Soroti,External funding,$Spend per child,0
+2014,UG,,Tororo,External funding,$Spend per child,0
+2014,UG,,Wakiso,External funding,$Spend per child,0
+2014,UG,,Yumbe,External funding,$Spend per child,0.149509064
+2014,UG,,Zombo,External funding,$Spend per child,1.898834827
+2014,UG,,Arua Municipal Council,External funding,$Spend per child,0
+2014,UG,,Entebbe Municipal Council,External funding,$Spend per child,0
+2014,UG,,Fort-Portal Municipal Council,External funding,$Spend per child,7.396394997
+2014,UG,,Gulu Municipal Council,External funding,$Spend per child,0
+2014,UG,,Jinja Municipal Council,External funding,$Spend per child,0
+2014,UG,,Kabale Municipal Council,External funding,$Spend per child,0
+2014,UG,,Lira Municipal Council,External funding,$Spend per child,0
+2014,UG,,Masaka Municipal Council,External funding,$Spend per child,1.133264865
+2014,UG,,Mbale Municipal Council,External funding,$Spend per child,0
+2014,UG,,Mbarara Municipal Council,External funding,$Spend per child,0
+2014,UG,,Moroto Municipal Council,External funding,$Spend per child,11.55444527
+2014,UG,,Soroti Municipal Council,External funding,$Spend per child,0
+2014,UG,,Tororo Municipal Council,External funding,$Spend per child,0
+2014,UG,,Kasese Municipal Council,External funding,$Spend per child,0
+2014,UG,,Hoima Municipal Council,External funding,$Spend per child,0
+2014,UG,,Mukono Municipal Council,External funding,$Spend per child,0
+2014,UG,,Iganga Municipal Council,External funding,$Spend per child,0
+2014,UG,,Masindi Municipal Council,External funding,$Spend per child,0
+2014,UG,,Ntungamo Municipal Council,External funding,$Spend per child,0
+2014,UG,,Busia Municipal Council,External funding,$Spend per child,0
+2014,UG,,Bushenyi - Ishaka Municipal Council,External funding,$Spend per child,0
+2014,UG,,Rukungiri Municipal Council,External funding,$Spend per child,0
