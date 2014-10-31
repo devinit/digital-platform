@@ -13,11 +13,11 @@ year,country,district,finance_source,"ug_dist_ed_budget_usd
 2014,UG,29,G,29223460,,Budaka
 2014,UG,30,G,26043288,,Bududa
 2014,UG,16,G,45685476,,Bugiri
-2014,UG,#N/A,G,14390928,,Buhweju
+2014,UG,76,G,14390928,,Buhweju
 2014,UG,83,G,47988940,,Buikwe
 2014,UG,31,G,33394976,,Bukedea
 2014,UG,82,G,25824060,,Bukomansimbi
-2014,UG,#N/A,G,15788092,,Bukwa
+2014,UG,32,G,15788092,,Bukwa
 2014,UG,97,G,19461936,,Bulambuli
 2014,UG,108,G,12653400,,Buliisa
 2014,UG,54,G,31089096,,Bundibugyo
@@ -39,7 +39,7 @@ year,country,district,finance_source,"ug_dist_ed_budget_usd
 2014,UG,56,G,99920844,,Kabale
 2014,UG,57,G,50121384,,Kabarole
 2014,UG,26,G,26990784,,Kaberamaido
-2014,UG,#N/A,G,7854788,,Kalangala 
+2014,UG,1,G,7854788,,Kalangala 
 2014,UG,34,G,36073708,,Kaliro
 2014,UG,80,G,35947532,,Kalungu
 2014,UG,2,G,0,,Kampala
@@ -68,12 +68,12 @@ year,country,district,finance_source,"ug_dist_ed_budget_usd
 2014,UG,71,G,19522564,,Lamwo
 2014,UG,87,G,52288080,,Lira
 2014,UG,81,G,35970960,,Luuka
-2014,UG,#N/A,G,86811128,,Luweero
+2014,UG,4,G,86811128,,Luweero
 2014,UG,102,G,41447060,,Lwengo
 2014,UG,13,G,12250124,,Lyantonde
 2014,UG,35,G,58186220,,Manafwa
 2014,UG,52,G,29104776,,Maracha
-2014,UG,#N/A,G,30439828,,Masaka 
+2014,UG,5,G,30439828,,Masaka 
 2014,UG,109,G,21932496,,Masindi
 2014,UG,27,G,51608992,,Mayuge
 2014,UG,22,G,64040096,,Mbale
@@ -88,7 +88,7 @@ year,country,district,finance_source,"ug_dist_ed_budget_usd
 2014,UG,44,G,20105220,,Nakapiripirit
 2014,UG,15,G,32567692,,Nakaseke
 2014,UG,8,G,27955004,,Nakasongola
-2014,UG,#N/A,G,21208740,,Namayingo
+2014,UG,100,G,21208740,,Namayingo
 2014,UG,36,G,33567464,,Namutumba
 2014,UG,85,G,10678124,,Napak
 2014,UG,43,G,46033668,,Nebbi
@@ -98,14 +98,14 @@ year,country,district,finance_source,"ug_dist_ed_budget_usd
 2014,UG,72,G,17333144,,Nwoya
 2014,UG,105,G,16386868,,Otuke
 2014,UG,53,G,51026708,,Oyam
-2014,UG,#N/A,G,30244028,,Pader 
+2014,UG,74,G,30244028,,Pader 
 2014,UG,23,G,49308416,,Pallisa
 2014,UG,9,G,80193860,,Rakai
-2014,UG,#N/A,G,15181908,,Rubirizi
+2014,UG,77,G,15181908,,Rubirizi
 2014,UG,63,G,52936284,,Rukungiri
-2014,UG,#N/A,G,42454620,,Sembabule
+2014,UG,10,G,42454620,,Sembabule
 2014,UG,93,G,30908256,,Serere
-2014,UG,#N/A,G,47699316,,Sheema
+2014,UG,79,G,47699316,,Sheema
 2014,UG,111,G,39332344,,Sironko
 2014,UG,24,G,37404056,,Soroti
 2014,UG,25,G,70278336,,Tororo
@@ -147,11 +147,11 @@ year,country,district,finance_source,"ug_dist_ed_budget_usd
 2014,UG,29,E,0,,Budaka
 2014,UG,30,E,0,,Bududa
 2014,UG,16,E,150300,,Bugiri
-2014,UG,#N/A,E,0,,Buhweju
+2014,UG,76,E,0,,Buhweju
 2014,UG,83,E,0,,Buikwe
 2014,UG,31,E,120020,,Bukedea
 2014,UG,82,E,0,,Bukomansimbi
-2014,UG,#N/A,E,0,,Bukwa
+2014,UG,32,E,0,,Bukwa
 2014,UG,97,E,0,,Bulambuli
 2014,UG,108,E,280000,,Buliisa
 2014,UG,54,E,974440,,Bundibugyo
@@ -173,7 +173,7 @@ year,country,district,finance_source,"ug_dist_ed_budget_usd
 2014,UG,56,E,0,,Kabale
 2014,UG,57,E,695328,,Kabarole
 2014,UG,26,E,0,,Kaberamaido
-2014,UG,#N/A,E,5350136,,Kalangala 
+2014,UG,1,E,5350136,,Kalangala 
 2014,UG,34,E,0,,Kaliro
 2014,UG,80,E,55000,,Kalungu
 2014,UG,2,E,0,,Kampala
@@ -202,12 +202,12 @@ year,country,district,finance_source,"ug_dist_ed_budget_usd
 2014,UG,71,E,2946836,,Lamwo
 2014,UG,87,E,0,,Lira
 2014,UG,81,E,0,,Luuka
-2014,UG,#N/A,E,0,,Luweero
+2014,UG,4,E,0,,Luweero
 2014,UG,102,E,0,,Lwengo
 2014,UG,13,E,0,,Lyantonde
 2014,UG,35,E,0,,Manafwa
 2014,UG,52,E,0,,Maracha
-2014,UG,#N/A,E,900800,,Masaka 
+2014,UG,5,E,900800,,Masaka 
 2014,UG,109,E,371076,,Masindi
 2014,UG,27,E,0,,Mayuge
 2014,UG,22,E,800,,Mbale
@@ -222,7 +222,7 @@ year,country,district,finance_source,"ug_dist_ed_budget_usd
 2014,UG,44,E,715156,,Nakapiripirit
 2014,UG,15,E,0,,Nakaseke
 2014,UG,8,E,0,,Nakasongola
-2014,UG,#N/A,E,69108,,Namayingo
+2014,UG,100,E,69108,,Namayingo
 2014,UG,36,E,0,,Namutumba
 2014,UG,85,E,200000,,Napak
 2014,UG,43,E,4769756,,Nebbi
@@ -232,14 +232,14 @@ year,country,district,finance_source,"ug_dist_ed_budget_usd
 2014,UG,72,E,30464952,,Nwoya
 2014,UG,105,E,40000,,Otuke
 2014,UG,53,E,11058400,,Oyam
-2014,UG,#N/A,E,898232,,Pader 
+2014,UG,74,E,898232,,Pader 
 2014,UG,23,E,0,,Pallisa
 2014,UG,9,E,0,,Rakai
-2014,UG,#N/A,E,48900,,Rubirizi
+2014,UG,77,E,48900,,Rubirizi
 2014,UG,63,E,0,,Rukungiri
-2014,UG,#N/A,E,0,,Sembabule
+2014,UG,10,E,0,,Sembabule
 2014,UG,93,E,0,,Serere
-2014,UG,#N/A,E,140000,,Sheema
+2014,UG,79,E,140000,,Sheema
 2014,UG,111,E,330080,,Sironko
 2014,UG,24,E,0,,Soroti
 2014,UG,25,E,0,,Tororo
@@ -257,274 +257,6 @@ year,country,district,finance_source,"ug_dist_ed_budget_usd
 2014,UG,#N/A,E,0,,Mbale Municipal Council
 2014,UG,#N/A,E,0,,Mbarara Municipal Council
 2014,UG,#N/A,E,88804,,Moroto Municipal Council
-2014,UG,#N/A,E,0,,Soroti Municipal Council
-2014,UG,#N/A,E,0,,Tororo Municipal Council
-2014,UG,#N/A,E,0,,Kasese Municipal Council
-2014,UG,#N/A,E,0,,Hoima Municipal Council
-2014,UG,#N/A,E,0,,Mukono Municipal Council
-2014,UG,#N/A,E,0,,Iganga Municipal Council
-2014,UG,#N/A,E,0,,Masindi Municipal Council
-2014,UG,#N/A,E,0,,Ntungamo Municipal Council
-2014,UG,#N/A,E,0,,Busia Municipal Council
-2014,UG,#N/A,E,0,,Bushenyi - Ishaka Municipal Council
-2014,UG,#N/A,E,0,,Rukungiri Municipal Council
-2014,UG,47,G,518.9627663,,Abim
-2014,UG,37,G,91.70007714,,Adjumani
-2014,UG,45,G,141.7113546,,Agago
-2014,UG,86,G,225.1903581,,Alebtong
-2014,UG,106,G,198.7560138,,Amolatar
-2014,UG,70,G,62.29847412,,Amudat
-2014,UG,28,G,132.7781468,,Amuria
-2014,UG,48,G,205.0333399,,Amuru
-2014,UG,107,G,229.7743986,,Apac
-2014,UG,38,G,239.9860461,,Arua
-2014,UG,29,G,283.5695648,,Budaka
-2014,UG,30,G,247.4572136,,Bududa
-2014,UG,16,G,175.2297352,,Bugiri
-2014,UG,#N/A,G,248.568586,,Buhweju
-2014,UG,83,G,193.9283213,,Buikwe
-2014,UG,31,G,306.2118645,,Bukedea
-2014,UG,82,G,296.217455,,Bukomansimbi
-2014,UG,#N/A,G,368.8435975,,Bukwa
-2014,UG,97,G,269.7628929,,Bulambuli
-2014,UG,108,G,272.4043504,,Buliisa
-2014,UG,54,G,202.1648722,,Bundibugyo
-2014,UG,75,G,264.2695238,,Bushenyi
-2014,UG,17,G,236.4305225,,Busia
-2014,UG,33,G,278.4476709,,Butaleja
-2014,UG,92,G,520.1608341,,Butambala
-2014,UG,101,G,110.5743014,,Buvuma
-2014,UG,96,G,190.9094944,,Buyende
-2014,UG,49,G,231.0800899,,Dokolo
-2014,UG,104,G,319.6173945,,Gomba
-2014,UG,39,G,246.1643992,,Gulu
-2014,UG,55,G,122.542198,,Hoima
-2014,UG,67,G,256.0576454,,Ibanda
-2014,UG,18,G,275.9284463,,Iganga
-2014,UG,68,G,187.888111,,Isingiro
-2014,UG,19,G,213.2508772,,Jinja
-2014,UG,50,G,122.7908791,,Kaabong
-2014,UG,56,G,356.0033334,,Kabale
-2014,UG,57,G,211.8637194,,Kabarole
-2014,UG,26,G,226.0014151,,Kaberamaido
-2014,UG,#N/A,G,326.3039216,,Kalangala 
-2014,UG,34,G,287.0647759,,Kaliro
-2014,UG,80,G,358.375823,,Kalungu
-2014,UG,2,G,0,,Kampala
-2014,UG,95,G,236.4422529,,Kamuli
-2014,UG,64,G,215.6440379,,Kamwenge
-2014,UG,65,G,295.7656799,,Kanungu
-2014,UG,112,G,352.3288994,,Kapchorwa
-2014,UG,58,G,196.2735382,,Kasese
-2014,UG,20,G,234.4335292,,Katakwi
-2014,UG,11,G,237.8449517,,Kayunga
-2014,UG,59,G,150.9420223,,Kibaale
-2014,UG,3,G,249.4314876,,Kiboga
-2014,UG,90,G,245.016422,,Kibuku
-2014,UG,69,G,157.1443312,,Kiruhura
-2014,UG,110,G,123.752833,,Kiryandongo
-2014,UG,60,G,278.8776388,,Kisoro
-2014,UG,40,G,291.7410186,,Kitgum
-2014,UG,51,G,179.5601296,,Koboko
-2014,UG,88,G,230.2210458,,Kole
-2014,UG,41,G,80.97695575,,Kotido
-2014,UG,21,G,202.042438,,Kumi
-2014,UG,98,G,217.4995242,,Kween
-2014,UG,91,G,229.0122834,,Kyankwanzi
-2014,UG,66,G,193.4663889,,Kyegegwa
-2014,UG,84,G,163.8457163,,Kyenjojo
-2014,UG,71,G,195.393483,,Lamwo
-2014,UG,87,G,221.6266186,,Lira
-2014,UG,81,G,237.6551456,,Luuka
-2014,UG,#N/A,G,328.671297,,Luweero
-2014,UG,102,G,273.7335212,,Lwengo
-2014,UG,13,G,266.9465546,,Lyantonde
-2014,UG,35,G,272.9440848,,Manafwa
-2014,UG,52,G,252.3354627,,Maracha
-2014,UG,#N/A,G,204.7772295,,Masaka 
-2014,UG,109,G,105.7738116,,Masindi
-2014,UG,27,G,183.4234428,,Mayuge
-2014,UG,22,G,256.059087,,Mbale
-2014,UG,61,G,271.7451229,,Mbarara
-2014,UG,78,G,314.0098061,,Mitooma
-2014,UG,14,G,258.1839133,,Mityana
-2014,UG,73,G,172.4954792,,Moroto
-2014,UG,42,G,97.07981449,,Moyo
-2014,UG,103,G,282.7008093,,Mpigi
-2014,UG,6,G,162.2119653,,Mubende
-2014,UG,7,G,201.1713594,,Mukono
-2014,UG,44,G,208.7134444,,Nakapiripirit
-2014,UG,15,G,293.9388705,,Nakaseke
-2014,UG,8,G,302.6599426,,Nakasongola
-2014,UG,#N/A,G,155.1302447,,Namayingo
-2014,UG,36,G,266.1701588,,Namutumba
-2014,UG,85,G,91.0286424,,Napak
-2014,UG,43,G,230.6686603,,Nebbi
-2014,UG,94,G,291.1653677,,Ngora
-2014,UG,99,G,198.2989329,,Ntoroko
-2014,UG,62,G,258.9139334,,Ntungamo
-2014,UG,72,G,556.7003581,,Nwoya
-2014,UG,105,G,328.9426057,,Otuke
-2014,UG,53,G,232.0916018,,Oyam
-2014,UG,#N/A,G,226.5185205,,Pader 
-2014,UG,23,G,225.2984627,,Pallisa
-2014,UG,9,G,286.3820958,,Rakai
-2014,UG,#N/A,G,213.256301,,Rubirizi
-2014,UG,63,G,289.4496244,,Rukungiri
-2014,UG,#N/A,G,332.0739103,,Sembabule
-2014,UG,93,G,177.9552018,,Serere
-2014,UG,#N/A,G,378.9015986,,Sheema
-2014,UG,111,G,292.6559418,,Sironko
-2014,UG,24,G,195.1130829,,Soroti
-2014,UG,25,G,249.0645187,,Tororo
-2014,UG,12,G,145.1744889,,Wakiso
-2014,UG,46,G,117.9195009,,Yumbe
-2014,UG,89,G,200.7981436,,Zombo
-2014,UG,#N/A,G,401.629856,,Arua Municipal Council
-2014,UG,#N/A,G,270.266105,,Entebbe Municipal Council
-2014,UG,#N/A,G,548.8697569,,Fort-Portal Municipal Council
-2014,UG,#N/A,G,272.7442784,,Gulu Municipal Council
-2014,UG,#N/A,G,392.2275604,,Jinja Municipal Council
-2014,UG,#N/A,G,774.3957691,,Kabale Municipal Council
-2014,UG,#N/A,G,257.3922708,,Lira Municipal Council
-2014,UG,#N/A,G,344.1439246,,Masaka Municipal Council
-2014,UG,#N/A,G,362.3785117,,Mbale Municipal Council
-2014,UG,#N/A,G,480.1607549,,Mbarara Municipal Council
-2014,UG,#N/A,G,600.6500384,,Moroto Municipal Council
-2014,UG,#N/A,G,420.3691031,,Soroti Municipal Council
-2014,UG,#N/A,G,478.1895075,,Tororo Municipal Council
-2014,UG,#N/A,G,207.8813704,,Kasese Municipal Council
-2014,UG,#N/A,G,306.9171009,,Hoima Municipal Council
-2014,UG,#N/A,G,272.5803048,,Mukono Municipal Council
-2014,UG,#N/A,G,336.2038332,,Iganga Municipal Council
-2014,UG,#N/A,G,269.4686674,,Masindi Municipal Council
-2014,UG,#N/A,G,386.9419226,,Ntungamo Municipal Council
-2014,UG,#N/A,G,291.1087058,,Busia Municipal Council
-2014,UG,#N/A,G,497.1206432,,Bushenyi - Ishaka Municipal Council
-2014,UG,#N/A,G,599.74434,,Rukungiri Municipal Council
-2014,UG,47,E,65.22456153,,Abim
-2014,UG,37,E,1.898872071,,Adjumani
-2014,UG,45,E,1.585982632,,Agago
-2014,UG,86,E,0,,Alebtong
-2014,UG,106,E,0,,Amolatar
-2014,UG,70,E,8.153726674,,Amudat
-2014,UG,28,E,0,,Amuria
-2014,UG,48,E,129.8678053,,Amuru
-2014,UG,107,E,1.922998339,,Apac
-2014,UG,38,E,0,,Arua
-2014,UG,29,E,0,,Budaka
-2014,UG,30,E,0,,Bududa
-2014,UG,16,E,0.576485822,,Bugiri
-2014,UG,#N/A,E,0,,Buhweju
-2014,UG,83,E,0,,Buikwe
-2014,UG,31,E,1.100511286,,Bukedea
-2014,UG,82,E,0,,Bukomansimbi
-2014,UG,#N/A,E,0,,Bukwa
-2014,UG,97,E,0,,Bulambuli
-2014,UG,108,E,6.027883266,,Buliisa
-2014,UG,54,E,6.336547647,,Bundibugyo
-2014,UG,75,E,0,,Bushenyi
-2014,UG,17,E,0,,Busia
-2014,UG,33,E,0,,Butaleja
-2014,UG,92,E,0,,Butambala
-2014,UG,101,E,0,,Buvuma
-2014,UG,96,E,0,,Buyende
-2014,UG,49,E,0,,Dokolo
-2014,UG,104,E,0.063061788,,Gomba
-2014,UG,39,E,76.26005092,,Gulu
-2014,UG,55,E,0.531282711,,Hoima
-2014,UG,67,E,0,,Ibanda
-2014,UG,18,E,0.339984163,,Iganga
-2014,UG,68,E,0,,Isingiro
-2014,UG,19,E,0,,Jinja
-2014,UG,50,E,2.831890382,,Kaabong
-2014,UG,56,E,0,,Kabale
-2014,UG,57,E,2.939160186,,Kabarole
-2014,UG,26,E,0,,Kaberamaido
-2014,UG,#N/A,E,222.2555666,,Kalangala 
-2014,UG,34,E,0,,Kaliro
-2014,UG,80,E,0.548317761,,Kalungu
-2014,UG,2,E,0,,Kampala
-2014,UG,95,E,0,,Kamuli
-2014,UG,64,E,0,,Kamwenge
-2014,UG,65,E,0,,Kanungu
-2014,UG,112,E,0,,Kapchorwa
-2014,UG,58,E,0,,Kasese
-2014,UG,20,E,0,,Katakwi
-2014,UG,11,E,0,,Kayunga
-2014,UG,59,E,0.182335803,,Kibaale
-2014,UG,3,E,0,,Kiboga
-2014,UG,90,E,0,,Kibuku
-2014,UG,69,E,0,,Kiruhura
-2014,UG,110,E,0,,Kiryandongo
-2014,UG,60,E,0.248784014,,Kisoro
-2014,UG,40,E,26.54597513,,Kitgum
-2014,UG,51,E,0,,Koboko
-2014,UG,88,E,0,,Kole
-2014,UG,41,E,7.436865063,,Kotido
-2014,UG,21,E,0,,Kumi
-2014,UG,98,E,0,,Kween
-2014,UG,91,E,0,,Kyankwanzi
-2014,UG,66,E,8.862039826,,Kyegegwa
-2014,UG,84,E,2.532787667,,Kyenjojo
-2014,UG,71,E,29.49369508,,Lamwo
-2014,UG,87,E,0,,Lira
-2014,UG,81,E,0,,Luuka
-2014,UG,#N/A,E,0,,Luweero
-2014,UG,102,E,0,,Lwengo
-2014,UG,13,E,0,,Lyantonde
-2014,UG,35,E,0,,Manafwa
-2014,UG,52,E,0,,Maracha
-2014,UG,#N/A,E,6.059933333,,Masaka 
-2014,UG,109,E,1.789587601,,Masindi
-2014,UG,27,E,0,,Mayuge
-2014,UG,22,E,0.003198735,,Mbale
-2014,UG,61,E,0,,Mbarara
-2014,UG,78,E,0,,Mitooma
-2014,UG,14,E,0,,Mityana
-2014,UG,73,E,5.96453272,,Moroto
-2014,UG,42,E,0,,Moyo
-2014,UG,103,E,0,,Mpigi
-2014,UG,6,E,1.092582132,,Mubende
-2014,UG,7,E,0,,Mukono
-2014,UG,44,E,7.424075541,,Nakapiripirit
-2014,UG,15,E,0,,Nakaseke
-2014,UG,8,E,0,,Nakasongola
-2014,UG,#N/A,E,0.505486934,,Namayingo
-2014,UG,36,E,0,,Namutumba
-2014,UG,85,E,1.70495571,,Napak
-2014,UG,43,E,23.90062045,,Nebbi
-2014,UG,94,E,0,,Ngora
-2014,UG,99,E,18.67915245,,Ntoroko
-2014,UG,62,E,0,,Ntungamo
-2014,UG,72,E,978.4635545,,Nwoya
-2014,UG,105,E,0.802941979,,Otuke
-2014,UG,53,E,50.2984,,Oyam
-2014,UG,#N/A,E,6.727482983,,Pader 
-2014,UG,23,E,0,,Pallisa
-2014,UG,9,E,0,,Rakai
-2014,UG,#N/A,E,0.686885543,,Rubirizi
-2014,UG,63,E,0,,Rukungiri
-2014,UG,#N/A,E,0,,Sembabule
-2014,UG,93,E,0,,Serere
-2014,UG,#N/A,E,1.112096111,,Sheema
-2014,UG,111,E,2.455990756,,Sironko
-2014,UG,24,E,0,,Soroti
-2014,UG,25,E,0,,Tororo
-2014,UG,12,E,0,,Wakiso
-2014,UG,46,E,0.149509064,,Yumbe
-2014,UG,89,E,1.898834827,,Zombo
-2014,UG,#N/A,E,0,,Arua Municipal Council
-2014,UG,#N/A,E,0,,Entebbe Municipal Council
-2014,UG,#N/A,E,7.396394997,,Fort-Portal Municipal Council
-2014,UG,#N/A,E,0,,Gulu Municipal Council
-2014,UG,#N/A,E,0,,Jinja Municipal Council
-2014,UG,#N/A,E,0,,Kabale Municipal Council
-2014,UG,#N/A,E,0,,Lira Municipal Council
-2014,UG,#N/A,E,1.133264865,,Masaka Municipal Council
-2014,UG,#N/A,E,0,,Mbale Municipal Council
-2014,UG,#N/A,E,0,,Mbarara Municipal Council
-2014,UG,#N/A,E,11.55444527,,Moroto Municipal Council
 2014,UG,#N/A,E,0,,Soroti Municipal Council
 2014,UG,#N/A,E,0,,Tororo Municipal Council
 2014,UG,#N/A,E,0,,Kasese Municipal Council
