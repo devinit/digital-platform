@@ -1,43 +1,43 @@
 country,year,category,bundle_fdi
-US,2000,Equity,15546
-US,2000,Reinvested earnings,12505
-US,2000,Other capital/Intercompany debt flows,-4252
-US,2001,Equity,4305
-US,2001,Reinvested earnings,10112
-US,2001,Other capital/Intercompany debt flows,-7150
-US,2002,Equity,10938
-US,2002,Reinvested earnings,8771
-US,2002,Other capital/Intercompany debt flows,-3408
-US,2003,Equity,3397
-US,2003,Reinvested earnings,18181
-US,2003,Other capital/Intercompany debt flows,-10665
-US,2004,Equity,59332
-US,2004,Reinvested earnings,30701
-US,2004,Other capital/Intercompany debt flows,12223
-US,2005,Equity,6788
-US,2005,Reinvested earnings,28145
-US,2005,Other capital/Intercompany debt flows,-6028
-US,2006,Equity,11126
-US,2006,Reinvested earnings,42184
-US,2006,Other capital/Intercompany debt flows,-9187
-US,2007,Equity,34153
-US,2007,Reinvested earnings,41998
-US,2007,Other capital/Intercompany debt flows,-10473
-US,2008,Equity,31367
-US,2008,Reinvested earnings,39518
-US,2008,Other capital/Intercompany debt flows,3984
-US,2009,Equity,529
-US,2009,Reinvested earnings,44540
-US,2009,Other capital/Intercompany debt flows,6565
-US,2010,Equity,-21453
-US,2010,Reinvested earnings,55037
-US,2010,Other capital/Intercompany debt flows,-19760
-US,2011,Equity,-7197
-US,2011,Reinvested earnings,58861
-US,2011,Other capital/Intercompany debt flows,-236
-US,2012,Equity,-6840
-US,2012,Reinvested earnings,47979
-US,2012,Other capital/Intercompany debt flows,10602
+US,2000,Equity,15546000000
+US,2000,Reinvested earnings,12505000000
+US,2000,Other capital/Intercompany debt flows,-4252000000
+US,2001,Equity,4305000000
+US,2001,Reinvested earnings,10112000000
+US,2001,Other capital/Intercompany debt flows,-7150000000
+US,2002,Equity,10938000000
+US,2002,Reinvested earnings,8771000000
+US,2002,Other capital/Intercompany debt flows,-3408000000
+US,2003,Equity,3397000000
+US,2003,Reinvested earnings,18181000000
+US,2003,Other capital/Intercompany debt flows,-10665000000
+US,2004,Equity,59332000000
+US,2004,Reinvested earnings,30701000000
+US,2004,Other capital/Intercompany debt flows,12223000000
+US,2005,Equity,6788000000
+US,2005,Reinvested earnings,28145000000
+US,2005,Other capital/Intercompany debt flows,-6028000000
+US,2006,Equity,11126000000
+US,2006,Reinvested earnings,42184000000
+US,2006,Other capital/Intercompany debt flows,-9187000000
+US,2007,Equity,34153000000
+US,2007,Reinvested earnings,41998000000
+US,2007,Other capital/Intercompany debt flows,-10473000000
+US,2008,Equity,31367000000
+US,2008,Reinvested earnings,39518000000
+US,2008,Other capital/Intercompany debt flows,3984000000
+US,2009,Equity,529000000
+US,2009,Reinvested earnings,44540000000
+US,2009,Other capital/Intercompany debt flows,6565000000
+US,2010,Equity,-21453000000
+US,2010,Reinvested earnings,55037000000
+US,2010,Other capital/Intercompany debt flows,-19760000000
+US,2011,Equity,-7197000000
+US,2011,Reinvested earnings,58861000000
+US,2011,Other capital/Intercompany debt flows,-236000000
+US,2012,Equity,-6840000000
+US,2012,Reinvested earnings,47979000000
+US,2012,Other capital/Intercompany debt flows,10602000000
 UK,2000,Equity,
 UK,2000,Reinvested earnings,
 UK,2000,Other capital/Intercompany debt flows,
@@ -74,9 +74,9 @@ UK,2010,Other capital/Intercompany debt flows,
 UK,2011,Equity,
 UK,2011,Reinvested earnings,
 UK,2011,Other capital/Intercompany debt flows,
-UK,2012,Equity,261.4482649
-UK,2012,Reinvested earnings,14756.77389
-UK,2012,Other capital/Intercompany debt flows,-2183.489146
+UK,2012,Equity,261448264.9
+UK,2012,Reinvested earnings,14756773890
+UK,2012,Other capital/Intercompany debt flows,-2183489146
 DE,2000,Equity,
 DE,2000,Reinvested earnings,
 DE,2000,Other capital/Intercompany debt flows,
@@ -113,9 +113,9 @@ DE,2010,Other capital/Intercompany debt flows,
 DE,2011,Equity,
 DE,2011,Reinvested earnings,
 DE,2011,Other capital/Intercompany debt flows,
-DE,2012,Equity,2295.48
-DE,2012,Reinvested earnings,3620.52
-DE,2012,Other capital/Intercompany debt flows,3232.87
+DE,2012,Equity,2295480000
+DE,2012,Reinvested earnings,3620520000
+DE,2012,Other capital/Intercompany debt flows,3232870000
 FR,2000,Equity,
 FR,2000,Reinvested earnings,
 FR,2000,Other capital/Intercompany debt flows,
@@ -152,9 +152,9 @@ FR,2010,Other capital/Intercompany debt flows,
 FR,2011,Equity,
 FR,2011,Reinvested earnings,
 FR,2011,Other capital/Intercompany debt flows,
-FR,2012,Equity,2510.282776
-FR,2012,Reinvested earnings,5731.362468
-FR,2012,Other capital/Intercompany debt flows,739.0745501
+FR,2012,Equity,2510282776
+FR,2012,Reinvested earnings,5731362468
+FR,2012,Other capital/Intercompany debt flows,739074550.1
 DK,2000,Equity,
 DK,2000,Reinvested earnings,
 DK,2000,Other capital/Intercompany debt flows,
@@ -191,6 +191,6 @@ DK,2010,Other capital/Intercompany debt flows,
 DK,2011,Equity,
 DK,2011,Reinvested earnings,
 DK,2011,Other capital/Intercompany debt flows,
-DK,2012,Equity,535.4151194
-DK,2012,Reinvested earnings,155.4430992
-DK,2012,Other capital/Intercompany debt flows,-259.071832
+DK,2012,Equity,535415119.4
+DK,2012,Reinvested earnings,155443099.2
+DK,2012,Other capital/Intercompany debt flows,-259071832
