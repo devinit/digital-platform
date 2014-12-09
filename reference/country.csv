@@ -251,43 +251,43 @@ ZM,Zambia,ZM,ZMB,288,Zambia,289,Africa (South of Sahara),298,Africa,LDCs,894,14,
 ZW,Zimbabwe,ZW,ZWE,265,Zimbabwe,289,Africa (South of Sahara),298,Africa,Other LICs,716,14,Eastern Africa,2,Africa,R,Recipient
 EU,European Union,EU,,,,,,,,,,,,,,M,Multilateral Donor
 1,AfDB,1,,,,,,,,,,,,,,M,Multilateral Donor
-2,AfDF,2,,,,,,,,,,,,,,,
-3,AFESD,3,,,,,,,,,,,,,,,
-4,Arab Fund (AFESD),4,,,,,,,,,,,,,,,
+2,AfDF,2,,,,,,,,,,,,,,M,Multilateral Donor
+3,AFESD,3,,,,,,,,,,,,,,M,Multilateral Donor
+4,Arab Fund (AFESD),4,,,,,,,,,,,,,,M,Multilateral Donor
 5,AsDB,5,,,,,,,,,,,,,,M,Multilateral Donor
-6,AsDB Special Funds,6,,,,,,,,,,,,,,,
-7,BADEA,7,,,,,,,,,,,,,,,
-8,CarDB,8,,,,,,,,,,,,,,,
-9,EBRD,9,,,,,,,,,,,,,,,
-10,GAVI,10,,,,,,,,,,,,,,,
-11,GEF,11,,,,,,,,,,,,,,,
+6,AsDB Special Funds,6,,,,,,,,,,,,,,M,Multilateral Donor
+7,BADEA,7,,,,,,,,,,,,,,M,Multilateral Donor
+8,CarDB,8,,,,,,,,,,,,,,M,Multilateral Donor
+9,EBRD,9,,,,,,,,,,,,,,M,Multilateral Donor
+10,GAVI,10,,,,,,,,,,,,,,M,Multilateral Donor
+11,GEF,11,,,,,,,,,,,,,,M,Multilateral Donor
 12,Global Fund,12,,,,,,,,,,,,,,M,Multilateral Donor
-13,IAEA,13,,,,,,,,,,,,,,,
-14,IBRD,14,,,,,,,,,,,,,,,
+13,IAEA,13,,,,,,,,,,,,,,M,Multilateral Donor
+14,IBRD,14,,,,,,,,,,,,,,M,Multilateral Donor
 15,IDA,15,,,,,,,,,,,,,,M,Multilateral Donor
-16,IDB,16,,,,,,,,,,,,,,,
-17,IDB Sp.Fund,17,,,,,,,,,,,,,,,
-18,IFAD,18,,,,,,,,,,,,,,,
-19,IFC,19,,,,,,,,,,,,,,,
+16,IDB,16,,,,,,,,,,,,,,M,Multilateral Donor
+17,IDB Sp.Fund,17,,,,,,,,,,,,,,M,Multilateral Donor
+18,IFAD,18,,,,,,,,,,,,,,M,Multilateral Donor
+19,IFC,19,,,,,,,,,,,,,,M,Multilateral Donor
 20,IMF,20,,,,,,,,,,,,,,M,Multilateral Donor
-21,IMF (Concessional Trust Funds),21,,,,,,,,,,,,,,,
-22,Isl.Dev Bank,22,,,,,,,,,,,,,,,
-23,Montreal Protocol,23,,,,,,,,,,,,,,,
-24,Nordic Dev.Fund,24,,,,,,,,,,,,,,,
-25,OFID,25,,,,,,,,,,,,,,,
-26,OSCE,26,,,,,,,,,,,,,,,
-27,UNAIDS,27,,,,,,,,,,,,,,,
-28,UNDP,28,,,,,,,,,,,,,,,
-29,UNECE,29,,,,,,,,,,,,,,,
-30,UNEP,30,,,,,,,,,,,,,,,
-31,UNFPA,31,,,,,,,,,,,,,,,
-32,UNHCR,32,,,,,,,,,,,,,,,
-33,UNICEF,33,,,,,,,,,,,,,,,
-34,UNPBF,34,,,,,,,,,,,,,,,
-35,UNRWA,35,,,,,,,,,,,,,,,
-36,UNTA,36,,,,,,,,,,,,,,,
-37,WFP,37,,,,,,,,,,,,,,,
-38,WHO,38,,,,,,,,,,,,,,,
+21,IMF (Concessional Trust Funds),21,,,,,,,,,,,,,,M,Multilateral Donor
+22,Isl.Dev Bank,22,,,,,,,,,,,,,,M,Multilateral Donor
+23,Montreal Protocol,23,,,,,,,,,,,,,,M,Multilateral Donor
+24,Nordic Dev.Fund,24,,,,,,,,,,,,,,M,Multilateral Donor
+25,OFID,25,,,,,,,,,,,,,,M,Multilateral Donor
+26,OSCE,26,,,,,,,,,,,,,,M,Multilateral Donor
+27,UNAIDS,27,,,,,,,,,,,,,,M,Multilateral Donor
+28,UNDP,28,,,,,,,,,,,,,,M,Multilateral Donor
+29,UNECE,29,,,,,,,,,,,,,,M,Multilateral Donor
+30,UNEP,30,,,,,,,,,,,,,,M,Multilateral Donor
+31,UNFPA,31,,,,,,,,,,,,,,M,Multilateral Donor
+32,UNHCR,32,,,,,,,,,,,,,,M,Multilateral Donor
+33,UNICEF,33,,,,,,,,,,,,,,M,Multilateral Donor
+34,UNPBF,34,,,,,,,,,,,,,,M,Multilateral Donor
+35,UNRWA,35,,,,,,,,,,,,,,M,Multilateral Donor
+36,UNTA,36,,,,,,,,,,,,,,M,Multilateral Donor
+37,WFP,37,,,,,,,,,,,,,,M,Multilateral Donor
+38,WHO,38,,,,,,,,,,,,,,M,Multilateral Donor
 51,"Africa, regional",51,,,,,,,,,,,,,,,
 52,"America, regional",52,,,,,,,,,,,,,,,
 53,"Asia, regional",53,,,,,,,,,,,,,,,
