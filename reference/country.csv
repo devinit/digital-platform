@@ -288,20 +288,20 @@ EU,European Union,EU,,,,,,,,,,,,,,M,Multilateral Donor
 36,UNTA,36,,,,,,,,,,,,,,M,Multilateral Donor
 37,WFP,37,,,,,,,,,,,,,,M,Multilateral Donor
 38,WHO,38,,,,,,,,,,,,,,M,Multilateral Donor
-51,"Africa, regional",51,,,,,,,,,,,,,,,
-52,"America, regional",52,,,,,,,,,,,,,,,
-53,"Asia, regional",53,,,,,,,,,,,,,,,
-54,"Central Asia, regional",54,,,,,,,,,,,,,,,
-55,"Bilateral, unspecified",55,,,,,,,,,,,,,,,
-56,"Europe, regional",56,,,,,,,,,,,,,,,
-57,"Far East Asia, regional",57,,,,,,,,,,,,,,,
-58,"Middle East, regional",58,,,,,,,,,,,,,,,
-59,"North & Central America, regional",59,,,,,,,,,,,,,,,
-60,"North of Sahara, regional",60,,,,,,,,,,,,,,,
-61,"Oceania, regional",61,,,,,,,,,,,,,,,
-62,"South & Central Asia, regional",62,,,,,,,,,,,,,,,
-63,"South America, regional",63,,,,,,,,,,,,,,,
-64,"South Asia, regional",64,,,,,,,,,,,,,,,
-65,"South of Sahara, regional",65,,,,,,,,,,,,,,,
-66,States Ex-Yugoslavia unspecified,66,,,,,,,,,,,,,,,
-67,"West Indies, regional",67,,,,,,,,,,,,,,,
+51,"Africa, regional",51,,,,,,,,,,,,,,Region,Region
+52,"America, regional",52,,,,,,,,,,,,,,Region,Region
+53,"Asia, regional",53,,,,,,,,,,,,,,Region,Region
+54,"Central Asia, regional",54,,,,,,,,,,,,,,Region,Region
+55,"Bilateral, unspecified",55,,,,,,,,,,,,,,Region,Region
+56,"Europe, regional",56,,,,,,,,,,,,,,Region,Region
+57,"Far East Asia, regional",57,,,,,,,,,,,,,,Region,Region
+58,"Middle East, regional",58,,,,,,,,,,,,,,Region,Region
+59,"North & Central America, regional",59,,,,,,,,,,,,,,Region,Region
+60,"North of Sahara, regional",60,,,,,,,,,,,,,,Region,Region
+61,"Oceania, regional",61,,,,,,,,,,,,,,Region,Region
+62,"South & Central Asia, regional",62,,,,,,,,,,,,,,Region,Region
+63,"South America, regional",63,,,,,,,,,,,,,,Region,Region
+64,"South Asia, regional",64,,,,,,,,,,,,,,Region,Region
+65,"South of Sahara, regional",65,,,,,,,,,,,,,,Region,Region
+66,States Ex-Yugoslavia unspecified,66,,,,,,,,,,,,,,Region,Region
+67,"West Indies, regional",67,,,,,,,,,,,,,,Region,Region
