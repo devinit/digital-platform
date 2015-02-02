@@ -85,6 +85,7 @@ country-year,to-oof-capital,oof,Other Official Flows,Capital repayments on OOFs 
 country-year,to-oof-interest,oof,Other Official Flows,Interest repayments on OOFs to donors,,USD,"DI, based on OECD-DAC data",,
 country-year,oda-gross-bl-dest-region,oda,Official Development Assistance,Gross ODA by donor and destination region,,USD,"DI, based on OECD-DAC data",,
 country-year,oda,oda,Official Development Assistance,Gross ODA,,USD,"DI, based on OECD-DAC data",,
+country-year,oof,oof,Other Official Flows,Gross OOF,,USD,"DI, based on OECD-DAC data",,
 country-year,income-share-bottom-20pc,,Share of income of bottom 20% of population,Share of income of bottom 20% of population,,percent,WDI,,
 country-year,income-share-top-10pc,,Share of income of top 10% of population,Share of income of top 10% of population,,percent,WDI,,
 country-year,employment-by-sector,,Emloyment % by sector,"Percentage employment in agriculture, industry & services",,percent,WDI,,
