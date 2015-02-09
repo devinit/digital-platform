@@ -9,6 +9,8 @@ country-year,employment-services,,,% of workforce employed in services,,% of wor
 reference,entity,reference,,,"id,type,name,region",ISO-3166 Alpha-2 country codes,lin,,,ISO,,2(A)
 country-year,gdp-usd-2005,simple,,Gross Domestic Product (2005 US$),"id, year, gdp-usd-2005",GDP (Constant 2005 US$),lin,,USD,,,
 country-year,gdp-usd-current,simple,,Gross Domestic Product (current US$),"id, year, gdp-usd-current",GDP (Current US$),lin,,USD,,,
+country-year,gdp-pc-usd-2005,simple,,Gross Domestic Product (2005 US$) Per Capita,"id, year, gdp-pc-usd-2005",GDP (Constant 2005 US$) Per Capita,lin,,USD,,gdp-usd-2005/population-total,
+country-year,gdp-pc-usd-current,simple,,Gross Domestic Product (current US$) Per Capita,"id, year, gdp-pc-usd-current",GDP (Current US$) Per Capita,lin,,USD,,gdp-usd-current/population-total,
 country-year,gni-usd-2005,,,Gross National Income (2005 US$),,GDP (Constant 2005 US$),lin,,USD,,,
 country-year,gni-usd-current,,,Gross National Income (current US$),,GNI (Current US$),lin,,USD,,,
 country-year,govtspend-pc,,,Government spending per person (2011 PPP$),,"Government spending per person, 2011 PPP$, net of general budget support ODA and disbursements on debt to the public sector",lin,,2011 PPP$,"Development Initiatives, based on IMF WEO, OECD DAC, World Bank","Calculated from IMF WEO data on government spending as a proportion of GDP. Receipts of general budget support ODA and disbursements on public debt are subtracted from total government spending before dividing by the population, to avoid double counting when comparing with international resource flows.",
