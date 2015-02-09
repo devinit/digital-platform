@@ -3,7 +3,7 @@ country-year,adult-literacy,simple,,"Literacy rate, adult total (% of people age
 reference,bundle,reference,,,"id, name",,lin,,,DI,,1(A)
 reference,channel,reference,,,"id, name",Channel codes,lin,,,DI (adapted from OECD),,1(A)
 country-year,employment-agriculture,,,% of workforce employed in agriculture,,% of workforce employed in agriculture,lin,,percent,WDI,,
-country-year,employment-by-sector,,,Emloyment % by sector,,"Percentage employment in agriculture, industry & services",lin,,percent,WDI,,
+country-year,employment-by-sector,composite,,Emloyment % by sector,"id, year, employment-agriculture, enployment-industry, employment-services","Percentage employment in agriculture, industry & services",lin,,percent,WDI,,
 country-year,employment-industry,,,% of workforce employed in industry,,% of workforce employed in industry,lin,,percent,WDI,,
 country-year,employment-services,,,% of workforce employed in services,,% of workforce employed in services,lin,,percent,WDI,,
 reference,entity,reference,,,"id,type,name,region",ISO-3166 Alpha-2 country codes,lin,,,ISO,,2(A)
@@ -41,10 +41,11 @@ country-year,primary-school-enrolment,simple,,"School enrolment, primary (% net)
 reference,region,,,,,DAC Recipient Code,lin,,,OECD,,
 reference,sector,reference,,,"id, name",DI grouping of CRS purpose codes,lin,,,DI,,1(A)
 country-year,taxrev-%GDP,,,Tax revenue,,Tax revenue as a proportion of GDP,lin,,% GDP,World Bank,,
-country-year,total-unemployment,,,total unemployment %,,total unemployment %,lin,,percent,WDI,,
+country-year,total-employment,simple,,total employment %,"id, year, total-employment",total employment %,lin,,percent,WDI,100%-total-employment,
+country-year,total-unemployment,simple,,total unemployment %,"id, year, total-unemployment",total unemployment %,lin,,percent,WDI,,
 country-year,under-5-mortality,simple,,"Under 5 mortality rate (per 1,000 live births)","id, year, under-5-mortality","Under 5 mortality rate (per 1,000 live births)",lin,,unit,WDI,,
 country-year,university-college-enrolment,simple,,"School enrolment, tertiary (% gross)","id, year, university-college-enrolment","School enrolment, tertiary (% gross)",lin,,percent,WDI,,
 reference,year,,,,,Calendar year,lin,,,,,yyyy
 country-year,youth-literacy,simple,,"Literacy rate, youth total (% of people ages 15-24)","id, year, youth-literacy","Literacy rate, youth total (% of people ages 15-24)",lin,,percent,WDI,,
-country-year,youth-unemployment,,,youth unemployment %,,youth unemployment %,lin,,percent,WDI,,
+country-year,youth-unemployment,simple,,youth unemployment %,"id, year, youth-unemployment",youth unemployment %,lin,,percent,WDI,,
 region-year,,,,,,,lin,,,,,

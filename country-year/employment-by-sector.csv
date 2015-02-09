@@ -1,4 +1,4 @@
-country,year,employment=agriculture,employment-industry,employment-services
+id,year,employment-agriculture,employment-industry,employment-services
 AW,2000,0.5,16.39999962,82.30000305
 AD,2000,,,
 AF,2000,,,
