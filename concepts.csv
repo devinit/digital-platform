@@ -31,7 +31,7 @@ country-year,population-rural,,,Population: rural,,Rural population,lin,,percent
 country-year,population-total,,,Total population,,Total population,lin,,percent,WDI,,
 country-year,population-urban,,,Population: urban,,Urban population,lin,,USD,"DI, based on OECD-DAC data",,
 country-year,population-urban-rural,,,Urban vs rural population level,,Urban vs rural population level,lin,,percent,WDI,,
-country-year,poverty-125,,,% of population living on less than $1.25 a day,,Percentage of population living under $1.25 per day,lin,,percent,WDI,,
+country-year,poverty-125,simple,,% of population living on less than $1.25 a day,"id, year, poverty-125",Percentage of population living under $1.25 per day,lin,,percent,WDI,,
 country-year,poverty-200,,,% of population living on less than $2 a day,,Percentage of population living under $2.00 per day,lin,,percent,WDI,,
 country-year,poverty-gap-125,,,Poverty gap at $1.25 day,,"Poverty gap is the mean shortfall from the poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence.",lin,,percent,WDI,,
 country-year,poverty-gap-2,,,Poverty gap at $2 day,,"Poverty gap is the mean shortfall from the poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence.",lin,,unit,WDI,,
