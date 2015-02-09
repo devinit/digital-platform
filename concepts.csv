@@ -18,10 +18,10 @@ country-year,govtspend-USD,,,Government spending,,"Total government spending, 20
 country-year,income-share-bottom-20pc,,income-share-by-quintile,Share of income of bottom 20% of population,,Share of income of bottom 20% of population,lin,,percent,WDI,,
 country-year,income-share-by-quintile,composite,,Income share by quintile,"id, year, income-share-bottom-20pc, income-share-second-20pc, income-share-third-20pc, income-share-fourth-20pc, income-share-highest-20pc",Percentage of income recieved by each quintile of the population,lin,,percent,WDI,,
 country-year,income-share-top-10pc,,,Share of income of top 10% of population,,Share of income of top 10% of population,lin,,percent,WDI,,
-country-year,infant-mortality,,,"Infant mortality rate (per 1,000 live births)",,"Infant mortality rate (per 1,000 live births)",lin,,unit,WDI,,
+country-year,infant-mortality,simple,,"Infant mortality rate (per 1,000 live births)","id, year, infant-mortality","Infant mortality rate (per 1,000 live births)",lin,,unit,WDI,,
 country-year,intlresources-total,,,Total international resource flows,,Total international resource flows received,lin,,constant 2012 US$ millions,Development Initiatives calculations based on numerous sources,"Is the sum of net inflows of FDI, remittances, gross ODA, gross OOFs, portfolio equity, net inflows of short-term debt, long-term debt, humanitarian assistance and peacekeeping. This series aims to estimate gross inflows so negative net inflows are excluded (set to zero). Data on peacekeeping is only available for 2012 and humanitarian assistance (excluding that reported as ODA to the OECD DAC) is only available from 2000-2012.",
-country-year,life-expectancy-at-birth,,,"Life expectancy at birth, total (years)",,"Life expectancy at birth, total (years)",lin,,unit,WDI,,
-country-year,maternal-mortality,,,"Maternal mortality rate (per 100,000 live births)",,"Maternal mortality rate (per 100,000 live births)",lin,,unit,WDI,,
+country-year,life-expectancy-at-birth,simple,,"Life expectancy at birth, total (years)","id, year, life-expectancy-at-birth","Life expectancy at birth, total (years)",lin,,unit,WDI,,
+country-year,maternal-mortality,simple,,"Maternal mortality rate (per 100,000 live births)","id, year, maternal-mortality","Maternal mortality rate (per 100,000 live births)",lin,,unit,WDI,,
 country-year,oda,multi,,Official Development Assistance,"id-from,id-to, sector, bundle, channel, type, value",Gross ODA,log,,USD,"DI, based on OECD-DAC data",,
 reference,oof-bundle,,,,,Modality of other official flows (OOFs),lin,,,DI (adapted from OECD),,1(A)
 country-year,poor-people,simple,,People living on less than $1.25 a day,"id, year, poor-people",Number of poor people living on under $1.25 per day,lin,,unit,??,Total population (from ???) * Percentage of population living in under $1.25 per day (from ???),
@@ -42,7 +42,7 @@ reference,region,,,,,DAC Recipient Code,lin,,,OECD,,
 reference,sector,reference,,,"id, name",DI grouping of CRS purpose codes,lin,,,DI,,1(A)
 country-year,taxrev-%GDP,,,Tax revenue,,Tax revenue as a proportion of GDP,lin,,% GDP,World Bank,,
 country-year,total-unemployment,,,total unemployment %,,total unemployment %,lin,,percent,WDI,,
-country-year,under-5-mortality,,,"Under 5 mortality rate (per 1,000 live births)",,"Under 5 mortality rate (per 1,000 live births)",lin,,unit,WDI,,
+country-year,under-5-mortality,simple,,"Under 5 mortality rate (per 1,000 live births)","id, year, under-5-mortality","Under 5 mortality rate (per 1,000 live births)",lin,,unit,WDI,,
 country-year,university-college-enrolment,,,"School enrolment, tertiary (% gross)",,"School enrolment, tertiary (% gross)",lin,,percent,WDI,,
 reference,year,,,,,Calendar year,lin,,,,,yyyy
 country-year,youth-literacy,,,"Literacy rate, youth total (% of people ages 15-24)",,"Literacy rate, youth total (% of people ages 15-24)",lin,,percent,WDI,,
