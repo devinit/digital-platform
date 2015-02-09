@@ -1,47 +1,47 @@
 id,type,name,region,iso-alpha-2,iso-alpha-3,income-group
-AD,country,Andorra,,AD,AND,
-AE,country,United Arab Emirates,,AE,ARE,
+AD,country,Andorra,89,AD,AND,
+AE,country,United Arab Emirates,589,AE,ARE,
 AF,country,Afghanistan,689,AF,AFG,LDCs
 AG,country,Antigua and Barbuda,389,AG,ATG,UMICs
 AI,country,Anguilla,389,AI,AIA,UMICs
 AL,country,Albania,89,AL,ALB,UMICs
 AM,country,Armenia,689,AM,ARM,LMICs
 AO,country,Angola,289,AO,AGO,LDCs
-AQ,country,Antarctica,,AQ,ATA,
+AQ,country,Antarctica,999,AQ,ATA,
 AR,country,Argentina,489,AR,ARG,UMICs
-AS,country,American Samoa,,AS,ASM,
-AT,country,Austria,,AT,AUT,
-AU,country,Australia,,AU,AUS,
-AW,country,Aruba,,AW,ABW,
-AX,country,Åland Islands,,AX,ALA,
+AS,country,American Samoa,889,AS,ASM,
+AT,country,Austria,89,AT,AUT,
+AU,country,Australia,889,AU,AUS,
+AW,country,Aruba,389,AW,ABW,
+AX,country,Åland Islands,889,AX,ALA,
 AZ,country,Azerbaijan,689,AZ,AZE,UMICs
 BA,country,Bosnia and Herzegovina,89,BA,BIH,UMICs
-BB,country,Barbados,,BB,BRB,
+BB,country,Barbados,389,BB,BRB,
 BD,country,Bangladesh,689,BD,BGD,LDCs
-BE,country,Belgium,,BE,BEL,
+BE,country,Belgium,89,BE,BEL,
 BF,country,Burkina Faso,289,BF,BFA,LDCs
-BG,country,Bulgaria,,BG,BGR,
-BH,country,Bahrain,,BH,BHR,
+BG,country,Bulgaria,89,BG,BGR,
+BH,country,Bahrain,589,BH,BHR,
 BI,country,Burundi,289,BI,BDI,LDCs
 BJ,country,Benin,289,BJ,BEN,LDCs
-BL,country,Saint Barthélemy,,BL,BLM,
-BM,country,Bermuda,,BM,BMU,
-BN,country,Brunei Darussalam,,BN,BRN,
+BL,country,Saint Barthélemy,389,BL,BLM,
+BM,country,Bermuda,389,BM,BMU,
+BN,country,Brunei Darussalam,689,BN,BRN,
 BO,country,"Bolivia, Plurinational State of",489,BO,BOL,LMICs
-BQ,country,"Bonaire, Sint Eustatius and Saba",,BQ,BES,
+BQ,country,"Bonaire, Sint Eustatius and Saba",389,BQ,BES,
 BR,country,Brazil,489,BR,BRA,UMICs
-BS,country,Bahamas,,BS,BHS,
+BS,country,Bahamas,389,BS,BHS,
 BT,country,Bhutan,689,BT,BTN,LDCs
-BV,country,Bouvet Island,,BV,BVT,
+BV,country,Bouvet Island,999,BV,BVT,
 BW,country,Botswana,289,BW,BWA,UMICs
 BY,country,Belarus,89,BY,BLR,UMICs
 BZ,country,Belize,389,BZ,BLZ,LMICs
-CA,country,Canada,,CA,CAN,
-CC,country,Cocos (Keeling) Islands,,CC,CCK,
+CA,country,Canada,389,CA,CAN,
+CC,country,Cocos (Keeling) Islands,889,CC,CCK,
 CD,country,"Congo, the Democratic Republic of the",289,CD,COD,LDCs
 CF,country,Central African Republic,289,CF,CAF,LDCs
 CG,country,Congo,289,CG,COG,LMICs
-CH,country,Switzerland,,CH,CHE,
+CH,country,Switzerland,89,CH,CHE,
 CI,country,Côte d'Ivoire,289,CI,CIV,LMICs
 CK,country,Cook Islands,889,CK,COK,UMICs
 CL,country,Chile,489,CL,CHL,UMICs
@@ -51,43 +51,43 @@ CO,country,Colombia,489,CO,COL,UMICs
 CR,country,Costa Rica,389,CR,CRI,UMICs
 CU,country,Cuba,389,CU,CUB,UMICs
 CV,country,Cape Verde,289,CV,CPV,LMICs
-CW,country,Curaçao,,CW,CUW,
-CX,country,Christmas Island,,CX,CXR,
-CY,country,Cyprus,,CY,CYP,
-CZ,country,Czech Republic,,CZ,CZE,
-DE,country,Germany,,DE,DEU,
+CW,country,Curaçao,389,CW,CUW,
+CX,country,Christmas Island,889,CX,CXR,
+CY,country,Cyprus,89,CY,CYP,
+CZ,country,Czech Republic,89,CZ,CZE,
+DE,country,Germany,89,DE,DEU,
 DJ,country,Djibouti,289,DJ,DJI,LDCs
-DK,country,Denmark,,DK,DNK,
+DK,country,Denmark,89,DK,DNK,
 DM,country,Dominica,389,DM,DMA,UMICs
 DO,country,Dominican Republic,389,DO,DOM,UMICs
 DZ,country,Algeria,189,DZ,DZA,UMICs
 EC,country,Ecuador,489,EC,ECU,UMICs
-EE,country,Estonia,,EE,EST,
+EE,country,Estonia,89,EE,EST,
 EG,country,Egypt,189,EG,EGY,LMICs
-EH,country,Western Sahara,,EH,ESH,
+EH,country,Western Sahara,189,EH,ESH,
 ER,country,Eritrea,289,ER,ERI,LDCs
-ES,country,Spain,,ES,ESP,
+ES,country,Spain,89,ES,ESP,
 ET,country,Ethiopia,289,ET,ETH,LDCs
-FI,country,Finland,,FI,FIN,
+FI,country,Finland,89,FI,FIN,
 FJ,country,Fiji,889,FJ,FJI,LMICs
-FK,country,Falkland Islands (Malvinas),,FK,FLK,
+FK,country,Falkland Islands (Malvinas),489,FK,FLK,
 FM,country,"Micronesia, Federated States of",889,FM,FSM,LMICs
-FO,country,Faroe Islands,,FO,FRO,
-FR,country,France,,FR,FRA,
+FO,country,Faroe Islands,89,FO,FRO,
+FR,country,France,89,FR,FRA,
 GA,country,Gabon,289,GA,GAB,UMICs
-GB,country,United Kingdom,,GB,GBR,
+GB,country,United Kingdom,89,GB,GBR,
 GD,country,Grenada,389,GD,GRD,UMICs
 GE,country,Georgia,689,GE,GEO,LMICs
-GF,country,French Guiana,,GF,GUF,
-GG,country,Guernsey,,GG,GGY,
+GF,country,French Guiana,489,GF,GUF,
+GG,country,Guernsey,89,GG,GGY,
 GH,country,Ghana,289,GH,GHA,LMICs
-GI,country,Gibraltar,,GI,GIB,
-GL,country,Greenland,,GL,GRL,
+GI,country,Gibraltar,89,GI,GIB,
+GL,country,Greenland,389,GL,GRL,
 GM,country,Gambia,289,GM,GMB,LDCs
 GN,country,Guinea,289,GN,GIN,LDCs
-GP,country,Guadeloupe,,GP,GLP,
+GP,country,Guadeloupe,389,GP,GLP,
 GQ,country,Equatorial Guinea,289,GQ,GNQ,LDCs
-GR,country,Greece,,GR,GRC,
+GR,country,Greece,89,GR,GRC,
 GS,country,South Georgia and the South Sandwich Islands,,GS,SGS,
 GT,country,Guatemala,389,GT,GTM,LMICs
 GU,country,Guam,,GU,GUM,
