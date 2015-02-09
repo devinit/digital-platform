@@ -1,5 +1,5 @@
 series,id,type,parent,name,columns,description,default-scale,,uom,source,calculation,format
-country-year,adult-literacy,,,"Literacy rate, adult total (% of people ages 15 and above)",,"Literacy rate, adult total (% of people ages 15 and above)",lin,,percent,WDI,,
+country-year,adult-literacy,simple,,"Literacy rate, adult total (% of people ages 15 and above)","id, year, adult-literacy","Literacy rate, adult total (% of people ages 15 and above)",lin,,percent,WDI,,
 reference,bundle,reference,,,"id, name",,lin,,,DI,,1(A)
 reference,channel,reference,,,"id, name",Channel codes,lin,,,DI (adapted from OECD),,1(A)
 country-year,employment-agriculture,,,% of workforce employed in agriculture,,% of workforce employed in agriculture,lin,,percent,WDI,,
@@ -37,14 +37,14 @@ country-year,poverty-125,simple,,% of population living on less than $1.25 a day
 country-year,poverty-200,,,% of population living on less than $2 a day,,Percentage of population living under $2.00 per day,lin,,percent,,,
 country-year,poverty-gap-125,,,Poverty gap at $1.25 day,,"Poverty gap is the mean shortfall from the poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence.",lin,,percent,WDI,,
 country-year,poverty-gap-2,,,Poverty gap at $2 day,,"Poverty gap is the mean shortfall from the poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence.",lin,,percent,WDI,,
-country-year,primary-school-enrolment,,,"School enrolment, primary (% net)",,"School enrolment, primary (% net)",lin,,percent,WDI,,
+country-year,primary-school-enrolment,simple,,"School enrolment, primary (% net)","id, year, primary-school-enrolment","School enrolment, primary (% net)",lin,,percent,WDI,,
 reference,region,,,,,DAC Recipient Code,lin,,,OECD,,
 reference,sector,reference,,,"id, name",DI grouping of CRS purpose codes,lin,,,DI,,1(A)
 country-year,taxrev-%GDP,,,Tax revenue,,Tax revenue as a proportion of GDP,lin,,% GDP,World Bank,,
 country-year,total-unemployment,,,total unemployment %,,total unemployment %,lin,,percent,WDI,,
 country-year,under-5-mortality,simple,,"Under 5 mortality rate (per 1,000 live births)","id, year, under-5-mortality","Under 5 mortality rate (per 1,000 live births)",lin,,unit,WDI,,
-country-year,university-college-enrolment,,,"School enrolment, tertiary (% gross)",,"School enrolment, tertiary (% gross)",lin,,percent,WDI,,
+country-year,university-college-enrolment,simple,,"School enrolment, tertiary (% gross)","id, year, university-college-enrolment","School enrolment, tertiary (% gross)",lin,,percent,WDI,,
 reference,year,,,,,Calendar year,lin,,,,,yyyy
-country-year,youth-literacy,,,"Literacy rate, youth total (% of people ages 15-24)",,"Literacy rate, youth total (% of people ages 15-24)",lin,,percent,WDI,,
+country-year,youth-literacy,simple,,"Literacy rate, youth total (% of people ages 15-24)","id, year, youth-literacy","Literacy rate, youth total (% of people ages 15-24)",lin,,percent,WDI,,
 country-year,youth-unemployment,,,youth unemployment %,,youth unemployment %,lin,,percent,WDI,,
 region-year,,,,,,,lin,,,,,
