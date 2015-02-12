@@ -50,4 +50,6 @@ country-year,university-college-enrolment,simple,,"School enrolment, tertiary (%
 reference,year,,,,,Calendar year,lin,,,,,yyyy
 country-year,youth-literacy,simple,,"Literacy rate, youth total (% of people ages 15-24)","id, year, value","Literacy rate, youth total (% of people ages 15-24)",lin,,percent,WDI,,
 country-year,youth-unemployment,simple,,youth unemployment %,"id, year, value",youth unemployment %,lin,,percent,WDI,,
+country-year,avg-income-of-extreme-poor,simple,,Average income of extreme poor,"id, year, value",Average income ($PPP) of people living on < $1.25/day),lin,,USD,"DI, based on WDI data",,
+country-year,mean-years-of-schooling,simple,,Mean years of schooling,"id, year, value",Mean years of schooling of adult population,lin,,Year,UN HDR,,
 region-year,,,,,,,lin,,,,,
