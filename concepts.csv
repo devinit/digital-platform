@@ -2,10 +2,10 @@ series,id,type,parent,name,columns,description,default-scale,,uom,source,calcula
 country-year,adult-literacy,simple,,"Literacy rate, adult total (% of people ages 15 and above)","id, year, value","Literacy rate, adult total (% of people ages 15 and above)",lin,,percent,WDI,,
 reference,bundle,reference,,,"id, name",,lin,,,DI,,1(A)
 reference,channel,reference,,,"id, name",Channel codes,lin,,,DI (adapted from OECD),,1(A)
-country-year,employment-agriculture,simple,,% of workforce employed in agriculture,"id, year, value",% of workforce employed in agriculture,lin,,percent,WDI,,
+country-year,employment-agriculture,embedded,employment-by-sector,% of workforce employed in agriculture,"id, year, value",% of workforce employed in agriculture,lin,,percent,WDI,,
 country-year,employment-by-sector,composite,,Emloyment % by sector,"id, year, employment-agriculture, enployment-industry, employment-services","Percentage employment in agriculture, industry & services",lin,,percent,WDI,,
-country-year,employment-industry,simple,,% of workforce employed in industry,"id, year, value",% of workforce employed in industry,lin,,percent,WDI,,
-country-year,employment-services,simple,,% of workforce employed in services,"id, year, value",% of workforce employed in services,lin,,percent,WDI,,
+country-year,employment-industry,embedded,employment-by-sector,% of workforce employed in industry,"id, year, value",% of workforce employed in industry,lin,,percent,WDI,,
+country-year,employment-services,embedded,employment-by-sector,% of workforce employed in services,"id, year, value",% of workforce employed in services,lin,,percent,WDI,,
 reference,entity,reference,,,"id,type,name,region",ISO-3166 Alpha-2 country codes,lin,,,ISO,,2(A)
 country-year,gdp-pc-usd-2005,simple,,Gross Domestic Product (2005 US$) Per Capita,"id, year, value",GDP (Constant 2005 US$) Per Capita,lin,,USD,,gdp-usd-2005/population-total,
 country-year,gdp-pc-usd-current,simple,,Gross Domestic Product (current US$) Per Capita,"id, year, value",GDP (Current US$) Per Capita,lin,,USD,,gdp-usd-current/population-total,
