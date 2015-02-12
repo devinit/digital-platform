@@ -39,6 +39,7 @@ country-year,poverty-gap-125,simple,,Poverty gap at $1.25 day,"id, year, value",
 country-year,poverty-gap-2,simple,,Poverty gap at $2 day,"id, year, value","Poverty gap is the mean shortfall from the poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence.",lin,,percent,WDI,,
 country-year,primary-school-enrolment,simple,,"School enrolment, primary (% net)","id, year, value","School enrolment, primary (% net)",lin,,percent,WDI,,
 country-year,poorest20%,,,Poorest 20%,"id, year, value",Number of people in each country that are part of the poorest 20% of people worldwide,lin,,unit,Development Initiatives calculations based on World Bank povcalnet,,
+country-year,poorest20%,,,Proportion of national population in the global poorest 20% of people,"id, year, value",Proportion of people in each country that are part of the poorest 20% of people worldwide,lin,,percent,Development Initiatives calculations based on World Bank povcalnet,,
 reference,region,,,,,DAC Recipient Code,lin,,,OECD,,
 reference,sector,reference,,,"id, name",DI grouping of CRS purpose codes,lin,,,DI,,1(A)
 country-year,taxrev-%GDP,simple,,Tax revenue,"id, year, value",Tax revenue as a proportion of GDP,lin,,% GDP,World Bank,,
