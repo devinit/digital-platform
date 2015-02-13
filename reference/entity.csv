@@ -1,307 +1,307 @@
-id,type,name,region,iso-alpha-2,iso-alpha-3,income-group,dac-id
-andorra,country,Andorra,89,AD,AND,,AD
-united-arab-emirates,country,United Arab Emirates,589,AE,ARE,,AE
-afghanistan,country,Afghanistan,689,AF,AFG,LDCs,AF
-antigua-and-barbuda,country,Antigua and Barbuda,389,AG,ATG,UMICs,AG
-anguilla,country,Anguilla,389,AI,AIA,UMICs,AI
-albania,country,Albania,89,AL,ALB,UMICs,AL
-armenia,country,Armenia,689,AM,ARM,LMICs,AM
-angola,country,Angola,289,AO,AGO,LDCs,AO
-antarctica,country,Antarctica,999,AQ,ATA,,AQ
-argentina,country,Argentina,489,AR,ARG,UMICs,AR
-american-samoa,country,American Samoa,889,AS,ASM,,AS
-austria,country,Austria,89,AT,AUT,,AT
-australia,country,Australia,889,AU,AUS,,AU
-aruba,country,Aruba,389,AW,ABW,,AW
-aland-islands,country,Åland Islands,889,AX,ALA,,AX
-azerbaijan,country,Azerbaijan,689,AZ,AZE,UMICs,AZ
-bosnia-and-herzegovina,country,Bosnia and Herzegovina,89,BA,BIH,UMICs,BA
-barbados,country,Barbados,389,BB,BRB,,BB
-bangladesh,country,Bangladesh,689,BD,BGD,LDCs,BD
-belgium,country,Belgium,89,BE,BEL,,BE
-burkina-faso,country,Burkina Faso,289,BF,BFA,LDCs,BF
-bulgaria,country,Bulgaria,89,BG,BGR,,BG
-bahrain,country,Bahrain,589,BH,BHR,,BH
-burundi,country,Burundi,289,BI,BDI,LDCs,BI
-benin,country,Benin,289,BJ,BEN,LDCs,BJ
-saint-barthelemy,country,Saint Barthélemy,389,BL,BLM,,BL
-bermuda,country,Bermuda,389,BM,BMU,,BM
-brunei-darussalam,country,Brunei Darussalam,689,BN,BRN,,BN
-bolivia-plurinational-state-of,country,"Bolivia, Plurinational State of",489,BO,BOL,LMICs,BO
-bonaire-sint-eustatius-and-saba,country,"Bonaire, Sint Eustatius and Saba",389,BQ,BES,,BQ
-brazil,country,Brazil,489,BR,BRA,UMICs,BR
-bahamas,country,Bahamas,389,BS,BHS,,BS
-bhutan,country,Bhutan,689,BT,BTN,LDCs,BT
-bouvet-island,country,Bouvet Island,999,BV,BVT,,BV
-botswana,country,Botswana,289,BW,BWA,UMICs,BW
-belarus,country,Belarus,89,BY,BLR,UMICs,BY
-belize,country,Belize,389,BZ,BLZ,LMICs,BZ
-canada,country,Canada,389,CA,CAN,,CA
-cocos-keeling-islands,country,Cocos (Keeling) Islands,889,CC,CCK,,CC
-congo-the-democratic-republic-of-the,country,"Congo, the Democratic Republic of the",289,CD,COD,LDCs,CD
-central-african-republic,country,Central African Republic,289,CF,CAF,LDCs,CF
-congo,country,Congo,289,CG,COG,LMICs,CG
-switzerland,country,Switzerland,89,CH,CHE,,CH
-cote-divoire,country,Côte d'Ivoire,289,CI,CIV,LMICs,CI
-cook-islands,country,Cook Islands,889,CK,COK,UMICs,CK
-chile,country,Chile,489,CL,CHL,UMICs,CL
-cameroon,country,Cameroon,289,CM,CMR,LMICs,CM
-china,country,China,789,CN,CHN,UMICs,CN
-colombia,country,Colombia,489,CO,COL,UMICs,CO
-costa-rica,country,Costa Rica,389,CR,CRI,UMICs,CR
-cuba,country,Cuba,389,CU,CUB,UMICs,CU
-cape-verde,country,Cape Verde,289,CV,CPV,LMICs,CV
-curacao,country,Curaçao,389,CW,CUW,,CW
-christmas-island,country,Christmas Island,889,CX,CXR,,CX
-cyprus,country,Cyprus,89,CY,CYP,,CY
-czech-republic,country,Czech Republic,89,CZ,CZE,,CZ
-germany,country,Germany,89,DE,DEU,,DE
-djibouti,country,Djibouti,289,DJ,DJI,LDCs,DJ
-denmark,country,Denmark,89,DK,DNK,,DK
-dominica,country,Dominica,389,DM,DMA,UMICs,DM
-dominican-republic,country,Dominican Republic,389,DO,DOM,UMICs,DO
-algeria,country,Algeria,189,DZ,DZA,UMICs,DZ
-ecuador,country,Ecuador,489,EC,ECU,UMICs,EC
-estonia,country,Estonia,89,EE,EST,,EE
-egypt,country,Egypt,189,EG,EGY,LMICs,EG
-western-sahara,country,Western Sahara,189,EH,ESH,,EH
-eritrea,country,Eritrea,289,ER,ERI,LDCs,ER
-spain,country,Spain,89,ES,ESP,,ES
-ethiopia,country,Ethiopia,289,ET,ETH,LDCs,ET
-finland,country,Finland,89,FI,FIN,,FI
-fiji,country,Fiji,889,FJ,FJI,LMICs,FJ
-falkland-islands-malvinas,country,Falkland Islands (Malvinas),489,FK,FLK,,FK
-micronesia-federated-states-of,country,"Micronesia, Federated States of",889,FM,FSM,LMICs,FM
-faroe-islands,country,Faroe Islands,89,FO,FRO,,FO
-france,country,France,89,FR,FRA,,FR
-gabon,country,Gabon,289,GA,GAB,UMICs,GA
-united-kingdom,country,United Kingdom,89,GB,GBR,,GB
-grenada,country,Grenada,389,GD,GRD,UMICs,GD
-georgia,country,Georgia,689,GE,GEO,LMICs,GE
-french-guiana,country,French Guiana,489,GF,GUF,,GF
-guernsey,country,Guernsey,89,GG,GGY,,GG
-ghana,country,Ghana,289,GH,GHA,LMICs,GH
-gibraltar,country,Gibraltar,89,GI,GIB,,GI
-greenland,country,Greenland,389,GL,GRL,,GL
-gambia,country,Gambia,289,GM,GMB,LDCs,GM
-guinea,country,Guinea,289,GN,GIN,LDCs,GN
-guadeloupe,country,Guadeloupe,389,GP,GLP,,GP
-equatorial-guinea,country,Equatorial Guinea,289,GQ,GNQ,LDCs,GQ
-greece,country,Greece,89,GR,GRC,,GR
-south-georgia-and-the-south-sandwich-islands,country,South Georgia and the South Sandwich Islands,999,GS,SGS,,GS
-guatemala,country,Guatemala,389,GT,GTM,LMICs,GT
-guam,country,Guam,889,GU,GUM,,GU
-guinea-bissau,country,Guinea-Bissau,289,GW,GNB,LDCs,GW
-guyana,country,Guyana,489,GY,GUY,LMICs,GY
-hong-kong,country,Hong Kong,689,HK,HKG,,HK
-heard-island-and-mcdonald-islands,country,Heard Island and McDonald Islands,999,HM,HMD,,HM
-honduras,country,Honduras,389,HN,HND,LMICs,HN
-croatia,country,Croatia,89,HR,HRV,,HR
-haiti,country,Haiti,389,HT,HTI,LDCs,HT
-hungary,country,Hungary,89,HU,HUN,,HU
-indonesia,country,Indonesia,789,ID,IDN,LMICs,ID
-ireland,country,Ireland,89,IE,IRL,,IE
-israel,country,Israel,589,IL,ISR,,IL
-isle-of-man,country,Isle of Man,89,IM,IMN,,IM
-india,country,India,689,IN,IND,LMICs,IN
-british-indian-ocean-territory,country,British Indian Ocean Territory,689,IO,IOT,,IO
-iraq,country,Iraq,589,IQ,IRQ,LMICs,IQ
-iran-islamic-republic-of,country,"Iran, Islamic Republic of",589,IR,IRN,UMICs,IR
-iceland,country,Iceland,89,IS,ISL,,IS
-italy,country,Italy,89,IT,ITA,,IT
-jersey,country,Jersey,89,JE,JEY,,JE
-jamaica,country,Jamaica,389,JM,JAM,UMICs,JM
-jordan,country,Jordan,589,JO,JOR,UMICs,JO
-japan,country,Japan,789,JP,JPN,,JP
-kenya,country,Kenya,289,KE,KEN,Other LICs,KE
-kyrgyzstan,country,Kyrgyzstan,689,KG,KGZ,Other LICs,KG
-cambodia,country,Cambodia,789,KH,KHM,LDCs,KH
-kiribati,country,Kiribati,889,KI,KIR,LDCs,KI
-comoros,country,Comoros,289,KM,COM,LDCs,KM
-saint-kitts-and-nevis,country,Saint Kitts and Nevis,389,KN,KNA,UMICs,KN
-korea-democratic-peoples-republic-of,country,"Korea, Democratic People's Republic of",789,KP,PRK,Other LICs,KP
-korea-republic-of,country,"Korea, Republic of",789,KR,KOR,,KR
-kuwait,country,Kuwait,589,KW,KWT,,KW
-cayman-islands,country,Cayman Islands,389,KY,CYM,,KY
-kazakhstan,country,Kazakhstan,689,KZ,KAZ,UMICs,KZ
-lao-peoples-democratic-republic,country,Lao People's Democratic Republic,789,LA,LAO,LDCs,LA
-lebanon,country,Lebanon,589,LB,LBN,UMICs,LB
-saint-lucia,country,Saint Lucia,389,LC,LCA,UMICs,LC
-liechtenstein,country,Liechtenstein,89,LI,LIE,,LI
-sri-lanka,country,Sri Lanka,689,LK,LKA,LMICs,LK
-liberia,country,Liberia,289,LR,LBR,LDCs,LR
-lesotho,country,Lesotho,289,LS,LSO,LDCs,LS
-lithuania,country,Lithuania,89,LT,LTU,,LT
-luxembourg,country,Luxembourg,89,LU,LUX,,LU
-latvia,country,Latvia,89,LV,LVA,,LV
-libya,country,Libya,189,LY,LBY,UMICs,LY
-morocco,country,Morocco,189,MA,MAR,LMICs,MA
-monaco,country,Monaco,89,MC,MCO,,MC
-moldova-republic-of,country,"Moldova, Republic of",89,MD,MDA,LMICs,MD
-montenegro,country,Montenegro,89,ME,MNE,UMICs,ME
-saint-martin-french-part,country,Saint Martin (French part),389,MF,MAF,,MF
-madagascar,country,Madagascar,289,MG,MDG,LDCs,MG
-marshall-islands,country,Marshall Islands,889,MH,MHL,LMICs,MH
-macedonia-the-former-yugoslav-republic-of,country,"Macedonia, the former Yugoslav Republic of",89,MK,MKD,UMICs,MK
-mali,country,Mali,289,ML,MLI,LDCs,ML
-myanmar,country,Myanmar,689,MM,MMR,LDCs,MM
-mongolia,country,Mongolia,789,MN,MNG,LMICs,MN
-macao,country,Macao,789,MO,MAC,,MO
-northern-mariana-islands,country,Northern Mariana Islands,889,MP,MNP,,MP
-martinique,country,Martinique,389,MQ,MTQ,,MQ
-mauritania,country,Mauritania,289,MR,MRT,LDCs,MR
-montserrat,country,Montserrat,389,MS,MSR,UMICs,MS
-malta,country,Malta,89,MT,MLT,,MT
-mauritius,country,Mauritius,289,MU,MUS,UMICs,MU
-maldives,country,Maldives,689,MV,MDV,UMICs,MV
-malawi,country,Malawi,289,MW,MWI,LDCs,MW
-mexico,country,Mexico,389,MX,MEX,UMICs,MX
-malaysia,country,Malaysia,789,MY,MYS,UMICs,MY
-mozambique,country,Mozambique,289,MZ,MOZ,LDCs,MZ
-namibia,country,Namibia,289,NA,NAM,UMICs,NA
-new-caledonia,country,New Caledonia,889,NC,NCL,,NC
-niger,country,Niger,289,NE,NER,LDCs,NE
-norfolk-island,country,Norfolk Island,889,NF,NFK,,NF
-nigeria,country,Nigeria,289,NG,NGA,LMICs,NG
-nicaragua,country,Nicaragua,389,NI,NIC,LMICs,NI
-netherlands,country,Netherlands,89,NL,NLD,,NL
-norway,country,Norway,89,NO,NOR,,NO
-nepal,country,Nepal,689,NP,NPL,LDCs,NP
-nauru,country,Nauru,889,NR,NRU,UMICs,NR
-niue,country,Niue,889,NU,NIU,UMICs,NU
-new-zealand,country,New Zealand,889,NZ,NZL,,NZ
-oman,country,Oman,589,OM,OMN,,OM
-panama,country,Panama,389,PA,PAN,UMICs,PA
-peru,country,Peru,489,PE,PER,UMICs,PE
-french-polynesia,country,French Polynesia,889,PF,PYF,,PF
-papua-new-guinea,country,Papua New Guinea,889,PG,PNG,LMICs,PG
-philippines,country,Philippines,789,PH,PHL,LMICs,PH
-pakistan,country,Pakistan,689,PK,PAK,LMICs,PK
-poland,country,Poland,89,PL,POL,,PL
-saint-pierre-and-miquelon,country,Saint Pierre and Miquelon,389,PM,SPM,,PM
-pitcairn,country,Pitcairn,889,PN,PCN,,PN
-puerto-rico,country,Puerto Rico,389,PR,PRI,,PR
-palestine-state-of,country,"Palestine, State of",589,PS,PSE,LMICs,PS
-portugal,country,Portugal,89,PT,PRT,,PT
-palau,country,Palau,889,PW,PLW,UMICs,PW
-paraguay,country,Paraguay,489,PY,PRY,LMICs,PY
-qatar,country,Qatar,589,QA,QAT,,QA
-reunion,country,Réunion,289,RE,REU,,RE
-romania,country,Romania,89,RO,ROU,,RO
-serbia,country,Serbia,89,RS,SRB,UMICs,RS
-russian-federation,country,Russian Federation,89,RU,RUS,,RU
-rwanda,country,Rwanda,289,RW,RWA,LDCs,RW
-saudi-arabia,country,Saudi Arabia,589,SA,SAU,,SA
-solomon-islands,country,Solomon Islands,889,SB,SLB,LDCs,SB
-seychelles,country,Seychelles,289,SC,SYC,UMICs,SC
-sudan,country,Sudan,289,SD,SDN,LDCs,SD
-sweden,country,Sweden,89,SE,SWE,,SE
-singapore,country,Singapore,689,SG,SGP,,SG
-saint-helena-ascension-and-tristan-da-cunha,country,"Saint Helena, Ascension and Tristan da Cunha",289,SH,SHN,UMICs,SH
-slovenia,country,Slovenia,89,SI,SVN,,SI
-svalbard-and-jan-mayen,country,Svalbard and Jan Mayen,89,SJ,SJM,,SJ
-slovakia,country,Slovakia,89,SK,SVK,,SK
-sierra-leone,country,Sierra Leone,289,SL,SLE,LDCs,SL
-san-marino,country,San Marino,89,SM,SMR,,SM
-senegal,country,Senegal,289,SN,SEN,LDCs,SN
-somalia,country,Somalia,289,SO,SOM,LDCs,SO
-suriname,country,Suriname,489,SR,SUR,UMICs,SR
-south-sudan,country,South Sudan,289,SS,SSD,LDCs,SS
-sao-tome-and-principe,country,Sao Tome and Principe,289,ST,STP,LDCs,ST
-el-salvador,country,El Salvador,389,SV,SLV,LMICs,SV
-sint-maarten-dutch-part,country,Sint Maarten (Dutch part),389,SX,SXM,,SX
-syrian-arab-republic,country,Syrian Arab Republic,589,SY,SYR,LMICs,SY
-swaziland,country,Swaziland,289,SZ,SWZ,LMICs,SZ
-turks-and-caicos-islands,country,Turks and Caicos Islands,389,TC,TCA,,TC
-chad,country,Chad,289,TD,TCD,LDCs,TD
-french-southern-territories,country,French Southern Territories,999,TF,ATF,,TF
-togo,country,Togo,289,TG,TGO,LDCs,TG
-thailand,country,Thailand,789,TH,THA,UMICs,TH
-tajikistan,country,Tajikistan,689,TJ,TJK,Other LICs,TJ
-tokelau,country,Tokelau,889,TK,TKL,LMICs,TK
-timor-leste,country,Timor-Leste,789,TL,TLS,LDCs,TL
-turkmenistan,country,Turkmenistan,689,TM,TKM,LMICs,TM
-tunisia,country,Tunisia,189,TN,TUN,UMICs,TN
-tonga,country,Tonga,889,TO,TON,LMICs,TO
-turkey,country,Turkey,89,TR,TUR,UMICs,TR
-trinidad-and-tobago,country,Trinidad and Tobago,89,TT,TTO,,TT
-tuvalu,country,Tuvalu,889,TV,TUV,LDCs,TV
-taiwan-province-of-china,country,"Taiwan, Province of China",789,TW,TWN,,TW
-tanzania-united-republic-of,country,"Tanzania, United Republic of",289,TZ,TZA,LDCs,TZ
-ukraine,country,Ukraine,89,UA,UKR,LMICs,UA
-uganda,country,Uganda,289,UG,UGA,LDCs,UG
-united-states-minor-outlying-islands,country,United States Minor Outlying Islands,889,UM,UMI,,UM
-united-states,country,United States,389,US,USA,,US
-uruguay,country,Uruguay,489,UY,URY,UMICs,UY
-uzbekistan,country,Uzbekistan,689,UZ,UZB,LMICs,UZ
-holy-see-vatican-city-state,country,Holy See (Vatican City State),89,VA,VAT,,VA
-saint-vincent-and-the-grenadines,country,Saint Vincent and the Grenadines,389,VC,VCT,UMICs,VC
-venezuela-bolivarian-republic-of,country,"Venezuela, Bolivarian Republic of",489,VE,VEN,UMICs,VE
-virgin-islands-british,country,"Virgin Islands, British",389,VG,VGB,,VG
-virgin-islands-us,country,"Virgin Islands, U.S.",389,VI,VIR,,VI
-viet-nam,country,Viet Nam,789,VN,VNM,LMICs,VN
-vanuatu,country,Vanuatu,889,VU,VUT,LDCs,VU
-wallis-and-futuna,country,Wallis and Futuna,889,WF,WLF,UMICs,WF
-samoa,country,Samoa,889,WS,WSM,LDCs,WS
-kosovo,country,Kosovo,89,XK,XKS,LMICs,XK
-yemen,country,Yemen,589,YE,YEM,LDCs,YE
-mayotte,country,Mayotte,289,YT,MYT,,YT
-south-africa,country,South Africa,289,ZA,ZAF,UMICs,ZA
-zambia,country,Zambia,289,ZM,ZMB,LDCs,ZM
-zimbabwe,country,Zimbabwe,289,ZW,ZWE,Other LICs,ZW
-european-union,country,European Union,89,,,,EU
-afdb,organisation,AfDB,,,,,1
-afdf,organisation,AfDF,,,,,2
-afesd,organisation,AFESD,,,,,3
-arab-fund-afesd,organisation,Arab Fund (AFESD),,,,,4
-asdb,organisation,AsDB,,,,,5
-asdb-special-funds,organisation,AsDB Special Funds,,,,,6
-badea,organisation,BADEA,,,,,7
-cardb,organisation,CarDB,,,,,8
-ebrd,organisation,EBRD,,,,,9
-gavi,organisation,GAVI,,,,,10
-gef,organisation,GEF,,,,,11
-global-fund,organisation,Global Fund,,,,,12
-iaea,organisation,IAEA,,,,,13
-ibrd,organisation,IBRD,,,,,14
-ida,organisation,IDA,,,,,15
-idb,organisation,IDB,,,,,16
-idb-specialfund,organisation,IDB Sp.Fund,,,,,17
-ifad,organisation,IFAD,,,,,18
-ifc,organisation,IFC,,,,,19
-imf,organisation,IMF,,,,,20
-imf-concessional-trust-fund,organisation,IMF (Concessional Trust Funds),,,,,21
-islamic-dev-bank,organisation,Isl.Dev Bank,,,,,22
-montreal-protocol,organisation,Montreal Protocol,,,,,23
-nordic-dev-fund,organisation,Nordic Dev.Fund,,,,,24
-ofid,organisation,OFID,,,,,25
-osce,organisation,OSCE,,,,,26
-unaids,organisation,UNAIDS,,,,,27
-undp,organisation,UNDP,,,,,28
-unece,organisation,UNECE,,,,,29
-unep,organisation,UNEP,,,,,30
-unfpa,organisation,UNFPA,,,,,31
-unhcr,organisation,UNHCR,,,,,32
-unicef,organisation,UNICEF,,,,,33
-unpbf,organisation,UNPBF,,,,,34
-unrwa,organisation,UNRWA,,,,,35
-unta,organisation,UNTA,,,,,36
-wfp,organisation,WFP,,,,,37
-who,organisation,WHO,,,,,38
-africa,region,"Africa, regional",,,,,51
-america,region,"America, regional",,,,,52
-asia,region,"Asia, regional",,,,,53
-central-asia,region,"Central Asia, regional",689,,,,54
-bilateral,region,"Bilateral, unspecified",,,,,55
-europe,region,"Europe, regional",89,,,,56
-east-asia,region,"Far East Asia, regional",789,,,,57
-middle-east,region,"Middle East, regional",589,,,,58
-north-central-america,region,"North & Central America, regional",389,,,,59
-north-of-sahara,region,"North of Sahara, regional",189,,,,60
-oceania,region,"Oceania, regional",889,,,,61
-south-central-asia,region,"South & Central Asia, regional",689,,,,62
-south-america,region,"South America, regional",489,,,,63
-south-asia,region,"South Asia, regional",689,,,,64
-south-of-sahara,region,"South of Sahara, regional",289,,,,65
-ex-yugoslavia,region,States Ex-Yugoslavia unspecified,89,,,,66
-west-indies,region,"West Indies, regional",,,,,67
+id,type,name,region,iso-alpha-2,iso-alpha-3,income-group,slug
+AD,country,Andorra,89,AD,AND,,andorra
+AE,country,United Arab Emirates,589,AE,ARE,,united-arab-emirates
+AF,country,Afghanistan,689,AF,AFG,LDCs,afghanistan
+AG,country,Antigua and Barbuda,389,AG,ATG,UMICs,antigua-and-barbuda
+AI,country,Anguilla,389,AI,AIA,UMICs,anguilla
+AL,country,Albania,89,AL,ALB,UMICs,albania
+AM,country,Armenia,689,AM,ARM,LMICs,armenia
+AO,country,Angola,289,AO,AGO,LDCs,angola
+AQ,country,Antarctica,999,AQ,ATA,,antarctica
+AR,country,Argentina,489,AR,ARG,UMICs,argentina
+AS,country,American Samoa,889,AS,ASM,,american-samoa
+AT,country,Austria,89,AT,AUT,,austria
+AU,country,Australia,889,AU,AUS,,australia
+AW,country,Aruba,389,AW,ABW,,aruba
+AX,country,Åland Islands,889,AX,ALA,,aland-islands
+AZ,country,Azerbaijan,689,AZ,AZE,UMICs,azerbaijan
+BA,country,Bosnia and Herzegovina,89,BA,BIH,UMICs,bosnia-and-herzegovina
+BB,country,Barbados,389,BB,BRB,,barbados
+BD,country,Bangladesh,689,BD,BGD,LDCs,bangladesh
+BE,country,Belgium,89,BE,BEL,,belgium
+BF,country,Burkina Faso,289,BF,BFA,LDCs,burkina-faso
+BG,country,Bulgaria,89,BG,BGR,,bulgaria
+BH,country,Bahrain,589,BH,BHR,,bahrain
+BI,country,Burundi,289,BI,BDI,LDCs,burundi
+BJ,country,Benin,289,BJ,BEN,LDCs,benin
+BL,country,Saint Barthélemy,389,BL,BLM,,saint-barthelemy
+BM,country,Bermuda,389,BM,BMU,,bermuda
+BN,country,Brunei Darussalam,689,BN,BRN,,brunei-darussalam
+BO,country,"Bolivia, Plurinational State of",489,BO,BOL,LMICs,bolivia-plurinational-state-of
+BQ,country,"Bonaire, Sint Eustatius and Saba",389,BQ,BES,,bonaire-sint-eustatius-and-saba
+BR,country,Brazil,489,BR,BRA,UMICs,brazil
+BS,country,Bahamas,389,BS,BHS,,bahamas
+BT,country,Bhutan,689,BT,BTN,LDCs,bhutan
+BV,country,Bouvet Island,999,BV,BVT,,bouvet-island
+BW,country,Botswana,289,BW,BWA,UMICs,botswana
+BY,country,Belarus,89,BY,BLR,UMICs,belarus
+BZ,country,Belize,389,BZ,BLZ,LMICs,belize
+CA,country,Canada,389,CA,CAN,,canada
+CC,country,Cocos (Keeling) Islands,889,CC,CCK,,cocos-keeling-islands
+CD,country,"Congo, the Democratic Republic of the",289,CD,COD,LDCs,congo-the-democratic-republic-of-the
+CF,country,Central African Republic,289,CF,CAF,LDCs,central-african-republic
+CG,country,Congo,289,CG,COG,LMICs,congo
+CH,country,Switzerland,89,CH,CHE,,switzerland
+CI,country,Côte d'Ivoire,289,CI,CIV,LMICs,cote-divoire
+CK,country,Cook Islands,889,CK,COK,UMICs,cook-islands
+CL,country,Chile,489,CL,CHL,UMICs,chile
+CM,country,Cameroon,289,CM,CMR,LMICs,cameroon
+CN,country,China,789,CN,CHN,UMICs,china
+CO,country,Colombia,489,CO,COL,UMICs,colombia
+CR,country,Costa Rica,389,CR,CRI,UMICs,costa-rica
+CU,country,Cuba,389,CU,CUB,UMICs,cuba
+CV,country,Cape Verde,289,CV,CPV,LMICs,cape-verde
+CW,country,Curaçao,389,CW,CUW,,curacao
+CX,country,Christmas Island,889,CX,CXR,,christmas-island
+CY,country,Cyprus,89,CY,CYP,,cyprus
+CZ,country,Czech Republic,89,CZ,CZE,,czech-republic
+DE,country,Germany,89,DE,DEU,,germany
+DJ,country,Djibouti,289,DJ,DJI,LDCs,djibouti
+DK,country,Denmark,89,DK,DNK,,denmark
+DM,country,Dominica,389,DM,DMA,UMICs,dominica
+DO,country,Dominican Republic,389,DO,DOM,UMICs,dominican-republic
+DZ,country,Algeria,189,DZ,DZA,UMICs,algeria
+EC,country,Ecuador,489,EC,ECU,UMICs,ecuador
+EE,country,Estonia,89,EE,EST,,estonia
+EG,country,Egypt,189,EG,EGY,LMICs,egypt
+EH,country,Western Sahara,189,EH,ESH,,western-sahara
+ER,country,Eritrea,289,ER,ERI,LDCs,eritrea
+ES,country,Spain,89,ES,ESP,,spain
+ET,country,Ethiopia,289,ET,ETH,LDCs,ethiopia
+FI,country,Finland,89,FI,FIN,,finland
+FJ,country,Fiji,889,FJ,FJI,LMICs,fiji
+FK,country,Falkland Islands (Malvinas),489,FK,FLK,,falkland-islands-malvinas
+FM,country,"Micronesia, Federated States of",889,FM,FSM,LMICs,micronesia-federated-states-of
+FO,country,Faroe Islands,89,FO,FRO,,faroe-islands
+FR,country,France,89,FR,FRA,,france
+GA,country,Gabon,289,GA,GAB,UMICs,gabon
+GB,country,United Kingdom,89,GB,GBR,,united-kingdom
+GD,country,Grenada,389,GD,GRD,UMICs,grenada
+GE,country,Georgia,689,GE,GEO,LMICs,georgia
+GF,country,French Guiana,489,GF,GUF,,french-guiana
+GG,country,Guernsey,89,GG,GGY,,guernsey
+GH,country,Ghana,289,GH,GHA,LMICs,ghana
+GI,country,Gibraltar,89,GI,GIB,,gibraltar
+GL,country,Greenland,389,GL,GRL,,greenland
+GM,country,Gambia,289,GM,GMB,LDCs,gambia
+GN,country,Guinea,289,GN,GIN,LDCs,guinea
+GP,country,Guadeloupe,389,GP,GLP,,guadeloupe
+GQ,country,Equatorial Guinea,289,GQ,GNQ,LDCs,equatorial-guinea
+GR,country,Greece,89,GR,GRC,,greece
+GS,country,South Georgia and the South Sandwich Islands,999,GS,SGS,,south-georgia-and-the-south-sandwich-islands
+GT,country,Guatemala,389,GT,GTM,LMICs,guatemala
+GU,country,Guam,889,GU,GUM,,guam
+GW,country,Guinea-Bissau,289,GW,GNB,LDCs,guinea-bissau
+GY,country,Guyana,489,GY,GUY,LMICs,guyana
+HK,country,Hong Kong,689,HK,HKG,,hong-kong
+HM,country,Heard Island and McDonald Islands,999,HM,HMD,,heard-island-and-mcdonald-islands
+HN,country,Honduras,389,HN,HND,LMICs,honduras
+HR,country,Croatia,89,HR,HRV,,croatia
+HT,country,Haiti,389,HT,HTI,LDCs,haiti
+HU,country,Hungary,89,HU,HUN,,hungary
+ID,country,Indonesia,789,ID,IDN,LMICs,indonesia
+IE,country,Ireland,89,IE,IRL,,ireland
+IL,country,Israel,589,IL,ISR,,israel
+IM,country,Isle of Man,89,IM,IMN,,isle-of-man
+IN,country,India,689,IN,IND,LMICs,india
+IO,country,British Indian Ocean Territory,689,IO,IOT,,british-indian-ocean-territory
+IQ,country,Iraq,589,IQ,IRQ,LMICs,iraq
+IR,country,"Iran, Islamic Republic of",589,IR,IRN,UMICs,iran-islamic-republic-of
+IS,country,Iceland,89,IS,ISL,,iceland
+IT,country,Italy,89,IT,ITA,,italy
+JE,country,Jersey,89,JE,JEY,,jersey
+JM,country,Jamaica,389,JM,JAM,UMICs,jamaica
+JO,country,Jordan,589,JO,JOR,UMICs,jordan
+JP,country,Japan,789,JP,JPN,,japan
+KE,country,Kenya,289,KE,KEN,Other LICs,kenya
+KG,country,Kyrgyzstan,689,KG,KGZ,Other LICs,kyrgyzstan
+KH,country,Cambodia,789,KH,KHM,LDCs,cambodia
+KI,country,Kiribati,889,KI,KIR,LDCs,kiribati
+KM,country,Comoros,289,KM,COM,LDCs,comoros
+KN,country,Saint Kitts and Nevis,389,KN,KNA,UMICs,saint-kitts-and-nevis
+KP,country,"Korea, Democratic People's Republic of",789,KP,PRK,Other LICs,korea-democratic-peoples-republic-of
+KR,country,"Korea, Republic of",789,KR,KOR,,korea-republic-of
+KW,country,Kuwait,589,KW,KWT,,kuwait
+KY,country,Cayman Islands,389,KY,CYM,,cayman-islands
+KZ,country,Kazakhstan,689,KZ,KAZ,UMICs,kazakhstan
+LA,country,Lao People's Democratic Republic,789,LA,LAO,LDCs,lao-peoples-democratic-republic
+LB,country,Lebanon,589,LB,LBN,UMICs,lebanon
+LC,country,Saint Lucia,389,LC,LCA,UMICs,saint-lucia
+LI,country,Liechtenstein,89,LI,LIE,,liechtenstein
+LK,country,Sri Lanka,689,LK,LKA,LMICs,sri-lanka
+LR,country,Liberia,289,LR,LBR,LDCs,liberia
+LS,country,Lesotho,289,LS,LSO,LDCs,lesotho
+LT,country,Lithuania,89,LT,LTU,,lithuania
+LU,country,Luxembourg,89,LU,LUX,,luxembourg
+LV,country,Latvia,89,LV,LVA,,latvia
+LY,country,Libya,189,LY,LBY,UMICs,libya
+MA,country,Morocco,189,MA,MAR,LMICs,morocco
+MC,country,Monaco,89,MC,MCO,,monaco
+MD,country,"Moldova, Republic of",89,MD,MDA,LMICs,moldova-republic-of
+ME,country,Montenegro,89,ME,MNE,UMICs,montenegro
+MF,country,Saint Martin (French part),389,MF,MAF,,saint-martin-french-part
+MG,country,Madagascar,289,MG,MDG,LDCs,madagascar
+MH,country,Marshall Islands,889,MH,MHL,LMICs,marshall-islands
+MK,country,"Macedonia, the former Yugoslav Republic of",89,MK,MKD,UMICs,macedonia-the-former-yugoslav-republic-of
+ML,country,Mali,289,ML,MLI,LDCs,mali
+MM,country,Myanmar,689,MM,MMR,LDCs,myanmar
+MN,country,Mongolia,789,MN,MNG,LMICs,mongolia
+MO,country,Macao,789,MO,MAC,,macao
+MP,country,Northern Mariana Islands,889,MP,MNP,,northern-mariana-islands
+MQ,country,Martinique,389,MQ,MTQ,,martinique
+MR,country,Mauritania,289,MR,MRT,LDCs,mauritania
+MS,country,Montserrat,389,MS,MSR,UMICs,montserrat
+MT,country,Malta,89,MT,MLT,,malta
+MU,country,Mauritius,289,MU,MUS,UMICs,mauritius
+MV,country,Maldives,689,MV,MDV,UMICs,maldives
+MW,country,Malawi,289,MW,MWI,LDCs,malawi
+MX,country,Mexico,389,MX,MEX,UMICs,mexico
+MY,country,Malaysia,789,MY,MYS,UMICs,malaysia
+MZ,country,Mozambique,289,MZ,MOZ,LDCs,mozambique
+NA,country,Namibia,289,NA,NAM,UMICs,namibia
+NC,country,New Caledonia,889,NC,NCL,,new-caledonia
+NE,country,Niger,289,NE,NER,LDCs,niger
+NF,country,Norfolk Island,889,NF,NFK,,norfolk-island
+NG,country,Nigeria,289,NG,NGA,LMICs,nigeria
+NI,country,Nicaragua,389,NI,NIC,LMICs,nicaragua
+NL,country,Netherlands,89,NL,NLD,,netherlands
+NO,country,Norway,89,NO,NOR,,norway
+NP,country,Nepal,689,NP,NPL,LDCs,nepal
+NR,country,Nauru,889,NR,NRU,UMICs,nauru
+NU,country,Niue,889,NU,NIU,UMICs,niue
+NZ,country,New Zealand,889,NZ,NZL,,new-zealand
+OM,country,Oman,589,OM,OMN,,oman
+PA,country,Panama,389,PA,PAN,UMICs,panama
+PE,country,Peru,489,PE,PER,UMICs,peru
+PF,country,French Polynesia,889,PF,PYF,,french-polynesia
+PG,country,Papua New Guinea,889,PG,PNG,LMICs,papua-new-guinea
+PH,country,Philippines,789,PH,PHL,LMICs,philippines
+PK,country,Pakistan,689,PK,PAK,LMICs,pakistan
+PL,country,Poland,89,PL,POL,,poland
+PM,country,Saint Pierre and Miquelon,389,PM,SPM,,saint-pierre-and-miquelon
+PN,country,Pitcairn,889,PN,PCN,,pitcairn
+PR,country,Puerto Rico,389,PR,PRI,,puerto-rico
+PS,country,"Palestine, State of",589,PS,PSE,LMICs,palestine-state-of
+PT,country,Portugal,89,PT,PRT,,portugal
+PW,country,Palau,889,PW,PLW,UMICs,palau
+PY,country,Paraguay,489,PY,PRY,LMICs,paraguay
+QA,country,Qatar,589,QA,QAT,,qatar
+RE,country,Réunion,289,RE,REU,,reunion
+RO,country,Romania,89,RO,ROU,,romania
+RS,country,Serbia,89,RS,SRB,UMICs,serbia
+RU,country,Russian Federation,89,RU,RUS,,russian-federation
+RW,country,Rwanda,289,RW,RWA,LDCs,rwanda
+SA,country,Saudi Arabia,589,SA,SAU,,saudi-arabia
+SB,country,Solomon Islands,889,SB,SLB,LDCs,solomon-islands
+SC,country,Seychelles,289,SC,SYC,UMICs,seychelles
+SD,country,Sudan,289,SD,SDN,LDCs,sudan
+SE,country,Sweden,89,SE,SWE,,sweden
+SG,country,Singapore,689,SG,SGP,,singapore
+SH,country,"Saint Helena, Ascension and Tristan da Cunha",289,SH,SHN,UMICs,saint-helena-ascension-and-tristan-da-cunha
+SI,country,Slovenia,89,SI,SVN,,slovenia
+SJ,country,Svalbard and Jan Mayen,89,SJ,SJM,,svalbard-and-jan-mayen
+SK,country,Slovakia,89,SK,SVK,,slovakia
+SL,country,Sierra Leone,289,SL,SLE,LDCs,sierra-leone
+SM,country,San Marino,89,SM,SMR,,san-marino
+SN,country,Senegal,289,SN,SEN,LDCs,senegal
+SO,country,Somalia,289,SO,SOM,LDCs,somalia
+SR,country,Suriname,489,SR,SUR,UMICs,suriname
+SS,country,South Sudan,289,SS,SSD,LDCs,south-sudan
+ST,country,Sao Tome and Principe,289,ST,STP,LDCs,sao-tome-and-principe
+SV,country,El Salvador,389,SV,SLV,LMICs,el-salvador
+SX,country,Sint Maarten (Dutch part),389,SX,SXM,,sint-maarten-dutch-part
+SY,country,Syrian Arab Republic,589,SY,SYR,LMICs,syrian-arab-republic
+SZ,country,Swaziland,289,SZ,SWZ,LMICs,swaziland
+TC,country,Turks and Caicos Islands,389,TC,TCA,,turks-and-caicos-islands
+TD,country,Chad,289,TD,TCD,LDCs,chad
+TF,country,French Southern Territories,999,TF,ATF,,french-southern-territories
+TG,country,Togo,289,TG,TGO,LDCs,togo
+TH,country,Thailand,789,TH,THA,UMICs,thailand
+TJ,country,Tajikistan,689,TJ,TJK,Other LICs,tajikistan
+TK,country,Tokelau,889,TK,TKL,LMICs,tokelau
+TL,country,Timor-Leste,789,TL,TLS,LDCs,timor-leste
+TM,country,Turkmenistan,689,TM,TKM,LMICs,turkmenistan
+TN,country,Tunisia,189,TN,TUN,UMICs,tunisia
+TO,country,Tonga,889,TO,TON,LMICs,tonga
+TR,country,Turkey,89,TR,TUR,UMICs,turkey
+TT,country,Trinidad and Tobago,89,TT,TTO,,trinidad-and-tobago
+TV,country,Tuvalu,889,TV,TUV,LDCs,tuvalu
+TW,country,"Taiwan, Province of China",789,TW,TWN,,taiwan-province-of-china
+TZ,country,"Tanzania, United Republic of",289,TZ,TZA,LDCs,tanzania-united-republic-of
+UA,country,Ukraine,89,UA,UKR,LMICs,ukraine
+UG,country,Uganda,289,UG,UGA,LDCs,uganda
+UM,country,United States Minor Outlying Islands,889,UM,UMI,,united-states-minor-outlying-islands
+US,country,United States,389,US,USA,,united-states
+UY,country,Uruguay,489,UY,URY,UMICs,uruguay
+UZ,country,Uzbekistan,689,UZ,UZB,LMICs,uzbekistan
+VA,country,Holy See (Vatican City State),89,VA,VAT,,holy-see-vatican-city-state
+VC,country,Saint Vincent and the Grenadines,389,VC,VCT,UMICs,saint-vincent-and-the-grenadines
+VE,country,"Venezuela, Bolivarian Republic of",489,VE,VEN,UMICs,venezuela-bolivarian-republic-of
+VG,country,"Virgin Islands, British",389,VG,VGB,,virgin-islands-british
+VI,country,"Virgin Islands, U.S.",389,VI,VIR,,virgin-islands-us
+VN,country,Viet Nam,789,VN,VNM,LMICs,viet-nam
+VU,country,Vanuatu,889,VU,VUT,LDCs,vanuatu
+WF,country,Wallis and Futuna,889,WF,WLF,UMICs,wallis-and-futuna
+WS,country,Samoa,889,WS,WSM,LDCs,samoa
+XK,country,Kosovo,89,XK,XKS,LMICs,kosovo
+YE,country,Yemen,589,YE,YEM,LDCs,yemen
+YT,country,Mayotte,289,YT,MYT,,mayotte
+ZA,country,South Africa,289,ZA,ZAF,UMICs,south-africa
+ZM,country,Zambia,289,ZM,ZMB,LDCs,zambia
+ZW,country,Zimbabwe,289,ZW,ZWE,Other LICs,zimbabwe
+EU,country,European Union,89,,,,european-union
+1,organisation,AfDB,,,,,afdb
+2,organisation,AfDF,,,,,afdf
+3,organisation,AFESD,,,,,afesd
+4,organisation,Arab Fund (AFESD),,,,,arab-fund-afesd
+5,organisation,AsDB,,,,,asdb
+6,organisation,AsDB Special Funds,,,,,asdb-special-funds
+7,organisation,BADEA,,,,,badea
+8,organisation,CarDB,,,,,cardb
+9,organisation,EBRD,,,,,ebrd
+10,organisation,GAVI,,,,,gavi
+11,organisation,GEF,,,,,gef
+12,organisation,Global Fund,,,,,global-fund
+13,organisation,IAEA,,,,,iaea
+14,organisation,IBRD,,,,,ibrd
+15,organisation,IDA,,,,,ida
+16,organisation,IDB,,,,,idb
+17,organisation,IDB Sp.Fund,,,,,idb-specialfund
+18,organisation,IFAD,,,,,ifad
+19,organisation,IFC,,,,,ifc
+20,organisation,IMF,,,,,imf
+21,organisation,IMF (Concessional Trust Funds),,,,,imf-concessional-trust-fund
+22,organisation,Isl.Dev Bank,,,,,islamic-dev-bank
+23,organisation,Montreal Protocol,,,,,montreal-protocol
+24,organisation,Nordic Dev.Fund,,,,,nordic-dev-fund
+25,organisation,OFID,,,,,ofid
+26,organisation,OSCE,,,,,osce
+27,organisation,UNAIDS,,,,,unaids
+28,organisation,UNDP,,,,,undp
+29,organisation,UNECE,,,,,unece
+30,organisation,UNEP,,,,,unep
+31,organisation,UNFPA,,,,,unfpa
+32,organisation,UNHCR,,,,,unhcr
+33,organisation,UNICEF,,,,,unicef
+34,organisation,UNPBF,,,,,unpbf
+35,organisation,UNRWA,,,,,unrwa
+36,organisation,UNTA,,,,,unta
+37,organisation,WFP,,,,,wfp
+38,organisation,WHO,,,,,who
+51,region,"Africa, regional",,,,,africa
+52,region,"America, regional",,,,,america
+53,region,"Asia, regional",,,,,asia
+54,region,"Central Asia, regional",689,,,,central-asia
+55,region,"Bilateral, unspecified",,,,,bilateral
+56,region,"Europe, regional",89,,,,europe
+57,region,"Far East Asia, regional",789,,,,east-asia
+58,region,"Middle East, regional",589,,,,middle-east
+59,region,"North & Central America, regional",389,,,,north-central-america
+60,region,"North of Sahara, regional",189,,,,north-of-sahara
+61,region,"Oceania, regional",889,,,,oceania
+62,region,"South & Central Asia, regional",689,,,,south-central-asia
+63,region,"South America, regional",489,,,,south-america
+64,region,"South Asia, regional",689,,,,south-asia
+65,region,"South of Sahara, regional",289,,,,south-of-sahara
+66,region,States Ex-Yugoslavia unspecified,89,,,,ex-yugoslavia
+67,region,"West Indies, regional",,,,,west-indies
