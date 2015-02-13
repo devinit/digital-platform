@@ -250,6 +250,7 @@ ZA,country,South Africa,south-of-sahara,ZA,ZAF,UMICs,south-africa,ZA
 ZM,country,Zambia,south-of-sahara,ZM,ZMB,LDCs,zambia,ZM
 ZW,country,Zimbabwe,south-of-sahara,ZW,ZWE,Other LICs,zimbabwe,ZW
 EU,country,European Union,europe,,,,european-union,EU
+country-unspecified,country,"Country, unspecified",unspecified,,,,country-unspecified,
 afdb,organisation,AfDB,,,,,afdb,1
 afdf,organisation,AfDF,,,,,afdf,2
 afesd,organisation,AFESD,,,,,afesd,3
@@ -288,6 +289,7 @@ unrwa,organisation,UNRWA,,,,,unrwa,35
 unta,organisation,UNTA,,,,,unta,36
 wfp,organisation,WFP,,,,,wfp,37
 who,organisation,WHO,,,,,who,38
+organisation-unspecified,organisation,"Organisation, unspecified",unspecified,,,,organisation-unspecified,
 africa,region,"Africa, regional",,,,,africa,51
 america,region,"America, regional",,,,,america,52
 asia,region,"Asia, regional",,,,,asia,53
@@ -305,3 +307,4 @@ south-asia,region,"South Asia, regional",south-central-asia,,,,south-asia,64
 south-of-sahara,region,"South of Sahara, regional",south-of-sahara,,,,south-of-sahara,65
 ex-yugoslavia,region,States Ex-Yugoslavia unspecified,europe,,,,ex-yugoslavia,66
 west-indies,region,"West Indies, regional",,,,,west-indies,67
+region-unspecified,region,"Region, unspecified",unspecified,,,,region-unspecified,
