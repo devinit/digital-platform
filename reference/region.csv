@@ -1,11 +1,11 @@
-region,region-name,DAC Continent Code,DAC Continent
-89,Europe,89,Europe
-189,Africa (North of Sahara),298,Africa
-289,Africa (South of Sahara),298,Africa
-389,America (North & Central America),498,America
-489,America (South America),498,America
-589,Asia (Middle East Asia),798,Asia
-689,Asia (South & Central Asia),798,Asia
-789,Asia (Far East Asia),798,Asia
-889,Oceania,889,Oceania
-999,Unspecified,999,Unspecified
+region,id,region-name,dac-continent-code,dac-continent
+89,europe,Europe,89,Europe
+189,northOfSahara,Africa (North of Sahara),298,Africa
+289,southOfSahara,Africa (South of Sahara),298,Africa
+389,northCentralAmerica,America (North & Central America),498,America
+489,southAmerica,America (South America),498,America
+589,middleEast,Asia (Middle East Asia),798,Asia
+689,southCentralAsia,Asia (South & Central Asia),798,Asia
+789,eastAsia,Asia (Far East Asia),798,Asia
+889,oceania,Oceania,889,Oceania
+999,unspecified,Unspecified,999,Unspecified
