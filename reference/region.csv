@@ -1,11 +1,11 @@
-id,region-name,dac-continent-code,dac-continent,slug
-89,Europe,89,Europe,europe
-189,Africa (North of Sahara),298,Africa,north-of-sahara
-289,Africa (South of Sahara),298,Africa,south-of-sahara
-389,America (North & Central America),498,America,north-central-america
-489,America (South America),498,America,south-america
-589,Asia (Middle East Asia),798,Asia,middle-east
-689,Asia (South & Central Asia),798,Asia,south-central-asia
-789,Asia (Far East Asia),798,Asia,east-asia
-889,Oceania,889,Oceania,oceania
-999,Unspecified,999,Unspecified,unspecified
+id,region-name,dac-continent-code,dac-continent,dac-id
+europe,Europe,89,Europe,89
+north-of-sahara,Africa (North of Sahara),298,Africa,189
+south-of-sahara,Africa (South of Sahara),298,Africa,289
+north-central-america,America (North & Central America),498,America,389
+south-america,America (South America),498,America,489
+middle-east,Asia (Middle East Asia),798,Asia,589
+south-central-asia,Asia (South & Central Asia),798,Asia,689
+east-asia,Asia (Far East Asia),798,Asia,789
+oceania,Oceania,889,Oceania,889
+unspecified,Unspecified,999,Unspecified,999
