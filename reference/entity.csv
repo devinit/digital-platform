@@ -1,618 +1,310 @@
-id,type,name,region,iso-alpha-2,iso-alpha-3,income-group,donor-recipient-type,
-AD,country,Andorra,89,AD,AND,,,
-AE,country,United Arab Emirates,589,AE,ARE,,donor,
-AF,country,Afghanistan,689,AF,AFG,LDCs,recipient,
-AG,country,Antigua and Barbuda,389,AG,ATG,UMICs,recipient,
-AI,country,Anguilla,389,AI,AIA,UMICs,recipient,
-AL,country,Albania,89,AL,ALB,UMICs,recipient,
-AM,country,Armenia,689,AM,ARM,LMICs,recipient,
-AO,country,Angola,289,AO,AGO,LDCs,recipient,
-AQ,country,Antarctica,999,AQ,ATA,,,
-AR,country,Argentina,489,AR,ARG,UMICs,recipient,
-AS,country,American Samoa,889,AS,ASM,,,
-AT,country,Austria,89,AT,AUT,,donor,
-AU,country,Australia,889,AU,AUS,,donor,
-AW,country,Aruba,389,AW,ABW,,,
-AX,country,Åland Islands,889,AX,ALA,,,
-AZ,country,Azerbaijan,689,AZ,AZE,UMICs,recipient,
-BA,country,Bosnia and Herzegovina,89,BA,BIH,UMICs,recipient,
-BB,country,Barbados,389,BB,BRB,,recipient,
-BD,country,Bangladesh,689,BD,BGD,LDCs,recipient,
-BE,country,Belgium,89,BE,BEL,,donor,
-BF,country,Burkina Faso,289,BF,BFA,LDCs,recipient,
-BG,country,Bulgaria,89,BG,BGR,,donor,
-BH,country,Bahrain,589,BH,BHR,,recipient,
-BI,country,Burundi,289,BI,BDI,LDCs,recipient,
-BJ,country,Benin,289,BJ,BEN,LDCs,recipient,
-BL,country,Saint Barthélemy,389,BL,BLM,,,
-BM,country,Bermuda,389,BM,BMU,,,
-BN,country,Brunei Darussalam,689,BN,BRN,,,
-BO,country,"Bolivia, Plurinational State of",489,BO,BOL,LMICs,recipient,
-BQ,country,"Bonaire, Sint Eustatius and Saba",389,BQ,BES,,,
-BR,country,Brazil,489,BR,BRA,UMICs,crossover,
-BS,country,Bahamas,389,BS,BHS,,,
-BT,country,Bhutan,689,BT,BTN,LDCs,recipient,
-BV,country,Bouvet Island,999,BV,BVT,,,
-BW,country,Botswana,289,BW,BWA,UMICs,recipient,
-BY,country,Belarus,89,BY,BLR,UMICs,recipient,
-BZ,country,Belize,389,BZ,BLZ,LMICs,recipient,
-CA,country,Canada,389,CA,CAN,,donor,
-CC,country,Cocos (Keeling) Islands,889,CC,CCK,,,
-CD,country,"Congo, the Democratic Republic of the",289,CD,COD,LDCs,recipient,
-CF,country,Central African Republic,289,CF,CAF,LDCs,recipient,
-CG,country,Congo,289,CG,COG,LMICs,recipient,
-CH,country,Switzerland,89,CH,CHE,,donor,
-CI,country,Côte d'Ivoire,289,CI,CIV,LMICs,recipient,
-CK,country,Cook Islands,889,CK,COK,UMICs,recipient,
-CL,country,Chile,489,CL,CHL,UMICs,recipient,
-CM,country,Cameroon,289,CM,CMR,LMICs,recipient,
-CN,country,China,789,CN,CHN,UMICs,crossover,
-CO,country,Colombia,489,CO,COL,UMICs,recipient,
-CR,country,Costa Rica,389,CR,CRI,UMICs,recipient,
-CU,country,Cuba,389,CU,CUB,UMICs,recipient,
-CV,country,Cape Verde,289,CV,CPV,LMICs,recipient,
-CW,country,Curaçao,389,CW,CUW,,,
-CX,country,Christmas Island,889,CX,CXR,,,
-CY,country,Cyprus,89,CY,CYP,,donor,
-CZ,country,Czech Republic,89,CZ,CZE,,donor,
-DE,country,Germany,89,DE,DEU,,donor,
-DJ,country,Djibouti,289,DJ,DJI,LDCs,recipient,
-DK,country,Denmark,89,DK,DNK,,donor,
-DM,country,Dominica,389,DM,DMA,UMICs,recipient,
-DO,country,Dominican Republic,389,DO,DOM,UMICs,recipient,
-DZ,country,Algeria,189,DZ,DZA,UMICs,recipient,
-EC,country,Ecuador,489,EC,ECU,UMICs,recipient,
-EE,country,Estonia,89,EE,EST,,donor,
-EG,country,Egypt,189,EG,EGY,LMICs,recipient,
-EH,country,Western Sahara,189,EH,ESH,,,
-ER,country,Eritrea,289,ER,ERI,LDCs,recipient,
-ES,country,Spain,89,ES,ESP,,donor,
-ET,country,Ethiopia,289,ET,ETH,LDCs,recipient,
-FI,country,Finland,89,FI,FIN,,donor,
-FJ,country,Fiji,889,FJ,FJI,LMICs,recipient,
-FK,country,Falkland Islands (Malvinas),489,FK,FLK,,,
-FM,country,"Micronesia, Federated States of",889,FM,FSM,LMICs,recipient,
-FO,country,Faroe Islands,89,FO,FRO,,,
-FR,country,France,89,FR,FRA,,donor,
-GA,country,Gabon,289,GA,GAB,UMICs,recipient,
-GB,country,United Kingdom,89,GB,GBR,,donor,
-GD,country,Grenada,389,GD,GRD,UMICs,recipient,
-GE,country,Georgia,689,GE,GEO,LMICs,recipient,
-GF,country,French Guiana,489,GF,GUF,,,
-GG,country,Guernsey,89,GG,GGY,,,
-GH,country,Ghana,289,GH,GHA,LMICs,recipient,
-GI,country,Gibraltar,89,GI,GIB,,,
-GL,country,Greenland,389,GL,GRL,,,
-GM,country,Gambia,289,GM,GMB,LDCs,recipient,
-GN,country,Guinea,289,GN,GIN,LDCs,recipient,
-GP,country,Guadeloupe,389,GP,GLP,,,
-GQ,country,Equatorial Guinea,289,GQ,GNQ,LDCs,recipient,
-GR,country,Greece,89,GR,GRC,,donor,
-GS,country,South Georgia and the South Sandwich Islands,999,GS,SGS,,,
-GT,country,Guatemala,389,GT,GTM,LMICs,recipient,
-GU,country,Guam,889,GU,GUM,,,
-GW,country,Guinea-Bissau,289,GW,GNB,LDCs,recipient,
-GY,country,Guyana,489,GY,GUY,LMICs,recipient,
-HK,country,Hong Kong,689,HK,HKG,,,
-HM,country,Heard Island and McDonald Islands,999,HM,HMD,,,
-HN,country,Honduras,389,HN,HND,LMICs,recipient,
-HR,country,Croatia,89,HR,HRV,,crossover,
-HT,country,Haiti,389,HT,HTI,LDCs,recipient,
-HU,country,Hungary,89,HU,HUN,,donor,
-ID,country,Indonesia,789,ID,IDN,LMICs,recipient,
-IE,country,Ireland,89,IE,IRL,,donor,
-IL,country,Israel,589,IL,ISR,,donor,
-IM,country,Isle of Man,89,IM,IMN,,,
-IN,country,India,689,IN,IND,LMICs,crossover,
-IO,country,British Indian Ocean Territory,689,IO,IOT,,,
-IQ,country,Iraq,589,IQ,IRQ,LMICs,recipient,
-IR,country,"Iran, Islamic Republic of",589,IR,IRN,UMICs,recipient,
-IS,country,Iceland,89,IS,ISL,,donor,
-IT,country,Italy,89,IT,ITA,,donor,
-JE,country,Jersey,89,JE,JEY,,,
-JM,country,Jamaica,389,JM,JAM,UMICs,recipient,
-JO,country,Jordan,589,JO,JOR,UMICs,recipient,
-JP,country,Japan,789,JP,JPN,,donor,
-KE,country,Kenya,289,KE,KEN,Other LICs,recipient,
-KG,country,Kyrgyzstan,689,KG,KGZ,Other LICs,recipient,
-KH,country,Cambodia,789,KH,KHM,LDCs,recipient,
-KI,country,Kiribati,889,KI,KIR,LDCs,recipient,
-KM,country,Comoros,289,KM,COM,LDCs,recipient,
-KN,country,Saint Kitts and Nevis,389,KN,KNA,UMICs,recipient,
-KP,country,"Korea, Democratic People's Republic of",789,KP,PRK,Other LICs,recipient,
-KR,country,"Korea, Republic of",789,KR,KOR,,donor,
-KW,country,Kuwait,589,KW,KWT,,donor,
-KY,country,Cayman Islands,389,KY,CYM,,,
-KZ,country,Kazakhstan,689,KZ,KAZ,UMICs,recipient,
-LA,country,Lao People's Democratic Republic,789,LA,LAO,LDCs,recipient,
-LB,country,Lebanon,589,LB,LBN,UMICs,recipient,
-LC,country,Saint Lucia,389,LC,LCA,UMICs,recipient,
-LI,country,Liechtenstein,89,LI,LIE,,donor,
-LK,country,Sri Lanka,689,LK,LKA,LMICs,recipient,
-LR,country,Liberia,289,LR,LBR,LDCs,recipient,
-LS,country,Lesotho,289,LS,LSO,LDCs,recipient,
-LT,country,Lithuania,89,LT,LTU,,donor,
-LU,country,Luxembourg,89,LU,LUX,,donor,
-LV,country,Latvia,89,LV,LVA,,donor,
-LY,country,Libya,189,LY,LBY,UMICs,recipient,
-MA,country,Morocco,189,MA,MAR,LMICs,recipient,
-MC,country,Monaco,89,MC,MCO,,,
-MD,country,"Moldova, Republic of",89,MD,MDA,LMICs,recipient,
-ME,country,Montenegro,89,ME,MNE,UMICs,recipient,
-MF,country,Saint Martin (French part),389,MF,MAF,,,
-MG,country,Madagascar,289,MG,MDG,LDCs,recipient,
-MH,country,Marshall Islands,889,MH,MHL,LMICs,recipient,
-MK,country,"Macedonia, the former Yugoslav Republic of",89,MK,MKD,UMICs,recipient,
-ML,country,Mali,289,ML,MLI,LDCs,recipient,
-MM,country,Myanmar,689,MM,MMR,LDCs,recipient,
-MN,country,Mongolia,789,MN,MNG,LMICs,recipient,
-MO,country,Macao,789,MO,MAC,,,
-MP,country,Northern Mariana Islands,889,MP,MNP,,,
-MQ,country,Martinique,389,MQ,MTQ,,,
-MR,country,Mauritania,289,MR,MRT,LDCs,recipient,
-MS,country,Montserrat,389,MS,MSR,UMICs,recipient,
-MT,country,Malta,89,MT,MLT,,crossover,
-MU,country,Mauritius,289,MU,MUS,UMICs,recipient,
-MV,country,Maldives,689,MV,MDV,UMICs,recipient,
-MW,country,Malawi,289,MW,MWI,LDCs,recipient,
-MX,country,Mexico,389,MX,MEX,UMICs,recipient,
-MY,country,Malaysia,789,MY,MYS,UMICs,recipient,
-MZ,country,Mozambique,289,MZ,MOZ,LDCs,recipient,
-NA,country,Namibia,289,NA,NAM,UMICs,recipient,
-NC,country,New Caledonia,889,NC,NCL,,,
-NE,country,Niger,289,NE,NER,LDCs,recipient,
-NF,country,Norfolk Island,889,NF,NFK,,,
-NG,country,Nigeria,289,NG,NGA,LMICs,recipient,
-NI,country,Nicaragua,389,NI,NIC,LMICs,recipient,
-NL,country,Netherlands,89,NL,NLD,,donor,
-NO,country,Norway,89,NO,NOR,,donor,
-NP,country,Nepal,689,NP,NPL,LDCs,recipient,
-NR,country,Nauru,889,NR,NRU,UMICs,recipient,
-NU,country,Niue,889,NU,NIU,UMICs,recipient,
-NZ,country,New Zealand,889,NZ,NZL,,donor,
-OM,country,Oman,589,OM,OMN,,recipient,
-PA,country,Panama,389,PA,PAN,UMICs,recipient,
-PE,country,Peru,489,PE,PER,UMICs,recipient,
-PF,country,French Polynesia,889,PF,PYF,,,
-PG,country,Papua New Guinea,889,PG,PNG,LMICs,recipient,
-PH,country,Philippines,789,PH,PHL,LMICs,recipient,
-PK,country,Pakistan,689,PK,PAK,LMICs,recipient,
-PL,country,Poland,89,PL,POL,,donor,
-PM,country,Saint Pierre and Miquelon,389,PM,SPM,,,
-PN,country,Pitcairn,889,PN,PCN,,,
-PR,country,Puerto Rico,389,PR,PRI,,,
-PS,country,"Palestine, State of",589,PS,PSE,LMICs,recipient,
-PT,country,Portugal,89,PT,PRT,,donor,
-PW,country,Palau,889,PW,PLW,UMICs,recipient,
-PY,country,Paraguay,489,PY,PRY,LMICs,recipient,
-QA,country,Qatar,589,QA,QAT,,,
-RE,country,Réunion,289,RE,REU,,,
-RO,country,Romania,89,RO,ROU,,donor,
-RS,country,Serbia,89,RS,SRB,UMICs,recipient,
-RU,country,Russian Federation,89,RU,RUS,,donor,
-RW,country,Rwanda,289,RW,RWA,LDCs,recipient,
-SA,country,Saudi Arabia,589,SA,SAU,,crossover,
-SB,country,Solomon Islands,889,SB,SLB,LDCs,recipient,
-SC,country,Seychelles,289,SC,SYC,UMICs,recipient,
-SD,country,Sudan,289,SD,SDN,LDCs,recipient,
-SE,country,Sweden,89,SE,SWE,,donor,
-SG,country,Singapore,689,SG,SGP,,,
-SH,country,"Saint Helena, Ascension and Tristan da Cunha",289,SH,SHN,UMICs,recipient,
-SI,country,Slovenia,89,SI,SVN,,crossover,
-SJ,country,Svalbard and Jan Mayen,89,SJ,SJM,,,
-SK,country,Slovakia,89,SK,SVK,,donor,
-SL,country,Sierra Leone,289,SL,SLE,LDCs,recipient,
-SM,country,San Marino,89,SM,SMR,,,
-SN,country,Senegal,289,SN,SEN,LDCs,recipient,
-SO,country,Somalia,289,SO,SOM,LDCs,recipient,
-SR,country,Suriname,489,SR,SUR,UMICs,recipient,
-SS,country,South Sudan,289,SS,SSD,LDCs,recipient,
-ST,country,Sao Tome and Principe,289,ST,STP,LDCs,recipient,
-SV,country,El Salvador,389,SV,SLV,LMICs,recipient,
-SX,country,Sint Maarten (Dutch part),389,SX,SXM,,,
-SY,country,Syrian Arab Republic,589,SY,SYR,LMICs,recipient,
-SZ,country,Swaziland,289,SZ,SWZ,LMICs,recipient,
-TC,country,Turks and Caicos Islands,389,TC,TCA,,recipient,
-TD,country,Chad,289,TD,TCD,LDCs,recipient,
-TF,country,French Southern Territories,999,TF,ATF,,,
-TG,country,Togo,289,TG,TGO,LDCs,recipient,
-TH,country,Thailand,789,TH,THA,UMICs,crossover,
-TJ,country,Tajikistan,689,TJ,TJK,Other LICs,recipient,
-TK,country,Tokelau,889,TK,TKL,LMICs,recipient,
-TL,country,Timor-Leste,789,TL,TLS,LDCs,recipient,
-TM,country,Turkmenistan,689,TM,TKM,LMICs,recipient,
-TN,country,Tunisia,189,TN,TUN,UMICs,recipient,
-TO,country,Tonga,889,TO,TON,LMICs,recipient,
-TR,country,Turkey,89,TR,TUR,UMICs,crossover,
-TT,country,Trinidad and Tobago,89,TT,TTO,,recipient,
-TV,country,Tuvalu,889,TV,TUV,LDCs,recipient,
-TW,country,"Taiwan, Province of China",789,TW,TWN,,donor,
-TZ,country,"Tanzania, United Republic of",289,TZ,TZA,LDCs,recipient,
-UA,country,Ukraine,89,UA,UKR,LMICs,recipient,
-UG,country,Uganda,289,UG,UGA,LDCs,recipient,
-UM,country,United States Minor Outlying Islands,889,UM,UMI,,,
-US,country,United States,389,US,USA,,donor,
-UY,country,Uruguay,489,UY,URY,UMICs,recipient,
-UZ,country,Uzbekistan,689,UZ,UZB,LMICs,recipient,
-VA,country,Holy See (Vatican City State),89,VA,VAT,,,
-VC,country,Saint Vincent and the Grenadines,389,VC,VCT,UMICs,recipient,
-VE,country,"Venezuela, Bolivarian Republic of",489,VE,VEN,UMICs,recipient,
-VG,country,"Virgin Islands, British",389,VG,VGB,,,
-VI,country,"Virgin Islands, U.S.",389,VI,VIR,,,
-VN,country,Viet Nam,789,VN,VNM,LMICs,recipient,
-VU,country,Vanuatu,889,VU,VUT,LDCs,recipient,
-WF,country,Wallis and Futuna,889,WF,WLF,UMICs,recipient,
-WS,country,Samoa,889,WS,WSM,LDCs,recipient,
-XK,country,Kosovo,89,XK,XKS,LMICs,recipient,
-YE,country,Yemen,589,YE,YEM,LDCs,recipient,
-YT,country,Mayotte,289,YT,MYT,,recipient,
-ZA,country,South Africa,289,ZA,ZAF,UMICs,crossover,
-ZM,country,Zambia,289,ZM,ZMB,LDCs,recipient,
-ZW,country,Zimbabwe,289,ZW,ZWE,Other LICs,recipient,
-EU,country,European Union,89,,,,multilateral,
-1,organisation,AfDB,,,,,multilateral,
-2,organisation,AfDF,,,,,multilateral,
-3,organisation,AFESD,,,,,multilateral,
-4,organisation,Arab Fund (AFESD),,,,,multilateral,
-5,organisation,AsDB,,,,,multilateral,
-6,organisation,AsDB Special Funds,,,,,multilateral,
-7,organisation,BADEA,,,,,multilateral,
-8,organisation,CarDB,,,,,multilateral,
-9,organisation,EBRD,,,,,multilateral,
-10,organisation,GAVI,,,,,multilateral,
-11,organisation,GEF,,,,,multilateral,
-12,organisation,Global Fund,,,,,multilateral,
-13,organisation,IAEA,,,,,multilateral,
-14,organisation,IBRD,,,,,multilateral,
-15,organisation,IDA,,,,,multilateral,
-16,organisation,IDB,,,,,multilateral,
-17,organisation,IDB Sp.Fund,,,,,multilateral,
-18,organisation,IFAD,,,,,multilateral,
-19,organisation,IFC,,,,,multilateral,
-20,organisation,IMF,,,,,multilateral,
-21,organisation,IMF (Concessional Trust Funds),,,,,multilateral,
-22,organisation,Isl.Dev Bank,,,,,multilateral,
-23,organisation,Montreal Protocol,,,,,multilateral,
-24,organisation,Nordic Dev.Fund,,,,,multilateral,
-25,organisation,OFID,,,,,multilateral,
-26,organisation,OSCE,,,,,multilateral,
-27,organisation,UNAIDS,,,,,multilateral,
-28,organisation,UNDP,,,,,multilateral,
-29,organisation,UNECE,,,,,multilateral,
-30,organisation,UNEP,,,,,multilateral,
-31,organisation,UNFPA,,,,,multilateral,
-32,organisation,UNHCR,,,,,multilateral,
-33,organisation,UNICEF,,,,,multilateral,
-34,organisation,UNPBF,,,,,multilateral,
-35,organisation,UNRWA,,,,,multilateral,
-36,organisation,UNTA,,,,,multilateral,
-37,organisation,WFP,,,,,multilateral,
-38,organisation,WHO,,,,,multilateral,
-51,region,"Africa, regional",,,,,region,
-52,region,"America, regional",,,,,region,
-53,region,"Asia, regional",,,,,region,
-54,region,"Central Asia, regional",689,,,,region,
-55,region,"Bilateral, unspecified",,,,,region,
-56,region,"Europe, regional",89,,,,region,
-57,region,"Far East Asia, regional",789,,,,region,
-58,region,"Middle East, regional",589,,,,region,
-59,region,"North & Central America, regional",389,,,,region,
-60,region,"North of Sahara, regional",189,,,,region,
-61,region,"Oceania, regional",889,,,,region,
-62,region,"South & Central Asia, regional",689,,,,region,
-63,region,"South America, regional",489,,,,region,
-64,region,"South Asia, regional",689,,,,region,
-65,region,"South of Sahara, regional",289,,,,region,
-66,region,States Ex-Yugoslavia unspecified,89,,,,region,
-67,region,"West Indies, regional",,,,,region,
-=======,,,,,,,,
-id,type,name,region,iso-alpha-2,iso-alpha-3,income-group,slug,dac-id
-AD,country,Andorra,europe,AD,AND,,andorra,AD
-AE,country,United Arab Emirates,middle-east,AE,ARE,,united-arab-emirates,AE
-AF,country,Afghanistan,south-central-asia,AF,AFG,LDCs,afghanistan,AF
-AG,country,Antigua and Barbuda,north-central-america,AG,ATG,UMICs,antigua-and-barbuda,AG
-AI,country,Anguilla,north-central-america,AI,AIA,UMICs,anguilla,AI
-AL,country,Albania,europe,AL,ALB,UMICs,albania,AL
-AM,country,Armenia,south-central-asia,AM,ARM,LMICs,armenia,AM
-AO,country,Angola,south-of-sahara,AO,AGO,LDCs,angola,AO
-AQ,country,Antarctica,unspecified,AQ,ATA,,antarctica,AQ
-AR,country,Argentina,south-america,AR,ARG,UMICs,argentina,AR
-AS,country,American Samoa,oceania,AS,ASM,,american-samoa,AS
-AT,country,Austria,europe,AT,AUT,,austria,AT
-AU,country,Australia,oceania,AU,AUS,,australia,AU
-AW,country,Aruba,north-central-america,AW,ABW,,aruba,AW
-AX,country,Åland Islands,oceania,AX,ALA,,aland-islands,AX
-AZ,country,Azerbaijan,south-central-asia,AZ,AZE,UMICs,azerbaijan,AZ
-BA,country,Bosnia and Herzegovina,europe,BA,BIH,UMICs,bosnia-and-herzegovina,BA
-BB,country,Barbados,north-central-america,BB,BRB,,barbados,BB
-BD,country,Bangladesh,south-central-asia,BD,BGD,LDCs,bangladesh,BD
-BE,country,Belgium,europe,BE,BEL,,belgium,BE
-BF,country,Burkina Faso,south-of-sahara,BF,BFA,LDCs,burkina-faso,BF
-BG,country,Bulgaria,europe,BG,BGR,,bulgaria,BG
-BH,country,Bahrain,middle-east,BH,BHR,,bahrain,BH
-BI,country,Burundi,south-of-sahara,BI,BDI,LDCs,burundi,BI
-BJ,country,Benin,south-of-sahara,BJ,BEN,LDCs,benin,BJ
-BL,country,Saint Barthélemy,north-central-america,BL,BLM,,saint-barthelemy,BL
-BM,country,Bermuda,north-central-america,BM,BMU,,bermuda,BM
-BN,country,Brunei Darussalam,south-central-asia,BN,BRN,,brunei-darussalam,BN
-BO,country,"Bolivia, Plurinational State of",south-america,BO,BOL,LMICs,bolivia-plurinational-state-of,BO
-BQ,country,"Bonaire, Sint Eustatius and Saba",north-central-america,BQ,BES,,bonaire-sint-eustatius-and-saba,BQ
-BR,country,Brazil,south-america,BR,BRA,UMICs,brazil,BR
-BS,country,Bahamas,north-central-america,BS,BHS,,bahamas,BS
-BT,country,Bhutan,south-central-asia,BT,BTN,LDCs,bhutan,BT
-BV,country,Bouvet Island,unspecified,BV,BVT,,bouvet-island,BV
-BW,country,Botswana,south-of-sahara,BW,BWA,UMICs,botswana,BW
-BY,country,Belarus,europe,BY,BLR,UMICs,belarus,BY
-BZ,country,Belize,north-central-america,BZ,BLZ,LMICs,belize,BZ
-CA,country,Canada,north-central-america,CA,CAN,,canada,CA
-CC,country,Cocos (Keeling) Islands,oceania,CC,CCK,,cocos-keeling-islands,CC
-CD,country,"Congo, the Democratic Republic of the",south-of-sahara,CD,COD,LDCs,congo-the-democratic-republic-of-the,CD
-CF,country,Central African Republic,south-of-sahara,CF,CAF,LDCs,central-african-republic,CF
-CG,country,Congo,south-of-sahara,CG,COG,LMICs,congo,CG
-CH,country,Switzerland,europe,CH,CHE,,switzerland,CH
-CI,country,Côte d'Ivoire,south-of-sahara,CI,CIV,LMICs,cote-divoire,CI
-CK,country,Cook Islands,oceania,CK,COK,UMICs,cook-islands,CK
-CL,country,Chile,south-america,CL,CHL,UMICs,chile,CL
-CM,country,Cameroon,south-of-sahara,CM,CMR,LMICs,cameroon,CM
-CN,country,China,east-asia,CN,CHN,UMICs,china,CN
-CO,country,Colombia,south-america,CO,COL,UMICs,colombia,CO
-CR,country,Costa Rica,north-central-america,CR,CRI,UMICs,costa-rica,CR
-CU,country,Cuba,north-central-america,CU,CUB,UMICs,cuba,CU
-CV,country,Cape Verde,south-of-sahara,CV,CPV,LMICs,cape-verde,CV
-CW,country,Curaçao,north-central-america,CW,CUW,,curacao,CW
-CX,country,Christmas Island,oceania,CX,CXR,,christmas-island,CX
-CY,country,Cyprus,europe,CY,CYP,,cyprus,CY
-CZ,country,Czech Republic,europe,CZ,CZE,,czech-republic,CZ
-DE,country,Germany,europe,DE,DEU,,germany,DE
-DJ,country,Djibouti,south-of-sahara,DJ,DJI,LDCs,djibouti,DJ
-DK,country,Denmark,europe,DK,DNK,,denmark,DK
-DM,country,Dominica,north-central-america,DM,DMA,UMICs,dominica,DM
-DO,country,Dominican Republic,north-central-america,DO,DOM,UMICs,dominican-republic,DO
-DZ,country,Algeria,north-of-sahara,DZ,DZA,UMICs,algeria,DZ
-EC,country,Ecuador,south-america,EC,ECU,UMICs,ecuador,EC
-EE,country,Estonia,europe,EE,EST,,estonia,EE
-EG,country,Egypt,north-of-sahara,EG,EGY,LMICs,egypt,EG
-EH,country,Western Sahara,north-of-sahara,EH,ESH,,western-sahara,EH
-ER,country,Eritrea,south-of-sahara,ER,ERI,LDCs,eritrea,ER
-ES,country,Spain,europe,ES,ESP,,spain,ES
-ET,country,Ethiopia,south-of-sahara,ET,ETH,LDCs,ethiopia,ET
-FI,country,Finland,europe,FI,FIN,,finland,FI
-FJ,country,Fiji,oceania,FJ,FJI,LMICs,fiji,FJ
-FK,country,Falkland Islands (Malvinas),south-america,FK,FLK,,falkland-islands-malvinas,FK
-FM,country,"Micronesia, Federated States of",oceania,FM,FSM,LMICs,micronesia-federated-states-of,FM
-FO,country,Faroe Islands,europe,FO,FRO,,faroe-islands,FO
-FR,country,France,europe,FR,FRA,,france,FR
-GA,country,Gabon,south-of-sahara,GA,GAB,UMICs,gabon,GA
-GB,country,United Kingdom,europe,GB,GBR,,united-kingdom,GB
-GD,country,Grenada,north-central-america,GD,GRD,UMICs,grenada,GD
-GE,country,Georgia,south-central-asia,GE,GEO,LMICs,georgia,GE
-GF,country,French Guiana,south-america,GF,GUF,,french-guiana,GF
-GG,country,Guernsey,europe,GG,GGY,,guernsey,GG
-GH,country,Ghana,south-of-sahara,GH,GHA,LMICs,ghana,GH
-GI,country,Gibraltar,europe,GI,GIB,,gibraltar,GI
-GL,country,Greenland,north-central-america,GL,GRL,,greenland,GL
-GM,country,Gambia,south-of-sahara,GM,GMB,LDCs,gambia,GM
-GN,country,Guinea,south-of-sahara,GN,GIN,LDCs,guinea,GN
-GP,country,Guadeloupe,north-central-america,GP,GLP,,guadeloupe,GP
-GQ,country,Equatorial Guinea,south-of-sahara,GQ,GNQ,LDCs,equatorial-guinea,GQ
-GR,country,Greece,europe,GR,GRC,,greece,GR
-GS,country,South Georgia and the South Sandwich Islands,unspecified,GS,SGS,,south-georgia-and-the-south-sandwich-islands,GS
-GT,country,Guatemala,north-central-america,GT,GTM,LMICs,guatemala,GT
-GU,country,Guam,oceania,GU,GUM,,guam,GU
-GW,country,Guinea-Bissau,south-of-sahara,GW,GNB,LDCs,guinea-bissau,GW
-GY,country,Guyana,south-america,GY,GUY,LMICs,guyana,GY
-HK,country,Hong Kong,south-central-asia,HK,HKG,,hong-kong,HK
-HM,country,Heard Island and McDonald Islands,unspecified,HM,HMD,,heard-island-and-mcdonald-islands,HM
-HN,country,Honduras,north-central-america,HN,HND,LMICs,honduras,HN
-HR,country,Croatia,europe,HR,HRV,,croatia,HR
-HT,country,Haiti,north-central-america,HT,HTI,LDCs,haiti,HT
-HU,country,Hungary,europe,HU,HUN,,hungary,HU
-ID,country,Indonesia,east-asia,ID,IDN,LMICs,indonesia,ID
-IE,country,Ireland,europe,IE,IRL,,ireland,IE
-IL,country,Israel,middle-east,IL,ISR,,israel,IL
-IM,country,Isle of Man,europe,IM,IMN,,isle-of-man,IM
-IN,country,India,south-central-asia,IN,IND,LMICs,india,IN
-IO,country,British Indian Ocean Territory,south-central-asia,IO,IOT,,british-indian-ocean-territory,IO
-IQ,country,Iraq,middle-east,IQ,IRQ,LMICs,iraq,IQ
-IR,country,"Iran, Islamic Republic of",middle-east,IR,IRN,UMICs,iran-islamic-republic-of,IR
-IS,country,Iceland,europe,IS,ISL,,iceland,IS
-IT,country,Italy,europe,IT,ITA,,italy,IT
-JE,country,Jersey,europe,JE,JEY,,jersey,JE
-JM,country,Jamaica,north-central-america,JM,JAM,UMICs,jamaica,JM
-JO,country,Jordan,middle-east,JO,JOR,UMICs,jordan,JO
-JP,country,Japan,east-asia,JP,JPN,,japan,JP
-KE,country,Kenya,south-of-sahara,KE,KEN,Other LICs,kenya,KE
-KG,country,Kyrgyzstan,south-central-asia,KG,KGZ,Other LICs,kyrgyzstan,KG
-KH,country,Cambodia,east-asia,KH,KHM,LDCs,cambodia,KH
-KI,country,Kiribati,oceania,KI,KIR,LDCs,kiribati,KI
-KM,country,Comoros,south-of-sahara,KM,COM,LDCs,comoros,KM
-KN,country,Saint Kitts and Nevis,north-central-america,KN,KNA,UMICs,saint-kitts-and-nevis,KN
-KP,country,"Korea, Democratic People's Republic of",east-asia,KP,PRK,Other LICs,korea-democratic-peoples-republic-of,KP
-KR,country,"Korea, Republic of",east-asia,KR,KOR,,korea-republic-of,KR
-KW,country,Kuwait,middle-east,KW,KWT,,kuwait,KW
-KY,country,Cayman Islands,north-central-america,KY,CYM,,cayman-islands,KY
-KZ,country,Kazakhstan,south-central-asia,KZ,KAZ,UMICs,kazakhstan,KZ
-LA,country,Lao People's Democratic Republic,east-asia,LA,LAO,LDCs,lao-peoples-democratic-republic,LA
-LB,country,Lebanon,middle-east,LB,LBN,UMICs,lebanon,LB
-LC,country,Saint Lucia,north-central-america,LC,LCA,UMICs,saint-lucia,LC
-LI,country,Liechtenstein,europe,LI,LIE,,liechtenstein,LI
-LK,country,Sri Lanka,south-central-asia,LK,LKA,LMICs,sri-lanka,LK
-LR,country,Liberia,south-of-sahara,LR,LBR,LDCs,liberia,LR
-LS,country,Lesotho,south-of-sahara,LS,LSO,LDCs,lesotho,LS
-LT,country,Lithuania,europe,LT,LTU,,lithuania,LT
-LU,country,Luxembourg,europe,LU,LUX,,luxembourg,LU
-LV,country,Latvia,europe,LV,LVA,,latvia,LV
-LY,country,Libya,north-of-sahara,LY,LBY,UMICs,libya,LY
-MA,country,Morocco,north-of-sahara,MA,MAR,LMICs,morocco,MA
-MC,country,Monaco,europe,MC,MCO,,monaco,MC
-MD,country,"Moldova, Republic of",europe,MD,MDA,LMICs,moldova-republic-of,MD
-ME,country,Montenegro,europe,ME,MNE,UMICs,montenegro,ME
-MF,country,Saint Martin (French part),north-central-america,MF,MAF,,saint-martin-french-part,MF
-MG,country,Madagascar,south-of-sahara,MG,MDG,LDCs,madagascar,MG
-MH,country,Marshall Islands,oceania,MH,MHL,LMICs,marshall-islands,MH
-MK,country,"Macedonia, the former Yugoslav Republic of",europe,MK,MKD,UMICs,macedonia-the-former-yugoslav-republic-of,MK
-ML,country,Mali,south-of-sahara,ML,MLI,LDCs,mali,ML
-MM,country,Myanmar,south-central-asia,MM,MMR,LDCs,myanmar,MM
-MN,country,Mongolia,east-asia,MN,MNG,LMICs,mongolia,MN
-MO,country,Macao,east-asia,MO,MAC,,macao,MO
-MP,country,Northern Mariana Islands,oceania,MP,MNP,,northern-mariana-islands,MP
-MQ,country,Martinique,north-central-america,MQ,MTQ,,martinique,MQ
-MR,country,Mauritania,south-of-sahara,MR,MRT,LDCs,mauritania,MR
-MS,country,Montserrat,north-central-america,MS,MSR,UMICs,montserrat,MS
-MT,country,Malta,europe,MT,MLT,,malta,MT
-MU,country,Mauritius,south-of-sahara,MU,MUS,UMICs,mauritius,MU
-MV,country,Maldives,south-central-asia,MV,MDV,UMICs,maldives,MV
-MW,country,Malawi,south-of-sahara,MW,MWI,LDCs,malawi,MW
-MX,country,Mexico,north-central-america,MX,MEX,UMICs,mexico,MX
-MY,country,Malaysia,east-asia,MY,MYS,UMICs,malaysia,MY
-MZ,country,Mozambique,south-of-sahara,MZ,MOZ,LDCs,mozambique,MZ
-NA,country,Namibia,south-of-sahara,NA,NAM,UMICs,namibia,NA
-NC,country,New Caledonia,oceania,NC,NCL,,new-caledonia,NC
-NE,country,Niger,south-of-sahara,NE,NER,LDCs,niger,NE
-NF,country,Norfolk Island,oceania,NF,NFK,,norfolk-island,NF
-NG,country,Nigeria,south-of-sahara,NG,NGA,LMICs,nigeria,NG
-NI,country,Nicaragua,north-central-america,NI,NIC,LMICs,nicaragua,NI
-NL,country,Netherlands,europe,NL,NLD,,netherlands,NL
-NO,country,Norway,europe,NO,NOR,,norway,NO
-NP,country,Nepal,south-central-asia,NP,NPL,LDCs,nepal,NP
-NR,country,Nauru,oceania,NR,NRU,UMICs,nauru,NR
-NU,country,Niue,oceania,NU,NIU,UMICs,niue,NU
-NZ,country,New Zealand,oceania,NZ,NZL,,new-zealand,NZ
-OM,country,Oman,middle-east,OM,OMN,,oman,OM
-PA,country,Panama,north-central-america,PA,PAN,UMICs,panama,PA
-PE,country,Peru,south-america,PE,PER,UMICs,peru,PE
-PF,country,French Polynesia,oceania,PF,PYF,,french-polynesia,PF
-PG,country,Papua New Guinea,oceania,PG,PNG,LMICs,papua-new-guinea,PG
-PH,country,Philippines,east-asia,PH,PHL,LMICs,philippines,PH
-PK,country,Pakistan,south-central-asia,PK,PAK,LMICs,pakistan,PK
-PL,country,Poland,europe,PL,POL,,poland,PL
-PM,country,Saint Pierre and Miquelon,north-central-america,PM,SPM,,saint-pierre-and-miquelon,PM
-PN,country,Pitcairn,oceania,PN,PCN,,pitcairn,PN
-PR,country,Puerto Rico,north-central-america,PR,PRI,,puerto-rico,PR
-PS,country,"Palestine, State of",middle-east,PS,PSE,LMICs,palestine-state-of,PS
-PT,country,Portugal,europe,PT,PRT,,portugal,PT
-PW,country,Palau,oceania,PW,PLW,UMICs,palau,PW
-PY,country,Paraguay,south-america,PY,PRY,LMICs,paraguay,PY
-QA,country,Qatar,middle-east,QA,QAT,,qatar,QA
-RE,country,Réunion,south-of-sahara,RE,REU,,reunion,RE
-RO,country,Romania,europe,RO,ROU,,romania,RO
-RS,country,Serbia,europe,RS,SRB,UMICs,serbia,RS
-RU,country,Russian Federation,europe,RU,RUS,,russian-federation,RU
-RW,country,Rwanda,south-of-sahara,RW,RWA,LDCs,rwanda,RW
-SA,country,Saudi Arabia,middle-east,SA,SAU,,saudi-arabia,SA
-SB,country,Solomon Islands,oceania,SB,SLB,LDCs,solomon-islands,SB
-SC,country,Seychelles,south-of-sahara,SC,SYC,UMICs,seychelles,SC
-SD,country,Sudan,south-of-sahara,SD,SDN,LDCs,sudan,SD
-SE,country,Sweden,europe,SE,SWE,,sweden,SE
-SG,country,Singapore,south-central-asia,SG,SGP,,singapore,SG
-SH,country,"Saint Helena, Ascension and Tristan da Cunha",south-of-sahara,SH,SHN,UMICs,saint-helena-ascension-and-tristan-da-cunha,SH
-SI,country,Slovenia,europe,SI,SVN,,slovenia,SI
-SJ,country,Svalbard and Jan Mayen,europe,SJ,SJM,,svalbard-and-jan-mayen,SJ
-SK,country,Slovakia,europe,SK,SVK,,slovakia,SK
-SL,country,Sierra Leone,south-of-sahara,SL,SLE,LDCs,sierra-leone,SL
-SM,country,San Marino,europe,SM,SMR,,san-marino,SM
-SN,country,Senegal,south-of-sahara,SN,SEN,LDCs,senegal,SN
-SO,country,Somalia,south-of-sahara,SO,SOM,LDCs,somalia,SO
-SR,country,Suriname,south-america,SR,SUR,UMICs,suriname,SR
-SS,country,South Sudan,south-of-sahara,SS,SSD,LDCs,south-sudan,SS
-ST,country,Sao Tome and Principe,south-of-sahara,ST,STP,LDCs,sao-tome-and-principe,ST
-SV,country,El Salvador,north-central-america,SV,SLV,LMICs,el-salvador,SV
-SX,country,Sint Maarten (Dutch part),north-central-america,SX,SXM,,sint-maarten-dutch-part,SX
-SY,country,Syrian Arab Republic,middle-east,SY,SYR,LMICs,syrian-arab-republic,SY
-SZ,country,Swaziland,south-of-sahara,SZ,SWZ,LMICs,swaziland,SZ
-TC,country,Turks and Caicos Islands,north-central-america,TC,TCA,,turks-and-caicos-islands,TC
-TD,country,Chad,south-of-sahara,TD,TCD,LDCs,chad,TD
-TF,country,French Southern Territories,unspecified,TF,ATF,,french-southern-territories,TF
-TG,country,Togo,south-of-sahara,TG,TGO,LDCs,togo,TG
-TH,country,Thailand,east-asia,TH,THA,UMICs,thailand,TH
-TJ,country,Tajikistan,south-central-asia,TJ,TJK,Other LICs,tajikistan,TJ
-TK,country,Tokelau,oceania,TK,TKL,LMICs,tokelau,TK
-TL,country,Timor-Leste,east-asia,TL,TLS,LDCs,timor-leste,TL
-TM,country,Turkmenistan,south-central-asia,TM,TKM,LMICs,turkmenistan,TM
-TN,country,Tunisia,north-of-sahara,TN,TUN,UMICs,tunisia,TN
-TO,country,Tonga,oceania,TO,TON,LMICs,tonga,TO
-TR,country,Turkey,europe,TR,TUR,UMICs,turkey,TR
-TT,country,Trinidad and Tobago,europe,TT,TTO,,trinidad-and-tobago,TT
-TV,country,Tuvalu,oceania,TV,TUV,LDCs,tuvalu,TV
-TW,country,"Taiwan, Province of China",east-asia,TW,TWN,,taiwan-province-of-china,TW
-TZ,country,"Tanzania, United Republic of",south-of-sahara,TZ,TZA,LDCs,tanzania-united-republic-of,TZ
-UA,country,Ukraine,europe,UA,UKR,LMICs,ukraine,UA
-UG,country,Uganda,south-of-sahara,UG,UGA,LDCs,uganda,UG
-UM,country,United States Minor Outlying Islands,oceania,UM,UMI,,united-states-minor-outlying-islands,UM
-US,country,United States,north-central-america,US,USA,,united-states,US
-UY,country,Uruguay,south-america,UY,URY,UMICs,uruguay,UY
-UZ,country,Uzbekistan,south-central-asia,UZ,UZB,LMICs,uzbekistan,UZ
-VA,country,Holy See (Vatican City State),europe,VA,VAT,,holy-see-vatican-city-state,VA
-VC,country,Saint Vincent and the Grenadines,north-central-america,VC,VCT,UMICs,saint-vincent-and-the-grenadines,VC
-VE,country,"Venezuela, Bolivarian Republic of",south-america,VE,VEN,UMICs,venezuela-bolivarian-republic-of,VE
-VG,country,"Virgin Islands, British",north-central-america,VG,VGB,,virgin-islands-british,VG
-VI,country,"Virgin Islands, U.S.",north-central-america,VI,VIR,,virgin-islands-us,VI
-VN,country,Viet Nam,east-asia,VN,VNM,LMICs,viet-nam,VN
-VU,country,Vanuatu,oceania,VU,VUT,LDCs,vanuatu,VU
-WF,country,Wallis and Futuna,oceania,WF,WLF,UMICs,wallis-and-futuna,WF
-WS,country,Samoa,oceania,WS,WSM,LDCs,samoa,WS
-XK,country,Kosovo,europe,XK,XKS,LMICs,kosovo,XK
-YE,country,Yemen,middle-east,YE,YEM,LDCs,yemen,YE
-YT,country,Mayotte,south-of-sahara,YT,MYT,,mayotte,YT
-ZA,country,South Africa,south-of-sahara,ZA,ZAF,UMICs,south-africa,ZA
-ZM,country,Zambia,south-of-sahara,ZM,ZMB,LDCs,zambia,ZM
-ZW,country,Zimbabwe,south-of-sahara,ZW,ZWE,Other LICs,zimbabwe,ZW
-EU,country,European Union,europe,,,,european-union,EU
-country-unspecified,country,"Country, unspecified",unspecified,,,,country-unspecified,
-afdb,organisation,AfDB,,,,,afdb,1
-afdf,organisation,AfDF,,,,,afdf,2
-afesd,organisation,AFESD,,,,,afesd,3
-arab-fund-afesd,organisation,Arab Fund (AFESD),,,,,arab-fund-afesd,4
-asdb,organisation,AsDB,,,,,asdb,5
-asdb-special-funds,organisation,AsDB Special Funds,,,,,asdb-special-funds,6
-badea,organisation,BADEA,,,,,badea,7
-cardb,organisation,CarDB,,,,,cardb,8
-ebrd,organisation,EBRD,,,,,ebrd,9
-gavi,organisation,GAVI,,,,,gavi,10
-gef,organisation,GEF,,,,,gef,11
-global-fund,organisation,Global Fund,,,,,global-fund,12
-iaea,organisation,IAEA,,,,,iaea,13
-ibrd,organisation,IBRD,,,,,ibrd,14
-ida,organisation,IDA,,,,,ida,15
-idb,organisation,IDB,,,,,idb,16
-idb-specialfund,organisation,IDB Sp.Fund,,,,,idb-specialfund,17
-ifad,organisation,IFAD,,,,,ifad,18
-ifc,organisation,IFC,,,,,ifc,19
-imf,organisation,IMF,,,,,imf,20
-imf-concessional-trust-fund,organisation,IMF (Concessional Trust Funds),,,,,imf-concessional-trust-fund,21
-islamic-dev-bank,organisation,Isl.Dev Bank,,,,,islamic-dev-bank,22
-montreal-protocol,organisation,Montreal Protocol,,,,,montreal-protocol,23
-nordic-dev-fund,organisation,Nordic Dev.Fund,,,,,nordic-dev-fund,24
-ofid,organisation,OFID,,,,,ofid,25
-osce,organisation,OSCE,,,,,osce,26
-unaids,organisation,UNAIDS,,,,,unaids,27
-undp,organisation,UNDP,,,,,undp,28
-unece,organisation,UNECE,,,,,unece,29
-unep,organisation,UNEP,,,,,unep,30
-unfpa,organisation,UNFPA,,,,,unfpa,31
-unhcr,organisation,UNHCR,,,,,unhcr,32
-unicef,organisation,UNICEF,,,,,unicef,33
-unpbf,organisation,UNPBF,,,,,unpbf,34
-unrwa,organisation,UNRWA,,,,,unrwa,35
-unta,organisation,UNTA,,,,,unta,36
-wfp,organisation,WFP,,,,,wfp,37
-who,organisation,WHO,,,,,who,38
-organisation-unspecified,organisation,"Organisation, unspecified",unspecified,,,,organisation-unspecified,
-africa,region,"Africa, regional",,,,,africa,51
-america,region,"America, regional",,,,,america,52
-asia,region,"Asia, regional",,,,,asia,53
-central-asia,region,"Central Asia, regional",south-central-asia,,,,central-asia,54
-bilateral-unspecified,region,"Bilateral, unspecified",,,,,bilateral,55
-europe,region,"Europe, regional",europe,,,,europe,56
-east-asia,region,"Far East Asia, regional",east-asia,,,,east-asia,57
-middle-east,region,"Middle East, regional",middle-east,,,,middle-east,58
-north-central-america,region,"North & Central America, regional",north-central-america,,,,north-central-america,59
-north-of-sahara,region,"North of Sahara, regional",north-of-sahara,,,,north-of-sahara,60
-oceania,region,"Oceania, regional",oceania,,,,oceania,61
-south-central-asia,region,"South & Central Asia, regional",south-central-asia,,,,south-central-asia,62
-south-america,region,"South America, regional",south-america,,,,south-america,63
-south-asia,region,"South Asia, regional",south-central-asia,,,,south-asia,64
-south-of-sahara,region,"South of Sahara, regional",south-of-sahara,,,,south-of-sahara,65
-ex-yugoslavia,region,States Ex-Yugoslavia unspecified,europe,,,,ex-yugoslavia,66
-west-indies,region,"West Indies, regional",,,,,west-indies,67
-region-unspecified,region,"Region, unspecified",unspecified,,,,region-unspecified,
+id,type,name,region,iso-alpha-2,iso-alpha-3,income-group,slug,dac-id,donor-recipient-type
+AD,country,Andorra,europe,AD,AND,,andorra,AD,
+AE,country,United Arab Emirates,middle-east,AE,ARE,,united-arab-emirates,AE,donor
+AF,country,Afghanistan,south-central-asia,AF,AFG,LDCs,afghanistan,AF,recipient
+AG,country,Antigua and Barbuda,north-central-america,AG,ATG,UMICs,antigua-and-barbuda,AG,recipient
+AI,country,Anguilla,north-central-america,AI,AIA,UMICs,anguilla,AI,recipient
+AL,country,Albania,europe,AL,ALB,UMICs,albania,AL,recipient
+AM,country,Armenia,south-central-asia,AM,ARM,LMICs,armenia,AM,recipient
+AO,country,Angola,south-of-sahara,AO,AGO,LDCs,angola,AO,recipient
+AQ,country,Antarctica,unspecified,AQ,ATA,,antarctica,AQ,
+AR,country,Argentina,south-america,AR,ARG,UMICs,argentina,AR,recipient
+AS,country,American Samoa,oceania,AS,ASM,,american-samoa,AS,
+AT,country,Austria,europe,AT,AUT,,austria,AT,donor
+AU,country,Australia,oceania,AU,AUS,,australia,AU,donor
+AW,country,Aruba,north-central-america,AW,ABW,,aruba,AW,
+AX,country,Åland Islands,oceania,AX,ALA,,aland-islands,AX,
+AZ,country,Azerbaijan,south-central-asia,AZ,AZE,UMICs,azerbaijan,AZ,recipient
+BA,country,Bosnia and Herzegovina,europe,BA,BIH,UMICs,bosnia-and-herzegovina,BA,recipient
+BB,country,Barbados,north-central-america,BB,BRB,,barbados,BB,recipient
+BD,country,Bangladesh,south-central-asia,BD,BGD,LDCs,bangladesh,BD,recipient
+BE,country,Belgium,europe,BE,BEL,,belgium,BE,donor
+BF,country,Burkina Faso,south-of-sahara,BF,BFA,LDCs,burkina-faso,BF,recipient
+BG,country,Bulgaria,europe,BG,BGR,,bulgaria,BG,donor
+BH,country,Bahrain,middle-east,BH,BHR,,bahrain,BH,recipient
+BI,country,Burundi,south-of-sahara,BI,BDI,LDCs,burundi,BI,recipient
+BJ,country,Benin,south-of-sahara,BJ,BEN,LDCs,benin,BJ,recipient
+BL,country,Saint Barthélemy,north-central-america,BL,BLM,,saint-barthelemy,BL,
+BM,country,Bermuda,north-central-america,BM,BMU,,bermuda,BM,
+BN,country,Brunei Darussalam,south-central-asia,BN,BRN,,brunei-darussalam,BN,
+BO,country,"Bolivia, Plurinational State of",south-america,BO,BOL,LMICs,bolivia-plurinational-state-of,BO,recipient
+BQ,country,"Bonaire, Sint Eustatius and Saba",north-central-america,BQ,BES,,bonaire-sint-eustatius-and-saba,BQ,
+BR,country,Brazil,south-america,BR,BRA,UMICs,brazil,BR,crossover
+BS,country,Bahamas,north-central-america,BS,BHS,,bahamas,BS,
+BT,country,Bhutan,south-central-asia,BT,BTN,LDCs,bhutan,BT,recipient
+BV,country,Bouvet Island,unspecified,BV,BVT,,bouvet-island,BV,
+BW,country,Botswana,south-of-sahara,BW,BWA,UMICs,botswana,BW,recipient
+BY,country,Belarus,europe,BY,BLR,UMICs,belarus,BY,recipient
+BZ,country,Belize,north-central-america,BZ,BLZ,LMICs,belize,BZ,recipient
+CA,country,Canada,north-central-america,CA,CAN,,canada,CA,donor
+CC,country,Cocos (Keeling) Islands,oceania,CC,CCK,,cocos-keeling-islands,CC,
+CD,country,"Congo, the Democratic Republic of the",south-of-sahara,CD,COD,LDCs,congo-the-democratic-republic-of-the,CD,recipient
+CF,country,Central African Republic,south-of-sahara,CF,CAF,LDCs,central-african-republic,CF,recipient
+CG,country,Congo,south-of-sahara,CG,COG,LMICs,congo,CG,recipient
+CH,country,Switzerland,europe,CH,CHE,,switzerland,CH,donor
+CI,country,Côte d'Ivoire,south-of-sahara,CI,CIV,LMICs,cote-divoire,CI,recipient
+CK,country,Cook Islands,oceania,CK,COK,UMICs,cook-islands,CK,recipient
+CL,country,Chile,south-america,CL,CHL,UMICs,chile,CL,recipient
+CM,country,Cameroon,south-of-sahara,CM,CMR,LMICs,cameroon,CM,recipient
+CN,country,China,east-asia,CN,CHN,UMICs,china,CN,crossover
+CO,country,Colombia,south-america,CO,COL,UMICs,colombia,CO,recipient
+CR,country,Costa Rica,north-central-america,CR,CRI,UMICs,costa-rica,CR,recipient
+CU,country,Cuba,north-central-america,CU,CUB,UMICs,cuba,CU,recipient
+CV,country,Cape Verde,south-of-sahara,CV,CPV,LMICs,cape-verde,CV,recipient
+CW,country,Curaçao,north-central-america,CW,CUW,,curacao,CW,
+CX,country,Christmas Island,oceania,CX,CXR,,christmas-island,CX,
+CY,country,Cyprus,europe,CY,CYP,,cyprus,CY,donor
+CZ,country,Czech Republic,europe,CZ,CZE,,czech-republic,CZ,donor
+DE,country,Germany,europe,DE,DEU,,germany,DE,donor
+DJ,country,Djibouti,south-of-sahara,DJ,DJI,LDCs,djibouti,DJ,recipient
+DK,country,Denmark,europe,DK,DNK,,denmark,DK,donor
+DM,country,Dominica,north-central-america,DM,DMA,UMICs,dominica,DM,recipient
+DO,country,Dominican Republic,north-central-america,DO,DOM,UMICs,dominican-republic,DO,recipient
+DZ,country,Algeria,north-of-sahara,DZ,DZA,UMICs,algeria,DZ,recipient
+EC,country,Ecuador,south-america,EC,ECU,UMICs,ecuador,EC,recipient
+EE,country,Estonia,europe,EE,EST,,estonia,EE,donor
+EG,country,Egypt,north-of-sahara,EG,EGY,LMICs,egypt,EG,recipient
+EH,country,Western Sahara,north-of-sahara,EH,ESH,,western-sahara,EH,
+ER,country,Eritrea,south-of-sahara,ER,ERI,LDCs,eritrea,ER,recipient
+ES,country,Spain,europe,ES,ESP,,spain,ES,donor
+ET,country,Ethiopia,south-of-sahara,ET,ETH,LDCs,ethiopia,ET,recipient
+FI,country,Finland,europe,FI,FIN,,finland,FI,donor
+FJ,country,Fiji,oceania,FJ,FJI,LMICs,fiji,FJ,recipient
+FK,country,Falkland Islands (Malvinas),south-america,FK,FLK,,falkland-islands-malvinas,FK,
+FM,country,"Micronesia, Federated States of",oceania,FM,FSM,LMICs,micronesia-federated-states-of,FM,recipient
+FO,country,Faroe Islands,europe,FO,FRO,,faroe-islands,FO,
+FR,country,France,europe,FR,FRA,,france,FR,donor
+GA,country,Gabon,south-of-sahara,GA,GAB,UMICs,gabon,GA,recipient
+GB,country,United Kingdom,europe,GB,GBR,,united-kingdom,GB,donor
+GD,country,Grenada,north-central-america,GD,GRD,UMICs,grenada,GD,recipient
+GE,country,Georgia,south-central-asia,GE,GEO,LMICs,georgia,GE,recipient
+GF,country,French Guiana,south-america,GF,GUF,,french-guiana,GF,
+GG,country,Guernsey,europe,GG,GGY,,guernsey,GG,
+GH,country,Ghana,south-of-sahara,GH,GHA,LMICs,ghana,GH,recipient
+GI,country,Gibraltar,europe,GI,GIB,,gibraltar,GI,
+GL,country,Greenland,north-central-america,GL,GRL,,greenland,GL,
+GM,country,Gambia,south-of-sahara,GM,GMB,LDCs,gambia,GM,recipient
+GN,country,Guinea,south-of-sahara,GN,GIN,LDCs,guinea,GN,recipient
+GP,country,Guadeloupe,north-central-america,GP,GLP,,guadeloupe,GP,
+GQ,country,Equatorial Guinea,south-of-sahara,GQ,GNQ,LDCs,equatorial-guinea,GQ,recipient
+GR,country,Greece,europe,GR,GRC,,greece,GR,donor
+GS,country,South Georgia and the South Sandwich Islands,unspecified,GS,SGS,,south-georgia-and-the-south-sandwich-islands,GS,
+GT,country,Guatemala,north-central-america,GT,GTM,LMICs,guatemala,GT,recipient
+GU,country,Guam,oceania,GU,GUM,,guam,GU,
+GW,country,Guinea-Bissau,south-of-sahara,GW,GNB,LDCs,guinea-bissau,GW,recipient
+GY,country,Guyana,south-america,GY,GUY,LMICs,guyana,GY,recipient
+HK,country,Hong Kong,south-central-asia,HK,HKG,,hong-kong,HK,
+HM,country,Heard Island and McDonald Islands,unspecified,HM,HMD,,heard-island-and-mcdonald-islands,HM,
+HN,country,Honduras,north-central-america,HN,HND,LMICs,honduras,HN,recipient
+HR,country,Croatia,europe,HR,HRV,,croatia,HR,crossover
+HT,country,Haiti,north-central-america,HT,HTI,LDCs,haiti,HT,recipient
+HU,country,Hungary,europe,HU,HUN,,hungary,HU,donor
+ID,country,Indonesia,east-asia,ID,IDN,LMICs,indonesia,ID,recipient
+IE,country,Ireland,europe,IE,IRL,,ireland,IE,donor
+IL,country,Israel,middle-east,IL,ISR,,israel,IL,donor
+IM,country,Isle of Man,europe,IM,IMN,,isle-of-man,IM,
+IN,country,India,south-central-asia,IN,IND,LMICs,india,IN,crossover
+IO,country,British Indian Ocean Territory,south-central-asia,IO,IOT,,british-indian-ocean-territory,IO,
+IQ,country,Iraq,middle-east,IQ,IRQ,LMICs,iraq,IQ,recipient
+IR,country,"Iran, Islamic Republic of",middle-east,IR,IRN,UMICs,iran-islamic-republic-of,IR,recipient
+IS,country,Iceland,europe,IS,ISL,,iceland,IS,donor
+IT,country,Italy,europe,IT,ITA,,italy,IT,donor
+JE,country,Jersey,europe,JE,JEY,,jersey,JE,
+JM,country,Jamaica,north-central-america,JM,JAM,UMICs,jamaica,JM,recipient
+JO,country,Jordan,middle-east,JO,JOR,UMICs,jordan,JO,recipient
+JP,country,Japan,east-asia,JP,JPN,,japan,JP,donor
+KE,country,Kenya,south-of-sahara,KE,KEN,Other LICs,kenya,KE,recipient
+KG,country,Kyrgyzstan,south-central-asia,KG,KGZ,Other LICs,kyrgyzstan,KG,recipient
+KH,country,Cambodia,east-asia,KH,KHM,LDCs,cambodia,KH,recipient
+KI,country,Kiribati,oceania,KI,KIR,LDCs,kiribati,KI,recipient
+KM,country,Comoros,south-of-sahara,KM,COM,LDCs,comoros,KM,recipient
+KN,country,Saint Kitts and Nevis,north-central-america,KN,KNA,UMICs,saint-kitts-and-nevis,KN,recipient
+KP,country,"Korea, Democratic People's Republic of",east-asia,KP,PRK,Other LICs,korea-democratic-peoples-republic-of,KP,recipient
+KR,country,"Korea, Republic of",east-asia,KR,KOR,,korea-republic-of,KR,donor
+KW,country,Kuwait,middle-east,KW,KWT,,kuwait,KW,donor
+KY,country,Cayman Islands,north-central-america,KY,CYM,,cayman-islands,KY,
+KZ,country,Kazakhstan,south-central-asia,KZ,KAZ,UMICs,kazakhstan,KZ,recipient
+LA,country,Lao People's Democratic Republic,east-asia,LA,LAO,LDCs,lao-peoples-democratic-republic,LA,recipient
+LB,country,Lebanon,middle-east,LB,LBN,UMICs,lebanon,LB,recipient
+LC,country,Saint Lucia,north-central-america,LC,LCA,UMICs,saint-lucia,LC,recipient
+LI,country,Liechtenstein,europe,LI,LIE,,liechtenstein,LI,donor
+LK,country,Sri Lanka,south-central-asia,LK,LKA,LMICs,sri-lanka,LK,recipient
+LR,country,Liberia,south-of-sahara,LR,LBR,LDCs,liberia,LR,recipient
+LS,country,Lesotho,south-of-sahara,LS,LSO,LDCs,lesotho,LS,recipient
+LT,country,Lithuania,europe,LT,LTU,,lithuania,LT,donor
+LU,country,Luxembourg,europe,LU,LUX,,luxembourg,LU,donor
+LV,country,Latvia,europe,LV,LVA,,latvia,LV,donor
+LY,country,Libya,north-of-sahara,LY,LBY,UMICs,libya,LY,recipient
+MA,country,Morocco,north-of-sahara,MA,MAR,LMICs,morocco,MA,recipient
+MC,country,Monaco,europe,MC,MCO,,monaco,MC,
+MD,country,"Moldova, Republic of",europe,MD,MDA,LMICs,moldova-republic-of,MD,recipient
+ME,country,Montenegro,europe,ME,MNE,UMICs,montenegro,ME,recipient
+MF,country,Saint Martin (French part),north-central-america,MF,MAF,,saint-martin-french-part,MF,
+MG,country,Madagascar,south-of-sahara,MG,MDG,LDCs,madagascar,MG,recipient
+MH,country,Marshall Islands,oceania,MH,MHL,LMICs,marshall-islands,MH,recipient
+MK,country,"Macedonia, the former Yugoslav Republic of",europe,MK,MKD,UMICs,macedonia-the-former-yugoslav-republic-of,MK,recipient
+ML,country,Mali,south-of-sahara,ML,MLI,LDCs,mali,ML,recipient
+MM,country,Myanmar,south-central-asia,MM,MMR,LDCs,myanmar,MM,recipient
+MN,country,Mongolia,east-asia,MN,MNG,LMICs,mongolia,MN,recipient
+MO,country,Macao,east-asia,MO,MAC,,macao,MO,
+MP,country,Northern Mariana Islands,oceania,MP,MNP,,northern-mariana-islands,MP,
+MQ,country,Martinique,north-central-america,MQ,MTQ,,martinique,MQ,
+MR,country,Mauritania,south-of-sahara,MR,MRT,LDCs,mauritania,MR,recipient
+MS,country,Montserrat,north-central-america,MS,MSR,UMICs,montserrat,MS,recipient
+MT,country,Malta,europe,MT,MLT,,malta,MT,crossover
+MU,country,Mauritius,south-of-sahara,MU,MUS,UMICs,mauritius,MU,recipient
+MV,country,Maldives,south-central-asia,MV,MDV,UMICs,maldives,MV,recipient
+MW,country,Malawi,south-of-sahara,MW,MWI,LDCs,malawi,MW,recipient
+MX,country,Mexico,north-central-america,MX,MEX,UMICs,mexico,MX,recipient
+MY,country,Malaysia,east-asia,MY,MYS,UMICs,malaysia,MY,recipient
+MZ,country,Mozambique,south-of-sahara,MZ,MOZ,LDCs,mozambique,MZ,recipient
+NA,country,Namibia,south-of-sahara,NA,NAM,UMICs,namibia,NA,recipient
+NC,country,New Caledonia,oceania,NC,NCL,,new-caledonia,NC,
+NE,country,Niger,south-of-sahara,NE,NER,LDCs,niger,NE,recipient
+NF,country,Norfolk Island,oceania,NF,NFK,,norfolk-island,NF,
+NG,country,Nigeria,south-of-sahara,NG,NGA,LMICs,nigeria,NG,recipient
+NI,country,Nicaragua,north-central-america,NI,NIC,LMICs,nicaragua,NI,recipient
+NL,country,Netherlands,europe,NL,NLD,,netherlands,NL,donor
+NO,country,Norway,europe,NO,NOR,,norway,NO,donor
+NP,country,Nepal,south-central-asia,NP,NPL,LDCs,nepal,NP,recipient
+NR,country,Nauru,oceania,NR,NRU,UMICs,nauru,NR,recipient
+NU,country,Niue,oceania,NU,NIU,UMICs,niue,NU,recipient
+NZ,country,New Zealand,oceania,NZ,NZL,,new-zealand,NZ,donor
+OM,country,Oman,middle-east,OM,OMN,,oman,OM,recipient
+PA,country,Panama,north-central-america,PA,PAN,UMICs,panama,PA,recipient
+PE,country,Peru,south-america,PE,PER,UMICs,peru,PE,recipient
+PF,country,French Polynesia,oceania,PF,PYF,,french-polynesia,PF,
+PG,country,Papua New Guinea,oceania,PG,PNG,LMICs,papua-new-guinea,PG,recipient
+PH,country,Philippines,east-asia,PH,PHL,LMICs,philippines,PH,recipient
+PK,country,Pakistan,south-central-asia,PK,PAK,LMICs,pakistan,PK,recipient
+PL,country,Poland,europe,PL,POL,,poland,PL,donor
+PM,country,Saint Pierre and Miquelon,north-central-america,PM,SPM,,saint-pierre-and-miquelon,PM,
+PN,country,Pitcairn,oceania,PN,PCN,,pitcairn,PN,
+PR,country,Puerto Rico,north-central-america,PR,PRI,,puerto-rico,PR,
+PS,country,"Palestine, State of",middle-east,PS,PSE,LMICs,palestine-state-of,PS,recipient
+PT,country,Portugal,europe,PT,PRT,,portugal,PT,donor
+PW,country,Palau,oceania,PW,PLW,UMICs,palau,PW,recipient
+PY,country,Paraguay,south-america,PY,PRY,LMICs,paraguay,PY,recipient
+QA,country,Qatar,middle-east,QA,QAT,,qatar,QA,
+RE,country,Réunion,south-of-sahara,RE,REU,,reunion,RE,
+RO,country,Romania,europe,RO,ROU,,romania,RO,donor
+RS,country,Serbia,europe,RS,SRB,UMICs,serbia,RS,recipient
+RU,country,Russian Federation,europe,RU,RUS,,russian-federation,RU,donor
+RW,country,Rwanda,south-of-sahara,RW,RWA,LDCs,rwanda,RW,recipient
+SA,country,Saudi Arabia,middle-east,SA,SAU,,saudi-arabia,SA,crossover
+SB,country,Solomon Islands,oceania,SB,SLB,LDCs,solomon-islands,SB,recipient
+SC,country,Seychelles,south-of-sahara,SC,SYC,UMICs,seychelles,SC,recipient
+SD,country,Sudan,south-of-sahara,SD,SDN,LDCs,sudan,SD,recipient
+SE,country,Sweden,europe,SE,SWE,,sweden,SE,donor
+SG,country,Singapore,south-central-asia,SG,SGP,,singapore,SG,
+SH,country,"Saint Helena, Ascension and Tristan da Cunha",south-of-sahara,SH,SHN,UMICs,saint-helena-ascension-and-tristan-da-cunha,SH,recipient
+SI,country,Slovenia,europe,SI,SVN,,slovenia,SI,crossover
+SJ,country,Svalbard and Jan Mayen,europe,SJ,SJM,,svalbard-and-jan-mayen,SJ,
+SK,country,Slovakia,europe,SK,SVK,,slovakia,SK,donor
+SL,country,Sierra Leone,south-of-sahara,SL,SLE,LDCs,sierra-leone,SL,recipient
+SM,country,San Marino,europe,SM,SMR,,san-marino,SM,
+SN,country,Senegal,south-of-sahara,SN,SEN,LDCs,senegal,SN,recipient
+SO,country,Somalia,south-of-sahara,SO,SOM,LDCs,somalia,SO,recipient
+SR,country,Suriname,south-america,SR,SUR,UMICs,suriname,SR,recipient
+SS,country,South Sudan,south-of-sahara,SS,SSD,LDCs,south-sudan,SS,recipient
+ST,country,Sao Tome and Principe,south-of-sahara,ST,STP,LDCs,sao-tome-and-principe,ST,recipient
+SV,country,El Salvador,north-central-america,SV,SLV,LMICs,el-salvador,SV,recipient
+SX,country,Sint Maarten (Dutch part),north-central-america,SX,SXM,,sint-maarten-dutch-part,SX,
+SY,country,Syrian Arab Republic,middle-east,SY,SYR,LMICs,syrian-arab-republic,SY,recipient
+SZ,country,Swaziland,south-of-sahara,SZ,SWZ,LMICs,swaziland,SZ,recipient
+TC,country,Turks and Caicos Islands,north-central-america,TC,TCA,,turks-and-caicos-islands,TC,recipient
+TD,country,Chad,south-of-sahara,TD,TCD,LDCs,chad,TD,recipient
+TF,country,French Southern Territories,unspecified,TF,ATF,,french-southern-territories,TF,
+TG,country,Togo,south-of-sahara,TG,TGO,LDCs,togo,TG,recipient
+TH,country,Thailand,east-asia,TH,THA,UMICs,thailand,TH,crossover
+TJ,country,Tajikistan,south-central-asia,TJ,TJK,Other LICs,tajikistan,TJ,recipient
+TK,country,Tokelau,oceania,TK,TKL,LMICs,tokelau,TK,recipient
+TL,country,Timor-Leste,east-asia,TL,TLS,LDCs,timor-leste,TL,recipient
+TM,country,Turkmenistan,south-central-asia,TM,TKM,LMICs,turkmenistan,TM,recipient
+TN,country,Tunisia,north-of-sahara,TN,TUN,UMICs,tunisia,TN,recipient
+TO,country,Tonga,oceania,TO,TON,LMICs,tonga,TO,recipient
+TR,country,Turkey,europe,TR,TUR,UMICs,turkey,TR,crossover
+TT,country,Trinidad and Tobago,europe,TT,TTO,,trinidad-and-tobago,TT,recipient
+TV,country,Tuvalu,oceania,TV,TUV,LDCs,tuvalu,TV,recipient
+TW,country,"Taiwan, Province of China",east-asia,TW,TWN,,taiwan-province-of-china,TW,donor
+TZ,country,"Tanzania, United Republic of",south-of-sahara,TZ,TZA,LDCs,tanzania-united-republic-of,TZ,recipient
+UA,country,Ukraine,europe,UA,UKR,LMICs,ukraine,UA,recipient
+UG,country,Uganda,south-of-sahara,UG,UGA,LDCs,uganda,UG,recipient
+UM,country,United States Minor Outlying Islands,oceania,UM,UMI,,united-states-minor-outlying-islands,UM,
+US,country,United States,north-central-america,US,USA,,united-states,US,donor
+UY,country,Uruguay,south-america,UY,URY,UMICs,uruguay,UY,recipient
+UZ,country,Uzbekistan,south-central-asia,UZ,UZB,LMICs,uzbekistan,UZ,recipient
+VA,country,Holy See (Vatican City State),europe,VA,VAT,,holy-see-vatican-city-state,VA,
+VC,country,Saint Vincent and the Grenadines,north-central-america,VC,VCT,UMICs,saint-vincent-and-the-grenadines,VC,recipient
+VE,country,"Venezuela, Bolivarian Republic of",south-america,VE,VEN,UMICs,venezuela-bolivarian-republic-of,VE,recipient
+VG,country,"Virgin Islands, British",north-central-america,VG,VGB,,virgin-islands-british,VG,
+VI,country,"Virgin Islands, U.S.",north-central-america,VI,VIR,,virgin-islands-us,VI,
+VN,country,Viet Nam,east-asia,VN,VNM,LMICs,viet-nam,VN,recipient
+VU,country,Vanuatu,oceania,VU,VUT,LDCs,vanuatu,VU,recipient
+WF,country,Wallis and Futuna,oceania,WF,WLF,UMICs,wallis-and-futuna,WF,recipient
+WS,country,Samoa,oceania,WS,WSM,LDCs,samoa,WS,recipient
+XK,country,Kosovo,europe,XK,XKS,LMICs,kosovo,XK,recipient
+YE,country,Yemen,middle-east,YE,YEM,LDCs,yemen,YE,recipient
+YT,country,Mayotte,south-of-sahara,YT,MYT,,mayotte,YT,recipient
+ZA,country,South Africa,south-of-sahara,ZA,ZAF,UMICs,south-africa,ZA,crossover
+ZM,country,Zambia,south-of-sahara,ZM,ZMB,LDCs,zambia,ZM,recipient
+ZW,country,Zimbabwe,south-of-sahara,ZW,ZWE,Other LICs,zimbabwe,ZW,recipient
+EU,country,European Union,europe,,,,european-union,EU,crossover
+country-unspecified,country,"Country, unspecified",unspecified,,,,country-unspecified,,crossover
+afdb,organisation,AfDB,,,,,afdb,1,multilateral
+afdf,organisation,AfDF,,,,,afdf,2,multilateral
+afesd,organisation,AFESD,,,,,afesd,3,multilateral
+arab-fund-afesd,organisation,Arab Fund (AFESD),,,,,arab-fund-afesd,4,multilateral
+asdb,organisation,AsDB,,,,,asdb,5,multilateral
+asdb-special-funds,organisation,AsDB Special Funds,,,,,asdb-special-funds,6,multilateral
+badea,organisation,BADEA,,,,,badea,7,multilateral
+cardb,organisation,CarDB,,,,,cardb,8,multilateral
+ebrd,organisation,EBRD,,,,,ebrd,9,multilateral
+gavi,organisation,GAVI,,,,,gavi,10,multilateral
+gef,organisation,GEF,,,,,gef,11,multilateral
+global-fund,organisation,Global Fund,,,,,global-fund,12,multilateral
+iaea,organisation,IAEA,,,,,iaea,13,multilateral
+ibrd,organisation,IBRD,,,,,ibrd,14,multilateral
+ida,organisation,IDA,,,,,ida,15,multilateral
+idb,organisation,IDB,,,,,idb,16,multilateral
+idb-specialfund,organisation,IDB Sp.Fund,,,,,idb-specialfund,17,multilateral
+ifad,organisation,IFAD,,,,,ifad,18,multilateral
+ifc,organisation,IFC,,,,,ifc,19,multilateral
+imf,organisation,IMF,,,,,imf,20,multilateral
+imf-concessional-trust-fund,organisation,IMF (Concessional Trust Funds),,,,,imf-concessional-trust-fund,21,multilateral
+islamic-dev-bank,organisation,Isl.Dev Bank,,,,,islamic-dev-bank,22,multilateral
+montreal-protocol,organisation,Montreal Protocol,,,,,montreal-protocol,23,multilateral
+nordic-dev-fund,organisation,Nordic Dev.Fund,,,,,nordic-dev-fund,24,multilateral
+ofid,organisation,OFID,,,,,ofid,25,multilateral
+osce,organisation,OSCE,,,,,osce,26,multilateral
+unaids,organisation,UNAIDS,,,,,unaids,27,multilateral
+undp,organisation,UNDP,,,,,undp,28,multilateral
+unece,organisation,UNECE,,,,,unece,29,multilateral
+unep,organisation,UNEP,,,,,unep,30,multilateral
+unfpa,organisation,UNFPA,,,,,unfpa,31,multilateral
+unhcr,organisation,UNHCR,,,,,unhcr,32,multilateral
+unicef,organisation,UNICEF,,,,,unicef,33,multilateral
+unpbf,organisation,UNPBF,,,,,unpbf,34,multilateral
+unrwa,organisation,UNRWA,,,,,unrwa,35,multilateral
+unta,organisation,UNTA,,,,,unta,36,multilateral
+wfp,organisation,WFP,,,,,wfp,37,multilateral
+who,organisation,WHO,,,,,who,38,multilateral
+organisation-unspecified,organisation,"Organisation, unspecified",unspecified,,,,organisation-unspecified,,multilateral
+africa,region,"Africa, regional",,,,,africa,51,region
+america,region,"America, regional",,,,,america,52,region
+asia,region,"Asia, regional",,,,,asia,53,region
+central-asia,region,"Central Asia, regional",south-central-asia,,,,central-asia,54,region
+bilateral-unspecified,region,"Bilateral, unspecified",,,,,bilateral,55,region
+europe,region,"Europe, regional",europe,,,,europe,56,region
+east-asia,region,"Far East Asia, regional",east-asia,,,,east-asia,57,region
+middle-east,region,"Middle East, regional",middle-east,,,,middle-east,58,region
+north-central-america,region,"North & Central America, regional",north-central-america,,,,north-central-america,59,region
+north-of-sahara,region,"North of Sahara, regional",north-of-sahara,,,,north-of-sahara,60,region
+oceania,region,"Oceania, regional",oceania,,,,oceania,61,region
+south-central-asia,region,"South & Central Asia, regional",south-central-asia,,,,south-central-asia,62,region
+south-america,region,"South America, regional",south-america,,,,south-america,63,region
+south-asia,region,"South Asia, regional",south-central-asia,,,,south-asia,64,region
+south-of-sahara,region,"South of Sahara, regional",south-of-sahara,,,,south-of-sahara,65,region
+ex-yugoslavia,region,States Ex-Yugoslavia unspecified,europe,,,,ex-yugoslavia,66,region
+west-indies,region,"West Indies, regional",,,,,west-indies,67,region
+region-unspecified,region,"Region, unspecified",unspecified,,,,region-unspecified,,region
