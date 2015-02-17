@@ -1,4 +1,4 @@
-id,region-name,dac-continent-code,dac-continent,dac-id
+id,name,dac-continent-code,dac-continent,dac-id
 europe,Europe,89,Europe,89
 north-of-sahara,Africa (North of Sahara),298,Africa,189
 south-of-sahara,Africa (South of Sahara),298,Africa,289
