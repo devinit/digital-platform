@@ -5,7 +5,7 @@ public-sector-recipient,Public-sector (Recipient government),C
 ngo-unknown,NGO (unknown country),D
 ngo-donor,NGO (Donor-country-based),E
 ngo-recipient,NGO (Recipient-country-based),F
-public-private partnership,Public-private partnership,G
+public-private-partnership,Public-private partnership,G
 multilateral,Multilateral,H
 other,"Other (Private sector, think-tank, etc)",I
 unspecified,Unspecified,J
