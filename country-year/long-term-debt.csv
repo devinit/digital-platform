@@ -1,4 +1,4 @@
-Id_to,Year,Debt_flow,Destination_institution_type,Creditor_type,Creditor_institution,Financing_type,Id_from,Value
+id-to,year,debt-flow,destination-institution-type,creditor-type,creditor-institution,financing-type,id-from,value
 AF,2013,DIS,PPG,Official,Bilateral,Concessional,organisation-unspecified,0
 AF,2013,DIS,PPG,Official,Bilateral,Non-concessional,organisation-unspecified,0
 AF,2013,DIS,PPG,Official,Multilateral,Concessional,IDA,3479895.397
