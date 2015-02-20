@@ -1,0 +1,673 @@
+country,currency,year,type,l1,l2,l3,l4,l5,value
+uganda,ugandan shillings,2000.0,actual,total revenue and grants,,,,,1575000000000.0
+uganda,ugandan shillings,2001.0,actual,total revenue and grants,,,,,1914000000000.0
+uganda,ugandan shillings,2002.0,actual,total revenue and grants,,,,,1969000000000.0
+uganda,ugandan shillings,2003.0,actual,total revenue and grants,,,,,2264000000000.0
+uganda,ugandan shillings,2004.0,actual,total revenue and grants,,,,,2918300000000.0
+uganda,ugandan shillings,2005.0,actual,total revenue and grants,,,,,3146000000000.0
+uganda,ugandan shillings,2006.0,actual,total revenue and grants,,,,,3241000000000.0
+uganda,ugandan shillings,2007.0,actual,total revenue and grants,,,,,3624000000000.0
+uganda,ugandan shillings,2008.0,actual,total revenue and grants,,,,,3800000000000.0
+uganda,ugandan shillings,2009.0,actual,total revenue and grants,,,,,4546000000000.0
+uganda,ugandan shillings,2010.0,actual ,total revenue and grants,,,,,5136000000000.0
+uganda,ugandan shillings,2011.0,actual,total revenue and grants,,,,,7221000000000.0
+uganda,ugandan shillings,2012.0,actual,total revenue and grants,,,,,7771000000000.0
+uganda,ugandan shillings,2013.0,actual,total revenue and grants,,,,,8245000000000.0
+uganda,ugandan shillings,2014.0,budget,total revenue and grants,,,,,9679900000000.0
+uganda,ugandan shillings,2014.0,prel,total revenue and grants,,,,,8874000000000.0
+uganda,ugandan shillings,2015.0,proj,total revenue and grants,,,,,10999000000000.0
+uganda,ugandan shillings,2016.0,proj,total revenue and grants,,,,,11872000000000.0
+uganda,ugandan shillings,2017.0,proj,total revenue and grants,,,,,13510000000000.0
+uganda,ugandan shillings,2018.0,proj,total revenue and grants,,,,,15537000000000.0
+uganda,ugandan shillings,2019.0,proj,total revenue and grants,,,,,17726000000000.0
+uganda,ugandan shillings,2000.0,actual,total revenue and grants,revenue,,,,1059000000000.0
+uganda,ugandan shillings,2001.0,actual,total revenue and grants,revenue,,,,1128000000000.0
+uganda,ugandan shillings,2002.0,actual,total revenue and grants,revenue,,,,1254000000000.0
+uganda,ugandan shillings,2003.0,actual,total revenue and grants,revenue,,,,1434000000000.0
+uganda,ugandan shillings,2004.0,actual,total revenue and grants,revenue,,,,1669200000000.0
+uganda,ugandan shillings,2005.0,actual,total revenue and grants,revenue,,,,1948000000000.0
+uganda,ugandan shillings,2006.0,actual,total revenue and grants,revenue,,,,2267000000000.0
+uganda,ugandan shillings,2007.0,actual,total revenue and grants,revenue,,,,2667000000000.0
+uganda,ugandan shillings,2008.0,actual,total revenue and grants,revenue,,,,3145000000000.0
+uganda,ugandan shillings,2009.0,actual,total revenue and grants,revenue,,,,3758000000000.0
+uganda,ugandan shillings,2010.0,actual ,total revenue and grants,revenue,,,,4273000000000.0
+uganda,ugandan shillings,2011.0,actual,total revenue and grants,revenue,,,,6330000000000.0
+uganda,ugandan shillings,2012.0,actual,total revenue and grants,revenue,,,,6634000000000.0
+uganda,ugandan shillings,2013.0,actual,total revenue and grants,revenue,,,,7309000000000.0
+uganda,ugandan shillings,2014.0,budget,total revenue and grants,revenue,,,,8770200000000.0
+uganda,ugandan shillings,2014.0,prel,total revenue and grants,revenue,,,,8165000000000.0
+uganda,ugandan shillings,2015.0,proj,total revenue and grants,revenue,,,,9777000000000.0
+uganda,ugandan shillings,2016.0,proj,total revenue and grants,revenue,,,,11048000000000.0
+uganda,ugandan shillings,2017.0,proj,total revenue and grants,revenue,,,,12691000000000.0
+uganda,ugandan shillings,2018.0,proj,total revenue and grants,revenue,,,,14656000000000.0
+uganda,ugandan shillings,2019.0,proj,total revenue and grants,revenue,,,,16988000000000.0
+uganda,ugandan shillings,2000.0,actual,total revenue and grants,revenue,tax,,,928000000000.0
+uganda,ugandan shillings,2001.0,actual,total revenue and grants,revenue,tax,,,1029000000000.0
+uganda,ugandan shillings,2002.0,actual,total revenue and grants,revenue,tax,,,1156000000000.0
+uganda,ugandan shillings,2003.0,actual,total revenue and grants,revenue,tax,,,1338000000000.0
+uganda,ugandan shillings,2004.0,actual,total revenue and grants,revenue,tax,,,1550500000000.0
+uganda,ugandan shillings,2005.0,actual,total revenue and grants,revenue,tax,,,1828000000000.0
+uganda,ugandan shillings,2006.0,actual,total revenue and grants,revenue,tax,,,2142000000000.0
+uganda,ugandan shillings,2007.0,actual,total revenue and grants,revenue,tax,,,2524000000000.0
+uganda,ugandan shillings,2008.0,actual,total revenue and grants,revenue,tax,,,3024000000000.0
+uganda,ugandan shillings,2009.0,actual,total revenue and grants,revenue,tax,,,3560000000000.0
+uganda,ugandan shillings,2010.0,actual ,total revenue and grants,revenue,tax,,,4067000000000.0
+uganda,ugandan shillings,2011.0,actual,total revenue and grants,revenue,tax,,,4958000000000.0
+uganda,ugandan shillings,2012.0,actual,total revenue and grants,revenue,tax,,,5983000000000.0
+uganda,ugandan shillings,2013.0,actual,total revenue and grants,revenue,tax,,,7005000000000.0
+uganda,ugandan shillings,2014.0,budget,total revenue and grants,revenue,tax,,,8588100000000.0
+uganda,ugandan shillings,2014.0,prel,total revenue and grants,revenue,tax,,,7831000000000.0
+uganda,ugandan shillings,2015.0,proj,total revenue and grants,revenue,tax,,,9372000000000.0
+uganda,ugandan shillings,2016.0,proj,total revenue and grants,revenue,tax,,,10544000000000.0
+uganda,ugandan shillings,2017.0,proj,total revenue and grants,revenue,tax,,,12111000000000.0
+uganda,ugandan shillings,2018.0,proj,total revenue and grants,revenue,tax,,,13963000000000.0
+uganda,ugandan shillings,2019.0,proj,total revenue and grants,revenue,tax,,,16159000000000.0
+uganda,ugandan shillings,2000.0,actual,total revenue and grants,revenue,tax,international trade taxes,,105000000000.0
+uganda,ugandan shillings,2001.0,actual,total revenue and grants,revenue,tax,international trade taxes,,141000000000.0
+uganda,ugandan shillings,2002.0,actual,total revenue and grants,revenue,tax,international trade taxes,,117000000000.0
+uganda,ugandan shillings,2003.0,actual,total revenue and grants,revenue,tax,international trade taxes,,134000000000.0
+uganda,ugandan shillings,2004.0,actual,total revenue and grants,revenue,tax,international trade taxes,,135300000000.0
+uganda,ugandan shillings,2005.0,actual,total revenue and grants,revenue,tax,international trade taxes,,162000000000.0
+uganda,ugandan shillings,2006.0,actual,total revenue and grants,revenue,tax,international trade taxes,,227000000000.0
+uganda,ugandan shillings,2007.0,actual,total revenue and grants,revenue,tax,international trade taxes,,261000000000.0
+uganda,ugandan shillings,2008.0,actual,total revenue and grants,revenue,tax,international trade taxes,,308000000000.0
+uganda,ugandan shillings,2009.0,actual,total revenue and grants,revenue,tax,international trade taxes,,361000000000.0
+uganda,ugandan shillings,2010.0,actual ,total revenue and grants,revenue,tax,international trade taxes,,352000000000.0
+uganda,ugandan shillings,2011.0,actual,total revenue and grants,revenue,tax,international trade taxes,,455000000000.0
+uganda,ugandan shillings,2012.0,actual,total revenue and grants,revenue,tax,international trade taxes,,503000000000.0
+uganda,ugandan shillings,2013.0,actual,total revenue and grants,revenue,tax,international trade taxes,,599000000000.0
+uganda,ugandan shillings,2014.0,budget,total revenue and grants,revenue,tax,international trade taxes,,981600000000.0
+uganda,ugandan shillings,2014.0,prel,total revenue and grants,revenue,tax,international trade taxes,,747000000000.0
+uganda,ugandan shillings,2015.0,proj,total revenue and grants,revenue,tax,international trade taxes,,893000000000.0
+uganda,ugandan shillings,2016.0,proj,total revenue and grants,revenue,tax,international trade taxes,,1020000000000.0
+uganda,ugandan shillings,2017.0,proj,total revenue and grants,revenue,tax,international trade taxes,,1179000000000.0
+uganda,ugandan shillings,2018.0,proj,total revenue and grants,revenue,tax,international trade taxes,,1387000000000.0
+uganda,ugandan shillings,2019.0,proj,total revenue and grants,revenue,tax,international trade taxes,,1722000000000.0
+uganda,ugandan shillings,2000.0,actual,total revenue and grants,revenue,tax,income taxes,,182000000000.0
+uganda,ugandan shillings,2001.0,actual,total revenue and grants,revenue,tax,income taxes,,224000000000.0
+uganda,ugandan shillings,2002.0,actual,total revenue and grants,revenue,tax,income taxes,,284000000000.0
+uganda,ugandan shillings,2003.0,actual,total revenue and grants,revenue,tax,income taxes,,350000000000.0
+uganda,ugandan shillings,2004.0,actual,total revenue and grants,revenue,tax,income taxes,,436900000000.0
+uganda,ugandan shillings,2005.0,actual,total revenue and grants,revenue,tax,income taxes,,560000000000.0
+uganda,ugandan shillings,2006.0,actual,total revenue and grants,revenue,tax,income taxes,,653000000000.0
+uganda,ugandan shillings,2007.0,actual,total revenue and grants,revenue,tax,income taxes,,782000000000.0
+uganda,ugandan shillings,2008.0,actual,total revenue and grants,revenue,tax,income taxes,,862000000000.0
+uganda,ugandan shillings,2009.0,actual,total revenue and grants,revenue,tax,income taxes,,1094000000000.0
+uganda,ugandan shillings,2010.0,actual ,total revenue and grants,revenue,tax,income taxes,,1361000000000.0
+uganda,ugandan shillings,2011.0,actual,total revenue and grants,revenue,tax,income taxes,,1750000000000.0
+uganda,ugandan shillings,2012.0,actual,total revenue and grants,revenue,tax,income taxes,,2112000000000.0
+uganda,ugandan shillings,2013.0,actual,total revenue and grants,revenue,tax,income taxes,,2588000000000.0
+uganda,ugandan shillings,2014.0,budget,total revenue and grants,revenue,tax,income taxes,,2858900000000.0
+uganda,ugandan shillings,2014.0,prel,total revenue and grants,revenue,tax,income taxes,,2756000000000.0
+uganda,ugandan shillings,2015.0,proj,total revenue and grants,revenue,tax,income taxes,,3318000000000.0
+uganda,ugandan shillings,2016.0,proj,total revenue and grants,revenue,tax,income taxes,,3654000000000.0
+uganda,ugandan shillings,2017.0,proj,total revenue and grants,revenue,tax,income taxes,,4210000000000.0
+uganda,ugandan shillings,2018.0,proj,total revenue and grants,revenue,tax,income taxes,,4855000000000.0
+uganda,ugandan shillings,2019.0,proj,total revenue and grants,revenue,tax,income taxes,,5713000000000.0
+uganda,ugandan shillings,2000.0,actual,total revenue and grants,revenue,tax,excises,,328000000000.0
+uganda,ugandan shillings,2001.0,actual,total revenue and grants,revenue,tax,excises,,325000000000.0
+uganda,ugandan shillings,2002.0,actual,total revenue and grants,revenue,tax,excises,,361000000000.0
+uganda,ugandan shillings,2003.0,actual,total revenue and grants,revenue,tax,excises,,389000000000.0
+uganda,ugandan shillings,2004.0,actual,total revenue and grants,revenue,tax,excises,,447200000000.0
+uganda,ugandan shillings,2005.0,actual,total revenue and grants,revenue,tax,excises,,498000000000.0
+uganda,ugandan shillings,2006.0,actual,total revenue and grants,revenue,tax,excises,,567000000000.0
+uganda,ugandan shillings,2007.0,actual,total revenue and grants,revenue,tax,excises,,653000000000.0
+uganda,ugandan shillings,2008.0,actual,total revenue and grants,revenue,tax,excises,,815000000000.0
+uganda,ugandan shillings,2009.0,actual,total revenue and grants,revenue,tax,excises,,921000000000.0
+uganda,ugandan shillings,2010.0,actual ,total revenue and grants,revenue,tax,excises,,1025000000000.0
+uganda,ugandan shillings,2011.0,actual,total revenue and grants,revenue,tax,excises,,1186000000000.0
+uganda,ugandan shillings,2012.0,actual,total revenue and grants,revenue,tax,excises,,1446000000000.0
+uganda,ugandan shillings,2013.0,actual,total revenue and grants,revenue,tax,excises,,1466000000000.0
+uganda,ugandan shillings,2014.0,budget,total revenue and grants,revenue,tax,excises,,1793800000000.0
+uganda,ugandan shillings,2014.0,prel,total revenue and grants,revenue,tax,excises,,1757000000000.0
+uganda,ugandan shillings,2015.0,proj,total revenue and grants,revenue,tax,excises,,2094000000000.0
+uganda,ugandan shillings,2016.0,proj,total revenue and grants,revenue,tax,excises,,2439000000000.0
+uganda,ugandan shillings,2017.0,proj,total revenue and grants,revenue,tax,excises,,2784000000000.0
+uganda,ugandan shillings,2018.0,proj,total revenue and grants,revenue,tax,excises,,3151000000000.0
+uganda,ugandan shillings,2019.0,proj,total revenue and grants,revenue,tax,excises,,3480000000000.0
+uganda,ugandan shillings,2000.0,actual,total revenue and grants,revenue,tax,value-added tax,,313000000000.0
+uganda,ugandan shillings,2001.0,actual,total revenue and grants,revenue,tax,value-added tax,,339000000000.0
+uganda,ugandan shillings,2002.0,actual,total revenue and grants,revenue,tax,value-added tax,,393000000000.0
+uganda,ugandan shillings,2003.0,actual,total revenue and grants,revenue,tax,value-added tax,,466000000000.0
+uganda,ugandan shillings,2004.0,actual,total revenue and grants,revenue,tax,value-added tax,,531000000000.0
+uganda,ugandan shillings,2005.0,actual,total revenue and grants,revenue,tax,value-added tax,,608000000000.0
+uganda,ugandan shillings,2006.0,actual,total revenue and grants,revenue,tax,value-added tax,,696000000000.0
+uganda,ugandan shillings,2007.0,actual,total revenue and grants,revenue,tax,value-added tax,,829000000000.0
+uganda,ugandan shillings,2008.0,actual,total revenue and grants,revenue,tax,value-added tax,,1039000000000.0
+uganda,ugandan shillings,2009.0,actual,total revenue and grants,revenue,tax,value-added tax,,1184000000000.0
+uganda,ugandan shillings,2010.0,actual ,total revenue and grants,revenue,tax,value-added tax,,1329000000000.0
+uganda,ugandan shillings,2011.0,actual,total revenue and grants,revenue,tax,value-added tax,,1567000000000.0
+uganda,ugandan shillings,2012.0,actual,total revenue and grants,revenue,tax,value-added tax,,1921000000000.0
+uganda,ugandan shillings,2013.0,actual,total revenue and grants,revenue,tax,value-added tax,,2353000000000.0
+uganda,ugandan shillings,2014.0,budget,total revenue and grants,revenue,tax,value-added tax,,2953800000000.0
+uganda,ugandan shillings,2014.0,prel,total revenue and grants,revenue,tax,value-added tax,,2570000000000.0
+uganda,ugandan shillings,2015.0,proj,total revenue and grants,revenue,tax,value-added tax,,3066000000000.0
+uganda,ugandan shillings,2016.0,proj,total revenue and grants,revenue,tax,value-added tax,,3432000000000.0
+uganda,ugandan shillings,2017.0,proj,total revenue and grants,revenue,tax,value-added tax,,3939000000000.0
+uganda,ugandan shillings,2018.0,proj,total revenue and grants,revenue,tax,value-added tax,,4570000000000.0
+uganda,ugandan shillings,2019.0,proj,total revenue and grants,revenue,tax,value-added tax,,5245000000000.0
+uganda,ugandan shillings,2000.0,actual,total revenue and grants,revenue,nontax,,,81000000000.0
+uganda,ugandan shillings,2001.0,actual,total revenue and grants,revenue,nontax,,,53000000000.0
+uganda,ugandan shillings,2002.0,actual,total revenue and grants,revenue,nontax,,,98000000000.0
+uganda,ugandan shillings,2003.0,actual,total revenue and grants,revenue,nontax,,,96000000000.0
+uganda,ugandan shillings,2004.0,actual,total revenue and grants,revenue,nontax,,,118700000000.0
+uganda,ugandan shillings,2005.0,actual,total revenue and grants,revenue,nontax,,,121000000000.0
+uganda,ugandan shillings,2006.0,actual,total revenue and grants,revenue,nontax,,,125000000000.0
+uganda,ugandan shillings,2007.0,actual,total revenue and grants,revenue,nontax,,,144000000000.0
+uganda,ugandan shillings,2008.0,actual,total revenue and grants,revenue,nontax,,,121000000000.0
+uganda,ugandan shillings,2009.0,actual,total revenue and grants,revenue,nontax,,,198000000000.0
+uganda,ugandan shillings,2010.0,actual ,total revenue and grants,revenue,nontax,,,206000000000.0
+uganda,ugandan shillings,2011.0,actual,total revenue and grants,revenue,nontax,,,251000000000.0
+uganda,ugandan shillings,2012.0,actual,total revenue and grants,revenue,nontax,,,259000000000.0
+uganda,ugandan shillings,2013.0,actual,total revenue and grants,revenue,nontax,,,304000000000.0
+uganda,ugandan shillings,2014.0,budget,total revenue and grants,revenue,nontax,,,182100000000.0
+uganda,ugandan shillings,2014.0,prel,total revenue and grants,revenue,nontax,,,334000000000.0
+uganda,ugandan shillings,2015.0,proj,total revenue and grants,revenue,nontax,,,405000000000.0
+uganda,ugandan shillings,2016.0,proj,total revenue and grants,revenue,nontax,,,504000000000.0
+uganda,ugandan shillings,2017.0,proj,total revenue and grants,revenue,nontax,,,580000000000.0
+uganda,ugandan shillings,2018.0,proj,total revenue and grants,revenue,nontax,,,693000000000.0
+uganda,ugandan shillings,2019.0,proj,total revenue and grants,revenue,nontax,,,829000000000.0
+uganda,ugandan shillings,2000.0,actual,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2001.0,actual,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2002.0,actual,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2003.0,actual,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2004.0,actual,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2005.0,actual,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2006.0,actual,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2007.0,actual,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2008.0,actual,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2009.0,actual,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2010.0,actual ,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2011.0,actual,total revenue and grants,revenue,oil revenue,,,1121000000000.0
+uganda,ugandan shillings,2012.0,actual,total revenue and grants,revenue,oil revenue,,,392000000000.0
+uganda,ugandan shillings,2013.0,actual,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2014.0,budget,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2014.0,prel,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2015.0,proj,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2016.0,proj,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2017.0,proj,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2018.0,proj,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2019.0,proj,total revenue and grants,revenue,oil revenue,,,0.0
+uganda,ugandan shillings,2000.0,actual,total revenue and grants,grants,,,,516000000000.0
+uganda,ugandan shillings,2001.0,actual,total revenue and grants,grants,,,,786000000000.0
+uganda,ugandan shillings,2002.0,actual,total revenue and grants,grants,,,,715000000000.0
+uganda,ugandan shillings,2003.0,actual,total revenue and grants,grants,,,,830000000000.0
+uganda,ugandan shillings,2004.0,actual,total revenue and grants,grants,,,,1249100000000.0
+uganda,ugandan shillings,2005.0,actual,total revenue and grants,grants,,,,1198000000000.0
+uganda,ugandan shillings,2006.0,actual,total revenue and grants,grants,,,,974000000000.0
+uganda,ugandan shillings,2007.0,actual,total revenue and grants,grants,,,,957000000000.0
+uganda,ugandan shillings,2008.0,actual,total revenue and grants,grants,,,,656000000000.0
+uganda,ugandan shillings,2009.0,actual,total revenue and grants,grants,,,,787000000000.0
+uganda,ugandan shillings,2010.0,actual ,total revenue and grants,grants,,,,863000000000.0
+uganda,ugandan shillings,2011.0,actual,total revenue and grants,grants,,,,891000000000.0
+uganda,ugandan shillings,2012.0,actual,total revenue and grants,grants,,,,1137000000000.0
+uganda,ugandan shillings,2013.0,actual,total revenue and grants,grants,,,,936000000000.0
+uganda,ugandan shillings,2014.0,budget,total revenue and grants,grants,,,,909700000000.0
+uganda,ugandan shillings,2014.0,prel,total revenue and grants,grants,,,,709000000000.0
+uganda,ugandan shillings,2015.0,proj,total revenue and grants,grants,,,,1222000000000.0
+uganda,ugandan shillings,2016.0,proj,total revenue and grants,grants,,,,824000000000.0
+uganda,ugandan shillings,2017.0,proj,total revenue and grants,grants,,,,819000000000.0
+uganda,ugandan shillings,2018.0,proj,total revenue and grants,grants,,,,881000000000.0
+uganda,ugandan shillings,2019.0,proj,total revenue and grants,grants,,,,738000000000.0
+uganda,ugandan shillings,2000.0,actual,total revenue and grants,grants,budget support ,,,240000000000.0
+uganda,ugandan shillings,2001.0,actual,total revenue and grants,grants,budget support ,,,367000000000.0
+uganda,ugandan shillings,2002.0,actual,total revenue and grants,grants,budget support ,,,364000000000.0
+uganda,ugandan shillings,2003.0,actual,total revenue and grants,grants,budget support ,,,469000000000.0
+uganda,ugandan shillings,2004.0,actual,total revenue and grants,grants,budget support ,,,816200000000.0
+uganda,ugandan shillings,2005.0,actual,total revenue and grants,grants,budget support ,,,811000000000.0
+uganda,ugandan shillings,2006.0,actual,total revenue and grants,grants,budget support ,,,738000000000.0
+uganda,ugandan shillings,2007.0,actual,total revenue and grants,grants,budget support ,,,776000000000.0
+uganda,ugandan shillings,2008.0,actual,total revenue and grants,grants,budget support ,,,470000000000.0
+uganda,ugandan shillings,2009.0,actual,total revenue and grants,grants,budget support ,,,531000000000.0
+uganda,ugandan shillings,2010.0,actual ,total revenue and grants,grants,budget support ,,,467000000000.0
+uganda,ugandan shillings,2011.0,actual,total revenue and grants,grants,budget support ,,,515000000000.0
+uganda,ugandan shillings,2012.0,actual,total revenue and grants,grants,budget support ,,,581000000000.0
+uganda,ugandan shillings,2013.0,actual,total revenue and grants,grants,budget support ,,,199000000000.0
+uganda,ugandan shillings,2014.0,budget,total revenue and grants,grants,budget support ,,,212900000000.0
+uganda,ugandan shillings,2014.0,prel,total revenue and grants,grants,budget support ,,,215000000000.0
+uganda,ugandan shillings,2015.0,proj,total revenue and grants,grants,budget support ,,,257000000000.0
+uganda,ugandan shillings,2016.0,proj,total revenue and grants,grants,budget support ,,,256000000000.0
+uganda,ugandan shillings,2017.0,proj,total revenue and grants,grants,budget support ,,,254000000000.0
+uganda,ugandan shillings,2018.0,proj,total revenue and grants,grants,budget support ,,,274000000000.0
+uganda,ugandan shillings,2019.0,proj,total revenue and grants,grants,budget support ,,,229000000000.0
+uganda,ugandan shillings,2000.0,actual,total revenue and grants,grants,project grants,,,275000000000.0
+uganda,ugandan shillings,2001.0,actual,total revenue and grants,grants,project grants,,,419000000000.0
+uganda,ugandan shillings,2002.0,actual,total revenue and grants,grants,project grants,,,351000000000.0
+uganda,ugandan shillings,2003.0,actual,total revenue and grants,grants,project grants,,,361000000000.0
+uganda,ugandan shillings,2004.0,actual,total revenue and grants,grants,project grants,,,432900000000.0
+uganda,ugandan shillings,2005.0,actual,total revenue and grants,grants,project grants,,,387000000000.0
+uganda,ugandan shillings,2006.0,actual,total revenue and grants,grants,project grants,,,236000000000.0
+uganda,ugandan shillings,2007.0,actual,total revenue and grants,grants,project grants,,,181000000000.0
+uganda,ugandan shillings,2008.0,actual,total revenue and grants,grants,project grants,,,185000000000.0
+uganda,ugandan shillings,2009.0,actual,total revenue and grants,grants,project grants,,,257000000000.0
+uganda,ugandan shillings,2010.0,actual ,total revenue and grants,grants,project grants,,,396000000000.0
+uganda,ugandan shillings,2011.0,actual,total revenue and grants,grants,project grants,,,375000000000.0
+uganda,ugandan shillings,2012.0,actual,total revenue and grants,grants,project grants,,,556000000000.0
+uganda,ugandan shillings,2013.0,actual,total revenue and grants,grants,project grants,,,738000000000.0
+uganda,ugandan shillings,2014.0,budget,total revenue and grants,grants,project grants,,,696800000000.0
+uganda,ugandan shillings,2014.0,prel,total revenue and grants,grants,project grants,,,494000000000.0
+uganda,ugandan shillings,2015.0,proj,total revenue and grants,grants,project grants,,,964000000000.0
+uganda,ugandan shillings,2016.0,proj,total revenue and grants,grants,project grants,,,568000000000.0
+uganda,ugandan shillings,2017.0,proj,total revenue and grants,grants,project grants,,,564000000000.0
+uganda,ugandan shillings,2018.0,proj,total revenue and grants,grants,project grants,,,607000000000.0
+uganda,ugandan shillings,2019.0,proj,total revenue and grants,grants,project grants,,,509000000000.0
+uganda,ugandan shillings,2000.0,actual,expenditures,,,,,2389000000000.0
+uganda,ugandan shillings,2001.0,actual,expenditures,,,,,2180000000000.0
+uganda,ugandan shillings,2002.0,actual,expenditures,,,,,2514000000000.0
+uganda,ugandan shillings,2003.0,actual,expenditures,,,,,2775000000000.0
+uganda,ugandan shillings,2004.0,actual,expenditures,,,,,3135600000000.0
+uganda,ugandan shillings,2005.0,actual,expenditures,,,,,3233000000000.0
+uganda,ugandan shillings,2006.0,actual,expenditures,,,,,3228000000000.0
+uganda,ugandan shillings,2007.0,actual,expenditures,,,,,3844000000000.0
+uganda,ugandan shillings,2008.0,actual,expenditures,,,,,4384000000000.0
+uganda,ugandan shillings,2009.0,actual,expenditures,,,,,5205000000000.0
+uganda,ugandan shillings,2010.0,actual ,expenditures,,,,,6836000000000.0
+uganda,ugandan shillings,2011.0,actual,expenditures,,,,,8900000000000.0
+uganda,ugandan shillings,2012.0,actual,expenditures,,,,,9281000000000.0
+uganda,ugandan shillings,2013.0,actual,expenditures,,,,,10523000000000.0
+uganda,ugandan shillings,2014.0,budget,expenditures,,,,,13014900000000.0
+uganda,ugandan shillings,2014.0,prel,expenditures,,,,,11456000000000.0
+uganda,ugandan shillings,2015.0,proj,expenditures,,,,,16177000000000.0
+uganda,ugandan shillings,2016.0,proj,expenditures,,,,,16156000000000.0
+uganda,ugandan shillings,2017.0,proj,expenditures,,,,,18653000000000.0
+uganda,ugandan shillings,2018.0,proj,expenditures,,,,,20466000000000.0
+uganda,ugandan shillings,2019.0,proj,expenditures,,,,,21372000000000.0
+uganda,ugandan shillings,2000.0,actual,expenditures,current expenditures,,,,977000000000.0
+uganda,ugandan shillings,2001.0,actual,expenditures,current expenditures,,,,1138000000000.0
+uganda,ugandan shillings,2002.0,actual,expenditures,current expenditures,,,,1420000000000.0
+uganda,ugandan shillings,2003.0,actual,expenditures,current expenditures,,,,1565000000000.0
+uganda,ugandan shillings,2004.0,actual,expenditures,current expenditures,,,,1865300000000.0
+uganda,ugandan shillings,2005.0,actual,expenditures,current expenditures,,,,1978000000000.0
+uganda,ugandan shillings,2006.0,actual,expenditures,current expenditures,,,,2233000000000.0
+uganda,ugandan shillings,2007.0,actual,expenditures,current expenditures,,,,2442000000000.0
+uganda,ugandan shillings,2008.0,actual,expenditures,current expenditures,,,,2881000000000.0
+uganda,ugandan shillings,2009.0,actual,expenditures,current expenditures,,,,3291000000000.0
+uganda,ugandan shillings,2010.0,actual ,expenditures,current expenditures,,,,4308000000000.0
+uganda,ugandan shillings,2011.0,actual,expenditures,current expenditures,,,,5963000000000.0
+uganda,ugandan shillings,2012.0,actual,expenditures,current expenditures,,,,5585000000000.0
+uganda,ugandan shillings,2013.0,actual,expenditures,current expenditures,,,,5813000000000.0
+uganda,ugandan shillings,2014.0,budget,expenditures,current expenditures,,,,6438000000000.0
+uganda,ugandan shillings,2014.0,prel,expenditures,current expenditures,,,,6675000000000.0
+uganda,ugandan shillings,2015.0,proj,expenditures,current expenditures,,,,7491000000000.0
+uganda,ugandan shillings,2016.0,proj,expenditures,current expenditures,,,,8332000000000.0
+uganda,ugandan shillings,2017.0,proj,expenditures,current expenditures,,,,9394000000000.0
+uganda,ugandan shillings,2018.0,proj,expenditures,current expenditures,,,,10516000000000.0
+uganda,ugandan shillings,2019.0,proj,expenditures,current expenditures,,,,11870000000000.0
+uganda,ugandan shillings,2000.0,actual,expenditures,current expenditures,wages and salaries,,,374000000000.0
+uganda,ugandan shillings,2001.0,actual,expenditures,current expenditures,wages and salaries,,,434000000000.0
+uganda,ugandan shillings,2002.0,actual,expenditures,current expenditures,wages and salaries,,,548600000000.0
+uganda,ugandan shillings,2003.0,actual,expenditures,current expenditures,wages and salaries,,,611000000000.0
+uganda,ugandan shillings,2004.0,actual,expenditures,current expenditures,wages and salaries,,,683000000000.0
+uganda,ugandan shillings,2005.0,actual,expenditures,current expenditures,wages and salaries,,,774000000000.0
+uganda,ugandan shillings,2006.0,actual,expenditures,current expenditures,wages and salaries,,,867000000000.0
+uganda,ugandan shillings,2007.0,actual,expenditures,current expenditures,wages and salaries,,,987000000000.0
+uganda,ugandan shillings,2008.0,actual,expenditures,current expenditures,wages and salaries,,,1106000000000.0
+uganda,ugandan shillings,2009.0,actual,expenditures,current expenditures,wages and salaries,,,1184000000000.0
+uganda,ugandan shillings,2010.0,actual ,expenditures,current expenditures,wages and salaries,,,1308000000000.0
+uganda,ugandan shillings,2011.0,actual,expenditures,current expenditures,wages and salaries,,,1664000000000.0
+uganda,ugandan shillings,2012.0,actual,expenditures,current expenditures,wages and salaries,,,1832000000000.0
+uganda,ugandan shillings,2013.0,actual,expenditures,current expenditures,wages and salaries,,,2160000000000.0
+uganda,ugandan shillings,2014.0,budget,expenditures,current expenditures,wages and salaries,,,2440200000000.0
+uganda,ugandan shillings,2014.0,prel,expenditures,current expenditures,wages and salaries,,,2384000000000.0
+uganda,ugandan shillings,2015.0,proj,expenditures,current expenditures,wages and salaries,,,2913000000000.0
+uganda,ugandan shillings,2016.0,proj,expenditures,current expenditures,wages and salaries,,,2991000000000.0
+uganda,ugandan shillings,2017.0,proj,expenditures,current expenditures,wages and salaries,,,3375000000000.0
+uganda,ugandan shillings,2018.0,proj,expenditures,current expenditures,wages and salaries,,,3714000000000.0
+uganda,ugandan shillings,2019.0,proj,expenditures,current expenditures,wages and salaries,,,4196000000000.0
+uganda,ugandan shillings,2000.0,actual,expenditures,current expenditures,interest payments,,,95000000000.0
+uganda,ugandan shillings,2001.0,actual,expenditures,current expenditures,interest payments,,,125000000000.0
+uganda,ugandan shillings,2002.0,actual,expenditures,current expenditures,interest payments,,,141000000000.0
+uganda,ugandan shillings,2003.0,actual,expenditures,current expenditures,interest payments,,,173000000000.0
+uganda,ugandan shillings,2004.0,actual,expenditures,current expenditures,interest payments,,,261800000000.0
+uganda,ugandan shillings,2005.0,actual,expenditures,current expenditures,interest payments,,,229000000000.0
+uganda,ugandan shillings,2006.0,actual,expenditures,current expenditures,interest payments,,,249000000000.0
+uganda,ugandan shillings,2007.0,actual,expenditures,current expenditures,interest payments,,,236000000000.0
+uganda,ugandan shillings,2008.0,actual,expenditures,current expenditures,interest payments,,,309000000000.0
+uganda,ugandan shillings,2009.0,actual,expenditures,current expenditures,interest payments,,,357000000000.0
+uganda,ugandan shillings,2010.0,actual ,expenditures,current expenditures,interest payments,,,386000000000.0
+uganda,ugandan shillings,2011.0,actual,expenditures,current expenditures,interest payments,,,424000000000.0
+uganda,ugandan shillings,2012.0,actual,expenditures,current expenditures,interest payments,,,603000000000.0
+uganda,ugandan shillings,2013.0,actual,expenditures,current expenditures,interest payments,,,890000000000.0
+uganda,ugandan shillings,2014.0,budget,expenditures,current expenditures,interest payments,,,975300000000.0
+uganda,ugandan shillings,2014.0,prel,expenditures,current expenditures,interest payments,,,970000000000.0
+uganda,ugandan shillings,2015.0,proj,expenditures,current expenditures,interest payments,,,1291000000000.0
+uganda,ugandan shillings,2016.0,proj,expenditures,current expenditures,interest payments,,,1614000000000.0
+uganda,ugandan shillings,2017.0,proj,expenditures,current expenditures,interest payments,,,1880000000000.0
+uganda,ugandan shillings,2018.0,proj,expenditures,current expenditures,interest payments,,,2210000000000.0
+uganda,ugandan shillings,2019.0,proj,expenditures,current expenditures,interest payments,,,2492000000000.0
+uganda,ugandan shillings,2000.0,actual,expenditures,current expenditures,other current,,,508000000000.0
+uganda,ugandan shillings,2001.0,actual,expenditures,current expenditures,other current,,,579000000000.0
+uganda,ugandan shillings,2002.0,actual,expenditures,current expenditures,other current,,,730400000000.0
+uganda,ugandan shillings,2003.0,actual,expenditures,current expenditures,other current,,,781000000000.0
+uganda,ugandan shillings,2004.0,actual,expenditures,current expenditures,other current,,,861300000000.0
+uganda,ugandan shillings,2005.0,actual,expenditures,current expenditures,other current,,,975000000000.0
+uganda,ugandan shillings,2006.0,actual,expenditures,current expenditures,other current,,,1117000000000.0
+uganda,ugandan shillings,2007.0,actual,expenditures,current expenditures,other current,,,1220000000000.0
+uganda,ugandan shillings,2008.0,actual,expenditures,current expenditures,other current,,,1466000000000.0
+uganda,ugandan shillings,2009.0,actual,expenditures,current expenditures,other current,,,1750000000000.0
+uganda,ugandan shillings,2010.0,actual ,expenditures,current expenditures,other current,,,2614000000000.0
+uganda,ugandan shillings,2011.0,actual,expenditures,current expenditures,other current,,,3875000000000.0
+uganda,ugandan shillings,2012.0,actual,expenditures,current expenditures,other current,,,3150000000000.0
+uganda,ugandan shillings,2013.0,actual,expenditures,current expenditures,other current,,,2763000000000.0
+uganda,ugandan shillings,2014.0,budget,expenditures,current expenditures,other current,,,3022500000000.0
+uganda,ugandan shillings,2014.0,prel,expenditures,current expenditures,other current,,,3321000000000.0
+uganda,ugandan shillings,2015.0,proj,expenditures,current expenditures,other current,,,3287000000000.0
+uganda,ugandan shillings,2016.0,proj,expenditures,current expenditures,other current,,,3727000000000.0
+uganda,ugandan shillings,2017.0,proj,expenditures,current expenditures,other current,,,4139000000000.0
+uganda,ugandan shillings,2018.0,proj,expenditures,current expenditures,other current,,,4592000000000.0
+uganda,ugandan shillings,2019.0,proj,expenditures,current expenditures,other current,,,5182000000000.0
+uganda,ugandan shillings,2000.0,actual,expenditures,development expenditures,,,,783000000000.0
+uganda,ugandan shillings,2001.0,actual,expenditures,development expenditures,,,,939000000000.0
+uganda,ugandan shillings,2002.0,actual,expenditures,development expenditures,,,,979000000000.0
+uganda,ugandan shillings,2003.0,actual,expenditures,development expenditures,,,,1168000000000.0
+uganda,ugandan shillings,2004.0,actual,expenditures,development expenditures,,,,1155300000000.0
+uganda,ugandan shillings,2005.0,actual,expenditures,development expenditures,,,,1187000000000.0
+uganda,ugandan shillings,2006.0,actual,expenditures,development expenditures,,,,935000000000.0
+uganda,ugandan shillings,2007.0,actual,expenditures,development expenditures,,,,1205000000000.0
+uganda,ugandan shillings,2008.0,actual,expenditures,development expenditures,,,,1362000000000.0
+uganda,ugandan shillings,2009.0,actual,expenditures,development expenditures,,,,1688000000000.0
+uganda,ugandan shillings,2010.0,actual ,expenditures,development expenditures,,,,2312000000000.0
+uganda,ugandan shillings,2011.0,actual,expenditures,development expenditures,,,,2774000000000.0
+uganda,ugandan shillings,2012.0,actual,expenditures,development expenditures,,,,3458000000000.0
+uganda,ugandan shillings,2013.0,actual,expenditures,development expenditures,,,,4237000000000.0
+uganda,ugandan shillings,2014.0,budget,expenditures,development expenditures,,,,6510100000000.0
+uganda,ugandan shillings,2014.0,prel,expenditures,development expenditures,,,,4740000000000.0
+uganda,ugandan shillings,2015.0,proj,expenditures,development expenditures,,,,5894000000000.0
+uganda,ugandan shillings,2016.0,proj,expenditures,development expenditures,,,,5477000000000.0
+uganda,ugandan shillings,2017.0,proj,expenditures,development expenditures,,,,6140000000000.0
+uganda,ugandan shillings,2018.0,proj,expenditures,development expenditures,,,,6844000000000.0
+uganda,ugandan shillings,2019.0,proj,expenditures,development expenditures,,,,7264000000000.0
+uganda,ugandan shillings,2000.0,actual,expenditures,development expenditures,externally-financed projects,,,520000000000.0
+uganda,ugandan shillings,2001.0,actual,expenditures,development expenditures,externally-financed projects,,,604000000000.0
+uganda,ugandan shillings,2002.0,actual,expenditures,development expenditures,externally-financed projects,,,547000000000.0
+uganda,ugandan shillings,2003.0,actual,expenditures,development expenditures,externally-financed projects,,,672000000000.0
+uganda,ugandan shillings,2004.0,actual,expenditures,development expenditures,externally-financed projects,,,716100000000.0
+uganda,ugandan shillings,2005.0,actual,expenditures,development expenditures,externally-financed projects,,,700000000000.0
+uganda,ugandan shillings,2006.0,actual,expenditures,development expenditures,externally-financed projects,,,416000000000.0
+uganda,ugandan shillings,2007.0,actual,expenditures,development expenditures,externally-financed projects,,,491000000000.0
+uganda,ugandan shillings,2008.0,actual,expenditures,development expenditures,externally-financed projects,,,644000000000.0
+uganda,ugandan shillings,2009.0,actual,expenditures,development expenditures,externally-financed projects,,,481000000000.0
+uganda,ugandan shillings,2010.0,actual ,expenditures,development expenditures,externally-financed projects,,,889000000000.0
+uganda,ugandan shillings,2011.0,actual,expenditures,development expenditures,externally-financed projects,,,1042000000000.0
+uganda,ugandan shillings,2012.0,actual,expenditures,development expenditures,externally-financed projects,,,1701000000000.0
+uganda,ugandan shillings,2013.0,actual,expenditures,development expenditures,externally-financed projects,,,2163000000000.0
+uganda,ugandan shillings,2014.0,budget,expenditures,development expenditures,externally-financed projects,,,2430700000000.0
+uganda,ugandan shillings,2014.0,prel,expenditures,development expenditures,externally-financed projects,,,1674000000000.0
+uganda,ugandan shillings,2015.0,proj,expenditures,development expenditures,externally-financed projects,,,2664000000000.0
+uganda,ugandan shillings,2016.0,proj,expenditures,development expenditures,externally-financed projects,,,1764000000000.0
+uganda,ugandan shillings,2017.0,proj,expenditures,development expenditures,externally-financed projects,,,1843000000000.0
+uganda,ugandan shillings,2018.0,proj,expenditures,development expenditures,externally-financed projects,,,1836000000000.0
+uganda,ugandan shillings,2019.0,proj,expenditures,development expenditures,externally-financed projects,,,1570000000000.0
+uganda,ugandan shillings,2000.0,actual,expenditures,development expenditures,government of uganda investment,,,263000000000.0
+uganda,ugandan shillings,2001.0,actual,expenditures,development expenditures,government of uganda investment,,,335000000000.0
+uganda,ugandan shillings,2002.0,actual,expenditures,development expenditures,government of uganda investment,,,432000000000.0
+uganda,ugandan shillings,2003.0,actual,expenditures,development expenditures,government of uganda investment,,,496000000000.0
+uganda,ugandan shillings,2004.0,actual,expenditures,development expenditures,government of uganda investment,,,439200000000.0
+uganda,ugandan shillings,2005.0,actual,expenditures,development expenditures,government of uganda investment,,,487000000000.0
+uganda,ugandan shillings,2006.0,actual,expenditures,development expenditures,government of uganda investment,,,519000000000.0
+uganda,ugandan shillings,2007.0,actual,expenditures,development expenditures,government of uganda investment,,,714000000000.0
+uganda,ugandan shillings,2008.0,actual,expenditures,development expenditures,government of uganda investment,,,718000000000.0
+uganda,ugandan shillings,2009.0,actual,expenditures,development expenditures,government of uganda investment,,,1207000000000.0
+uganda,ugandan shillings,2010.0,actual ,expenditures,development expenditures,government of uganda investment,,,1423000000000.0
+uganda,ugandan shillings,2011.0,actual,expenditures,development expenditures,government of uganda investment,,,1732000000000.0
+uganda,ugandan shillings,2012.0,actual,expenditures,development expenditures,government of uganda investment,,,1756000000000.0
+uganda,ugandan shillings,2013.0,actual,expenditures,development expenditures,government of uganda investment,,,2074000000000.0
+uganda,ugandan shillings,2014.0,budget,expenditures,development expenditures,government of uganda investment,,,4079400000000.0
+uganda,ugandan shillings,2014.0,prel,expenditures,development expenditures,government of uganda investment,,,3066000000000.0
+uganda,ugandan shillings,2015.0,proj,expenditures,development expenditures,government of uganda investment,,,3230000000000.0
+uganda,ugandan shillings,2016.0,proj,expenditures,development expenditures,government of uganda investment,,,3713000000000.0
+uganda,ugandan shillings,2017.0,proj,expenditures,development expenditures,government of uganda investment,,,4297000000000.0
+uganda,ugandan shillings,2018.0,proj,expenditures,development expenditures,government of uganda investment,,,5008000000000.0
+uganda,ugandan shillings,2019.0,proj,expenditures,development expenditures,government of uganda investment,,,5694000000000.0
+uganda,ugandan shillings,2000.0,actual,expenditures,net lending and investment,,,,392000000000.0
+uganda,ugandan shillings,2001.0,actual,expenditures,net lending and investment,,,,-27000000000.0
+uganda,ugandan shillings,2002.0,actual,expenditures,net lending and investment,,,,4900000000.0
+uganda,ugandan shillings,2003.0,actual,expenditures,net lending and investment,,,,-13000000000.0
+uganda,ugandan shillings,2004.0,actual,expenditures,net lending and investment,,,,33800000000.0
+uganda,ugandan shillings,2005.0,actual,expenditures,net lending and investment,,,,-8000000000.0
+uganda,ugandan shillings,2006.0,actual,expenditures,net lending and investment,,,,-29000000000.0
+uganda,ugandan shillings,2007.0,actual,expenditures,net lending and investment,,,,46000000000.0
+uganda,ugandan shillings,2008.0,actual,expenditures,net lending and investment,,,,-163000000000.0
+uganda,ugandan shillings,2009.0,actual,expenditures,net lending and investment,,,,-57000000000.0
+uganda,ugandan shillings,2010.0,actual ,expenditures,net lending and investment,,,,-37000000000.0
+uganda,ugandan shillings,2011.0,actual,expenditures,net lending and investment,,,,-30000000000.0
+uganda,ugandan shillings,2012.0,actual,expenditures,net lending and investment,,,,-39000000000.0
+uganda,ugandan shillings,2013.0,actual,expenditures,net lending and investment,,,,409000000000.0
+uganda,ugandan shillings,2014.0,budget,expenditures,net lending and investment,,,,0.0
+uganda,ugandan shillings,2014.0,prel,expenditures,net lending and investment,,,,21000000000.0
+uganda,ugandan shillings,2015.0,proj,expenditures,net lending and investment,,,,2512000000000.0
+uganda,ugandan shillings,2016.0,proj,expenditures,net lending and investment,,,,2017000000000.0
+uganda,ugandan shillings,2017.0,proj,expenditures,net lending and investment,,,,2740000000000.0
+uganda,ugandan shillings,2018.0,proj,expenditures,net lending and investment,,,,2677000000000.0
+uganda,ugandan shillings,2019.0,proj,expenditures,net lending and investment,,,,1809000000000.0
+uganda,ugandan shillings,2000.0,actual,expenditures,other spending,,,,237000000000.0
+uganda,ugandan shillings,2001.0,actual,expenditures,other spending,,,,130000000000.0
+uganda,ugandan shillings,2002.0,actual,expenditures,other spending,,,,110100000000.0
+uganda,ugandan shillings,2003.0,actual,expenditures,other spending,,,,55000000000.0
+uganda,ugandan shillings,2004.0,actual,expenditures,other spending,,,,81200000000.0
+uganda,ugandan shillings,2005.0,actual,expenditures,other spending,,,,75000000000.0
+uganda,ugandan shillings,2006.0,actual,expenditures,other spending,,,,91000000000.0
+uganda,ugandan shillings,2007.0,actual,expenditures,other spending,,,,151000000000.0
+uganda,ugandan shillings,2008.0,actual,expenditures,other spending,,,,304000000000.0
+uganda,ugandan shillings,2009.0,actual,expenditures,other spending,,,,283000000000.0
+uganda,ugandan shillings,2010.0,actual ,expenditures,other spending,,,,253000000000.0
+uganda,ugandan shillings,2011.0,actual,expenditures,other spending,,,,194000000000.0
+uganda,ugandan shillings,2012.0,actual,expenditures,other spending,,,,278000000000.0
+uganda,ugandan shillings,2013.0,actual,expenditures,other spending,,,,63000000000.0
+uganda,ugandan shillings,2014.0,budget,expenditures,other spending,,,,66800000000.0
+uganda,ugandan shillings,2014.0,prel,expenditures,other spending,,,,20000000000.0
+uganda,ugandan shillings,2015.0,proj,expenditures,other spending,,,,280000000000.0
+uganda,ugandan shillings,2016.0,proj,expenditures,other spending,,,,330000000000.0
+uganda,ugandan shillings,2017.0,proj,expenditures,other spending,,,,380000000000.0
+uganda,ugandan shillings,2018.0,proj,expenditures,other spending,,,,430000000000.0
+uganda,ugandan shillings,2019.0,proj,expenditures,other spending,,,,430000000000.0
+uganda,ugandan shillings,2000.0,actual,total financing,,,,,860000000000.0
+uganda,ugandan shillings,2001.0,actual,total financing,,,,,351000000000.0
+uganda,ugandan shillings,2002.0,actual,total financing,,,,,421000000000.0
+uganda,ugandan shillings,2003.0,actual,total financing,,,,,494000000000.0
+uganda,ugandan shillings,2004.0,actual,total financing,,,,,99800000000.0
+uganda,ugandan shillings,2005.0,actual,total financing,,,,,53000000000.0
+uganda,ugandan shillings,2006.0,actual,total financing,,,,,-87000000000.0
+uganda,ugandan shillings,2007.0,actual,total financing,,,,,174000000000.0
+uganda,ugandan shillings,2008.0,actual,total financing,,,,,541000000000.0
+uganda,ugandan shillings,2009.0,actual,total financing,,,,,658000000000.0
+uganda,ugandan shillings,2010.0,actual ,total financing,,,,,1532000000000.0
+uganda,ugandan shillings,2011.0,actual,total financing,,,,,1654000000000.0
+uganda,ugandan shillings,2012.0,actual,total financing,,,,,1191000000000.0
+uganda,ugandan shillings,2013.0,actual,total financing,,,,,2084000000000.0
+uganda,ugandan shillings,2014.0,budget,total financing,,,,,3464200000000.0
+uganda,ugandan shillings,2014.0,prel,total financing,,,,,2455000000000.0
+uganda,ugandan shillings,2015.0,proj,total financing,,,,,5178000000000.0
+uganda,ugandan shillings,2016.0,proj,total financing,,,,,4284000000000.0
+uganda,ugandan shillings,2017.0,proj,total financing,,,,,5144000000000.0
+uganda,ugandan shillings,2018.0,proj,total financing,,,,,4929000000000.0
+uganda,ugandan shillings,2019.0,proj,total financing,,,,,3646000000000.0
+uganda,ugandan shillings,2000.0,actual,total financing,external financing net,,,,286000000000.0
+uganda,ugandan shillings,2001.0,actual,total financing,external financing net,,,,362000000000.0
+uganda,ugandan shillings,2002.0,actual,total financing,external financing net,,,,476000000000.0
+uganda,ugandan shillings,2003.0,actual,total financing,external financing net,,,,513000000000.0
+uganda,ugandan shillings,2004.0,actual,total financing,external financing net,,,,299800000000.0
+uganda,ugandan shillings,2005.0,actual,total financing,external financing net,,,,127000000000.0
+uganda,ugandan shillings,2006.0,actual,total financing,external financing net,,,,118000000000.0
+uganda,ugandan shillings,2007.0,actual,total financing,external financing net,,,,379000000000.0
+uganda,ugandan shillings,2008.0,actual,total financing,external financing net,,,,618000000000.0
+uganda,ugandan shillings,2009.0,actual,total financing,external financing net,,,,592000000000.0
+uganda,ugandan shillings,2010.0,actual ,total financing,external financing net,,,,784000000000.0
+uganda,ugandan shillings,2011.0,actual,total financing,external financing net,,,,549000000000.0
+uganda,ugandan shillings,2012.0,actual,total financing,external financing net,,,,1171000000000.0
+uganda,ugandan shillings,2013.0,actual,total financing,external financing net,,,,1418000000000.0
+uganda,ugandan shillings,2014.0,budget,total financing,external financing net,,,,1602200000000.0
+uganda,ugandan shillings,2014.0,prel,total financing,external financing net,,,,879000000000.0
+uganda,ugandan shillings,2015.0,proj,total financing,external financing net,,,,2578000000000.0
+uganda,ugandan shillings,2016.0,proj,total financing,external financing net,,,,2698000000000.0
+uganda,ugandan shillings,2017.0,proj,total financing,external financing net,,,,2810000000000.0
+uganda,ugandan shillings,2018.0,proj,total financing,external financing net,,,,3084000000000.0
+uganda,ugandan shillings,2019.0,proj,total financing,external financing net,,,,2359000000000.0
+uganda,ugandan shillings,2000.0,actual,total financing,external financing net,external financing inflow,budget support,,58000000000.0
+uganda,ugandan shillings,2001.0,actual,total financing,external financing net,external financing inflow,budget support,,149000000000.0
+uganda,ugandan shillings,2002.0,actual,total financing,external financing net,external financing inflow,budget support,,349000000000.0
+uganda,ugandan shillings,2003.0,actual,total financing,external financing net,external financing inflow,budget support,,360000000000.0
+uganda,ugandan shillings,2004.0,actual,total financing,external financing net,external financing inflow,budget support,,57000000000.0
+uganda,ugandan shillings,2005.0,actual,total financing,external financing net,external financing inflow,budget support,,11000000000.0
+uganda,ugandan shillings,2006.0,actual,total financing,external financing net,external financing inflow,budget support,,76000000000.0
+uganda,ugandan shillings,2007.0,actual,total financing,external financing net,external financing inflow,budget support,,249000000000.0
+uganda,ugandan shillings,2008.0,actual,total financing,external financing net,external financing inflow,budget support,,211000000000.0
+uganda,ugandan shillings,2009.0,actual,total financing,external financing net,external financing inflow,budget support,,233000000000.0
+uganda,ugandan shillings,2010.0,actual ,total financing,external financing net,external financing inflow,budget support,,236000000000.0
+uganda,ugandan shillings,2011.0,actual,total financing,external financing net,external financing inflow,budget support,,233000000000.0
+uganda,ugandan shillings,2012.0,actual,total financing,external financing net,external financing inflow,budget support,,126000000000.0
+uganda,ugandan shillings,2013.0,actual,total financing,external financing net,external financing inflow,budget support,,324000000000.0
+uganda,ugandan shillings,2014.0,budget,total financing,external financing net,external financing inflow,budget support,,0.0
+uganda,ugandan shillings,2014.0,prel,total financing,external financing net,external financing inflow,budget support,,0.0
+uganda,ugandan shillings,2015.0,proj,total financing,external financing net,external financing inflow,budget support,,0.0
+uganda,ugandan shillings,2016.0,proj,total financing,external financing net,external financing inflow,budget support,,0.0
+uganda,ugandan shillings,2017.0,proj,total financing,external financing net,external financing inflow,budget support,,0.0
+uganda,ugandan shillings,2018.0,proj,total financing,external financing net,external financing inflow,budget support,,0.0
+uganda,ugandan shillings,2019.0,proj,total financing,external financing net,external financing inflow,budget support,,0.0
+uganda,ugandan shillings,2000.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,275000000000.0
+uganda,ugandan shillings,2001.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,281000000000.0
+uganda,ugandan shillings,2002.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,208000000000.0
+uganda,ugandan shillings,2003.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,257000000000.0
+uganda,ugandan shillings,2004.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,370300000000.0
+uganda,ugandan shillings,2005.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,274000000000.0
+uganda,ugandan shillings,2006.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,241000000000.0
+uganda,ugandan shillings,2007.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,271000000000.0
+uganda,ugandan shillings,2008.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,495000000000.0
+uganda,ugandan shillings,2009.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,513000000000.0
+uganda,ugandan shillings,2010.0,actual ,total financing,external financing net,external financing inflow,concessional project loans,,683000000000.0
+uganda,ugandan shillings,2011.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,470000000000.0
+uganda,ugandan shillings,2012.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,1056000000000.0
+uganda,ugandan shillings,2013.0,actual,total financing,external financing net,external financing inflow,concessional project loans,,1303000000000.0
+uganda,ugandan shillings,2014.0,budget,total financing,external financing net,external financing inflow,concessional project loans,,1850600000000.0
+uganda,ugandan shillings,2014.0,prel,total financing,external financing net,external financing inflow,concessional project loans,,1120000000000.0
+uganda,ugandan shillings,2015.0,proj,total financing,external financing net,external financing inflow,concessional project loans,,1699000000000.0
+uganda,ugandan shillings,2016.0,proj,total financing,external financing net,external financing inflow,concessional project loans,,1196000000000.0
+uganda,ugandan shillings,2017.0,proj,total financing,external financing net,external financing inflow,concessional project loans,,1278000000000.0
+uganda,ugandan shillings,2018.0,proj,total financing,external financing net,external financing inflow,concessional project loans,,1228000000000.0
+uganda,ugandan shillings,2019.0,proj,total financing,external financing net,external financing inflow,concessional project loans,,1060000000000.0
+uganda,ugandan shillings,2000.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2001.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2002.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2003.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2004.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2005.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2006.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2007.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2008.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2009.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2010.0,actual ,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2011.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2012.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,192000000000.0
+uganda,ugandan shillings,2013.0,actual,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2014.0,budget,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2014.0,prel,total financing,external financing net,external financing inflow,non-concessional borrowing,,0.0
+uganda,ugandan shillings,2015.0,proj,total financing,external financing net,external financing inflow,non-concessional borrowing,,1160000000000.0
+uganda,ugandan shillings,2016.0,proj,total financing,external financing net,external financing inflow,non-concessional borrowing,,1817000000000.0
+uganda,ugandan shillings,2017.0,proj,total financing,external financing net,external financing inflow,non-concessional borrowing,,1870000000000.0
+uganda,ugandan shillings,2018.0,proj,total financing,external financing net,external financing inflow,non-concessional borrowing,,2238000000000.0
+uganda,ugandan shillings,2019.0,proj,total financing,external financing net,external financing inflow,non-concessional borrowing,,1710000000000.0
+uganda,ugandan shillings,2000.0,actual,total financing,external financing net,external financing outflow,amortization ,,-124000000000.0
+uganda,ugandan shillings,2001.0,actual,total financing,external financing net,external financing outflow,amortization ,,-126000000000.0
+uganda,ugandan shillings,2002.0,actual,total financing,external financing net,external financing outflow,amortization ,,-123000000000.0
+uganda,ugandan shillings,2003.0,actual,total financing,external financing net,external financing outflow,amortization ,,-143000000000.0
+uganda,ugandan shillings,2004.0,actual,total financing,external financing net,external financing outflow,amortization ,,-143400000000.0
+uganda,ugandan shillings,2005.0,actual,total financing,external financing net,external financing outflow,amortization ,,-162000000000.0
+uganda,ugandan shillings,2006.0,actual,total financing,external financing net,external financing outflow,amortization ,,-149000000000.0
+uganda,ugandan shillings,2007.0,actual,total financing,external financing net,external financing outflow,amortization ,,-104000000000.0
+uganda,ugandan shillings,2008.0,actual,total financing,external financing net,external financing outflow,amortization ,,-87000000000.0
+uganda,ugandan shillings,2009.0,actual,total financing,external financing net,external financing outflow,amortization ,,-126000000000.0
+uganda,ugandan shillings,2010.0,actual ,total financing,external financing net,external financing outflow,amortization ,,-110000000000.0
+uganda,ugandan shillings,2011.0,actual,total financing,external financing net,external financing outflow,amortization ,,-146000000000.0
+uganda,ugandan shillings,2012.0,actual,total financing,external financing net,external financing outflow,amortization ,,-193000000000.0
+uganda,ugandan shillings,2013.0,actual,total financing,external financing net,external financing outflow,amortization ,,-200000000000.0
+uganda,ugandan shillings,2014.0,budget,total financing,external financing net,external financing outflow,amortization ,,-223700000000.0
+uganda,ugandan shillings,2014.0,prel,total financing,external financing net,external financing outflow,amortization ,,-212000000000.0
+uganda,ugandan shillings,2015.0,proj,total financing,external financing net,external financing outflow,amortization ,,-275000000000.0
+uganda,ugandan shillings,2016.0,proj,total financing,external financing net,external financing outflow,amortization ,,-295000000000.0
+uganda,ugandan shillings,2017.0,proj,total financing,external financing net,external financing outflow,amortization ,,-328000000000.0
+uganda,ugandan shillings,2018.0,proj,total financing,external financing net,external financing outflow,amortization ,,-382000000000.0
+uganda,ugandan shillings,2019.0,proj,total financing,external financing net,external financing outflow,amortization ,,-410000000000.0
+uganda,ugandan shillings,2000.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,34000000000.0
+uganda,ugandan shillings,2001.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,59000000000.0
+uganda,ugandan shillings,2002.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,42000000000.0
+uganda,ugandan shillings,2003.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,38000000000.0
+uganda,ugandan shillings,2004.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,15800000000.0
+uganda,ugandan shillings,2005.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,4000000000.0
+uganda,ugandan shillings,2006.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,-50000000000.0
+uganda,ugandan shillings,2007.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,-38000000000.0
+uganda,ugandan shillings,2008.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,-13000000000.0
+uganda,ugandan shillings,2009.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,-29000000000.0
+uganda,ugandan shillings,2010.0,actual ,total financing,external financing net,external financing inflow,exceptional financing,,-26000000000.0
+uganda,ugandan shillings,2011.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,-8000000000.0
+uganda,ugandan shillings,2012.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,-10000000000.0
+uganda,ugandan shillings,2013.0,actual,total financing,external financing net,external financing inflow,exceptional financing,,-10000000000.0
+uganda,ugandan shillings,2014.0,budget,total financing,external financing net,external financing inflow,exceptional financing,,-24700000000.0
+uganda,ugandan shillings,2014.0,prel,total financing,external financing net,external financing inflow,exceptional financing,,-30000000000.0
+uganda,ugandan shillings,2015.0,proj,total financing,external financing net,external financing inflow,exceptional financing,,-7000000000.0
+uganda,ugandan shillings,2016.0,proj,total financing,external financing net,external financing inflow,exceptional financing,,-20000000000.0
+uganda,ugandan shillings,2017.0,proj,total financing,external financing net,external financing inflow,exceptional financing,,-11000000000.0
+uganda,ugandan shillings,2018.0,proj,total financing,external financing net,external financing inflow,exceptional financing,,0.0
+uganda,ugandan shillings,2019.0,proj,total financing,external financing net,external financing inflow,exceptional financing,,0.0
+uganda,ugandan shillings,2000.0,actual,total financing,domestic financing net,,,,574000000000.0
+uganda,ugandan shillings,2001.0,actual,total financing,domestic financing net,,,,-11000000000.0
+uganda,ugandan shillings,2002.0,actual,total financing,domestic financing net,,,,-55000000000.0
+uganda,ugandan shillings,2003.0,actual,total financing,domestic financing net,,,,-19000000000.0
+uganda,ugandan shillings,2004.0,actual,total financing,domestic financing net,,,,-200000000000.0
+uganda,ugandan shillings,2005.0,actual,total financing,domestic financing net,,,,-74000000000.0
+uganda,ugandan shillings,2006.0,actual,total financing,domestic financing net,,,,-204000000000.0
+uganda,ugandan shillings,2007.0,actual,total financing,domestic financing net,,,,-205000000000.0
+uganda,ugandan shillings,2008.0,actual,total financing,domestic financing net,,,,-78000000000.0
+uganda,ugandan shillings,2009.0,actual,total financing,domestic financing net,,,,66000000000.0
+uganda,ugandan shillings,2010.0,actual ,total financing,domestic financing net,,,,749000000000.0
+uganda,ugandan shillings,2011.0,actual,total financing,domestic financing net,,,,1105000000000.0
+uganda,ugandan shillings,2012.0,actual,total financing,domestic financing net,,,,20000000000.0
+uganda,ugandan shillings,2013.0,actual,total financing,domestic financing net,,,,666000000000.0
+uganda,ugandan shillings,2014.0,budget,total financing,domestic financing net,,,,1862000000000.0
+uganda,ugandan shillings,2014.0,prel,total financing,domestic financing net,,,,1576000000000.0
+uganda,ugandan shillings,2015.0,proj,total financing,domestic financing net,,,,2600000000000.0
+uganda,ugandan shillings,2016.0,proj,total financing,domestic financing net,,,,1585000000000.0
+uganda,ugandan shillings,2017.0,proj,total financing,domestic financing net,,,,2334000000000.0
+uganda,ugandan shillings,2018.0,proj,total financing,domestic financing net,,,,1844000000000.0
+uganda,ugandan shillings,2019.0,proj,total financing,domestic financing net,,,,1287000000000.0
+uganda,ugandan shillings,2000.0,actual,total financing,domestic financing net,bank financing,,,542000000000.0
+uganda,ugandan shillings,2001.0,actual,total financing,domestic financing net,bank financing,,,46000000000.0
+uganda,ugandan shillings,2002.0,actual,total financing,domestic financing net,bank financing,,,21400000000.0
+uganda,ugandan shillings,2003.0,actual,total financing,domestic financing net,bank financing,,,-92000000000.0
+uganda,ugandan shillings,2004.0,actual,total financing,domestic financing net,bank financing,,,-307000000000.0
+uganda,ugandan shillings,2005.0,actual,total financing,domestic financing net,bank financing,,,-260000000000.0
+uganda,ugandan shillings,2006.0,actual,total financing,domestic financing net,bank financing,,,-135000000000.0
+uganda,ugandan shillings,2007.0,actual,total financing,domestic financing net,bank financing,,,-562000000000.0
+uganda,ugandan shillings,2008.0,actual,total financing,domestic financing net,bank financing,,,-177000000000.0
+uganda,ugandan shillings,2009.0,actual,total financing,domestic financing net,bank financing,,,475000000000.0
+uganda,ugandan shillings,2010.0,actual ,total financing,domestic financing net,bank financing,,,811000000000.0
+uganda,ugandan shillings,2011.0,actual,total financing,domestic financing net,bank financing,,,622000000000.0
+uganda,ugandan shillings,2012.0,actual,total financing,domestic financing net,bank financing,,,-1242000000000.0
+uganda,ugandan shillings,2013.0,actual,total financing,domestic financing net,bank financing,,,508000000000.0
+uganda,ugandan shillings,2014.0,budget,total financing,domestic financing net,bank financing,,,1238000000000.0
+uganda,ugandan shillings,2014.0,prel,total financing,domestic financing net,bank financing,,,647000000000.0
+uganda,ugandan shillings,2015.0,proj,total financing,domestic financing net,bank financing,,,1550000000000.0
+uganda,ugandan shillings,2016.0,proj,total financing,domestic financing net,bank financing,,,863000000000.0
+uganda,ugandan shillings,2017.0,proj,total financing,domestic financing net,bank financing,,,1550000000000.0
+uganda,ugandan shillings,2018.0,proj,total financing,domestic financing net,bank financing,,,1077000000000.0
+uganda,ugandan shillings,2019.0,proj,total financing,domestic financing net,bank financing,,,615000000000.0
+uganda,ugandan shillings,2000.0,actual,total financing,domestic financing net,nonbank financing,,,31000000000.0
+uganda,ugandan shillings,2001.0,actual,total financing,domestic financing net,nonbank financing,,,-57000000000.0
+uganda,ugandan shillings,2002.0,actual,total financing,domestic financing net,nonbank financing,,,-76100000000.0
+uganda,ugandan shillings,2003.0,actual,total financing,domestic financing net,nonbank financing,,,73000000000.0
+uganda,ugandan shillings,2004.0,actual,total financing,domestic financing net,nonbank financing,,,107000000000.0
+uganda,ugandan shillings,2005.0,actual,total financing,domestic financing net,nonbank financing,,,186000000000.0
+uganda,ugandan shillings,2006.0,actual,total financing,domestic financing net,nonbank financing,,,-69000000000.0
+uganda,ugandan shillings,2007.0,actual,total financing,domestic financing net,nonbank financing,,,357000000000.0
+uganda,ugandan shillings,2008.0,actual,total financing,domestic financing net,nonbank financing,,,99000000000.0
+uganda,ugandan shillings,2009.0,actual,total financing,domestic financing net,nonbank financing,,,-409000000000.0
+uganda,ugandan shillings,2010.0,actual ,total financing,domestic financing net,nonbank financing,,,-62000000000.0
+uganda,ugandan shillings,2011.0,actual,total financing,domestic financing net,nonbank financing,,,483000000000.0
+uganda,ugandan shillings,2012.0,actual,total financing,domestic financing net,nonbank financing,,,1262000000000.0
+uganda,ugandan shillings,2013.0,actual,total financing,domestic financing net,nonbank financing,,,158000000000.0
+uganda,ugandan shillings,2014.0,budget,total financing,domestic financing net,nonbank financing,,,624000000000.0
+uganda,ugandan shillings,2014.0,prel,total financing,domestic financing net,nonbank financing,,,930000000000.0
+uganda,ugandan shillings,2015.0,proj,total financing,domestic financing net,nonbank financing,,,1050000000000.0
+uganda,ugandan shillings,2016.0,proj,total financing,domestic financing net,nonbank financing,,,722000000000.0
+uganda,ugandan shillings,2017.0,proj,total financing,domestic financing net,nonbank financing,,,784000000000.0
+uganda,ugandan shillings,2018.0,proj,total financing,domestic financing net,nonbank financing,,,767000000000.0
+uganda,ugandan shillings,2019.0,proj,total financing,domestic financing net,nonbank financing,,,673000000000.0
