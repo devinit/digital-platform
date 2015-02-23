@@ -2,7 +2,7 @@ series,id,type,parent,name,columns,description,default-scale,,uom,source,calcula
 country-year,adult-literacy,simple,,"Literacy rate, adult total (% of people ages 15 and above)","id, year, value","Literacy rate, adult total (% of people ages 15 and above)",lin,,percent,WDI,,
 reference,bundle,reference,,,"id, name",,lin,,,DI,,1(A)
 reference,channel,reference,,,"id, name",Channel codes,lin,,,DI (adapted from OECD),,1(A)
-country-year,climate-vulnerability,simple,,Climate vulnerability,"id, year, value","Global adaptation index score of each country's vulnerability to climate change, incorporating exposure, sensitivity and ability to adapt to the negative impacts of climate change. Higher scores indicate higher vulnerability to climate change.",lin,,index,Notre Dame Global Adaptation Index (ND-GAIN) vulnerability score; http://index.gain.org/,,
+country-year,climate-vulnerability,simple,,Climate vulnerability,"id, year, value","Global adaptation index score of each country's vulnerability to climate change, incorporating exposure, sensitivity and ability to adapt to the negative impacts of climate change. Higher scores indicate higher vulnerability to climate change.",lin,,index,Notre Dame Global Adaptation Index (ND-GAIN) vulnerability score, http://index.gain.org/,
 country-year,employment-agriculture,embedded,employment-by-sector,% of workforce employed in agriculture,"id, year, value",% of workforce employed in agriculture,lin,,percent,WDI,,
 country-year,employment-by-sector,composite,,Emloyment % by sector,"id, year, employment-agriculture, enployment-industry, employment-services","Percentage employment in agriculture, industry & services",lin,,percent,WDI,,
 country-year,employment-industry,embedded,employment-by-sector,% of workforce employed in industry,"id, year, value",% of workforce employed in industry,lin,,percent,WDI,,
@@ -58,3 +58,5 @@ country-year,youth-unemployment,simple,,youth unemployment %,"id, year, value",y
 country-year,avg-income-of-extreme-poor,simple,,Average income of extreme poor,"id, year, value",Average income ($PPP) of people living on < $1.25/day),lin,,USD,"DI, based on WDI data",,
 country-year,mean-years-of-schooling,simple,,Mean years of schooling,"id, year, value",Mean years of schooling of adult population,lin,,Year,UN HDR,,
 region-year,,,,,,,lin,,,,,
+reference,domestic-budget-level,,,Domestic Budget Hierarchy Level,"id, level, name",,,,,,,
+reference,domestic-budget-type,,,Domestic Budget Type,"id, name",,,,,,,
