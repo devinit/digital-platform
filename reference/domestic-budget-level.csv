@@ -1,35 +1,50 @@
-id,level,name
-expenditures,1,expenditures
-total-financing,1,total financing
-total-revenue-and-grants,1,total revenue and grants
-current-expenditures,2,current expenditures
-development-expenditures,2,development expenditures
-net-lending-and-investment,2,net lending and investment
-other-spending,2,other spending
-domestic-financing-net,2,domestic financing net
-external-financing-net,2,external financing net
-grants,2,grants
-revenue,2,revenue
-interest-payments,3,interest payments
-other-current,3,other current
-wages-and-salaries,3,wages and salaries
-externally-financed-projects,3,externally-financed projects
-government-of-uganda-investment,3,government of uganda investment
-bank-financing,3,bank financing
-nonbank-financing,3,nonbank financing
-external-financing-inflow,3,external financing inflow
-external-financing-outflow,3,external financing outflow
-budget-support-,3,budget support 
-project-grants,3,project grants
-nontax,3,nontax
-oil-revenue,3,oil revenue
-tax,3,tax
-budget-support,4,budget support
-concessional-project-loans,4,concessional project loans
-exceptional-financing,4,exceptional financing
-non-concessional-borrowing,4,non-concessional borrowing
-amortization-,4,amortization 
-excises,4,excises
-income-taxes,4,income taxes
-international-trade-taxes,4,international trade taxes
-value-added-tax,4,value-added tax
+id,sectoral,level,name
+expenditures,FALSE,1,expenditures
+total-financing,FALSE,1,total financing
+total-revenue-and-grants,FALSE,1,total revenue and grants
+current-expenditures,FALSE,2,current expenditures
+development-expenditures,FALSE,2,development expenditures
+net-lending-and-investment,FALSE,2,net lending and investment
+other-spending,FALSE,2,other spending
+domestic-financing-net,FALSE,2,domestic financing net
+external-financing-net,FALSE,2,external financing net
+grants,FALSE,2,grants
+revenue,FALSE,2,revenue
+interest-payments,FALSE,3,interest payments
+other-current,FALSE,3,other current
+wages-and-salaries,FALSE,3,wages and salaries
+externally-financed-projects,FALSE,3,externally-financed projects
+government-of-uganda-investment,FALSE,3,government of uganda investment
+bank-financing,FALSE,3,bank financing
+nonbank-financing,FALSE,3,nonbank financing
+external-financing-inflow,FALSE,3,external financing inflow
+external-financing-outflow,FALSE,3,external financing outflow
+budget-support-,FALSE,3,budget support 
+project-grants,FALSE,3,project grants
+nontax,FALSE,3,nontax
+oil-revenue,FALSE,3,oil revenue
+tax,FALSE,3,tax
+budget-support,FALSE,4,budget support
+concessional-project-loans,FALSE,4,concessional project loans
+exceptional-financing,FALSE,4,exceptional financing
+non-concessional-borrowing,FALSE,4,non-concessional borrowing
+amortization-,FALSE,4,amortization 
+excises,FALSE,4,excises
+income-taxes,FALSE,4,income taxes
+international-trade-taxes,FALSE,4,international trade taxes
+value-added-tax,FALSE,4,value-added tax
+african-union,TRUE,5,African Union
+headquarters,TRUE,4,Headquarters
+strengthening-external-security-organisation,TRUE,4,Strengthening External Security Organisation
+defence-equipment-project,TRUE,4,Defence Equipment Project
+updf-airforce,TRUE,4,UPDF Airforce
+updf-land-forces,TRUE,4,UPDF Land forces
+updf-peace-keeping-mission-in-somalia,TRUE,4,UPDF Peace Keeping Mission in Somalia
+headquarters,TRUE,4,Headquarters
+internal-audit-department,TRUE,4,Internal Audit Department
+external-security,TRUE,3,External Security
+national-defence-updf,TRUE,3,National Defence (UPDF)
+policy-planning-and-support-services,TRUE,3,"Policy, Planning and Support Services"
+external-security,TRUE,2,External Security
+ministry-of-defence,TRUE,2,Ministry of Defence
+defence,TRUE,1,Defence
