@@ -1,122 +1,203 @@
 id,sectoral,level,name
-expenditures,FALSE,1,expenditures
-total-financing,FALSE,1,total financing
-total-revenue-and-grants,FALSE,1,total revenue and grants
-current-expenditures,FALSE,2,current expenditures
-development-expenditures,FALSE,2,development expenditures
-net-lending-and-investment,FALSE,2,net lending and investment
-other-spending,FALSE,2,other spending
-domestic-financing-net,FALSE,2,domestic financing net
-external-financing-net,FALSE,2,external financing net
-grants,FALSE,2,grants
-revenue,FALSE,2,revenue
-interest-payments,FALSE,3,interest payments
-other-current,FALSE,3,other current
-wages-and-salaries,FALSE,3,wages and salaries
-externally-financed-projects,FALSE,3,externally-financed projects
-government-of-uganda-investment,FALSE,3,government of uganda investment
-bank-financing,FALSE,3,bank financing
-nonbank-financing,FALSE,3,nonbank financing
-external-financing-inflow,FALSE,3,external financing inflow
-external-financing-outflow,FALSE,3,external financing outflow
-budget-support,FALSE,3,budget support 
-project-grants,FALSE,3,project grants
-nontax,FALSE,3,nontax
-oil-revenue,FALSE,3,oil revenue
-tax,FALSE,3,tax
-budget-support,FALSE,4,budget support
-concessional-project-loans,FALSE,4,concessional project loans
-exceptional-financing,FALSE,4,exceptional financing
-non-concessional-borrowing,FALSE,4,non-concessional borrowing
-amortization,FALSE,4,amortization 
-excises,FALSE,4,excises
-income-taxes,FALSE,4,income taxes
-international-trade-taxes,FALSE,4,international trade taxes
-value-added-tax,FALSE,4,value-added tax
-african-union,TRUE,5,African Union
-headquarters,TRUE,4,Headquarters
-strengthening-external-security-organisation,TRUE,4,Strengthening External Security Organisation
-defence-equipment-project,TRUE,4,Defence Equipment Project
-updf-airforce,TRUE,4,UPDF Airforce
-updf-land-forces,TRUE,4,UPDF Land forces
-updf-peace-keeping-mission-in-somalia,TRUE,4,UPDF Peace Keeping Mission in Somalia
-headquarters,TRUE,4,Headquarters
-internal-audit-department,TRUE,4,Internal Audit Department
-external-security,TRUE,3,External Security
-national-defence-updf,TRUE,3,National Defence (UPDF)
-policy-planning-and-support-services,TRUE,3,"Policy, Planning and Support Services"
-external-security,TRUE,2,External Security
-ministry-of-defence,TRUE,2,Ministry of Defence
-defence,TRUE,1,Defence
-other,TRUE,1,Other
-international-development-association,TRUE,5,International Development Association (410)
-joint-financing,TRUE,5,Joint Financing (420)
-united-nations-office-for-project-services,TRUE,5,United Nations Office for Project Services (454)
-islamic-development-bank,TRUE,5,Islamic Development Bank (414)
-international-development-association,TRUE,5,International Development Association (410)
-italy,TRUE,5,Italy (522)
-spain,TRUE,5,Spain (542)
-japan,TRUE,5,Japan (523)
-africa-development-bank,TRUE,5,Africa Development Bank (401)
-global-alliance-for-vaccines-immunisation,TRUE,5,Global Alliance for Vaccines Immunisation (451)
-global-fund-for-hiv-tb-malaria,TRUE,5,"Global Fund for HIV, TB & Malaria (436)"
-belgium,TRUE,5,Belgium (504)
-quality-assurance,TRUE,4,Quality Assurance
+agricultural-statistical-unit,TRUE,4, Agricultural Statistical Unit
 clinical-services,TRUE,4, Clinical Services
 nursing-services,TRUE,4, Nursing Services
-community-health,TRUE,4,Community Health
-national-disease-control,TRUE,4,National Disease Control
-public-health-laboratory-strengthening-project,TRUE,4,Public Health Laboratory strengthening project
-uganda-sanitation-fund-project,TRUE,4,Uganda Sanitation Fund Project
-joint-clinical-research-centre,TRUE,4,Joint Clinical Research Centre
-research-institutions,TRUE,4,Research Institutions
-construction-of-specialised-neonatal-and-maternal-unit-in-mulago-hospital,TRUE,4,Construction of Specialised Neonatal and Maternal Unit in Mulago Hospital
-district-infrastructure-support-programme,TRUE,4,District Infrastructure Support Programme
-energy-for-rural-transformation-programme,TRUE,4,Energy for rural transformation programme
-health-systems-strengthening,TRUE,4,Health Systems Strengthening
-insitutional-support-to-moh,TRUE,4,Insitutional Support to MoH
-italian-support-to-health-sector-strategic-plan-and-peace-recovery-development-plan,TRUE,4,Italian Support to Health Sector Strategic Plan and Peace Recovery Development Plan
-rehabilitation-and-construction-of-general-hospitals,TRUE,4,Rehabilitation and Construction of General Hospitals
-rehabilitation-and-equiping-of-health-facilities-in-west-region,TRUE,4,Rehabilitation and Equiping of Health Facilities in West Region
-rehabilitation-of-health-facilities-in-eastern-region,TRUE,4,Rehabilitation of Health Facilities in Eastern Region
-support-to-mulago-hospital-rehabilitation,TRUE,4,Support to Mulago Hospital Rehabilitation
-gavi-vaccines-and-health-sector-support-program,TRUE,4,Gavi Vaccines and Health Sector Support Program
-global-fund-for-aids-tb-and-malaria,TRUE,4,"Global Fund for AIDS, TB and Malaria"
-development-of-social-health-initiative,TRUE,4,Development of Social Health Initiative
-headquarters,TRUE,4,Headquarters
-institutional-capacity-building,TRUE,4,Institutional Capacity Building
-internal-audit-department,TRUE,4,Internal Audit Department
-planning,TRUE,4,Planning
 sector-monitoring-and-quality-assurance,TRUE,3, Sector Monitoring and Quality Assurance
-clinical-and-public-health,TRUE,3,Clinical and public health
-health-research,TRUE,3,Health Research
-health-systems-development,TRUE,3,Health systems development
-pharmaceutical-and-other-supplies,TRUE,3,Pharmaceutical and other Supplies
-policy-planning-and-support-services,TRUE,3,"Policy, Planning and Support Services"
+abi-zonal-agricultural-research-and-development-institute,TRUE,3,Abi Zonal Agricultural Research and Development Institute
+africa-development-bank,TRUE,5,Africa Development Bank (401)
+african-union,TRUE,5,African Union
+agricultural-technology-and-agribusiness-advisory-services,TRUE,3,Agricultural Technology and Agribusiness Advisory Services
+agriculture,TRUE,1,Agriculture
+agriculture-advisory-services,TRUE,3,Agriculture Advisory Services
+agriculture-cluster-development-project,TRUE,4,Agriculture Cluster Development Project
+agriculture-production-marketing-regulation,TRUE,4,"Agriculture Production, Marketing & Regulation"
+agriculture-techonology-transfer-cassava-value-chain-project,TRUE,4,Agriculture Techonology Transfer Cassava Value Chain Project
+amortization,FALSE,4,amortization 
+animal-production-department,TRUE,4,Animal Production Department
+animal-resources,TRUE,3,Animal Resources
 arua-referral-hospital,TRUE,3,Arua Referral Hospital
+avian-and-human-influenza-preparedness-and-response,TRUE,4,Avian and Human Influenza Preparedness and Response
+bank-financing,FALSE,3,bank financing
+belgium,TRUE,5,Belgium (504)
+budget-support,FALSE,4,budget support
+budget-support,FALSE,3,budget support 
+buginyaya-zonal-agricultural-research-and-development-institute,TRUE,3,Buginyaya Zonal Agricultural Research and Development Institute
+bulindi-zonal-agricultural-research-and-development-institute,TRUE,3,Bulindi Zonal Agricultural Research and Development Institute
 butabika-hospital,TRUE,3,Butabika Hospital
+clinical-and-public-health,TRUE,3,Clinical and public health
+commercialization-of-agriculture-in-northern-uganda,TRUE,4,Commercialization of Agriculture in Northern Uganda
+community-health,TRUE,4,Community Health
+concessional-project-loans,FALSE,4,concessional project loans
+construction-of-ministry-of-agriculture-animal-industry,TRUE,4,"Construction of Ministry of Agriculture, Animal Industry"
+construction-of-specialised-neonatal-and-maternal-unit-in-mulago-hospital,TRUE,4,Construction of Specialised Neonatal and Maternal Unit in Mulago Hospital
+crop-disease-and-pest-control,TRUE,4,Crop disease and Pest Control
+crop-production-department,TRUE,4,Crop Production Department
+crop-protection-department,TRUE,4,Crop Protection Department
+crops,TRUE,3,Crops
+current-expenditures,FALSE,2,current expenditures
+dairy-development-authority,TRUE,3,Dairy Development Authority
+defence,TRUE,1,Defence
+defence-equipment-project,TRUE,4,Defence Equipment Project
+department-of-agribusiness,TRUE,4,Department of Agribusiness
+department-of-crop-regulation-and-certification,TRUE,4,Department of Crop Regulation and Certification
+department-of-entomology,TRUE,4,Department of Entomology
+department-of-planning,TRUE,4,Department of Planning
+development-expenditures,FALSE,2,development expenditures
+development-of-social-health-initiative,TRUE,4,Development of Social Health Initiative
+directorate-of-animal-resources,TRUE,4,Directorate of Animal Resources
+directorate-of-crop-resources,TRUE,4,Directorate of Crop Resources
+district-infrastructure-support-programme,TRUE,4,District Infrastructure Support Programme
+district-production-services,TRUE,3,District Production Services
+domestic-financing-net,FALSE,2,domestic financing net
+domestic-interest-payments,TRUE,2,Domestic Interest Payments
+eastern-africa-agricultural-productivity-adaptable-program,TRUE,3,Eastern Africa Agricultural Productivity Adaptable Program
+energy-for-rural-transformation-programme,TRUE,4,Energy for rural transformation programme
+enhancing-national-food-security-through-increased-rice-production-in-eastern-uganda,TRUE,4,Enhancing National Food Security through increased Rice production in Eastern Uganda
+exceptional-financing,FALSE,4,exceptional financing
+excises,FALSE,4,excises
+expenditures,FALSE,1,expenditures
+export-goat-breeding-and-production,TRUE,4,Export Goat Breeding and Production
+external-financing-inflow,FALSE,3,external financing inflow
+external-financing-net,FALSE,2,external financing net
+external-financing-outflow,FALSE,3,external financing outflow
+external-interest-payments,TRUE,2,External Interest Payments
+external-security,TRUE,3,External Security
+external-security,TRUE,2,External Security
+externally-financed-projects,FALSE,3,externally-financed projects
+farm-development,TRUE,4,Farm Development
+fisheries-resources-department,TRUE,4,Fisheries Resources Department
 fort-portal-referral-hospital,TRUE,3,Fort Portal Referral Hospital
+gavi-vaccines-and-health-sector-support-program,TRUE,4,Gavi Vaccines and Health Sector Support Program
+global-alliance-for-vaccines-immunisation,TRUE,5,Global Alliance for Vaccines Immunisation (451)
+global-environment-facility,TRUE,4,Global Environment Facility (424)
+global-fund-for-aids-tb-and-malaria,TRUE,4,"Global Fund for AIDS, TB and Malaria"
+global-fund-for-hiv-tb-malaria,TRUE,5,"Global Fund for HIV, TB & Malaria (436)"
+government-of-uganda-investment,FALSE,3,government of uganda investment
+grants,FALSE,2,grants
 gulu-referral-hospital,TRUE,3,Gulu Referral Hospital
+headquarters,TRUE,4,Headquarters
+headquarters,TRUE,3,Headquarters
+health,TRUE,1,Health
+health-research,TRUE,3,Health Research
 health-service-commission,TRUE,3,Health Service Commission
+health-systems-development,TRUE,3,Health systems development
+health-systems-strengthening,TRUE,4,Health Systems Strengthening
 hoima-referral-hospital,TRUE,3,Hoima Referral Hospital
+iceland,TRUE,5,Iceland (516)
+improvement-of-food-security-in-cross-border-districts,TRUE,4,Improvement of Food Security in Cross Border districts
+income-taxes,FALSE,4,income taxes
+increasing-mukene-for-human-consumption,TRUE,4,Increasing Mukene for Human Consumption
+insitutional-support-to-moh,TRUE,4,Insitutional Support to MoH
+institutional-capacity-building,TRUE,4,Institutional Capacity Building
+integrated-production-and-pest-management,TRUE,4,Integrated Production and Pest Management
+interest-payments,FALSE,3,interest payments
+interest-payments,TRUE,1,Interest Payments
+internal-audit,TRUE,4,Internal Audit
+internal-audit-department,TRUE,4,Internal Audit Department
+international-development-association,TRUE,5,International Development Association (410)
+international-development-association,TRUE,4,International Development Association (410)
+international-fund-for-agriculture-and-development,TRUE,5,International Fund for Agriculture and Development (411)
+international-fund-for-agriculture-and-development,TRUE,4,International Fund for Agriculture and Development (411)
+international-trade-taxes,FALSE,4,international trade taxes
+islamic-development-bank,TRUE,5,Islamic Development Bank (414)
+italian-support-to-health-sector-strategic-plan-and-peace-recovery-development-plan,TRUE,4,Italian Support to Health Sector Strategic Plan and Peace Recovery Development Plan
+italy,TRUE,5,Italy (522)
+japan,TRUE,5,Japan (523)
 jinja-referral-hospital,TRUE,3,Jinja Referral Hospital
+joint-clinical-research-centre,TRUE,4,Joint Clinical Research Centre
+joint-financing,TRUE,5,Joint Financing (420)
 kabale-referral-hospital,TRUE,3,Kabale Referral Hospital
+kabale-tea-factory,TRUE,4,Kabale Tea Factory
+kacwekano-zonal-agricultural-research-and-development-institute,TRUE,3,Kacwekano Zonal Agricultural Research and Development Institute
+kampala-capital-city-authority,TRUE,3,Kampala Capital City Authority 
 kampala-capital-city-authority-community-health-management,TRUE,3,Kampala Capital City Authority (community health management)
+labour-saving-tech-and-mech-for-agricultral-production,TRUE,4,Labour Saving tech and mech for agricultral production
 lira-referral-hospital,TRUE,3,Lira Referral Hospital
+livestock-disease-control,TRUE,4,Livestock Disease Control
+livestock-health-and-entomology,TRUE,4,Livestock Health and Entomology
+local-governments,TRUE,2,Local Governments
 masaka-referral-hospital,TRUE,3,Masaka Referral Hospital
 mbale-referral-hospital,TRUE,3,Mbale Referral Hospital
 mbarara-referral-hospital,TRUE,3,Mbarara Referral Hospital
+mbarara-zonal-agricultural-research-and-development-institute,TRUE,3,Mbarara Zonal Agricultural Research and Development Institute
+ministry-of-agriculture-animal-fisheries,TRUE,2,"Ministry of Agriculture, Animal & Fisheries"
+ministry-of-agriculture-animal-fisheries-coordination,TRUE,4,"Ministry of Agriculture, Animal & Fisheries Coordination"
+ministry-of-defence,TRUE,2,Ministry of Defence
+ministry-of-health,TRUE,2,Ministry of health
 moroto-referral-hosptial,TRUE,3,Moroto Referral Hosptial
 mubende-referral-hospital,TRUE,3,Mubende Referral Hospital
+mukono-zonal-agricultural-research-and-development-institute,TRUE,3,Mukono Zonal Agricultural Research and Development Institute
 mulago-hospital-complex,TRUE,3,Mulago Hospital Complex
+nabium-zonal-agricultural-research-and-development-institute,TRUE,3,Nabium Zonal Agricultural Research and Development Institute
 naguru-referral-hospital,TRUE,3,Naguru Referral Hospital
+national-agricultural-advisory-services-secretariat,TRUE,2,National Agricultural Advisory Services Secretariat
+national-agricultural-research-organisation,TRUE,2,National Agricultural Research Organisation
+national-agricultural-research-organisation-internal-audit,TRUE,3,National Agricultural Research Organisation Internal Audit
+national-animal-genetic-research-centre-and-data-bank,TRUE,3,National Animal Genetic Research Centre and Data Bank
+national-crops-research,TRUE,3,National Crops Research
+national-defence-updf,TRUE,3,National Defence (UPDF)
+national-disease-control,TRUE,4,National Disease Control
+national-fisheries-research,TRUE,3,National Fisheries Research
+national-forestry-research,TRUE,3,National Forestry Research
+national-laboratories-research,TRUE,3,National Laboratories Research
+national-livestock-production-improvement,TRUE,4,National Livestock Production Improvement
+national-livestock-research,TRUE,3,National Livestock Research
 national-medical-stores,TRUE,3,National Medical Stores
+national-semi-arid-research,TRUE,3,National Semi arid Research
+net-lending-and-investment,FALSE,2,net lending and investment
+ngetta-zonal-agricultural-research-and-development-institute,TRUE,3,Ngetta Zonal Agricultural Research and Development Institute
+non-concessional-borrowing,FALSE,4,non-concessional borrowing
+nonbank-financing,FALSE,3,nonbank financing
+nontax,FALSE,3,nontax
+oil-revenue,FALSE,3,oil revenue
+other,TRUE,1,Other
+other,TRUE,2,Other
+other-current,FALSE,3,other current
+other-spending,FALSE,2,other spending
+pharmaceutical-and-other-supplies,TRUE,3,Pharmaceutical and other Supplies
+plan-for-national-agriculture-statistics,TRUE,4,Plan for National Agriculture Statistics
+planning,TRUE,4,Planning
+policy-planning-and-support-services,TRUE,3,"Policy, Planning and Support Services"
+project-grants,FALSE,3,project grants
+public-health-laboratory-strengthening-project,TRUE,4,Public Health Laboratory strengthening project
+quality-assurance,TRUE,4,Quality Assurance
+rehabilitation-and-construction-of-general-hospitals,TRUE,4,Rehabilitation and Construction of General Hospitals
+rehabilitation-and-equiping-of-health-facilities-in-west-region,TRUE,4,Rehabilitation and Equiping of Health Facilities in West Region
+rehabilitation-of-health-facilities-in-eastern-region,TRUE,4,Rehabilitation of Health Facilities in Eastern Region
+research-institutions,TRUE,4,Research Institutions
+revenue,FALSE,2,revenue
+rice-development-project,TRUE,4,Rice Development Project
+rural-electrification,TRUE,4,Rural Electrification
+rwebitaba-zonal-agricultural-research-and-development-institute,TRUE,3,Rwebitaba Zonal Agricultural Research and Development Institute
 soroti-referral-hospital,TRUE,3,Soroti Referral Hospital
+south-korea,TRUE,5,South Korea (526)
+spain,TRUE,5,Spain (542)
+strengthening-external-security-organisation,TRUE,4,Strengthening External Security Organisation
+supervision-monitoring-and-evaluation,TRUE,4,"Supervision, Monitoring and Evaluation"
+support-for-institutional-development,TRUE,4,Support for Institutional Development
+support-for-national-agricultural-research-organisation,TRUE,3,Support for National Agricultural Research Organisation
+support-for-tea-cocoa-seedlings,TRUE,4,Support for Tea Cocoa Seedlings
+support-to-agro-processing-marketing-of-agricultural,TRUE,4,Support to Agro processing & marketing of agricultural
+support-to-fisheries-development,TRUE,4,Support to Fisheries Development
+support-to-fisheries-mechanisation-weed-control,TRUE,4,Support to Fisheries Mechanisation & Weed Control
+support-to-mulago-hospital-rehabilitation,TRUE,4,Support to Mulago Hospital Rehabilitation
+support-to-quality-assurance-fish-marketing,TRUE,4,Support to Quality Assurance Fish Marketing
+tax,FALSE,3,tax
+technical-assistance-to-improve-animal-disease-diagnostic-capacity,TRUE,4,Technical Assistance to Improve Animal Disease Diagnostic Capacity
+total-financing,FALSE,1,total financing
+total-revenue-and-grants,FALSE,1,total revenue and grants
 uganda-aids-commission,TRUE,3,Uganda AIDS Commission
 uganda-blood-transfusion-service,TRUE,3,Uganda Blood Transfusion Service
 uganda-cancer-institute,TRUE,3,Uganda Cancer Institute
+uganda-coffee-development-authority,TRUE,3,Uganda Coffee Development Authority
+uganda-cotton-development-organisation,TRUE,3,Uganda Cotton Development Organisation
 uganda-heart-institute,TRUE,3,Uganda Heart Institute
-local-governments,TRUE,2,Local Governments
-ministry-of-health,TRUE,2,Ministry of health
-other,TRUE,2,Other
-health,TRUE,1,Health
+uganda-meat-exports-development-project,TRUE,4,Uganda Meat Exports Development Project
+uganda-sanitation-fund-project,TRUE,4,Uganda Sanitation Fund Project
+united-nations-office-for-project-services,TRUE,5,United Nations Office for Project Services (454)
+updf-airforce,TRUE,4,UPDF Airforce
+updf-land-forces,TRUE,4,UPDF Land forces
+updf-peace-keeping-mission-in-somalia,TRUE,4,UPDF Peace Keeping Mission in Somalia
+value-added-tax,FALSE,4,value-added tax
+vegetable-oil-development-project-phase,TRUE,4,Vegetable Oil Development Project-Phase 2
+wages-and-salaries,FALSE,3,wages and salaries
