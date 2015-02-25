@@ -19,7 +19,7 @@ bank-financing,FALSE,3,bank financing
 nonbank-financing,FALSE,3,nonbank financing
 external-financing-inflow,FALSE,3,external financing inflow
 external-financing-outflow,FALSE,3,external financing outflow
-budget-support-,FALSE,3,budget support 
+budget-support,FALSE,3,budget support 
 project-grants,FALSE,3,project grants
 nontax,FALSE,3,nontax
 oil-revenue,FALSE,3,oil revenue
@@ -28,7 +28,7 @@ budget-support,FALSE,4,budget support
 concessional-project-loans,FALSE,4,concessional project loans
 exceptional-financing,FALSE,4,exceptional financing
 non-concessional-borrowing,FALSE,4,non-concessional borrowing
-amortization-,FALSE,4,amortization 
+amortization,FALSE,4,amortization 
 excises,FALSE,4,excises
 income-taxes,FALSE,4,income taxes
 international-trade-taxes,FALSE,4,international trade taxes
@@ -56,7 +56,6 @@ islamic-development-bank,TRUE,5,Islamic Development Bank (414)
 international-development-association,TRUE,5,International Development Association (410)
 italy,TRUE,5,Italy (522)
 spain,TRUE,5,Spain (542)
-japan,TRUE,5,Japan (523)
 japan,TRUE,5,Japan (523)
 africa-development-bank,TRUE,5,Africa Development Bank (401)
 global-alliance-for-vaccines-immunisation,TRUE,5,Global Alliance for Vaccines Immunisation (451)
