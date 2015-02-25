@@ -48,3 +48,76 @@ policy-planning-and-support-services,TRUE,3,"Policy, Planning and Support Servic
 external-security,TRUE,2,External Security
 ministry-of-defence,TRUE,2,Ministry of Defence
 defence,TRUE,1,Defence
+other,TRUE,1,Other
+international-development-association,TRUE,5,International Development Association (410)
+joint-financing,TRUE,5,Joint Financing (420)
+united-nations-office-for-project-services,TRUE,5,United Nations Office for Project Services (454)
+islamic-development-bank,TRUE,5,Islamic Development Bank (414)
+international-development-association,TRUE,5,International Development Association (410)
+italy,TRUE,5,Italy (522)
+spain,TRUE,5,Spain (542)
+japan,TRUE,5,Japan (523)
+japan,TRUE,5,Japan (523)
+africa-development-bank,TRUE,5,Africa Development Bank (401)
+global-alliance-for-vaccines-immunisation,TRUE,5,Global Alliance for Vaccines Immunisation (451)
+global-fund-for-hiv-tb-malaria,TRUE,5,"Global Fund for HIV, TB & Malaria (436)"
+belgium,TRUE,5,Belgium (504)
+quality-assurance,TRUE,4,Quality Assurance
+clinical-services,TRUE,4, Clinical Services
+nursing-services,TRUE,4, Nursing Services
+community-health,TRUE,4,Community Health
+national-disease-control,TRUE,4,National Disease Control
+public-health-laboratory-strengthening-project,TRUE,4,Public Health Laboratory strengthening project
+uganda-sanitation-fund-project,TRUE,4,Uganda Sanitation Fund Project
+joint-clinical-research-centre,TRUE,4,Joint Clinical Research Centre
+research-institutions,TRUE,4,Research Institutions
+construction-of-specialised-neonatal-and-maternal-unit-in-mulago-hospital,TRUE,4,Construction of Specialised Neonatal and Maternal Unit in Mulago Hospital
+district-infrastructure-support-programme,TRUE,4,District Infrastructure Support Programme
+energy-for-rural-transformation-programme,TRUE,4,Energy for rural transformation programme
+health-systems-strengthening,TRUE,4,Health Systems Strengthening
+insitutional-support-to-moh,TRUE,4,Insitutional Support to MoH
+italian-support-to-health-sector-strategic-plan-and-peace-recovery-development-plan,TRUE,4,Italian Support to Health Sector Strategic Plan and Peace Recovery Development Plan
+rehabilitation-and-construction-of-general-hospitals,TRUE,4,Rehabilitation and Construction of General Hospitals
+rehabilitation-and-equiping-of-health-facilities-in-west-region,TRUE,4,Rehabilitation and Equiping of Health Facilities in West Region
+rehabilitation-of-health-facilities-in-eastern-region,TRUE,4,Rehabilitation of Health Facilities in Eastern Region
+support-to-mulago-hospital-rehabilitation,TRUE,4,Support to Mulago Hospital Rehabilitation
+gavi-vaccines-and-health-sector-support-program,TRUE,4,Gavi Vaccines and Health Sector Support Program
+global-fund-for-aids-tb-and-malaria,TRUE,4,"Global Fund for AIDS, TB and Malaria"
+development-of-social-health-initiative,TRUE,4,Development of Social Health Initiative
+headquarters,TRUE,4,Headquarters
+institutional-capacity-building,TRUE,4,Institutional Capacity Building
+internal-audit-department,TRUE,4,Internal Audit Department
+planning,TRUE,4,Planning
+sector-monitoring-and-quality-assurance,TRUE,3, Sector Monitoring and Quality Assurance
+clinical-and-public-health,TRUE,3,Clinical and public health
+health-research,TRUE,3,Health Research
+health-systems-development,TRUE,3,Health systems development
+pharmaceutical-and-other-supplies,TRUE,3,Pharmaceutical and other Supplies
+policy-planning-and-support-services,TRUE,3,"Policy, Planning and Support Services"
+arua-referral-hospital,TRUE,3,Arua Referral Hospital
+butabika-hospital,TRUE,3,Butabika Hospital
+fort-portal-referral-hospital,TRUE,3,Fort Portal Referral Hospital
+gulu-referral-hospital,TRUE,3,Gulu Referral Hospital
+health-service-commission,TRUE,3,Health Service Commission
+hoima-referral-hospital,TRUE,3,Hoima Referral Hospital
+jinja-referral-hospital,TRUE,3,Jinja Referral Hospital
+kabale-referral-hospital,TRUE,3,Kabale Referral Hospital
+kampala-capital-city-authority-community-health-management,TRUE,3,Kampala Capital City Authority (community health management)
+lira-referral-hospital,TRUE,3,Lira Referral Hospital
+masaka-referral-hospital,TRUE,3,Masaka Referral Hospital
+mbale-referral-hospital,TRUE,3,Mbale Referral Hospital
+mbarara-referral-hospital,TRUE,3,Mbarara Referral Hospital
+moroto-referral-hosptial,TRUE,3,Moroto Referral Hosptial
+mubende-referral-hospital,TRUE,3,Mubende Referral Hospital
+mulago-hospital-complex,TRUE,3,Mulago Hospital Complex
+naguru-referral-hospital,TRUE,3,Naguru Referral Hospital
+national-medical-stores,TRUE,3,National Medical Stores
+soroti-referral-hospital,TRUE,3,Soroti Referral Hospital
+uganda-aids-commission,TRUE,3,Uganda AIDS Commission
+uganda-blood-transfusion-service,TRUE,3,Uganda Blood Transfusion Service
+uganda-cancer-institute,TRUE,3,Uganda Cancer Institute
+uganda-heart-institute,TRUE,3,Uganda Heart Institute
+local-governments,TRUE,2,Local Governments
+ministry-of-health,TRUE,2,Ministry of health
+other,TRUE,2,Other
+health,TRUE,1,Health
