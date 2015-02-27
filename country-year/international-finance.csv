@@ -1,0 +1,61 @@
+id,year,direction,flow-type,flow-name,data-year,value
+UG,2013,in,commercial,fdi-in,2013,1145859874
+UG,2013,in,commercial,net-portfolio-equity,2013,94849522
+UG,2013,in,commercial,long-debt-disbursement,2013,0
+UG,2013,in,commercial,short-debt-net-flow,2013,0
+UG,2013,out,commercial,long-debt-capital-payments,2013,0
+UG,2013,out,commercial,long-debt-interest-payments,2013,0
+UG,2013,out,commercial,short-debt-interest-payments,2013,0
+UG,2013,out,commercial,fdi,2013,-513046.84
+UG,2013,out,illicit,trade-mispricing,2013,664666437.92
+UG,2013,out,illicit,illicit-finance,2013,0
+UG,2013,in,official,oda-interest-payments,2013, na 
+UG,2013,in,official,oda-capital-payments,2013, na 
+UG,2013,in,official,oofs-interest-payments,2013, na 
+UG,2013,in,official,oofs-capital-payments,2013, na 
+UG,2013,out,official,oda,2013, na 
+UG,2013,out,official,oofs,2013, na 
+UG,2013,in,official,oda,2013,1839000000
+UG,2013,in,official,dfis,2012,329044846.99
+UG,2013,out,official,oda-capital-payments,2013,156790000
+UG,2013,out,official,oofs-capital-payments,2013,126240000
+UG,2013,out,official,oofs-interest-payments,2013,87970000
+UG,2013,in,official,oofs,2013,62630000
+UG,2013,out,official,oda-interest-payments,2013,31080000
+UG,2013,in,official,non-dac,2013,1430000
+UG,2013,out,official,non-dac,2013,0
+UG,2013,out,official,dfis,2013,0
+UG,2013,in,private,remittances,2013,931570329.7
+UG,2013,out,private,remittances,2013,349828372.99
+UG,2013,in,private,pda-in,2011,0
+UG,2013,out,private,pda,2013,0
+US,2013,in,commercial,fdi,2013,187528000000
+US,2013,out,commercial,fdi,2012,45689170164.32
+US,2013,in,commercial,long-debt-disbursement,2013, na 
+US,2013,in,commercial,short-debt-net-flow,2013, na 
+US,2013,out,commercial,long-debt-capital-payments,2013, na 
+US,2013,out,commercial,long-debt-interest-payments,2013, na 
+US,2013,out,commercial,short-debt-interest-payments,2013, na 
+US,2013,in,commercial,net-portfolio-equity,2013,-85407000000
+US,2013,out,illicit,illicit-finance,2013, na 
+US,2013,out,illicit,trade-mispricing,2013, na 
+US,2013,in,official,dfis,2013, na 
+US,2013,in,official,non-dac,2013, na 
+US,2013,in,official,oda,2013, na 
+US,2013,in,official,oofs,2013, na 
+US,2013,out,official,oda-interest-payments,2013, na 
+US,2013,out,official,oda-capital-payments,2013, na 
+US,2013,out,official,oofs-interest-payments,2013, na 
+US,2013,out,official,oofs-capital-payments,2013, na 
+US,2013,out,official,non-dac,2013, na 
+US,2013,out,official,oda,2013,31087510000
+US,2013,out,official,oofs,2013,2791000000
+US,2013,in,official,oofs-capital-payments,2013,1384970000
+US,2013,in,official,oda-capital-payments,2013,663200000
+US,2013,in,official,oofs-interest-payments,2013,470400000
+US,2013,out,official,dfis,2012,245949240.83
+US,2013,in,official,oda-interest-payments,2013,156790000
+US,2013,out,private,remittances,2013,52043000000
+US,2013,out,private,pda,2011,30813543486.48
+US,2013,in,private,remittances,2013,6623000000
+US,2013,in,private,pda,2011, na 
