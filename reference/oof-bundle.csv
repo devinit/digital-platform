@@ -1,4 +1,4 @@
-oof-bundle,oof-bundle-name
-A,OOF Grant
-B,OOF Export Credit
-C,OOF Loan
+id,old-code,name
+oof-grant,A,OOF Grant
+oof-export-credit,B,OOF Export Credit
+oof-loan,C,OOF Loan
