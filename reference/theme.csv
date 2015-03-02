@@ -6,5 +6,5 @@ official,International official finance,in-oda-gross
 ha,Humanitarian finance,in_ha
 vulnerability,Vulnerability,climate-vulnerability
 health,Health,life-expectancy-at-birth
-education,,
-employment,,
+education,Education,primary-school-enrolment
+employment,Employment,total-unemployment
