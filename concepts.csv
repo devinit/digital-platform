@@ -29,6 +29,7 @@ country-year,maternal-mortality,simple,,"Maternal mortality rate (per 100,000 li
 country-year,long-term-debt,multi,,Long term debt flows,"id-to, year, debt-flow, destination-institution-type, creditor-type, creditor-institution, financing-type, id-from, value","Long term debt flows: disbursements, debt servicing and interest payments",,,unit,World Bank International Debt Statistics,,
 country-year,natural-hazard,simple,,Natural hazard exposure score,"id, year, value",Index for risk management score for exposure to natural hazards (10 = high exposure),lin,vulnerability,index,Inform (Index for Risk Management) v 3.0.3,,
 country-year,oda,multi,,Official Development Assistance,"id-from,id-to, sector, bundle, channel, type, value",Gross ODA,log,official,USD,"DI, based on OECD-DAC data",,
+country-year,oof,multi,,Other Official Flows,"year, id-from, id-to, sector, bundle, channel, value",Gross OOF,log,official,USD,"DI, based on OECD-DAC data",,
 reference,oof-bundle,,,,,Modality of other official flows (OOFs),lin,official,,DI (adapted from OECD),,1(A)
 country-year,poor-people,simple,,People living on less than $1.25 a day,"id, year, value",Number of poor people living on under $1.25 per day,lin,poorest20pct,unit,??,Total population (from ???) * Percentage of population living in under $1.25 per day (from ???),
 country-year,population-0-14,embedded,population-by-age,Population: 0-14 years,"id, year, value",Population ages 0-14 (% of total),lin,,percent,,,
