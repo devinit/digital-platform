@@ -249,7 +249,7 @@ YT,country,Mayotte,south-of-sahara,YT,MYT,,mayotte,YT,recipient
 ZA,country,South Africa,south-of-sahara,ZA,ZAF,UMICs,south-africa,ZA,crossover
 ZM,country,Zambia,south-of-sahara,ZM,ZMB,LDCs,zambia,ZM,recipient
 ZW,country,Zimbabwe,south-of-sahara,ZW,ZWE,Other LICs,zimbabwe,ZW,recipient
-EU,country,European Union,europe,,,,european-union,EU,crossover
+EU,organisation,European Union,europe,,,,european-union,EU,crossover
 country-unspecified,country,"Country, unspecified",unspecified,,,,country-unspecified,,crossover
 afdb,organisation,AfDB,,,,,afdb,1,multilateral
 afdf,organisation,AfDF,,,,,afdf,2,multilateral
