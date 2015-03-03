@@ -1,251 +1,251 @@
 id,year,value
-AD,2014,Not fragile
-AE,2014,Not fragile
-AF,2014,Long-term fragile
-AG,2014,Not fragile
+AD,2014,1
+AE,2014,1
+AF,2014,4
+AG,2014,1
 AI,2014,
-AL,2014,Not fragile
-AM,2014,Not fragile
-AO,2014,Long-term fragile
+AL,2014,1
+AM,2014,1
+AO,2014,4
 AQ,2014,
-AR,2014,Not fragile
-AS,2014,Not fragile
-AT,2014,Not fragile
-AU,2014,Not fragile
-AW,2014,Not fragile
+AR,2014,1
+AS,2014,1
+AT,2014,1
+AU,2014,1
+AW,2014,1
 AX,2014,
-AZ,2014,Improving fragility
-BA,2014,Improving fragility
-BB,2014,Not fragile
-BD,2014,Long-term fragile
-BE,2014,Not fragile
-BF,2014,Fragile
-BG,2014,Not fragile
-BH,2014,Not fragile
-BI,2014,Long-term fragile
-BJ,2014,Not fragile
+AZ,2014,2
+BA,2014,2
+BB,2014,1
+BD,2014,4
+BE,2014,1
+BF,2014,3
+BG,2014,1
+BH,2014,1
+BI,2014,4
+BJ,2014,1
 BL,2014,
-BM,2014,Not fragile
-BN,2014,Not fragile
-BO,2014,Not fragile
+BM,2014,1
+BN,2014,1
+BO,2014,1
 BQ,2014,
-BR,2014,Not fragile
-BS,2014,Not fragile
-BT,2014,Long-term fragile
+BR,2014,1
+BS,2014,1
+BT,2014,4
 BV,2014,
-BW,2014,Not fragile
-BY,2014,Improving fragility
-BZ,2014,Not fragile
-CA,2014,Not fragile
+BW,2014,1
+BY,2014,2
+BZ,2014,1
+CA,2014,1
 CC,2014,
-CD,2014,Very fragile
-CF,2014,Long-term fragile
-CG,2014,Fragile
-CH,2014,Not fragile
-CI,2014,Long-term fragile
+CD,2014,5
+CF,2014,4
+CG,2014,3
+CH,2014,1
+CI,2014,4
 CK,2014,
-CL,2014,Not fragile
-CM,2014,Long-term fragile
-CN,2014,Not fragile
-CO,2014,Long-term fragile
-CR,2014,Not fragile
-CU,2014,Improving fragility
-CV,2014,Not fragile
-CW,2014,Not fragile
+CL,2014,1
+CM,2014,4
+CN,2014,1
+CO,2014,4
+CR,2014,1
+CU,2014,2
+CV,2014,1
+CW,2014,1
 CX,2014,
-CY,2014,Not fragile
-CZ,2014,Not fragile
-DE,2014,Not fragile
-DJ,2014,Fragile
-DK,2014,Not fragile
-DM,2014,Not fragile
-DO,2014,Improving fragility
-DZ,2014,Improving fragility
-EC,2014,Not fragile
-EE,2014,Not fragile
-EG,2014,Long-term fragile
+CY,2014,1
+CZ,2014,1
+DE,2014,1
+DJ,2014,3
+DK,2014,1
+DM,2014,1
+DO,2014,2
+DZ,2014,2
+EC,2014,1
+EE,2014,1
+EG,2014,4
 EH,2014,
-ER,2014,Long-term fragile
-ES,2014,Not fragile
-ET,2014,Long-term fragile
-FI,2014,Not fragile
-FJ,2014,Not fragile
+ER,2014,4
+ES,2014,1
+ET,2014,4
+FI,2014,1
+FJ,2014,1
 FK,2014,
-FM,2014,Not fragile
-FO,2014,Not fragile
-FR,2014,Not fragile
-GA,2014,Not fragile
-GB,2014,Not fragile
-GD,2014,Not fragile
-GE,2014,Fragile
+FM,2014,1
+FO,2014,1
+FR,2014,1
+GA,2014,1
+GB,2014,1
+GD,2014,1
+GE,2014,3
 GF,2014,
 GG,2014,
-GH,2014,Not fragile
+GH,2014,1
 GI,2014,
-GL,2014,Not fragile
-GM,2014,Fragile
-GN,2014,Long-term fragile
+GL,2014,1
+GM,2014,3
+GN,2014,4
 GP,2014,
-GQ,2014,Long-term fragile
-GR,2014,Not fragile
+GQ,2014,4
+GR,2014,1
 GS,2014,
-GT,2014,Fragile
-GU,2014,Not fragile
-GW,2014,Fragile
-GY,2014,Not fragile
-HK,2014,Not fragile
+GT,2014,3
+GU,2014,1
+GW,2014,3
+GY,2014,1
+HK,2014,1
 HM,2014,
-HN,2014,Not fragile
-HR,2014,Not fragile
-HT,2014,Long-term fragile
-HU,2014,Not fragile
-ID,2014,status
-IE,2014,Not fragile
-IL,2014,Not fragile
-IM,2014,Not fragile
-IN,2014,Not fragile
+HN,2014,1
+HR,2014,1
+HT,2014,4
+HU,2014,1
+ID,2014,1
+IE,2014,1
+IL,2014,1
+IM,2014,1
+IN,2014,1
 IO,2014,
-IQ,2014,Very fragile
-IR,2014,Long-term fragile
-IS,2014,Not fragile
-IT,2014,Not fragile
+IQ,2014,5
+IR,2014,4
+IS,2014,1
+IT,2014,1
 JE,2014,
-JM,2014,Not fragile
-JO,2014,Not fragile
-JP,2014,Not fragile
-KE,2014,Long-term fragile
-KG,2014,Long-term fragile
-KH,2014,Fragile
-KI,2014,Not fragile
-KM,2014,Fragile
-KN,2014,Not fragile
-KP,2014,Fragile
-KR,2014,Not fragile
-KW,2014,Not fragile
-KY,2014,Not fragile
-KZ,2014,Not fragile
-LA,2014,Long-term fragile
-LB,2014,Long-term fragile
-LC,2014,Not fragile
-LI,2014,Not fragile
-LK,2014,Fragile
-LR,2014,Long-term fragile
-LS,2014,Improving fragility
-LT,2014,Not fragile
-LU,2014,Not fragile
-LV,2014,Not fragile
-LY,2014,Fragile
-MA,2014,Not fragile
-MC,2014,Not fragile
-MD,2014,Improving fragility
-ME,2014,Not fragile
-MF,2014,Not fragile
-MG,2014,Fragile
-MH,2014,Not fragile
-MK,2014,Not fragile
-ML,2014,Fragile
-MM,2014,Long-term fragile
-MN,2014,Not fragile
-MO,2014,Not fragile
-MP,2014,Not fragile
+JM,2014,1
+JO,2014,1
+JP,2014,1
+KE,2014,4
+KG,2014,4
+KH,2014,3
+KI,2014,1
+KM,2014,3
+KN,2014,1
+KP,2014,3
+KR,2014,1
+KW,2014,1
+KY,2014,1
+KZ,2014,1
+LA,2014,4
+LB,2014,4
+LC,2014,1
+LI,2014,1
+LK,2014,3
+LR,2014,4
+LS,2014,2
+LT,2014,1
+LU,2014,1
+LV,2014,1
+LY,2014,3
+MA,2014,1
+MC,2014,1
+MD,2014,2
+ME,2014,1
+MF,2014,1
+MG,2014,3
+MH,2014,1
+MK,2014,1
+ML,2014,3
+MM,2014,4
+MN,2014,1
+MO,2014,1
+MP,2014,1
 MQ,2014,
-MR,2014,Fragile
+MR,2014,3
 MS,2014,
-MT,2014,Not fragile
-MU,2014,Not fragile
-MV,2014,Not fragile
-MW,2014,Fragile
-MX,2014,Not fragile
-MY,2014,Not fragile
-MZ,2014,Fragile
-NA,2014,Not fragile
-NC,2014,Not fragile
-NE,2014,Fragile
+MT,2014,1
+MU,2014,1
+MV,2014,1
+MW,2014,3
+MX,2014,1
+MY,2014,1
+MZ,2014,3
+NA,2014,1
+NC,2014,1
+NE,2014,3
 NF,2014,
-NG,2014,Long-term fragile
-NI,2014,Improving fragility
-NL,2014,Not fragile
-NO,2014,Not fragile
-NP,2014,Long-term fragile
+NG,2014,4
+NI,2014,2
+NL,2014,1
+NO,2014,1
+NP,2014,4
 NR,2014,
 NU,2014,
-NZ,2014,Not fragile
-OM,2014,Not fragile
-PA,2014,Not fragile
-PE,2014,Not fragile
-PF,2014,Not fragile
-PG,2014,Fragile
-PH,2014,Fragile
-PK,2014,Long-term fragile
-PL,2014,Not fragile
+NZ,2014,1
+OM,2014,1
+PA,2014,1
+PE,2014,1
+PF,2014,1
+PG,2014,3
+PH,2014,3
+PK,2014,4
+PL,2014,1
 PM,2014,
 PN,2014,
-PR,2014,Not fragile
-PS,2014,Long-term fragile
-PT,2014,Not fragile
-PW,2014,Not fragile
-PY,2014,Not fragile
-QA,2014,Not fragile
+PR,2014,1
+PS,2014,4
+PT,2014,1
+PW,2014,1
+PY,2014,1
+QA,2014,1
 RE,2014,
-RO,2014,Not fragile
-RS,2014,Improving fragility
-RU,2014,Improving fragility
-RW,2014,Long-term fragile
-SA,2014,Not fragile
-SB,2014,Fragile
-SC,2014,Not fragile
-SD,2014,Very fragile
-SE,2014,Not fragile
-SG,2014,Not fragile
+RO,2014,1
+RS,2014,2
+RU,2014,2
+RW,2014,4
+SA,2014,1
+SB,2014,3
+SC,2014,1
+SD,2014,5
+SE,2014,1
+SG,2014,1
 SH,2014,
-SI,2014,Not fragile
+SI,2014,1
 SJ,2014,
-SK,2014,Not fragile
-SL,2014,Long-term fragile
-SM,2014,Not fragile
-SN,2014,Fragile
-SO,2014,Very fragile
-SR,2014,Not fragile
-SS,2014,Very fragile
-ST,2014,Not fragile
-SV,2014,Not fragile
-SX,2014,Not fragile
-SY,2014,Long-term fragile
-SZ,2014,Fragile
-TC,2014,Not fragile
-TD,2014,Very fragile
+SK,2014,1
+SL,2014,4
+SM,2014,1
+SN,2014,3
+SO,2014,5
+SR,2014,1
+SS,2014,5
+ST,2014,1
+SV,2014,1
+SX,2014,1
+SY,2014,4
+SZ,2014,3
+TC,2014,1
+TD,2014,5
 TF,2014,
-TG,2014,Long-term fragile
-TH,2014,Not fragile
-TJ,2014,Long-term fragile
+TG,2014,4
+TH,2014,1
+TJ,2014,4
 TK,2014,
-TL,2014,Fragile
-TM,2014,Improving fragility
-TN,2014,Not fragile
-TO,2014,Not fragile
-TR,2014,Not fragile
-TT,2014,Not fragile
-TV,2014,Not fragile
-TW,2014,Not fragile
-TZ,2014,Fragile
-UA,2014,Not fragile
-UG,2014,Long-term fragile
+TL,2014,3
+TM,2014,2
+TN,2014,1
+TO,2014,1
+TR,2014,1
+TT,2014,1
+TV,2014,1
+TW,2014,1
+TZ,2014,3
+UA,2014,1
+UG,2014,4
 UM,2014,
-US,2014,Not fragile
-UY,2014,Not fragile
-UZ,2014,Long-term fragile
+US,2014,1
+UY,2014,1
+UZ,2014,4
 VA,2014,
-VC,2014,Not fragile
-VE,2014,Not fragile
+VC,2014,1
+VE,2014,1
 VG,2014,
-VI,2014,Not fragile
-VN,2014,Not fragile
-VU,2014,Not fragile
+VI,2014,1
+VN,2014,1
+VU,2014,1
 WF,2014,
-WS,2014,Not fragile
-XK,2014,Not fragile
-YE,2014,Long-term fragile
+WS,2014,1
+XK,2014,1
+YE,2014,4
 YT,2014,
-ZA,2014,Not fragile
-ZM,2014,Fragile
-ZW,2014,Very fragile
+ZA,2014,1
+ZM,2014,3
+ZW,2014,5
