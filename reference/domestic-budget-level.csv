@@ -12,29 +12,23 @@ agriculture-advisory-services,TRUE,3,Agriculture Advisory Services
 agriculture-cluster-development-project,TRUE,4,Agriculture Cluster Development Project
 agriculture-production-marketing-regulation,TRUE,4,"Agriculture Production, Marketing & Regulation"
 agriculture-techonology-transfer-cassava-value-chain-project,TRUE,4,Agriculture Techonology Transfer Cassava Value Chain Project
-amortization,FALSE,4,amortization 
 animal-production-department,TRUE,4,Animal Production Department
 animal-resources,TRUE,3,Animal Resources
 arua-referral-hospital,TRUE,3,Arua Referral Hospital
 avian-and-human-influenza-preparedness-and-response,TRUE,4,Avian and Human Influenza Preparedness and Response
-bank-financing,FALSE,3,bank financing
 belgium,TRUE,5,Belgium (504)
-budget-support,FALSE,4,budget support
-budget-support,FALSE,3,budget support 
 buginyaya-zonal-agricultural-research-and-development-institute,TRUE,3,Buginyaya Zonal Agricultural Research and Development Institute
 bulindi-zonal-agricultural-research-and-development-institute,TRUE,3,Bulindi Zonal Agricultural Research and Development Institute
 butabika-hospital,TRUE,3,Butabika Hospital
 clinical-and-public-health,TRUE,3,Clinical and public health
 commercialization-of-agriculture-in-northern-uganda,TRUE,4,Commercialization of Agriculture in Northern Uganda
 community-health,TRUE,4,Community Health
-concessional-project-loans,FALSE,4,concessional project loans
 construction-of-ministry-of-agriculture-animal-industry,TRUE,4,"Construction of Ministry of Agriculture, Animal Industry"
 construction-of-specialised-neonatal-and-maternal-unit-in-mulago-hospital,TRUE,4,Construction of Specialised Neonatal and Maternal Unit in Mulago Hospital
 crop-disease-and-pest-control,TRUE,4,Crop disease and Pest Control
 crop-production-department,TRUE,4,Crop Production Department
 crop-protection-department,TRUE,4,Crop Protection Department
 crops,TRUE,3,Crops
-current-expenditures,FALSE,2,current expenditures
 dairy-development-authority,TRUE,3,Dairy Development Authority
 defence,TRUE,1,Defence
 defence-equipment-project,TRUE,4,Defence Equipment Project
@@ -42,28 +36,19 @@ department-of-agribusiness,TRUE,4,Department of Agribusiness
 department-of-crop-regulation-and-certification,TRUE,4,Department of Crop Regulation and Certification
 department-of-entomology,TRUE,4,Department of Entomology
 department-of-planning,TRUE,4,Department of Planning
-development-expenditures,FALSE,2,development expenditures
 development-of-social-health-initiative,TRUE,4,Development of Social Health Initiative
 directorate-of-animal-resources,TRUE,4,Directorate of Animal Resources
 directorate-of-crop-resources,TRUE,4,Directorate of Crop Resources
 district-infrastructure-support-programme,TRUE,4,District Infrastructure Support Programme
 district-production-services,TRUE,3,District Production Services
-domestic-financing-net,FALSE,2,domestic financing net
 domestic-interest-payments,TRUE,2,Domestic Interest Payments
 eastern-africa-agricultural-productivity-adaptable-program,TRUE,3,Eastern Africa Agricultural Productivity Adaptable Program
 energy-for-rural-transformation-programme,TRUE,4,Energy for rural transformation programme
 enhancing-national-food-security-through-increased-rice-production-in-eastern-uganda,TRUE,4,Enhancing National Food Security through increased Rice production in Eastern Uganda
-exceptional-financing,FALSE,4,exceptional financing
-excises,FALSE,4,excises
-expenditures,FALSE,1,expenditures
 export-goat-breeding-and-production,TRUE,4,Export Goat Breeding and Production
-external-financing-inflow,FALSE,3,external financing inflow
-external-financing-net,FALSE,2,external financing net
-external-financing-outflow,FALSE,3,external financing outflow
 external-interest-payments,TRUE,2,External Interest Payments
 external-security,TRUE,3,External Security
 external-security,TRUE,2,External Security
-externally-financed-projects,FALSE,3,externally-financed projects
 farm-development,TRUE,4,Farm Development
 fisheries-resources-department,TRUE,4,Fisheries Resources Department
 fort-portal-referral-hospital,TRUE,3,Fort Portal Referral Hospital
@@ -72,8 +57,6 @@ global-alliance-for-vaccines-immunisation,TRUE,5,Global Alliance for Vaccines Im
 global-environment-facility,TRUE,4,Global Environment Facility (424)
 global-fund-for-aids-tb-and-malaria,TRUE,4,"Global Fund for AIDS, TB and Malaria"
 global-fund-for-hiv-tb-malaria,TRUE,5,"Global Fund for HIV, TB & Malaria (436)"
-government-of-uganda-investment,FALSE,3,government of uganda investment
-grants,FALSE,2,grants
 gulu-referral-hospital,TRUE,3,Gulu Referral Hospital
 headquarters,TRUE,4,Headquarters
 headquarters,TRUE,3,Headquarters
@@ -85,12 +68,10 @@ health-systems-strengthening,TRUE,4,Health Systems Strengthening
 hoima-referral-hospital,TRUE,3,Hoima Referral Hospital
 iceland,TRUE,5,Iceland (516)
 improvement-of-food-security-in-cross-border-districts,TRUE,4,Improvement of Food Security in Cross Border districts
-income-taxes,FALSE,4,income taxes
 increasing-mukene-for-human-consumption,TRUE,4,Increasing Mukene for Human Consumption
 insitutional-support-to-moh,TRUE,4,Insitutional Support to MoH
 institutional-capacity-building,TRUE,4,Institutional Capacity Building
 integrated-production-and-pest-management,TRUE,4,Integrated Production and Pest Management
-interest-payments,FALSE,3,interest payments
 interest-payments,TRUE,1,Interest Payments
 internal-audit,TRUE,4,Internal Audit
 internal-audit-department,TRUE,4,Internal Audit Department
@@ -98,7 +79,6 @@ international-development-association,TRUE,5,International Development Associati
 international-development-association,TRUE,4,International Development Association (410)
 international-fund-for-agriculture-and-development,TRUE,5,International Fund for Agriculture and Development (411)
 international-fund-for-agriculture-and-development,TRUE,4,International Fund for Agriculture and Development (411)
-international-trade-taxes,FALSE,4,international trade taxes
 islamic-development-bank,TRUE,5,Islamic Development Bank (414)
 italian-support-to-health-sector-strategic-plan-and-peace-recovery-development-plan,TRUE,4,Italian Support to Health Sector Strategic Plan and Peace Recovery Development Plan
 italy,TRUE,5,Italy (522)
@@ -144,28 +124,19 @@ national-livestock-production-improvement,TRUE,4,National Livestock Production I
 national-livestock-research,TRUE,3,National Livestock Research
 national-medical-stores,TRUE,3,National Medical Stores
 national-semi-arid-research,TRUE,3,National Semi arid Research
-net-lending-and-investment,FALSE,2,net lending and investment
 ngetta-zonal-agricultural-research-and-development-institute,TRUE,3,Ngetta Zonal Agricultural Research and Development Institute
-non-concessional-borrowing,FALSE,4,non-concessional borrowing
-nonbank-financing,FALSE,3,nonbank financing
-nontax,FALSE,3,nontax
-oil-revenue,FALSE,3,oil revenue
 other,TRUE,1,Other
 other,TRUE,2,Other
-other-current,FALSE,3,other current
-other-spending,FALSE,2,other spending
 pharmaceutical-and-other-supplies,TRUE,3,Pharmaceutical and other Supplies
 plan-for-national-agriculture-statistics,TRUE,4,Plan for National Agriculture Statistics
 planning,TRUE,4,Planning
 policy-planning-and-support-services,TRUE,3,"Policy, Planning and Support Services"
-project-grants,FALSE,3,project grants
 public-health-laboratory-strengthening-project,TRUE,4,Public Health Laboratory strengthening project
 quality-assurance,TRUE,4,Quality Assurance
 rehabilitation-and-construction-of-general-hospitals,TRUE,4,Rehabilitation and Construction of General Hospitals
 rehabilitation-and-equiping-of-health-facilities-in-west-region,TRUE,4,Rehabilitation and Equiping of Health Facilities in West Region
 rehabilitation-of-health-facilities-in-eastern-region,TRUE,4,Rehabilitation of Health Facilities in Eastern Region
 research-institutions,TRUE,4,Research Institutions
-revenue,FALSE,2,revenue
 rice-development-project,TRUE,4,Rice Development Project
 rural-electrification,TRUE,4,Rural Electrification
 rwebitaba-zonal-agricultural-research-and-development-institute,TRUE,3,Rwebitaba Zonal Agricultural Research and Development Institute
@@ -182,10 +153,7 @@ support-to-fisheries-development,TRUE,4,Support to Fisheries Development
 support-to-fisheries-mechanisation-weed-control,TRUE,4,Support to Fisheries Mechanisation & Weed Control
 support-to-mulago-hospital-rehabilitation,TRUE,4,Support to Mulago Hospital Rehabilitation
 support-to-quality-assurance-fish-marketing,TRUE,4,Support to Quality Assurance Fish Marketing
-tax,FALSE,3,tax
 technical-assistance-to-improve-animal-disease-diagnostic-capacity,TRUE,4,Technical Assistance to Improve Animal Disease Diagnostic Capacity
-total-financing,FALSE,1,total financing
-total-revenue-and-grants,FALSE,1,total revenue and grants
 uganda-aids-commission,TRUE,3,Uganda AIDS Commission
 uganda-blood-transfusion-service,TRUE,3,Uganda Blood Transfusion Service
 uganda-cancer-institute,TRUE,3,Uganda Cancer Institute
@@ -198,9 +166,7 @@ united-nations-office-for-project-services,TRUE,5,United Nations Office for Proj
 updf-airforce,TRUE,4,UPDF Airforce
 updf-land-forces,TRUE,4,UPDF Land forces
 updf-peace-keeping-mission-in-somalia,TRUE,4,UPDF Peace Keeping Mission in Somalia
-value-added-tax,FALSE,4,value-added tax
 vegetable-oil-development-project-phase,TRUE,4,Vegetable Oil Development Project-Phase 2
-wages-and-salaries,FALSE,3,wages and salaries
 african-development-bank,TRUE,5,African Development Bank (401)
 arab-bank-for-economic-development-in-africa,TRUE,5,Arab Bank for Economic Development in Africa (403)
 organisation-of-petroleum-exporting-countries,TRUE,5,Organisation of Petroleum Exporting Countries (415)
@@ -265,31 +231,13 @@ tertiaryhigher-education,TRUE,2,Tertiary/Higher education
 education,TRUE,1,Education
 other,TRUE,4,Other
 support-to-the-street-children-activities,TRUE,4,Support to the street children activities
-other,TRUE,4,Other
 support-to-youth-groups,TRUE,4,Support to Youth Groups
 joint-financing,TRUE,4,Joint Financing (420)
-international-development-association,TRUE,4,International Development Association (410)
 japan,TRUE,4,Japan (523)
-joint-financing,TRUE,4,Joint Financing (420)
-joint-financing,TRUE,4,Joint Financing (420)
 european-union,TRUE,4,European Union (406)
 germany,TRUE,4,Germany (514)
 african-devlopment-bank,TRUE,4,African Devlopment Bank (401)
 africa-development-fund,TRUE,4,Africa Development Fund (402)
-european-union,TRUE,4,European Union (406)
-germany,TRUE,4,Germany (514)
-joint-financing,TRUE,4,Joint Financing (420)
-joint-financing,TRUE,4,Joint Financing (420)
-joint-financing,TRUE,4,Joint Financing (420)
-joint-financing,TRUE,4,Joint Financing (420)
-joint-financing,TRUE,4,Joint Financing (420)
-joint-financing,TRUE,4,Joint Financing (420)
-international-development-association,TRUE,4,International Development Association (410)
-international-development-association,TRUE,4,International Development Association (410)
-european-union,TRUE,4,European Union (406)
-joint-financing,TRUE,4,Joint Financing (420)
-joint-financing,TRUE,4,Joint Financing (420)
-international-development-association,TRUE,4,International Development Association (410)
 headquarters-planning-and-policy,TRUE,3,"Headquarters, Planning and Policy"
 internal-audit,TRUE,3,Internal Audit
 office-of-the-dgcd;-dsp-and-dl,TRUE,3,Office of the D/G&CD; D/SP and D/L
@@ -304,7 +252,6 @@ promotion-of-children-and-youth,TRUE,3,Promotion of Children and Youth
 social-assistance-grant-for-empowerment,TRUE,3,Social Assistance Grant for Empowerment
 youth-and-children-affairs,TRUE,3,Youth and Children Affairs
 finance-and-administration,TRUE,3,Finance and Administration
-internal-audit,TRUE,3,Internal Audit
 office-of-directorate-of-water-development,TRUE,3,Office of Directorate of Water Development
 office-of-directorate-of-water-resources-management,TRUE,3,Office of Directorate of Water Resources Management
 planning,TRUE,3,Planning
@@ -326,7 +273,6 @@ water-and-sanitation-development-facility---central,TRUE,3,Water and Sanitation 
 water-and-sanitation-development-facility---east,TRUE,3,Water and Sanitation Development Facility - East
 water-and-sanitation-development-facility-north,TRUE,3,Water and Sanitation Development Facility-North
 water-and-sanitation-development-facility-south-west,TRUE,3,Water and Sanitation Development Facility-South West
-water-management-and-development-project,TRUE,3,Water Management and Development Project
 water-management-and-development-project-ii,TRUE,3,Water Management and Development Project II
 water-for-production,TRUE,3,Water for Production
 water-for-production-project,TRUE,3,Water for Production Project
@@ -335,7 +281,6 @@ mapping-of-ground-water-resurces-in-uganda,TRUE,3,Mapping of Ground Water Resurc
 operational-water-resources-management,TRUE,3,Operational Water Resources Management
 support-for-hydro-power-development-and-operations-on-river,TRUE,3,Support for Hydro-Power Development and Operations on River
 support-to-water-resource-management,TRUE,3,Support to Water Resource Management
-water-management-and-development-project,TRUE,3,Water Management and Development Project
 water-quality-management,TRUE,3,Water Quality Management
 water-resources-monitoring-assessment,TRUE,3,Water Resources Monitoring & Assessment
 water-resources-regulation,TRUE,3,Water Resources Regulation
@@ -343,7 +288,6 @@ community-mobilisation-and-empowerment---district-governments,TRUE,2,Community M
 policy-planning-and-support-services,TRUE,2,"Policy, Planning and Support Services"
 promotion-of-labour-productivity-and-employment,TRUE,2,Promotion of Labour Productivity and Employment
 social-protection-for-vulnerable-groups,TRUE,2,Social Protection for Vulnerable Groups
-policy-planning-and-support-services,TRUE,2,"Policy, Planning and Support Services"
 rural-water-supply-and-sanitation---central-government,TRUE,2,Rural Water Supply and Sanitation - Central Government
 rural-water-supply-and-sanitation---district-governments,TRUE,2,Rural Water Supply and Sanitation - District Governments
 urban-water-supply-and-sanitation-----district-governments,TRUE,2,Urban Water Supply and Sanitation -  - District Governments
@@ -352,3 +296,228 @@ water-for-production,TRUE,2,Water for Production
 water-resources-management,TRUE,2,Water Resources Management
 social-protection,TRUE,1,Social Protection
 wash,TRUE,1,WASH
+local-government-taxes,0,5,local government taxes
+other-direct-taxes,0,5,other direct taxes 
+capital-gain-tax,0,5,capital gain tax 
+others,0,5,others
+excises-on-petroleum-products,0,5,excises on petroleum products
+import-duties,0,5,import duties
+other-indirect-taxes,0,5,other indirect taxes
+other-tax,0,5,other tax 
+tax-refund,0,5,tax refund
+vat,0,5,vat
+customs-and-excise-duties,0,5,customs and excise duties
+other-nbr-taxes,0,5,other nbr taxes  
+taxes-on-income-and-profits,0,5,taxes on income and profits
+vat-and-supplementary-duties,0,5,vat and supplementary duties
+other-taxes-on-good-and-services,0,5,other taxes on good and services 
+taxes-on-petroleum-products,0,5,taxes on petroleum products
+adjustment-aid,0,4,adjustment aid
+budget-support,0,4,budget support
+budgetary-loans,0,4,budgetary loans
+commercial-borrowing,0,4,commercial borrowing
+concessional-project-loans,0,4,concessional project loans
+non-concessional-borrowing,0,4,non-concessional borrowing
+other-borrowing,0,4,other borrowing 
+other-concessional,0,4,other concessional
+other-loans,0,4,other loans
+other-loans-incl-standard-gauge-railway-loan-from-china,0,4,other loans incl standard gauge railway loan from china
+program-loans,0,4,program loans
+project-loans,0,4,project loans
+budget-loans,0,4,budget loans
+nonconcessional-borrowing,0,4,nonconcessional borrowing
+nonproject-support,0,4,nonproject support
+grants,0,4,grants 
+loans,0,4,loans 
+mdri-imf-related,0,4, mdri imf related
+capital-transfers,0,4,capital transfers
+exonerations,0,4,exonerations
+hipc-initiative-resources,0,4,hipc initiative resources
+other-deomestically-financed,0,4,other deomestically financed 
+other-domnestically-financed,0,4,other domnestically financed 
+other-investment-expenditure,0,4,other investment expenditure
+domestically-financed,0,4,domestically-financed
+foreign-financed,0,4,foreign-financed
+agricultural-swap,0,4,agricultural swap
+census,0,4,census
+education-swap,0,4,education swap
+generic-goods-and-services,0,4,generic goods and services
+health-swap,0,4,health swap
+maize-purchases,0,4,maize purchases
+national-local-elections,0,4,national  local elections
+national-aids-commission,0,4,national aids commission
+other-goods-and-services,0,4,other goods and services 
+pfem,0,4,pfem
+road-maintenance,0,4,road maintenance
+rural-electrification-program,0,4,rural electrification program
+statutory-expenditures,0,4,statutory expenditures
+fuel-subsidies,0,4,fuel subsidies
+other-subsidies,0,4,other subsidies
+fertilizer-and-seed-subsidy,0,4,fertilizer and seed subsidy
+other-subsidies-and-transfers,0,4,other subsidies and transfers 
+pension-and-gratuities,0,4,pension and gratuities
+transfers-to-public-entities,0,4,transfers to public entities
+transfers-to-road-and-revenue-authorities,0,4,transfers to road and revenue authorities
+capital,0,4,capital
+current,0,4,current
+other-transfers,0,4,other transfers
+south,0,4,south
+states,0,4,states
+domestic,0,4,domestic
+domestic,0,4,domestic 
+domestically-financed,0,4,domestically financed
+external,0,4,external
+external,0,4,external 
+none,0,4,none
+general,0,4,general
+global-fund,0,4,global fund
+other,0,4,other
+sectoral,0,4,sectoral
+direct-taxes,0,4,direct taxes
+income-profits,0,4,income profits
+indirect-taxes,0,4,indirect taxes
+national-board-of-revenue-nbr-taxes,0,4,national board of revenue (nbr) taxes
+taxes-on-goods-and-services,0,4,taxes on goods and services
+payments-for-peacekeeping-operations,0,4, payments for peacekeeping operations
+administrative-fees,0,4,administrative fees
+exceptional-uranium-receipts,0,4,exceptional uranium receipts
+gold-sector,0,4,gold sector
+investment-income,0,4,investment income
+lga,0,4,lga
+local-government-fees,0,4,local government fees
+ministerial-and-departmental-fees-aia,0,4,ministerial and departmental fees aia
+other-nontax,0,4,other nontax
+property-income,0,4,property income
+royalties-from-gold,0,4,royalties from gold
+transit-fees,0,4,transit fees
+domestic-sales,0,4,domestic sales
+oil-exports-revenues,0,4,oil exports revenues
+customs-and-excise,0,4,customs and excise
+direct-and-indirect-taxes,0,4,direct and indirect taxes
+excises,0,4,excises
+import-duties,0,4,import duties
+income-and-profits,0,4,income and profits
+income-taxes,0,4,income taxes
+international-trade-taxes,0,4,international trade taxes
+national-board-of-revenue-nbr-taxes,0,4,national board of revenue nbr taxes
+non-nbr-taxes,0,4,non-nbr taxes
+other-taxes,0,4,other taxes
+petroleum-royalties-and-taxes,0,4,petroleum royalties and taxes
+property,0,4,property
+taxes-on-income-and-profits,0,4,taxes on income and profits
+taxes-on-income-profits-and-capital-gains,0,4,taxes on income profits and capital gains
+taxes-on-petroleum-products,0,4,taxes on petroleum products
+value-added-tax,0,4,value-added tax
+accumulation-of-external-arrears,0,3,accumulation of external arrears
+budget-support,0,3,budget support
+change-in-arrears,0,3,change in  arrears 
+change-in-arrears,0,3,change in arrears 
+debt-relief,0,3,debt relief
+debt-relief,0,3,debt relief 
+debt-relief-and-hipc-initiative-assistance,0,3,debt relief and hipc initiative assistance
+disbursement,0,3,disbursement
+disbursements,0,3,disbursements
+drawings,0,3,drawings
+exceptional-financing,0,3,exceptional financing
+exceptional-financing,0,3,exceptional financing 
+external-loans-inflow,0,3,external loans inflow
+loans,0,3,loans
+non-concessional-borrowing,0,3,non-concessional borrowing
+none,0,3,none
+project-loans,0,3,project loans
+t-bills-and-t-bonds-waemu-net,0,3,t-bills and t-bonds waemu net
+external-loans,0,3,external loans
+amortization,0,3,amortization
+amortization,0,3,amortization 
+principal-repayment,0,3,principal repayment
+repayments-due,0,3,repayments due
+accounts-payable,0,3,accounts payable
+bank-financing,0,3,bank financing
+bank-financing,0,3,bank financing 
+deposit-money-banks,0,3,deposit money banks
+domestic-borrowing,0,3,domestic borrowing 
+nonbank-financing,0,3,nonbank financing
+nonbank-financing,0,3,nonbank financing 
+other-financing,0,3,other financing
+privatization,0,3,privatization
+privatization-proceeds,0,3,privatization proceeds
+external-finance-inflow,0,3,external finance inflow
+amortization-of-parastatal-debt,0,3,amortization of parastatal debt
+externally-financed,0,3,externally financed
+domestically-financed,0,3,domestically financed
+annual-development-program-adp,0,3,annual development program adp
+non-adp-capital-spending,0,3,non-adp capital spending
+domestic,0,3,domestic
+external,0,3,external
+exceptional-expenditure,0,3,exceptional expenditure
+budget-reserve,0,3,budget reserve
+constitutional-reform,0,3,constitutional reform 
+drought-expenditures,0,3,drought expenditures
+food-account-surplus-deficit,0,3,food account surplus-deficit
+other-expenditures,0,3,other expenditures
+goods-and-services,0,3,goods and services
+subsidies,0,3,subsidies
+subsidies-and-transfers,0,3,subsidies and transfers
+transfer-payments,0,3,transfer payments
+interest,0,3,interest
+hipc-grant-relief,0,3, hipc grant relief 
+budget-support-grants,0,3,budget support grants
+dedicated-grants,0,3,dedicated grants
+hipc-initiative-assistance,0,3,hipc initiative assistance
+mca-funding,0,3,mca funding
+mdri-assistance,0,3,mdri assistance
+mdri-grants,0,3,mdri grants
+mdri-imf-grant-relief,0,3,mdri imf grant relief
+nonproject,0,3,nonproject 
+other-grants,0,3,other grants
+program-grants,0,3,program grants
+project-grants,0,3,project grants
+arrears-payments,0,3,arrears payments
+block-allocations,0,3,block allocations
+civil-service-reform,0,3,civil service reform
+compensation-to-employees,0,3,compensation to employees
+defense-and-nsis,0,3,defense and nsis
+goods-and-services-and-transfers,0,3,goods and services and transfers
+hipc-and-mdri-current-spending,0,3,hipc and mdri current spending
+interest-payments,0,3,interest payments
+other-primary-current-expenditure,0,3,other primary current expenditure
+other-recurrent,0,3,other recurrent
+pay-and-allowances,0,3,pay and allowances
+pensions,0,3,pensions
+pensions-and-scholarships,0,3,pensions and scholarships
+safety-net-and-other-expenditures,0,3,safety net and other expenditures
+transfers-and-subsidies,0,3,transfers and subsidies
+wages-and-salaries,0,3,wages and salaries
+tax,0,3,tax
+fonds-de-soutien-lnergie,0,3,fonds de soutien  lnergie
+nontax-revenue,0,3,nontax revenue
+resource-revenue,0,3,resource revenue
+resource-revenue,0,3,resource revenue 
+special-accounts-revenue,0,3,special accounts revenue
+special-funds-and-annexed-budgets,0,3,special funds and annexed budgets
+tax-revenue,0,3,tax revenue
+errors-and-omissions,0,2,errors and omissions
+external-finance-inflow,0,2,external finance inflow
+external-finance-inflows,0,2,external finance inflows
+external-finance-outflow,0,2,external finance outflow
+net-domestic-finance,0,2,net domestic finance
+net-external-finance,0,2,net external finance
+other-finance,0,2,other finance
+other-financing,0,2,other financing 
+capital-development,0,2,capital development
+capital-expenditure,0,2,capital expenditure
+development-expenditure,0,2,development expenditure
+investment-expenditure,0,2,investment expenditure
+net-lending,0,2,net lending
+net-lending,0,2,net lending 
+other-expenditure,0,2,other expenditure
+other-expenditures,0,2,other expenditures
+recurrent-expenditure,0,2,recurrent expenditure
+recurrent-expenditures,0,2,recurrent expenditures
+special-funds-and-annexed-budgets,0,2,special funds and annexed budgets
+grants,0,2,grants
+revenue,0,2,revenue
+total-revenue,0,2,total revenue
+financing,0,1,financing
+total-expenditure-and-net-lending,0,1,total expenditure and net lending
+total-revenue-and-grants,0,1,total revenue and grants
