@@ -1,8 +1,8 @@
 id,name,default
-poorest20pct,Poorest 20%,poorest20pct
+poorest20pct,Poverty,poorest20pct
 vulnerability,Vulnerability,climate-vulnerability
-dpf,Domestic public finance,govtspend-pc
-intlmix,Mix of international resources,largest-intl-flow
+dpf,Domestic resources,govtspend-pc
+intlmix,International resources,largest-intl-flow
 official,International official finance,in-oda-gross
 ha,Humanitarian finance,in-ha
 health,Health,life-expectancy-at-birth
