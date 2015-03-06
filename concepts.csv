@@ -60,7 +60,7 @@ country-year,under-5-mortality,simple,,"Under 5 mortality rate (per 1,000 live b
 country-year,university-college-enrolment,simple,,"School enrolment, tertiary (% gross)","id, year, value","School enrolment, tertiary (% gross)",lin,education,percent,%,WDI,,,highisbetter,
 country-year,youth-literacy,simple,,"Literacy rate, youth total (% of people ages 15-24)","id, year, value","Literacy rate, youth total (% of people ages 15-24)",lin,education,percent,%,WDI,,,highisbetter,
 country-year,youth-unemployment,simple,,Youth unemployment %,"id, year, value",youth unemployment %,lin,employment,percent,%,WDI,,,lowisbetter,
-country-year,avg-income-of-extreme-poor,simple,,Average income of extreme poor,"id, year, value",Average income ($PPP) of people living on < $1.25/day),lin,poorest20pct,USD,USD,"DI, based on WDI data",,,highisbetter,"75, 85, 95, 105, 115"
+country-year,avg-income-of-extreme-poor,simple,,Average income of extreme poor,"id, year, value",Average income ($PPP) of people living on < $1.25/day),lin,poorest20pct,USD,USD,"DI, based on WDI data",,,highisbetter,"0.75, 0.85, 0.95, 1.05, 1.15"
 country-year,mean-years-of-schooling,simple,,Mean years of schooling,"id, year, value",Mean years of schooling of adult population,lin,education,Year,,UN HDR,,,highisbetter,
 country-year,in-oda-gross,simple,,Gross ODA receipts,"id, year, value",Gross ODA received by each recipient country,log,official,USD,USD,"DI, based on OECD-DAC data",,,highisbetter,"250000000, 500000000, 750000000, 1000000000, 3000000000"
 country-year,in-oof-gross,simple,,Gross OOF receipts,"id, year, value",Gross OOF received by each recipient country,log,official,USD,USD,"DI, based on OECD-DAC data",,,highisbetter,"250000000, 500000000, 750000000, 1000000000, 3000000000"
@@ -78,4 +78,4 @@ reference,year,,,,,Calendar year,lin,,,,,,yyyy,,
 reference,domestic-budget-level,,,Domestic budget hierarchy level,"id, level, name",,,,,,,,,,
 reference,domestic-budget-type,,,Domestic budget type,"id, name",,,,,,,,,,
 region-year,,,,,,,lin,,,,,,,,
-country-year,gdp-current-ncu-fy,composite,,GDP in current National Currency Units as corresponding to Fiscal Year,"id, year, estimate, value",GDP in current National Currency Units as corresponding to Fiscal Year,log,,NCU,NCU,IMF,,,highisbetter,"1,1000,1000000,1000000000,1000000000000,1000000000000000,1000000000000000000"
+country-year,gdp-current-ncu-fy,composite,,GDP in current National Currency Units as corresponding to Fiscal Year,"id, year, estimate, value",GDP in current National Currency Units as corresponding to Fiscal Year,log,,NCU,NCU,IMF,,,highisbetter,"1,100,010,000,001,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000"
