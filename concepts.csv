@@ -78,6 +78,8 @@ reference,year,,,,,Calendar year,lin,,,,,,yyyy,,
 reference,domestic-budget-level,,,Domestic budget hierarchy level,"id, level, name",,,,,,,,,,
 reference,domestic-budget-type,,,Domestic budget type,"id, name",,,,,,,,,,
 reference,fragile-states-reference,reference,,,"id, name",,lin,,,,DI,,1(A),,
-reference,flow-name-reference,reference,,,"id, name",,lin,,,,DI,,1(A),,
+reference,flow-name-reference,reference,,International flows and categories,"id, flow-category, name, description, source",,,,,,,,,,
+reference,flow-type-reference,reference,,Reference for international flow types,"id, name, description, source",,,,,,,,,,
+reference,largest-intl-resource-reference,reference,,Reference for the largest-intl-flow file,"id, name",,,,,,,,,,
 region-year,,,,,,,lin,,,,,,,,
-country-year,gdp-current-ncu-fy,composite,,GDP in current National Currency Units as corresponding to Fiscal Year,"id, year, estimate, value",GDP in current National Currency Units as corresponding to Fiscal Year,log,,NCU,NCU,IMF,,,highisbetter,1100010000001000000000000000000000000000000000000000000000000000000000
+country-year,gdp-current-ncu-fy,composite,,GDP in current National Currency Units as corresponding to Fiscal Year,"id, year, estimate, value",GDP in current National Currency Units as corresponding to Fiscal Year,log,,NCU,NCU,IMF,,,highisbetter,1.10001E+69
