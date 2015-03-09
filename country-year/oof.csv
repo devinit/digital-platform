@@ -67,7 +67,7 @@ year,id-from,id-to,sector,bundle,channel,value
 2006,AU,MX,other,oof-export-credit,unspecified,1946885
 2006,AU,FM,other,oof-export-credit,unspecified,783947
 2006,AU,MM,other,oof-export-credit,unspecified,1702582
-2006,AU,NR,other,oof-export-credit,unspecified,1146245
+2006,AU,NA,other,oof-export-credit,unspecified,1146245
 2006,AU,NP,other,oof-export-credit,unspecified,671410
 2006,AU,NG,other,oof-export-credit,unspecified,1358675
 2006,AU,oceania,other,oof-export-credit,unspecified,2097134
@@ -601,7 +601,7 @@ year,id-from,id-to,sector,bundle,channel,value
 2007,AU,FM,other,oof-export-credit,unspecified,68394
 2007,AU,MM,governance-and-security,oof-export-credit,unspecified,1129065
 2007,AU,MM,other,oof-export-credit,unspecified,155551
-2007,AU,NR,governance-and-security,oof-export-credit,unspecified,660920
+2007,AU,NA,governance-and-security,oof-export-credit,unspecified,660920
 2007,AU,NG,governance-and-security,oof-export-credit,unspecified,1363658
 2007,AU,oceania,other,oof-export-credit,unspecified,1435863
 2007,AU,PK,governance-and-security,oof-export-credit,unspecified,1013421
@@ -1176,7 +1176,7 @@ year,id-from,id-to,sector,bundle,channel,value
 2008,AU,MX,other,oof-export-credit,unspecified,1382106
 2008,AU,FM,other,oof-export-credit,unspecified,870004
 2008,AU,MM,other,oof-export-credit,unspecified,490033
-2008,AU,NR,other,oof-export-credit,unspecified,282348
+2008,AU,NA,other,oof-export-credit,unspecified,282348
 2008,AU,NP,other,oof-export-credit,unspecified,399528
 2008,AU,NG,other,oof-export-credit,unspecified,645020
 2008,AU,north-central-america,other,oof-export-credit,unspecified,94214
@@ -1787,7 +1787,7 @@ year,id-from,id-to,sector,bundle,channel,value
 2009,AU,MX,other,oof-export-credit,unspecified,2382118
 2009,AU,FM,other,oof-export-credit,unspecified,595248
 2009,AU,MM,other,oof-export-credit,unspecified,1188992
-2009,AU,NR,other,oof-export-credit,unspecified,531617
+2009,AU,NA,other,oof-export-credit,unspecified,531617
 2009,AU,NP,other,oof-export-credit,unspecified,739026
 2009,AU,NG,other,oof-export-credit,unspecified,1815215
 2009,AU,oceania,other,oof-export-credit,unspecified,909068
@@ -2746,7 +2746,7 @@ year,id-from,id-to,sector,bundle,channel,value
 2010,AU,MX,other,oof-export-credit,unspecified,1668452
 2010,AU,FM,other,oof-export-credit,unspecified,773924
 2010,AU,MM,other,oof-export-credit,unspecified,2056761
-2010,AU,NR,other,oof-export-credit,unspecified,609137
+2010,AU,NA,other,oof-export-credit,unspecified,609137
 2010,AU,NP,other,oof-export-credit,unspecified,851256
 2010,AU,NG,other,oof-export-credit,unspecified,2018920
 2010,AU,oceania,other,oof-export-credit,unspecified,1163455
@@ -4756,7 +4756,7 @@ year,id-from,id-to,sector,bundle,channel,value
 2012,AU,FM,other,oof-export-credit,unspecified,638829
 2012,AU,MN,other,oof-export-credit,unspecified,293950
 2012,AU,MM,other,oof-export-credit,unspecified,1312750
-2012,AU,NR,other,oof-export-credit,unspecified,553239
+2012,AU,NA,other,oof-export-credit,unspecified,553239
 2012,AU,NG,other,oof-export-credit,unspecified,1887596
 2012,AU,oceania,other,oof-export-credit,unspecified,1607765
 2012,AU,PK,industry-and-trade,oof-export-credit,unspecified,539238
