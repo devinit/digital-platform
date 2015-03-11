@@ -1,4 +1,4 @@
-id,type,long-name,region,iso-alpha-2,iso-alpha-3,income-group,slug,dac-id,donor-recipient-type,has-domestic-data,short-name
+id,type,long-name,region,iso-alpha-2,iso-alpha-3,income-group,slug,dac-id,donor-recipient-type,has-domestic-data,name
 AD,country,Andorra,europe,AD,AND,,andorra,AD,,,Andorra
 AE,country,United Arab Emirates,middle-east,AE,ARE,,united-arab-emirates,AE,donor,,UAE
 AF,country,Afghanistan,south-central-asia,AF,AFG,LDCs,afghanistan,AF,recipient,1,Afghanistan
