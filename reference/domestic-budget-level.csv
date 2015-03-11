@@ -296,290 +296,291 @@ water-for-production,TRUE,2,Water for Production
 water-resources-management,TRUE,2,Water Resources Management
 social-protection,TRUE,1,Social Protection
 wash,TRUE,1,WASH
-domestic,0,5,Domestic
-external,0,5,External
-defense,0,5,Defense
-grants,0,5,Grants
-other,0,5,Other
-subsidies,0,5,Subsidies
-corporate-tax,0,5,Corporate Tax
-local-government-taxes,0,5,Local Government Taxes
-oil-sector,0,5,Oil Sector
-other-direct-taxes,0,5,Other Direct Taxes
-personal-income-tax,0,5,Personal Income Tax
-self-employed-tax,0,5,Self-Employed Tax
-customs-duties,0,5,Customs Duties
-direct-taxes,0,5,Direct Taxes
-federal-excise-duty,0,5,Federal Excise Duty
-gas-infrastructure-development-cess,0,5,Gas Infrastructure Development Cess
-gas-surcharges-and-other,0,5,Gas Surcharges and Other
-oil-and-gas-surcharges-and-other,0,5,Oil And Gas Surcharges And Other
-petroleum-surcharge,0,5,Petroleum Surcharge
-sales-taxvalue-added-tax,0,5,Sales TaxValue-Added Tax
-capital-gain-tax,0,5,Capital Gain Tax
-communications-service-tax,0,5,Communications Service Tax
-excises,0,5,Excises
-excises-on-petroleum-products,0,5,Excises on Petroleum Products
-import-duties,0,5,Import Duties
-other-indirect-taxes,0,5,Other Indirect Taxes
-other-tax,0,5,Other Tax
-social-contributions-national-health-insurance,0,5,Social Contributions National Health Insurance
-tax-refund,0,5,Tax Refund
-value-added-tax,0,5,Value-Added Tax
-customs-and-excise-duties,0,5,Customs and Excise Duties
-other-national-board-of-revenue-nbr-taxes,0,5,other National Board of Revenue NBR taxes
-taxes-on-income-and-profits,0,5,Taxes on Income and Profits
-value_added-tax-and-supplementary-duties,0,5,Value_added  Tax and Supplementary Duties
-other-taxes-on-good-and-services,0,5,Other Taxes on Good and Services
-taxes-on-petroleum-products,0,5,Taxes on Petroleum Products
-program-loans,0,4,Program Loans
-project-loans,0,4,Project Loans
-adjustment-aid,0,4,Adjustment Aid
-budget-loans,0,4,Budget Loans
-budget-support,0,4,Budget Support
-budgetary-loans,0,4,Budgetary Loans
-commercial-borrowing,0,4,Commercial Borrowing
-concessional-project-loans,0,4,Concessional Project Loans
-non-concessional-borrowing,0,4,Non-concessional Borrowing
-nonconcessional-borrowing,0,4,Nonconcessional Borrowing
-nonproject-support,0,4,Nonproject Support
-other-borrowing,0,4,Other Borrowing
-other-concessional,0,4,Other Concessional
-other-loans,0,4,Other Loans
-other-loans-incl-standard-gauge-railway-loan-from-china,0,4,Other loans incl Standard Gauge Railway loan from China
-heavily-indebted-poor-countries-and-multilateral-debt-relief-initiative-financed,0,4,Heavily Indebted Poor Countries and Multilateral Debt Relief Initiative financed
-non-heavily-indebted-poor-countries-and-multilateral-debt-relief-initiative-financed,0,4,Non Heavily Indebted Poor Countries and Multilateral Debt Relief Initiative financed
-heavily-indebted-poor-countries-initiative-resources,0,4,Heavily Indebted Poor Countries Initiative Resources
-other-domnestically-financed,0,4,Other Domnestically Financed
-grants,0,4,Grants
-loans,0,4,Loans
-multilateral-debt-relief-initiative-imf-related,0,4,Multilateral Debt Relief Initiative Imf Related
-other-deomestically-financed,0,4,Other Deomestically Financed
-federal,0,4,Federal
-provincial,0,4,Provincial
-capital-transfers,0,4,Capital Transfers
-exonerations,0,4,Exonerations
-other-investment-expenditure,0,4,Other Investment Expenditure
-domestically-financed,0,4,Domestically Financed
-foreign-financed,0,4,Foreign Financed
-interest,0,4,Interest
-other-federal-expenditure,0,4,Other Federal Expenditure
-agricultural-swap,0,4,Agricultural Swap
-census,0,4,Census
-education-swap,0,4,Education Swap
-generic-goods-and-services,0,4,Generic Goods and Services
-health-swap,0,4,Health Swap
-maize-purchases,0,4,Maize Purchases
-national-aids-commission,0,4,National Aids Commission
-national-and-local-elections,0,4,National and Local Elections
-other-goods-and-services,0,4,Other Goods and Services
-public-financial-and-economic-management-pfem,0,4,Public Financial and Economic Management PFEM
-road-maintenance,0,4,Road Maintenance
-rural-electrification-program,0,4,Rural Electrification Program
-statutory-expenditures,0,4,Statutory Expenditures
-domestic,0,4,Domestic
-external,0,4,External
-fuel-subsidies,0,4,Fuel Subsidies
-other-subsidies,0,4,Other Subsidies
-exceptional-security,0,4,Exceptional Security
-fertilizer-and-seed-subsidy,0,4,Fertilizer and Seed Subsidy
-other-subsidies-and-transfers,0,4,Other Subsidies and Transfers
-other-transfers-and-subsidies,0,4,Other Transfers And Subsidies
-pension-and-gratuities,0,4,Pension and Gratuities
-subsidies-and-non-security-transfers,0,4,Subsidies and Non-Security Transfers
-transfers-to-public-entities,0,4,Transfers to Public Entities
-transfers-to-road-and-revenue-authorities,0,4,Transfers To Road and Revenue Authorities
-capital,0,4,Capital
-current,0,4,Current
-other-transfers,0,4,Other Transfers
-south,0,4,South
-states,0,4,States
-civil-service,0,4,Civil Service
-military,0,4,Military
-general,0,4,General
-sectoral,0,4,Sectoral
-afghanistan-reconstruction-trust-fund,0,4,Afghanistan Reconstruction Trust Fund
-nato-training-mission-afghanistan,0,4,NATO Training Mission-Afghanistan
-other-grants,0,4,Other Grants
-the-law-and-order-trust-fund-forafghanistan,0,4,The Law and Order Trust Fund forAfghanistan
-basket-grants,0,4,Basket Grants
-other,0,4,Other
-global-fund,0,4,Global Fund
-other-revenue,0,4,Other Revenue
-tax-revenue,0,4,Tax Revenue
-administrative-fees,0,4,Administrative Fees
-dividends,0,4,Dividends
-federal-nontax,0,4,Federal Nontax
-investment-income,0,4,Investment Income
-local-government-authority,0,4,Local Government Authority
-local-government-fees,0,4,Local Government Fees
-ministerial-and-departmental-fees-aia,0,4,Ministerial and Departmental Fees AIA
-other-nontax,0,4,Other Nontax
-payments-for-peacekeeping-operations,0,4,Payments for Peacekeeping Operations
-profit-transfers,0,4,Profit Transfers
-property-income,0,4,Property Income
-provincial-nontax,0,4,Provincial Nontax
-royalties,0,4,Royalties
-transit-fees,0,4,Transit Fees
-other-oil-taxes,0,4,Other Oil Taxes
-profit-taxes,0,4,Profit Taxes
-royalties-and-dividends,0,4,Royalties and Dividends
-statistical-fee,0,4,Statistical Fee
-domestic-sales,0,4,Domestic Sales
-oil-exports-revenues,0,4,Oil Exports Revenues
-customs-and-excise,0,4,Customs and Excise
-direct-and-indirect-taxes,0,4,Direct and Indirect Taxes
-direct-taxes,0,4,Direct Taxes
-excises,0,4,Excises
-federal-government-tax-revenue,0,4,Federal Government Tax Revenue
-import-duties,0,4,Import Duties
-import-duty,0,4,Import Duty
-income-and-profits,0,4,Income And Profits
-income-taxes,0,4,Income Taxes
-indirect-taxes,0,4,Indirect Taxes
-international-trade-taxes,0,4,International Trade Taxes
-national-board-of-revenue-nbr-taxes,0,4,National Board of Revenue (NBR) taxes
-national-board-of-revenue-nbr-taxes,0,4,National Board of Revenue NBR taxes
-non-national-board-of-revenue-nbr-taxes,0,4,Non-National Board of Revenue NBR taxes
-other-taxes,0,4,Other Taxes
-petroleum-royalties-and-taxes,0,4,Petroleum Royalties And Taxes
-property,0,4,Property
-provincial-revenue-tax-revenue,0,4,Provincial Revenue Tax Revenue
-provincial-taxes,0,4,Provincial Taxes
-taxes-on-goods-and-services,0,4,Taxes on Goods and Services
-taxes-on-income-and-profits,0,4,Taxes on Income and Profits
-taxes-on-income-profits-and-capital-gains,0,4,Taxes on Income Profits and Capital Gains
-taxes-on-petroleum-products,0,4,Taxes on Petroleum Products
-trade-taxes,0,4,Trade Taxes
-value-added-tax,0,4,Value-added Tax
-accounts-payable,0,3,Accounts Payable
-bank-financing,0,3,Bank Financing
-deposit-money-banks,0,3,Deposit Money Banks
-domestic-borrowing,0,3,Domestic Borrowing
-nonbank-financing,0,3,Nonbank Financing
-other-financing,0,3,Other Financing
-privatization,0,3,Privatization
-privatization-proceeds,0,3,Privatization proceeds
-accumulation-of-external-arrears,0,3,Accumulation of External Arrears
-amortization,0,3,Amortization
-budget-support,0,3,Budget Support
-change-in-arrears,0,3,Change in  arrears
-change-in-arrears,0,3,Change In Arrears
-debt-relief,0,3,Debt Relief
-debt-relief-and-heavily-indebted-poor-countries-initiative-assistance,0,3,Debt Relief and Heavily Indebted Poor Countries  Initiative Assistance
-disbursement,0,3,Disbursement
-disbursements,0,3,Disbursements
-drawings,0,3,Drawings
-exceptional-financing,0,3,Exceptional Financing
-external-arrears-principal,0,3,External Arrears Principal
-imf,0,3,IMF
-loans,0,3,Loans
-non-concessional-borrowing,0,3,Non-Concessional Borrowing
-principal-repayment,0,3,Principal Repayment
-privatization-receipts,0,3,Privatization Receipts
-project-loans,0,3,Project Loans
-repayments-due,0,3,Repayments Due
-t-bills-and-t-bonds-west-african-economic-and-monetary-union-net,0,3,T-Bills And T-Bonds West African Economic and Monetary Union Net
-amortization-of-parastatal-debt,0,3,Amortization Of Parastatal Debt
-domestically-financed,0,3,Domestically Financed
-externally-financed,0,3,Externally Financed
-agriculture-and-rural-development,0,3,Agriculture and Rural Development
-annual-development-program-adp,0,3,Annual Development Program ADP
-economic-governance-and-private-sector-development,0,3,Economic Governance and Private Sector Development
-education,0,3,Education
-governance-rule-of-law-and-human-rights,0,3,Governance Rule of Law and Human Rights
-health,0,3,Health
-infrastructure-and-natural-resources,0,3,Infrastructure And Natural Resources
-non-annual-development-program-adp-capital-spending,0,3,Non-Annual Development Program  ADP capital spending
-other,0,3,Other
-public-sector-development-program,0,3,Public Sector Development Program
-security,0,3,Security
-social-protection,0,3,Social Protection
-domestic,0,3,Domestic
-external,0,3,External
-budget-reserve,0,3,Budget Reserve
-exceptional-expenditure,0,3,Exceptional Expenditure
-constitutional-reform,0,3,Constitutional Reform
-drought-expenditures,0,3,Drought Expenditures
-food-account,0,3,Food account
-other-expenditures,0,3,Other Expenditures
-adjustments-and-fiscal-expenditure,0,3,Adjustments and Fiscal Expenditure
-arrears-payments,0,3,Arrears Payments
-block-allocations,0,3,Block Allocations
-capital-expenditures,0,3,Capital Expenditures
-civil-service-reform,0,3,Civil Service Reform
-compensation-of-employees,0,3,Compensation of Employees
-compensation-to-employees,0,3,Compensation to Employees
-defense-and-national-security-intelligence-service,0,3,Defense and National Security Intelligence Service
-deferred-wages,0,3,Deferred Wages
-elections,0,3,Elections
-energy-utility-and-related-subsidies,0,3,Energy Utility And Related Subsidies
-federal-government-expenditure,0,3,Federal Government Expenditure
-food-security,0,3,Food Security
-goods-and-services,0,3,Goods and Services
-goods-and-services-and-transfers,0,3,Goods and Services and Transfers
-grants,0,3,Grants
-heavily-indebted-poor-countries-and-multilateral-debt-relief-initiative-current-spending,0,3,Heavily Indebted Poor Countries and Multilateral Debt Relief Initiative Current Spending
-interest-payments,0,3,Interest Payments
-other-nonwage,0,3,Other Nonwage
-other-primary-current-expenditure,0,3,Other Primary Current Expenditure
-other-recurrent,0,3,Other Recurrent
-pay-and-allowances,0,3,Pay and Allowances
-pensions,0,3,Pensions
-pensions-and-scholarships,0,3,Pensions and Scholarships
-provincial-expenditure,0,3,Provincial Expenditure
-reserve-fund,0,3,Reserve Fund
-safety-net-and-other-expenditures,0,3,Safety Net and other Expenditures
-social-benefits,0,3,Social Benefits
-special-accounts-expenditure,0,3,Special Accounts Expenditure
-subsidies,0,3,Subsidies
-subsidies-and-transfers,0,3,Subsidies and Transfers
-subventions,0,3,Subventions
-transfer-payments,0,3,Transfer Payments
-transfers-and-subsidies,0,3,Transfers and Subsidies
-wages-and-salaries,0,3,Wages and Salaries
-budget-support-grants,0,3,Budget Support Grants
-dedicated-grants,0,3,Dedicated Grants
-grants-from-india,0,3,Grants from India
-grants-to-development-budget,0,3,Grants to Development Budget
-grants-to-operating-budget,0,3,Grants To Operating Budget
-heavily-indebted-poor-countries-and-multilateral-debt-relief-initiative-assistance,0,3,Heavily Indebted Poor Countries and Multilateral Debt Relief Initiative Assistance
-heavily-indebted-poor-countries-grant-relief,0,3,Heavily Indebted Poor Countries Grant Relief
-investment-management-guidelines-for-heavily-indebted-poor-countries-initiative-assistance,0,3,Investment Management Guidelines for Heavily Indebted Poor Countries Initiative Assistance
-mdri-assistance,0,3,Mdri Assistance
-mdri-grants,0,3,Mdri Grants
-millennium-challenge-account-funding,0,3,Millennium Challenge Account Funding
-multilateral-debt-relief-initiative-imf-grant-relief,0,3,Multilateral Debt Relief Initiative Imf Grant Relief
-nonproject,0,3,Nonproject
-other-grants,0,3,Other Grants
-program-grants,0,3,Program Grants
-project-grants,0,3,Project Grants
-capital-revenue,0,3,Capital Revenue
-fonds-de-soutien-lnergie,0,3,Fonds De Soutien  Lnergie
-non-oil-revenue,0,3,Non-Oil Revenue
-nontax-revenue,0,3,Nontax Revenue
-oil-revenue,0,3,Oil Revenue
-other-revenue,0,3,Other Revenue
-resource-revenue,0,3,Resource Revenue
-social-contributions,0,3,Social Contributions
-special-accounts-revenue,0,3,Special Accounts Revenue
-special-funds-and-annexed-budgets,0,3,Special Funds and Annexed Budgets
-tax-revenue,0,3,Tax Revenue
-errors-and-omissions,0,2,Errors And Omissions
-net-domestic-finance,0,2,Net Domestic Finance
-net-external-finance,0,2,Net External Finance
-other-finance,0,2,Other Finance
-other-financing,0,2,Other Financing
-capital-expenditure,0,2,Capital Expenditure
-development-expenditure,0,2,Development Expenditure
-investment-expenditure,0,2,Investment Expenditure
-net-lending,0,2,Net lending
-other-expenditure,0,2,Other Expenditure
-other-expenditures,0,2,Other Expenditures
-recurrent-expenditure,0,2,Recurrent Expenditure
-special-funds-and-annexed-budgets,0,2,Special Funds and Annexed Budgets
-grants,0,2,Grants
-revenue,0,2,Revenue
-financing,0,1,Financing
-total-expenditure,0,1,Total Expenditure
-total-revenue-and-grants,0,1,Total Revenue and Grants
+domestic,FALSE,5,Domestic
+external,FALSE,5,External
+defense,FALSE,5,Defense
+grants,FALSE,5,Grants
+other,FALSE,5,Other
+subsidies,FALSE,5,Subsidies
+corporate-tax,FALSE,5,Corporate Tax
+local-government-taxes,FALSE,5,Local Government Taxes
+oil-sector,FALSE,5,Oil Sector
+other-direct-taxes,FALSE,5,Other Direct Taxes
+personal-income-tax,FALSE,5,Personal Income Tax
+self-employed-tax,FALSE,5,Self-Employed Tax
+customs-duties,FALSE,5,Customs Duties
+direct-taxes,FALSE,5,Direct Taxes
+federal-excise-duty,FALSE,5,Federal Excise Duty
+gas-infrastructure-development-cess,FALSE,5,Gas Infrastructure Development Cess
+gas-surcharges-and-other,FALSE,5,Gas Surcharges and Other
+oil-and-gas-surcharges-and-other,FALSE,5,Oil And Gas Surcharges And Other
+petroleum-surcharge,FALSE,5,Petroleum Surcharge
+sales-taxvalue-added-tax,FALSE,5,Sales TaxValue-Added Tax
+capital-gain-tax,FALSE,5,Capital Gain Tax
+communications-service-tax,FALSE,5,Communications Service Tax
+excises,FALSE,5,Excises
+excises-on-petroleum-products,FALSE,5,Excises on Petroleum Products
+import-duties,FALSE,5,Import Duties
+other-indirect-taxes,FALSE,5,Other Indirect Taxes
+other-tax,FALSE,5,Other Tax
+social-contributions-national-health-insurance,FALSE,5,Social Contributions National Health Insurance
+tax-refund,FALSE,5,Tax Refund
+value-added-tax,FALSE,5,Value-Added Tax
+customs-and-excise-duties,FALSE,5,Customs and Excise Duties
+other-national-board-of-revenue-nbr-taxes,FALSE,5,other National Board of Revenue NBR taxes
+taxes-on-income-and-profits,FALSE,5,Taxes on Income and Profits
+value_added-tax-and-supplementary-duties,FALSE,5,Value_added  Tax and Supplementary Duties
+other-taxes-on-good-and-services,FALSE,5,Other Taxes on Good and Services
+taxes-on-petroleum-products,FALSE,5,Taxes on Petroleum Products
+program-loans,FALSE,4,Program Loans
+project-loans,FALSE,4,Project Loans
+adjustment-aid,FALSE,4,Adjustment Aid
+budget-loans,FALSE,4,Budget Loans
+budget-support,FALSE,4,Budget Support
+budgetary-loans,FALSE,4,Budgetary Loans
+commercial-borrowing,FALSE,4,Commercial Borrowing
+concessional-project-loans,FALSE,4,Concessional Project Loans
+non-concessional-borrowing,FALSE,4,Non-concessional Borrowing
+nonconcessional-borrowing,FALSE,4,Nonconcessional Borrowing
+nonproject-support,FALSE,4,Nonproject Support
+other-borrowing,FALSE,4,Other Borrowing
+other-concessional,FALSE,4,Other Concessional
+other-loans,FALSE,4,Other Loans
+other-loans-incl-standard-gauge-railway-loan-from-china,FALSE,4,Other loans incl Standard Gauge Railway loan from China
+heavily-indebted-poor-countries-and-multilateral-debt-relief-initiative-financed,FALSE,4,Heavily Indebted Poor Countries and Multilateral Debt Relief Initiative financed
+non-heavily-indebted-poor-countries-and-multilateral-debt-relief-initiative-financed,FALSE,4,Non Heavily Indebted Poor Countries and Multilateral Debt Relief Initiative financed
+heavily-indebted-poor-countries-initiative-resources,FALSE,4,Heavily Indebted Poor Countries Initiative Resources
+other-domnestically-financed,FALSE,4,Other Domnestically Financed
+grants,FALSE,4,Grants
+loans,FALSE,4,Loans
+multilateral-debt-relief-initiative-imf-related,FALSE,4,Multilateral Debt Relief Initiative Imf Related
+other-deomestically-financed,FALSE,4,Other Deomestically Financed
+federal,FALSE,4,Federal
+provincial,FALSE,4,Provincial
+capital-transfers,FALSE,4,Capital Transfers
+exonerations,FALSE,4,Exonerations
+other-investment-expenditure,FALSE,4,Other Investment Expenditure
+domestically-financed,FALSE,4,Domestically Financed
+foreign-financed,FALSE,4,Foreign Financed
+interest,FALSE,4,Interest
+other-federal-expenditure,FALSE,4,Other Federal Expenditure
+agricultural-swap,FALSE,4,Agricultural Swap
+census,FALSE,4,Census
+education-swap,FALSE,4,Education Swap
+generic-goods-and-services,FALSE,4,Generic Goods and Services
+health-swap,FALSE,4,Health Swap
+maize-purchases,FALSE,4,Maize Purchases
+national-aids-commission,FALSE,4,National Aids Commission
+national-and-local-elections,FALSE,4,National and Local Elections
+other-goods-and-services,FALSE,4,Other Goods and Services
+public-financial-and-economic-management-pfem,FALSE,4,Public Financial and Economic Management PFEM
+road-maintenance,FALSE,4,Road Maintenance
+rural-electrification-program,FALSE,4,Rural Electrification Program
+statutory-expenditures,FALSE,4,Statutory Expenditures
+domestic,FALSE,4,Domestic
+external,FALSE,4,External
+fuel-subsidies,FALSE,4,Fuel Subsidies
+other-subsidies,FALSE,4,Other Subsidies
+exceptional-security,FALSE,4,Exceptional Security
+fertilizer-and-seed-subsidy,FALSE,4,Fertilizer and Seed Subsidy
+other-subsidies-and-transfers,FALSE,4,Other Subsidies and Transfers
+other-transfers-and-subsidies,FALSE,4,Other Transfers And Subsidies
+pension-and-gratuities,FALSE,4,Pension and Gratuities
+subsidies-and-non-security-transfers,FALSE,4,Subsidies and Non-Security Transfers
+transfers-to-public-entities,FALSE,4,Transfers to Public Entities
+transfers-to-road-and-revenue-authorities,FALSE,4,Transfers To Road and Revenue Authorities
+capital,FALSE,4,Capital
+current,FALSE,4,Current
+other-transfers,FALSE,4,Other Transfers
+south,FALSE,4,South
+states,FALSE,4,States
+civil-service,FALSE,4,Civil Service
+military,FALSE,4,Military
+general,FALSE,4,General
+sectoral,FALSE,4,Sectoral
+afghanistan-reconstruction-trust-fund,FALSE,4,Afghanistan Reconstruction Trust Fund
+nato-training-mission-afghanistan,FALSE,4,NATO Training Mission-Afghanistan
+other-grants,FALSE,4,Other Grants
+the-law-and-order-trust-fund-forafghanistan,FALSE,4,The Law and Order Trust Fund forAfghanistan
+basket-grants,FALSE,4,Basket Grants
+other,FALSE,4,Other
+global-fund,FALSE,4,Global Fund
+other-revenue,FALSE,4,Other Revenue
+tax-revenue,FALSE,4,Tax Revenue
+administrative-fees,FALSE,4,Administrative Fees
+dividends,FALSE,4,Dividends
+federal-nontax,FALSE,4,Federal Nontax
+investment-income,FALSE,4,Investment Income
+local-government-authority,FALSE,4,Local Government Authority
+local-government-fees,FALSE,4,Local Government Fees
+ministerial-and-departmental-fees-aia,FALSE,4,Ministerial and Departmental Fees AIA
+other-nontax,FALSE,4,Other Nontax
+payments-for-peacekeeping-operations,FALSE,4,Payments for Peacekeeping Operations
+profit-transfers,FALSE,4,Profit Transfers
+property-income,FALSE,4,Property Income
+provincial-nontax,FALSE,4,Provincial Nontax
+royalties,FALSE,4,Royalties
+transit-fees,FALSE,4,Transit Fees
+other-oil-taxes,FALSE,4,Other Oil Taxes
+profit-taxes,FALSE,4,Profit Taxes
+royalties-and-dividends,FALSE,4,Royalties and Dividends
+statistical-fee,FALSE,4,Statistical Fee
+domestic-sales,FALSE,4,Domestic Sales
+oil-exports-revenues,FALSE,4,Oil Exports Revenues
+customs-and-excise,FALSE,4,Customs and Excise
+direct-and-indirect-taxes,FALSE,4,Direct and Indirect Taxes
+direct-taxes,FALSE,4,Direct Taxes
+excises,FALSE,4,Excises
+federal-government-tax-revenue,FALSE,4,Federal Government Tax Revenue
+import-duties,FALSE,4,Import Duties
+import-duty,FALSE,4,Import Duty
+income-and-profits,FALSE,4,Income And Profits
+income-taxes,FALSE,4,Income Taxes
+indirect-taxes,FALSE,4,Indirect Taxes
+international-trade-taxes,FALSE,4,International Trade Taxes
+national-board-of-revenue-nbr-taxes,FALSE,4,National Board of Revenue (NBR) taxes
+national-board-of-revenue-nbr-taxes,FALSE,4,National Board of Revenue NBR taxes
+non-national-board-of-revenue-nbr-taxes,FALSE,4,Non-National Board of Revenue NBR taxes
+other-taxes,FALSE,4,Other Taxes
+petroleum-royalties-and-taxes,FALSE,4,Petroleum Royalties And Taxes
+property,FALSE,4,Property
+provincial-revenue-tax-revenue,FALSE,4,Provincial Revenue Tax Revenue
+provincial-taxes,FALSE,4,Provincial Taxes
+taxes-on-goods-and-services,FALSE,4,Taxes on Goods and Services
+taxes-on-income-and-profits,FALSE,4,Taxes on Income and Profits
+taxes-on-income-profits-and-capital-gains,FALSE,4,Taxes on Income Profits and Capital Gains
+taxes-on-petroleum-products,FALSE,4,Taxes on Petroleum Products
+trade-taxes,FALSE,4,Trade Taxes
+value-added-tax,FALSE,4,Value-added Tax
+accounts-payable,FALSE,3,Accounts Payable
+bank-financing,FALSE,3,Bank Financing
+deposit-money-banks,FALSE,3,Deposit Money Banks
+domestic-borrowing,FALSE,3,Domestic Borrowing
+nonbank-financing,FALSE,3,Nonbank Financing
+other-financing,FALSE,3,Other Financing
+privatization,FALSE,3,Privatization
+privatization-proceeds,FALSE,3,Privatization proceeds
+accumulation-of-external-arrears,FALSE,3,Accumulation of External Arrears
+amortization,FALSE,3,Amortization
+budget-support,FALSE,3,Budget Support
+change-in-arrears,FALSE,3,Change in  arrears
+change-in-arrears,FALSE,3,Change In Arrears
+debt-relief,FALSE,3,Debt Relief
+debt-relief-and-heavily-indebted-poor-countries-initiative-assistance,FALSE,3,Debt Relief and Heavily Indebted Poor Countries  Initiative Assistance
+disbursement,FALSE,3,Disbursement
+disbursements,FALSE,3,Disbursements
+drawings,FALSE,3,Drawings
+exceptional-financing,FALSE,3,Exceptional Financing
+external-arrears-principal,FALSE,3,External Arrears Principal
+imf,FALSE,3,IMF
+loans,FALSE,3,Loans
+non-concessional-borrowing,FALSE,3,Non-Concessional Borrowing
+principal-repayment,FALSE,3,Principal Repayment
+privatization-receipts,FALSE,3,Privatization Receipts
+project-loans,FALSE,3,Project Loans
+repayments-due,FALSE,3,Repayments Due
+t-bills-and-t-bonds-west-african-economic-and-monetary-union-net,FALSE,3,T-Bills And T-Bonds West African Economic and Monetary Union Net
+amortization-of-parastatal-debt,FALSE,3,Amortization Of Parastatal Debt
+domestically-financed,FALSE,3,Domestically Financed
+externally-financed,FALSE,3,Externally Financed
+agriculture-and-rural-development,FALSE,3,Agriculture and Rural Development
+annual-development-program-adp,FALSE,3,Annual Development Program ADP
+economic-governance-and-private-sector-development,FALSE,3,Economic Governance and Private Sector Development
+education,FALSE,3,Education
+governance-rule-of-law-and-human-rights,FALSE,3,Governance Rule of Law and Human Rights
+health,FALSE,3,Health
+infrastructure-and-natural-resources,FALSE,3,Infrastructure And Natural Resources
+non-annual-development-program-adp-capital-spending,FALSE,3,Non-Annual Development Program  ADP capital spending
+other,FALSE,3,Other
+public-sector-development-program,FALSE,3,Public Sector Development Program
+security,FALSE,3,Security
+social-protection,FALSE,3,Social Protection
+domestic,FALSE,3,Domestic
+external,FALSE,3,External
+budget-reserve,FALSE,3,Budget Reserve
+exceptional-expenditure,FALSE,3,Exceptional Expenditure
+constitutional-reform,FALSE,3,Constitutional Reform
+drought-expenditures,FALSE,3,Drought Expenditures
+food-account,FALSE,3,Food account
+other-expenditures,FALSE,3,Other Expenditures
+adjustments-and-fiscal-expenditure,FALSE,3,Adjustments and Fiscal Expenditure
+arrears-payments,FALSE,3,Arrears Payments
+block-allocations,FALSE,3,Block Allocations
+capital-expenditures,FALSE,3,Capital Expenditures
+civil-service-reform,FALSE,3,Civil Service Reform
+compensation-of-employees,FALSE,3,Compensation of Employees
+compensation-to-employees,FALSE,3,Compensation to Employees
+defense-and-national-security-intelligence-service,FALSE,3,Defense and National Security Intelligence Service
+deferred-wages,FALSE,3,Deferred Wages
+elections,FALSE,3,Elections
+energy-utility-and-related-subsidies,FALSE,3,Energy Utility And Related Subsidies
+federal-government-expenditure,FALSE,3,Federal Government Expenditure
+food-security,FALSE,3,Food Security
+goods-and-services,FALSE,3,Goods and Services
+goods-and-services-and-transfers,FALSE,3,Goods and Services and Transfers
+grants,FALSE,3,Grants
+heavily-indebted-poor-countries-and-multilateral-debt-relief-initiative-current-spending,FALSE,3,Heavily Indebted Poor Countries and Multilateral Debt Relief Initiative Current Spending
+interest-payments,FALSE,3,Interest Payments
+other-nonwage,FALSE,3,Other Nonwage
+other-primary-current-expenditure,FALSE,3,Other Primary Current Expenditure
+other-recurrent,FALSE,3,Other Recurrent
+pay-and-allowances,FALSE,3,Pay and Allowances
+pensions,FALSE,3,Pensions
+pensions-and-scholarships,FALSE,3,Pensions and Scholarships
+provincial-expenditure,FALSE,3,Provincial Expenditure
+reserve-fund,FALSE,3,Reserve Fund
+safety-net-and-other-expenditures,FALSE,3,Safety Net and other Expenditures
+social-benefits,FALSE,3,Social Benefits
+special-accounts-expenditure,FALSE,3,Special Accounts Expenditure
+subsidies,FALSE,3,Subsidies
+subsidies-and-transfers,FALSE,3,Subsidies and Transfers
+subventions,FALSE,3,Subventions
+transfer-payments,FALSE,3,Transfer Payments
+transfers-and-subsidies,FALSE,3,Transfers and Subsidies
+wages-and-salaries,FALSE,3,Wages and Salaries
+budget-support-grants,FALSE,3,Budget Support Grants
+dedicated-grants,FALSE,3,Dedicated Grants
+grants-from-india,FALSE,3,Grants from India
+grants-to-development-budget,FALSE,3,Grants to Development Budget
+grants-to-operating-budget,FALSE,3,Grants To Operating Budget
+heavily-indebted-poor-countries-and-multilateral-debt-relief-initiative-assistance,FALSE,3,Heavily Indebted Poor Countries and Multilateral Debt Relief Initiative Assistance
+heavily-indebted-poor-countries-grant-relief,FALSE,3,Heavily Indebted Poor Countries Grant Relief
+investment-management-guidelines-for-heavily-indebted-poor-countries-initiative-assistance,FALSE,3,Investment Management Guidelines for Heavily Indebted Poor Countries Initiative Assistance
+mdri-assistance,FALSE,3,Mdri Assistance
+mdri-grants,FALSE,3,Mdri Grants
+millennium-challenge-account-funding,FALSE,3,Millennium Challenge Account Funding
+multilateral-debt-relief-initiative-imf-grant-relief,FALSE,3,Multilateral Debt Relief Initiative Imf Grant Relief
+nonproject,FALSE,3,Nonproject
+other-grants,FALSE,3,Other Grants
+program-grants,FALSE,3,Program Grants
+project-grants,FALSE,3,Project Grants
+capital-revenue,FALSE,3,Capital Revenue
+fonds-de-soutien-lnergie,FALSE,3,Fonds De Soutien  Lnergie
+non-oil-revenue,FALSE,3,Non-Oil Revenue
+nontax-revenue,FALSE,3,Nontax Revenue
+oil-revenue,FALSE,3,Oil Revenue
+other-revenue,FALSE,3,Other Revenue
+resource-revenue,FALSE,3,Resource Revenue
+social-contributions,FALSE,3,Social Contributions
+special-accounts-revenue,FALSE,3,Special Accounts Revenue
+special-funds-and-annexed-budgets,FALSE,3,Special Funds and Annexed Budgets
+tax-revenue,FALSE,3,Tax Revenue
+errors-and-omissions,FALSE,2,Errors And Omissions
+net-domestic-finance,FALSE,2,Net Domestic Finance
+net-external-finance,FALSE,2,Net External Finance
+other-finance,FALSE,2,Other Finance
+other-financing,FALSE,2,Other Financing
+capital-expenditure,FALSE,2,Capital Expenditure
+development-expenditure,FALSE,2,Development Expenditure
+investment-expenditure,FALSE,2,Investment Expenditure
+net-lending,FALSE,2,Net lending
+other-expenditure,FALSE,2,Other Expenditure
+other-expenditures,FALSE,2,Other Expenditures
+recurrent-expenditure,FALSE,2,Recurrent Expenditure
+special-funds-and-annexed-budgets,FALSE,2,Special Funds and Annexed Budgets
+grants,FALSE,2,Grants
+revenue,FALSE,2,Revenue
+financing,FALSE,1,Financing
+total-expenditure,FALSE,1,Total Expenditure
+total-revenue-and-grants,FALSE,1,Total Revenue and Grants
+others,FALSE,5,Others
