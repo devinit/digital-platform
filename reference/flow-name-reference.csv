@@ -25,9 +25,9 @@ trade-mispricing-out,Trade-mispricing,Trade mispricing,,Global Financial Integri
 oofs-out,OOFs,Other official flows,Other official flows,OECD DAC
 oda-out,ODA,Official development assistance,Official development assistance,OECD DAC
 remittances-devcountries,Remittances,Remittances,Remittances to developing countries,World Bank Migration and Remittances Factbook
-oda-out-capital-repay,ODA,Official development assistance,Receipt of capital repayments on ODA loans,OECD DAC
-oda-out-interest,ODA,Official development assistance,Receipt of interest payments on ODA loans,OECD DAC
-oofs-out-capital-repay,OOFs,Other official flows,Receipt of capital repayments on OOF loans,OECD DAC
-oofs-out-interest,OOFs,Other official flows,Receipt of interest payments on OOF loans,OECD DAC
+oda-capital-repay,ODA,Official development assistance,Receipt of capital repayments on ODA loans,OECD DAC
+oda-interest,ODA,Official development assistance,Receipt of interest payments on ODA loans,OECD DAC
+oofs-capital-repay,OOFs,Other official flows,Receipt of capital repayments on OOF loans,OECD DAC
+oofs-interest,OOFs,Other official flows,Receipt of interest payments on OOF loans,OECD DAC
 dfis-out,DFIs,Development Finance Institutions,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),Development Initiatives
 fdi-devcountries,FDI,Foreign Direct Investment,Foreign direct investment in developing countries,UNCTAD
