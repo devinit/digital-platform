@@ -1,0 +1,16 @@
+theme,axis,indicator,name
+poverty,y-axis,poor-people,Number of people living in extreme poverty
+poverty,y-axis,poverty-125,% of population living on less than $1.25 a day
+poverty,x-axis,govtspend-pc,Government spending per person (2011 PPP$)
+health,y-axis,under-5-mortality,"Under 5 mortality rate (per 1,000 live births)"
+health,y-axis,maternal-mortality,"Maternal mortality rate (per 100,000 live births)"
+health,x-axis,health-pc-transferred-oda,Proportion of transferred ODA spent on health
+health,x-axis,govtspend-health,Government spending on health
+education,y-axis,primary-school-enrolment,"School enrolment, primary (% net)"
+education,y-axis,mean-years-of-schooling,Mean years of schooling
+education,x-axis,education-pc-transferred-oda,Proportion of transferred ODA spent on education
+education,x-axis,govtspend-education,Government spending on education
+employment,y-axis,total-employment,Total employment %
+employment,y-axis,youth-unemployment,Youth unemployment %
+employment,x-axis,govtspend-pc,Government spending per person (2011 PPP$)
+employment,x-axis,gni-pc-usd-current,Gross National Income Per Capita (current US$)
