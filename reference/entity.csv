@@ -13,7 +13,7 @@ AS,country,American Samoa,oceania,AS,ASM,,american-samoa,AS,,,American Samoa
 AT,country,Austria,europe,AT,AUT,,austria,AT,donor,,Austria
 AU,country,Australia,oceania,AU,AUS,,australia,AU,donor,,Australia
 AW,country,Aruba,north-central-america,AW,ABW,,aruba,AW,,,Aruba
-AX,country,Åland Islands,oceania,AX,ALA,,aland-islands,AX,,,�land Islands
+AX,country,Åland Islands,oceania,AX,ALA,,aland-islands,AX,,,Åland Islands
 AZ,country,Azerbaijan,south-central-asia,AZ,AZE,UMICs,azerbaijan,AZ,recipient,,Azerbaijan
 BA,country,Bosnia and Herzegovina,europe,BA,BIH,UMICs,bosnia-and-herzegovina,BA,recipient,,Bosnia and Herzegovina
 BB,country,Barbados,north-central-america,BB,BRB,,barbados,BB,recipient,,Barbados
@@ -24,7 +24,7 @@ BG,country,Bulgaria,europe,BG,BGR,,bulgaria,BG,donor,,Bulgaria
 BH,country,Bahrain,middle-east,BH,BHR,,bahrain,BH,recipient,,Bahrain
 BI,country,Burundi,south-of-sahara,BI,BDI,LDCs,burundi,BI,recipient,,Burundi
 BJ,country,Benin,south-of-sahara,BJ,BEN,LDCs,benin,BJ,recipient,1,Benin
-BL,country,Saint Barthélemy,north-central-america,BL,BLM,,saint-barthelemy,BL,,,Saint Barth�lemy
+BL,country,Saint Barthélemy,north-central-america,BL,BLM,,saint-barthelemy,BL,,,Saint Barthélemy
 BM,country,Bermuda,north-central-america,BM,BMU,,bermuda,BM,,,Bermuda
 BN,country,Brunei Darussalam,south-central-asia,BN,BRN,,brunei-darussalam,BN,,,Brunei
 BO,country,"Bolivia, Plurinational State of",south-america,BO,BOL,LMICs,bolivia-plurinational-state-of,BO,recipient,,Bolivia 
@@ -42,7 +42,7 @@ CD,country,"Congo, the Democratic Republic of the",south-of-sahara,CD,COD,LDCs,c
 CF,country,Central African Republic,south-of-sahara,CF,CAF,LDCs,central-african-republic,CF,recipient,,CAR
 CG,country,Congo,south-of-sahara,CG,COG,LMICs,congo,CG,recipient,,Congo
 CH,country,Switzerland,europe,CH,CHE,,switzerland,CH,donor,,Switzerland
-CI,country,Côte d'Ivoire,south-of-sahara,CI,CIV,LMICs,cote-divoire,CI,recipient,,C�te d'Ivoire
+CI,country,Côte d'Ivoire,south-of-sahara,CI,CIV,LMICs,cote-divoire,CI,recipient,,Côte d'Ivoire
 CK,country,Cook Islands,oceania,CK,COK,UMICs,cook-islands,CK,recipient,,Cook Islands
 CL,country,Chile,south-america,CL,CHL,UMICs,chile,CL,recipient,,Chile
 CM,country,Cameroon,south-of-sahara,CM,CMR,LMICs,cameroon,CM,recipient,,Cameroon
@@ -51,7 +51,7 @@ CO,country,Colombia,south-america,CO,COL,UMICs,colombia,CO,recipient,,Colombia
 CR,country,Costa Rica,north-central-america,CR,CRI,UMICs,costa-rica,CR,recipient,,Costa Rica
 CU,country,Cuba,north-central-america,CU,CUB,UMICs,cuba,CU,recipient,,Cuba
 CV,country,Cape Verde,south-of-sahara,CV,CPV,LMICs,cape-verde,CV,recipient,,Cape Verde
-CW,country,Curaçao,north-central-america,CW,CUW,,curacao,CW,,,Cura�ao
+CW,country,Curaçao,north-central-america,CW,CUW,,curacao,CW,,,Curaçao
 CX,country,Christmas Island,oceania,CX,CXR,,christmas-island,CX,,,Christmas Island
 CY,country,Cyprus,europe,CY,CYP,,cyprus,CY,donor,,Cyprus
 CZ,country,Czech Republic,europe,CZ,CZE,,czech-republic,CZ,donor,,Czech Republic
@@ -186,7 +186,7 @@ PT,country,Portugal,europe,PT,PRT,,portugal,PT,donor,,Portugal
 PW,country,Palau,oceania,PW,PLW,UMICs,palau,PW,recipient,,Palau
 PY,country,Paraguay,south-america,PY,PRY,LMICs,paraguay,PY,recipient,,Paraguay
 QA,country,Qatar,middle-east,QA,QAT,,qatar,QA,donor,,Qatar
-RE,country,Réunion,south-of-sahara,RE,REU,,reunion,RE,,,R�union
+RE,country,Réunion,south-of-sahara,RE,REU,,reunion,RE,,,Réunion
 RO,country,Romania,europe,RO,ROU,,romania,RO,donor,,Romania
 RS,country,Serbia,europe,RS,SRB,UMICs,serbia,RS,recipient,,Serbia
 RU,country,Russian Federation,europe,RU,RUS,,russian-federation,RU,donor,,Russian Federation
