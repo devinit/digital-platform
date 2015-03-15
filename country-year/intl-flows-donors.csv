@@ -388,7 +388,7 @@ SE,2008,out,commercial,fdi-out,2204744775
 SE,2009,out,commercial,fdi-out,2511120024
 SE,2010,out,commercial,fdi-out,3661830070
 SE,2011,out,commercial,fdi-out,5101174297
-SE,2012,out,commercial,fdi-out," 6,323,686,000.00 "
+SE,2012,out,commercial,fdi-out,6323686000
 SI,2000,out,commercial,fdi-out,na
 SI,2001,out,commercial,fdi-out,na
 SI,2002,out,commercial,fdi-out,na
@@ -3801,7 +3801,7 @@ SE,2008,out,official,dfis-out,66696297
 SE,2009,out,official,dfis-out,86091467
 SE,2010,out,official,dfis-out,72813576
 SE,2011,out,official,dfis-out,48057600
-SE,2012,out,official,dfis-out," 55,306,000.00 "
+SE,2012,out,official,dfis-out,55306000
 SE,2000,out,official,oda-out,2964280000
 SE,2001,out,official,oda-out,3027220000
 SE,2002,out,official,oda-out,3386630000
@@ -3814,7 +3814,7 @@ SE,2008,out,official,oda-out,4916160000
 SE,2009,out,official,oda-out,5289360000
 SE,2010,out,official,oda-out,4937830000
 SE,2011,out,official,oda-out,5421940000
-SE,2012,out,official,oda-out," 5,247,720,000.00 "
+SE,2012,out,official,oda-out,5247720000
 SE,2013,out,official,oda-out,5626240000
 SE,2000,out,official,oofs-out,8530000
 SE,2001,out,official,oofs-out,4430000
@@ -3828,7 +3828,7 @@ SE,2008,out,official,oofs-out,66110000
 SE,2009,out,official,oofs-out,89640000
 SE,2010,out,official,oofs-out,50000
 SE,2011,out,official,oofs-out,50720000
-SE,2012,out,official,oofs-out," 49,220,000.00 "
+SE,2012,out,official,oofs-out,49220000
 SE,2013,out,official,oofs-out,44310000
 SE,2000,in,official,oda-capital-repay,410000
 SE,2001,in,official,oda-capital-repay,0
@@ -3842,7 +3842,7 @@ SE,2008,in,official,oda-capital-repay,0
 SE,2009,in,official,oda-capital-repay,0
 SE,2010,in,official,oda-capital-repay,7620000
 SE,2011,in,official,oda-capital-repay,3160000
-SE,2012,in,official,oda-capital-repay," 7,880,000.00 "
+SE,2012,in,official,oda-capital-repay,7880000
 SE,2013,in,official,oda-capital-repay,64290000
 SE,2000,in,official,oda-interest,70000
 SE,2001,in,official,oda-interest,40000
@@ -3870,7 +3870,7 @@ SE,2008,in,official,oofs-capital-repay,34140000
 SE,2009,in,official,oofs-capital-repay,10220000
 SE,2010,in,official,oofs-capital-repay,0
 SE,2011,in,official,oofs-capital-repay,179640000
-SE,2012,in,official,oofs-capital-repay," 97,660,000.00 "
+SE,2012,in,official,oofs-capital-repay,97660000
 SE,2013,in,official,oofs-capital-repay,66600000
 SE,2000,in,official,oofs-interest,1150000
 SE,2001,in,official,oofs-interest,800000
@@ -3884,7 +3884,7 @@ SE,2008,in,official,oofs-interest,4160000
 SE,2009,in,official,oofs-interest,15170000
 SE,2010,in,official,oofs-interest,0
 SE,2011,in,official,oofs-interest,21590000
-SE,2012,in,official,oofs-interest," 5,950,000.00 "
+SE,2012,in,official,oofs-interest,5950000
 SE,2013,in,official,oofs-interest,5630000
 SI,2000,out,official,oda-out,0
 SI,2001,out,official,oda-out,0
@@ -4345,7 +4345,7 @@ AE,2012,out,private,remittances,34790344.82
 AE,2012,out,private,remittances,44630058.27
 AE,2012,out,private,remittances,97845315.81
 AE,2012,out,private,remittances,2202688326
-AE,2012,out,private,remittances," 685,257,702.25 "
+AE,2012,out,private,remittances,685257702.3
 AE,2012,out,private,remittances,1337086411
 AE,2012,out,private,remittances,421529506.1
 AE,2012,out,private,remittances,495426690.1
@@ -4355,4 +4355,3 @@ AE,2012,out,private,remittances,1309655779
 AE,2012,out,private,remittances,32328460.03
 AE,2012,out,private,remittances,0
 AE,2012,out,private,remittances,1.03317E+11
-,,,,,
