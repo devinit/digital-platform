@@ -16,6 +16,7 @@ country-year,gdp-current-ncu-fy,composite,,Gross domestic product in current Nat
 country-year,gdp-pc-usd-2005,simple,,Gross domestic product (2005 US$) per capita,"id, year, value",GDP (constant 2005 US$) per capita,log,,USD,USD,,gdp-usd-2005/population-total,,highisbetter,,,NA,NA,,,
 country-year,gdp-pc-usd-current,simple,,Gross domestic product (current US$) per capita,"id, year, value",GDP (current US$) per capita,log,,USD,USD,,gdp-usd-current/population-total,,highisbetter,,,NA,NA,,,
 country-year,gdp-usd-2005,simple,,Gross domestic product (2005 US$),"id, year, value",GDP (constant 2005 US$),log,,USD,USD,,,,highisbetter,,,NA,NA,,,
+country-year,gdp-usd-2012,simple,,Gross domestic product (2012 US$),"id, year, value",GDP (constant 2012 US$),log,,USD,USD,,,,highisbetter,,,NA,NA,,,
 country-year,gdp-usd-current,simple,,Gross domestic product (current US$),"id, year, value",GDP (current US$),log,,USD,USD,,,,highisbetter,,,NA,NA,,,
 country-year,gni-pc-usd-current,simple,,Gross National Income Per Capita (current US$),"id, year, value",GNI Per Capita (Current US$),log,,USD,USD,,GNI/Population-total,,highisbetter,,,NA,NA,,,
 country-year,gni-usd-2005,simple,,Gross national income (2005 US$),"id, year, value",GDP (constant 2005 US$),log,,USD,USD,,,,highisbetter,,,NA,NA,,,
