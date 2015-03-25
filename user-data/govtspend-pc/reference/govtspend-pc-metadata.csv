@@ -1,0 +1,22 @@
+"series","country-year"
+"id","govtspend-pc"
+"type","simple"
+"parent",
+"name","Government spending per person (2011 PPP$)"
+"columns","id, year, value"
+"description","Government spending per person, 2011 PPP$, net of general budget support ODA and disbursements on debt to the public sector"
+"default-scale","log"
+"theme","dpf"
+"uom","2011 PPP$"
+"uom_display","USD"
+"source","Development Initiatives, based on IMF WEO, OECD DAC, World Bank"
+"calculation","Calculated from IMF WEO data on government spending as a proportion of GDP. Receipts of general budget support ODA and disbursements on public debt are subtracted from total government spending before dividing by the population, to avoid double counting when comparing with international resource flows."
+"format",
+"highorlow","highisbetter"
+"range","200, 500, 1000, 1500, 2000"
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription","Public spending is a key proxy for domestic capacity to address poverty. In DAC countries average spending exceeds $17,000 per person. Across all developing countries it is $2,170 per person, though in many it is much lower."
+"laymans-heading","Government spending per person"
+"theme-order",

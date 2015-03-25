@@ -1,0 +1,22 @@
+"series","country-year"
+"id","population-15-64"
+"type","embedded"
+"parent","population-by-age"
+"name","Population: 15-64 years"
+"columns","id, year, value"
+"description","Population ages 15-64 (% of total)"
+"default-scale","lin"
+"theme",
+"uom","percent"
+"uom_display","%"
+"source",
+"calculation",
+"format",
+"highorlow",
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

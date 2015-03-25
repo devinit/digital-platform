@@ -1,0 +1,22 @@
+"series","country-year"
+"id","poverty-gap-2"
+"type","simple"
+"parent",
+"name","Poverty gap at $2 day"
+"columns","id, year, value, original-value"
+"description","Poverty gap is the mean shortfall from the poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence."
+"default-scale","log"
+"theme",
+"uom","percent"
+"uom_display","%"
+"source","World Bank World Development Indicators"
+"calculation",
+"format",
+"highorlow","lowisbetter"
+"range",
+"interpolated","1"
+"missing-donor","NR"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

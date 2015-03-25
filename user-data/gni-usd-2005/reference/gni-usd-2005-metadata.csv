@@ -1,0 +1,22 @@
+"series","country-year"
+"id","gni-usd-2005"
+"type","simple"
+"parent",
+"name","Gross national income (2005 US$)"
+"columns","id, year, value"
+"description","GDP (constant 2005 US$)"
+"default-scale","log"
+"theme",
+"uom","USD"
+"uom_display","USD"
+"source",
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

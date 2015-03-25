@@ -1,0 +1,22 @@
+"series","country-year"
+"id","oda-per-poor-person"
+"type","simple"
+"parent",
+"name",
+"columns","id, year, value"
+"description",
+"default-scale","log"
+"theme",
+"uom",
+"uom_display",
+"source",
+"calculation",
+"format",
+"highorlow",
+"range",
+"interpolated",
+"missing-donor",
+"missing-recipient",
+"laymans-decription",
+"laymans-heading",
+"theme-order",

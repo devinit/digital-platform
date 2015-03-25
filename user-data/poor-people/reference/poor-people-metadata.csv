@@ -1,0 +1,22 @@
+"series","country-year"
+"id","poor-people"
+"type","simple"
+"parent",
+"name","People living on less than $1.25 a day"
+"columns","id, year, value, original-value"
+"description","Number of poor people living on under $1.25 per day"
+"default-scale","log"
+"theme","poorest20pct"
+"uom","unit"
+"uom_display",
+"source","World Bank World Development Indicators"
+"calculation","Total population (from ???) * Percentage of population living in under $1.25 per day (from ???)"
+"format",
+"highorlow","lowisbetter"
+"range","1000000, 5000000, 10000000, 50000000, 100000000"
+"interpolated","1"
+"missing-donor","NR"
+"missing-recipient","NA"
+"laymans-decription","$1.25-a-day extreme poverty line is based on the national poverty lines of the world's 15 poorest countries at 2005 PPP$"
+"laymans-heading",
+"theme-order","2"

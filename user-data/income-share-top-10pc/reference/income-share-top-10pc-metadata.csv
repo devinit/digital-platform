@@ -1,0 +1,22 @@
+"series","country-year"
+"id","income-share-top-10pc"
+"type","simple"
+"parent",
+"name","Share of income of top 10% of population"
+"columns","id, year, value"
+"description","Share of income of top 10% of population"
+"default-scale","lin"
+"theme",
+"uom","percent"
+"uom_display","%"
+"source","World Bank World Development Indicators"
+"calculation",
+"format",
+"highorlow",
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

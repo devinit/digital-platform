@@ -1,0 +1,22 @@
+"series","country-year"
+"id","population-urban"
+"type","embedded"
+"parent","population-rural-urban"
+"name","Population: urban"
+"columns","id, year, value"
+"description","Urban population"
+"default-scale","log"
+"theme",
+"uom","unit"
+"uom_display",
+"source",
+"calculation",
+"format",
+"highorlow",
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

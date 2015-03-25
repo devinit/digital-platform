@@ -1,0 +1,22 @@
+"series","country-year"
+"id","primary-school-enrolment"
+"type","simple"
+"parent",
+"name","School enrolment, primary (% net)"
+"columns","id, year, value, original-value"
+"description","School enrolment, primary (% net)"
+"default-scale","lin"
+"theme","education"
+"uom","percent"
+"uom_display","%"
+"source","World Bank World Development Indicators"
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated","1"
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

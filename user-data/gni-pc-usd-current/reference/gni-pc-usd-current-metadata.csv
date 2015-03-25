@@ -1,0 +1,22 @@
+"series","country-year"
+"id","gni-pc-usd-current"
+"type","simple"
+"parent",
+"name","Gross National Income Per Capita (current US$)"
+"columns","id, year, value"
+"description","GNI Per Capita (Current US$)"
+"default-scale","log"
+"theme",
+"uom","USD"
+"uom_display","USD"
+"source",
+"calculation","GNI/Population-total"
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

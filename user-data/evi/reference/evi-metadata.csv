@@ -1,0 +1,22 @@
+"series","country-year"
+"id","evi"
+"type","simple"
+"parent",
+"name","Economic vulnerability index"
+"columns","id, year, value"
+"description","Economic vulnerability index"
+"default-scale","lin"
+"theme",
+"uom","index"
+"uom_display",
+"source",
+"calculation",
+"format",
+"highorlow",
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

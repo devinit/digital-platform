@@ -1,0 +1,22 @@
+"series","country-year"
+"id","gdp-current-ncu-fy"
+"type","composite"
+"parent",
+"name","Gross domestic product in current National Currency Units as corresponding to Fiscal Year"
+"columns","id, year, estimate, value"
+"description","GDP in current National Currency Units as corresponding to Fiscal Year"
+"default-scale","log"
+"theme",
+"uom","NCU"
+"uom_display","NCU"
+"source","International Monetary Fund World Economic Outlook"
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range","1.10E+69"
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",
