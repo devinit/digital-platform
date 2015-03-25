@@ -1,0 +1,22 @@
+"series","country-year"
+"id","taxrev-pctGDP"
+"type","simple"
+"parent",
+"name","Tax revenue"
+"columns","id, year, value"
+"description","Tax revenue as a proportion of GDP"
+"default-scale","lin"
+"theme",
+"uom","% GDP"
+"uom_display","%"
+"source","World Bank"
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range","0.10, 0.15, 0.20, 0.25, 0.30"
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription","Taxes collected by the national government as a percentage of the country's GDP"
+"laymans-heading","Tax revenue as a % of GDP"
+"theme-order",

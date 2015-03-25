@@ -1,0 +1,22 @@
+"series","country-year"
+"id","out-oda-net"
+"type","simple"
+"parent",
+"name","Net Official Development Assistance provided"
+"columns","id, year, value"
+"description","Net ODA disbursed by each donor country"
+"default-scale","log"
+"theme","official"
+"uom","USD"
+"uom_display","USD"
+"source","Development Initiatives based on OECD-DAC data"
+"calculation",
+"format",
+"highorlow","lowisbetter"
+"range","1000000000, 3000000000, 5000000000, 7000000000, 10000000000"
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NR"
+"laymans-decription","Net offical development assistance provided to developing countries"
+"laymans-heading","Net offical development assistance to developing countries"
+"theme-order",

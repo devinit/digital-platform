@@ -1,0 +1,22 @@
+"series","country-year"
+"id","oda"
+"type","multi"
+"parent",
+"name","Official development assistance"
+"columns","id-from,id-to, year, sector, bundle, channel, value"
+"description","Gross ODA"
+"default-scale","lin"
+"theme","official"
+"uom","USD"
+"uom_display","USD"
+"source","Development Initiatives based on OECD-DAC data"
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

@@ -1,0 +1,22 @@
+"series","country-year"
+"id","total-employment"
+"type","simple"
+"parent",
+"name","Total employment %"
+"columns","id, year, value"
+"description","Total employment %"
+"default-scale","lin"
+"theme","employment"
+"uom","percent"
+"uom_display","%"
+"source","World Bank World Development Indicators"
+"calculation","100%-total-employment"
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

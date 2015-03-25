@@ -1,0 +1,22 @@
+"series","country-year"
+"id","mean-years-of-schooling"
+"type","simple"
+"parent",
+"name","Mean years of schooling"
+"columns","id, year, value"
+"description","Mean years of schooling of adult population"
+"default-scale","lin"
+"theme","education"
+"uom","Year"
+"uom_display",
+"source","UN HDR"
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

@@ -1,0 +1,22 @@
+"series","country-year"
+"id","avg-income-of-extreme-poor"
+"type","simple"
+"parent",
+"name","Average income of extreme poor"
+"columns","id, year, value, original-value"
+"description","Average income ($PPP) of people living on less than $1.25/day)"
+"default-scale","lin"
+"theme","poorest20pct"
+"uom","USD"
+"uom_display","USD"
+"source","Development Initiatives based on World Development Indicators"
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range","0.75, 0.85, 0.95, 1.05, 1.15"
+"interpolated","1"
+"missing-donor","NR"
+"missing-recipient","NA"
+"laymans-decription","Average daily consumption of individuals living on less than $1.25-a-day (2005 PPP$)"
+"laymans-heading",
+"theme-order","4"

@@ -1,0 +1,22 @@
+"series","country-year"
+"id","infant-mortality"
+"type","simple"
+"parent",
+"name","Infant mortality rate (per 1,000 live births)"
+"columns","id, year, value"
+"description","Infant mortality rate (per 1,000 live births)"
+"default-scale","lin"
+"theme","health"
+"uom","unit"
+"uom_display",
+"source","World Bank World Development Indicators"
+"calculation",
+"format",
+"highorlow","lowisbetter"
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

@@ -1,0 +1,22 @@
+"series","country-year"
+"id","youth-unemployment"
+"type","simple"
+"parent",
+"name","Youth unemployment %"
+"columns","id, year, value"
+"description","youth unemployment %"
+"default-scale","lin"
+"theme","employment"
+"uom","percent"
+"uom_display","%"
+"source","World Bank World Development Indicators"
+"calculation",
+"format",
+"highorlow","lowisbetter"
+"range",
+"interpolated","1"
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

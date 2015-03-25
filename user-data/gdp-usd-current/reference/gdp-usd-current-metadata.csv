@@ -1,0 +1,22 @@
+"series","country-year"
+"id","gdp-usd-current"
+"type","simple"
+"parent",
+"name","Gross domestic product (current US$)"
+"columns","id, year, value"
+"description","GDP (current US$)"
+"default-scale","log"
+"theme",
+"uom","USD"
+"uom_display","USD"
+"source",
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

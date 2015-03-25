@@ -1,0 +1,22 @@
+"series","country-year"
+"id","youth-literacy"
+"type","simple"
+"parent",
+"name","Literacy rate, youth total (% of people ages 15-24)"
+"columns","id, year, value, original-value"
+"description","Literacy rate, youth total (% of people ages 15-24)"
+"default-scale","lin"
+"theme","education"
+"uom","percent"
+"uom_display","%"
+"source","World Bank World Development Indicators"
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated","1"
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

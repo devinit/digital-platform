@@ -1,0 +1,22 @@
+"series","country-year"
+"id","long-term-debt"
+"type","multi"
+"parent",
+"name","Long term debt flows"
+"columns","id-to, year, debt-flow, destination-institution-type, creditor-type, creditor-institution, financing-type, id-from, value"
+"description","Long term debt flows: disbursements, debt servicing and interest payments"
+"default-scale","lin"
+"theme",
+"uom","unit"
+"uom_display",
+"source","World Bank International Debt Statistics"
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated",
+"missing-donor","NR"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

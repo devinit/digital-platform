@@ -1,0 +1,22 @@
+"series","country-year"
+"id","employment-services"
+"type","embedded"
+"parent","employment-by-sector"
+"name","% of workforce employed in services"
+"columns","id, year, value, original-value"
+"description","% of workforce employed in services"
+"default-scale","lin"
+"theme","employment"
+"uom","percent"
+"uom_display","%"
+"source","World Bank World Development Indicators"
+"calculation",
+"format",
+"highorlow",
+"range",
+"interpolated","1"
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",

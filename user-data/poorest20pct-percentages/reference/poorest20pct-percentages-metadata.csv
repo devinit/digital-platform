@@ -1,0 +1,22 @@
+"series","country-year"
+"id","poorest20pct-percentages"
+"type","simple"
+"parent",
+"name","Proportion of national population in the global poorest 20% of people"
+"columns","id, year, value"
+"description","Proportion of people in each country that are part of the poorest 20% of people worldwide"
+"default-scale","lin"
+"theme","poorest20pct"
+"uom","percent"
+"uom_display","%"
+"source","Development Initiatives calculations based on World Bank povcalnet"
+"calculation",
+"format",
+"highorlow","lowisbetter"
+"range","10, 20, 40, 60, 80"
+"interpolated",
+"missing-donor","NR"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order","6"

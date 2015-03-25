@@ -1,0 +1,22 @@
+"series","country-year"
+"id","in-oof-net"
+"type","simple"
+"parent",
+"name","Net Other Official Flows received"
+"columns","id, year, value"
+"description",
+"default-scale","lin"
+"theme",
+"uom",
+"uom_display",
+"source",
+"calculation",
+"format",
+"highorlow",
+"range",
+"interpolated",
+"missing-donor",
+"missing-recipient",
+"laymans-decription",
+"laymans-heading",
+"theme-order",

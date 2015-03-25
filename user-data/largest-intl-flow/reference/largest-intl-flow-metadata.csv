@@ -1,0 +1,22 @@
+"series","country-year","reference"
+"id","largest-intl-flow","largest-intl-flow"
+"type","simple","reference"
+"parent",,
+"name","Largest international resource flow to each country","Reference for the largest-intl-flow file"
+"columns","id, year, value","id, flow-name, name"
+"description","The largest international resource flow to each country in each year",
+"default-scale","lin",
+"theme","intlmix",
+"uom",,
+"uom_display",,
+"source","Development Initiatives calculations based on numerous sources",
+"calculation",,
+"format",,
+"highorlow",,
+"range",,
+"interpolated",,
+"missing-donor","NR",
+"missing-recipient","NA",
+"laymans-decription","The largest international resource flow to each country in each year",
+"laymans-heading","The largest resource flow for each year",
+"theme-order"," 1",
