@@ -1,0 +1,22 @@
+"series","country-year"
+"id","intl-flows-donors-wide"
+"type","composite"
+"parent","intl-flows-donors"
+"name","International resources flows from donors to developing countries"
+"columns","id, year, dfis-out, fdi-out, oda-capital-repay,oda-interest,oda-out,oofs-capital-repay,oofs-interest,oofs-out,remittances-devcountries"
+"description","Details on each resource flow to and from developing countries"
+"default-scale","lin"
+"theme",
+"uom","constant 2012 US$ millions"
+"uom_display","USD"
+"source","Development Initiatives calculations based on numerous sources"
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NR"
+"laymans-decription",
+"laymans-heading",
+"theme-order",
