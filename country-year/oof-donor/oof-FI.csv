@@ -19,13 +19,6 @@
 "asia",2011,2248402
 "asia",2012,2956298
 "asia",2013,9769561
-"bilateral-unspecified",2007,100854546
-"bilateral-unspecified",2008,3523316
-"bilateral-unspecified",2009,84948799
-"bilateral-unspecified",2010,340813
-"bilateral-unspecified",2011,1050020000
-"bilateral-unspecified",2012,8062186
-"bilateral-unspecified",2013,148529
 "CN",2006,1753927
 "CN",2008,1384439
 "CN",2009,9799784
@@ -33,6 +26,13 @@
 "CN",2011,1322589
 "CN",2012,976864
 "CN",2013,872171
+"country-unspecified",2007,100854546
+"country-unspecified",2008,3523316
+"country-unspecified",2009,84948799
+"country-unspecified",2010,340813
+"country-unspecified",2011,1050020000
+"country-unspecified",2012,8062186
+"country-unspecified",2013,148529
 "europe",2007,9593525
 "IN",2006,2338569
 "IN",2008,10836004

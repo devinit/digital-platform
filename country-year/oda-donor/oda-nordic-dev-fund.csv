@@ -14,11 +14,6 @@
 "BF",2010,3313889
 "BF",2011,0
 "BF",2012,0
-"bilateral-unspecified",2009,0
-"bilateral-unspecified",2010,5502422
-"bilateral-unspecified",2011,11202603
-"bilateral-unspecified",2012,7760594
-"bilateral-unspecified",2013,5362031
 "BJ",2009,1661760
 "BJ",2010,0
 "BJ",2011,0
@@ -41,6 +36,11 @@
 "CO",2010,0
 "CO",2011,0
 "CO",2012,0
+"country-unspecified",2009,0
+"country-unspecified",2010,5502422
+"country-unspecified",2011,11202603
+"country-unspecified",2012,7760594
+"country-unspecified",2013,5362031
 "CV",2009,0
 "CV",2010,0
 "CV",2011,0

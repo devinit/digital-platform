@@ -12,10 +12,6 @@
 "BD",2011,123631804
 "BD",2012,255857764
 "BD",2013,282562786
-"bilateral-unspecified",2006,5119390000
-"bilateral-unspecified",2007,5597310000
-"bilateral-unspecified",2008,6582520000
-"bilateral-unspecified",2009,8282310000
 "BT",2010,21831096
 "BT",2011,14733358
 "BT",2012,5948805
@@ -28,6 +24,10 @@
 "CN",2011,1542690669
 "CN",2012,1434235175
 "CN",2013,1266953706
+"country-unspecified",2006,5119390000
+"country-unspecified",2007,5597310000
+"country-unspecified",2008,6582520000
+"country-unspecified",2009,8282310000
 "east-asia",2012,5e+07
 "east-asia",2013,49953114
 "FJ",2010,17336660
