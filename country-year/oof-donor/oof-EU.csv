@@ -32,12 +32,6 @@
 "BF",2008,11460994
 "BF",2009,1601057
 "BF",2010,8457156
-"bilateral-unspecified",2007,23679821
-"bilateral-unspecified",2008,54537851
-"bilateral-unspecified",2009,64299958
-"bilateral-unspecified",2010,51025218
-"bilateral-unspecified",2011,15926007
-"bilateral-unspecified",2013,73784272
 "BR",2006,15485956
 "BR",2007,147340360
 "BR",2009,220428314
@@ -59,6 +53,12 @@
 "CN",2008,60527829
 "CN",2009,129943659
 "CO",2007,107520506
+"country-unspecified",2007,23679821
+"country-unspecified",2008,54537851
+"country-unspecified",2009,64299958
+"country-unspecified",2010,51025218
+"country-unspecified",2011,15926007
+"country-unspecified",2013,73784272
 "DM",2013,3183049
 "DO",2007,6491493
 "DO",2008,27783103

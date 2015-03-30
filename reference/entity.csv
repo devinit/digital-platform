@@ -250,7 +250,7 @@ ZA,country,South Africa,south-of-sahara,ZA,ZAF,umics,south-africa,ZA,crossover,,
 ZM,country,Zambia,south-of-sahara,ZM,ZMB,ldcs,zambia,ZM,recipient,,Zambia
 ZW,country,Zimbabwe,south-of-sahara,ZW,ZWE,other-lics,zimbabwe,ZW,recipient,,Zimbabwe
 EU,organisation,European Union,europe,,,,european-union,EU,multilateral,,European Union
-country-unspecified,country,"Country, unspecified",unspecified,,,,country-unspecified,,crossover,,Country unspecified
+country-unspecified,country,"Country, unspecified",unspecified,,,,country-unspecified,,crossover,,Country not specified
 afdb,organisation,AfDB,,,,,afdb,1,multilateral,,AfDB
 afdf,organisation,AfDF,,,,,afdf,2,multilateral,,AfDF
 afesd,organisation,AFESD,,,,,afesd,3,multilateral,,AFESD

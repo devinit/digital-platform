@@ -28,9 +28,6 @@
 "BD",2013,12478
 "BF",2013,12478
 "BI",2013,12478
-"bilateral-unspecified",2011,15055799
-"bilateral-unspecified",2012,7268697
-"bilateral-unspecified",2013,7496633
 "BJ",2011,18191
 "BJ",2012,22032
 "BJ",2013,26704
@@ -67,6 +64,9 @@
 "CO",2011,85485
 "CO",2012,73752
 "CO",2013,54849
+"country-unspecified",2011,15055799
+"country-unspecified",2012,7268697
+"country-unspecified",2013,7496633
 "CR",2011,10910
 "CU",2011,477122
 "CU",2012,482022

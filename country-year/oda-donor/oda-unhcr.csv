@@ -11,9 +11,6 @@
 "BA",2012,29500
 "BD",2012,1173100
 "BI",2013,170004
-"bilateral-unspecified",2011,237323309
-"bilateral-unspecified",2012,176142700
-"bilateral-unspecified",2013,249543190
 "BR",2011,2864919
 "BR",2012,172400
 "BW",2011,2867554
@@ -24,6 +21,9 @@
 "CG",2011,345938
 "CM",2012,136900
 "CN",2011,2134193
+"country-unspecified",2011,237323309
+"country-unspecified",2012,176142700
+"country-unspecified",2013,249543190
 "CR",2012,119600
 "DO",2011,980612
 "DO",2012,600
