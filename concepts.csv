@@ -89,6 +89,7 @@ reference,entity,reference,,,"id,type,name,region",ISO-3166 Alpha-2 country code
 reference,flow-name,reference,,International flows and categories,"id, flow-category, name, description, source",,,,,,,,,,,,,,,,
 reference,flow-type,reference,,Reference for international flow types,"id, name, description, source",,,,,,,,,,,,,,,,
 reference,fragile-states,reference,,,"id, name",,,,,,DI,,1(A),,,,,,,,
+reference,income-group,reference,,,"id, name, description",,,,,,,,1(A),,,,,,,,
 reference,largest-intl-flow,reference,,Reference for the largest-intl-flow file,"id, flow-name, name",,,,,,,,,,,,,,,,
 reference,oof-bundle,reference,,,"id, old-code, name",Modality of other official flows (OOFs),,official,,,DI (adapted from OECD),,1(A),highisbetter,,,,,,,
 reference,region,reference,,,"id, name, dac-continent-code, dac-continent, dac-id, color",DAC recipient code,,,,,OECD,,,,,,,,,,
