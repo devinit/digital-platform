@@ -1,0 +1,22 @@
+"series","country-year"
+"id","intl-flows-recipients-wide"
+"type","composite"
+"parent","intl-flows-recipients"
+"name","International resource flows to and from developing countries"
+"columns","id, year, dfis-in, fdi-in, fdi-in-profits-out, fdi-out, illicit-financing-out,long-debt-capital-payments-out,long-debt-disbursement-in,long-debt-interest-payments-out,long-debt-net-official-in,net-portfolio-equity-in,oda-capital-payments-out,oda-in,oda-interest-payments-out,oofs-capital-payments-out,oofs-in,oofs-interest-payments-out,pda-in,remittances-in,remittances-out,short-debt-interest-out,short-debt-net-flow-in,ssc-in,trade-mispricing-out"
+"description","Details on each resource flow to and from developing countries"
+"default-scale","lin"
+"theme",
+"uom","constant 2012 US$ millions"
+"uom_display","USD"
+"source","Development Initiatives calculations based on numerous sources"
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated",
+"missing-donor","NR"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
+"theme-order",
