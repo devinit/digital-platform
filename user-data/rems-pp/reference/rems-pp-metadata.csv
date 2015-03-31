@@ -10,7 +10,7 @@
 "uom","unit"
 "uom_display",
 "source","Development Initiatives calculations based on World Bank"
-"calculation",
+"calculation","Remittances received divided by the total population of each country"
 "format",
 "highorlow","highisbetter"
 "range","50, 100, 200, 300, 500"

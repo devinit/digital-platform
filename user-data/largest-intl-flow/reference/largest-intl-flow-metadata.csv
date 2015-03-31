@@ -10,7 +10,7 @@
 "uom",,
 "uom_display",,
 "source","Development Initiatives calculations based on numerous sources",
-"calculation",,
+"calculation","This indicator is calculated by identifying the largest international resource flow to each country in each year, based on available data on official development assistance, other official flows, foreign direct investment, remittances, long- and short- term debt disbursements and portfolio equity. Observations without data on at least two of three key resources (ODA, FDI and remittances) are excluded.",
 "format",,
 "highorlow",,
 "range",,
