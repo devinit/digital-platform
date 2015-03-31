@@ -4,7 +4,7 @@
 "parent",
 "name","International resources flows from donors to developing countries"
 "columns","id, year, direction, flow-type, flow-name, value"
-"description","Details on each resource flow to and from developing countries"
+"description","Estimates of resources flowing to and from developing countries"
 "default-scale","lin"
 "theme","intlmix"
 "uom","constant 2012 US$ millions"

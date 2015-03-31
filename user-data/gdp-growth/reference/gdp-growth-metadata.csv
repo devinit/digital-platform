@@ -1,0 +1,22 @@
+"series","country-year"
+"id","gdp-growth"
+"type","simple"
+"parent",
+"name","Annual percentage growth rate of GDP at market prices based on constant local currency."
+"columns","id, year, value"
+"description","Annual percentage growth rate of GDP at market prices based on constant local currency."
+"default-scale","log"
+"theme",
+"uom","percent"
+"uom_display","%"
+"source","WDI"
+"calculation",
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription","Annual percentage growth rate of GDP at market prices based on constant local currency."
+"laymans-heading",
+"theme-order",

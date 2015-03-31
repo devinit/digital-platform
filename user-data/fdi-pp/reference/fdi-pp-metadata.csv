@@ -10,7 +10,7 @@
 "uom","constant 2012 US$ millions per person"
 "uom_display","USD"
 "source","Development Initiatives calculations based on UNCTAD and World Bank"
-"calculation",
+"calculation","Net inflows of foreign direct investment divided by the total population of each country"
 "format",
 "highorlow","highisbetter"
 "range","100, 200, 500, 1000, 2000"

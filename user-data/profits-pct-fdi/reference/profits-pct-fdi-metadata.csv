@@ -10,7 +10,7 @@
 "uom","percent"
 "uom_display","%"
 "source","Development Initiatives calculations based on World Bank and UNCTAD"
-"calculation",
+"calculation","This indicator is the ratio of the outflow of profits on foreign direct investment leaving each country to the total of new foreign direct investments in the same countries each year."
 "format",
 "highorlow","lowisbetter"
 "range","25, 50, 75, 100, 200"
