@@ -3,7 +3,7 @@
 "type","multi"
 "parent",
 "name","Long term debt flows"
-"columns","id-to, year, debt-flow, destination-institution-type, creditor-type, creditor-institution, financing-type, id-from, value"
+"columns","id, year, destination-institution-type, creditor-type, creditor-institution, financing-type, value"
 "description","Long term debt flows: disbursements, debt servicing and interest payments"
 "default-scale","lin"
 "theme",

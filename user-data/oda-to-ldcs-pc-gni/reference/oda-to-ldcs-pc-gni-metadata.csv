@@ -1,11 +1,11 @@
 "series","country-year"
-"id","oda-per-poor-person"
+"id","oda-to-ldcs-pc-gni"
 "type","simple"
 "parent",
 "name",
 "columns","id, year, value"
 "description",
-"default-scale","log"
+"default-scale","lin"
 "theme",
 "uom",
 "uom_display",
