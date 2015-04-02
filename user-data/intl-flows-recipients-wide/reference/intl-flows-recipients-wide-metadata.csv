@@ -7,6 +7,8 @@
 "description","Estimates of resource flows into and out of each country. Estimates are gross inflows/outflows where available, with the following exceptions: foreign direct investment and portfolio equity are net inflows (new investments minus disinvestments) and short-term debt is net flows (disbursements minus principal repayments). See methodology for detailed notes on the data for each resource flow."
 "default-scale","lin"
 "theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom","constant 2012 US$ millions"
 "uom_display","USD"
 "source","Development Initiatives calculations based on numerous sources"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
-"theme-order",

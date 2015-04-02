@@ -2,21 +2,22 @@
 "id","oda-percent-gni"
 "type","simple"
 "parent",
-"name",
+"name","ODA as a percent of GNI"
 "columns","id, year, value"
-"description",
+"description","Gross ODA as a percent of GNI"
 "default-scale","lin"
-"theme",
-"uom",
-"uom_display",
+"theme","official"
+"theme-order","5"
+"global-picture-color-ramp","darkpurple"
+"uom","percent"
+"uom_display","%"
 "source","Development Initiatives based on OECD-DAC data"
 "calculation",
 "format",
-"highorlow",
-"range",
+"highorlow","highisbetter"
+"range","0.05, 0.10, 0.25, 0.5, 0.7"
 "interpolated",
-"missing-donor",
-"missing-recipient",
+"missing-donor","NA"
+"missing-recipient","NR"
 "laymans-decription",
 "laymans-heading",
-"theme-order",

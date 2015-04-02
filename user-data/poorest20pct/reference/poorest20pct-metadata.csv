@@ -7,16 +7,17 @@
 "description","Number of people in each country that are part of the poorest 20% of people worldwide"
 "default-scale","log"
 "theme","poorest20pct"
+"theme-order","1"
+"global-picture-color-ramp","darkred"
 "uom","unit"
 "uom_display",
 "source","Development Initiatives calculations based on World Bank povcalnet"
 "calculation",
 "format",
 "highorlow","lowisbetter"
-"range","1000000, 5000000, 10000000, 50000000, 100000000"
+"range","1000000, 5000000, 10000000, 50000000, 150000000"
 "interpolated",
 "missing-donor","NR"
 "missing-recipient","NA"
 "laymans-decription","In 2011 1.4 billion people were in the global poorest 20% and best available data suggest they had daily incomes of $1.48 or less (includes everyone on less than $1.25-a-day)."
 "laymans-heading",
-"theme-order","1"

@@ -7,6 +7,8 @@
 "description","GDP (constant 2005 US$) per capita"
 "default-scale","log"
 "theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom","USD"
 "uom_display","USD"
 "source",
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
-"theme-order",

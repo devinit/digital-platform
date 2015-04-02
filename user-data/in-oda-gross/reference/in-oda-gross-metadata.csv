@@ -7,6 +7,8 @@
 "description","Gross ODA received by each recipient country"
 "default-scale","lin"
 "theme","official"
+"theme-order","1"
+"global-picture-color-ramp","darkpurple"
 "uom","USD"
 "uom_display","USD"
 "source","Development Initiatives based on OECD-DAC data"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription","Gross offical development assistance received by a country"
 "laymans-heading","Gross Offical Development Assistance Received"
-"theme-order",

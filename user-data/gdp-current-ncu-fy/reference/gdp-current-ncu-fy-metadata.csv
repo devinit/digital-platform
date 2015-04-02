@@ -7,6 +7,8 @@
 "description","GDP in current National Currency Units as corresponding to Fiscal Year"
 "default-scale","log"
 "theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom","NCU"
 "uom_display","NCU"
 "source","International Monetary Fund World Economic Outlook"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
-"theme-order",

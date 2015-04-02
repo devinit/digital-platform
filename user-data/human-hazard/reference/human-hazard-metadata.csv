@@ -7,16 +7,17 @@
 "description","Index for risk management score for exposure to human hazards (10 = high exposure)"
 "default-scale","lin"
 "theme","vulnerability"
+"theme-order","4"
+"global-picture-color-ramp","darkred"
 "uom","index"
 "uom_display",
 "source","Inform (Index for Risk Management) v 3.0.3"
 "calculation",
 "format",
 "highorlow","lowisbetter"
-"range","2, 4, 6, 8, 9"
+"range","5, 6, 7, 8, 9"
 "interpolated",
 "missing-donor","NA"
 "missing-recipient","NA"
 "laymans-decription","Countries that are at risk of conflict or the current conflict instensity (Inform indicator)"
 "laymans-heading","Human hazard"
-"theme-order",

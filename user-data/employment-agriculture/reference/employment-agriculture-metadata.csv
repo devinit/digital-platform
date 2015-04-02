@@ -7,6 +7,8 @@
 "description","% of workforce employed in agriculture"
 "default-scale","lin"
 "theme","employment"
+"theme-order",
+"global-picture-color-ramp",
 "uom","percent"
 "uom_display","%"
 "source","World Bank World Development Indicators"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
-"theme-order",

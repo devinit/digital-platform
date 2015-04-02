@@ -7,6 +7,8 @@
 "description","Total international resource flows received"
 "default-scale","log"
 "theme","intlmix"
+"theme-order","2"
+"global-picture-color-ramp","purple"
 "uom","constant 2012 US$ millions"
 "uom_display","USD"
 "source","Development Initiatives calculations based on numerous sources"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription","Total international resource flows received by a country for a specific year"
 "laymans-heading","Total International Resource Flows "
-"theme-order","2"

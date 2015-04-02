@@ -7,6 +7,8 @@
 "description","Humanitarian assistance to each country (including HA reported as ODA)"
 "default-scale","lin"
 "theme","ha"
+"theme-order","1"
+"global-picture-color-ramp","darkblue"
 "uom","constant 2012 US$ millions"
 "uom_display","USD"
 "source","Development Initiatives based on OECD DAC, UN OCHA FTS and UN CERF"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription","Humanitarian assistance is aid and action delivered during and in the aftermath ofﾠman-made crises and natural disasters, includes prevention and preparedness finance too. "
 "laymans-heading","Humanitarian assistance"
-"theme-order",

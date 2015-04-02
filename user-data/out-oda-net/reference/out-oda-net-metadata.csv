@@ -7,6 +7,8 @@
 "description","Net ODA disbursed by each donor country"
 "default-scale","log"
 "theme","official"
+"theme-order","3"
+"global-picture-color-ramp","darkpurple"
 "uom","USD"
 "uom_display","USD"
 "source","Development Initiatives based on OECD-DAC data"
@@ -19,4 +21,3 @@
 "missing-recipient","NR"
 "laymans-decription","Net offical development assistance provided to developing countries"
 "laymans-heading","Net offical development assistance to developing countries"
-"theme-order",

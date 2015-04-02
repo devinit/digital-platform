@@ -7,6 +7,8 @@
 "description","Estimates of resources flowing to and from developing countries"
 "default-scale","lin"
 "theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom","constant 2012 US$ millions"
 "uom_display","USD"
 "source","Development Initiatives calculations based on numerous sources"
@@ -19,4 +21,3 @@
 "missing-recipient","NR"
 "laymans-decription",
 "laymans-heading",
-"theme-order",

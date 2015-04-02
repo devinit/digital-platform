@@ -7,6 +7,8 @@
 "description","The outflow of profits on FDI as a proportion of new investments in the same year (note that negative values are set to zero)"
 "default-scale","lin"
 "theme","intlmix"
+"theme-order","4"
+"global-picture-color-ramp","orange"
 "uom","percent"
 "uom_display","%"
 "source","Development Initiatives calculations based on World Bank and UNCTAD"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription","The outflow of profits on FDI as a proportion of new investments in the same year"
 "laymans-heading","Profits on FDI as a proportion of new investments"
-"theme-order","4"

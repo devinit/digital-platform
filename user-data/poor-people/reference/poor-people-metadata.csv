@@ -7,6 +7,8 @@
 "description","Number of poor people living on under $1.25 per day"
 "default-scale","log"
 "theme","poorest20pct"
+"theme-order","2"
+"global-picture-color-ramp","darkred"
 "uom","unit"
 "uom_display",
 "source","World Bank World Development Indicators"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription","$1.25-a-day extreme poverty line is based on the national poverty lines of the world's 15 poorest countries at 2005 PPP$"
 "laymans-heading",
-"theme-order","2"
