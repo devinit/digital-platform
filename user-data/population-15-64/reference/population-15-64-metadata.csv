@@ -7,6 +7,8 @@
 "description","Population ages 15-64 (% of total)"
 "default-scale","lin"
 "theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom","percent"
 "uom_display","%"
 "source",
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
-"theme-order",

@@ -7,6 +7,8 @@
 "description","Foreign direct investment per person (note that negative values, which occur when disinvestment exceeds new investments, are set to zero)"
 "default-scale","lin"
 "theme","intlmix"
+"theme-order","3"
+"global-picture-color-ramp","orange"
 "uom","constant 2012 US$ millions per person"
 "uom_display","USD"
 "source","Development Initiatives calculations based on UNCTAD and World Bank"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription","FDI inflows to a country per capita  "
 "laymans-heading","Foreign direct investment per person"
-"theme-order","3"

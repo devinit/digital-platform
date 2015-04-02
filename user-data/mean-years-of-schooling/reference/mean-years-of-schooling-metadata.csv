@@ -7,6 +7,8 @@
 "description","Mean years of schooling of adult population"
 "default-scale","lin"
 "theme","education"
+"theme-order",
+"global-picture-color-ramp",
 "uom","Year"
 "uom_display",
 "source","UN HDR"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
-"theme-order",

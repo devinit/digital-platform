@@ -7,6 +7,8 @@
 "description","Net OOF disbursed by each donor country"
 "default-scale","lin"
 "theme","official"
+"theme-order","8"
+"global-picture-color-ramp","darkpurple"
 "uom","USD"
 "uom_display","USD"
 "source","Development Initiatives based on OECD-DAC data"
@@ -19,4 +21,3 @@
 "missing-recipient","NR"
 "laymans-decription","Net other offical finance provided to developing countries"
 "laymans-heading","Net other official finance to developing countries"
-"theme-order",

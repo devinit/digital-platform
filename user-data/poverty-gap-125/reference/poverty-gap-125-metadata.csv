@@ -7,6 +7,8 @@
 "description","Poverty gap is the mean shortfall from the poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence."
 "default-scale","log"
 "theme","poorest20pct"
+"theme-order",
+"global-picture-color-ramp",
 "uom","percent"
 "uom_display","%"
 "source","World Bank World Development Indicators"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription","Average daily consumption of individuals living on less than $1.25-a-day (2005 PPP$)"
 "laymans-heading",
-"theme-order",

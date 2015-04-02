@@ -7,6 +7,8 @@
 "description","Annual percentage growth rate of GDP at market prices based on constant local currency."
 "default-scale","log"
 "theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom","percent"
 "uom_display","%"
 "source","WDI"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription","Annual percentage growth rate of GDP at market prices based on constant local currency."
 "laymans-heading",
-"theme-order",

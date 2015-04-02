@@ -7,6 +7,8 @@
 "description","Percentage of population living under $1.25 per day"
 "default-scale","log"
 "theme","poorest20pct"
+"theme-order","4"
+"global-picture-color-ramp","darkred"
 "uom","percent"
 "uom_display","%"
 "source",
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription","$1.25-a-day extreme poverty line is based on the national poverty lines of the world's 15 poorest countries at 2005 PPP$"
 "laymans-heading","Extreme poverty"
-"theme-order","3"

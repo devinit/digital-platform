@@ -7,6 +7,8 @@
 "description","Fragile states classifications in 2014",
 "default-scale","lin",
 "theme","vulnerability",
+"theme-order"," 3",
+"global-picture-color-ramp","darkred",
 "uom",,
 "uom_display",,
 "source","Development Initiatives calculations based on the fragile states index","DI"
@@ -19,4 +21,3 @@
 "missing-recipient","NA",
 "laymans-decription","Countries susceptible to crisis based on the twelve primary social, economic and political indicators. The Fragile States Index is produced by the Fund for Peace",
 "laymans-heading","Fragile States ",
-"theme-order",,

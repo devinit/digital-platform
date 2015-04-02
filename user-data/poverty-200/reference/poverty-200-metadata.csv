@@ -7,6 +7,8 @@
 "description","Percentage of population living under $2.00 per day"
 "default-scale","log"
 "theme","poorest20pct"
+"theme-order","5"
+"global-picture-color-ramp","darkred"
 "uom","percent"
 "uom_display","%"
 "source",
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription","Population below $2 a day is the percentage of the population living on less than $2.00 a day at 2005 international prices."
 "laymans-heading",
-"theme-order","5"

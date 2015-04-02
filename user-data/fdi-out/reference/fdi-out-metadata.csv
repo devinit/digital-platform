@@ -1,0 +1,23 @@
+"series","country-year"
+"id","fdi-out"
+"type","multi"
+"parent",
+"name","Foreign direct investment in developing countries"
+"columns","id-from, id-to, year, financing-type, value"
+"description",
+"default-scale",
+"theme",
+"theme-order",
+"global-picture-color-ramp",
+"uom","constant 2012 US$"
+"uom_display",
+"source","Development Initiatives based on numerous sources. Financing-type data sources: US - Bureau of Economic Analysis, UK - Office of National Statistics, Germany - Deutche Bundesbank, France - Banque de France, Denmark - Denmark NationalBank. Bilateral FDI data source: OECD FDI by partner database"
+"calculation","Converted to constant 2012 US$. Note that negative values have been excluded here."
+"format",
+"highorlow",
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",

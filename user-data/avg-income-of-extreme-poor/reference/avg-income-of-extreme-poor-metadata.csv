@@ -7,16 +7,17 @@
 "description","Average income ($PPP) of people living on less than $1.25/day)"
 "default-scale","lin"
 "theme","poorest20pct"
+"theme-order","3"
+"global-picture-color-ramp","darkred"
 "uom","USD"
 "uom_display","USD"
 "source","Development Initiatives based on World Development Indicators"
 "calculation",
 "format",
 "highorlow","highisbetter"
-"range","0.75, 0.85, 0.95, 1.05, 1.15"
+"range","0.75, 1.0, 1.1, 1.2"
 "interpolated","1"
 "missing-donor","NR"
 "missing-recipient","NA"
 "laymans-decription","Average daily consumption of individuals living on less than $1.25-a-day (2005 PPP$)"
 "laymans-heading",
-"theme-order","4"

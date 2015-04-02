@@ -7,6 +7,8 @@
 "description","Long term debt flows: disbursements, debt servicing and interest payments"
 "default-scale","lin"
 "theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom","unit"
 "uom_display",
 "source","World Bank International Debt Statistics"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
-"theme-order",

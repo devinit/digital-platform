@@ -7,6 +7,8 @@
 "description","Economic vulnerability index"
 "default-scale","lin"
 "theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom","index"
 "uom_display",
 "source",
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
-"theme-order",

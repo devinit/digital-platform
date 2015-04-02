@@ -7,6 +7,8 @@
 "description","Gross OOF received by each recipient country"
 "default-scale","lin"
 "theme","official"
+"theme-order","7"
+"global-picture-color-ramp","darkpurple"
 "uom","USD"
 "uom_display","USD"
 "source","Development Initiatives based on OECD-DAC data"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription","Gross other official flows received by a country"
 "laymans-heading","Gross Other Offical Flows Received"
-"theme-order",

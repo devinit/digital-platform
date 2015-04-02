@@ -7,6 +7,8 @@
 "description","Number of people in each of 3 age bands"
 "default-scale","lin"
 "theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom","unit"
 "uom_display",
 "source","World Bank World Development Indicators"
@@ -19,4 +21,3 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
-"theme-order",

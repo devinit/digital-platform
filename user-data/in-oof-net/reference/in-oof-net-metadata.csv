@@ -7,6 +7,8 @@
 "description",
 "default-scale","lin"
 "theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom",
 "uom_display",
 "source",
@@ -19,4 +21,3 @@
 "missing-recipient",
 "laymans-decription",
 "laymans-heading",
-"theme-order",
