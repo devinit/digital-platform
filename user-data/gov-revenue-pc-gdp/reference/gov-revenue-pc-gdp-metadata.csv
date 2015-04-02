@@ -1,0 +1,23 @@
+"series","country-year"
+"id","gov-revenue-pc-gdp"
+"type","simple"
+"parent",
+"name","Government revenue as a percent of GDP"
+"columns","id, year, value, estimate"
+"description","Government revenue (excluding grants) as a percent of GDP"
+"default-scale","lin"
+"theme","dpf"
+"theme-order","1"
+"global-picture-color-ramp","darklightblue"
+"uom","percent"
+"uom_display","%"
+"source","Development Initiatives, based on IMF WEO"
+"calculation","DI calculation of government revenue divided by GDP in NCU as corresponding to fiscal year"
+"format",
+"highorlow","highisbetter"
+"range",
+"interpolated",
+"missing-donor","NR"
+"missing-recipient","NA"
+"laymans-decription","Government revenue as a percent of GDP"
+"laymans-heading","Government revenue as a percent of GDP"

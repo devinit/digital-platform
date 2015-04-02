@@ -7,7 +7,7 @@
 "description","Government spending per person, 2011 PPP$, net of general budget support ODA and disbursements on debt to the public sector"
 "default-scale","log"
 "theme","dpf"
-"theme-order","1"
+"theme-order","2"
 "global-picture-color-ramp","darklightblue"
 "uom","2011 PPP$"
 "uom_display","USD"
