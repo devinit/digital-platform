@@ -1,10 +1,10 @@
 "series","country-year"
-"id","dfis-out"
-"type","multi"
+"id","dfis-out-dev"
+"type","composite"
 "parent",
-"name","Development Finance Institutions Approvals"
-"columns","id-from, id-to, year, value"
-"description","Approvals by bilateral development finance institutions (excluding those reported as ODA or OOFs)"
+"name","Development Finance Institutions Approvals to Developing Countries"
+"columns","id, year, financing-type, value"
+"description","Approvals by bilateral development finance institutions to developing countries (excluding those reported as ODA or OOFs)"
 "default-scale","lin"
 "theme",
 "theme-order",
