@@ -15,7 +15,7 @@
 "calculation","DI calculation of government revenue divided by GDP in NCU as corresponding to fiscal year"
 "format",
 "highorlow","highisbetter"
-"range",
+"range","0.1, 0.15, 0.2, 0.25, 0.3"
 "interpolated",
 "missing-donor","NR"
 "missing-recipient","NA"
