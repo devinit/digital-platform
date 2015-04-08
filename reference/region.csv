@@ -1,4 +1,4 @@
-id,name,dac-continent-code,dac-continent,dac-id,colour
+id,name,dac-continent-code,dac-continent,dac-id,color
 europe,Europe,89,Europe,89,blue-high
 north-of-sahara,North Africa,298,Africa,189,yellow-high
 south-of-sahara,Sub-Saharan Africa,298,Africa,289,red-high

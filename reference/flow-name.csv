@@ -1,4 +1,4 @@
-id,flow-category,name,colour,description,source
+id,flow-category,name,color,description,source
 dfis-in,DFIs,Development Finance Institutions,purple-high,Disbursements from Development Finance Insitutions (excluding disbursements recorded as ODA or OOFs),Development Initiatives
 dfis-out,DFIs,Development Finance Institutions,purple-high,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),Development Initiatives
 fdi-in,FDI,Foreign Direct Investment,orange-high,Net inflows of foreign direct investment (new investments minus disinvestment),UNCTAD

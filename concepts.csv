@@ -108,6 +108,8 @@ reference,oof-bundle,reference,,,"id, old-code, name",Modality of other official
 reference,region,reference,,,"id, name, dac-continent-code, dac-continent, dac-id, color",DAC recipient code,,,,,,,OECD,,,,,,,,,
 reference,sector,reference,,,"id, name",DI grouping of CRS purpose codes,,,,,,,DI,,1(A),,,,,,,
 reference,theme,reference,,DI themes,"id, name, default",,,,,,,,,,,,,,,,,
+reference,color,reference,,Colors,"id, value",,,,,,,,,,,,,,,,,
+reference,colorRamp,reference,,Color ramps,"id, high, mid, low",,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-AE,simple,,Youth unemployment %,"id, year, value",youth unemployment %,lin,employment,,,percent,%,World Bank World Development Indicators,,,lowisbetter,,1,NA,NA,,
 country-year,oda-donor/oda-AT,simple,,ODA from,"id, year, value",,lin,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-AU,simple,,ODA from,"id, year, value",,lin,,,,,,,,,,,,,,,
