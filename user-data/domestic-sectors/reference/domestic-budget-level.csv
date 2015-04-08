@@ -1237,3 +1237,41 @@ south-korea,TRUE,5,South Korea (526)
 spain,TRUE,5,Spain (542)
 united-kingdom,TRUE,5,United Kingdom (549)
 united-nations-office-for-project-services,TRUE,5,United Nations Office for Project Services (454)
+agriculture,TRUE,1,Agriculture
+education,TRUE,1,Education
+health,TRUE,1,Health
+industry-energy-and-mining,TRUE,1,"Industry, energy and mining"
+infrastructure,TRUE,1,Infrastructure
+interest-payments,TRUE,1,Interest Payments
+local-government-development,TRUE,1,Local Government development
+other,TRUE,1,Other
+security,TRUE,1,Security
+water-and-sanitation,TRUE,1,Water and Sanitation
+cour-supreme,TRUE,2,Cour Suprême
+domestic-interest,TRUE,2,Domestic Interest
+exernal-interest,TRUE,2,Exernal Interest
+ministere-de-lagriculture-et-de-lequipement-rural,TRUE,2,Ministère de l'Agriculture et de l'Equipement Rural
+ministere-de-leducation-nationale,TRUE,2,Ministère de l'Education Nationale
+ministere-de-lelevage-et-des-productions-animales,TRUE,2,Ministère de l'Elevage et des Productions Animales
+ministere-de-lenergie-et-du-developpement-des-energies-renouvelables,TRUE,2,Ministère de l'Energie et du Développement des Energies Renouvelables
+ministere-de-lenseignement-superieur-et-de-la-recherche,TRUE,2,Ministère de l'Enseignement Supérieur et de la Recherche
+ministere-de-lhydraulique-et-de-lassainissement,TRUE,2,Ministère de l'Hydraulique et de l'Assainissement
+ministere-de-lindustrie-et-des-mines,TRUE,2,Ministère de l'Industrie et des Mines
+ministere-de-linterieur-et-de-la-securite-publique,TRUE,2,Ministère de l'Intérieur et de la sécurité publique
+ministere-de-la-formation-professionnelle-de-lapprentissage-et-de-lartisanat,TRUE,2,"Ministere de la formation professionnelle, de l'apprentissage et de l'artisanat"
+ministere-de-la-gouvernance-locale-du-developpement-et-de-lamenagement-du-territoire,TRUE,2,"Ministère de la Gouvernance Locale, du Développement et de l'Aménagement du Territoire"
+ministere-de-la-justice,TRUE,2,Ministère de la Justice
+ministere-de-la-peche-et-des-affaires-maritimes,TRUE,2,Ministère de la Pêche et des Affaires Maritimes
+ministere-de-la-promotion-des-investissements-des-partenariats-et-du-developpement-des-teleservices-de-letat,TRUE,2,"Ministère de la Promotion des investissements, des partenariats et du développement des Téléservices de l'Etat"
+ministere-de-la-sante-et-de-laction-sociale,TRUE,2,Ministère de la Santé et de l'Action Sociale
+ministere-des-forces-armees,TRUE,2,Ministère des Forces Armées
+ministere-des-infrastructures-des-transports-terrestres-et-du-desenclavement,TRUE,2,"Ministère des Infrastructures, des Transports Terrestres et du Désenclavement"
+ministere-des-postes-et-des-telecommunications,TRUE,2,Ministère des Postes et des Télécommunications
+ministere-du-tourisme-et-des-transports-aeriens,TRUE,2,Ministère du Tourisme et des Transports Aériens
+capital,TRUE,3,Capital
+recurrent,TRUE,3,Recurrent
+external-funded-grants,TRUE,4,External funded grants
+external-funded-loans,TRUE,4,External funded loans
+government-funded,TRUE,4,Government funded
+non-wage,TRUE,4,non-wage
+wage,TRUE,4,Wage
