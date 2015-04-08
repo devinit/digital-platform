@@ -1,11 +1,11 @@
 id,name,dac-continent-code,dac-continent,dac-id,color
-europe,Europe,89,Europe,89,#EA7600
-north-of-sahara,Africa (North of Sahara),298,Africa,189,#93328E
-south-of-sahara,Africa (South of Sahara),298,Africa,289,#1B365D
-north-central-america,America (North & Central America),498,America,389,#0095CB
-south-america,America (South America),498,America,489,#B7BF10
-middle-east,Asia (Middle East Asia),798,Asia,589,#003300
-south-central-asia,Asia (South & Central Asia),798,Asia,689,#BA0C2F
-east-asia,Asia (Far East Asia),798,Asia,789,#BA0000
-oceania,Oceania,889,Oceania,889,#999900
-unspecified,Unspecified,999,Unspecified,999,#999999
+europe,Europe,89,Europe,89,blue-high
+north-of-sahara,North Africa,298,Africa,189,yellow-high
+south-of-sahara,Sub-Saharan Africa,298,Africa,289,red-high
+north-central-america,North & Central America,498,America,389,lightblue-high
+south-america,South America,498,America,489,purple-high
+middle-east,Middle East,798,Asia,589,black-high
+south-central-asia,South & Central Asia,798,Asia,689,lightblue-mid
+east-asia,East Asia,798,Asia,789,orange-high
+oceania,Oceania,889,Oceania,889,white-high
+unspecified,Unspecified,999,Unspecified,999,grey-mid

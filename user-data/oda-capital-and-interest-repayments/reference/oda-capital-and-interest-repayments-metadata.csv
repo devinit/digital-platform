@@ -1,0 +1,23 @@
+"series","country-year"
+"id","oda-capital-and-interest-repayments"
+"type","composite"
+"parent",
+"name","ODA capital & interest repayments"
+"columns","id-from, id-to, year, capital-repayment, interest-repayment"
+"description","Bilateral data on ODA loan repayments, bot capital and interest"
+"default-scale",
+"theme",
+"theme-order",
+"global-picture-color-ramp",
+"uom","USD"
+"uom_display","USD"
+"source","OECD"
+"calculation",
+"format",
+"highorlow",
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",

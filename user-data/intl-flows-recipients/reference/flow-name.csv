@@ -1,33 +1,33 @@
-id,flow-category,name,color,description,source
-dfis-in,DFIs,Development Finance Institutions,#93328E,Disbursements from Development Finance Insitutions (excluding disbursements recorded as ODA or OOFs),Development Initiatives
-dfis-out,DFIs,Development Finance Institutions,#93328E,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),Development Initiatives
-fdi-in,FDI,Foreign Direct Investment,#EA7600,Net inflows of foreign direct investment (new investments minus disinvestment),UNCTAD
-fdi-in-profits-out,FDI,Profits on FDI,#EA7601,Outflows of profits on foreign direct investment,World Bank
-fdi-out,FDI,Foreign Direct Investment,#EA7602,Net outflows of foreign direct investment (new investments minus disinvestment),
-fdi-devcountries,FDI,Foreign Direct Investment,#EA7603,Foreign direct investment in developing countries,UNCTAD
-illicit-financing-out,Illicit finance,Illicit Finance,#73532C,Estimates of illicit finance outflows,Global Financial Integrity program
-long-debt-capital-payments-out,Long-debt,Capital repayments on long-term debt,#0095C10,Capital repayments on long-term debt,World Bank International Debt Statistics
-long-debt-disbursement-in,Long-debt,Long-term debt (commercial sources),#0095C11,Disbursments of long-term debt from commercial creditors,World Bank International Debt Statistics
-long-debt-interest-payments-out,Long-debt,Interest payments on long-term debt,#0095C12,Interest payments on long-term debt,World Bank International Debt Statistics
-long-debt-net-official-in,Long-debt,Long-term debt (official sources),#0095C13,"Disbursments of long-term debt from official creditors, excluding disbursements reported as ODA or OOFs",World Bank International Debt Statistics
-oda-capital-payments-out,ODA,Capital repayments on ODA loans,#BA0C2F,,OECD DAC
-oda-in,ODA,Official development assistance,#BA0C2F,,OECD DAC
-oda-interest-payments-out,ODA,Interest payments on ODA loans,#BA0C2F,,OECD DAC
-oda-out,ODA,Official development assistance,#BA0C2F,Official development assistance,OECD DAC
-oda-capital-repay,ODA,Official development assistance,#BA0C2F,Receipt of capital repayments on ODA loans,OECD DAC
-oda-interest,ODA,Official development assistance,#BA0C2F,Receipt of interest payments on ODA loans,OECD DAC
-oofs-capital-payments-out,OOFs,Capital repayments on OOFs loans,#0095C8,,OECD DAC
-oofs-in,OOFs,Other official flows,#0095C9,,OECD DAC
-oofs-interest-payments-out,OOFs,Interest payments on OOFs loans,#0095C10,,OECD DAC
-oofs-out,OOFs,Other official flows,#0095C11,Other official flows,OECD DAC
-oofs-capital-repay,OOFs,Other official flows,#0095C12,Receipt of capital repayments on OOF loans,OECD DAC
-oofs-interest,OOFs,Other official flows,#0095C13,Receipt of interest payments on OOF loans,OECD DAC
-pda-in,PDA,Private development assistance,#C377D1,,Development Initiatives
-net-portfolio-equity-in,Portfolio-equity,Portfolio equity,#EAF157,,
-remittances-in,Remittances,Remittances,#1B365D,,World Bank Migration and Remittances Factbook
-remittances-out,Remittances,Remittances,#1B365D,,World Bank Migration and Remittances Factbook
-remittances-devcountries,Remittances,Remittances,#1B365D,Remittances to developing countries,World Bank Migration and Remittances Factbook
-short-debt-interest-out,Short-debt,Interest payments on short-term debt,#C5CC40,,World Bank International Debt Statistics
-short-debt-net-flow-in,Short-debt,Short-term debt,#C5CC41,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),World Bank International Debt Statistics
-ssc-in,SSC,South-south cooperation,#BFBFBF,,Development Initiatives calculations; OECD DAC
-trade-mispricing-out,Trade-mispricing,Trade mispricing,#D17778,,Global Financial Integrity program
+id,flow-category,name,colour,description,source
+dfis-in,DFIs,Development Finance Institutions,purple-high,Disbursements from Development Finance Insitutions (excluding disbursements recorded as ODA or OOFs),Development Initiatives
+dfis-out,DFIs,Development Finance Institutions,purple-high,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),Development Initiatives
+fdi-in,FDI,Foreign Direct Investment,orange-high,Net inflows of foreign direct investment (new investments minus disinvestment),UNCTAD
+fdi-in-profits-out,FDI,Profits on FDI,orange-high,Outflows of profits on foreign direct investment,World Bank
+fdi-out,FDI,Foreign Direct Investment,orange-high,Net outflows of foreign direct investment (new investments minus disinvestment),
+fdi-devcountries,FDI,Foreign Direct Investment,orange-high,Foreign direct investment in developing countries,UNCTAD
+illicit-financing-out,Illicit finance,Illicit Finance,darkorange-high,Estimates of illicit finance outflows,Global Financial Integrity program
+long-debt-capital-payments-out,Long-debt,Capital repayments on long-term debt,darklightblue-high,Capital repayments on long-term debt,World Bank International Debt Statistics
+long-debt-disbursement-in,Long-debt,Long-term debt (commercial sources),darklightblue-high,Disbursments of long-term debt from commercial creditors,World Bank International Debt Statistics
+long-debt-interest-payments-out,Long-debt,Interest payments on long-term debt,darklightblue-high,Interest payments on long-term debt,World Bank International Debt Statistics
+long-debt-net-official-in,Long-debt,Long-term debt (official sources),darklightblue-high,"Disbursments of long-term debt from official creditors, excluding disbursements reported as ODA or OOFs",World Bank International Debt Statistics
+oda-capital-payments-out,ODA,Capital repayments on ODA loans,red-high,,OECD DAC
+oda-in,ODA,Official development assistance,red-high,,OECD DAC
+oda-interest-payments-out,ODA,Interest payments on ODA loans,red-high,,OECD DAC
+oda-out,ODA,Official development assistance,red-high,Official development assistance,OECD DAC
+oda-capital-repay,ODA,Official development assistance,red-high,Receipt of capital repayments on ODA loans,OECD DAC
+oda-interest,ODA,Official development assistance,red-high,Receipt of interest payments on ODA loans,OECD DAC
+oofs-capital-payments-out,OOFs,Capital repayments on OOFs loans,lightblue-high,,OECD DAC
+oofs-in,OOFs,Other official flows,lightblue-high,,OECD DAC
+oofs-interest-payments-out,OOFs,Interest payments on OOFs loans,lightblue-high,,OECD DAC
+oofs-out,OOFs,Other official flows,lightblue-high,Other official flows,OECD DAC
+oofs-capital-repay,OOFs,Other official flows,lightblue-high,Receipt of capital repayments on OOF loans,OECD DAC
+oofs-interest,OOFs,Other official flows,lightblue-high,Receipt of interest payments on OOF loans,OECD DAC
+pda-in,PDA,Private development assistance,purple-mid,,Development Initiatives
+net-portfolio-equity-in,Portfolio-equity,Portfolio equity,yellow-mid,,
+remittances-in,Remittances,Remittances,blue-high,,World Bank Migration and Remittances Factbook
+remittances-out,Remittances,Remittances,blue-high,,World Bank Migration and Remittances Factbook
+remittances-devcountries,Remittances,Remittances,blue-high,Remittances to developing countries,World Bank Migration and Remittances Factbook
+short-debt-interest-out,Short-debt,Interest payments on short-term debt,yellow-high,,World Bank International Debt Statistics
+short-debt-net-flow-in,Short-debt,Short-term debt,yellow-high,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),World Bank International Debt Statistics
+ssc-in,SSC,South-south cooperation,grey-mid,,Development Initiatives calculations; OECD DAC
+trade-mispricing-out,Trade-mispricing,Trade mispricing,red-mid,,Global Financial Integrity program
