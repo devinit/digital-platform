@@ -1,0 +1,23 @@
+"series","country-year"
+"id","oda-capital-repayments"
+"type","composite"
+"parent",
+"name","ODA capital repayments"
+"columns","id-from, id-to, year, value"
+"description","Bilateral data on capital repayments on ODA loans"
+"default-scale","lin"
+"theme",
+"theme-order",
+"global-picture-color-ramp",
+"uom","USD"
+"uom_display","USD"
+"source","OECD"
+"calculation",
+"format",
+"highorlow",
+"range",
+"interpolated",
+"missing-donor","NA"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",

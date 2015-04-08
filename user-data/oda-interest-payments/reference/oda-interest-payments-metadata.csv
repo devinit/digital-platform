@@ -1,11 +1,11 @@
 "series","country-year"
-"id","oda-capital-and-interest-repayments"
+"id","oda-interest-payments"
 "type","composite"
 "parent",
-"name","ODA capital & interest repayments"
-"columns","id-from, id-to, year, capital-repayment, interest-repayment"
-"description","Bilateral data on ODA loan repayments, bot capital and interest"
-"default-scale",
+"name","ODA interest payments"
+"columns","id-from, id-to, year, value"
+"description","Bilateral data on interest payments on ODA loans"
+"default-scale","lin"
 "theme",
 "theme-order",
 "global-picture-color-ramp",
