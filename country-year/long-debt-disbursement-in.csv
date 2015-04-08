@@ -1,4 +1,4 @@
-id-to,year,destination-institution-type,creditor-type,creditor-institution,financing-type,value (negative observations set to zero)
+id-to,year,destination-institution-type,creditor-type,creditor-institution,financing-type,value
 AE,2000,png,private,private,bonds,
 AE,2000,png,private,private,commercial-banking,
 AE,2000,ppg,private,private,bonds,
@@ -5175,7 +5175,7 @@ HU,2012,ppg,private,private,bonds,11691539000
 HU,2012,ppg,private,private,commercial-banking,2471000
 HU,2012,ppg,private,private,other-private,0
 HU,2013,png,private,private,bonds,1408648581
-HU,2013,png,private,private,commercial-banking,1.16955E+11
+HU,2013,png,private,private,commercial-banking,1.17E+11
 HU,2013,ppg,private,private,bonds,4378606067
 HU,2013,ppg,private,private,commercial-banking,261428791.1
 HU,2013,ppg,private,private,other-private,0
