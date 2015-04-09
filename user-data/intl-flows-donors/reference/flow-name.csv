@@ -30,4 +30,5 @@ remittances-devcountries,Remittances,Remittances,blue-high,Remittances to develo
 short-debt-interest-out,Short-debt,Interest payments on short-term debt,yellow-high,,World Bank International Debt Statistics
 short-debt-net-flow-in,Short-debt,Short-term debt,yellow-high,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),World Bank International Debt Statistics
 ssc-in,SSC,South-south cooperation,grey-mid,,Development Initiatives calculations; OECD DAC
+ssc-out,SSC,South-south cooperation,grey-mid,Estimates of south-south cooperation,Development Initiatives calculations based on national sources
 trade-mispricing-out,Trade-mispricing,Trade mispricing,red-mid,,Global Financial Integrity program

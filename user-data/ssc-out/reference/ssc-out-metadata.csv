@@ -1,0 +1,24 @@
+"series","country-year"
+"id","ssc-out"
+"type","simple"
+"parent",
+"name","South-south cooperation"
+"columns","id-from, year, financing-type, value"
+"description","South-south cooperation"
+"default-scale","lin"
+"themes",
+"map-theme",
+"theme-order",
+"global-picture-color-ramp",
+"uom","USD"
+"uom_display","USD"
+"source","Development Initiatives calculations based on national sources. India: Ministry of Finance, Union Budget of India; Mexico: AMEXCID; South Africa: Ministry of Finance, Estimates of National Expenditures."
+"calculation",
+"format",
+"highorlow",
+"range",
+"interpolated",
+"missing-donor","NR"
+"missing-recipient","NA"
+"laymans-decription",
+"laymans-heading",
