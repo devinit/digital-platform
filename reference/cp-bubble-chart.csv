@@ -2,6 +2,7 @@ theme,axis,indicator,name
 poverty,y-axis,poor-people,Number of people living in extreme poverty
 poverty,y-axis,poverty-125,% of population living on less than $1.25 a day
 poverty,x-axis,govtspend-pc,Government spending per person (2011 PPP$)
+poverty,x-axis,gov-rev-pc-gdp,Government revenue as a percent of GDP
 health,y-axis,under-5-mortality,"Under 5 mortality rate (per 1,000 live births)"
 health,y-axis,maternal-mortality,"Maternal mortality rate (per 100,000 live births)"
 health,x-axis,health-pc-transferred-oda,Proportion of transferred ODA spent on health
