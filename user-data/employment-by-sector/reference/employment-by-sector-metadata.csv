@@ -6,7 +6,8 @@
 "columns","id, year, employment-agriculture, employment-industry, employment-services, original-employment-agriculture, original-employment-industry, original-employment-services"
 "description","Percentage employment in agriculture, industry & services"
 "default-scale","lin"
-"theme","employment"
+"themes","employment"
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","percent"

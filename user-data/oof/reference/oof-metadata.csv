@@ -6,7 +6,8 @@
 "columns","year, id-from, id-to, sector, bundle, channel, value"
 "description","Gross OOF"
 "default-scale","lin"
-"theme","official"
+"themes","official"
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","USD"

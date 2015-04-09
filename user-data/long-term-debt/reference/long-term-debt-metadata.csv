@@ -4,9 +4,10 @@
 "parent",
 "name","Long term debt flows"
 "columns","id, year, destination-institution-type, creditor-type, creditor-institution, financing-type, value"
-"description","Long term debt flows: disbursements, debt servicing and interest payments"
+"description","Long term debt flows: gross disbursements, debt servicing and interest payments"
 "default-scale","lin"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","unit"

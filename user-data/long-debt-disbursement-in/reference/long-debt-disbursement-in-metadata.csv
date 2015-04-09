@@ -6,7 +6,8 @@
 "columns","id-to, year, destination-institution-type, creditor-type, creditor-institution, financing-type, value"
 "description","Disbursements on long-term debt from commercial sources"
 "default-scale","lin"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","constant 2012 US$"

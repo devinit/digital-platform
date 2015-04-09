@@ -6,12 +6,13 @@
 "columns","id, year, value","id, name"
 "description","Fragile states classifications in 2014",
 "default-scale","lin",
-"theme","vulnerability",
+"themes","vulnerability",
+"map-theme","vulnerability",
 "theme-order"," 3",
 "global-picture-color-ramp","darkred",
 "uom",,
 "uom_display",,
-"source","Development Initiatives calculations based on the fragile states index","DI"
+"source","Development Initiatives calculations based on the Fragile States Index (Fund for Peace: http://library.fundforpeace.org/fsi)","DI"
 "calculation","Very fragile countries are those that have been considered 'very high warning' for each of the last 10 years and have been considered 'very high alert at least twice; long-term fragile states are those which have been considered 'very high warning' for all of the last 10 years; fragile countries are those considered 'high warning' or above in 2014; improving fragility are those that have been considered fragile in at least 3 of the last 10 years but are no longer fragile",
 "format",,"1(A)"
 "highorlow","lowisbetter",

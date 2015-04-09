@@ -6,7 +6,8 @@
 "columns","id, year, value"
 "description","Proportion of people in each country that are part of the poorest 20% of people worldwide"
 "default-scale","lin"
-"theme","poorest20pct"
+"themes","poorest20pct"
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","percent"

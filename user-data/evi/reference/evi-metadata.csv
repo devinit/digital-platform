@@ -6,7 +6,8 @@
 "columns","id, year, value"
 "description","Economic vulnerability index"
 "default-scale","lin"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","index"

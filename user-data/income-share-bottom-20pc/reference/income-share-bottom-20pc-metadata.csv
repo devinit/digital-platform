@@ -6,7 +6,8 @@
 "columns","id, year, value"
 "description","Share of income of bottom 20% of population"
 "default-scale","lin"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","percent"

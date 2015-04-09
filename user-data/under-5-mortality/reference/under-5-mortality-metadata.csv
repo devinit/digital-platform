@@ -6,7 +6,8 @@
 "columns","id, year, value"
 "description","Under 5 mortality rate (per 1,000 live births)"
 "default-scale","lin"
-"theme","health"
+"themes","health"
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","unit"

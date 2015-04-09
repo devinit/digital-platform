@@ -6,7 +6,8 @@
 "columns","id-from, id-to, year, value"
 "description","Bilateral data on capital repayments on ODA loans"
 "default-scale","lin"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","USD"

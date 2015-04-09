@@ -6,7 +6,8 @@
 "columns","id, year, value"
 "description","Annual percentage growth rate of GDP at market prices based on constant local currency."
 "default-scale","log"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","percent"

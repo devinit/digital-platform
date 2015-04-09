@@ -2,17 +2,18 @@
 "id","dfis-out"
 "type","multi"
 "parent",
-"name","Development Finance Institutions Approvals"
+"name","Development Finance Institutions approvals"
 "columns","id-from, id-to, year, value"
 "description","Approvals by bilateral development finance institutions (excluding those reported as ODA or OOFs)"
 "default-scale","lin"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","constant 2012 US$"
 "uom_display","USD"
 "source","Development Initiatives calculations based on DFIs' annual reports and OECD DAC"
-"calculation","Commitments of ODA and OOFs reported to the OECD DAC are subtracted from totals reported by each institution in their annual reports."
+"calculation","Commitments of ODA and OOFs reported to the OECD DAC are subtracted from totals reported by each institution in their annual reports. Note that data represent approvals/commitments rather than disbursements."
 "format",
 "highorlow",
 "range",
