@@ -6,7 +6,8 @@
 "columns","id, year, out-oof-gross, capital-repayment, interest-repayment"
 "description","Gross OOF disbursed by donors with capital and interest repayments"
 "default-scale","lin"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","USD"

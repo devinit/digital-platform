@@ -6,7 +6,8 @@
 "columns","id, year, population-0-14, population-15-64, population-65-"
 "description","Number of people in each of 3 age bands"
 "default-scale","lin"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","unit"

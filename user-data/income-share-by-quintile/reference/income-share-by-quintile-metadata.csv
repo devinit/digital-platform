@@ -6,7 +6,8 @@
 "columns","id, year, income-share-bottom-20pc, income-share-second-20pc, income-share-third-20pc, income-share-fourth-20pc, income-share-highest-20pc"
 "description","Percentage of income received by each quintile of the population"
 "default-scale","lin"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","percent"

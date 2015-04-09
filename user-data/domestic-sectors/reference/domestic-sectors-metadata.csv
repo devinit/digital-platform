@@ -6,7 +6,8 @@
 "columns","id, year, budget-type,l1,l2,l3,l4,l5,value"
 "description","Something"
 "default-scale","lin"
-"theme",
+"themes","dpf"
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","USD"

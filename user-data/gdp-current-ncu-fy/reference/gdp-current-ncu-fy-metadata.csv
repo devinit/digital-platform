@@ -6,7 +6,8 @@
 "columns","id, year, estimate, value"
 "description","GDP in current National Currency Units as corresponding to Fiscal Year"
 "default-scale","log"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","NCU"

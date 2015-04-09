@@ -6,12 +6,13 @@
 "columns","id, year, value"
 "description","Total government spending, 2012 USD, net of general budget support ODA and disbursements on debt to the public sector"
 "default-scale","log"
-"theme","dpf"
+"themes","dpf"
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","constant 2012 US$ millions"
 "uom_display","USD"
-"source","Development Initiatives, based on IMF WEO, OECD DAC, World Bank"
+"source","Development Initiatives, based on IMF World Economic Outlook, OECD DAC, World Bank"
 "calculation","Calculated from IMF WEO data on government spending as a proportion of GDP. Receipts of general budget support ODA and disbursements on public debt are subtracted from total government spending to avoid double counting when comparing with international resource flows."
 "format",
 "highorlow","highisbetter"

@@ -6,7 +6,8 @@
 "columns","id, year, out-oda-gross, capital-repayment, interest-repayment"
 "description","Gross ODA disbursed by donors with capital and interest repayments"
 "default-scale","lin"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","USD"

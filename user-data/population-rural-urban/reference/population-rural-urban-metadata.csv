@@ -6,7 +6,8 @@
 "columns","id, year, population-rural, population-urban"
 "description","Urban vs rural population level"
 "default-scale","log"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","unit"

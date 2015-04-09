@@ -6,7 +6,8 @@
 "columns","id, year, value"
 "description","GDP (current US$) per capita"
 "default-scale","log"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","USD"

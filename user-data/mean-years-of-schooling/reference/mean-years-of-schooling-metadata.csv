@@ -6,7 +6,8 @@
 "columns","id, year, value"
 "description","Mean years of schooling of adult population"
 "default-scale","lin"
-"theme","education"
+"themes","education"
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","Year"

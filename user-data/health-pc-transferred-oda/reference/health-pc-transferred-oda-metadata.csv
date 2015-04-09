@@ -6,12 +6,13 @@
 "columns","id, year, value"
 "description","Health ODA as a % of total ODA, excluding non-transfer"
 "default-scale","lin"
-"theme","health"
+"themes","health"
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","percent"
 "uom_display","%"
-"source","Development Initiatives based on OECD-DAC data"
+"source","Development Initiatives based on OECD DAC data"
 "calculation",
 "format",
 "highorlow",

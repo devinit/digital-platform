@@ -6,7 +6,8 @@
 "columns","id, year, value, original-value"
 "description","Poverty gap is the mean shortfall from the poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence."
 "default-scale","log"
-"theme",
+"themes",
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","percent"

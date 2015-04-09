@@ -6,7 +6,8 @@
 "columns","id, year, value, original-value"
 "description","% of workforce employed in industry"
 "default-scale","lin"
-"theme","employment"
+"themes","employment"
+"map-theme",
 "theme-order",
 "global-picture-color-ramp",
 "uom","percent"
