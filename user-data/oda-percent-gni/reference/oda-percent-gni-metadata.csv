@@ -2,7 +2,7 @@
 "id","oda-percent-gni"
 "type","simple"
 "parent",
-"name","ODA as a percent of GNI"
+"name","ODA provided as a percent of GNI"
 "columns","id, year, value"
 "description","Gross ODA as a percent of GNI"
 "default-scale","lin"

@@ -2,7 +2,7 @@
 "id","long-debt-disbursement-in"
 "type","multi"
 "parent",
-"name",
+"name","Disbursements of long-term debt from commercial creditors"
 "columns","id-to, year, destination-institution-type, creditor-type, creditor-institution, financing-type, value"
 "description","Disbursements on long-term debt from commercial sources"
 "default-scale","lin"
@@ -12,7 +12,7 @@
 "global-picture-color-ramp",
 "uom","constant 2012 US$"
 "uom_display",
-"source","Development Initiatives based on World Bank International Debt Statistics"
+"source","World Bank International Debt Statistics (http://data.worldbank.org/data-catalog/international-debt-statistics)"
 "calculation",
 "format",
 "highorlow","highisbetter"

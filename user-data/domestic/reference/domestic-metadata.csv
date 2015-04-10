@@ -2,17 +2,17 @@
 "id","domestic"
 "type","multi"
 "parent",
-"name","Domestic finance economic"
+"name","Government finance by economic type"
 "columns","id, year,currency,budget-type,l1,l2,l3,l4,l5,l6,value, value-ncu"
-"description","Something"
+"description","Government finance by economic type"
 "default-scale","lin"
 "themes","dpf"
 "map-theme",
 "theme-order",
 "global-picture-color-ramp",
-"uom","USD"
-"uom_display","USD"
-"source","Development Initiatives based on OECD-DAC data"
+"uom","constant 2012 US$, NCU"
+"uom_display","constant 2012 US$, NCU"
+"source","Development Initiatives based on IMF Staff reports"
 "calculation",
 "format",
 "highorlow",
