@@ -12,8 +12,8 @@
 "global-picture-color-ramp","darkred"
 "uom","unit"
 "uom_display",
-"source","World Bank World Development Indicators"
-"calculation","Total population (from ???) * Percentage of population living in under $1.25 per day (from ???)"
+"source","Development Initiatives calculations based on World Bank data bank and World Development Indicators"
+"calculation","Total population * Percentage of population living in under $1.25 per day"
 "format",
 "highorlow","lowisbetter"
 "range","1000000, 5000000, 10000000, 50000000, 100000000"
