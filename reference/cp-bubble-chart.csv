@@ -6,12 +6,7 @@ poverty,x-axis,gov-rev-pc-gdp,Government revenue as a percent of GDP
 health,y-axis,under-5-mortality,"Under 5 mortality rate (per 1,000 live births)"
 health,y-axis,maternal-mortality,"Maternal mortality rate (per 100,000 live births)"
 health,x-axis,health-pc-transferred-oda,Proportion of transferred ODA spent on health
-health,x-axis,govtspend-health,Government spending on health
+health,x-axis,general-gov-health-exp,Government spending on health
 education,y-axis,primary-school-enrolment,"School enrolment, primary (% net)"
 education,y-axis,mean-years-of-schooling,Mean years of schooling
 education,x-axis,education-pc-transferred-oda,Proportion of transferred ODA spent on education
-education,x-axis,govtspend-education,Government spending on education
-employment,y-axis,total-employment,Total employment %
-employment,y-axis,youth-unemployment,Youth unemployment %
-employment,x-axis,govtspend-pc,Government spending per person (2011 PPP$)
-employment,x-axis,gni-pc-usd-current,Gross National Income Per Capita (current US$)
