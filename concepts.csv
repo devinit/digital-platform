@@ -113,6 +113,7 @@ reference,region,reference,,,"id, name, dac-continent-code, dac-continent, dac-i
 reference,sector,reference,,,"id, name",DI grouping of CRS purpose codes,,,,,,,,DI,,1(A),,,,,,,
 reference,theme,reference,,DI themes,"id, name, default",,,,,,,,,,,,,,,,,,
 reference,color,reference,,Colors,"id, value",,,,,,,,,,,,,,,,,,
+reference,destination-institution-type,reference,,,"id, value",,,,,,,,,,,,,,,,,,
 reference,colorRamp,reference,,Color ramps,"id, high, mid, low",,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-AE,simple,,ODA from United Arab Emirates,"id, year, value",,lin,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-AT,simple,,ODA from Austria,"id, year, value",,lin,,,,,,,,,,,,,,,,
