@@ -1,11 +1,73 @@
 id,sectoral,level,name,color-id
-financing,FALSE,1,Financing,high-purple
-total-expenditure,FALSE,1,Total Expenditure,high-purple
-total-revenue-and-grants,FALSE,1,Total Revenue and Grants,high-purple
-adjustment-for-heavily-indebted-poor-countriesmultilateral-debt-relief-initiative-debt-relief,FALSE,2,Adjustment for Heavily Indebted Poor CountriesMultilateral Debt Relief Initiative Debt Relief,mid-grey
-adjustment-for-net-withheld-adjara-transfers,FALSE,2,Adjustment for Net Withheld Adjara Transfers,mid-grey
+external-finance,FALSE,2,External Finance,blue-high
+external-financing,FALSE,2,External Financing,blue-high
+grants,FALSE,2,Grants,blue-high
+security,TRUE,1,Security,darkblue-high
+interest-payments,TRUE,1,Interest Payments,darklightblue-high
+local-government-development,TRUE,1,Local Government development,darkpurple-high
+infrastructure,TRUE,1,Infrastructure,darkyellow-high
+financing,FALSE,1,Financing,purple-high
+total-expenditure,FALSE,1,Total Expenditure,purple-high
+total-revenue-and-grants,FALSE,1,Total Revenue and Grants,purple-high
+domestic-financing,FALSE,2,Domestic Financing,red-high
+revenue,FALSE,2,Revenue,red-high
+social-protection,TRUE,1,Social Protection,red-high
+water-and-sanitation,TRUE,1,Water and Sanitation,blue-mid
+defence,TRUE,1,Defence,darkorange-mid
+education,TRUE,1,Education,darkpurple-mid
+adjustment-for-heavily-indebted-poor-countriesmultilateral-debt-relief-initiative-debt-relief,FALSE,2,Adjustment for Heavily Indebted Poor CountriesMultilateral Debt Relief Initiative Debt Relief,grey-mid
+adjustment-for-net-withheld-adjara-transfers,FALSE,2,Adjustment for Net Withheld Adjara Transfers,grey-mid
+borrowing,FALSE,2,Borrowing,grey-mid
+cash-basis-adjustment,FALSE,2,Cash Basis Adjustment,grey-mid
+cash-float-and-discrepancy,FALSE,2,Cash Float and Discrepancy,grey-mid
+change-in-arrears,FALSE,2,Change in Arrears,grey-mid
+change-in-social-fund-cash-balance,FALSE,2,Change in Social Fund Cash Balance,grey-mid
+check-float-plus-discrepancy,FALSE,2,Check float Plus Discrepancy,grey-mid
+commercial-borrowing,FALSE,2,Commercial Borrowing,grey-mid
+consolidated-fund,FALSE,2,Consolidated Fund,grey-mid
+consolidated-investment-fund,FALSE,2,Consolidated Investment Fund,grey-mid
+debt-rescheduling,FALSE,2,Debt Rescheduling,grey-mid
+development-fund,FALSE,2,Development Fund,grey-mid
+discrepancy,FALSE,2,Discrepancy,grey-mid
+errors-and-omissions,FALSE,2,Errors and Omissions,grey-mid
+estimated-sustainable-income,FALSE,2,Estimated Sustainable Income,grey-mid
+exceptional-financing,FALSE,2,Exceptional Financing,grey-mid
+heavily-indebted-poor-countries-interim-relief,FALSE,2,Heavily Indebted Poor Countries Interim Relief,grey-mid
+increase-in-expenditure-arrears,FALSE,2,Increase in Expenditure Arrears,grey-mid
+increase-in-principal-debt-arrears,FALSE,2,Increase in Principal Debt Arrears,grey-mid
+net-errors-and-omissions,FALSE,2,Net Errors and Omissions,grey-mid
+oil-bonuses,FALSE,2,Oil Bonuses,grey-mid
+oilgas-revenue-savings,FALSE,2,OilGas Revenue Savings,grey-mid
+other,FALSE,2,Other,grey-mid
+other-expenditure,FALSE,2,Other Expenditure,grey-mid
+other-expenditures,FALSE,2,Other Expenditures,grey-mid
+other-finance,FALSE,2,Other Finance,grey-mid
+other-financing,FALSE,2,Other Financing,grey-mid
+other-sources,FALSE,2,Other Sources,grey-mid
+others,FALSE,2,Others,grey-mid
+paris-club-rescheduling,FALSE,2,Paris Club Rescheduling,grey-mid
+petrocaribe-savings,FALSE,2,Petrocaribe Savings,grey-mid
+possible-financing---excluding-imf,FALSE,2,Possible Financing 2011-14 Excluding Imf,grey-mid
+privatization,FALSE,2,Privatization,grey-mid
+privatization-proceeds,FALSE,2,Privatization Proceeds,grey-mid
+privatization-receipts,FALSE,2,Privatization Receipts,grey-mid
+residual-financing-neederrors-and-omissions,FALSE,2,Residual Financing NeedErrors And Omissions,grey-mid
+residual-gap,FALSE,2,Residual Gap,grey-mid
+restructured-bonds,FALSE,2,Restructured Bonds,grey-mid
+settlement-of-payment-delays,FALSE,2,Settlement of Payment Delays,grey-mid
+stabex-fund,FALSE,2,Stabex Fund,grey-mid
+statistical-discrepancy,FALSE,2,Statistical Discrepancy,grey-mid
+unidentified-financing,FALSE,2,Unidentified Financing,grey-mid
+use-of-cash-balance,FALSE,2,Use Of Cash Balance,grey-mid
+use-of-national-bank-of-the-kyrgyz-republic-investments-abroad,FALSE,2,Use of National Bank of The Kyrgyz Republic Investments Abroad,grey-mid
+withdrawals-above-estimated-sustainable-income,FALSE,2,Withdrawals Above Estimated Sustainable Income,grey-mid
+discrepancy-unexplained,FALSE,3,Discrepancy Unexplained,grey-mid
+other,TRUE,1,Other,grey-mid
+wash,TRUE,1,WASH,lightblue-mid
+industry-energy-and-mining,TRUE,1,"Industry, energy and mining",orange-mid
+health,TRUE,1,Health,purple-mid
+agriculture,TRUE,1,Agriculture,yellow-mid
 banking-system-restructuring,FALSE,2,Banking System Restructuring,
-borrowing,FALSE,2,Borrowing,mid-grey
 budget-support,FALSE,2,Budget Support,
 capita-expenditure,FALSE,2,Capital Expenditure,
 capital,FALSE,2,Capital,
@@ -15,39 +77,18 @@ capital-expenditure,FALSE,2,Capital Expenditure,
 capital-expenditure-and-net-lending,FALSE,2,Capital Expenditure and Net Lending,
 capital-revenue-and-grants,FALSE,2,Capital Revenue and Grants,
 carry-over-expenditure,FALSE,2,Carry Over Expenditure,
-cash-basis-adjustment,FALSE,2,Cash Basis Adjustment,mid-grey
-cash-float-and-discrepancy,FALSE,2,Cash Float and Discrepancy,mid-grey
-change-in-arrears,FALSE,2,Change in Arrears,mid-grey
 change-in-outstanding-letters-of-credit,FALSE,2,Change in Outstanding Letters of Credit,
-change-in-social-fund-cash-balance,FALSE,2,Change in Social Fund Cash Balance,mid-grey
-check-float-plus-discrepancy,FALSE,2,Check float Plus Discrepancy,mid-grey
-commercial-borrowing,FALSE,2,Commercial Borrowing,mid-grey
-consolidated-fund,FALSE,2,Consolidated Fund,mid-grey
-consolidated-investment-fund,FALSE,2,Consolidated Investment Fund,mid-grey
 current-expenditure,FALSE,2,Current Expenditure,
-debt-rescheduling,FALSE,2,Debt Rescheduling,mid-grey
 development-expenditure,FALSE,2,Development Expenditure,
 development-expenditure-and-net-lending,FALSE,2,Development Expenditure And Net Lending,
-development-fund,FALSE,2,Development Fund,mid-grey
-discrepancy,FALSE,2,Discrepancy,mid-grey
 domestic-arrears-payments,FALSE,2,Domestic Arrears Payments,
-domestic-financing,FALSE,2,Domestic Financing,high-red
 donor-project,FALSE,2,Donor Project,
-errors-and-omissions,FALSE,2,Errors and Omissions,mid-grey
-estimated-sustainable-income,FALSE,2,Estimated Sustainable Income,mid-grey
-exceptional-financing,FALSE,2,Exceptional Financing,mid-grey
-external-finance,FALSE,2,External Finance,high-blue
-external-financing,FALSE,2,External Financing,high-blue
 extrabudgetary-expenditure,FALSE,2,Extrabudgetary Expenditure,
 extrabudgetary-funds,FALSE,2,Extrabudgetary Funds,
 federal-government-exoenditure,FALSE,2,Federal Government Expenditure,
 fiji-sugar-corporation-fsc,FALSE,2,Fiji Sugar Corporation Fsc,
 foreign-financed-capital-spending,FALSE,2,Foreign-Financed Capital Spending,
-grants,FALSE,2,Grants,high-blue
 heavily-indebted-poor-countries-initiative-funded-expenditure,FALSE,2,Heavily Indebted Poor Countries Initiative Funded Expenditure,
-heavily-indebted-poor-countries-interim-relief,FALSE,2,Heavily Indebted Poor Countries Interim Relief,mid-grey
-increase-in-expenditure-arrears,FALSE,2,Increase in Expenditure Arrears,mid-grey
-increase-in-principal-debt-arrears,FALSE,2,Increase in Principal Debt Arrears,mid-grey
 interest-due,FALSE,2,Interest Due,
 interest-on-deposits,FALSE,2,Interest on Deposits,
 investment-expenditure,FALSE,2,Investment Expenditure,
@@ -57,53 +98,26 @@ net-acquisition-of-nonfinancial-assets,FALSE,2,Net Acquisition of Nonfinancial A
 net-domestic,FALSE,2,Net Domestic,
 net-domestic-finance,FALSE,2,Net Domestic Finance,
 net-domestic-financing,FALSE,2,Net Domestic Financing,
-net-errors-and-omissions,FALSE,2,Net Errors and Omissions,mid-grey
 net-external-finance,FALSE,2,Net External Finance,
 net-external-financing,FALSE,2,Net External Financing,
 ney-domestic-finance,FALSE,2,Net Domestic Finance,
 official-grants,FALSE,2,Official Grants,
-oil-bonuses,FALSE,2,Oil Bonuses,mid-grey
-oilgas-revenue-savings,FALSE,2,OilGas Revenue Savings,mid-grey
-other,FALSE,2,Other,mid-grey
-other-expenditure,FALSE,2,Other Expenditure,mid-grey
-other-expenditures,FALSE,2,Other Expenditures,mid-grey
-other-finance,FALSE,2,Other Finance,mid-grey
-other-financing,FALSE,2,Other Financing,mid-grey
-other-sources,FALSE,2,Other Sources,mid-grey
-others,FALSE,2,Others,mid-grey
-paris-club-rescheduling,FALSE,2,Paris Club Rescheduling,mid-grey
-petrocaribe-savings,FALSE,2,Petrocaribe Savings,mid-grey
-possible-financing---excluding-imf,FALSE,2,Possible Financing 2011-14 Excluding Imf,mid-grey
-privatization,FALSE,2,Privatization,mid-grey
-privatization-proceeds,FALSE,2,Privatization Proceeds,mid-grey
-privatization-receipts,FALSE,2,Privatization Receipts,mid-grey
 project-loans,FALSE,2,Project Loans,
 public-investment,FALSE,2,Public Investment,
 public-service-restructuring,FALSE,2,Public Service Restructuring,
 recurrent-expenditure,FALSE,2,Recurrent Expenditure,
 recurrent-expenditures,FALSE,2,Recurrent Expenditures,
-residual-financing-neederrors-and-omissions,FALSE,2,Residual Financing NeedErrors And Omissions,mid-grey
-residual-gap,FALSE,2,Residual Gap,mid-grey
-restructured-bonds,FALSE,2,Restructured Bonds,mid-grey
 restructuring-and-net-lending,FALSE,2,Restructuring and Net Lending,
 returned-letters-of-credit,FALSE,2,Returned Letters of Credit,
-revenue,FALSE,2,Revenue,high-red
 revenue-equalization-and-reserve-fund,FALSE,2,Revenue Equalization And Reserve Fund,
 road-fund,FALSE,2,Road Fund,
-settlement-of-payment-delays,FALSE,2,Settlement of Payment Delays,mid-grey
 special-funds-and-annexed-budgets,FALSE,2,Special Funds and Annexed Budgets,
 spending-from-excess-crude-account-sovereign-wealth-fund,FALSE,2,Spending From Excess Crude Account /Sovereign Wealth Fund,
 spending-from-excess-crude-account-sovereign-wealth-fund,FALSE,2,Spending From Excess Crude Account Sovereign Wealth Fund,
-stabex-fund,FALSE,2,Stabex Fund,mid-grey
 state-and-local-government,FALSE,2,State and Local Government,
-statistical-discrepancy,FALSE,2,Statistical Discrepancy,mid-grey
 total-grants,FALSE,2,Total Grants,
 transfers-to-local-governments,FALSE,2,Transfers to Local Governments,
 unidentified-expenditure,FALSE,2,Unidentified Expenditure,
-unidentified-financing,FALSE,2,Unidentified Financing,mid-grey
-use-of-cash-balance,FALSE,2,Use Of Cash Balance,mid-grey
-use-of-national-bank-of-the-kyrgyz-republic-investments-abroad,FALSE,2,Use of National Bank of The Kyrgyz Republic Investments Abroad,mid-grey
-withdrawals-above-estimated-sustainable-income,FALSE,2,Withdrawals Above Estimated Sustainable Income,mid-grey
 accounts-payable,FALSE,3,Accounts Payable,
 accumulation-of-arrears,FALSE,3,Accumulation of Arrears,
 accumulation-of-external-arrears,FALSE,3,Accumulation of External Arrears,
@@ -203,7 +217,6 @@ deposits,FALSE,3,Deposits,
 development-capital,FALSE,3,Development Capital,
 disbursement,FALSE,3,Disbursement,
 disbursements,FALSE,3,Disbursements,
-discrepancy-unexplained,FALSE,3,Discrepancy Unexplained,mid-grey
 domestic,FALSE,3,Domestic,
 domestic-arrears,FALSE,3,Domestic Arrears,
 domestic-bank-financing,FALSE,3,Domestic Bank Financing,
@@ -940,19 +953,6 @@ other-internal-indirect-taxes,FALSE,6,Other Internal Indirect Taxes,
 pensions-for-defense-and-civil-government,FALSE,6,Pensions for defense and civil government,
 running-of-the-civil-government,FALSE,6,Running of the civil government,
 subsidies,FALSE,6,Subsidies,
-agriculture,TRUE,1,Agriculture,mid-yellow
-defence,TRUE,1,Defence,mid-darkorange
-education,TRUE,1,Education,mid-darkpurple
-health,TRUE,1,Health,mid-purple
-industry-energy-and-mining,TRUE,1,"Industry, energy and mining",mid-orange
-infrastructure,TRUE,1,Infrastructure,high-darkyellow
-interest-payments,TRUE,1,Interest Payments,high-darklightblue
-local-government-development,TRUE,1,Local Government development,high-darkpurple
-other,TRUE,1,Other,mid-grey
-security,TRUE,1,Security,high-darkblue
-social-protection,TRUE,1,Social Protection,high-red
-wash,TRUE,1,WASH,mid-lightblue
-water-and-sanitation,TRUE,1,Water and Sanitation,mid-blue
 community-mobilisation-and-empowerment---district-governments,TRUE,2,Community Mobilisation and Empowerment - District Governments,
 cour-supreme,TRUE,2,Cour Supreme,
 domestic-interest,TRUE,2,Domestic Interest,
