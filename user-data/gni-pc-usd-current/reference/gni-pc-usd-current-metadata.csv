@@ -12,8 +12,8 @@
 "global-picture-color-ramp",
 "uom","USD"
 "uom_display","USD"
-"source",
-"calculation","GNI/Population-total"
+"source","World Bank World Development Indicators"
+"calculation","Total GNI divided by the population of each country in each year"
 "format",
 "highorlow","highisbetter"
 "range",

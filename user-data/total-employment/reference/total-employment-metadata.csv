@@ -13,7 +13,7 @@
 "uom","percent"
 "uom_display","%"
 "source","World Bank World Development Indicators"
-"calculation","100%-total-employment"
+"calculation","100% minus total unemployment"
 "format",
 "highorlow","highisbetter"
 "range",

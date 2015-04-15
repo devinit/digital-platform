@@ -2,7 +2,7 @@
 "id","intl-flows-donors-wide"
 "type","composite"
 "parent","intl-flows-donors"
-"name","International resources flows from donors to developing countries"
+"name","International resource flows to developing countries"
 "columns","id, year, dfis-out, fdi-out, oda-capital-repay,oda-interest,oda-out,oofs-capital-repay,oofs-interest,oofs-out,remittances-devcountries"
 "description","Estimates of resources flowing to and from developing countries"
 "default-scale","lin"

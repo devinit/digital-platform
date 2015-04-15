@@ -16,7 +16,7 @@
 "calculation",
 "format",
 "highorlow","highisbetter"
-"range","0.02, 0.04, 0.08, 0.16"
+"range","0.02, 0.04, 0.08, 0.15, 0.2"
 "interpolated",
 "missing-donor","NA"
 "missing-recipient","NR"

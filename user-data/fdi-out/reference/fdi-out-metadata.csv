@@ -14,7 +14,7 @@
 "uom_display",
 "source","Development Initiatives based on numerous sources. Bilateral FDI data source: OECD FDI by partner database (https://stats.oecd.org/Index.aspx?DataSetCode=FDI_FLOW_PARTNER). 
 Financing-type data sources: Denmark - Denmark NationalBank ((data cover Danish investment in Africa, Turkey, Mexico, Argentina, Brazil, India, China, Malaysia and Thailand); France - Banque de France (data cover French investment in 43 developing countries that account for around 97% of French investment in all developing countries); Germany - Deutche Bundesbank (data cover German investment in 22 developing countries that represent around 60% of German FDI to developing countries); UK - Office of National Statistics (data cover UK investment in Africa, Brazil, Chile, Colombia, Mexico, Panama, China, India, Indonesia, Malaysia and Thailand); US - Bureau of Economic Analysis."
-"calculation","Note that negative values (representing disinvestment) are excluded here."
+"calculation","Note that negative values, which occur when disinvestments exceed new investments, are excluded here."
 "format",
 "highorlow",
 "range",
