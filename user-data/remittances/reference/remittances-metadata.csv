@@ -12,7 +12,7 @@
 "global-picture-color-ramp",
 "uom","USD"
 "uom_display","USD"
-"source","Development Initiatives calculations based on World Bank (http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTDECPROSPECTS/0,,contentMDK:22759429~pagePK:64165401~piPK:64165026~theSitePK:476883,00.html)"
+"source","Development Initiatives calculations based on World Bank estimates (Migration and Remittances Factbook)"
 "calculation",
 "format",
 "highorlow","highisbetter"

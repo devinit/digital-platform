@@ -2,7 +2,7 @@
 "id","in-oda-net"
 "type","simple"
 "parent",
-"name","Net Official Development Assistance receipts"
+"name","Net Official Development Assistance received"
 "columns","id, year, value"
 "description","Net ODA received by each recipient country"
 "default-scale","lin"

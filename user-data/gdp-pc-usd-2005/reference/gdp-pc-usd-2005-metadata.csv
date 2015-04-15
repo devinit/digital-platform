@@ -12,8 +12,8 @@
 "global-picture-color-ramp",
 "uom","USD"
 "uom_display","USD"
-"source",
-"calculation","gdp-usd-2005/population-total"
+"source","Development Initiatives calculations based on World Bank World Development Indicators"
+"calculation","Total GDP divided by the population of each country in each year"
 "format",
 "highorlow","highisbetter"
 "range",

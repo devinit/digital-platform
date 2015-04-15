@@ -2,7 +2,7 @@
 "id","in-oof-gross"
 "type","simple"
 "parent",
-"name","Gross Other Official Flows receipts"
+"name","Gross Other Official Flows received"
 "columns","id, year, value"
 "description","Gross OOF received by each recipient country"
 "default-scale","lin"
