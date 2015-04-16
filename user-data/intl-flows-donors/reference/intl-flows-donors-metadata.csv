@@ -2,7 +2,7 @@
 "id","intl-flows-donors"
 "type","multi"
 "parent",
-"name","International resources flows from donors to developing countries"
+"name","International resource flows to developing countries"
 "columns","id, year, direction, flow-type, flow-name, value"
 "description","Estimates of resources flowing to and from developing countries"
 "default-scale","lin"
