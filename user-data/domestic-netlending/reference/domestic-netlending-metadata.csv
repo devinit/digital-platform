@@ -1,24 +1,24 @@
-"series",
-"id",
-"type",
+"series","country-year"
+"id","domestic-netlending"
+"type","multi"
 "parent",
-"name",
-"columns",
-"description",
-"default-scale",
-"themes",
+"name","Government finance by economic type (with reported net-lending values)"
+"columns","id, year,currency,budget-type,l1,l2,l3,l4,l5,l6,value, value-ncu"
+"description","Government finance by economic type with net lending values as reported by recipient"
+"default-scale","lin"
+"themes","dpf"
 "map-theme",
 "theme-order",
 "global-picture-color-ramp",
-"uom",
-"uom_display",
-"source",
+"uom","constant 2012 US$, NCU"
+"uom_display","constant 2012 US$, NCU"
+"source","Development Initiatives based on IMF Staff reports"
 "calculation",
 "format",
 "highorlow",
 "range",
 "interpolated",
-"missing-donor",
-"missing-recipient",
+"missing-donor","NR"
+"missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
