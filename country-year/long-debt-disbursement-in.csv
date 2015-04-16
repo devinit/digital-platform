@@ -1,4 +1,4 @@
-id-to,year,destination-institution-type,creditor-type,creditor-institution,financing-type,value (negative observations set to zero)
+id-to,year,destination-institution-type,creditor-type,creditor-institution,financing-type,value
 AE,2000,png,private,private,bonds,
 AE,2000,png,private,private,commercial-banking,
 AE,2000,ppg,private,private,bonds,
