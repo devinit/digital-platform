@@ -1,5 +1,5 @@
-id,name,description
-ldcs,LDCs,Least developed countries
-lmics,LMICs,Lower-middle income countries
-other-lics,Other LICs,Other low-income countries
-umics,UMICs,Upper-middle income countries
+id,name,description,color-id
+ldcs,LDCs,Least developed countries,red-high
+lmics,LMICs,Lower-middle income countries,yellow-high
+other-lics,Other LICs,Other low-income countries,orange-high
+umics,UMICs,Upper-middle income countries,blue-high
