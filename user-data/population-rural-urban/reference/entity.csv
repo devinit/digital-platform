@@ -29,11 +29,11 @@ BM,country,Bermuda,north-central-america,BM,BMU,,bermuda,BM,,,Bermuda
 BN,country,Brunei Darussalam,south-central-asia,BN,BRN,,brunei,BN,,,Brunei
 BO,country,"Bolivia, Plurinational State of",south-america,BO,BOL,lmics,bolivia,BO,recipient,1,Bolivia 
 BQ,country,"Bonaire, Sint Eustatius and Saba",north-central-america,BQ,BES,,bes-islands,BQ,,,BES Islands
-BR,country,Brazil,south-america,BR,BRA,umics,brazil,BR,crossover,,Brazil
+BR,country,Brazil,south-america,BR,BRA,umics,brazil,BR,crossover,1,Brazil
 BS,country,Bahamas,north-central-america,BS,BHS,,bahamas,BS,,,Bahamas
 BT,country,Bhutan,south-central-asia,BT,BTN,ldcs,bhutan,BT,recipient,1,Bhutan
 BV,country,Bouvet Island,unspecified,BV,BVT,,bouvet-island,BV,,,Bouvet Island
-BW,country,Botswana,south-of-sahara,BW,BWA,umics,botswana,BW,recipient,,Botswana
+BW,country,Botswana,south-of-sahara,BW,BWA,umics,botswana,BW,recipient,1,Botswana
 BY,country,Belarus,europe,BY,BLR,umics,belarus,BY,recipient,,Belarus
 BZ,country,Belize,north-central-america,BZ,BLZ,lmics,belize,BZ,recipient,1,Belize
 CA,country,Canada,north-central-america,CA,CAN,,canada,CA,donor,,Canada
@@ -46,7 +46,7 @@ CI,country,Côte d'Ivoire,south-of-sahara,CI,CIV,lmics,cote-divoire,CI,recipient
 CK,country,Cook Islands,oceania,CK,COK,umics,cook-islands,CK,recipient,,Cook Islands
 CL,country,Chile,south-america,CL,CHL,umics,chile,CL,recipient,,Chile
 CM,country,Cameroon,south-of-sahara,CM,CMR,lmics,cameroon,CM,recipient,1,Cameroon
-CN,country,China,east-asia,CN,CHN,umics,china,CN,crossover,,China
+CN,country,China,east-asia,CN,CHN,umics,china,CN,crossover,1,China
 CO,country,Colombia,south-america,CO,COL,umics,colombia,CO,recipient,,Colombia
 CR,country,Costa Rica,north-central-america,CR,CRI,umics,costa-rica,CR,recipient,,Costa Rica
 CU,country,Cuba,north-central-america,CU,CUB,umics,cuba,CU,recipient,,Cuba
@@ -60,7 +60,7 @@ DJ,country,Djibouti,south-of-sahara,DJ,DJI,ldcs,djibouti,DJ,recipient,1,Djibouti
 DK,country,Denmark,europe,DK,DNK,,denmark,DK,donor,,Denmark
 DM,country,Dominica,north-central-america,DM,DMA,umics,dominica,DM,recipient,,Dominica
 DO,country,Dominican Republic,north-central-america,DO,DOM,umics,dominican-republic,DO,recipient,,Dominican Republic
-DZ,country,Algeria,north-of-sahara,DZ,DZA,umics,algeria,DZ,recipient,,Algeria
+DZ,country,Algeria,north-of-sahara,DZ,DZA,umics,algeria,DZ,recipient,1,Algeria
 EC,country,Ecuador,south-america,EC,ECU,umics,ecuador,EC,recipient,,Ecuador
 EE,country,Estonia,europe,EE,EST,,estonia,EE,donor,,Estonia
 EG,country,Egypt,north-of-sahara,EG,EGY,lmics,egypt,EG,recipient,1,Egypt
@@ -74,7 +74,7 @@ FK,country,Falkland Islands (Malvinas),south-america,FK,FLK,,falkland-islands,FK
 FM,country,"Micronesia, Federated States of",oceania,FM,FSM,lmics,micronesia,FM,recipient,1,Micronesia
 FO,country,Faroe Islands,europe,FO,FRO,,faroe-islands,FO,,,Faroe Islands
 FR,country,France,europe,FR,FRA,,france,FR,donor,,France
-GA,country,Gabon,south-of-sahara,GA,GAB,umics,gabon,GA,recipient,,Gabon
+GA,country,Gabon,south-of-sahara,GA,GAB,umics,gabon,GA,recipient,1,Gabon
 GB,country,United Kingdom,europe,GB,GBR,,united-kingdom,GB,donor,,United Kingdom
 GD,country,Grenada,north-central-america,GD,GRD,umics,grenada,GD,recipient,,Grenada
 GE,country,Georgia,south-central-asia,GE,GEO,lmics,georgia,GE,recipient,1,Georgia
@@ -134,7 +134,7 @@ LS,country,Lesotho,south-of-sahara,LS,LSO,ldcs,lesotho,LS,recipient,1,Lesotho
 LT,country,Lithuania,europe,LT,LTU,,lithuania,LT,donor,,Lithuania
 LU,country,Luxembourg,europe,LU,LUX,,luxembourg,LU,donor,,Luxembourg
 LV,country,Latvia,europe,LV,LVA,,latvia,LV,donor,,Latvia
-LY,country,Libya,north-of-sahara,LY,LBY,umics,libya,LY,recipient,,Libya
+LY,country,Libya,north-of-sahara,LY,LBY,umics,libya,LY,recipient,1,Libya
 MA,country,Morocco,north-of-sahara,MA,MAR,lmics,morocco,MA,recipient,1,Morocco
 MC,country,Monaco,europe,MC,MCO,,monaco,MC,,,Monaco
 MD,country,"Moldova, Republic of",europe,MD,MDA,lmics,moldova,MD,recipient,1,Moldova
@@ -158,7 +158,7 @@ MW,country,Malawi,south-of-sahara,MW,MWI,ldcs,malawi,MW,recipient,1,Malawi
 MX,country,Mexico,north-central-america,MX,MEX,umics,mexico,MX,recipient,,Mexico
 MY,country,Malaysia,east-asia,MY,MYS,umics,malaysia,MY,recipient,,Malaysia
 MZ,country,Mozambique,south-of-sahara,MZ,MOZ,ldcs,mozambique,MZ,recipient,1,Mozambique
-NA,country,Namibia,south-of-sahara,NA,NAM,umics,namibia,NA,recipient,,Namibia
+NA,country,Namibia,south-of-sahara,NA,NAM,umics,namibia,NA,recipient,1,Namibia
 NC,country,New Caledonia,oceania,NC,NCL,,new-caledonia,NC,,,New Caledonia
 NE,country,Niger,south-of-sahara,NE,NER,ldcs,niger,NE,recipient,1,Niger
 NF,country,Norfolk Island,oceania,NF,NFK,,norfolk-island,NF,,,Norfolk Island
@@ -244,9 +244,9 @@ VU,country,Vanuatu,oceania,VU,VUT,ldcs,vanuatu,VU,recipient,1,Vanuatu
 WF,country,Wallis and Futuna,oceania,WF,WLF,umics,wallis-and-futuna,WF,recipient,,Wallis and Futuna
 WS,country,Samoa,oceania,WS,WSM,ldcs,samoa,WS,recipient,1,Samoa
 XK,country,Kosovo,europe,XK,XKS,lmics,kosovo,XK,recipient,1,Kosovo
-YE,country,Yemen,middle-east,YE,YEM,ldcs,yemen,YE,recipient,,Yemen
+YE,country,Yemen,middle-east,YE,YEM,ldcs,yemen,YE,recipient,1,Yemen
 YT,country,Mayotte,south-of-sahara,YT,MYT,,mayotte,YT,recipient,,Mayotte
-ZA,country,South Africa,south-of-sahara,ZA,ZAF,umics,south-africa,ZA,crossover,,South Africa
+ZA,country,South Africa,south-of-sahara,ZA,ZAF,umics,south-africa,ZA,crossover,1,South Africa
 ZM,country,Zambia,south-of-sahara,ZM,ZMB,ldcs,zambia,ZM,recipient,1,Zambia
 ZW,country,Zimbabwe,south-of-sahara,ZW,ZWE,other-lics,zimbabwe,ZW,recipient,1,Zimbabwe
 EU,organisation,European Union,europe,,,,european-union,EU,multilateral,,European Union
