@@ -7,8 +7,8 @@
 "description","Average income ($PPP) of people living on less than $1.25/day)"
 "default-scale","lin"
 "themes","poorest20pct"
-"map-theme","poorest20pct"
-"theme-order","3"
+"map-theme",
+"theme-order",
 "global-picture-color-ramp","darkred"
 "uom","USD"
 "uom_display","USD"
