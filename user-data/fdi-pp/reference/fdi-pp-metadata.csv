@@ -15,7 +15,7 @@
 "source","Development Initiatives calculations based on UNCTAD Stat and World Bank"
 "calculation","Net inflows of foreign direct investment divided by the total population of each country"
 "format",
-"highorlow","highisbetter"
+"highorlow","lowisbetter"
 "range","100, 200, 500, 1000, 2000"
 "interpolated",
 "missing-donor","NR"

@@ -15,7 +15,7 @@
 "source","Development Initiatives based on OECD-DAC data"
 "calculation",
 "format",
-"highorlow","highisbetter"
+"highorlow","lowisbetter"
 "range","0.02, 0.04, 0.08, 0.15, 0.2"
 "interpolated",
 "missing-donor","NA"

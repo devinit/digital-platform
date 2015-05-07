@@ -3,7 +3,7 @@
 "type","multi"
 "parent",
 "name","Government expenditure by sector"
-"columns","id, year, currency, budget-type,l1,l2,l3,l4,l5,l6,value,value-ncu"
+"columns","id, year, budget-type,l1,l2,l3,l4,l5,l6,value,value-ncu"
 "description","Government expenditure by sector"
 "default-scale","lin"
 "themes","dpf"
