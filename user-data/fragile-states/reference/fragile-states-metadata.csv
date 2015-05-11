@@ -12,7 +12,7 @@
 "global-picture-color-ramp","darkorange",
 "uom",,
 "uom_display",,
-"source","Development Initiatives calculations based on the Fragile States Index (Fund for Peace: http://library.fundforpeace.org/fsi)","DI"
+"source","Development Initiatives calculations based on the <a href=\"http://library.fundforpeace.org/fsi\">Fund For Peace Fragile states index</a>","DI"
 "calculation","Very fragile countries are those that have been considered 'very high warning' for each of the last 10 years and have been considered 'very high alert at least twice; long-term fragile states are those which have been considered 'very high warning' for all of the last 10 years; fragile countries are those considered 'high warning' or above in 2014; improving fragility are those that have been considered fragile in at least 3 of the last 10 years but are no longer fragile",
 "format",,"1(A)"
 "highorlow","lowisbetter",
@@ -22,3 +22,4 @@
 "missing-recipient","NA",
 "laymans-decription","Countries susceptible to crisis based on the twelve primary social, economic and political indicators. The Fragile States Index is produced by the Fund for Peace",
 "laymans-heading","Fragile States ",
+"source-link",,

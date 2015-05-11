@@ -12,7 +12,7 @@
 "global-picture-color-ramp","darkred"
 "uom","percent"
 "uom_display","%"
-"source","World Bank data bank (http://data.worldbank.org/indicator/SI.POV.DDAY)"
+"source","World Bank data bank"
 "calculation",
 "format",
 "highorlow","lowisbetter"
@@ -22,3 +22,4 @@
 "missing-recipient","NA"
 "laymans-decription","$1.25-a-day extreme poverty line is based on the national poverty lines of the world's 15 poorest countries at 2005 PPP$"
 "laymans-heading","Extreme poverty"
+"source-link","http://data.worldbank.org/indicator/SI.POV.DDAY"

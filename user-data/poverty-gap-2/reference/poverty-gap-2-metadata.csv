@@ -12,7 +12,7 @@
 "global-picture-color-ramp",
 "uom","percent"
 "uom_display","%"
-"source","World Bank data bank (http://data.worldbank.org/indicator/SI.POV.GAP2)"
+"source","World Bank data bank"
 "calculation",
 "format",
 "highorlow","lowisbetter"
@@ -22,3 +22,4 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
+"source-link","http://data.worldbank.org/indicator/SI.POV.GAP2"
