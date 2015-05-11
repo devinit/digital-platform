@@ -12,7 +12,7 @@
 "global-picture-color-ramp",
 "uom","constant 2012 US$"
 "uom_display",
-"source","World Bank International Debt Statistics (http://data.worldbank.org/data-catalog/international-debt-statistics)"
+"source","World Bank International Debt Statistics"
 "calculation",
 "format",
 "highorlow","highisbetter"
@@ -22,3 +22,4 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
+"source-link","http://data.worldbank.org/data-catalog/international-debt-statistics"
