@@ -182,4 +182,4 @@ reference,oof-bundle,reference,,,"id, old-code, name",Modality of other official
 reference,region,reference,,,"id, name, dac-continent-code, dac-continent, dac-id, color",DAC recipient code,,,,,,,,OECD,,,,,,,,,,
 reference,sector,reference,,,"id, name",DI grouping of CRS purpose codes,,,,,,,,DI,,1(A),,,,,,,,
 reference,theme,reference,,DI themes,"id, name, default",,,,,,,,,,,,,,,,,,,
-reference,uganda-district-entity,reference,,Ugandan entity reference,,,,,,,,,,,,,,,,,,,,
+reference,uganda-district-entity,reference,,Ugandan entity reference,"id, name",,,,,,,,,,,,,,,,,,,
