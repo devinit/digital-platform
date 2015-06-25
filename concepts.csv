@@ -184,3 +184,4 @@ reference,region,reference,,,"id, name, dac-continent-code, dac-continent, dac-i
 reference,sector,reference,,,"id, name",DI grouping of CRS purpose codes,,,,,,,,DI,,1(A),,,,,,,,,,
 reference,theme,reference,,DI themes,"id, name, default",,,,,,,,,,,,,,,,,,,,,
 reference,uganda-district-entity,reference,,Ugandan entity reference,"id, name",,,,,,,,,,,,,,,,,,,,,
+reference,uganda-theme,reference,,Uganda map theme reference,"id, name, default",,,,,,,,,,,,,,,,,,,,,
