@@ -160,6 +160,7 @@ country-year,under-5-mortality,simple,,"Under 5 mortality rate (per 1,000 live b
 country-year,university-college-enrolment,simple,,"School enrolment, tertiary (% gross)","id, year, value, original-value","School enrolment, tertiary (% gross)",lin,education,,,,percent,%,World Bank World Development Indicators,,,highisbetter,,1,NA,NA,,,
 country-year,youth-literacy,simple,,"Literacy rate, youth total (% of people ages 15-24)","id, year, value, original-value","Literacy rate, youth total (% of people ages 15-24)",lin,education,,,,percent,%,World Bank World Development Indicators,,,highisbetter,,1,NA,NA,,,
 country-year,youth-unemployment,simple,,Youth unemployment %,"id, year, value",youth unemployment %,lin,employment,,,,percent,%,World Bank World Development Indicators,,,lowisbetter,,1,NA,NA,,,
+country-year,uganda-wash,simple,,TEST,"id, year, value",TEST,lin,uganda,uganda,1,blue,USD,USD,a,b,,highisbetter,"100, 110, 120, 130, 140",1,,,Annual percentage growth rate of GDP at market prices based on constant local currency.,a,a
 reference,budget-type,reference,,Domestic budget type,"id, name",,,,,,,,,,,,,,,,,,,
 reference,bundle,reference,,,"id, name",,,,,,,,,DI,,1(A),,,,,,,,
 reference,channel,reference,,,"id, name",Channel codes,,,,,,,,DI (adapted from OECD),,1(A),,,,,,,,
