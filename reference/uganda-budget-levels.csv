@@ -1,0 +1,90 @@
+id,level,name
+administration,1,Administration
+finance,1,Finance
+statutory-bodies,1,Statutory Bodies
+production-and-marketing,1,Production and Marketing
+health,1,Health
+education,1,Education
+roads-and-engineering,1,Roads and Engineering
+water,1,Water
+natural-resources,1,Natural Resources
+community-based-services,1,Community Based Services
+planning,1,Planning
+internal-audit,1,Internal Audit
+revenue,2,Revenue
+expenditure,2,Expenditure
+recurrent-revenues,3,Recurrent Revenues
+development-revenues,3,Development Revenues
+recurrent-expenditure,3,Recurrent Expenditure
+development-expenditure,3,Development Expenditure
+conditional-grant-to-paf-monitoring,4,Conditional Grant to PAF monitoring
+district-unconditional-grant-non-wage,4,District Unconditional Grant - Non Wage
+hard-to-reach-allowances,4,Hard to reach allowances
+locally-raised-revenues,4,Locally Raised Revenues
+multisectoral-transfers-to-llgs,4,Multi-Sectoral Transfers to LLGs
+transfer-of-district-unconditional-grant-wage,4,Transfer of District Unconditional Grant - Wage
+unspent-balances-locally-raised-revenues,4,Unspent balances - Locally Raised Revenues
+district-equalisation-grant,4,District Equalisation Grant
+lgmsd-former-lgdp,4,LGMSD (Former LGDP)
+other-transfers-from-central-government,4,Other Transfers from Central Government
+unspent-balances-conditional-grants,4,Unspent balances - Conditional Grants
+unspent-balances-other-government-transfers,4,Unspent balances - Other Government Transfers
+urban-equalisation-grant,4,Urban Equalisation Grant 
+wage,4,Wage
+non-wage,4,Non Wage
+domestic-development,4,Domestic Development
+donor-development,4,Donor Development
+conditional-grant-to-dsc-chairs-salaries,4,Conditional Grant to DSC Chairs’ Salaries
+conditional-transfers-to-contracts-committeedscpa,4,Conditional transfers to Contracts Committee/DSC/PA
+conditional-transfers-to-councillors-allowances-and-ex,4,Conditional transfers to Councillors allowances and Ex
+conditional-transfers-to-dsc-operational-costs,4,Conditional transfers to DSC Operational Costs
+conditional-transfers-to-salary-and-gratuity-for-lg-ele,4,Conditional transfers to Salary and Gratuity for LG ele
+conditional-grant-to-agric-ext-salaries,4,Conditional Grant to Agric. Ext Salaries
+conditional-transfers-to-production-and-marketing,4,Conditional transfers to Production and Marketing
+naads-districts-wage,4,NAADS (Districts) - Wage
+conditional-grant-for-naads,4,Conditional Grant for NAADS
+donor-funding,4,Donor Funding
+conditional-grant-to-district-hospitals,4,Conditional Grant to District Hospitals
+conditional-grant-to-ngo-hospitals,4,Conditional Grant to NGO Hospitals
+conditional-grant-to-phc-non-wage,4,Conditional Grant to PHC- Non wage
+conditional-grant-to-phc-salaries,4,Conditional Grant to PHC Salaries
+conditional-grant-to-phc-development,4,Conditional Grant to PHC - development
+unspent-balances-donor,4,Unspent balances - donor
+conditional-grant-to-primary-education,4,Conditional Grant to Primary Education
+conditional-grant-to-primary-salaries,4,Conditional Grant to Primary Salaries
+conditional-grant-to-secondary-education,4,Conditional Grant to Secondary Education
+conditional-grant-to-secondary-salaries,4,Conditional Grant to Secondary Salaries
+conditional-grant-to-tertiary-salaries,4,Conditional Grant to Tertiary Salaries
+conditional-transfers-for-non-wage-technical-institut,4,Conditional Transfers for Non Wage Technical Institut
+conditional-transfers-to-school-inspection-grant,4,Conditional transfers to School Inspection Grant
+conditional-grant-to-sfg,4,Conditional Grant to SFG
+roads-rehabilitation-grant,4,Roads Rehabilitation Grant
+sanitation-and-hygiene,4,Sanitation and Hygiene
+conditional-transfer-for-rural-water,4,Conditional transfer for Rural Water 
+conditional-grant-to-district-natural-res-wetlands,4,Conditional Grant to District Natural Res. - Wetlands (
+conditional-grant-to-community-devt-assistants-non,4,Conditional Grant to Community Devt Assistants Non 
+conditional-grant-to-functional-adult-lit,4,Conditional Grant to Functional Adult Lit
+conditional-grant-to-women-youth-and-disability-gra,4,Conditional Grant to Women Youth and Disability Gra
+conditional-transfers-to-special-grant-for-pwds,4,Conditional transfers to Special Grant for PWDs
+conditional-grant-to-ifms-running-costs,4,Conditional Grant to IFMS Running Costs
+transfer-of-urban-unconditional-grant-wage,4,Transfer of Urban Unconditional Grant - Wage
+urban-unconditional-grant-non-wage,4,Urban Unconditional Grant - Non Wage
+construction-of-secondary-schools,4,Construction of Secondary Schools
+unspent-balances-unconditional-grants,4,Unspent balances - UnConditional Grants
+conditional-transfer-for-rural-water,4,Conditional transfer for Rural Water
+conditional-transfers-to-salary-and-gratuity-for-lg-elec,4,Conditional transfers to Salary and Gratuity for LG elec
+conditional-transfers-for-non-wage-technical-farm,4,Conditional Transfers for Non Wage Technical & Farm
+conditional-grant-to-urban-water,4,Conditional Grant to Urban Water
+objective-3to-improve-on-marketing,4,Objective: 3.To improve on marketing.
+objective-4to-build-capacity-of-staff-and-farmers,4,Objective: 4.To build capacity of staff and farmers.
+conditional-transfers-for-non-wage-technical-far,4,Conditional Transfers for Non Wage Technical & Far
+conditional-grant-to-health-training-schools,4,Conditional Grant to Health Training Schools
+conditional-transfers-for-primary-teachers-colleges,4,Conditional Transfers for Primary Teachers Colleges
+uganda-support-to-municipal-infrastructure-developm,4,Uganda Support to Municipal Infrastructure Developm
+conditional-grant-to-public-libraries,4,Conditional Grant to Public Libraries
+conditional-transfers-for-non-wage-community-polyt,4,Conditional Transfers for Non Wage Community Polyt
+conditional-grant-to-ipps-recurrent-costs,4,Conditional Grant to IPPS Recurrent Costs
+conditional-transfers-for-non-wage-technical-institute,4,Conditional Transfers for Non Wage Technical Institute
+unspent-balance-direct-central-government-transfer,4,Unspent Balance - Direct Central Government Transfer
+urban-unconditional-grant,4,Urban Unconditional Grant
+conditional-transfers-to-councillors-allowances-and-ex,4,Conditional transfers to Councillors allowances and Ex-
