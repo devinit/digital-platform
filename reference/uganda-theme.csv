@@ -2,3 +2,4 @@ id,name,default
 wash,Water & Sanitation,uganda-rural-safe-water
 pop,Population,uganda-urban-pop
 health,Health,uganda-overall-health
+education,Education,uganda-primary-educ-funding
