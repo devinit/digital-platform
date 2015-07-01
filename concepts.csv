@@ -187,6 +187,7 @@ country-year,uganda-life-expectancy,simple,,Test data,"id, year, value, test-dat
 country-year,uganda-gov-spend-pp,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Test data,Test data,,,
 country-year,uganda-central-donor-resources,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Test data,Test data,,,
 country-year,uganda-igf-resources,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,,Test data,,,
+country-year,uganda-poverty-headcount,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,,Test data,,,
 reference,budget-type,reference,,Domestic budget type,"id, name",,,,,,,,,,,,,,,,,,,,,
 reference,bundle,reference,,,"id, name",,,,,,,,,DI,,1(A),,,,,,,,,,
 reference,channel,reference,,,"id, name",Channel codes,,,,,,,,DI (adapted from OECD),,1(A),,,,,,,,,,
