@@ -180,6 +180,7 @@ country-year,uganda-donor-educ-spend,simple,,Ugandan Primary Education Donor Spe
 country-year,uganda-health-funding,simple,,Ugandan Primary Health Spending Per Person,"id, year, value",The amount the district government spends on primary healthcare per person,lin,health,health,8,red,NCU,UGX,Ugandan Ministry,,,highisbetter,"8500, 12000, 15000, 18000, 23000",,NA,NA,The amount the district government spends on primary healthcare per person,Ugandan Primary Health Spending Per Person,,,
 country-year,uganda-leaving-exam-perf-rate,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Test data,Test data,,,
 country-year,uganda-primary-stu-teach-ratio,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Test data,Test data,,,
+country-year,uganda-primary-stu-teach-ratio-gov,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Test data,Test data,,,
 country-year,uganda-dependency-ratio,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Test data,Test data,,,
 country-year,uganda-pop-dens,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Test data,Test data,,,
 country-year,uganda-total-pop,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Test data,Test data,,,
