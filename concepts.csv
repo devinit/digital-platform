@@ -191,7 +191,7 @@ country-year,uganda-deprivation-living,simple,,Ugandan deprivation of a decent s
 country-year,uganda-life-expectancy,simple,,Ugandan Life Expectancy,"id, year, value",Ugandan Life Expectancy,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Ugandan Life Expectancy,Ugandan Life Expectancy,,,
 country-year,uganda-gov-spend-pp,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Test data,Test data,,,
 country-year,uganda-central-donor-resources,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Test data,Test data,,,
-country-year,uganda-igf-resources,simple,,Test data,"id, year, value, test-data",Test data,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Test data,Test data,,,
+country-year,uganda-igf-resources,simple,,Ugandan Locally Raised Revenues,"id, year, budget-type,value,value-ncu",Ugandan Locally Raised Revenues,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Ugandan Locally Raised Revenues,Ugandan Locally Raised Revenues,,,
 country-year,uganda-poverty-headcount,simple,,Ugandan Poverty Headcount,"id, year, value",Ugandan Poverty Headcount,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Ugandan Poverty Headcount,Ugandan Poverty Headcount,,,
 reference,budget-type,reference,,Domestic budget type,"id, name",,,,,,,,,,,,,,,,,,,,,
 reference,bundle,reference,,,"id, name",,,,,,,,,DI,,1(A),,,,,,,,,,
