@@ -1,4 +1,4 @@
-id,year,budget_type,l1,l2,l3,l4,value,value-ncu
+id,year,budget-type,l1,l2,l3,l4,value,value-ncu
 d314,2015,budget,expenditure,administration,recurrent-expenditure,wage,556995.1084,1884026000
 d314,2015,budget,expenditure,administration,recurrent-expenditure,non-wage,116834.0245,395189000
 d314,2015,budget,expenditure,administration,development-expenditure,domestic-development,746624.4917,2525444000
@@ -19675,8 +19675,8 @@ d320,2015,budget,revenue,locally-raised-revenues,marketgate-charges,,5321.535877
 d320,2016,budget,revenue,locally-raised-revenues,marketgate-charges,,4867.425546,1.80E+07
 d320,2015,budget,revenue,locally-raised-revenues,development-tax,,11825.63528,4.00E+07
 d320,2016,budget,revenue,locally-raised-revenues,development-tax,,0,0
-d320,2015,budget,revenue,locally-raised-revenues,-transfers-from-llgs,,0,0
-d320,2016,budget,revenue,locally-raised-revenues,-transfers-from-llgs,,0,0
+d320,2015,budget,revenue,locally-raised-revenues,#NAME?,,0,0
+d320,2016,budget,revenue,locally-raised-revenues,#NAME?,,0,0
 d320,2015,budget,revenue,locally-raised-revenues,business-licences,,886.9226461,3.00E+06
 d320,2016,budget,revenue,locally-raised-revenues,business-licences,,811.237591,3.00E+06
 d320,2015,budget,revenue,locally-raised-revenues,birth-and-death-registration,,591.2817641,2.00E+06
