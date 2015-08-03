@@ -25,7 +25,7 @@ long-debt-disbursement-in,Long term debt,7,in,recipient,commercial,1,,Long-term 
 long-debt-capital-payments-out,Long term debt,7,out,recipient,commercial,,1,Capital repayments on long-term debt,darklightblue-high,Capital repayments on long-term debt,World Bank International Debt Statistics,long-term debt capital repayments
 long-debt-interest-payments-out,Long term debt,7,out,recipient,commercial,,2,Interest payments on long-term debt,darklightblue-high,Interest payments on long-term debt,World Bank International Debt Statistics,long-term debt interest payments
 short-debt-net-flow-in,Short term debt,8,in,recipient,commercial,1,,Short-term debt,yellow-high,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),World Bank International Debt Statistics,short-term debt net disbursements
-short-debt-interest-out,Short-debt,8,out,recipient,commercial,,1,Interest payments on short-term debt,yellow-high,,World Bank International Debt Statistics,short-term debt interest payments
+short-debt-interest-out,Short term debt,8,out,recipient,commercial,,1,Interest payments on short-term debt,yellow-high,,World Bank International Debt Statistics,short-term debt interest payments
 remittances-in,Remittances,9,in,recipient,private,1,,Remittances,blue-high,,World Bank Migration and Remittances Factbook,inflows
 remittances-out,Remittances,9,out,recipient,private,,1,Remittances,blue-high,,World Bank Migration and Remittances Factbook,outflows
 trade-mispricing-out,Trade mispricing,10,out,recipient,illicit,,1,Trade mispricing,red-mid,,Global Financial Integrity program,trade mispricing
