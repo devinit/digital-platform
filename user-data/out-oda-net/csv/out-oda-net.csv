@@ -1,0 +1,659 @@
+"id","entity-name","year","value"
+"AU","Australia",2000,2654330000
+"AU","Australia",2001,2544700000
+"AU","Australia",2002,2660620000
+"AU","Australia",2003,2678470000
+"AU","Australia",2004,2728330000
+"AU","Australia",2005,2902570000
+"AU","Australia",2006,3532970000
+"AU","Australia",2007,3843080000
+"AU","Australia",2008,4048860000
+"AU","Australia",2009,3992960000
+"AU","Australia",2010,4459300000
+"AU","Australia",2011,4967350000
+"AU","Australia",2012,5402730000
+"AU","Australia",2013,5156390000
+"AT","Austria",2000,749880000
+"AT","Austria",2001,1092010000
+"AT","Austria",2002,840180000
+"AT","Austria",2003,673490000
+"AT","Austria",2004,808760000
+"AT","Austria",2005,1840640000
+"AT","Austria",2006,1703770000
+"AT","Austria",2007,1849070000
+"AT","Austria",2008,1633030000
+"AT","Austria",2009,1112710000
+"AT","Austria",2010,1217600000
+"AT","Austria",2011,1045710000
+"AT","Austria",2012,1105800000
+"AT","Austria",2013,1113110000
+"BE","Belgium",2000,1458840000
+"BE","Belgium",2001,1556480000
+"BE","Belgium",2002,1791360000
+"BE","Belgium",2003,2533890000
+"BE","Belgium",2004,1781540000
+"BE","Belgium",2005,2333930000
+"BE","Belgium",2006,2273740000
+"BE","Belgium",2007,2009410000
+"BE","Belgium",2008,2283480000
+"BE","Belgium",2009,2556730000
+"BE","Belgium",2010,3032610000
+"BE","Belgium",2011,2645760000
+"BE","Belgium",2012,2314910000
+"BE","Belgium",2013,2190630000
+"BG","Bulgaria",2000,0
+"BG","Bulgaria",2001,0
+"BG","Bulgaria",2002,0
+"BG","Bulgaria",2003,0
+"BG","Bulgaria",2004,0
+"BG","Bulgaria",2005,0
+"BG","Bulgaria",2006,0
+"BG","Bulgaria",2007,0
+"BG","Bulgaria",2008,0
+"BG","Bulgaria",2009,0
+"BG","Bulgaria",2010,42050000
+"BG","Bulgaria",2011,47230000
+"BG","Bulgaria",2012,39950000
+"BG","Bulgaria",2013,49600000
+"CA","Canada",2000,3410460000
+"CA","Canada",2001,3075420000
+"CA","Canada",2002,4028450000
+"CA","Canada",2003,3522650000
+"CA","Canada",2004,4057130000
+"CA","Canada",2005,5290650000
+"CA","Canada",2006,4727970000
+"CA","Canada",2007,4804360000
+"CA","Canada",2008,5440010000
+"CA","Canada",2009,4921290000
+"CA","Canada",2010,5642920000
+"CA","Canada",2011,5493560000
+"CA","Canada",2012,5645410000
+"CA","Canada",2013,5044060000
+"HR","Croatia",2000,0
+"HR","Croatia",2001,0
+"HR","Croatia",2002,0
+"HR","Croatia",2003,0
+"HR","Croatia",2004,0
+"HR","Croatia",2005,0
+"HR","Croatia",2006,0
+"HR","Croatia",2007,0
+"HR","Croatia",2008,0
+"HR","Croatia",2009,0
+"HR","Croatia",2010,0
+"HR","Croatia",2011,0
+"HR","Croatia",2012,21360000
+"HR","Croatia",2013,45040000
+"CY","Cyprus",2000,0
+"CY","Cyprus",2001,0
+"CY","Cyprus",2002,0
+"CY","Cyprus",2003,0
+"CY","Cyprus",2004,0
+"CY","Cyprus",2005,17870000
+"CY","Cyprus",2006,30080000
+"CY","Cyprus",2007,37250000
+"CY","Cyprus",2008,38070000
+"CY","Cyprus",2009,47670000
+"CY","Cyprus",2010,53140000
+"CY","Cyprus",2011,36720000
+"CY","Cyprus",2012,25080000
+"CY","Cyprus",2013,20370000
+"CZ","Czech Republic",2000,38520000
+"CZ","Czech Republic",2001,59340000
+"CZ","Czech Republic",2002,85490000
+"CZ","Czech Republic",2003,145020000
+"CZ","Czech Republic",2004,152190000
+"CZ","Czech Republic",2005,177730000
+"CZ","Czech Republic",2006,198450000
+"CZ","Czech Republic",2007,191820000
+"CZ","Czech Republic",2008,224190000
+"CZ","Czech Republic",2009,206770000
+"CZ","Czech Republic",2010,223800000
+"CZ","Czech Republic",2011,230260000
+"CZ","Czech Republic",2012,219620000
+"CZ","Czech Republic",2013,207860000
+"DK","Denmark",2000,3070020000
+"DK","Denmark",2001,3026400000
+"DK","Denmark",2002,2818200000
+"DK","Denmark",2003,2460310000
+"DK","Denmark",2004,2550950000
+"DK","Denmark",2005,2570730000
+"DK","Denmark",2006,2645360000
+"DK","Denmark",2007,2714020000
+"DK","Denmark",2008,2704900000
+"DK","Denmark",2009,2786690000
+"DK","Denmark",2010,2871020000
+"DK","Denmark",2011,2772920000
+"DK","Denmark",2012,2692590000
+"DK","Denmark",2013,2791700000
+"EE","Estonia",2000,1280000
+"EE","Estonia",2001,1160000
+"EE","Estonia",2002,2680000
+"EE","Estonia",2003,1880000
+"EE","Estonia",2004,7300000
+"EE","Estonia",2005,13420000
+"EE","Estonia",2006,18050000
+"EE","Estonia",2007,17060000
+"EE","Estonia",2008,20690000
+"EE","Estonia",2009,18220000
+"EE","Estonia",2010,19380000
+"EE","Estonia",2011,23130000
+"EE","Estonia",2012,23240000
+"EE","Estonia",2013,28510000
+"FI","Finland",2000,622770000
+"FI","Finland",2001,652550000
+"FI","Finland",2002,727620000
+"FI","Finland",2003,738420000
+"FI","Finland",2004,813520000
+"FI","Finland",2005,1074060000
+"FI","Finland",2006,975780000
+"FI","Finland",2007,1021580000
+"FI","Finland",2008,1118910000
+"FI","Finland",2009,1263950000
+"FI","Finland",2010,1368130000
+"FI","Finland",2011,1337470000
+"FI","Finland",2012,1315980000
+"FI","Finland",2013,1366540000
+"FR","France",2000,7088630000
+"FR","France",2001,7312970000
+"FR","France",2002,8884380000
+"FR","France",2003,9606230000
+"FR","France",2004,10037190000
+"FR","France",2005,11651100000
+"FR","France",2006,11941900000
+"FR","France",2007,9951850000
+"FR","France",2008,10165220000
+"FR","France",2009,12076840000
+"FR","France",2010,12888590000
+"FR","France",2011,12198460000
+"FR","France",2012,12028200000
+"FR","France",2013,10821200000
+"DE","Germany",2000,7981770000
+"DE","Germany",2001,8056380000
+"DE","Germany",2002,8054260000
+"DE","Germany",2003,8467850000
+"DE","Germany",2004,8461100000
+"DE","Germany",2005,11247600000
+"DE","Germany",2006,11491430000
+"DE","Germany",2007,12211980000
+"DE","Germany",2008,13082340000
+"DE","Germany",2009,11571570000
+"DE","Germany",2010,12944130000
+"DE","Germany",2011,13219300000
+"DE","Germany",2012,12939500000
+"DE","Germany",2013,13487170000
+"GR","Greece",2000,416200000
+"GR","Greece",2001,374740000
+"GR","Greece",2002,471860000
+"GR","Greece",2003,496700000
+"GR","Greece",2004,388650000
+"GR","Greece",2005,456630000
+"GR","Greece",2006,487260000
+"GR","Greece",2007,510630000
+"GR","Greece",2008,649800000
+"GR","Greece",2009,568240000
+"GR","Greece",2010,493930000
+"GR","Greece",2011,389590000
+"GR","Greece",2012,327390000
+"GR","Greece",2013,236740000
+"HU","Hungary",2000,0
+"HU","Hungary",2001,0
+"HU","Hungary",2002,0
+"HU","Hungary",2003,29440000
+"HU","Hungary",2004,83530000
+"HU","Hungary",2005,114910000
+"HU","Hungary",2006,174350000
+"HU","Hungary",2007,99920000
+"HU","Hungary",2008,93810000
+"HU","Hungary",2009,113640000
+"HU","Hungary",2010,111950000
+"HU","Hungary",2011,128890000
+"HU","Hungary",2012,118380000
+"HU","Hungary",2013,123430000
+"IS","Iceland",2000,10430000
+"IS","Iceland",2001,13460000
+"IS","Iceland",2002,15530000
+"IS","Iceland",2003,18040000
+"IS","Iceland",2004,19390000
+"IS","Iceland",2005,21650000
+"IS","Iceland",2006,33700000
+"IS","Iceland",2007,33950000
+"IS","Iceland",2008,43270000
+"IS","Iceland",2009,38530000
+"IS","Iceland",2010,29830000
+"IS","Iceland",2011,24430000
+"IS","Iceland",2012,26130000
+"IS","Iceland",2013,32980000
+"IE","Ireland",2000,388750000
+"IE","Ireland",2001,462270000
+"IE","Ireland",2002,577900000
+"IE","Ireland",2003,588480000
+"IE","Ireland",2004,630550000
+"IE","Ireland",2005,728860000
+"IE","Ireland",2006,992430000
+"IE","Ireland",2007,1043820000
+"IE","Ireland",2008,1135700000
+"IE","Ireland",2009,926570000
+"IE","Ireland",2010,880350000
+"IE","Ireland",2011,850140000
+"IE","Ireland",2012,808370000
+"IE","Ireland",2013,816230000
+"IL","Israel",2000,215910000
+"IL","Israel",2001,123130000
+"IL","Israel",2002,188520000
+"IL","Israel",2003,155340000
+"IL","Israel",2004,114620000
+"IL","Israel",2005,129350000
+"IL","Israel",2006,118960000
+"IL","Israel",2007,135500000
+"IL","Israel",2008,143940000
+"IL","Israel",2009,135710000
+"IL","Israel",2010,148860000
+"IL","Israel",2011,199130000
+"IL","Israel",2012,181190000
+"IL","Israel",2013,184840000
+"IT","Italy",2000,2471680000
+"IT","Italy",2001,2922790000
+"IT","Italy",2002,3857540000
+"IT","Italy",2003,3255100000
+"IT","Italy",2004,2925130000
+"IT","Italy",2005,5939450000
+"IT","Italy",2006,4135820000
+"IT","Italy",2007,4039380000
+"IT","Italy",2008,4577170000
+"IT","Italy",2009,3150410000
+"IT","Italy",2010,2998090000
+"IT","Italy",2011,4067950000
+"IT","Italy",2012,2737130000
+"IT","Italy",2013,3250400000
+"JP","Japan",2000,15560980000
+"JP","Japan",2001,12940060000
+"JP","Japan",2002,12768550000
+"JP","Japan",2003,11503780000
+"JP","Japan",2004,10929190000
+"JP","Japan",2005,16582450000
+"JP","Japan",2006,15042310000
+"JP","Japan",2007,10621320000
+"JP","Japan",2008,11789090000
+"JP","Japan",2009,10542650000
+"JP","Japan",2010,11827260000
+"JP","Japan",2011,10723220000
+"JP","Japan",2012,10604480000
+"JP","Japan",2013,14235030000
+"KW","Kuwait",2000,250320000
+"KW","Kuwait",2001,115960000
+"KW","Kuwait",2002,30980000
+"KW","Kuwait",2003,183290000
+"KW","Kuwait",2004,195850000
+"KW","Kuwait",2005,259020000
+"KW","Kuwait",2006,182850000
+"KW","Kuwait",2007,117660000
+"KW","Kuwait",2008,287980000
+"KW","Kuwait",2009,231890000
+"KW","Kuwait",2010,218770000
+"KW","Kuwait",2011,140960000
+"KW","Kuwait",2012,149160000
+"KW","Kuwait",2013,185380000
+"LV","Latvia",2000,0
+"LV","Latvia",2001,0
+"LV","Latvia",2002,2300000
+"LV","Latvia",2003,1170000
+"LV","Latvia",2004,10140000
+"LV","Latvia",2005,12630000
+"LV","Latvia",2006,13660000
+"LV","Latvia",2007,16890000
+"LV","Latvia",2008,22190000
+"LV","Latvia",2009,21990000
+"LV","Latvia",2010,16220000
+"LV","Latvia",2011,18680000
+"LV","Latvia",2012,21110000
+"LV","Latvia",2013,23700000
+"LI","Liechtenstein",2000,0
+"LI","Liechtenstein",2001,0
+"LI","Liechtenstein",2002,0
+"LI","Liechtenstein",2003,0
+"LI","Liechtenstein",2004,0
+"LI","Liechtenstein",2005,0
+"LI","Liechtenstein",2006,0
+"LI","Liechtenstein",2007,19220000
+"LI","Liechtenstein",2008,24090000
+"LI","Liechtenstein",2009,27520000
+"LI","Liechtenstein",2010,27660000
+"LI","Liechtenstein",2011,30710000
+"LI","Liechtenstein",2012,28600000
+"LI","Liechtenstein",2013,28240000
+"LT","Lithuania",2000,0
+"LT","Lithuania",2001,2770000
+"LT","Lithuania",2002,2500000
+"LT","Lithuania",2003,2530000
+"LT","Lithuania",2004,11030000
+"LT","Lithuania",2005,18400000
+"LT","Lithuania",2006,2.9e+07
+"LT","Lithuania",2007,50890000
+"LT","Lithuania",2008,48640000
+"LT","Lithuania",2009,37960000
+"LT","Lithuania",2010,38140000
+"LT","Lithuania",2011,50450000
+"LT","Lithuania",2012,51910000
+"LT","Lithuania",2013,50370000
+"LU","Luxembourg",2000,255270000
+"LU","Luxembourg",2001,296620000
+"LU","Luxembourg",2002,291710000
+"LU","Luxembourg",2003,303470000
+"LU","Luxembourg",2004,329400000
+"LU","Luxembourg",2005,342030000
+"LU","Luxembourg",2006,359690000
+"LU","Luxembourg",2007,410590000
+"LU","Luxembourg",2008,428630000
+"LU","Luxembourg",2009,440190000
+"LU","Luxembourg",2010,419420000
+"LU","Luxembourg",2011,389570000
+"LU","Luxembourg",2012,399030000
+"LU","Luxembourg",2013,402390000
+"MT","Malta",2000,0
+"MT","Malta",2001,0
+"MT","Malta",2002,0
+"MT","Malta",2003,0
+"MT","Malta",2004,0
+"MT","Malta",2005,0
+"MT","Malta",2006,0
+"MT","Malta",2007,0
+"MT","Malta",2008,0
+"MT","Malta",2009,14360000
+"MT","Malta",2010,14330000
+"MT","Malta",2011,19480000
+"MT","Malta",2012,18580000
+"MT","Malta",2013,18240000
+"NL","Netherlands",2000,5504630000
+"NL","Netherlands",2001,5455280000
+"NL","Netherlands",2002,5253760000
+"NL","Netherlands",2003,5103520000
+"NL","Netherlands",2004,4876480000
+"NL","Netherlands",2005,5789400000
+"NL","Netherlands",2006,6003980000
+"NL","Netherlands",2007,6171380000
+"NL","Netherlands",2008,6444420000
+"NL","Netherlands",2009,6128330000
+"NL","Netherlands",2010,6321980000
+"NL","Netherlands",2011,5931990000
+"NL","Netherlands",2012,5522840000
+"NL","Netherlands",2013,5175980000
+"NZ","New Zealand",2000,2.71e+08
+"NZ","New Zealand",2001,276650000
+"NZ","New Zealand",2002,271340000
+"NZ","New Zealand",2003,289090000
+"NZ","New Zealand",2004,313420000
+"NZ","New Zealand",2005,372180000
+"NZ","New Zealand",2006,371500000
+"NZ","New Zealand",2007,388910000
+"NZ","New Zealand",2008,432660000
+"NZ","New Zealand",2009,424070000
+"NZ","New Zealand",2010,390830000
+"NZ","New Zealand",2011,431270000
+"NZ","New Zealand",2012,449130000
+"NZ","New Zealand",2013,440670000
+"NO","Norway",2000,3104660000
+"NO","Norway",2001,3323200000
+"NO","Norway",2002,3785720000
+"NO","Norway",2003,3930160000
+"NO","Norway",2004,3800370000
+"NO","Norway",2005,4237220000
+"NO","Norway",2006,4087840000
+"NO","Norway",2007,4595090000
+"NO","Norway",2008,4328830000
+"NO","Norway",2009,5128260000
+"NO","Norway",2010,4974400000
+"NO","Norway",2011,4699840000
+"NO","Norway",2012,4752990000
+"NO","Norway",2013,5533860000
+"PL","Poland",2000,52980000
+"PL","Poland",2001,59450000
+"PL","Poland",2002,23260000
+"PL","Poland",2003,42100000
+"PL","Poland",2004,163660000
+"PL","Poland",2005,246350000
+"PL","Poland",2006,340980000
+"PL","Poland",2007,353910000
+"PL","Poland",2008,311110000
+"PL","Poland",2009,384440000
+"PL","Poland",2010,370840000
+"PL","Poland",2011,389690000
+"PL","Poland",2012,421060000
+"PL","Poland",2013,455380000
+"PT","Portugal",2000,478270000
+"PT","Portugal",2001,471380000
+"PT","Portugal",2002,518890000
+"PT","Portugal",2003,416250000
+"PT","Portugal",2004,1191750000
+"PT","Portugal",2005,424990000
+"PT","Portugal",2006,430310000
+"PT","Portugal",2007,455560000
+"PT","Portugal",2008,560980000
+"PT","Portugal",2009,475940000
+"PT","Portugal",2010,629480000
+"PT","Portugal",2011,652340000
+"PT","Portugal",2012,580760000
+"PT","Portugal",2013,466400000
+"QA","Qatar",2000,848624
+"QA","Qatar",2001,1579139
+"QA","Qatar",2002,0
+"QA","Qatar",2003,20358067
+"QA","Qatar",2004,0
+"QA","Qatar",2005,54186589
+"QA","Qatar",2006,5211879
+"QA","Qatar",2007,213892
+"QA","Qatar",2008,2692649
+"QA","Qatar",2009,13579173
+"QA","Qatar",2010,2118669
+"QA","Qatar",2011,12133437
+"QA","Qatar",2012,104942844
+"QA","Qatar",2013,69172972
+"RO","Romania",2000,0
+"RO","Romania",2001,0
+"RO","Romania",2002,0
+"RO","Romania",2003,0
+"RO","Romania",2004,0
+"RO","Romania",2005,0
+"RO","Romania",2006,0
+"RO","Romania",2007,0
+"RO","Romania",2008,124940000
+"RO","Romania",2009,159960000
+"RO","Romania",2010,118620000
+"RO","Romania",2011,159930000
+"RO","Romania",2012,142410000
+"RO","Romania",2013,133780000
+"RU","Russian Federation",2000,0
+"RU","Russian Federation",2001,0
+"RU","Russian Federation",2002,0
+"RU","Russian Federation",2003,0
+"RU","Russian Federation",2004,0
+"RU","Russian Federation",2005,0
+"RU","Russian Federation",2006,0
+"RU","Russian Federation",2007,0
+"RU","Russian Federation",2008,0
+"RU","Russian Federation",2009,0
+"RU","Russian Federation",2010,578800000
+"RU","Russian Federation",2011,538720000
+"RU","Russian Federation",2012,465010000
+"RU","Russian Federation",2013,688200000
+"SA","Saudi Arabia",2000,417970000
+"SA","Saudi Arabia",2001,323870000
+"SA","Saudi Arabia",2002,3766280000
+"SA","Saudi Arabia",2003,3180830000
+"SA","Saudi Arabia",2004,2110410000
+"SA","Saudi Arabia",2005,1216780000
+"SA","Saudi Arabia",2006,2345230000
+"SA","Saudi Arabia",2007,1658350000
+"SA","Saudi Arabia",2008,5063550000
+"SA","Saudi Arabia",2009,3286330000
+"SA","Saudi Arabia",2010,3613880000
+"SA","Saudi Arabia",2011,4973230000
+"SA","Saudi Arabia",2012,1298860000
+"SA","Saudi Arabia",2013,5677940000
+"SK","Slovakia",2000,15740000
+"SK","Slovakia",2001,22130000
+"SK","Slovakia",2002,16070000
+"SK","Slovakia",2003,28030000
+"SK","Slovakia",2004,43460000
+"SK","Slovakia",2005,82360000
+"SK","Slovakia",2006,74110000
+"SK","Slovakia",2007,74410000
+"SK","Slovakia",2008,86820000
+"SK","Slovakia",2009,72020000
+"SK","Slovakia",2010,73620000
+"SK","Slovakia",2011,80510000
+"SK","Slovakia",2012,79680000
+"SK","Slovakia",2013,82250000
+"SI","Slovenia",2000,0
+"SI","Slovenia",2001,0
+"SI","Slovenia",2002,0
+"SI","Slovenia",2003,0
+"SI","Slovenia",2004,0
+"SI","Slovenia",2005,41160000
+"SI","Slovenia",2006,50700000
+"SI","Slovenia",2007,54870000
+"SI","Slovenia",2008,62500000
+"SI","Slovenia",2009,65990000
+"SI","Slovenia",2010,57690000
+"SI","Slovenia",2011,58180000
+"SI","Slovenia",2012,58430000
+"SI","Slovenia",2013,59450000
+"KR","South Korea",2000,282580000
+"KR","South Korea",2001,387300000
+"KR","South Korea",2002,383360000
+"KR","South Korea",2003,462410000
+"KR","South Korea",2004,499490000
+"KR","South Korea",2005,788550000
+"KR","South Korea",2006,444180000
+"KR","South Korea",2007,649650000
+"KR","South Korea",2008,868930000
+"KR","South Korea",2009,980670000
+"KR","South Korea",2010,1234640000
+"KR","South Korea",2011,1315110000
+"KR","South Korea",2012,1597460000
+"KR","South Korea",2013,1685130000
+"ES","Spain",2000,2259360000
+"ES","Spain",2001,3244180000
+"ES","Spain",2002,2912040000
+"ES","Spain",2003,2671100000
+"ES","Spain",2004,2900970000
+"ES","Spain",2005,3442080000
+"ES","Spain",2006,4135370000
+"ES","Spain",2007,4948350000
+"ES","Spain",2008,6128900000
+"ES","Spain",2009,6082340000
+"ES","Spain",2010,5773380000
+"ES","Spain",2011,3857110000
+"ES","Spain",2012,2037350000
+"ES","Spain",2013,2281280000
+"SE","Sweden",2000,2963870000
+"SE","Sweden",2001,3027220000
+"SE","Sweden",2002,3385410000
+"SE","Sweden",2003,3299590000
+"SE","Sweden",2004,3386450000
+"SE","Sweden",2005,4217570000
+"SE","Sweden",2006,4806810000
+"SE","Sweden",2007,4705840000
+"SE","Sweden",2008,4916160000
+"SE","Sweden",2009,5289360000
+"SE","Sweden",2010,4930210000
+"SE","Sweden",2011,5418780000
+"SE","Sweden",2012,5239840000
+"SE","Sweden",2013,5561950000
+"CH","Switzerland",2000,1798900000
+"CH","Switzerland",2001,1809960000
+"CH","Switzerland",2002,1717440000
+"CH","Switzerland",2003,2036800000
+"CH","Switzerland",2004,2219530000
+"CH","Switzerland",2005,2544580000
+"CH","Switzerland",2006,2327270000
+"CH","Switzerland",2007,2224270000
+"CH","Switzerland",2008,2392220000
+"CH","Switzerland",2009,2692570000
+"CH","Switzerland",2010,2570290000
+"CH","Switzerland",2011,2890160000
+"CH","Switzerland",2012,3055610000
+"CH","Switzerland",2013,3159800000
+"TW","Taiwan",2000,0
+"TW","Taiwan",2001,0
+"TW","Taiwan",2002,0
+"TW","Taiwan",2003,0
+"TW","Taiwan",2004,512320000
+"TW","Taiwan",2005,572710000
+"TW","Taiwan",2006,594160000
+"TW","Taiwan",2007,549700000
+"TW","Taiwan",2008,442600000
+"TW","Taiwan",2009,431380000
+"TW","Taiwan",2010,395610000
+"TW","Taiwan",2011,372140000
+"TW","Taiwan",2012,304500000
+"TW","Taiwan",2013,271510000
+"TH","Thailand",2000,0
+"TH","Thailand",2001,0
+"TH","Thailand",2002,0
+"TH","Thailand",2003,0
+"TH","Thailand",2004,0
+"TH","Thailand",2005,0
+"TH","Thailand",2006,85330000
+"TH","Thailand",2007,71510000
+"TH","Thailand",2008,181440000
+"TH","Thailand",2009,42090000
+"TH","Thailand",2010,9950000
+"TH","Thailand",2011,30790000
+"TH","Thailand",2012,16900000
+"TH","Thailand",2013,46270000
+"TR","Turkey",2000,149200000
+"TR","Turkey",2001,150300000
+"TR","Turkey",2002,153280000
+"TR","Turkey",2003,112800000
+"TR","Turkey",2004,486350000
+"TR","Turkey",2005,754380000
+"TR","Turkey",2006,874980000
+"TR","Turkey",2007,631330000
+"TR","Turkey",2008,735380000
+"TR","Turkey",2009,747590000
+"TR","Turkey",2010,938540000
+"TR","Turkey",2011,1268390000
+"TR","Turkey",2012,2533300000
+"TR","Turkey",2013,3316130000
+"AE","UAE",2000,605600000
+"AE","UAE",2001,769300000
+"AE","UAE",2002,848260000
+"AE","UAE",2003,1232380000
+"AE","UAE",2004,590020000
+"AE","UAE",2005,604560000
+"AE","UAE",2006,906480000
+"AE","UAE",2007,2594070000
+"AE","UAE",2008,1287320000
+"AE","UAE",2009,992980000
+"AE","UAE",2010,429780000
+"AE","UAE",2011,695780000
+"AE","UAE",2012,1009150000
+"AE","UAE",2013,5396830000
+"GB","United Kingdom",2000,6269240000
+"GB","United Kingdom",2001,6534920000
+"GB","United Kingdom",2002,6608800000
+"GB","United Kingdom",2003,7550390000
+"GB","United Kingdom",2004,8297340000
+"GB","United Kingdom",2005,11178780000
+"GB","United Kingdom",2006,12416910000
+"GB","United Kingdom",2007,8822570000
+"GB","United Kingdom",2008,11042660000
+"GB","United Kingdom",2009,12275640000
+"GB","United Kingdom",2010,13934160000
+"GB","United Kingdom",2011,13901480000
+"GB","United Kingdom",2012,13891460000
+"GB","United Kingdom",2013,17793030000
+"US","USA",2000,12764290000
+"US","USA",2001,14326880000
+"US","USA",2002,16407110000
+"US","USA",2003,19752280000
+"US","USA",2004,23213390000
+"US","USA",2005,31885790000
+"US","USA",2006,26059560000
+"US","USA",2007,23503150000
+"US","USA",2008,27972900000
+"US","USA",2009,30273460000
+"US","USA",2010,31489690000
+"US","USA",2011,31460100000
+"US","USA",2012,30686950000
+"US","USA",2013,30424310000
