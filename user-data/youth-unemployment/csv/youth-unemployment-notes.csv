@@ -7,7 +7,7 @@
 ""
 "This data contains interpolated values. The interpolated values are typically contained in a column called 'value,' while the uninterpolated values are stored in 'original-value.'"
 ""
-"On the 'Data-wide' sheet, we have provided the indicator in a wide format. The values you see listed there are only from the 'value' column."
+"On the 'Data-wide-value' sheet, we have provided the indicator in a wide format. The values you see listed there are from the 'value' column."
 ""
 ""
 ""

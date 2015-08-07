@@ -7,7 +7,7 @@
 ""
 "Calculated from IMF WEO data on government spending as a proportion of GDP. Receipts of general budget support ODA and disbursements on public debt are subtracted from total government spending before dividing by the population, to avoid double counting when comparing with international resource flows."
 ""
-"On the 'Data-wide' sheet, we have provided the indicator in a wide format. The values you see listed there are only from the 'value' column."
+"On the 'Data-wide-value' sheet, we have provided the indicator in a wide format. The values you see listed there are from the 'value' column."
 ""
 ""
 ""
