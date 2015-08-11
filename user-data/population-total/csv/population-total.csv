@@ -1,0 +1,2969 @@
+"id","entity-name","year","value"
+"AF","Afghanistan",2000,20595360
+"AF","Afghanistan",2001,21347782
+"AF","Afghanistan",2002,22202806
+"AF","Afghanistan",2003,23116142
+"AF","Afghanistan",2004,24018682
+"AF","Afghanistan",2005,24860855
+"AF","Afghanistan",2006,25631282
+"AF","Afghanistan",2007,26349243
+"AF","Afghanistan",2008,27032197
+"AF","Afghanistan",2009,27708187
+"AF","Afghanistan",2010,28397812
+"AF","Afghanistan",2011,29105480
+"AF","Afghanistan",2012,29824536
+"AF","Afghanistan",2013,30551674
+"AL","Albania",2000,3089027
+"AL","Albania",2001,3064111
+"AL","Albania",2002,3051427
+"AL","Albania",2003,3033659
+"AL","Albania",2004,3014579
+"AL","Albania",2005,2992724
+"AL","Albania",2006,2968028
+"AL","Albania",2007,2940880
+"AL","Albania",2008,2912559
+"AL","Albania",2009,2884303
+"AL","Albania",2010,2856673
+"AL","Albania",2011,2829337
+"AL","Albania",2012,2801681
+"AL","Albania",2013,2773620
+"DZ","Algeria",2000,31719449
+"DZ","Algeria",2001,32150198
+"DZ","Algeria",2002,32572977
+"DZ","Algeria",2003,33003442
+"DZ","Algeria",2004,33461345
+"DZ","Algeria",2005,33960903
+"DZ","Algeria",2006,34507214
+"DZ","Algeria",2007,35097043
+"DZ","Algeria",2008,35725377
+"DZ","Algeria",2009,36383302
+"DZ","Algeria",2010,37062820
+"DZ","Algeria",2011,37762962
+"DZ","Algeria",2012,38481705
+"DZ","Algeria",2013,39208194
+"AS","American Samoa",2000,57522
+"AS","American Samoa",2001,58176
+"AS","American Samoa",2002,58729
+"AS","American Samoa",2003,59117
+"AS","American Samoa",2004,59262
+"AS","American Samoa",2005,59117
+"AS","American Samoa",2006,58652
+"AS","American Samoa",2007,57919
+"AS","American Samoa",2008,57053
+"AS","American Samoa",2009,56245
+"AS","American Samoa",2010,55636
+"AS","American Samoa",2011,55274
+"AS","American Samoa",2012,55128
+"AS","American Samoa",2013,55165
+"AD","Andorra",2000,65399
+"AD","Andorra",2001,68000
+"AD","Andorra",2002,71639
+"AD","Andorra",2003,75643
+"AD","Andorra",2004,79060
+"AD","Andorra",2005,81223
+"AD","Andorra",2006,81877
+"AD","Andorra",2007,81292
+"AD","Andorra",2008,79969
+"AD","Andorra",2009,78659
+"AD","Andorra",2010,77907
+"AD","Andorra",2011,77865
+"AD","Andorra",2012,78360
+"AD","Andorra",2013,79218
+"AO","Angola",2000,13924930
+"AO","Angola",2001,14385283
+"AO","Angola",2002,14886574
+"AO","Angola",2003,15421075
+"AO","Angola",2004,15976715
+"AO","Angola",2005,16544376
+"AO","Angola",2006,17122409
+"AO","Angola",2007,17712824
+"AO","Angola",2008,18314441
+"AO","Angola",2009,18926650
+"AO","Angola",2010,19549124
+"AO","Angola",2011,20180490
+"AO","Angola",2012,20820525
+"AO","Angola",2013,21471618
+"AG","Antigua and Barbuda",2000,77648
+"AG","Antigua and Barbuda",2001,78972
+"AG","Antigua and Barbuda",2002,80030
+"AG","Antigua and Barbuda",2003,80904
+"AG","Antigua and Barbuda",2004,81718
+"AG","Antigua and Barbuda",2005,82565
+"AG","Antigua and Barbuda",2006,83467
+"AG","Antigua and Barbuda",2007,84397
+"AG","Antigua and Barbuda",2008,85349
+"AG","Antigua and Barbuda",2009,86300
+"AG","Antigua and Barbuda",2010,87233
+"AG","Antigua and Barbuda",2011,88152
+"AG","Antigua and Barbuda",2012,89069
+"AG","Antigua and Barbuda",2013,89985
+"AR","Argentina",2000,36903067
+"AR","Argentina",2001,37273361
+"AR","Argentina",2002,37627545
+"AR","Argentina",2003,37970411
+"AR","Argentina",2004,38308779
+"AR","Argentina",2005,38647854
+"AR","Argentina",2006,38988923
+"AR","Argentina",2007,39331357
+"AR","Argentina",2008,39676083
+"AR","Argentina",2009,40023641
+"AR","Argentina",2010,40374224
+"AR","Argentina",2011,40728738
+"AR","Argentina",2012,41086927
+"AR","Argentina",2013,41446246
+"AM","Armenia",2000,3076098
+"AM","Armenia",2001,3059960
+"AM","Armenia",2002,3047002
+"AM","Armenia",2003,3036032
+"AM","Armenia",2004,3025652
+"AM","Armenia",2005,3014917
+"AM","Armenia",2006,3002911
+"AM","Armenia",2007,2989882
+"AM","Armenia",2008,2977488
+"AM","Armenia",2009,2968154
+"AM","Armenia",2010,2963496
+"AM","Armenia",2011,2964120
+"AM","Armenia",2012,2969081
+"AM","Armenia",2013,2976566
+"AW","Aruba",2000,90858
+"AW","Aruba",2001,92894
+"AW","Aruba",2002,94995
+"AW","Aruba",2003,97015
+"AW","Aruba",2004,98742
+"AW","Aruba",2005,100031
+"AW","Aruba",2006,100830
+"AW","Aruba",2007,101219
+"AW","Aruba",2008,101344
+"AW","Aruba",2009,101418
+"AW","Aruba",2010,101597
+"AW","Aruba",2011,101932
+"AW","Aruba",2012,102384
+"AW","Aruba",2013,102911
+"AU","Australia",2000,19153000
+"AU","Australia",2001,19413000
+"AU","Australia",2002,19651400
+"AU","Australia",2003,19895400
+"AU","Australia",2004,20127400
+"AU","Australia",2005,20394800
+"AU","Australia",2006,20697900
+"AU","Australia",2007,20827600
+"AU","Australia",2008,21249200
+"AU","Australia",2009,21691700
+"AU","Australia",2010,22031800
+"AU","Australia",2011,22340000
+"AU","Australia",2012,22723900
+"AU","Australia",2013,23130900
+"AT","Austria",2000,8011566
+"AT","Austria",2001,8042293
+"AT","Austria",2002,8081957
+"AT","Austria",2003,8121423
+"AT","Austria",2004,8171966
+"AT","Austria",2005,8227829
+"AT","Austria",2006,8268641
+"AT","Austria",2007,8300788
+"AT","Austria",2008,8336926
+"AT","Austria",2009,8365275
+"AT","Austria",2010,8389771
+"AT","Austria",2011,8406187
+"AT","Austria",2012,8429991
+"AT","Austria",2013,8473786
+"AZ","Azerbaijan",2000,8048600
+"AZ","Azerbaijan",2001,8111200
+"AZ","Azerbaijan",2002,8171950
+"AZ","Azerbaijan",2003,8234100
+"AZ","Azerbaijan",2004,8306500
+"AZ","Azerbaijan",2005,8391850
+"AZ","Azerbaijan",2006,8484550
+"AZ","Azerbaijan",2007,8581300
+"AZ","Azerbaijan",2008,8763400
+"AZ","Azerbaijan",2009,8947243
+"AZ","Azerbaijan",2010,9054332
+"AZ","Azerbaijan",2011,9173082
+"AZ","Azerbaijan",2012,9295784
+"AZ","Azerbaijan",2013,9416598
+"BS","Bahamas",2000,297759
+"BS","Bahamas",2001,303005
+"BS","Bahamas",2002,309039
+"BS","Bahamas",2003,315624
+"BS","Bahamas",2004,322400
+"BS","Bahamas",2005,329088
+"BS","Bahamas",2006,335622
+"BS","Bahamas",2007,342049
+"BS","Bahamas",2008,348340
+"BS","Bahamas",2009,354492
+"BS","Bahamas",2010,360498
+"BS","Bahamas",2011,366331
+"BS","Bahamas",2012,371960
+"BS","Bahamas",2013,377374
+"BH","Bahrain",2000,668239
+"BH","Bahrain",2001,698749
+"BH","Bahrain",2002,732541
+"BH","Bahrain",2003,772058
+"BH","Bahrain",2004,820505
+"BH","Bahrain",2005,879534
+"BH","Bahrain",2006,950951
+"BH","Bahrain",2007,1032353
+"BH","Bahrain",2008,1116038
+"BH","Bahrain",2009,1191539
+"BH","Bahrain",2010,1251513
+"BH","Bahrain",2011,1292764
+"BH","Bahrain",2012,1317827
+"BH","Bahrain",2013,1332171
+"BD","Bangladesh",2000,132383265
+"BD","Bangladesh",2001,134729503
+"BD","Bangladesh",2002,137006279
+"BD","Bangladesh",2003,139185986
+"BD","Bangladesh",2004,141235035
+"BD","Bangladesh",2005,143135180
+"BD","Bangladesh",2006,144868702
+"BD","Bangladesh",2007,146457067
+"BD","Bangladesh",2008,147969967
+"BD","Bangladesh",2009,149503100
+"BD","Bangladesh",2010,151125475
+"BD","Bangladesh",2011,152862431
+"BD","Bangladesh",2012,154695368
+"BD","Bangladesh",2013,156594962
+"BB","Barbados",2000,267190
+"BB","Barbados",2001,268296
+"BB","Barbados",2002,269524
+"BB","Barbados",2003,270844
+"BB","Barbados",2004,272205
+"BB","Barbados",2005,273568
+"BB","Barbados",2006,274923
+"BB","Barbados",2007,276277
+"BB","Barbados",2008,277634
+"BB","Barbados",2009,279006
+"BB","Barbados",2010,280396
+"BB","Barbados",2011,281804
+"BB","Barbados",2012,283221
+"BB","Barbados",2013,284644
+"BY","Belarus",2000,10005000
+"BY","Belarus",2001,9928000
+"BY","Belarus",2002,9865000
+"BY","Belarus",2003,9797000
+"BY","Belarus",2004,9730000
+"BY","Belarus",2005,9663000
+"BY","Belarus",2006,9604000
+"BY","Belarus",2007,9560000
+"BY","Belarus",2008,9528000
+"BY","Belarus",2009,9507000
+"BY","Belarus",2010,9490000
+"BY","Belarus",2011,9473000
+"BY","Belarus",2012,9464000
+"BY","Belarus",2013,9466000
+"BE","Belgium",2000,10251250
+"BE","Belgium",2001,10286570
+"BE","Belgium",2002,10332785
+"BE","Belgium",2003,10376133
+"BE","Belgium",2004,10421137
+"BE","Belgium",2005,10478617
+"BE","Belgium",2006,10547958
+"BE","Belgium",2007,10625700
+"BE","Belgium",2008,10709973
+"BE","Belgium",2009,10796493
+"BE","Belgium",2010,10920272
+"BE","Belgium",2011,11047744
+"BE","Belgium",2012,11128246
+"BE","Belgium",2013,11195138
+"BZ","Belize",2000,238586
+"BZ","Belize",2001,245198
+"BZ","Belize",2002,251766
+"BZ","Belize",2003,258346
+"BZ","Belize",2004,265040
+"BZ","Belize",2005,271920
+"BZ","Belize",2006,278985
+"BZ","Belize",2007,286196
+"BZ","Belize",2008,293544
+"BZ","Belize",2009,301016
+"BZ","Belize",2010,308595
+"BZ","Belize",2011,316280
+"BZ","Belize",2012,324060
+"BZ","Belize",2013,331900
+"BJ","Benin",2000,6949366
+"BJ","Benin",2001,7174911
+"BJ","Benin",2002,7414744
+"BJ","Benin",2003,7665681
+"BJ","Benin",2004,7922796
+"BJ","Benin",2005,8182362
+"BJ","Benin",2006,8443671
+"BJ","Benin",2007,8707490
+"BJ","Benin",2008,8973293
+"BJ","Benin",2009,9240783
+"BJ","Benin",2010,9509798
+"BJ","Benin",2011,9779795
+"BJ","Benin",2012,10050702
+"BJ","Benin",2013,10323474
+"BM","Bermuda",2000,61833
+"BM","Bermuda",2001,62504
+"BM","Bermuda",2002,62912
+"BM","Bermuda",2003,63325
+"BM","Bermuda",2004,63740
+"BM","Bermuda",2005,64154
+"BM","Bermuda",2006,64523
+"BM","Bermuda",2007,64888
+"BM","Bermuda",2008,65273
+"BM","Bermuda",2009,65636
+"BM","Bermuda",2010,65124
+"BM","Bermuda",2011,64564
+"BM","Bermuda",2012,64798
+"BM","Bermuda",2013,65024
+"BT","Bhutan",2000,564350
+"BT","Bhutan",2001,580888
+"BT","Bhutan",2002,598455
+"BT","Bhutan",2003,616383
+"BT","Bhutan",2004,633893
+"BT","Bhutan",2005,650417
+"BT","Bhutan",2006,665568
+"BT","Bhutan",2007,679365
+"BT","Bhutan",2008,692159
+"BT","Bhutan",2009,704542
+"BT","Bhutan",2010,716939
+"BT","Bhutan",2011,729429
+"BT","Bhutan",2012,741822
+"BT","Bhutan",2013,753947
+"BO","Bolivia ",2000,8495271
+"BO","Bolivia ",2001,8669066
+"BO","Bolivia ",2002,8843350
+"BO","Bolivia ",2003,9016787
+"BO","Bolivia ",2004,9187610
+"BO","Bolivia ",2005,9354709
+"BO","Bolivia ",2006,9517395
+"BO","Bolivia ",2007,9676456
+"BO","Bolivia ",2008,9834098
+"BO","Bolivia ",2009,9993406
+"BO","Bolivia ",2010,10156601
+"BO","Bolivia ",2011,10324445
+"BO","Bolivia ",2012,10496285
+"BO","Bolivia ",2013,10671200
+"BA","Bosnia and Herzegovina",2000,3834364
+"BA","Bosnia and Herzegovina",2001,3879353
+"BA","Bosnia and Herzegovina",2002,3897579
+"BA","Bosnia and Herzegovina",2003,3895779
+"BA","Bosnia and Herzegovina",2004,3886723
+"BA","Bosnia and Herzegovina",2005,3879828
+"BA","Bosnia and Herzegovina",2006,3875157
+"BA","Bosnia and Herzegovina",2007,3868665
+"BA","Bosnia and Herzegovina",2008,3861201
+"BA","Bosnia and Herzegovina",2009,3853446
+"BA","Bosnia and Herzegovina",2010,3845929
+"BA","Bosnia and Herzegovina",2011,3839322
+"BA","Bosnia and Herzegovina",2012,3833916
+"BA","Bosnia and Herzegovina",2013,3829307
+"BW","Botswana",2000,1755375
+"BW","Botswana",2001,1783349
+"BW","Botswana",2002,1808976
+"BW","Botswana",2003,1832602
+"BW","Botswana",2004,1854739
+"BW","Botswana",2005,1875805
+"BW","Botswana",2006,1895944
+"BW","Botswana",2007,1915187
+"BW","Botswana",2008,1933719
+"BW","Botswana",2009,1951715
+"BW","Botswana",2010,1969341
+"BW","Botswana",2011,1986701
+"BW","Botswana",2012,2003910
+"BW","Botswana",2013,2021144
+"BR","Brazil",2000,174504898
+"BR","Brazil",2001,176968205
+"BR","Brazil",2002,179393768
+"BR","Brazil",2003,181752951
+"BR","Brazil",2004,184010283
+"BR","Brazil",2005,186142403
+"BR","Brazil",2006,188134315
+"BR","Brazil",2007,189996976
+"BR","Brazil",2008,191765567
+"BR","Brazil",2009,193490922
+"BR","Brazil",2010,195210154
+"BR","Brazil",2011,196935134
+"BR","Brazil",2012,198656019
+"BR","Brazil",2013,200361925
+"BN","Brunei",2000,331801
+"BN","Brunei",2001,339114
+"BN","Brunei",2002,346407
+"BN","Brunei",2003,353649
+"BN","Brunei",2004,360797
+"BN","Brunei",2005,367815
+"BN","Brunei",2006,374697
+"BN","Brunei",2007,381440
+"BN","Brunei",2008,388017
+"BN","Brunei",2009,394400
+"BN","Brunei",2010,400569
+"BN","Brunei",2011,406512
+"BN","Brunei",2012,412238
+"BN","Brunei",2013,417784
+"BG","Bulgaria",2000,8170172
+"BG","Bulgaria",2001,8020282
+"BG","Bulgaria",2002,7868468
+"BG","Bulgaria",2003,7823557
+"BG","Bulgaria",2004,7781161
+"BG","Bulgaria",2005,7739900
+"BG","Bulgaria",2006,7699020
+"BG","Bulgaria",2007,7545338
+"BG","Bulgaria",2008,7492561
+"BG","Bulgaria",2009,7444443
+"BG","Bulgaria",2010,7395599
+"BG","Bulgaria",2011,7348328
+"BG","Bulgaria",2012,7305888
+"BG","Bulgaria",2013,7265115
+"BF","Burkina Faso",2000,11607944
+"BF","Burkina Faso",2001,11946080
+"BF","Burkina Faso",2002,12296399
+"BF","Burkina Faso",2003,12659086
+"BF","Burkina Faso",2004,13034258
+"BF","Burkina Faso",2005,13421929
+"BF","Burkina Faso",2006,13822257
+"BF","Burkina Faso",2007,14235075
+"BF","Burkina Faso",2008,14659646
+"BF","Burkina Faso",2009,15094967
+"BF","Burkina Faso",2010,15540284
+"BF","Burkina Faso",2011,15995313
+"BF","Burkina Faso",2012,16460141
+"BF","Burkina Faso",2013,16934839
+"BI","Burundi",2000,6674286
+"BI","Burundi",2001,6839376
+"BI","Burundi",2002,7037727
+"BI","Burundi",2003,7264340
+"BI","Burundi",2004,7510771
+"BI","Burundi",2005,7770392
+"BI","Burundi",2006,8042579
+"BI","Burundi",2007,8328312
+"BI","Burundi",2008,8624280
+"BI","Burundi",2009,8926687
+"BI","Burundi",2010,9232753
+"BI","Burundi",2011,9540362
+"BI","Burundi",2012,9849569
+"BI","Burundi",2013,10162532
+"CI","Côte d'Ivoire",2000,16131332
+"CI","Côte d'Ivoire",2001,16420173
+"CI","Côte d'Ivoire",2002,16674987
+"CI","Côte d'Ivoire",2003,16909801
+"CI","Côte d'Ivoire",2004,17144325
+"CI","Côte d'Ivoire",2005,17393994
+"CI","Côte d'Ivoire",2006,17662417
+"CI","Côte d'Ivoire",2007,17949061
+"CI","Côte d'Ivoire",2008,18260044
+"CI","Côte d'Ivoire",2009,18601342
+"CI","Côte d'Ivoire",2010,18976588
+"CI","Côte d'Ivoire",2011,19389954
+"CI","Côte d'Ivoire",2012,19839750
+"CI","Côte d'Ivoire",2013,20316086
+"KH","Cambodia",2000,12222871
+"KH","Cambodia",2001,12472586
+"KH","Cambodia",2002,12709336
+"KH","Cambodia",2003,12934369
+"KH","Cambodia",2004,13149386
+"KH","Cambodia",2005,13356424
+"KH","Cambodia",2006,13555054
+"KH","Cambodia",2007,13747288
+"KH","Cambodia",2008,13940518
+"KH","Cambodia",2009,14144225
+"KH","Cambodia",2010,14364931
+"KH","Cambodia",2011,14605862
+"KH","Cambodia",2012,14864646
+"KH","Cambodia",2013,15135169
+"CM","Cameroon",2000,15927713
+"CM","Cameroon",2001,16350440
+"CM","Cameroon",2002,16782044
+"CM","Cameroon",2003,17223277
+"CM","Cameroon",2004,17674960
+"CM","Cameroon",2005,18137734
+"CM","Cameroon",2006,18611937
+"CM","Cameroon",2007,19097676
+"CM","Cameroon",2008,19595026
+"CM","Cameroon",2009,20103945
+"CM","Cameroon",2010,20624343
+"CM","Cameroon",2011,21156272
+"CM","Cameroon",2012,21699631
+"CM","Cameroon",2013,22253959
+"CA","Canada",2000,30769700
+"CA","Canada",2001,31081900
+"CA","Canada",2002,31362000
+"CA","Canada",2003,31676000
+"CA","Canada",2004,31995000
+"CA","Canada",2005,32312000
+"CA","Canada",2006,32570505
+"CA","Canada",2007,32887928
+"CA","Canada",2008,33245773
+"CA","Canada",2009,33628571
+"CA","Canada",2010,34005274
+"CA","Canada",2011,34342780
+"CA","Canada",2012,34754312
+"CA","Canada",2013,35158304
+"CV","Cape Verde",2000,442426
+"CV","Cape Verde",2001,450812
+"CV","Cape Verde",2002,459140
+"CV","Cape Verde",2003,466939
+"CV","Cape Verde",2004,473577
+"CV","Cape Verde",2005,478651
+"CV","Cape Verde",2006,481940
+"CV","Cape Verde",2007,483713
+"CV","Cape Verde",2008,484651
+"CV","Cape Verde",2009,485714
+"CV","Cape Verde",2010,487601
+"CV","Cape Verde",2011,490556
+"CV","Cape Verde",2012,494401
+"CV","Cape Verde",2013,498897
+"CF","CAR",2000,3638316
+"CF","CAR",2001,3704045
+"CF","CAR",2002,3767248
+"CF","CAR",2003,3829636
+"CF","CAR",2004,3893595
+"CF","CAR",2005,3960897
+"CF","CAR",2006,4032102
+"CF","CAR",2007,4106897
+"CF","CAR",2008,4185106
+"CF","CAR",2009,4266247
+"CF","CAR",2010,4349921
+"CF","CAR",2011,4436217
+"CF","CAR",2012,4525209
+"CF","CAR",2013,4616417
+"KY","Cayman Islands",2000,41685
+"KY","Cayman Islands",2001,43317
+"KY","Cayman Islands",2002,44742
+"KY","Cayman Islands",2003,46032
+"KY","Cayman Islands",2004,47299
+"KY","Cayman Islands",2005,48623
+"KY","Cayman Islands",2006,50026
+"KY","Cayman Islands",2007,51472
+"KY","Cayman Islands",2008,52912
+"KY","Cayman Islands",2009,54275
+"KY","Cayman Islands",2010,55509
+"KY","Cayman Islands",2011,56601
+"KY","Cayman Islands",2012,57570
+"KY","Cayman Islands",2013,58435
+"TD","Chad",2000,8301151
+"TD","Chad",2001,8620917
+"TD","Chad",2002,8959964
+"TD","Chad",2003,9311234
+"TD","Chad",2004,9665024
+"TD","Chad",2005,10014413
+"TD","Chad",2006,10356822
+"TD","Chad",2007,10694366
+"TD","Chad",2008,11030628
+"TD","Chad",2009,11371325
+"TD","Chad",2010,11720781
+"TD","Chad",2011,12080037
+"TD","Chad",2012,12448175
+"TD","Chad",2013,12825314
+"CL","Chile",2000,15454402
+"CL","Chile",2001,15639289
+"CL","Chile",2002,15819522
+"CL","Chile",2003,15995658
+"CL","Chile",2004,16168241
+"CL","Chile",2005,16337749
+"CL","Chile",2006,16504530
+"CL","Chile",2007,16668892
+"CL","Chile",2008,16831184
+"CL","Chile",2009,16991729
+"CL","Chile",2010,17150760
+"CL","Chile",2011,17308449
+"CL","Chile",2012,17464814
+"CL","Chile",2013,17619708
+"CN","China",2000,1262645000
+"CN","China",2001,1271850000
+"CN","China",2002,1280400000
+"CN","China",2003,1288400000
+"CN","China",2004,1296075000
+"CN","China",2005,1303720000
+"CN","China",2006,1311020000
+"CN","China",2007,1317885000
+"CN","China",2008,1324655000
+"CN","China",2009,1331260000
+"CN","China",2010,1337705000
+"CN","China",2011,1344130000
+"CN","China",2012,1350695000
+"CN","China",2013,1357380000
+"CO","Colombia",2000,39897984
+"CO","Colombia",2001,40558648
+"CO","Colombia",2002,41216304
+"CO","Colombia",2003,41872051
+"CO","Colombia",2004,42527623
+"CO","Colombia",2005,43184026
+"CO","Colombia",2006,43841370
+"CO","Colombia",2007,44498390
+"CO","Colombia",2008,45153037
+"CO","Colombia",2009,45802561
+"CO","Colombia",2010,46444798
+"CO","Colombia",2011,47078792
+"CO","Colombia",2012,47704427
+"CO","Colombia",2013,48321405
+"KM","Comoros",2000,528312
+"KM","Comoros",2001,541976
+"KM","Comoros",2002,556028
+"KM","Comoros",2003,570491
+"KM","Comoros",2004,585389
+"KM","Comoros",2005,600733
+"KM","Comoros",2006,616526
+"KM","Comoros",2007,632736
+"KM","Comoros",2008,649291
+"KM","Comoros",2009,666097
+"KM","Comoros",2010,683081
+"KM","Comoros",2011,700216
+"KM","Comoros",2012,717503
+"KM","Comoros",2013,734917
+"CG","Congo",2000,3126204
+"CG","Congo",2001,3205636
+"CG","Congo",2002,3283719
+"CG","Congo",2003,3363418
+"CG","Congo",2004,3448868
+"CG","Congo",2005,3542867
+"CG","Congo",2006,3646653
+"CG","Congo",2007,3758858
+"CG","Congo",2008,3876475
+"CG","Congo",2009,3995146
+"CG","Congo",2010,4111715
+"CG","Congo",2011,4225359
+"CG","Congo",2012,4337051
+"CG","Congo",2013,4447632
+"CR","Costa Rica",2000,3929588
+"CR","Costa Rica",2001,4013488
+"CR","Costa Rica",2002,4093840
+"CR","Costa Rica",2003,4171145
+"CR","Costa Rica",2004,4246336
+"CR","Costa Rica",2005,4320130
+"CR","Costa Rica",2006,4392493
+"CR","Costa Rica",2007,4463226
+"CR","Costa Rica",2008,4532711
+"CR","Costa Rica",2009,4601424
+"CR","Costa Rica",2010,4669685
+"CR","Costa Rica",2011,4737680
+"CR","Costa Rica",2012,4805295
+"CR","Costa Rica",2013,4872166
+"HR","Croatia",2000,4426000
+"HR","Croatia",2001,4440000
+"HR","Croatia",2002,4440000
+"HR","Croatia",2003,4440000
+"HR","Croatia",2004,4439000
+"HR","Croatia",2005,4442000
+"HR","Croatia",2006,4440000
+"HR","Croatia",2007,4436000
+"HR","Croatia",2008,4434508
+"HR","Croatia",2009,4429078
+"HR","Croatia",2010,4417781
+"HR","Croatia",2011,4280622
+"HR","Croatia",2012,4267558
+"HR","Croatia",2013,4252700
+"CU","Cuba",2000,11138416
+"CU","Cuba",2001,11175465
+"CU","Cuba",2002,11212125
+"CU","Cuba",2003,11245926
+"CU","Cuba",2004,11273363
+"CU","Cuba",2005,11292078
+"CU","Cuba",2006,11301100
+"CU","Cuba",2007,11301674
+"CU","Cuba",2008,11296355
+"CU","Cuba",2009,11288826
+"CU","Cuba",2010,11281768
+"CU","Cuba",2011,11276053
+"CU","Cuba",2012,11270957
+"CU","Cuba",2013,11265629
+"CW","Curaçao",2000,133860
+"CW","Curaçao",2001,128905
+"CW","Curaçao",2002,128804
+"CW","Curaçao",2003,131253
+"CW","Curaçao",2004,133363
+"CW","Curaçao",2005,136708
+"CW","Curaçao",2006,140217
+"CW","Curaçao",2007,143026
+"CW","Curaçao",2008,144971
+"CW","Curaçao",2009,145890
+"CW","Curaçao",2010,149311
+"CW","Curaçao",2011,150612
+"CW","Curaçao",2012,152056
+"CW","Curaçao",2013,153500
+"CY","Cyprus",2000,943287
+"CY","Cyprus",2001,961481
+"CY","Cyprus",2002,979877
+"CY","Cyprus",2003,998142
+"CY","Cyprus",2004,1015820
+"CY","Cyprus",2005,1032586
+"CY","Cyprus",2006,1048314
+"CY","Cyprus",2007,1063095
+"CY","Cyprus",2008,1077089
+"CY","Cyprus",2009,1090553
+"CY","Cyprus",2010,1103685
+"CY","Cyprus",2011,1116513
+"CY","Cyprus",2012,1128994
+"CY","Cyprus",2013,1141166
+"CZ","Czech Republic",2000,10255063
+"CZ","Czech Republic",2001,10216605
+"CZ","Czech Republic",2002,10196916
+"CZ","Czech Republic",2003,10193998
+"CZ","Czech Republic",2004,10197101
+"CZ","Czech Republic",2005,10211216
+"CZ","Czech Republic",2006,10238905
+"CZ","Czech Republic",2007,10298828
+"CZ","Czech Republic",2008,10384603
+"CZ","Czech Republic",2009,10443936
+"CZ","Czech Republic",2010,10474410
+"CZ","Czech Republic",2011,10496088
+"CZ","Czech Republic",2012,10510785
+"CZ","Czech Republic",2013,10521468
+"DK","Denmark",2000,5339616
+"DK","Denmark",2001,5358783
+"DK","Denmark",2002,5375931
+"DK","Denmark",2003,5390574
+"DK","Denmark",2004,5404523
+"DK","Denmark",2005,5419432
+"DK","Denmark",2006,5437272
+"DK","Denmark",2007,5461438
+"DK","Denmark",2008,5493621
+"DK","Denmark",2009,5523095
+"DK","Denmark",2010,5547683
+"DK","Denmark",2011,5570572
+"DK","Denmark",2012,5591572
+"DK","Denmark",2013,5613706
+"DJ","Djibouti",2000,722887
+"DJ","Djibouti",2001,733732
+"DJ","Djibouti",2002,744434
+"DJ","Djibouti",2003,755085
+"DJ","Djibouti",2004,765776
+"DJ","Djibouti",2005,776585
+"DJ","Djibouti",2006,787544
+"DJ","Djibouti",2007,798690
+"DJ","Djibouti",2008,810100
+"DJ","Djibouti",2009,821865
+"DJ","Djibouti",2010,834036
+"DJ","Djibouti",2011,846646
+"DJ","Djibouti",2012,859652
+"DJ","Djibouti",2013,872932
+"DM","Dominica",2000,69679
+"DM","Dominica",2001,69660
+"DM","Dominica",2002,69806
+"DM","Dominica",2003,70058
+"DM","Dominica",2004,70325
+"DM","Dominica",2005,70542
+"DM","Dominica",2006,70690
+"DM","Dominica",2007,70795
+"DM","Dominica",2008,70883
+"DM","Dominica",2009,70996
+"DM","Dominica",2010,71167
+"DM","Dominica",2011,71401
+"DM","Dominica",2012,71684
+"DM","Dominica",2013,72003
+"DO","Dominican Republic",2000,8663421
+"DO","Dominican Republic",2001,8799298
+"DO","Dominican Republic",2002,8935261
+"DO","Dominican Republic",2003,9071318
+"DO","Dominican Republic",2004,9207389
+"DO","Dominican Republic",2005,9343362
+"DO","Dominican Republic",2006,9479269
+"DO","Dominican Republic",2007,9615015
+"DO","Dominican Republic",2008,9750195
+"DO","Dominican Republic",2009,9884265
+"DO","Dominican Republic",2010,10016797
+"DO","Dominican Republic",2011,10147598
+"DO","Dominican Republic",2012,10276621
+"DO","Dominican Republic",2013,10403761
+"CD","DRC",2000,46949244
+"CD","DRC",2001,48167045
+"CD","DRC",2002,49516960
+"CD","DRC",2003,50972323
+"CD","DRC",2004,52487293
+"CD","DRC",2005,54028003
+"CD","DRC",2006,55590838
+"CD","DRC",2007,57187942
+"CD","DRC",2008,58819038
+"CD","DRC",2009,60486276
+"CD","DRC",2010,62191161
+"CD","DRC",2011,63931512
+"CD","DRC",2012,65705093
+"CD","DRC",2013,67513677
+"EC","Ecuador",2000,12533087
+"EC","Ecuador",2001,12780869
+"EC","Ecuador",2002,13030041
+"EC","Ecuador",2003,13279806
+"EC","Ecuador",2004,13529091
+"EC","Ecuador",2005,13777131
+"EC","Ecuador",2006,14023503
+"EC","Ecuador",2007,14268397
+"EC","Ecuador",2008,14512402
+"EC","Ecuador",2009,14756424
+"EC","Ecuador",2010,15001072
+"EC","Ecuador",2011,15246481
+"EC","Ecuador",2012,15492264
+"EC","Ecuador",2013,15737878
+"EG","Egypt",2000,66136590
+"EG","Egypt",2001,67204189
+"EG","Egypt",2002,68302914
+"EG","Egypt",2003,69432477
+"EG","Egypt",2004,70591288
+"EG","Egypt",2005,71777678
+"EG","Egypt",2006,72990754
+"EG","Egypt",2007,74229577
+"EG","Egypt",2008,75491922
+"EG","Egypt",2009,76775023
+"EG","Egypt",2010,78075705
+"EG","Egypt",2011,79392466
+"EG","Egypt",2012,80721874
+"EG","Egypt",2013,82056378
+"SV","El Salvador",2000,5958794
+"SV","El Salvador",2001,5985299
+"SV","El Salvador",2002,6008308
+"SV","El Salvador",2003,6029366
+"SV","El Salvador",2004,6050297
+"SV","El Salvador",2005,6072538
+"SV","El Salvador",2006,6096692
+"SV","El Salvador",2007,6122952
+"SV","El Salvador",2008,6151776
+"SV","El Salvador",2009,6183484
+"SV","El Salvador",2010,6218195
+"SV","El Salvador",2011,6256242
+"SV","El Salvador",2012,6297394
+"SV","El Salvador",2013,6340454
+"GQ","Equatorial Guinea",2000,518179
+"GQ","Equatorial Guinea",2001,534592
+"GQ","Equatorial Guinea",2002,551399
+"GQ","Equatorial Guinea",2003,568552
+"GQ","Equatorial Guinea",2004,585983
+"GQ","Equatorial Guinea",2005,603648
+"GQ","Equatorial Guinea",2006,621517
+"GQ","Equatorial Guinea",2007,639618
+"GQ","Equatorial Guinea",2008,658025
+"GQ","Equatorial Guinea",2009,676851
+"GQ","Equatorial Guinea",2010,696167
+"GQ","Equatorial Guinea",2011,715996
+"GQ","Equatorial Guinea",2012,736296
+"GQ","Equatorial Guinea",2013,757014
+"ER","Eritrea",2000,3939348
+"ER","Eritrea",2001,4101609
+"ER","Eritrea",2002,4281576
+"ER","Eritrea",2003,4472533
+"ER","Eritrea",2004,4665522
+"ER","Eritrea",2005,4854066
+"ER","Eritrea",2006,5035036
+"ER","Eritrea",2007,5209846
+"ER","Eritrea",2008,5382163
+"ER","Eritrea",2009,5557889
+"ER","Eritrea",2010,5741159
+"ER","Eritrea",2011,5932852
+"ER","Eritrea",2012,6130922
+"ER","Eritrea",2013,6333135
+"EE","Estonia",2000,1396985
+"EE","Estonia",2001,1388115
+"EE","Estonia",2002,1379350
+"EE","Estonia",2003,1370720
+"EE","Estonia",2004,1362550
+"EE","Estonia",2005,1354775
+"EE","Estonia",2006,1346810
+"EE","Estonia",2007,1340680
+"EE","Estonia",2008,1337090
+"EE","Estonia",2009,1334515
+"EE","Estonia",2010,1331475
+"EE","Estonia",2011,1327439
+"EE","Estonia",2012,1325016
+"EE","Estonia",2013,1324612
+"ET","Ethiopia",2000,66024199
+"ET","Ethiopia",2001,67956866
+"ET","Ethiopia",2002,69948344
+"ET","Ethiopia",2003,71989666
+"ET","Ethiopia",2004,74066147
+"ET","Ethiopia",2005,76167240
+"ET","Ethiopia",2006,78290649
+"ET","Ethiopia",2007,80440708
+"ET","Ethiopia",2008,82621190
+"ET","Ethiopia",2009,84838032
+"ET","Ethiopia",2010,87095281
+"ET","Ethiopia",2011,89393063
+"ET","Ethiopia",2012,91728849
+"ET","Ethiopia",2013,94100756
+"FO","Faroe Islands",2000,46491
+"FO","Faroe Islands",2001,47135
+"FO","Faroe Islands",2002,47751
+"FO","Faroe Islands",2003,48308
+"FO","Faroe Islands",2004,48782
+"FO","Faroe Islands",2005,49157
+"FO","Faroe Islands",2006,49414
+"FO","Faroe Islands",2007,49554
+"FO","Faroe Islands",2008,49601
+"FO","Faroe Islands",2009,49600
+"FO","Faroe Islands",2010,49581
+"FO","Faroe Islands",2011,49551
+"FO","Faroe Islands",2012,49506
+"FO","Faroe Islands",2013,49469
+"FJ","Fiji",2000,811647
+"FJ","Fiji",2001,814700
+"FJ","Fiji",2002,816237
+"FJ","Fiji",2003,817224
+"FJ","Fiji",2004,818995
+"FJ","Fiji",2005,822484
+"FJ","Fiji",2006,828060
+"FJ","Fiji",2007,835392
+"FJ","Fiji",2008,843851
+"FJ","Fiji",2009,852479
+"FJ","Fiji",2010,860559
+"FJ","Fiji",2011,867921
+"FJ","Fiji",2012,874742
+"FJ","Fiji",2013,881065
+"FI","Finland",2000,5176209
+"FI","Finland",2001,5188008
+"FI","Finland",2002,5200598
+"FI","Finland",2003,5213014
+"FI","Finland",2004,5228172
+"FI","Finland",2005,5246096
+"FI","Finland",2006,5266268
+"FI","Finland",2007,5288720
+"FI","Finland",2008,5313399
+"FI","Finland",2009,5338871
+"FI","Finland",2010,5363352
+"FI","Finland",2011,5388272
+"FI","Finland",2012,5413971
+"FI","Finland",2013,5439407
+"FR","France",2000,60911057
+"FR","France",2001,61355725
+"FR","France",2002,61803229
+"FR","France",2003,62242474
+"FR","France",2004,62702121
+"FR","France",2005,63176246
+"FR","France",2006,63617975
+"FR","France",2007,64012572
+"FR","France",2008,64371099
+"FR","France",2009,64702921
+"FR","France",2010,65023142
+"FR","France",2011,65343588
+"FR","France",2012,65676758
+"FR","France",2013,66028467
+"PF","French Polynesia",2000,237267
+"PF","French Polynesia",2001,241276
+"PF","French Polynesia",2002,245032
+"PF","French Polynesia",2003,248536
+"PF","French Polynesia",2004,251811
+"PF","French Polynesia",2005,254884
+"PF","French Polynesia",2006,257731
+"PF","French Polynesia",2007,260361
+"PF","French Polynesia",2008,262877
+"PF","French Polynesia",2009,265412
+"PF","French Polynesia",2010,268065
+"PF","French Polynesia",2011,270874
+"PF","French Polynesia",2012,273814
+"PF","French Polynesia",2013,276831
+"GA","Gabon",2000,1225527
+"GA","Gabon",2001,1255299
+"GA","Gabon",2002,1285318
+"GA","Gabon",2003,1315820
+"GA","Gabon",2004,1347125
+"GA","Gabon",2005,1379465
+"GA","Gabon",2006,1412907
+"GA","Gabon",2007,1447388
+"GA","Gabon",2008,1482843
+"GA","Gabon",2009,1519155
+"GA","Gabon",2010,1556222
+"GA","Gabon",2011,1594034
+"GA","Gabon",2012,1632572
+"GA","Gabon",2013,1671711
+"GM","Gambia",2000,1228863
+"GM","Gambia",2001,1266691
+"GM","Gambia",2002,1306667
+"GM","Gambia",2003,1348548
+"GM","Gambia",2004,1391934
+"GM","Gambia",2005,1436549
+"GM","Gambia",2006,1482324
+"GM","Gambia",2007,1529406
+"GM","Gambia",2008,1577984
+"GM","Gambia",2009,1628332
+"GM","Gambia",2010,1680640
+"GM","Gambia",2011,1734966
+"GM","Gambia",2012,1791225
+"GM","Gambia",2013,1849285
+"GE","Georgia",2000,4418300
+"GE","Georgia",2001,4386400
+"GE","Georgia",2002,4357000
+"GE","Georgia",2003,4328900
+"GE","Georgia",2004,4318300
+"GE","Georgia",2005,4361400
+"GE","Georgia",2006,4398000
+"GE","Georgia",2007,4388400
+"GE","Georgia",2008,4383800
+"GE","Georgia",2009,4410900
+"GE","Georgia",2010,4452800
+"GE","Georgia",2011,4483350
+"GE","Georgia",2012,4490700
+"GE","Georgia",2013,4476900
+"DE","Germany",2000,82211508
+"DE","Germany",2001,82349925
+"DE","Germany",2002,82488495
+"DE","Germany",2003,82534176
+"DE","Germany",2004,82516260
+"DE","Germany",2005,82469422
+"DE","Germany",2006,82376451
+"DE","Germany",2007,82266372
+"DE","Germany",2008,82110097
+"DE","Germany",2009,81902307
+"DE","Germany",2010,81776930
+"DE","Germany",2011,81797673
+"DE","Germany",2012,80425823
+"DE","Germany",2013,80621788
+"GH","Ghana",2000,18825034
+"GH","Ghana",2001,19293392
+"GH","Ghana",2002,19786307
+"GH","Ghana",2003,20301686
+"GH","Ghana",2004,20835514
+"GH","Ghana",2005,21384034
+"GH","Ghana",2006,21947779
+"GH","Ghana",2007,22525659
+"GH","Ghana",2008,23110139
+"GH","Ghana",2009,23691533
+"GH","Ghana",2010,24262901
+"GH","Ghana",2011,24820706
+"GH","Ghana",2012,25366462
+"GH","Ghana",2013,25904598
+"GR","Greece",2000,10917482
+"GR","Greece",2001,10951764
+"GR","Greece",2002,10983723
+"GR","Greece",2003,11018324
+"GR","Greece",2004,11055729
+"GR","Greece",2005,11092913
+"GR","Greece",2006,11127947
+"GR","Greece",2007,11163002
+"GR","Greece",2008,11186439
+"GR","Greece",2009,11187085
+"GR","Greece",2010,11153454
+"GR","Greece",2011,11123213
+"GR","Greece",2012,11092771
+"GR","Greece",2013,11032328
+"GL","Greenland",2000,56200
+"GL","Greenland",2001,56350
+"GL","Greenland",2002,56609
+"GL","Greenland",2003,56765
+"GL","Greenland",2004,56911
+"GL","Greenland",2005,56935
+"GL","Greenland",2006,56774
+"GL","Greenland",2007,56555
+"GL","Greenland",2008,56328
+"GL","Greenland",2009,56323
+"GL","Greenland",2010,56905
+"GL","Greenland",2011,56890
+"GL","Greenland",2012,56810
+"GL","Greenland",2013,56483
+"GD","Grenada",2000,101620
+"GD","Grenada",2001,101849
+"GD","Grenada",2002,102099
+"GD","Grenada",2003,102369
+"GD","Grenada",2004,102655
+"GD","Grenada",2005,102951
+"GD","Grenada",2006,103260
+"GD","Grenada",2007,103586
+"GD","Grenada",2008,103932
+"GD","Grenada",2009,104296
+"GD","Grenada",2010,104677
+"GD","Grenada",2011,105074
+"GD","Grenada",2012,105483
+"GD","Grenada",2013,105897
+"GU","Guam",2000,155328
+"GU","Guam",2001,156417
+"GU","Guam",2002,157241
+"GU","Guam",2003,157823
+"GU","Guam",2004,158194
+"GU","Guam",2005,158401
+"GU","Guam",2006,158429
+"GU","Guam",2007,158331
+"GU","Guam",2008,158310
+"GU","Guam",2009,158621
+"GU","Guam",2010,159440
+"GU","Guam",2011,160858
+"GU","Guam",2012,162810
+"GU","Guam",2013,165124
+"GT","Guatemala",2000,11204183
+"GT","Guatemala",2001,11478984
+"GT","Guatemala",2002,11765738
+"GT","Guatemala",2003,12062835
+"GT","Guatemala",2004,12367800
+"GT","Guatemala",2005,12678919
+"GT","Guatemala",2006,12995374
+"GT","Guatemala",2007,13317931
+"GT","Guatemala",2008,13648307
+"GT","Guatemala",2009,13988988
+"GT","Guatemala",2010,14341576
+"GT","Guatemala",2011,14706578
+"GT","Guatemala",2012,15082831
+"GT","Guatemala",2013,15468203
+"GN","Guinea",2000,8746128
+"GN","Guinea",2001,8895353
+"GN","Guinea",2002,9045748
+"GN","Guinea",2003,9204581
+"GN","Guinea",2004,9379621
+"GN","Guinea",2005,9576331
+"GN","Guinea",2006,9798963
+"GN","Guinea",2007,10046967
+"GN","Guinea",2008,10314678
+"GN","Guinea",2009,10593248
+"GN","Guinea",2010,10876033
+"GN","Guinea",2011,11161530
+"GN","Guinea",2012,11451273
+"GN","Guinea",2013,11745189
+"GW","Guinea-Bissau",2000,1273312
+"GW","Guinea-Bissau",2001,1301748
+"GW","Guinea-Bissau",2002,1330849
+"GW","Guinea-Bissau",2003,1360559
+"GW","Guinea-Bissau",2004,1390791
+"GW","Guinea-Bissau",2005,1421515
+"GW","Guinea-Bissau",2006,1452659
+"GW","Guinea-Bissau",2007,1484337
+"GW","Guinea-Bissau",2008,1516920
+"GW","Guinea-Bissau",2009,1550905
+"GW","Guinea-Bissau",2010,1586624
+"GW","Guinea-Bissau",2011,1624228
+"GW","Guinea-Bissau",2012,1663558
+"GW","Guinea-Bissau",2013,1704255
+"GY","Guyana",2000,744471
+"GY","Guyana",2001,747657
+"GY","Guyana",2002,750629
+"GY","Guyana",2003,753612
+"GY","Guyana",2004,756939
+"GY","Guyana",2005,760834
+"GY","Guyana",2006,765367
+"GY","Guyana",2007,770407
+"GY","Guyana",2008,775739
+"GY","Guyana",2009,781055
+"GY","Guyana",2010,786126
+"GY","Guyana",2011,790882
+"GY","Guyana",2012,795369
+"GY","Guyana",2013,799613
+"HT","Haiti",2000,8578234
+"HT","Haiti",2001,8720247
+"HT","Haiti",2002,8859635
+"HT","Haiti",2003,8996229
+"HT","Haiti",2004,9129933
+"HT","Haiti",2005,9260879
+"HT","Haiti",2006,9388642
+"HT","Haiti",2007,9513714
+"HT","Haiti",2008,9638255
+"HT","Haiti",2009,9765153
+"HT","Haiti",2010,9896400
+"HT","Haiti",2011,10032864
+"HT","Haiti",2012,10173775
+"HT","Haiti",2013,10317461
+"HN","Honduras",2000,6235561
+"HN","Honduras",2001,6365040
+"HN","Honduras",2002,6495801
+"HN","Honduras",2003,6628171
+"HN","Honduras",2004,6762426
+"HN","Honduras",2005,6898825
+"HN","Honduras",2006,7037428
+"HN","Honduras",2007,7178436
+"HN","Honduras",2008,7322368
+"HN","Honduras",2009,7469844
+"HN","Honduras",2010,7621204
+"HN","Honduras",2011,7776669
+"HN","Honduras",2012,7935846
+"HN","Honduras",2013,8097688
+"HK","Hong Kong",2000,6665000
+"HK","Hong Kong",2001,6714300
+"HK","Hong Kong",2002,6744100
+"HK","Hong Kong",2003,6730800
+"HK","Hong Kong",2004,6783500
+"HK","Hong Kong",2005,6813200
+"HK","Hong Kong",2006,6857100
+"HK","Hong Kong",2007,6916300
+"HK","Hong Kong",2008,6957800
+"HK","Hong Kong",2009,6972800
+"HK","Hong Kong",2010,7024200
+"HK","Hong Kong",2011,7071600
+"HK","Hong Kong",2012,7154600
+"HK","Hong Kong",2013,7187500
+"HU","Hungary",2000,10210971
+"HU","Hungary",2001,10187576
+"HU","Hungary",2002,10158608
+"HU","Hungary",2003,10129552
+"HU","Hungary",2004,10107146
+"HU","Hungary",2005,10087065
+"HU","Hungary",2006,10071370
+"HU","Hungary",2007,10055780
+"HU","Hungary",2008,10038188
+"HU","Hungary",2009,10022650
+"HU","Hungary",2010,10000023
+"HU","Hungary",2011,9971727
+"HU","Hungary",2012,9920362
+"HU","Hungary",2013,9897247
+"IS","Iceland",2000,281205
+"IS","Iceland",2001,284968
+"IS","Iceland",2002,287523
+"IS","Iceland",2003,289521
+"IS","Iceland",2004,292074
+"IS","Iceland",2005,296734
+"IS","Iceland",2006,303782
+"IS","Iceland",2007,311566
+"IS","Iceland",2008,317414
+"IS","Iceland",2009,318499
+"IS","Iceland",2010,318041
+"IS","Iceland",2011,319014
+"IS","Iceland",2012,320716
+"IS","Iceland",2013,323002
+"IN","India",2000,1042261758
+"IN","India",2001,1059500888
+"IN","India",2002,1076705723
+"IN","India",2003,1093786762
+"IN","India",2004,1110626108
+"IN","India",2005,1127143548
+"IN","India",2006,1143289350
+"IN","India",2007,1159095250
+"IN","India",2008,1174662334
+"IN","India",2009,1190138069
+"IN","India",2010,1205624648
+"IN","India",2011,1221156319
+"IN","India",2012,1236686732
+"IN","India",2013,1252139596
+"ID","Indonesia",2000,208938698
+"ID","Indonesia",2001,211970371
+"ID","Indonesia",2002,215038285
+"ID","Indonesia",2003,218145617
+"ID","Indonesia",2004,221293797
+"ID","Indonesia",2005,224480901
+"ID","Indonesia",2006,227709821
+"ID","Indonesia",2007,230972808
+"ID","Indonesia",2008,234243489
+"ID","Indonesia",2009,237486894
+"ID","Indonesia",2010,240676485
+"ID","Indonesia",2011,243801639
+"ID","Indonesia",2012,246864191
+"ID","Indonesia",2013,249865631
+"IR","Iran",2000,65911052
+"IR","Iran",2001,66857624
+"IR","Iran",2002,67727274
+"IR","Iran",2003,68543171
+"IR","Iran",2004,69342126
+"IR","Iran",2005,70152384
+"IR","Iran",2006,70976584
+"IR","Iran",2007,71809219
+"IR","Iran",2008,72660887
+"IR","Iran",2009,73542954
+"IR","Iran",2010,74462314
+"IR","Iran",2011,75424285
+"IR","Iran",2012,76424443
+"IR","Iran",2013,77447168
+"IQ","Iraq",2000,23801156
+"IQ","Iraq",2001,24516842
+"IQ","Iraq",2002,25238267
+"IQ","Iraq",2003,25959531
+"IQ","Iraq",2004,26673536
+"IQ","Iraq",2005,27377045
+"IQ","Iraq",2006,28064095
+"IQ","Iraq",2007,28740630
+"IQ","Iraq",2008,29429829
+"IQ","Iraq",2009,30163199
+"IQ","Iraq",2010,30962380
+"IQ","Iraq",2011,31760020
+"IQ","Iraq",2012,32578209
+"IQ","Iraq",2013,33417476
+"IE","Ireland",2000,3805174
+"IE","Ireland",2001,3866243
+"IE","Ireland",2002,3931947
+"IE","Ireland",2003,3996521
+"IE","Ireland",2004,4070262
+"IE","Ireland",2005,4159914
+"IE","Ireland",2006,4274137
+"IE","Ireland",2007,4398942
+"IE","Ireland",2008,4489544
+"IE","Ireland",2009,4535375
+"IE","Ireland",2010,4560155
+"IE","Ireland",2011,4576794
+"IE","Ireland",2012,4586897
+"IE","Ireland",2013,4595281
+"IL","Israel",2000,6289000
+"IL","Israel",2001,6439000
+"IL","Israel",2002,6570000
+"IL","Israel",2003,6689700
+"IL","Israel",2004,6809000
+"IL","Israel",2005,6930100
+"IL","Israel",2006,7053700
+"IL","Israel",2007,7180100
+"IL","Israel",2008,7308800
+"IL","Israel",2009,7485600
+"IL","Israel",2010,7623600
+"IL","Israel",2011,7765800
+"IL","Israel",2012,7910500
+"IL","Israel",2013,8059400
+"IT","Italy",2000,56942108
+"IT","Italy",2001,56974100
+"IT","Italy",2002,57059007
+"IT","Italy",2003,57313203
+"IT","Italy",2004,57685327
+"IT","Italy",2005,57969484
+"IT","Italy",2006,58143979
+"IT","Italy",2007,58438310
+"IT","Italy",2008,58826731
+"IT","Italy",2009,59095365
+"IT","Italy",2010,59277417
+"IT","Italy",2011,59379449
+"IT","Italy",2012,59539717
+"IT","Italy",2013,59831093
+"JM","Jamaica",2000,2589389
+"JM","Jamaica",2001,2605556
+"JM","Jamaica",2002,2615253
+"JM","Jamaica",2003,2624695
+"JM","Jamaica",2004,2634145
+"JM","Jamaica",2005,2643601
+"JM","Jamaica",2006,2653042
+"JM","Jamaica",2007,2662481
+"JM","Jamaica",2008,2671934
+"JM","Jamaica",2009,2681386
+"JM","Jamaica",2010,2690824
+"JM","Jamaica",2011,2699838
+"JM","Jamaica",2012,2707805
+"JM","Jamaica",2013,2715000
+"JP","Japan",2000,126870000
+"JP","Japan",2001,127149000
+"JP","Japan",2002,127445000
+"JP","Japan",2003,127718000
+"JP","Japan",2004,127761000
+"JP","Japan",2005,127773000
+"JP","Japan",2006,127756000
+"JP","Japan",2007,127770750
+"JP","Japan",2008,127704040
+"JP","Japan",2009,127557958
+"JP","Japan",2010,127450459
+"JP","Japan",2011,127817277
+"JP","Japan",2012,127561489
+"JP","Japan",2013,127338621
+"JO","Jordan",2000,4797000
+"JO","Jordan",2001,4917000
+"JO","Jordan",2002,5038000
+"JO","Jordan",2003,5164000
+"JO","Jordan",2004,5290000
+"JO","Jordan",2005,5411000
+"JO","Jordan",2006,5536000
+"JO","Jordan",2007,5661000
+"JO","Jordan",2008,5786000
+"JO","Jordan",2009,5915000
+"JO","Jordan",2010,6046000
+"JO","Jordan",2011,6181000
+"JO","Jordan",2012,6318000
+"JO","Jordan",2013,6459000
+"KZ","Kazakhstan",2000,14883626
+"KZ","Kazakhstan",2001,14858335
+"KZ","Kazakhstan",2002,14858948
+"KZ","Kazakhstan",2003,14909018
+"KZ","Kazakhstan",2004,15012985
+"KZ","Kazakhstan",2005,15147029
+"KZ","Kazakhstan",2006,15308084
+"KZ","Kazakhstan",2007,15484192
+"KZ","Kazakhstan",2008,15674000
+"KZ","Kazakhstan",2009,16092701
+"KZ","Kazakhstan",2010,16321581
+"KZ","Kazakhstan",2011,16556600
+"KZ","Kazakhstan",2012,16791425
+"KZ","Kazakhstan",2013,17037508
+"KE","Kenya",2000,31285050
+"KE","Kenya",2001,32126351
+"KE","Kenya",2002,33000524
+"KE","Kenya",2003,33905011
+"KE","Kenya",2004,34834606
+"KE","Kenya",2005,35785718
+"KE","Kenya",2006,36757498
+"KE","Kenya",2007,37752304
+"KE","Kenya",2008,38773277
+"KE","Kenya",2009,39824734
+"KE","Kenya",2010,40909194
+"KE","Kenya",2011,42027891
+"KE","Kenya",2012,43178141
+"KE","Kenya",2013,44353691
+"KI","Kiribati",2000,82788
+"KI","Kiribati",2001,84261
+"KI","Kiribati",2002,85799
+"KI","Kiribati",2003,87371
+"KI","Kiribati",2004,88936
+"KI","Kiribati",2005,90468
+"KI","Kiribati",2006,91953
+"KI","Kiribati",2007,93401
+"KI","Kiribati",2008,94832
+"KI","Kiribati",2009,96272
+"KI","Kiribati",2010,97743
+"KI","Kiribati",2011,99250
+"KI","Kiribati",2012,100786
+"KI","Kiribati",2013,102351
+"XK","Kosovo",2000,1700000
+"XK","Kosovo",2001,1701154
+"XK","Kosovo",2002,1702310
+"XK","Kosovo",2003,1703466
+"XK","Kosovo",2004,1704622
+"XK","Kosovo",2005,1705780
+"XK","Kosovo",2006,1719536
+"XK","Kosovo",2007,1733404
+"XK","Kosovo",2008,1747383
+"XK","Kosovo",2009,1761474
+"XK","Kosovo",2010,1775680
+"XK","Kosovo",2011,1790957
+"XK","Kosovo",2012,1807106
+"XK","Kosovo",2013,1824000
+"KW","Kuwait",2000,1906231
+"KW","Kuwait",2001,1980604
+"KW","Kuwait",2002,2048232
+"KW","Kuwait",2003,2116353
+"KW","Kuwait",2004,2196466
+"KW","Kuwait",2005,2296314
+"KW","Kuwait",2006,2417445
+"KW","Kuwait",2007,2554920
+"KW","Kuwait",2008,2702221
+"KW","Kuwait",2009,2850102
+"KW","Kuwait",2010,2991580
+"KW","Kuwait",2011,3124705
+"KW","Kuwait",2012,3250496
+"KW","Kuwait",2013,3368572
+"KG","Kyrgyzstan",2000,4898400
+"KG","Kyrgyzstan",2001,4945100
+"KG","Kyrgyzstan",2002,4990700
+"KG","Kyrgyzstan",2003,5043300
+"KG","Kyrgyzstan",2004,5104700
+"KG","Kyrgyzstan",2005,5162600
+"KG","Kyrgyzstan",2006,5218400
+"KG","Kyrgyzstan",2007,5268400
+"KG","Kyrgyzstan",2008,5318700
+"KG","Kyrgyzstan",2009,5383300
+"KG","Kyrgyzstan",2010,5447900
+"KG","Kyrgyzstan",2011,5514600
+"KG","Kyrgyzstan",2012,5607200
+"KG","Kyrgyzstan",2013,5719500
+"LA","Lao",2000,5388281
+"LA","Lao",2001,5470169
+"LA","Lao",2002,5545245
+"LA","Lao",2003,5619069
+"LA","Lao",2004,5699112
+"LA","Lao",2005,5790646
+"LA","Lao",2006,5895930
+"LA","Lao",2007,6013278
+"LA","Lao",2008,6139127
+"LA","Lao",2009,6267968
+"LA","Lao",2010,6395713
+"LA","Lao",2011,6521314
+"LA","Lao",2012,6645827
+"LA","Lao",2013,6769727
+"LV","Latvia",2000,2367550
+"LV","Latvia",2001,2337170
+"LV","Latvia",2002,2310173
+"LV","Latvia",2003,2287955
+"LV","Latvia",2004,2263122
+"LV","Latvia",2005,2238799
+"LV","Latvia",2006,2218357
+"LV","Latvia",2007,2200325
+"LV","Latvia",2008,2177322
+"LV","Latvia",2009,2141669
+"LV","Latvia",2010,2097555
+"LV","Latvia",2011,2059709
+"LV","Latvia",2012,2034319
+"LV","Latvia",2013,2013385
+"LB","Lebanon",2000,3235380
+"LB","Lebanon",2001,3357600
+"LB","Lebanon",2002,3515604
+"LB","Lebanon",2003,3690110
+"LB","Lebanon",2004,3853582
+"LB","Lebanon",2005,3986865
+"LB","Lebanon",2006,4079823
+"LB","Lebanon",2007,4139813
+"LB","Lebanon",2008,4186088
+"LB","Lebanon",2009,4246924
+"LB","Lebanon",2010,4341092
+"LB","Lebanon",2011,4382790
+"LB","Lebanon",2012,4424888
+"LB","Lebanon",2013,4467390
+"LS","Lesotho",2000,1856225
+"LS","Lesotho",2001,1871500
+"LS","Lesotho",2002,1885487
+"LS","Lesotho",2003,1898757
+"LS","Lesotho",2004,1912022
+"LS","Lesotho",2005,1925844
+"LS","Lesotho",2006,1940413
+"LS","Lesotho",2007,1955784
+"LS","Lesotho",2008,1972199
+"LS","Lesotho",2009,1989873
+"LS","Lesotho",2010,2008921
+"LS","Lesotho",2011,2029516
+"LS","Lesotho",2012,2051545
+"LS","Lesotho",2013,2074465
+"LR","Liberia",2000,2891968
+"LR","Liberia",2001,2998770
+"LR","Liberia",2002,3070673
+"LR","Liberia",2003,3124222
+"LR","Liberia",2004,3184643
+"LR","Liberia",2005,3269786
+"LR","Liberia",2006,3384791
+"LR","Liberia",2007,3522294
+"LR","Liberia",2008,3672714
+"LR","Liberia",2009,3821440
+"LR","Liberia",2010,3957990
+"LR","Liberia",2011,4079697
+"LR","Liberia",2012,4190435
+"LR","Liberia",2013,4294077
+"LY","Libya",2000,5176185
+"LY","Libya",2001,5258677
+"LY","Libya",2002,5340389
+"LY","Libya",2003,5422612
+"LY","Libya",2004,5507000
+"LY","Libya",2005,5594450
+"LY","Libya",2006,5686475
+"LY","Libya",2007,5782108
+"LY","Libya",2008,5876805
+"LY","Libya",2009,5964325
+"LY","Libya",2010,6040612
+"LY","Libya",2011,6103233
+"LY","Libya",2012,6154623
+"LY","Libya",2013,6201521
+"LI","Liechtenstein",2000,33093
+"LI","Liechtenstein",2001,33475
+"LI","Liechtenstein",2002,33821
+"LI","Liechtenstein",2003,34141
+"LI","Liechtenstein",2004,34445
+"LI","Liechtenstein",2005,34740
+"LI","Liechtenstein",2006,35028
+"LI","Liechtenstein",2007,35308
+"LI","Liechtenstein",2008,35582
+"LI","Liechtenstein",2009,35851
+"LI","Liechtenstein",2010,36120
+"LI","Liechtenstein",2011,36388
+"LI","Liechtenstein",2012,36656
+"LI","Liechtenstein",2013,36925
+"LT","Lithuania",2000,3499536
+"LT","Lithuania",2001,3470818
+"LT","Lithuania",2002,3443067
+"LT","Lithuania",2003,3415213
+"LT","Lithuania",2004,3377075
+"LT","Lithuania",2005,3322528
+"LT","Lithuania",2006,3269909
+"LT","Lithuania",2007,3231294
+"LT","Lithuania",2008,3198231
+"LT","Lithuania",2009,3162916
+"LT","Lithuania",2010,3097282
+"LT","Lithuania",2011,3028115
+"LT","Lithuania",2012,2987773
+"LT","Lithuania",2013,2956121
+"LU","Luxembourg",2000,436300
+"LU","Luxembourg",2001,441525
+"LU","Luxembourg",2002,446175
+"LU","Luxembourg",2003,451630
+"LU","Luxembourg",2004,458095
+"LU","Luxembourg",2005,465158
+"LU","Luxembourg",2006,472637
+"LU","Luxembourg",2007,479993
+"LU","Luxembourg",2008,488650
+"LU","Luxembourg",2009,497783
+"LU","Luxembourg",2010,506953
+"LU","Luxembourg",2011,518347
+"LU","Luxembourg",2012,530946
+"LU","Luxembourg",2013,543202
+"MO","Macao",2000,431907
+"MO","Macao",2001,438080
+"MO","Macao",2002,444150
+"MO","Macao",2003,450711
+"MO","Macao",2004,458542
+"MO","Macao",2005,468149
+"MO","Macao",2006,479808
+"MO","Macao",2007,493206
+"MO","Macao",2008,507528
+"MO","Macao",2009,521617
+"MO","Macao",2010,534626
+"MO","Macao",2011,546278
+"MO","Macao",2012,556783
+"MO","Macao",2013,566375
+"MK","Macedonia",2000,2052129
+"MK","Macedonia",2001,2065098
+"MK","Macedonia",2002,2074441
+"MK","Macedonia",2003,2080866
+"MK","Macedonia",2004,2085728
+"MK","Macedonia",2005,2090044
+"MK","Macedonia",2006,2093801
+"MK","Macedonia",2007,2096620
+"MK","Macedonia",2008,2098769
+"MK","Macedonia",2009,2100558
+"MK","Macedonia",2010,2102216
+"MK","Macedonia",2011,2103890
+"MK","Macedonia",2012,2105575
+"MK","Macedonia",2013,2107158
+"MG","Madagascar",2000,15744811
+"MG","Madagascar",2001,16235767
+"MG","Madagascar",2002,16736029
+"MG","Madagascar",2003,17245275
+"MG","Madagascar",2004,17763367
+"MG","Madagascar",2005,18290394
+"MG","Madagascar",2006,18826126
+"MG","Madagascar",2007,19371023
+"MG","Madagascar",2008,19926785
+"MG","Madagascar",2009,20495695
+"MG","Madagascar",2010,21079532
+"MG","Madagascar",2011,21678934
+"MG","Madagascar",2012,22293914
+"MG","Madagascar",2013,22924851
+"MW","Malawi",2000,11321496
+"MW","Malawi",2001,11623166
+"MW","Malawi",2002,11926778
+"MW","Malawi",2003,12238739
+"MW","Malawi",2004,12569091
+"MW","Malawi",2005,12924746
+"MW","Malawi",2006,13307535
+"MW","Malawi",2007,13713758
+"MW","Malawi",2008,14138207
+"MW","Malawi",2009,14573338
+"MW","Malawi",2010,15013694
+"MW","Malawi",2011,15457531
+"MW","Malawi",2012,15906483
+"MW","Malawi",2013,16362567
+"MY","Malaysia",2000,23420751
+"MY","Malaysia",2001,23925742
+"MY","Malaysia",2002,24413795
+"MY","Malaysia",2003,24890654
+"MY","Malaysia",2004,25365089
+"MY","Malaysia",2005,25843466
+"MY","Malaysia",2006,26327098
+"MY","Malaysia",2007,26813819
+"MY","Malaysia",2008,27302348
+"MY","Malaysia",2009,27790324
+"MY","Malaysia",2010,28275835
+"MY","Malaysia",2011,28758968
+"MY","Malaysia",2012,29239927
+"MY","Malaysia",2013,29716965
+"MV","Maldives",2000,272745
+"MV","Maldives",2001,277825
+"MV","Maldives",2002,282743
+"MV","Maldives",2003,287594
+"MV","Maldives",2004,292505
+"MV","Maldives",2005,297576
+"MV","Maldives",2006,302825
+"MV","Maldives",2007,308239
+"MV","Maldives",2008,313843
+"MV","Maldives",2009,319660
+"MV","Maldives",2010,325694
+"MV","Maldives",2011,331964
+"MV","Maldives",2012,338442
+"MV","Maldives",2013,345023
+"ML","Mali",2000,10260577
+"ML","Mali",2001,10562768
+"ML","Mali",2002,10882662
+"ML","Mali",2003,11219737
+"ML","Mali",2004,11572936
+"ML","Mali",2005,11941258
+"ML","Mali",2006,12325545
+"ML","Mali",2007,12725629
+"ML","Mali",2008,13138299
+"ML","Mali",2009,13559296
+"ML","Mali",2010,13985961
+"ML","Mali",2011,14416737
+"ML","Mali",2012,14853572
+"ML","Mali",2013,15301650
+"MT","Malta",2000,381363
+"MT","Malta",2001,393028
+"MT","Malta",2002,395969
+"MT","Malta",2003,398582
+"MT","Malta",2004,401268
+"MT","Malta",2005,403834
+"MT","Malta",2006,405308
+"MT","Malta",2007,406724
+"MT","Malta",2008,409379
+"MT","Malta",2009,412477
+"MT","Malta",2010,414508
+"MT","Malta",2011,416268
+"MT","Malta",2012,419455
+"MT","Malta",2013,423282
+"MH","Marshall Islands",2000,52161
+"MH","Marshall Islands",2001,52184
+"MH","Marshall Islands",2002,52161
+"MH","Marshall Islands",2003,52115
+"MH","Marshall Islands",2004,52074
+"MH","Marshall Islands",2005,52058
+"MH","Marshall Islands",2006,52084
+"MH","Marshall Islands",2007,52150
+"MH","Marshall Islands",2008,52245
+"MH","Marshall Islands",2009,52341
+"MH","Marshall Islands",2010,52428
+"MH","Marshall Islands",2011,52495
+"MH","Marshall Islands",2012,52555
+"MH","Marshall Islands",2013,52634
+"MR","Mauritania",2000,2708095
+"MR","Mauritania",2001,2791403
+"MR","Mauritania",2002,2877431
+"MR","Mauritania",2003,2965667
+"MR","Mauritania",2004,3055425
+"MR","Mauritania",2005,3146164
+"MR","Mauritania",2006,3237713
+"MR","Mauritania",2007,3330037
+"MR","Mauritania",2008,3422901
+"MR","Mauritania",2009,3516077
+"MR","Mauritania",2010,3609420
+"MR","Mauritania",2011,3702763
+"MR","Mauritania",2012,3796141
+"MR","Mauritania",2013,3889880
+"MU","Mauritius",2000,1186873
+"MU","Mauritius",2001,1199881
+"MU","Mauritius",2002,1210196
+"MU","Mauritius",2003,1222811
+"MU","Mauritius",2004,1233386
+"MU","Mauritius",2005,1243253
+"MU","Mauritius",2006,1252698
+"MU","Mauritius",2007,1260403
+"MU","Mauritius",2008,1268565
+"MU","Mauritius",2009,1275032
+"MU","Mauritius",2010,1280924
+"MU","Mauritius",2011,1286051
+"MU","Mauritius",2012,1291167
+"MU","Mauritius",2013,1296303
+"MX","Mexico",2000,103873607
+"MX","Mexico",2001,105339877
+"MX","Mexico",2002,106723661
+"MX","Mexico",2003,108056312
+"MX","Mexico",2004,109381550
+"MX","Mexico",2005,110731826
+"MX","Mexico",2006,112116694
+"MX","Mexico",2007,113529819
+"MX","Mexico",2008,114968039
+"MX","Mexico",2009,116422752
+"MX","Mexico",2010,117886404
+"MX","Mexico",2011,119361233
+"MX","Mexico",2012,120847477
+"MX","Mexico",2013,122332399
+"FM","Micronesia",2000,107430
+"FM","Micronesia",2001,107170
+"FM","Micronesia",2002,106983
+"FM","Micronesia",2003,106816
+"FM","Micronesia",2004,106575
+"FM","Micronesia",2005,106198
+"FM","Micronesia",2006,105686
+"FM","Micronesia",2007,105097
+"FM","Micronesia",2008,104498
+"FM","Micronesia",2009,103983
+"FM","Micronesia",2010,103619
+"FM","Micronesia",2011,103424
+"FM","Micronesia",2012,103395
+"FM","Micronesia",2013,103549
+"MD","Moldova",2000,3639592
+"MD","Moldova",2001,3631462
+"MD","Moldova",2002,3623062
+"MD","Moldova",2003,3612874
+"MD","Moldova",2004,3603945
+"MD","Moldova",2005,3595187
+"MD","Moldova",2006,3585209
+"MD","Moldova",2007,3576910
+"MD","Moldova",2008,3570108
+"MD","Moldova",2009,3565604
+"MD","Moldova",2010,3562045
+"MD","Moldova",2011,3559986
+"MD","Moldova",2012,3559519
+"MD","Moldova",2013,3559000
+"MC","Monaco",2000,32081
+"MC","Monaco",2001,32366
+"MC","Monaco",2002,32653
+"MC","Monaco",2003,32968
+"MC","Monaco",2004,33346
+"MC","Monaco",2005,33808
+"MC","Monaco",2006,34369
+"MC","Monaco",2007,35013
+"MC","Monaco",2008,35686
+"MC","Monaco",2009,36314
+"MC","Monaco",2010,36845
+"MC","Monaco",2011,37261
+"MC","Monaco",2012,37579
+"MC","Monaco",2013,37831
+"MN","Mongolia",2000,2397473
+"MN","Mongolia",2001,2419669
+"MN","Mongolia",2002,2443231
+"MN","Mongolia",2003,2468595
+"MN","Mongolia",2004,2496248
+"MN","Mongolia",2005,2526502
+"MN","Mongolia",2006,2559496
+"MN","Mongolia",2007,2595068
+"MN","Mongolia",2008,2632834
+"MN","Mongolia",2009,2672223
+"MN","Mongolia",2010,2712738
+"MN","Mongolia",2011,2754209
+"MN","Mongolia",2012,2796484
+"MN","Mongolia",2013,2839073
+"ME","Montenegro",2000,611196
+"ME","Montenegro",2001,611525
+"ME","Montenegro",2002,612325
+"ME","Montenegro",2003,613448
+"ME","Montenegro",2004,614670
+"ME","Montenegro",2005,615820
+"ME","Montenegro",2006,616854
+"ME","Montenegro",2007,617800
+"ME","Montenegro",2008,618649
+"ME","Montenegro",2009,619408
+"ME","Montenegro",2010,620078
+"ME","Montenegro",2011,620644
+"ME","Montenegro",2012,621081
+"ME","Montenegro",2013,621383
+"MA","Morocco",2000,28710123
+"MA","Morocco",2001,29021156
+"MA","Morocco",2002,29311443
+"MA","Morocco",2003,29586937
+"MA","Morocco",2004,29855820
+"MA","Morocco",2005,30125445
+"MA","Morocco",2006,30395097
+"MA","Morocco",2007,30667086
+"MA","Morocco",2008,30955151
+"MA","Morocco",2009,31276564
+"MA","Morocco",2010,31642360
+"MA","Morocco",2011,32059424
+"MA","Morocco",2012,32521143
+"MA","Morocco",2013,33008150
+"MZ","Mozambique",2000,18275618
+"MZ","Mozambique",2001,18785719
+"MZ","Mozambique",2002,19319894
+"MZ","Mozambique",2003,19873460
+"MZ","Mozambique",2004,20438827
+"MZ","Mozambique",2005,21010376
+"MZ","Mozambique",2006,21587317
+"MZ","Mozambique",2007,22171404
+"MZ","Mozambique",2008,22762525
+"MZ","Mozambique",2009,23361025
+"MZ","Mozambique",2010,23967265
+"MZ","Mozambique",2011,24581367
+"MZ","Mozambique",2012,25203395
+"MZ","Mozambique",2013,25833752
+"MM","Myanmar",2000,48453000
+"MM","Myanmar",2001,48894203
+"MM","Myanmar",2002,49261313
+"MM","Myanmar",2003,49577152
+"MM","Myanmar",2004,49875169
+"MM","Myanmar",2005,50181020
+"MM","Myanmar",2006,50500070
+"MM","Myanmar",2007,50828959
+"MM","Myanmar",2008,51174018
+"MM","Myanmar",2009,51540490
+"MM","Myanmar",2010,51931231
+"MM","Myanmar",2011,52350763
+"MM","Myanmar",2012,52797319
+"MM","Myanmar",2013,53259018
+"NA","Namibia",2000,1897953
+"NA","Namibia",2001,1931282
+"NA","Namibia",2002,1958303
+"NA","Namibia",2003,1981237
+"NA","Namibia",2004,2003320
+"NA","Namibia",2005,2027026
+"NA","Namibia",2006,2052931
+"NA","Namibia",2007,2080700
+"NA","Namibia",2008,2110791
+"NA","Namibia",2009,2143498
+"NA","Namibia",2010,2178967
+"NA","Namibia",2011,2217618
+"NA","Namibia",2012,2259393
+"NA","Namibia",2013,2303315
+"NP","Nepal",2000,23184177
+"NP","Nepal",2001,23655119
+"NP","Nepal",2002,24102862
+"NP","Nepal",2003,24525527
+"NP","Nepal",2004,24921910
+"NP","Nepal",2005,25292058
+"NP","Nepal",2006,25634043
+"NP","Nepal",2007,25950022
+"NP","Nepal",2008,26249412
+"NP","Nepal",2009,26544943
+"NP","Nepal",2010,26846016
+"NP","Nepal",2011,27156367
+"NP","Nepal",2012,27474377
+"NP","Nepal",2013,27797457
+"NL","Netherlands",2000,15925513
+"NL","Netherlands",2001,16046180
+"NL","Netherlands",2002,16148929
+"NL","Netherlands",2003,16225302
+"NL","Netherlands",2004,16281779
+"NL","Netherlands",2005,16319868
+"NL","Netherlands",2006,16346101
+"NL","Netherlands",2007,16381696
+"NL","Netherlands",2008,16445593
+"NL","Netherlands",2009,16530388
+"NL","Netherlands",2010,16615394
+"NL","Netherlands",2011,16693074
+"NL","Netherlands",2012,16754962
+"NL","Netherlands",2013,16804224
+"NC","New Caledonia",2000,213230
+"NC","New Caledonia",2001,217324
+"NC","New Caledonia",2002,221490
+"NC","New Caledonia",2003,225735
+"NC","New Caledonia",2004,230068
+"NC","New Caledonia",2005,234393
+"NC","New Caledonia",2006,238459
+"NC","New Caledonia",2007,242400
+"NC","New Caledonia",2008,243985
+"NC","New Caledonia",2009,245580
+"NC","New Caledonia",2010,250000
+"NC","New Caledonia",2011,254000
+"NC","New Caledonia",2012,258000
+"NC","New Caledonia",2013,262000
+"NZ","New Zealand",2000,3857700
+"NZ","New Zealand",2001,3880500
+"NZ","New Zealand",2002,3948500
+"NZ","New Zealand",2003,4027200
+"NZ","New Zealand",2004,4087500
+"NZ","New Zealand",2005,4133900
+"NZ","New Zealand",2006,4184600
+"NZ","New Zealand",2007,4228300
+"NZ","New Zealand",2008,4268900
+"NZ","New Zealand",2009,4315800
+"NZ","New Zealand",2010,4367800
+"NZ","New Zealand",2011,4405200
+"NZ","New Zealand",2012,4433000
+"NZ","New Zealand",2013,4470800
+"NI","Nicaragua",2000,5100920
+"NI","Nicaragua",2001,5176685
+"NI","Nicaragua",2002,5248577
+"NI","Nicaragua",2003,5317878
+"NI","Nicaragua",2004,5386299
+"NI","Nicaragua",2005,5455219
+"NI","Nicaragua",2006,5524927
+"NI","Nicaragua",2007,5595533
+"NI","Nicaragua",2008,5667983
+"NI","Nicaragua",2009,5743329
+"NI","Nicaragua",2010,5822209
+"NI","Nicaragua",2011,5905146
+"NI","Nicaragua",2012,5991733
+"NI","Nicaragua",2013,6080478
+"NE","Niger",2000,10989815
+"NE","Niger",2001,11396434
+"NE","Niger",2002,11817297
+"NE","Niger",2003,12254040
+"NE","Niger",2004,12708897
+"NE","Niger",2005,13183798
+"NE","Niger",2006,13679705
+"NE","Niger",2007,14197289
+"NE","Niger",2008,14737895
+"NE","Niger",2009,15302948
+"NE","Niger",2010,15893746
+"NE","Niger",2011,16511462
+"NE","Niger",2012,17157042
+"NE","Niger",2013,17831270
+"NG","Nigeria",2000,122876727
+"NG","Nigeria",2001,126004992
+"NG","Nigeria",2002,129224641
+"NG","Nigeria",2003,132550146
+"NG","Nigeria",2004,135999250
+"NG","Nigeria",2005,139585891
+"NG","Nigeria",2006,143314909
+"NG","Nigeria",2007,147187353
+"NG","Nigeria",2008,151208080
+"NG","Nigeria",2009,155381020
+"NG","Nigeria",2010,159707780
+"NG","Nigeria",2011,164192925
+"NG","Nigeria",2012,168833776
+"NG","Nigeria",2013,173615345
+"KP","North Korea",2000,22840225
+"KP","North Korea",2001,23043449
+"KP","North Korea",2002,23248059
+"KP","North Korea",2003,23449180
+"KP","North Korea",2004,23639303
+"KP","North Korea",2005,23813333
+"KP","North Korea",2006,23969917
+"KP","North Korea",2007,24111989
+"KP","North Korea",2008,24243894
+"KP","North Korea",2009,24371865
+"KP","North Korea",2010,24500520
+"KP","North Korea",2011,24631291
+"KP","North Korea",2012,24763188
+"KP","North Korea",2013,24895480
+"MP","Northern Mariana Islands",2000,68434
+"MP","Northern Mariana Islands",2001,68817
+"MP","Northern Mariana Islands",2002,68499
+"MP","Northern Mariana Islands",2003,67562
+"MP","Northern Mariana Islands",2004,66143
+"MP","Northern Mariana Islands",2005,64372
+"MP","Northern Mariana Islands",2006,62235
+"MP","Northern Mariana Islands",2007,59792
+"MP","Northern Mariana Islands",2008,57345
+"MP","Northern Mariana Islands",2009,55278
+"MP","Northern Mariana Islands",2010,53860
+"MP","Northern Mariana Islands",2011,53230
+"MP","Northern Mariana Islands",2012,53305
+"MP","Northern Mariana Islands",2013,53855
+"NO","Norway",2000,4490967
+"NO","Norway",2001,4513751
+"NO","Norway",2002,4538159
+"NO","Norway",2003,4564855
+"NO","Norway",2004,4591910
+"NO","Norway",2005,4623291
+"NO","Norway",2006,4660677
+"NO","Norway",2007,4709153
+"NO","Norway",2008,4768212
+"NO","Norway",2009,4828726
+"NO","Norway",2010,4889252
+"NO","Norway",2011,4953088
+"NO","Norway",2012,5018573
+"NO","Norway",2013,5084190
+"OM","Oman",2000,2192535
+"OM","Oman",2001,2239025
+"OM","Oman",2002,2308409
+"OM","Oman",2003,2389121
+"OM","Oman",2004,2464001
+"OM","Oman",2005,2522325
+"OM","Oman",2006,2554905
+"OM","Oman",2007,2569739
+"OM","Oman",2008,2593523
+"OM","Oman",2009,2663224
+"OM","Oman",2010,2802768
+"OM","Oman",2011,3024774
+"OM","Oman",2012,3314001
+"OM","Oman",2013,3632444
+"PK","Pakistan",2000,143832014
+"PK","Pakistan",2001,146857081
+"PK","Pakistan",2002,149693684
+"PK","Pakistan",2003,152419974
+"PK","Pakistan",2004,155151394
+"PK","Pakistan",2005,157971415
+"PK","Pakistan",2006,160905794
+"PK","Pakistan",2007,163928329
+"PK","Pakistan",2008,167008083
+"PK","Pakistan",2009,170093999
+"PK","Pakistan",2010,173149306
+"PK","Pakistan",2011,176166353
+"PK","Pakistan",2012,179160111
+"PK","Pakistan",2013,182142594
+"PW","Palau",2000,19174
+"PW","Palau",2001,19404
+"PW","Palau",2002,19575
+"PW","Palau",2003,19700
+"PW","Palau",2004,19805
+"PW","Palau",2005,19907
+"PW","Palau",2006,20012
+"PW","Palau",2007,20118
+"PW","Palau",2008,20228
+"PW","Palau",2009,20344
+"PW","Palau",2010,20470
+"PW","Palau",2011,20606
+"PW","Palau",2012,20754
+"PW","Palau",2013,20918
+"PS","Palestine",2000,2922153
+"PS","Palestine",2001,2997784
+"PS","Palestine",2002,3075373
+"PS","Palestine",2003,3154969
+"PS","Palestine",2004,3236626
+"PS","Palestine",2005,3320396
+"PS","Palestine",2006,3406334
+"PS","Palestine",2007,3494496
+"PS","Palestine",2008,3596688
+"PS","Palestine",2009,3702218
+"PS","Palestine",2010,3811102
+"PS","Palestine",2011,3927051
+"PS","Palestine",2012,4046901
+"PS","Palestine",2013,4169506
+"PA","Panama",2000,3054812
+"PA","Panama",2001,3116409
+"PA","Panama",2002,3178450
+"PA","Panama",2003,3240805
+"PA","Panama",2004,3303335
+"PA","Panama",2005,3365929
+"PA","Panama",2006,3428509
+"PA","Panama",2007,3491034
+"PA","Panama",2008,3553480
+"PA","Panama",2009,3615846
+"PA","Panama",2010,3678128
+"PA","Panama",2011,3740282
+"PA","Panama",2012,3802281
+"PA","Panama",2013,3864170
+"PG","Papua New Guinea",2000,5379226
+"PG","Papua New Guinea",2001,5518971
+"PG","Papua New Guinea",2002,5660267
+"PG","Papua New Guinea",2003,5803302
+"PG","Papua New Guinea",2004,5948461
+"PG","Papua New Guinea",2005,6095959
+"PG","Papua New Guinea",2006,6245797
+"PG","Papua New Guinea",2007,6397623
+"PG","Papua New Guinea",2008,6550877
+"PG","Papua New Guinea",2009,6704829
+"PG","Papua New Guinea",2010,6858945
+"PG","Papua New Guinea",2011,7012977
+"PG","Papua New Guinea",2012,7167010
+"PG","Papua New Guinea",2013,7321262
+"PY","Paraguay",2000,5350253
+"PY","Paraguay",2001,5460621
+"PY","Paraguay",2002,5571371
+"PY","Paraguay",2003,5682350
+"PY","Paraguay",2004,5793330
+"PY","Paraguay",2005,5904170
+"PY","Paraguay",2006,6014781
+"PY","Paraguay",2007,6125285
+"PY","Paraguay",2008,6236005
+"PY","Paraguay",2009,6347383
+"PY","Paraguay",2010,6459721
+"PY","Paraguay",2011,6573097
+"PY","Paraguay",2012,6687361
+"PY","Paraguay",2013,6802295
+"PE","Peru",2000,26000080
+"PE","Peru",2001,26372358
+"PE","Peru",2002,26729909
+"PE","Peru",2003,27073334
+"PE","Peru",2004,27403845
+"PE","Peru",2005,27723281
+"PE","Peru",2006,28030688
+"PE","Peru",2007,28328410
+"PE","Peru",2008,28625628
+"PE","Peru",2009,28934303
+"PE","Peru",2010,29262830
+"PE","Peru",2011,29614887
+"PE","Peru",2012,29987800
+"PE","Peru",2013,30375603
+"PH","Philippines",2000,77651848
+"PH","Philippines",2001,79297756
+"PH","Philippines",2002,80953652
+"PH","Philippines",2003,82604681
+"PH","Philippines",2004,84231329
+"PH","Philippines",2005,85821214
+"PH","Philippines",2006,87366573
+"PH","Philippines",2007,88875548
+"PH","Philippines",2008,90371287
+"PH","Philippines",2009,91886400
+"PH","Philippines",2010,93444322
+"PH","Philippines",2011,95053437
+"PH","Philippines",2012,96706764
+"PH","Philippines",2013,98393574
+"PL","Poland",2000,38258629
+"PL","Poland",2001,38248076
+"PL","Poland",2002,38230364
+"PL","Poland",2003,38204570
+"PL","Poland",2004,38182222
+"PL","Poland",2005,38165445
+"PL","Poland",2006,38141267
+"PL","Poland",2007,38120560
+"PL","Poland",2008,38125759
+"PL","Poland",2009,38151603
+"PL","Poland",2010,38183683
+"PL","Poland",2011,38534157
+"PL","Poland",2012,38535873
+"PL","Poland",2013,38530725
+"PT","Portugal",2000,10289898
+"PT","Portugal",2001,10362722
+"PT","Portugal",2002,10419631
+"PT","Portugal",2003,10458821
+"PT","Portugal",2004,10483861
+"PT","Portugal",2005,10503330
+"PT","Portugal",2006,10522288
+"PT","Portugal",2007,10542964
+"PT","Portugal",2008,10558177
+"PT","Portugal",2009,10568247
+"PT","Portugal",2010,10573100
+"PT","Portugal",2011,10557560
+"PT","Portugal",2012,10514844
+"PT","Portugal",2013,10459806
+"PR","Puerto Rico",2000,3810605
+"PR","Puerto Rico",2001,3818774
+"PR","Puerto Rico",2002,3823701
+"PR","Puerto Rico",2003,3826095
+"PR","Puerto Rico",2004,3826878
+"PR","Puerto Rico",2005,3821362
+"PR","Puerto Rico",2006,3805214
+"PR","Puerto Rico",2007,3782995
+"PR","Puerto Rico",2008,3760866
+"PR","Puerto Rico",2009,3740410
+"PR","Puerto Rico",2010,3721208
+"PR","Puerto Rico",2011,3686580
+"PR","Puerto Rico",2012,3651545
+"PR","Puerto Rico",2013,3615086
+"QA","Qatar",2000,593693
+"QA","Qatar",2001,611808
+"QA","Qatar",2002,629745
+"QA","Qatar",2003,660238
+"QA","Qatar",2004,720383
+"QA","Qatar",2005,821159
+"QA","Qatar",2006,967602
+"QA","Qatar",2007,1152459
+"QA","Qatar",2008,1359114
+"QA","Qatar",2009,1564082
+"QA","Qatar",2010,1749713
+"QA","Qatar",2011,1910902
+"QA","Qatar",2012,2050514
+"QA","Qatar",2013,2168673
+"RO","Romania",2000,22442971
+"RO","Romania",2001,22131970
+"RO","Romania",2002,21730496
+"RO","Romania",2003,21574326
+"RO","Romania",2004,21451748
+"RO","Romania",2005,21319685
+"RO","Romania",2006,21193760
+"RO","Romania",2007,20882982
+"RO","Romania",2008,20537875
+"RO","Romania",2009,20367487
+"RO","Romania",2010,20246871
+"RO","Romania",2011,20147528
+"RO","Romania",2012,20076727
+"RO","Romania",2013,19963581
+"RU","Russian Federation",2000,146596870
+"RU","Russian Federation",2001,145976473
+"RU","Russian Federation",2002,145408033
+"RU","Russian Federation",2003,144667468
+"RU","Russian Federation",2004,143821212
+"RU","Russian Federation",2005,143113885
+"RU","Russian Federation",2006,142487260
+"RU","Russian Federation",2007,142114903
+"RU","Russian Federation",2008,141956409
+"RU","Russian Federation",2009,141909244
+"RU","Russian Federation",2010,142385523
+"RU","Russian Federation",2011,142956460
+"RU","Russian Federation",2012,143178000
+"RU","Russian Federation",2013,143499861
+"RW","Rwanda",2000,8395577
+"RW","Rwanda",2001,8760003
+"RW","Rwanda",2002,8987523
+"RW","Rwanda",2003,9126167
+"RW","Rwanda",2004,9254379
+"RW","Rwanda",2005,9429457
+"RW","Rwanda",2006,9660946
+"RW","Rwanda",2007,9928143
+"RW","Rwanda",2008,10222961
+"RW","Rwanda",2009,10529668
+"RW","Rwanda",2010,10836732
+"RW","Rwanda",2011,11144315
+"RW","Rwanda",2012,11457801
+"RW","Rwanda",2013,11776522
+"KN","Saint Kitts and Nevis",2000,45544
+"KN","Saint Kitts and Nevis",2001,46214
+"KN","Saint Kitts and Nevis",2002,46934
+"KN","Saint Kitts and Nevis",2003,47679
+"KN","Saint Kitts and Nevis",2004,48421
+"KN","Saint Kitts and Nevis",2005,49139
+"KN","Saint Kitts and Nevis",2006,49823
+"KN","Saint Kitts and Nevis",2007,50478
+"KN","Saint Kitts and Nevis",2008,51110
+"KN","Saint Kitts and Nevis",2009,51731
+"KN","Saint Kitts and Nevis",2010,52352
+"KN","Saint Kitts and Nevis",2011,52971
+"KN","Saint Kitts and Nevis",2012,53584
+"KN","Saint Kitts and Nevis",2013,54191
+"LC","Saint Lucia",2000,156949
+"LC","Saint Lucia",2001,158650
+"LC","Saint Lucia",2002,160217
+"LC","Saint Lucia",2003,161766
+"LC","Saint Lucia",2004,163460
+"LC","Saint Lucia",2005,165407
+"LC","Saint Lucia",2006,167658
+"LC","Saint Lucia",2007,170149
+"LC","Saint Lucia",2008,172734
+"LC","Saint Lucia",2009,175200
+"LC","Saint Lucia",2010,177397
+"LC","Saint Lucia",2011,179271
+"LC","Saint Lucia",2012,180870
+"LC","Saint Lucia",2013,182273
+"MF","Saint Martin ",2000,28384
+"MF","Saint Martin ",2001,27782
+"MF","Saint Martin ",2002,27450
+"MF","Saint Martin ",2003,27363
+"MF","Saint Martin ",2004,27514
+"MF","Saint Martin ",2005,27906
+"MF","Saint Martin ",2006,28414
+"MF","Saint Martin ",2007,28905
+"MF","Saint Martin ",2008,29376
+"MF","Saint Martin ",2009,29820
+"MF","Saint Martin ",2010,30235
+"MF","Saint Martin ",2011,30615
+"MF","Saint Martin ",2012,30959
+"MF","Saint Martin ",2013,31264
+"VC","Saint Vincent and the Grenadines",2000,107897
+"VC","Saint Vincent and the Grenadines",2001,107989
+"VC","Saint Vincent and the Grenadines",2002,108150
+"VC","Saint Vincent and the Grenadines",2003,108353
+"VC","Saint Vincent and the Grenadines",2004,108562
+"VC","Saint Vincent and the Grenadines",2005,108749
+"VC","Saint Vincent and the Grenadines",2006,108908
+"VC","Saint Vincent and the Grenadines",2007,109045
+"VC","Saint Vincent and the Grenadines",2008,109158
+"VC","Saint Vincent and the Grenadines",2009,109249
+"VC","Saint Vincent and the Grenadines",2010,109316
+"VC","Saint Vincent and the Grenadines",2011,109357
+"VC","Saint Vincent and the Grenadines",2012,109373
+"VC","Saint Vincent and the Grenadines",2013,109373
+"WS","Samoa",2000,174614
+"WS","Samoa",2001,175567
+"WS","Samoa",2002,176592
+"WS","Samoa",2003,177677
+"WS","Samoa",2004,178794
+"WS","Samoa",2005,179928
+"WS","Samoa",2006,181073
+"WS","Samoa",2007,182240
+"WS","Samoa",2008,183444
+"WS","Samoa",2009,184704
+"WS","Samoa",2010,186029
+"WS","Samoa",2011,187429
+"WS","Samoa",2012,188889
+"WS","Samoa",2013,190372
+"SM","San Marino",2000,26969
+"SM","San Marino",2001,27467
+"SM","San Marino",2002,28064
+"SM","San Marino",2003,28700
+"SM","San Marino",2004,29290
+"SM","San Marino",2005,29775
+"SM","San Marino",2006,30130
+"SM","San Marino",2007,30377
+"SM","San Marino",2008,30549
+"SM","San Marino",2009,30698
+"SM","San Marino",2010,30861
+"SM","San Marino",2011,31048
+"SM","San Marino",2012,31247
+"SM","San Marino",2013,31448
+"ST","Sao Tome and Principe",2000,139428
+"ST","Sao Tome and Principe",2001,141783
+"ST","Sao Tome and Principe",2002,144447
+"ST","Sao Tome and Principe",2003,147455
+"ST","Sao Tome and Principe",2004,150842
+"ST","Sao Tome and Principe",2005,154615
+"ST","Sao Tome and Principe",2006,158806
+"ST","Sao Tome and Principe",2007,163390
+"ST","Sao Tome and Principe",2008,168253
+"ST","Sao Tome and Principe",2009,173240
+"ST","Sao Tome and Principe",2010,178228
+"ST","Sao Tome and Principe",2011,183177
+"ST","Sao Tome and Principe",2012,188098
+"ST","Sao Tome and Principe",2013,192993
+"SA","Saudi Arabia",2000,20144584
+"SA","Saudi Arabia",2001,20891594
+"SA","Saudi Arabia",2002,21825217
+"SA","Saudi Arabia",2003,22852333
+"SA","Saudi Arabia",2004,23839231
+"SA","Saudi Arabia",2005,24690067
+"SA","Saudi Arabia",2006,25371936
+"SA","Saudi Arabia",2007,25915624
+"SA","Saudi Arabia",2008,26366358
+"SA","Saudi Arabia",2009,26796375
+"SA","Saudi Arabia",2010,27258387
+"SA","Saudi Arabia",2011,27761728
+"SA","Saudi Arabia",2012,28287855
+"SA","Saudi Arabia",2013,28828870
+"SN","Senegal",2000,9861679
+"SN","Senegal",2001,10119118
+"SN","Senegal",2002,10390050
+"SN","Senegal",2003,10673535
+"SN","Senegal",2004,10967568
+"SN","Senegal",2005,11270826
+"SN","Senegal",2006,11582925
+"SN","Senegal",2007,11904974
+"SN","Senegal",2008,12238791
+"SN","Senegal",2009,12586827
+"SN","Senegal",2010,12950564
+"SN","Senegal",2011,13330737
+"SN","Senegal",2012,13726021
+"SN","Senegal",2013,14133280
+"RS","Serbia",2000,7516346
+"RS","Serbia",2001,7503433
+"RS","Serbia",2002,7500031
+"RS","Serbia",2003,7480591
+"RS","Serbia",2004,7463157
+"RS","Serbia",2005,7440769
+"RS","Serbia",2006,7411569
+"RS","Serbia",2007,7381579
+"RS","Serbia",2008,7350221
+"RS","Serbia",2009,7320807
+"RS","Serbia",2010,7291436
+"RS","Serbia",2011,7234099
+"RS","Serbia",2012,7199077
+"RS","Serbia",2013,7163976
+"SC","Seychelles",2000,81131
+"SC","Seychelles",2001,81202
+"SC","Seychelles",2002,83700
+"SC","Seychelles",2003,82800
+"SC","Seychelles",2004,82500
+"SC","Seychelles",2005,82900
+"SC","Seychelles",2006,84600
+"SC","Seychelles",2007,85033
+"SC","Seychelles",2008,86956
+"SC","Seychelles",2009,87298
+"SC","Seychelles",2010,89770
+"SC","Seychelles",2011,87441
+"SC","Seychelles",2012,88303
+"SC","Seychelles",2013,89173
+"SL","Sierra Leone",2000,4139757
+"SL","Sierra Leone",2001,4295667
+"SL","Sierra Leone",2002,4493047
+"SL","Sierra Leone",2003,4712763
+"SL","Sierra Leone",2004,4928175
+"SL","Sierra Leone",2005,5119895
+"SL","Sierra Leone",2006,5280909
+"SL","Sierra Leone",2007,5416015
+"SL","Sierra Leone",2008,5532139
+"SL","Sierra Leone",2009,5641182
+"SL","Sierra Leone",2010,5751976
+"SL","Sierra Leone",2011,5865491
+"SL","Sierra Leone",2012,5978727
+"SL","Sierra Leone",2013,6092075
+"SG","Singapore",2000,4027900
+"SG","Singapore",2001,4138000
+"SG","Singapore",2002,4176000
+"SG","Singapore",2003,4114800
+"SG","Singapore",2004,4166700
+"SG","Singapore",2005,4265800
+"SG","Singapore",2006,4401400
+"SG","Singapore",2007,4588600
+"SG","Singapore",2008,4839400
+"SG","Singapore",2009,4987600
+"SG","Singapore",2010,5076700
+"SG","Singapore",2011,5183700
+"SG","Singapore",2012,5312400
+"SG","Singapore",2013,5399200
+"SX","Sint Maarten (Dutch part)",2000,30519
+"SX","Sint Maarten (Dutch part)",2001,31189
+"SX","Sint Maarten (Dutch part)",2002,32566
+"SX","Sint Maarten (Dutch part)",2003,33791
+"SX","Sint Maarten (Dutch part)",2004,35318
+"SX","Sint Maarten (Dutch part)",2005,36936
+"SX","Sint Maarten (Dutch part)",2006,38272
+"SX","Sint Maarten (Dutch part)",2007,39464
+"SX","Sint Maarten (Dutch part)",2008,40459
+"SX","Sint Maarten (Dutch part)",2009,39133
+"SX","Sint Maarten (Dutch part)",2010,37850
+"SX","Sint Maarten (Dutch part)",2011,38486
+"SX","Sint Maarten (Dutch part)",2012,39088
+"SX","Sint Maarten (Dutch part)",2013,39689
+"SK","Slovakia",2000,5388720
+"SK","Slovakia",2001,5378867
+"SK","Slovakia",2002,5376912
+"SK","Slovakia",2003,5373374
+"SK","Slovakia",2004,5372280
+"SK","Slovakia",2005,5372807
+"SK","Slovakia",2006,5373054
+"SK","Slovakia",2007,5374622
+"SK","Slovakia",2008,5379233
+"SK","Slovakia",2009,5386406
+"SK","Slovakia",2010,5391428
+"SK","Slovakia",2011,5398384
+"SK","Slovakia",2012,5407579
+"SK","Slovakia",2013,5414095
+"SI","Slovenia",2000,1988925
+"SI","Slovenia",2001,1992060
+"SI","Slovenia",2002,1994530
+"SI","Slovenia",2003,1995733
+"SI","Slovenia",2004,1997012
+"SI","Slovenia",2005,2000474
+"SI","Slovenia",2006,2006868
+"SI","Slovenia",2007,2018122
+"SI","Slovenia",2008,2021316
+"SI","Slovenia",2009,2039669
+"SI","Slovenia",2010,2048583
+"SI","Slovenia",2011,2052843
+"SI","Slovenia",2012,2057159
+"SI","Slovenia",2013,2060484
+"SB","Solomon Islands",2000,412336
+"SB","Solomon Islands",2001,423529
+"SB","Solomon Islands",2002,434880
+"SB","Solomon Islands",2003,446335
+"SB","Solomon Islands",2004,457827
+"SB","Solomon Islands",2005,469306
+"SB","Solomon Islands",2006,480745
+"SB","Solomon Islands",2007,492148
+"SB","Solomon Islands",2008,503541
+"SB","Solomon Islands",2009,514964
+"SB","Solomon Islands",2010,526447
+"SB","Solomon Islands",2011,537997
+"SB","Solomon Islands",2012,549598
+"SB","Solomon Islands",2013,561231
+"SO","Somalia",2000,7385416
+"SO","Somalia",2001,7609265
+"SO","Somalia",2002,7825924
+"SO","Somalia",2003,8037706
+"SO","Somalia",2004,8249965
+"SO","Somalia",2005,8466938
+"SO","Somalia",2006,8687671
+"SO","Somalia",2007,8910851
+"SO","Somalia",2008,9140259
+"SO","Somalia",2009,9380854
+"SO","Somalia",2010,9636173
+"SO","Somalia",2011,9907903
+"SO","Somalia",2012,10195134
+"SO","Somalia",2013,10495583
+"ZA","South Africa",2000,44000000
+"ZA","South Africa",2001,44909738
+"ZA","South Africa",2002,45808736
+"ZA","South Africa",2003,46409243
+"ZA","South Africa",2004,47019452
+"ZA","South Africa",2005,47639556
+"ZA","South Africa",2006,48269753
+"ZA","South Africa",2007,48910248
+"ZA","South Africa",2008,49561256
+"ZA","South Africa",2009,50222996
+"ZA","South Africa",2010,50895698
+"ZA","South Africa",2011,51579599
+"ZA","South Africa",2012,52274945
+"ZA","South Africa",2013,52981991
+"KR","South Korea",2000,47008111
+"KR","South Korea",2001,47357362
+"KR","South Korea",2002,47622179
+"KR","South Korea",2003,47859311
+"KR","South Korea",2004,48039415
+"KR","South Korea",2005,48138077
+"KR","South Korea",2006,48371946
+"KR","South Korea",2007,48597652
+"KR","South Korea",2008,48948698
+"KR","South Korea",2009,49182038
+"KR","South Korea",2010,49410366
+"KR","South Korea",2011,49779440
+"KR","South Korea",2012,50004441
+"KR","South Korea",2013,50219669
+"SS","South Sudan",2000,6652984
+"SS","South Sudan",2001,6924455
+"SS","South Sudan",2002,7186820
+"SS","South Sudan",2003,7449905
+"SS","South Sudan",2004,7730180
+"SS","South Sudan",2005,8039351
+"SS","South Sudan",2006,8376893
+"SS","South Sudan",2007,8736736
+"SS","South Sudan",2008,9118386
+"SS","South Sudan",2009,9520571
+"SS","South Sudan",2010,9940929
+"SS","South Sudan",2011,10381110
+"SS","South Sudan",2012,10837527
+"SS","South Sudan",2013,11296173
+"ES","Spain",2000,40263216
+"ES","Spain",2001,40756001
+"ES","Spain",2002,41431558
+"ES","Spain",2003,42187645
+"ES","Spain",2004,42921895
+"ES","Spain",2005,43653155
+"ES","Spain",2006,44397319
+"ES","Spain",2007,45226803
+"ES","Spain",2008,45954106
+"ES","Spain",2009,46362946
+"ES","Spain",2010,46576897
+"ES","Spain",2011,46742697
+"ES","Spain",2012,46761264
+"ES","Spain",2013,46647421
+"LK","Sri Lanka",2000,19102000
+"LK","Sri Lanka",2001,18797000
+"LK","Sri Lanka",2002,18921000
+"LK","Sri Lanka",2003,19173000
+"LK","Sri Lanka",2004,19435000
+"LK","Sri Lanka",2005,19644000
+"LK","Sri Lanka",2006,19858000
+"LK","Sri Lanka",2007,20039000
+"LK","Sri Lanka",2008,20217000
+"LK","Sri Lanka",2009,20450000
+"LK","Sri Lanka",2010,20653000
+"LK","Sri Lanka",2011,20869000
+"LK","Sri Lanka",2012,20328000
+"LK","Sri Lanka",2013,20483000
+"SD","Sudan",2000,27729798
+"SD","Sudan",2001,28434810
+"SD","Sudan",2002,29186427
+"SD","Sudan",2003,29973979
+"SD","Sudan",2004,30778572
+"SD","Sudan",2005,31585871
+"SD","Sudan",2006,32397535
+"SD","Sudan",2007,33218250
+"SD","Sudan",2008,34040065
+"SD","Sudan",2009,34853178
+"SD","Sudan",2010,35652002
+"SD","Sudan",2011,36430923
+"SD","Sudan",2012,37195349
+"SD","Sudan",2013,37964306
+"SR","Suriname",2000,466668
+"SR","Suriname",2001,473312
+"SR","Suriname",2002,480099
+"SR","Suriname",2003,486867
+"SR","Suriname",2004,493394
+"SR","Suriname",2005,499523
+"SR","Suriname",2006,505186
+"SR","Suriname",2007,510433
+"SR","Suriname",2008,515372
+"SR","Suriname",2009,520173
+"SR","Suriname",2010,524960
+"SR","Suriname",2011,529761
+"SR","Suriname",2012,534541
+"SR","Suriname",2013,539276
+"SZ","Swaziland",2000,1063715
+"SZ","Swaziland",2001,1074761
+"SZ","Swaziland",2002,1082183
+"SZ","Swaziland",2003,1087929
+"SZ","Swaziland",2004,1094758
+"SZ","Swaziland",2005,1104642
+"SZ","Swaziland",2006,1118253
+"SZ","Swaziland",2007,1134977
+"SZ","Swaziland",2008,1153929
+"SZ","Swaziland",2009,1173678
+"SZ","Swaziland",2010,1193148
+"SZ","Swaziland",2011,1212159
+"SZ","Swaziland",2012,1230985
+"SZ","Swaziland",2013,1249514
+"SE","Sweden",2000,8872109
+"SE","Sweden",2001,8895960
+"SE","Sweden",2002,8924958
+"SE","Sweden",2003,8958229
+"SE","Sweden",2004,8993531
+"SE","Sweden",2005,9029572
+"SE","Sweden",2006,9080505
+"SE","Sweden",2007,9148092
+"SE","Sweden",2008,9219637
+"SE","Sweden",2009,9298515
+"SE","Sweden",2010,9378126
+"SE","Sweden",2011,9449213
+"SE","Sweden",2012,9519374
+"SE","Sweden",2013,9592552
+"CH","Switzerland",2000,7184250
+"CH","Switzerland",2001,7229854
+"CH","Switzerland",2002,7284753
+"CH","Switzerland",2003,7339001
+"CH","Switzerland",2004,7389625
+"CH","Switzerland",2005,7437115
+"CH","Switzerland",2006,7483934
+"CH","Switzerland",2007,7551117
+"CH","Switzerland",2008,7647675
+"CH","Switzerland",2009,7743831
+"CH","Switzerland",2010,7824909
+"CH","Switzerland",2011,7912398
+"CH","Switzerland",2012,7996861
+"CH","Switzerland",2013,8081482
+"SY","Syria",2000,16371208
+"SY","Syria",2001,16700984
+"SY","Syria",2002,16994676
+"SY","Syria",2003,17298476
+"SY","Syria",2004,17676012
+"SY","Syria",2005,18167367
+"SY","Syria",2006,18804914
+"SY","Syria",2007,19561477
+"SY","Syria",2008,20346056
+"SY","Syria",2009,21031546
+"SY","Syria",2010,21532647
+"SY","Syria",2011,21961676
+"SY","Syria",2012,22399254
+"SY","Syria",2013,22845550
+"TJ","Tajikistan",2000,6186152
+"TJ","Tajikistan",2001,6289340
+"TJ","Tajikistan",2002,6404118
+"TJ","Tajikistan",2003,6529609
+"TJ","Tajikistan",2004,6663929
+"TJ","Tajikistan",2005,6805655
+"TJ","Tajikistan",2006,6954522
+"TJ","Tajikistan",2007,7111025
+"TJ","Tajikistan",2008,7275252
+"TJ","Tajikistan",2009,7447396
+"TJ","Tajikistan",2010,7627326
+"TJ","Tajikistan",2011,7814850
+"TJ","Tajikistan",2012,8008990
+"TJ","Tajikistan",2013,8207834
+"TZ","Tanzania",2000,34020512
+"TZ","Tanzania",2001,34895398
+"TZ","Tanzania",2002,35806497
+"TZ","Tanzania",2003,36760831
+"TZ","Tanzania",2004,37765139
+"TZ","Tanzania",2005,38824384
+"TZ","Tanzania",2006,39942347
+"TZ","Tanzania",2007,41119693
+"TZ","Tanzania",2008,42353790
+"TZ","Tanzania",2009,43639752
+"TZ","Tanzania",2010,44973330
+"TZ","Tanzania",2011,46354607
+"TZ","Tanzania",2012,47783107
+"TZ","Tanzania",2013,49253126
+"TH","Thailand",2000,62343379
+"TH","Thailand",2001,63069070
+"TH","Thailand",2002,63797841
+"TH","Thailand",2003,64488338
+"TH","Thailand",2004,65087400
+"TH","Thailand",2005,65559487
+"TH","Thailand",2006,65883961
+"TH","Thailand",2007,66076927
+"TH","Thailand",2008,66185340
+"TH","Thailand",2009,66277335
+"TH","Thailand",2010,66402316
+"TH","Thailand",2011,66576332
+"TH","Thailand",2012,66785001
+"TH","Thailand",2013,67010502
+"TL","Timor-Leste",2000,853585
+"TL","Timor-Leste",2001,871353
+"TL","Timor-Leste",2002,899367
+"TL","Timor-Leste",2003,933369
+"TL","Timor-Leste",2004,966987
+"TL","Timor-Leste",2005,982889
+"TL","Timor-Leste",2006,999053
+"TL","Timor-Leste",2007,1015482
+"TL","Timor-Leste",2008,1032182
+"TL","Timor-Leste",2009,1049156
+"TL","Timor-Leste",2010,1066409
+"TL","Timor-Leste",2011,1120392
+"TL","Timor-Leste",2012,1148958
+"TL","Timor-Leste",2013,1178252
+"TG","Togo",2000,4864753
+"TG","Togo",2001,4992225
+"TG","Togo",2002,5123674
+"TG","Togo",2003,5258956
+"TG","Togo",2004,5397851
+"TG","Togo",2005,5540214
+"TG","Togo",2006,5685845
+"TG","Togo",2007,5834806
+"TG","Togo",2008,5987491
+"TG","Togo",2009,6144457
+"TG","Togo",2010,6306014
+"TG","Togo",2011,6472304
+"TG","Togo",2012,6642928
+"TG","Togo",2013,6816982
+"TO","Tonga",2000,97962
+"TO","Tonga",2001,98504
+"TO","Tonga",2002,99083
+"TO","Tonga",2003,99691
+"TO","Tonga",2004,100319
+"TO","Tonga",2005,100960
+"TO","Tonga",2006,101617
+"TO","Tonga",2007,102289
+"TO","Tonga",2008,102947
+"TO","Tonga",2009,103557
+"TO","Tonga",2010,104098
+"TO","Tonga",2011,104554
+"TO","Tonga",2012,104941
+"TO","Tonga",2013,105323
+"TT","Trinidad and Tobago",2000,1267980
+"TT","Trinidad and Tobago",2001,1272347
+"TT","Trinidad and Tobago",2002,1277723
+"TT","Trinidad and Tobago",2003,1283868
+"TT","Trinidad and Tobago",2004,1290379
+"TT","Trinidad and Tobago",2005,1296933
+"TT","Trinidad and Tobago",2006,1303478
+"TT","Trinidad and Tobago",2007,1310040
+"TT","Trinidad and Tobago",2008,1316449
+"TT","Trinidad and Tobago",2009,1322518
+"TT","Trinidad and Tobago",2010,1328095
+"TT","Trinidad and Tobago",2011,1333082
+"TT","Trinidad and Tobago",2012,1337439
+"TT","Trinidad and Tobago",2013,1341151
+"TN","Tunisia",2000,9563500
+"TN","Tunisia",2001,9673600
+"TN","Tunisia",2002,9781900
+"TN","Tunisia",2003,9839800
+"TN","Tunisia",2004,9932400
+"TN","Tunisia",2005,10029000
+"TN","Tunisia",2006,10127900
+"TN","Tunisia",2007,10225100
+"TN","Tunisia",2008,10328900
+"TN","Tunisia",2009,10439600
+"TN","Tunisia",2010,10549100
+"TN","Tunisia",2011,10673800
+"TN","Tunisia",2012,10777500
+"TN","Tunisia",2013,10886500
+"TR","Turkey",2000,63174483
+"TR","Turkey",2001,64100297
+"TR","Turkey",2002,65022300
+"TR","Turkey",2003,65938265
+"TR","Turkey",2004,66845635
+"TR","Turkey",2005,67743052
+"TR","Turkey",2006,68626337
+"TR","Turkey",2007,69496513
+"TR","Turkey",2008,70363511
+"TR","Turkey",2009,71241080
+"TR","Turkey",2010,72137546
+"TR","Turkey",2011,73058638
+"TR","Turkey",2012,73997128
+"TR","Turkey",2013,74932641
+"TM","Turkmenistan",2000,4501419
+"TM","Turkmenistan",2001,4551762
+"TM","Turkmenistan",2002,4600171
+"TM","Turkmenistan",2003,4648037
+"TM","Turkmenistan",2004,4696876
+"TM","Turkmenistan",2005,4747839
+"TM","Turkmenistan",2006,4801595
+"TM","Turkmenistan",2007,4858236
+"TM","Turkmenistan",2008,4917543
+"TM","Turkmenistan",2009,4978962
+"TM","Turkmenistan",2010,5041995
+"TM","Turkmenistan",2011,5106668
+"TM","Turkmenistan",2012,5172931
+"TM","Turkmenistan",2013,5240072
+"TC","Turks and Caicos Islands",2000,18876
+"TC","Turks and Caicos Islands",2001,20186
+"TC","Turks and Caicos Islands",2002,21740
+"TC","Turks and Caicos Islands",2003,23412
+"TC","Turks and Caicos Islands",2004,25025
+"TC","Turks and Caicos Islands",2005,26450
+"TC","Turks and Caicos Islands",2006,27642
+"TC","Turks and Caicos Islands",2007,28638
+"TC","Turks and Caicos Islands",2008,29481
+"TC","Turks and Caicos Islands",2009,30247
+"TC","Turks and Caicos Islands",2010,30993
+"TC","Turks and Caicos Islands",2011,31726
+"TC","Turks and Caicos Islands",2012,32427
+"TC","Turks and Caicos Islands",2013,33098
+"TV","Tuvalu",2000,9419
+"TV","Tuvalu",2001,9471
+"TV","Tuvalu",2002,9530
+"TV","Tuvalu",2003,9590
+"TV","Tuvalu",2004,9646
+"TV","Tuvalu",2005,9694
+"TV","Tuvalu",2006,9732
+"TV","Tuvalu",2007,9764
+"TV","Tuvalu",2008,9788
+"TV","Tuvalu",2009,9808
+"TV","Tuvalu",2010,9827
+"TV","Tuvalu",2011,9844
+"TV","Tuvalu",2012,9860
+"TV","Tuvalu",2013,9876
+"AE","UAE",2000,3026352
+"AE","UAE",2001,3132104
+"AE","UAE",2002,3223969
+"AE","UAE",2003,3369254
+"AE","UAE",2004,3658658
+"AE","UAE",2005,4148883
+"AE","UAE",2006,4875639
+"AE","UAE",2007,5797347
+"AE","UAE",2008,6798635
+"AE","UAE",2009,7718319
+"AE","UAE",2010,8441537
+"AE","UAE",2011,8925096
+"AE","UAE",2012,9205651
+"AE","UAE",2013,9346129
+"UG","Uganda",2000,24275641
+"UG","Uganda",2001,25088033
+"UG","Uganda",2002,25943441
+"UG","Uganda",2003,26838428
+"UG","Uganda",2004,27766986
+"UG","Uganda",2005,28724869
+"UG","Uganda",2006,29711397
+"UG","Uganda",2007,30728747
+"UG","Uganda",2008,31778799
+"UG","Uganda",2009,32864328
+"UG","Uganda",2010,33987213
+"UG","Uganda",2011,35148064
+"UG","Uganda",2012,36345860
+"UG","Uganda",2013,37578876
+"UA","Ukraine",2000,49175848
+"UA","Ukraine",2001,48683865
+"UA","Ukraine",2002,48202500
+"UA","Ukraine",2003,47812950
+"UA","Ukraine",2004,47451600
+"UA","Ukraine",2005,47105150
+"UA","Ukraine",2006,46787750
+"UA","Ukraine",2007,46509350
+"UA","Ukraine",2008,46258200
+"UA","Ukraine",2009,46053300
+"UA","Ukraine",2010,45870700
+"UA","Ukraine",2011,45706100
+"UA","Ukraine",2012,45593300
+"UA","Ukraine",2013,45489600
+"GB","United Kingdom",2000,58892514
+"GB","United Kingdom",2001,59119673
+"GB","United Kingdom",2002,59370479
+"GB","United Kingdom",2003,59647577
+"GB","United Kingdom",2004,59987905
+"GB","United Kingdom",2005,60401206
+"GB","United Kingdom",2006,60846820
+"GB","United Kingdom",2007,61322463
+"GB","United Kingdom",2008,61806995
+"GB","United Kingdom",2009,62276270
+"GB","United Kingdom",2010,62766365
+"GB","United Kingdom",2011,63258918
+"GB","United Kingdom",2012,63695687
+"GB","United Kingdom",2013,64097085
+"UY","Uruguay",2000,3320841
+"UY","Uruguay",2001,3326762
+"UY","Uruguay",2002,3327500
+"UY","Uruguay",2003,3325411
+"UY","Uruguay",2004,3323822
+"UY","Uruguay",2005,3325155
+"UY","Uruguay",2006,3330217
+"UY","Uruguay",2007,3338384
+"UY","Uruguay",2008,3348898
+"UY","Uruguay",2009,3360431
+"UY","Uruguay",2010,3371982
+"UY","Uruguay",2011,3383486
+"UY","Uruguay",2012,3395253
+"UY","Uruguay",2013,3407062
+"US","USA",2000,282162411
+"US","USA",2001,284968955
+"US","USA",2002,287625193
+"US","USA",2003,290107933
+"US","USA",2004,292805298
+"US","USA",2005,295516599
+"US","USA",2006,298379912
+"US","USA",2007,301231207
+"US","USA",2008,304093966
+"US","USA",2009,306771529
+"US","USA",2010,309326295
+"US","USA",2011,311582564
+"US","USA",2012,313873685
+"US","USA",2013,316128839
+"UZ","Uzbekistan",2000,24650400
+"UZ","Uzbekistan",2001,24964450
+"UZ","Uzbekistan",2002,25271850
+"UZ","Uzbekistan",2003,25567650
+"UZ","Uzbekistan",2004,25864350
+"UZ","Uzbekistan",2005,26167000
+"UZ","Uzbekistan",2006,26488250
+"UZ","Uzbekistan",2007,26868000
+"UZ","Uzbekistan",2008,27302800
+"UZ","Uzbekistan",2009,27767400
+"UZ","Uzbekistan",2010,28562400
+"UZ","Uzbekistan",2011,29339400
+"UZ","Uzbekistan",2012,29774500
+"UZ","Uzbekistan",2013,30241100
+"VU","Vanuatu",2000,185058
+"VU","Vanuatu",2001,189285
+"VU","Vanuatu",2002,193950
+"VU","Vanuatu",2003,198952
+"VU","Vanuatu",2004,204135
+"VU","Vanuatu",2005,209375
+"VU","Vanuatu",2006,214654
+"VU","Vanuatu",2007,220001
+"VU","Vanuatu",2008,225398
+"VU","Vanuatu",2009,230833
+"VU","Vanuatu",2010,236299
+"VU","Vanuatu",2011,241778
+"VU","Vanuatu",2012,247262
+"VU","Vanuatu",2013,252763
+"VE","Venezuela",2000,24407553
+"VE","Venezuela",2001,24870441
+"VE","Venezuela",2002,25333622
+"VE","Venezuela",2003,25797219
+"VE","Venezuela",2004,26261326
+"VE","Venezuela",2005,26725897
+"VE","Venezuela",2006,27190882
+"VE","Venezuela",2007,27655937
+"VE","Venezuela",2008,28120312
+"VE","Venezuela",2009,28583040
+"VE","Venezuela",2010,29043283
+"VE","Venezuela",2011,29500625
+"VE","Venezuela",2012,29954782
+"VE","Venezuela",2013,30405207
+"VN","Viet Nam",2000,77630900
+"VN","Viet Nam",2001,78621000
+"VN","Viet Nam",2002,79538700
+"VN","Viet Nam",2003,80468400
+"VN","Viet Nam",2004,81437700
+"VN","Viet Nam",2005,82393500
+"VN","Viet Nam",2006,83313000
+"VN","Viet Nam",2007,84221100
+"VN","Viet Nam",2008,85122300
+"VN","Viet Nam",2009,86025000
+"VN","Viet Nam",2010,86932500
+"VN","Viet Nam",2011,87840000
+"VN","Viet Nam",2012,88772900
+"VN","Viet Nam",2013,89708900
+"VI","Virgin Islands (US)",2000,108639
+"VI","Virgin Islands (US)",2001,108386
+"VI","Virgin Islands (US)",2002,108208
+"VI","Virgin Islands (US)",2003,108085
+"VI","Virgin Islands (US)",2004,107950
+"VI","Virgin Islands (US)",2005,107863
+"VI","Virgin Islands (US)",2006,107700
+"VI","Virgin Islands (US)",2007,107423
+"VI","Virgin Islands (US)",2008,107091
+"VI","Virgin Islands (US)",2009,106707
+"VI","Virgin Islands (US)",2010,106267
+"VI","Virgin Islands (US)",2011,105784
+"VI","Virgin Islands (US)",2012,105275
+"VI","Virgin Islands (US)",2013,104737
+"YE","Yemen",2000,17522537
+"YE","Yemen",2001,18029989
+"YE","Yemen",2002,18551068
+"YE","Yemen",2003,19081306
+"YE","Yemen",2004,19612696
+"YE","Yemen",2005,20139661
+"YE","Yemen",2006,20661714
+"YE","Yemen",2007,21182162
+"YE","Yemen",2008,21703571
+"YE","Yemen",2009,22229625
+"YE","Yemen",2010,22763008
+"YE","Yemen",2011,23304206
+"YE","Yemen",2012,23852409
+"YE","Yemen",2013,24407381
+"ZM","Zambia",2000,10100981
+"ZM","Zambia",2001,10362137
+"ZM","Zambia",2002,10625423
+"ZM","Zambia",2003,10894519
+"ZM","Zambia",2004,11174650
+"ZM","Zambia",2005,11470022
+"ZM","Zambia",2006,11781612
+"ZM","Zambia",2007,12109620
+"ZM","Zambia",2008,12456527
+"ZM","Zambia",2009,12825031
+"ZM","Zambia",2010,13216985
+"ZM","Zambia",2011,13633796
+"ZM","Zambia",2012,14075099
+"ZM","Zambia",2013,14538640
+"ZW","Zimbabwe",2000,12503652
+"ZW","Zimbabwe",2001,12586763
+"ZW","Zimbabwe",2002,12640922
+"ZW","Zimbabwe",2003,12673103
+"ZW","Zimbabwe",2004,12693047
+"ZW","Zimbabwe",2005,12710589
+"ZW","Zimbabwe",2006,12724308
+"ZW","Zimbabwe",2007,12740160
+"ZW","Zimbabwe",2008,12784041
+"ZW","Zimbabwe",2009,12888918
+"ZW","Zimbabwe",2010,13076978
+"ZW","Zimbabwe",2011,13358738
+"ZW","Zimbabwe",2012,13724317
+"ZW","Zimbabwe",2013,14149648

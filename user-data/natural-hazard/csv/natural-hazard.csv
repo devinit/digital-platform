@@ -1,0 +1,192 @@
+"id","entity-name","year","value"
+"AF","Afghanistan",2015,5.9
+"AL","Albania",2015,3.5
+"DZ","Algeria",2015,3.2
+"AO","Angola",2015,1.8
+"AG","Antigua and Barbuda",2015,5.7
+"AR","Argentina",2015,3.9
+"AM","Armenia",2015,4
+"AU","Australia",2015,4.4
+"AT","Austria",2015,2.5
+"AZ","Azerbaijan",2015,4
+"BS","Bahamas",2015,3.4
+"BH","Bahrain",2015,0.2
+"BD","Bangladesh",2015,9.1
+"BB","Barbados",2015,3
+"BY","Belarus",2015,1.5
+"BE","Belgium",2015,1.6
+"BZ","Belize",2015,4.4
+"BJ","Benin",2015,3.9
+"BT","Bhutan",2015,4.7
+"BO","Bolivia ",2015,3.8
+"BA","Bosnia and Herzegovina",2015,3.5
+"BW","Botswana",2015,2.5
+"BR","Brazil",2015,4.1
+"BN","Brunei",2015,0.2
+"BG","Bulgaria",2015,3.2
+"BF","Burkina Faso",2015,2.4
+"BI","Burundi",2015,2.7
+"CI","Côte d'Ivoire",2015,1.5
+"KH","Cambodia",2015,5
+"CM","Cameroon",2015,2.6
+"CA","Canada",2015,6.1
+"CV","Cape Verde",2015,2
+"CF","CAR",2015,1.1
+"TD","Chad",2015,3
+"CL","Chile",2015,7.2
+"CN","China",2015,7.9
+"CO","Colombia",2015,5.8
+"KM","Comoros",2015,1.9
+"CG","Congo",2015,1.3
+"CR","Costa Rica",2015,4.9
+"HR","Croatia",2015,3.2
+"CU","Cuba",2015,4.9
+"CY","Cyprus",2015,2.5
+"CZ","Czech Republic",2015,2
+"DK","Denmark",2015,0.7
+"DJ","Djibouti",2015,4.6
+"DM","Dominica",2015,2.2
+"DO","Dominican Republic",2015,7.1
+"CD","DRC",2015,3.2
+"EC","Ecuador",2015,7
+"EG","Egypt",2015,5.7
+"SV","El Salvador",2015,5.9
+"GQ","Equatorial Guinea",2015,1
+"ER","Eritrea",2015,2.8
+"EE","Estonia",2015,0.6
+"ET","Ethiopia",2015,4.2
+"FJ","Fiji",2015,6.8
+"FI","Finland",2015,0
+"FR","France",2015,3.1
+"GA","Gabon",2015,1.4
+"GM","Gambia",2015,1.5
+"GE","Georgia",2015,4.2
+"DE","Germany",2015,2.8
+"GH","Ghana",2015,1.5
+"GR","Greece",2015,4.3
+"GD","Grenada",2015,3.4
+"GT","Guatemala",2015,6.8
+"GN","Guinea",2015,1.2
+"GW","Guinea-Bissau",2015,1.1
+"GY","Guyana",2015,2.6
+"HT","Haiti",2015,6.1
+"HN","Honduras",2015,5.3
+"HU","Hungary",2015,2.9
+"IS","Iceland",2015,1.4
+"IN","India",2015,8.2
+"ID","Indonesia",2015,7.5
+"IR","Iran",2015,7
+"IQ","Iraq",2015,3.5
+"IE","Ireland",2015,1.9
+"IL","Israel",2015,3.1
+"IT","Italy",2015,3.4
+"JM","Jamaica",2015,5.1
+"JP","Japan",2015,8.4
+"JO","Jordan",2015,3
+"KZ","Kazakhstan",2015,3.6
+"KE","Kenya",2015,4.2
+"KI","Kiribati",2015,1.5
+"KW","Kuwait",2015,1.9
+"KG","Kyrgyzstan",2015,5.4
+"LA","Lao",2015,4.7
+"LV","Latvia",2015,1
+"LB","Lebanon",2015,4.7
+"LS","Lesotho",2015,2
+"LR","Liberia",2015,0.9
+"LY","Libya",2015,4.5
+"LI","Liechtenstein",2015,1.9
+"LT","Lithuania",2015,1.4
+"LU","Luxembourg",2015,0.7
+"MK","Macedonia",2015,2.8
+"MG","Madagascar",2015,5.6
+"MW","Malawi",2015,3.3
+"MY","Malaysia",2015,3.4
+"MV","Maldives",2015,0.3
+"ML","Mali",2015,2.8
+"MT","Malta",2015,0
+"MH","Marshall Islands",2015,0.6
+"MR","Mauritania",2015,3.9
+"MU","Mauritius",2015,5.7
+"MX","Mexico",2015,7.5
+"FM","Micronesia",2015,1.4
+"MD","Moldova",2015,3.8
+"MN","Mongolia",2015,2.8
+"ME","Montenegro",2015,2.4
+"MA","Morocco",2015,2.9
+"MZ","Mozambique",2015,5.6
+"MM","Myanmar",2015,9.1
+"NA","Namibia",2015,2.7
+"NR","Nauru",2015,1.1
+"NP","Nepal",2015,6.8
+"NL","Netherlands",2015,2
+"NZ","New Zealand",2015,6.9
+"NI","Nicaragua",2015,5.3
+"NE","Niger",2015,3.1
+"NG","Nigeria",2015,2.4
+"KP","North Korea",2015,3.4
+"NO","Norway",2015,0.2
+"OM","Oman",2015,3.4
+"PK","Pakistan",2015,7.1
+"PW","Palau",2015,2.3
+"PS","Palestine",2015,2.4
+"PA","Panama",2015,3.2
+"PG","Papua New Guinea",2015,3.7
+"PY","Paraguay",2015,2.8
+"PE","Peru",2015,7.7
+"PH","Philippines",2015,9.3
+"PL","Poland",2015,2.3
+"PT","Portugal",2015,2.9
+"QA","Qatar",2015,1
+"RO","Romania",2015,4.8
+"RU","Russian Federation",2015,4.7
+"RW","Rwanda",2015,2.9
+"KN","Saint Kitts and Nevis",2015,5.2
+"LC","Saint Lucia",2015,4.8
+"VC","Saint Vincent and the Grenadines",2015,1.7
+"WS","Samoa",2015,2.3
+"ST","Sao Tome and Principe",2015,0
+"SA","Saudi Arabia",2015,1.9
+"SN","Senegal",2015,2.8
+"RS","Serbia",2015,4.4
+"SC","Seychelles",2015,3
+"SL","Sierra Leone",2015,1.2
+"SG","Singapore",2015,0
+"SK","Slovakia",2015,2.7
+"SI","Slovenia",2015,2.7
+"SB","Solomon Islands",2015,4.7
+"SO","Somalia",2015,5.6
+"ZA","South Africa",2015,3.4
+"KR","South Korea",2015,4.2
+"SS","South Sudan",2015,2.9
+"ES","Spain",2015,4.1
+"LK","Sri Lanka",2015,6.4
+"SD","Sudan",2015,4.2
+"SR","Suriname",2015,1.1
+"SZ","Swaziland",2015,1.7
+"SE","Sweden",2015,0.9
+"CH","Switzerland",2015,2.2
+"SY","Syria",2015,4.4
+"TJ","Tajikistan",2015,5.5
+"TZ","Tanzania",2015,4.1
+"TH","Thailand",2015,5.9
+"TL","Timor-Leste",2015,4.9
+"TG","Togo",2015,1.2
+"TO","Tonga",2015,2.8
+"TT","Trinidad and Tobago",2015,2.4
+"TN","Tunisia",2015,2.4
+"TR","Turkey",2015,6.7
+"TM","Turkmenistan",2015,4
+"TV","Tuvalu",2015,0.3
+"AE","UAE",2015,2.9
+"UG","Uganda",2015,3.2
+"UA","Ukraine",2015,3
+"GB","United Kingdom",2015,2.1
+"UY","Uruguay",2015,1.7
+"US","USA",2015,7.6
+"UZ","Uzbekistan",2015,5.9
+"VU","Vanuatu",2015,5.4
+"VE","Venezuela",2015,4.1
+"VN","Viet Nam",2015,7.7
+"YE","Yemen",2015,2.1
+"ZM","Zambia",2015,2
+"ZW","Zimbabwe",2015,2.3
