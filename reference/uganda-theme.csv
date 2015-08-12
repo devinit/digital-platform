@@ -1,6 +1,6 @@
 id,name,default
 poverty,Poverty,uganda-poverty-headcount
-education,Education,uganda-primary-educ-funding
-health,Health,uganda-life-expectancy
-wash,Water & Sanitation,uganda-rural-safe-water
 pop,Population,uganda-urban-pop
+education,Education,uganda-primary-educ-funding
+health,Health,uganda-overall-health
+wash,Water & Sanitation,uganda-rural-safe-water
