@@ -193,7 +193,7 @@ country-year,uganda-gov-spend-pp,simple,,Ugandan Total Expenditure Per Capita,"i
 country-year,uganda-central-resources,simple,,Ugandan Centrally Raised Revenues,"id, year, budget-type,value,value-ncu",Ugandan Centrally Raised Revenues,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Ugandan Centrally Raised Revenues,Ugandan Centrally Raised Revenues,,,
 country-year,uganda-donor-resources,simple,,Ugandan Donor Revenues,"id, year, budget-type,value,value-ncu",Ugandan Donor Revenues,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Ugandan Donor Revenues,Ugandan Donor Revenues,,,
 country-year,uganda-igf-resources,simple,,Ugandan Locally Raised Revenues,"id, year, budget-type,value,value-ncu",Ugandan Locally Raised Revenues,lin,,,,,unit,,Ugandan Ministry,,,,,,,,Ugandan Locally Raised Revenues,Ugandan Locally Raised Revenues,,,
-country-year,uganda-poverty-headcount,simple,,Ugandan Poverty Headcount,"id, year, value",Ugandan Poverty Headcount,lin,poverty,poverty,1,red,unit,,Ugandan Ministry,,,lowisbetter,"25, 35, 45, 55",,,,Ugandan Poverty Headcount,Ugandan Poverty Headcount,,,
+country-year,uganda-poverty-headcount,simple,,Ugandan Poverty Headcount,"id, year, value",Ugandan Poverty Headcount,lin,poverty,poverty,1,red,unit,,Ugandan Ministry,,,lowisbetter,"30, 50, 70, 90",,,,Ugandan Poverty Headcount,Ugandan Poverty Headcount,,,
 reference,budget-type,reference,,Domestic budget type,"id, name",,,,,,,,,,,,,,,,,,,,,
 reference,bundle,reference,,,"id, name",,,,,,,,,DI,,1(A),,,,,,,,,,
 reference,channel,reference,,,"id, name",Channel codes,,,,,,,,DI (adapted from OECD),,1(A),,,,,,,,,,
