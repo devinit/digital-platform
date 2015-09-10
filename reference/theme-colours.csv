@@ -1,0 +1,10 @@
+id,green,orange,red
+latest-census,Census has taken place in past 10 years,Census has taken place in past 15 years or is due to take place in next 2 years,Last census was more than 15 years ago
+latest-hh-survey,Survey in past 3 years,Survey in past 5 years or due to take place in next year,Last survey was more than 5 years ago
+number-of-surveys,3 or more surveys in past 10 years,2 surveys in past 10 years,1 or less survey in past 10 years
+agricultural-census,Survey in past 3 years,Survey in past 5 years or due to take place in next year,Last survey was more than 5 years ago
+civil-reg-births,More than 75% of births are registered (operational system),Operational system with more than 40% of births registered (expanding coverage),No system (other than survey), or weak/unreliable system is operational or less than 40% of births are registered (low coverage)
+civil-reg-deaths,More than 75% of deaths are registered,Operational system providing some data to vital statistics,No operational system or no data is yet being provided to vital statistics
+health-mis,National coverage of all health facilties,Partial coverage,No operational system
+educ-mis,National coverage of all education facilties,Partial coverage,No operational system
+stat-capacity,70–100,50–69,0–49
