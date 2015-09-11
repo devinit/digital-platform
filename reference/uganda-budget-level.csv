@@ -2,1351 +2,1288 @@ id,level,name
 expenditure,1,Expenditure
 revenue,1,Revenue
 administration,2,Administration
-finance,2,Finance
-statutory-bodies,2,Statutory Bodies
-production-and-marketing,2,Production and Marketing
-health,2,Health
-education,2,Education
-roads-and-engineering,2,Roads and Engineering
-water,2,Water
-natural-resources,2,Natural Resources
 community-based-services,2,Community Based Services
-planning,2,Planning
-internal-audit,2,Internal Audit
-locally-raised-revenues,2,Locally Raised Revenues
-discretionary-government-transfers,2,Discretionary Government Transfers
 conditional-government-transfers,2,Conditional Government Transfers
-other-government-transfers,2,Other Government Transfers
-local-development-grant,2,Local Development Grant
+discretionary-government-transfers,2,Discretionary Government Transfers
 donor-funding,2,Donor Funding
-recurrent-expenditure,3,Recurrent Expenditure
-development-expenditure,3,Development Expenditure
-local-service-tax,3,Local Service Tax
-registration-eg-births-deaths-marriages-etc-fees,3,"Registration (e.g. Births, Deaths, Marriages, etc.) Fees"
-public-health-licences,3,Public Health Licences
-property-related-dutiesfees,3,Property related Duties/Fees
-park-fees,3,Park Fees
-other-licences,3,Other licences
-other-fees-and-charges,3,Other Fees and Charges
-sale-of-produced-government-propertiesassets,3,Sale of (Produced) Government Properties/assets
-marketgate-charges,3,Market/Gate Charges
-land-fees,3,Land Fees
-local-government-hotel-tax,3,Local Government Hotel Tax
-inspection-fees,3,Inspection Fees
-agency-fees,3,Agency Fees
-group-registration,3,Group registration
-business-licences,3,Business licences
-application-fees,3,Application Fees
-animal-crop-husbandry-related-levies,3,Animal & Crop Husbandry related levies
-miscellaneous,3,Miscellaneous
-unspent-balances---locally-raised-revenues,3,Unspent balances - Locally Raised Revenues
-district-equalisation-grant,3,District Equalisation Grant
-hard-to-reach-allowances,3,Hard to reach allowances
-district-unconditional-grant---non-wage,3,District Unconditional Grant - Non Wage
-transfer-of-urban-unconditional-grant---wage,3,Transfer of Urban Unconditional Grant - Wage
-transfer-of-district-unconditional-grant---wage,3,Transfer of District Unconditional Grant - Wage
-urban-equalisation-grant,3,Urban Equalisation Grant 
-urban-unconditional-grant---non-wage,3,Urban Unconditional Grant - Non Wage
-conditional-transfers-for-non-wage-technical-institutes,3,Conditional Transfers for Non Wage Technical Institutes
-conditional-transfer-for-rural-water,3,Conditional transfer for Rural Water 
-conditional-grant-to-phc---development,3,Conditional Grant to PHC - development
-conditional-grant-to-primary-salaries,3,Conditional Grant to Primary Salaries
-conditional-grant-to-tertiary-salaries,3,Conditional Grant to Tertiary Salaries
-conditional-grant-to-sfg,3,Conditional Grant to SFG
-conditional-grant-to-secondary-salaries,3,Conditional Grant to Secondary Salaries
-conditional-grant-to-secondary-education,3,Conditional Grant to Secondary Education
-conditional-grant-to-women-youth-and-disability-grant,3,Conditional Grant to Women Youth and Disability Grant
-conditional-grant-to-primary-education,3,Conditional Grant to Primary Education
-conditional-grant-to-phc--non-wage,3,Conditional Grant to PHC- Non wage
-conditional-grant-to-paf-monitoring,3,Conditional Grant to PAF monitoring
-conditional-grant-to-ngo-hospitals,3,Conditional Grant to NGO Hospitals
-conditional-grant-to-functional-adult-lit,3,Conditional Grant to Functional Adult Lit
-conditional-grant-to-dsc-chairs’-salaries,3,Conditional Grant to DSC Chairs’ Salaries
-conditional-grant-to-district-natural-res---wetlands-non-wage,3,Conditional Grant to District Natural Res. - Wetlands (Non Wage)
-conditional-grant-to-district-hospitals,3,Conditional Grant to District Hospitals
-conditional-grant-to-community-devt-assistants-non-wage,3,Conditional Grant to Community Devt Assistants Non Wage
-conditional-grant-to-agric-ext-salaries,3,Conditional Grant to Agric. Ext Salaries
-conditional-grant-for-naads,3,Conditional Grant for NAADS
-conditional-grant-to-phc-salaries,3,Conditional Grant to PHC Salaries
-conditional-transfers-to-production-and-marketing,3,Conditional transfers to Production and Marketing
-sanitation-and-hygiene,3,Sanitation and Hygiene
-conditional-transfers-to-school-inspection-grant,3,Conditional transfers to School Inspection Grant
-conditional-transfers-to-special-grant-for-pwds,3,Conditional transfers to Special Grant for PWDs
-naads-districts---wage,3,NAADS (Districts) - Wage
-roads-rehabilitation-grant,3,Roads Rehabilitation Grant
-conditional-transfers-to-councillors-allowances-and-ex--gratia-for-llgs,3,Conditional transfers to Councillors allowances and Ex- Gratia for LLGs
-conditional-transfers-to-dsc-operational-costs,3,Conditional transfers to DSC Operational Costs
-unspent-balances---other-government-transfers,3,Unspent balances - Other Government Transfers
-uganda-roads-funds---urban,3,Uganda Roads Funds - Urban
-uganda-roads-funds---district,3,Uganda Roads Funds - District
-nusaf-ii,3,NUSAF II
-unspent-balances---conditional-grants,3,Unspent balances - Conditional Grants
-lgmsd-former-lgdp,3,LGMSD (Former LGDP)
-ubos-census,3,UBOS-CENSUS
-sustain,3,SUSTAIN
-research-triangle,3,Research Triangle
-who,3,WHO
-sight-savers,3,SIGHT SAVERS
-monitoring-educ-enrolment,3,MONITORING EDUC. ENROLMENT
-moh,3,MOH
-unicef,3,UNICEF
-led,3,LED
-youth-livelihood-fund,3,YOUTH LIVELIHOOD FUND
-unspent-balances---donor,3,Unspent balances - donor
-global-fund,3,GLOBAL FUND
-unfpapopsec,3,UNFPA/POPSEC
-liquor-licences,3,Liquor licences
+education,2,Education
+finance,2,Finance
+health,2,Health
+internal-audit,2,Internal Audit
+local-development-grant,2,Local Development Grant
+locally-raised-revenues,2,Locally Raised Revenues
+multi-sectoral-transfers-to-llgs,2,Multi Sectoral Transfers To Llgs
+natural-resources,2,Natural Resources
+other-government-transfers,2,Other Government Transfers
+planning,2,Planning
+production-and-marketing,2,Production and Marketing
+roads-and-engineering,2,Roads and Engineering
+statutory-bodies,2,Statutory Bodies
+water,2,Water
+aasps-danida-transport-fund,3,Aasps Danida Transport Fund
+acav--support,3,Acav  Support
+accord,3,Accord
+acfor,3,Acfor
+acode,3,Acode
 advance-recoveries,3,Advance Recoveries
-other-court-fees,3,Other Court Fees
-rent-rates-from-other-govt-units,3,Rent & Rates from other Gov't Units
-royalties,3,Royalties
-sale-of-non-produced-government-propertiesassets,3,Sale of non-produced government Properties/assets
-conditional-grant-to-ifms-running-costs,3,Conditional Grant to IFMS Running Costs
-uganda-road-fund,3,Uganda Road Fund
-nusafii,3,NUSAFII
-moes---uneb,3,MoES - UNEB
-maif,3,MAIF
-youth-livelihood-programm,3,Youth Livelihood Programm
-restocking-programme,3,Restocking programme
-ubos_-census,3,UBOS_ Census
-belgium-uganda,3,Belgium Uganda
-baylor,3,Baylor
-ntd,3,NTD
-tpotso,3,TPO/TSO
-uac,3,UAC
-unhcr,3,UNHCR
-gavi-fund,3,GAVI FUND
-registration-of-businesses,3,Registration of Businesses
-rent-rates-from-private-entities,3,Rent & Rates from private entities
-conditional-transfer-for-rural-water,3,Conditional transfer for Rural Water
-construction-of-secondary-schools,3,Construction of Secondary Schools
-ubos,3,UBOS
-uneb,3,UNEB
-urf,3,URF
-youth-livelihood-programme,3,Youth Livelihood Programme
-youth-and-gender,3,Youth and Gender
-alref,3,ALREF
-jica,3,JICA
-hu-hietes,3,HU-HIETES
-conditional-grant-from-maaif,3,Conditional Grant from MAAIF
-caiip,3,CAIIP 2
-avian-influenza,3,Avian Influenza
-opm-restocking,3,OPM (restocking)
-unspent-balances---unconditional-grants,3,Unspent balances - UnConditional Grants
-uneb-p-exams,3,UNEB (P7 Exams)
-uganda-road-fund-urf,3,Uganda Road Fund (URF)
-uganda-envision-control-prograame,3,Uganda Envision Control prograame
-ubos-census,3,UBOS (Census)
-opm-youth-training,3,OPM (Youth Training)
-alrep,3,ALREP
-nusaf,3,NUSAF
-national-women-council,3,National Women Council
-mglsd-youth-livelihood-fund,3,MGLSD (Youth livelihood Fund)
-medical-supplies-from-nms,3,Medical Supplies from NMS
-gavi-fund-moh,3,Gavi fund (MoH)
-sanitation-fund,3,Sanitation fund
-donor-funding-unicef,3,Donor Funding (UNICEF)
-nu-hites,3,Nu-Hites
-nu-health,3,Nu-Health
-unspent-balances,3,Unspent balances
-fees-from-appeals,3,Fees from appeals
-court-filing-fees,3,Court Filing Fees
-educationalinstruction-related-levies,3,Educational/Instruction related levies
-local-hotel-tax,3,Local Hotel Tax
-local-service-tax-lst,3,Local Service Tax (LST)
-tax-tribunal---court-charges-and-fees,3,Tax Tribunal - Court Charges and Fees
-conditional-transfers-for-non-wage-technical-farm-schools,3,Conditional Transfers for Non Wage Technical & Farm Schools
-conditional-grant-to-urban-water,3,Conditional Grant to Urban Water
-other-transfers-from-administration,3,Other transfers from Administration
-roads-maintenance---uganda-roads-fund-urf,3,Roads maintenance - Uganda Roads Fund (URF)
-census-ubos,3,CENSUS 2014 UBOS
-ntdmoh,3,NTD(MOH)
-northern-uganda-social-action-fund-ii-nusaf-ii,3,Northern Uganda Social Action Fund II (NUSAF II)
-mtrac-who-moh,3,Mtrac (WHO-MOH)
-community-agricultural-infrastructural-improvement-project-caiip,3,Community Agricultural Infrastructural Improvement Project (CAIIP)
-uneb-ple-supervision,3,UNEB-PLE Supervision
-school-data-collection,3,School Data Collection
-global-fund-moh,3,Global fund (MOH)
-gavi-immunization-moh,3,GAVI (Immunization MOH)
-youth-funds,3,Youth Funds
-uacmoh,3,UAC(MOH)
-other-transfers-from-central-governmentwcs,3,Other Transfers from Central Government(WCS)
-nuhites,3,NUHITES
-pace,3,PACE
-neglected-tropical-diseases-ntd,3,Neglected Tropical Diseases (NTD)
-tenders,3,Tenders
-ubos---census,3,UBOS - Census
-conditional-grant-to-district-community-roads,3,Conditional Grant to District community Roads
-moes,3,MoES
-presidential-pledge,3,Presidential pledge
-researc-triangle,3,Researc Triangle
-donor-funding--unicef,3,Donor Funding- UNICEF
-unjpp---popsec,3,UNJPP - POPSEC
-locally-raised-revenues,3,Locally Raised Revenues
-loan-application-fees,3, Loan application fees
-market-charges,3,market Charges
-registration-of-ngoscbos,3,Registration of NGOs/CBOs
-sale-of-bid-documents,3, sale of Bid documents
-trading-licences,3,Trading Licences
-other-transfers-from-central-government-unspent,3,Other Transfers from Central Government (Unspent)
-other-transfers-from-central-government-ubos,3,Other Transfers from Central Government (UBOS)
-other-transfers-from-central-government-sanitation,3,Other Transfers from Central Government (Sanitation)
-other-transfers-from-central-government-road,3,Other Transfers from Central Government (Road)
-other-transfers-from-central-government-moh,3,Other Transfers from Central Government (MOH)
-other-transfers-from-central-government-moes,3,Other Transfers from Central Government (MOES)
-northern-uganda-support,3,Northern uganda support
-other-transfers-from-central-government,3,Other Transfers from Central Government
-donor-funding,3,Donor Funding
-wateraid,3,WaterAid
-refuse-collection-chargespublic-convinience,3,Refuse collection charges/Public convinience
-non-refundable-fees,3,Non-Refundable Fees
-advertisementsbillboards,3,Advertisements/Billboards
-maiif,3,MAIIF
-census-fund-from-ubos,3,Census fund from UBOS
-moh-for-nodding,3,MOH for Nodding
-moesdeo-operational-cost-others,3,MoES(DEO Operational Cost & others)
-road-maintenance-uganda-road-fund,3,Road Maintenance-Uganda Road Fund
-immunisation-fund-from-moh,3,Immunisation Fund from MoH
-nudeil,3,NUDEIL
-jica-acap,3,JICA-ACAP
-edf,3,EDF
-vegetable-oil,3,Vegetable Oil
-lock-up-fees,3,Lock-up Fees
-fees-from-hospital-private-wings,3,Fees from Hospital Private Wings
-caiip--,3,CAIIP - 3
-census-,3,CENSUS-2014
-district-liveihood-support-programmedlsp,3,District Liveihood Support Programme(DLSP)
-youth-livelihood-programme-ylp,3,Youth Livelihood Programme (YLP)
-vegetable-oil-dev-prog-vodp-ii,3,Vegetable Oil Dev. Prog. (VODP) II
-uganda-sanitation-grant,3,Uganda Sanitation Grant
-dicoss,3,DICOSS
-uganda-road-fundroad-maint,3,Uganda Road Fund/Road Maint
-acfor,3,ACFOR
-amref,3,AMREF
-bernard-van-leer-foundation,3,Bernard Van Leer Foundation
-uganda-aids-commission,3,UGANDA AIDS COMMISSION
-sage,3,SAGE
-danida-rti,3,DANIDA (RTI)
-globle-fund,3,Globle Fund
-accord,3,ACCORD
-spear,3,SPEAR
-voluntary-transfers,3,Voluntary Transfers
-rent-rates-produced-assets-from-private-entities,3,Rent & rates-produced assets-from  private entities
-conditional-grant-to-health-training-schools,3,Conditional Grant to Health Training Schools
-conditional-transfers-for-primary-teachers-colleges,3,Conditional Transfers for Primary Teachers Colleges
-restocking-opm,3,Restocking (OPM)
-road-maintenance-grant-road-fund,3,Road Maintenance Grant (Road Fund)
-primary-education-ple,3,Primary Education (PLE)
-population-housing-census,3,Population & Housing Census
-ministry-of-health,3,Ministry of Health
-nusaf,3,NUSAF 2
-institutional-capacity-building-icb,3,Institutional Capacity Building (ICB)
-gavi,3,GAVI
-aqouaya,3,AQOUAYA
-donor-funding-unhcr,3,Donor Funding (UNHCR)
-donor-funding-health-sector,3,Donor Funding (Health Sector)
-uganda-population-housing-census,3,UGANDA POPULATION & HOUSING CENSUS
-roads-maintenance---urf,3,Roads maintenance - URF
-national-council-for-women,3,National Council for Women
-other--youth-livelihood-programme-ylp,3,Other- Youth livelihood programme (YLP))
-other---management-of-ple,3,Other - Management of PLE
-nusaf,3,NUSAF2
-climate-smart-agriculture,3,Climate Smart Agriculture
-sds-usaid-ii,3,SDS-USAID II
-global-fund-ii,3,GLOBAL FUND II
-loan-application-fees,3,Loan Application Fees
-other-fees-and-charges-remittances,3,Other Fees and Charges/ Remittances
-tender-fees,3,Tender Fees
-development-fees,3,Development fees
-livestock-fees,3,Livestock Fees
-identity-cards,3,Identity Cards
-forest-timber-permits,3,Forest / Timber Permits
-marketparish-charges,3,Market/Parish Charges
-ple-supervision,3,PLE Supervision
-bududa--nabweya-gravity-flow-scheme,3,Bududa- Nabweya Gravity Flow Scheme
-roads-maintenance--urf,3, Roads maintenance- URF
-population-housing-census,3,population Housing census
-wwf,3,WWF
-unicef-uganda,3,Unicef Uganda
-usaidsds,3,USAID/SDS
-world-health-organisation,3,world Health Organisation
-occupational-permits,3,Occupational Permits
-caiip,3,CAIIP 3
-census-funds,3,Census funds
-youth-livelihood-program,3,Youth Livelihood Program
-maaif---banana-wilt,3,MAAIF - BANANA WILT
-maiif--maize-lethol-disease,3,MAIIF -MAIZE LETHOL DISEASE
-moglsd,3,MoGLSD
-uganda-electricity-transmission,3,Uganda Electricity Transmission
-dlsp,3,DLSP
-smart-agriculture-programme,3,Smart Agriculture Programme
-roads-maintenance-urf,3,Roads Maintenance URF
-ntdrti,3,NTD/RTI
-cedovip,3,CEDOVIP
-sds-programme,3,SDS Programme
-mohwho,3,MoH/WHO
-irish-aid-grant,3,Irish Aid Grant
-global-fund-malaria-hiv-and-tb,3,"GLOBAL FUND MALARIA, HIV AND TB"
-polio,3,Polio
-application-fees-from-tenderers,3,Application Fees from Tenderers
-caaip--under-roads-sector,3,CAAIP- Under Roads sector
-community-road-access,3,Community Road access
-phc-credit-linenda-drugs,3,PHC Credit Line(NDA-Drugs)
-urban-roads,3,Urban Roads
-uneb-funds-to-monitor-upe-exams,3,UNEB funds to monitor UPE exams
-education-funds-for-dialogue,3,EDUCATION FUNDS FOR DIALOGUE
-presidential-pledge-for-office-construction,3,PRESIDENTIAL PLEDGE FOR OFFICE CONSTRUCTION
-funds-to-carry-out-census,3,FUNDS TO CARRY OUT CENSUS
-funds-for-dhos-office-hsub-district,3,FUNDS FOR DHO'S OFFICE H/SUB DISTRICT
-youth-livelihood,3,YOUTH LIVELIHOOD
-feeder-road-funddistrict,3,Feeder Road Fund(District)
-donations-from-llgs-others,3,Donations from LLGs & others
-global-fund-on-tb,3,GLOBAL FUND ON TB
-unicef-vht-strategye,3,UNICEF (VHT-Strategye)
-unicef-child-protection,3,UNICEF-child protection
-money-from-the-carter-centre-to-fight-orchociasis,3,money from the Carter Centre to fight Orchociasis
-forestry-dues,3,Forestry Dues
-ground-rent,3,Ground rent
-eskom-royalties,3,ESKOM Royalties
-stores-supplies,3,Stores Supplies
-tender-application-fees,3,Tender Application Fees
-conditional-transfers-for-non-wage-community-polytechnics,3,Conditional Transfers for Non Wage Community Polytechnics
-ple,3,PLE
-census-fund,3,Census Fund
-caiip-,3,CAIIP-2
-private-schools,3,Private schools
-avian-and-human-influenza-preparedness-ahip,3,Avian and Human Influenza Preparedness (AHIP)
-mildmay-ovc,3,Mildmay OVC
-others-mildmay-mjap-sustain-pace-etc,3,"others (Mildmay, MJAP, SUSTAIN, PACE etc)"
-health---prefa-pmtct,3,Health - PREFA PMTCT
-health---ntd-bilharzia,3,Health - NTD Bilharzia
-ppp,3,PPP
-pace,3, PACE
-unepi-surviellance-immunisation,3,UNEPI (Surviellance immunisation)
-restocking,3,Restocking
-second-northern-uganda-social-action-fund-nusaf,3,Second Northern Uganda Social Action Fund( NUSAF 2)
-urban-roadsurf,3,Urban roads(URF)
-community-acess-roadsurf,3,Community Acess roads(URF)
-youth-livelihood-project,3,Youth Livelihood project
-ubos-census,3, UBOS-Census
-emergency-road-rehabilitation-urf,3,Emergency Road Rehabilitation (URF)
-vodp,3,VODP
-district-roadsurf,3,District Roads(URF)
-balyor-hivaids,3,Balyor (HIV/AIDS)
-ahip,3,AHIP
-global-fundhivaids-malaria-tb,3,"Global fund(HIV/AIDs, Malaria & TB)"
-unicef-education--capacity-building,3,UNICEF (education -capacity building)
-who-geniva-sanitation-fund,3,WHO-Geniva Sanitation fund
-community-access-roads,3,Community Access Roads
-uganda-road-fund---district-roads,3,Uganda Road Fund - District Roads
-uneb-ple-contribution,3,UNEB PLE Contribution
-support-to-women-groups,3,Support to women groups
-presidential-pledge-towards-lg-hdqrts,3,Presidential Pledge towards LG Hdqrts
-national-population-and-housing-census---ubos,3,National Population and Housing Census - UBOS
-ministry-of-education---head-count,3,Ministry of Education - Head Count
-uganda-road-fund---mechanised-imprest,3,Uganda Road Fund - Mechanised Imprest
-donor-funding---vng-international,3,Donor Funding - VNG International
-other-health-interventions,3,Other health Interventions
-mildmay-ug,3,Mildmay ug
-uganda-road-fund-road-maintenance,3,Uganda Road Fund-road maintenance
-moe-ple,3,MOE-PLE
-youth-likelihood-programme,3,Youth Likelihood Programme
-sds,3,SDS
-united-nations-population-fundgou-joint-programme,3,United Nations Population Fund/GOU Joint Programme
-whounicef,3,WHO/UNICEF
-uganda-womens-council,3,Uganda Women's Council
-opmnusaf-ii,3,OPM(NUSAF II)
-miscellaneous-receits-incomes,3,Miscellaneous Receits/ Incomes
-others,3,Others
-rent-rates---non-produced-assets,3,Rent & Rates - non produced Assets
-other-transfers-census-ubos,3,Other Transfers (Census-UBOS)
-roads-maintenance--urf,3,Roads maintenance- URF
-other-revenues-moes,3,Other Revenues (MOES)
-onchosciasis,3,Onchosciasis
-ntd-control-program,3,NTD CONTROL PROGRAM
-cess-on-produce,3,Cess on produce
-caiip-,3,CAIIP-3
-other-transfers-from-central-government--unspent-balances,3,Other Transfers from Central Government- Unspent Balances
-recovery-from-ura-,3,Recovery from URA-
-roads-maintenance-uganda-road-fund,3,Roads maintenance-Uganda Road fund
-uganda-wild-life-authority,3,Uganda Wild Life Authority
-ubos--census,3,UBOS- Census
-luwero-rwenzori-development-plan,3,Luwero Rwenzori Development Plan
-district-livelihood-support-programme,3,District Livelihood support programme
-deo-s-monitoring,3,DEO s monitoring
-moh--polio-campaign,3,MOH- POLIO CAMPAIGN
-icb--btc,3,ICB- BTC
-donor-funding--unpent-balances,3,Donor Funding- Unpent balances
-unfpa,3,UNFPA
-unicef-cp,3,UNICEF CP
-aquaya,3,AQUAYA
-conditional-grant-to-ipps-recurrent-costs,3,Conditional Grant to IPPS Recurrent Costs
-youth-livelihood-grant,3,Youth Livelihood Grant
-supervision-of-uneb-exams,3,Supervision of UNEB Exams
-nids,3,NIDS
-ntds,3,NTDS
-bird-flu-surveillance,3,Bird Flu surveillance
-uganda-bureau-of-statistics-census,3,Uganda Bureau Of Statistics-CENSUS
-support-to-decentralisation-for-sustainability,3,Support to decentralisation for Sustainability
-death-and-birth-registation-unicef,3,Death and Birth registation UNICEF
-fish-permits,3,Fish Permits
-other-fees-and-charges-eg-staff-recoveries,3,Other Fees and Charges  e.g (Staff recoveries)
-miscellaneous-and-identified-revenue,3,Miscellaneous and identified revenue
-windfall-gains-community-contributions,3,Windfall gains (community contributions)
-communty-contribution--water,3,Communty Contribution -water
-sale-of-forest-produts,3,Sale of  forest produts
-sale-of-revenue-collection-materials,3,Sale of revenue collection materials
-slaughter-fees,3,Slaughter Fees
-other-fees-loan-handling-fees,3,Other Fees Loan handling Fees
-maaif_climate-smart-agriculture_csa,3,MAAIF_Climate Smart Agriculture_CSA
-road-maintenance-uganda-road-fund,3,Road Maintenance (Uganda Road Fund)
-caiip--,3,CAIIP -111
-census,3,Census 2014
-community-information-system_unspent,3,Community Information System_Unspent
-support-to-women-council_nwc,3,Support to Women Council_NWC
-ple-examination-uneb,3,PLE Examination (UNEB)
-pcy,3,PCY
-maaif-vegetable-oil,3,MAAIF-Vegetable oil
-dlsp_unspent,3,DLSP_Unspent
-moh_bilharzia,3,MoH_Bilharzia
-sds--usaid,3,SDS -USAID
-uganda-road-fund-mech-imprest,3,Uganda road fund Mech imprest
-caiip,3,CAIIP
-ple-monitoring,3,PLE MONITORING
-nusaf-subprojects,3,NUSAF2 SUBPROJECTS
-nusaf-operations,3,NUSAF2 Operations
-uganda-road-fund-community-roads,3,Uganda road fund Community roads
-uganda-road-fund-district,3,Uganda road fund District
-uganda-road-fund-urban-busolwe-tc,3,Uganda road fund Urban Busolwe TC
-fiefoc,3,FIEFOC
-uganda-road-fund-urban-butaleja-tc,3,Uganda road fund Urban Butaleja TC
-uganda-road-fund-urban-butaleja-tc-tarmacking,3,Uganda road fund Urban Butaleja TC Tarmacking
-who-moh,3,WHO/ MOH
-unepi,3,UNEPI
-uganda-bureau-of-statistics,3,Uganda Bureau of Statistics
-road-fund-gombe-town-council,3,Road Fund Gombe Town Council
-ministry-of-education,3,Ministry of Education
-ministry-of-gender-labour-and-social-development,3,"Ministry of Gender, Labour and Social Development"
-office-of-the-prime-minister,3,Office of the Prime Minister
-road-fund-district,3,Road Fund District
-mild-may,3,Mild May
-application-fees-non-refundable-fees,3,Application Fees (Non-refundable fees)
-forest-revenues,3,Forest Revenues
-transfers-from-other-govt-units-,3,Transfers from other Gov't Units (35%)
-naads-gratuity,3,NAADS Gratuity
-uganda-examinations-board-uneb,3,Uganda Examinations Board (UNEB)
-ubos-census,3,UBOS-Census 2014
-support-from-molg-to-buvuma-tc-office-block,3,Support from MoLG to Buvuma T.C Office Block
-national-women-council-grant,3,National Women Council Grant
-mglsd-youth-entreprenuership,3,MGLSD-Youth Entreprenuership
-mohwho-mass-immunization,3,MoH/WHO-Mass Immunization
-unspent-conditional-grants-rural-water,3,Unspent-conditional grants Rural Water
-vegetablepalm-oil-development-project,3,Vegetable/Palm Oil Development Project
-neglected-tropical-diseases,3,Neglected Tropical Diseases
-codes-project-child-fund-uganda,3,CODES Project-Child Fund-Uganda
-waltereed,3,Waltereed
-mwrp-ovc-activities,3,MWRP-OVC Activities
-unicef-birth-registration,3,UNICEF-Birth Registration
-unicef-ovc-mapping,3,UNICEF-OVC Mapping
-gbv,3,GBV
-road-maintenance-road-fund,3,Road Maintenance-Road fund
-pcv,3,PCV 10
-uganda-ntd-programme,3,Uganda NTD Programme
-quarry-charges,3,Quarry Charges
-caiip,3,CAIIP2
-population-and-housing-census,3,Population and Housing Census 2014
-national-women-secretariat,3,National Women Secretariat
-mglsdunfpa-gbv-project,3,MGLSD/UNFPA GBV Project
-youth-livelihood-programme-ylp-moglsd,3,Youth Livelihood Programme (YLP)-MoGLSD
-national-immunisation-campaign,3,National Immunisation Campaign
-whoglobal-fund,3,WHO/GLOBAL FUND
-other-contractual-fees-and-charges,3,Other contractual fees and charges
-forestry-revenue,3,Forestry revenue
-taxi-parks-bodadboda-parks,3,"Taxi parks, Bodadboda parks"
-district-and-urban-road-maintenance,3,District and Urban Road maintenance
-uneb---ple,3,UNEB - PLE
-lavemp-ii-project,3,LAVEMP II Project
-mildmay-uganda,3,MildMay Uganda
-rent-rates---non-produced,3,Rent & Rates - Non produced
-sales-of-publications,3,Sales of Publications
-transfers-to-pece,3,Transfers to Pece
-transfers-to-trc,3,Transfers to TRC
-sales-non-produced-assets,3,Sales non produced assets
-roads-mainteanance--urf,3,Roads mainteanance -URF
-popsecunfpa---planning,3,POPSEC/UNFPA - Planning
-moep-uneb-examination,3,Moep UNEB Examination
-ministry-of-education-sports,3,Ministry of Education & Sports
-unfpa--community-services,3,UNFPA- Community Services
-world-vision,3,World Vision
-unspent-donor--nudeil,3,Unspent Donor -NUDEIL
-unspent-balances-unicef--health,3,Unspent Balances UNICEF- Health
-unspent-balances-ulgadfid,3,UnSpent Balances ULGA/DFID
-juvenile-justice,3,Juvenile Justice
-care-international---community,3,CARE INTERNATIONAL - COMMUNITY
-drpt,3,DRPT
-ulgadfid,3,ULGA/DFID
-ovc,3,OVC
-other-fees-and-charges---development-tax,3,Other Fees and Charges - Development Tax
-other-licences---uwa,3,Other licences - UWA
-other-fees-and-charges--tender,3,Other Fees and Charges -Tender
-conditional-grant-to-public-libraries,3,Conditional Grant to Public Libraries
-caiip-iii,3,CAIIP III
-roads-maintenance--uganda-road-fund---district,3,Roads maintenance- Uganda Road Fund - District
-national-medical-stores-nms,3,National Medical Stores (NMS)
-dicoss-project,3,DICOSS Project
-women-councils-iga,3,Women Councils IGA
-unspent-balances---caiip,3,Unspent balances - CAIIP
-sight-savers-international-ssi,3,Sight Savers International (SSI)
-caiip-ministry-of-local-govt,3,CAIIP 3(Ministry of Local Govt)
-ministry-of-genderlabour-and-social-devt,3,"Ministry of Gender,Labour and social Devt"
-roads-maintenance--uganda-road-fund,3,Roads Maintenance- Uganda Road Fund
-ministry-of-agricultureanimal-industry-fisheries,3,"Ministry of Agriculture,Animal Industry& Fisheries"
-ubosmin-of-financeplanning-econdevt,3,"UBOS(Min. of Finance,Planning & Econ.Devt)"
-carter-centre,3,Carter centre
-urban-road-funds,3,Urban road funds
-road-rehabilitation-grant--district,3,Road rehabilitation grant- district
-sub-county-road-fund,3,Sub county Road fund
-busesa-technical-institute,3,Busesa technical Institute
-deos-grant,3,DEO's Grant
-youth-fund,3,Youth Fund
-cedovic,3,CEDOVIC
-irish-aid-gbv,3,Irish AID (GBV)
-dicoss-world-bank,3,DICOSS (WORLD BANK)
-sight-saver,3,Sight Saver
-eicos,3,EICOS
-caiipiii,3,CAIIPIII
-national-road-fund,3,NATIONAL ROAD FUND
-moes-validation,3,MOES (Validation)
-mglsd-ylp,3,MGLSD (YLP)
-usaid-sds-grant-ab,3,USAID-SDS Grant A&B
-interest-from-private-entities,3,Interest from private entities
-disposal-of-assets-for-llgs,3,Disposal of assets for LLGS
-disposal-of-assets,3,Disposal of Assets
-rent-rates-from-non-produced-assets,3,Rent & Rates from Non produced assets
-sale-of-land,3,Sale of Land
-vat,3,VAT
-transfers-from-uganda-road-fund,3,Transfers from Uganda Road fund
-global-fund-for-malariahiv,3,Global Fund for Malaria/HIV
-sight-savers-international,3,Sight savers international
-taso,3,TASO
-umsd-project,3,UMSD project
-irish-aid,3,Irish Aid
-unmcec-project,3,UNMCEC Project
-ids,3,IDS
-cattle-branding---opm,3,Cattle Branding - OPM
-census---ubos,3,Census - UBOS
-unspent-balances-conditional-grants,3,Unspent Balances Conditional Grants
-other-transfers-from-central-government---moglsd,3,Other Transfers from Central Government - MoGLSD
-maintenance-roads---urf,3,Maintenance Roads - URF
-kalip---opm,3,KALIP - OPM
-unspent-balance--unicef-donor-funding,3,Unspent Balance -UNICEF Donor Funding
-land-fees-kiruruma-farm,3,Land Fees (Kiruruma Farm)
-lands-and-surveys,3,Lands and Surveys
-market-fees,3,Market Fees
-other-fees-and-chargesmiscellaneous,3,Other fees and Charges/miscellaneous
-park-feesboda-boda,3,Park Fees/Boda Boda
-rent-rates-forestry,3,Rent & Rates (Forestry)
-rent-kda-houses,3,Rent KDA houses
-agency-feestender-fees,3,Agency Fees(Tender Fees)
-sale-of-plots-in-kmc-and-ditrict-house-in-makanga,3,Sale of plots in KMC and Ditrict House in Makanga
-sale-of-scrap,3,Sale of scrap
-application-fees-loans,3,Application Fees (Loans)
-dicoss-ministry-of-trade,3,DICOSS-MINISTRY OF TRADE
-caiip-ministry-of-local-government,3,CAIIP 3 Ministry of Local Government.
-roads-maintenance---uganda-road-fund,3,Roads maintenance - Uganda Road Fund
-unicef-community-based-nutrition,3,UNICEF-Community Based Nutrition
-wash-plus,3,WASH Plus
-usaidsds-hivaids,3,USAID/SDS-HIV/AIDS
-global-fund-ministry-of-health,3,Global Fund-Ministry of Health
-dept-revenue,3,Dept Revenue
-lrdp,3,LRDP
-beligium-techinical-cooperation,3,Beligium Techinical Cooperation
-registrationof-bussiness-trading-lincence,3,registrationof Bussiness trading Lincence
-urgencytender-fees,3,Urgency/Tender fees
-re-stocking-opm,3,Re-Stocking (OPM)
-vegetable-oil-devt-project-vodp,3,Vegetable Oil Dev't Project (VODP)
-ubos-population-census,3,UBOS (Population Census)
-conditional-grant-to-feeder-roads-maintenance-workshops-urf,3,Conditional Grant to feeder roads maintenance workshops (URF)
-uganda-national-examinations-board,3,Uganda National Examinations Board
-urf-community-access-roads,3,URF (Community Access Roads)
-deo-operational-costs,3,DEO Operational Costs
-urf-urban,3,URF (Urban)
-urf-mechanical-imprest---urban,3,URF (Mechanical Imprest - Urban)
-roads-maintanance-uganda-road-fund,3,Roads Maintanance (Uganda Road Fund)
-maaif---avian-human-influenza-surveillence,3,MAAIF - Avian Human Influenza Surveillence
-fisheries-training,3,Fisheries Training
-baylor-college-of-medicine,3,Baylor College of Medicine
-gavi-funds,3,GAVI Funds
-vegitable-oil-project,3,Vegitable oil Project
-uganda-roads-fund,3,Uganda Roads Fund
-national-housing-and-population-census,3,National Housing and population Census
-kddp,3,KDDP
-kchsp,3,KCHSP
-lvemp-ii,3,LVEMP II
-transfers-of-various-grants-to-llgsurban-and-subcounties,3,Transfers of various grants  to LLGs(Urban and subcounties)
-census,3,Census
-youth-livelihood--ylp,3,Youth Livelihood -YLP
-uneb-support-moes,3,UNEB  Support (MOES)
-devt-transfers-to-kaliro-tc-form-molg,3,Dev't transfers to Kaliro TC form MoLG
-dicos-project,3,DICOS  Project
-disease-survillence-who--health,3,Disease survillence (WHO)- Health
-german-leprosy-services--health,3,German Leprosy Services- Health
-global-fund-hiv--health,3,Global Fund HIV- Health
-global-fund-malaria---health,3,Global Fund Malaria - Health
-global-fund-tb-health,3,Global Fund TB-Health
-irish-aid-gbv-cedovip,3,Irish AID (GBV-CEDOVIP)
-m-trac-suppport-supervision,3,M-Trac Suppport supervision
-ntd--health,3,NTD- Health
-star-ec-hivaids-health,3,Star EC HIV/AIDS-Health
-sunrise-ovc-sds---community,3,Sunrise OVC (SDS) - Community
-unspent-balances---sds,3,Unspent balances - SDS
-unspent-donor-who--health,3,Unspent donor WHO -Health
-usaidsds,3,"USAID,(SDS)"
-eye-care-sight-savers,3,Eye care (Sight Savers)
-ylp-funds-from-mglsd-unspent,3,YLP funds from MGLSD (Unspent)
-ylp-funds-from-mglsd,3,YLP funds from MGLSD
-road-maintainence,3,Road maintainence
-road-maintainance,3,Road maintainance
-conditional-grant-from-maaf-to-production-sector,3,conditional grant from MAAF to Production sector
-road-fund-acess-operational,3,Road fund (Acess operational)
-road-fund-access,3,Road fund (Access)
-transfer-from-moes-for-recruitment-of-teachers,3,transfer from MOES for recruitment of teachers
-uetcl-compensation,3,UETCL Compensation
-uganda-bureau-of-statistics-census,3,Uganda Bureau of Statistics (Census 2014)
-deos-facilitation-from-moes,3,DEO's facilitation from MOES
-uneb-contribution,3,UNEB CONTRIBUTION
-unspent-conditional-grant-to-pmg,3,Unspent conditional grant to PMG
-ministry-of-water-environment-lvemp-ii,3,Ministry of Water & Environment (LVEMP II)
-unspent-ylp-funds-from-mglsd,3,Unspent YLP funds from MGLSD
-urban-roads-operational,3,Urban roads (operational)
-grant-for-women-igas,3,Grant for women IGAs
-allowances-to-medical-workers,3,Allowances to medical workers
-ministry-of-local-government-caiip-ii,3,MINISTRY OF LOCAL GOVERNMENT (CAIIP II)
-unspent-conditional-transfers-to-production-and-marketing,3,Unspent Conditional transfers to Production and Marketing
-medical-supplies,3,Medical Supplies
-prefa,3,PREFA
-prefar-pace-worldvision-mildmay,3,"PREFAR, PACE, WORLDVISION, MILDMAY"
-uganda-cares,3,UGANDA CARES
-donation-by-mrc-to-kyamulibwa-sc,3,Donation by MRC to Kyamulibwa S/C
-mrc,3,MRC
-cdc,3,CDC
-form-x-ple-registration-mock-for-private-schools,3,"Form x, PLE Registration & Mock for Private schools"
-mildmay,3,MILDMAY
-uneb-ple-expenses,3,UNEB (PLE Expenses)
-moes-use-enrolment-verification,3,MoES USE enrolment verification
-emergency-road-fund,3,Emergency Road Fund
-national-population-and-housing-census,3,National Population and Housing Census 2014
-unicefbdr,3,UNICEF(BDR)
-who-polio,3,WHO Polio
-who-disease-surveillance,3,WHO Disease surveillance.
-sight-savers,3,Sight Savers.
-strengthening-decentralisation-for-sustainability-sds-grant-b,3,Strengthening Decentralisation for Sustainability (SDS) Grant  B
-strengthening-decentralisation-for-sustainability-sds-grant-a,3,Strengthening Decentralisation for Sustainability (SDS) Grant A
-sustainable-land-management-slm,3,Sustainable Land Management (SLM)
-positive-living-pace,3,Positive Living (PACE)
-unicef-family-health-days,3,UNICEF (Family Health Days)
-neglected-tropical-diseasesntd,3,Neglected Tropical Diseases(NTD.)
-gender-based-violence-preventiongbv,3,Gender Based Violence Prevention(GBV)
-global-fund-malaria-control,3,Global Fund (Malaria Control)
-hiv,3,HIV
-manifest,3,MANIFEST
-vegetable-oil-devt-project-vodp,3,Vegetable Oil Dev''t Project( VODP2)
-upe-support--caa,3,UPE Support- CAA
-who---mtrac,3,WHO - MTRAC.
-licence-application,3,Licence Application
-royalities,3,Royalities
-sale-of-stationery-and-bids,3,Sale of Stationery and Bids
-road-maintenance-urf,3,Road Maintenance (URF)
-contribution-on-monitoringmeos,3,Contribution on Monitoring(MEOS)
-youth-liveihood-programme,3,Youth Liveihood Programme
-caip,3,CAIP3
-baylor-college,3,Baylor College
-sds-grant-a,3,SDS Grant A
-sds-dmip,3,SDS DMIP
-global-fundgavi-fund,3,Global Fund/Gavi Fund
-mother-child-baylor,3,Mother Child/ Baylor
-cconditional-trasfer-from-the-ministry-of-local-government,3,cconditional trasfer from the Ministry of local Government
-other-transfers-from-uganda-road-fund,3,Other Transfers from Uganda Road Fund
-ministry-of-tourism-uwa-quepa,3,Ministry of tourism (UWA QUEPA)
-ministry-of-tourism-uwa-revenue-sharing,3,ministry of tourism ( UWA revenue sharing)
-ministry-of-gender-youth-livelihood-project,3,Ministry of Gender ( youth livelihood project
-credit-line-nda,3,CREDIT LINE NDA
-credit-line-kambuga-hospital,3,CREDIT LINE KAMBUGA HOSPITAL
-who-reproductive-health,3,WHO REPRODUCTIVE HEALTH
-who-mtrac,3,WHO MTRAC
-ntd-research-triangle,3,NTD RESEARCH TRIANGLE
-who-epidemic,3,WHO  EPIDEMIC
-moh-vht,3,MOH VHT
-who-surveillance,3,WHO surveillance
-transfers-from-ubos,3,Transfers from UBOS
-funds-from-trade-ministry,3,Funds from Trade Ministry
-fgm-grant-from-mogl,3,FGM Grant from MOGL
-hiv-aidsglobal-fund,3,HIV Aids/Global fund
-sds-usaid,3,SDS-USAID
-unicefgavi,3,UNICEF/GAVI
-unspent-balance-global-fund,3,Unspent balance (Global Fund)
-other-fees-and-penalties,3,other fees and penalties
-land-fees--to-land-board,3,land fees % to land board
-windfall-gains,3,windfall gains
-global-fund-for-hivaids,3,Global Fund for HIV/AIDS
-mofped,3,MoFPED
-moes,3,MoE&S
-luwero-rwenzori-development-fund,3,Luwero Rwenzori Development Fund
-naads-special-release,3,NAADS Special Release
-igas-for-women-groups-by-nwc-secreteriate,3,IGAs for Women groups by NWC secreteriate
-uganda-wildlife-authority,3,Uganda WildLife Authority
-farm-income-and-forestry-conservation-project,3,Farm Income and Forestry Conservation Project
-primary-leaving-examinations,3,Primary Leaving Examinations
-cipesa,3,CIPESA
-baylor-uganda,3,Baylor Uganda
-ggp-japanese,3,GGP-Japanese
-epi-polio,3,EPI-Polio
-envision,3,ENVISION
-icbbtc,3,ICB/BTC
-strengthening-decentralization-for-service-delivery-sds,3,Strengthening Decentralization for Service Delivery (SDS)
-miscellaneous-revenue-water-sources-hall-hire,3,"Miscellaneous Revenue (water sources, hall hire)"
-hotel-tax,3,Hotel Tax
-sale-of-non---produced-government-propertiesassets,3,Sale of non - produced Government Properties/assets
-special-grant-for-women-councils,3,SPECIAL GRANT FOR WOMEN COUNCILS
-youth-livelihood-projects,3,YOUTH LIVELIHOOD PROJECTS
-forestry-products,3,Forestry products
-community-contributionwater,3,Community contribution(water)
-contribution-to-district-administration-block-poject-by-molg,3,Contribution to District Administration Block Poject By MoLG
-luwero--rwenzori-development-grant,3,Luwero -Rwenzori Development Grant
-uneb-ple,3,UNEB-PLE
-moh-unepi,3,MOH-UNEPI
-muwrp,3,MUWRP
-unspent-balances-gavi,3,Unspent balances  GAVI
-moes--ple,3,MOES- PLE
-moes--monitoring-and-supervision,3,MOES- Monitoring and supervision
-census---ubos,3,Census 2014 - UBOS
-ces,3,CES
-baylor-international-u,3,Baylor International (U)
-az-project,3,A2Z Project
-idi,3,IDI
-mini-taso---kagadi-hosp,3,Mini TASO - Kagadi Hosp
-notf,3,NOTF
-pearl,3,PEARL
-unepiunicefwho,3,UNEPI/UNICEF/WHO
-unicef-funding-to-community-services,3,UNICEF funding to Community Services
-donor-funding-to-planning-unit,3,Donor Funding to Planning Unit
-forestry-forest-products,3,Forestry (Forest Products)
-produce-loading-levy,3,Produce loading levy
-application-feestender-fees,3,Application Fees/Tender fees
-ground-rent-rate---non-produced-assests,3,Ground Rent &rate - non produced assests
-land-feespremium,3,Land Fees/premium
-animal-and-crop-levieslive-stock-exit,3,Animal and Crop levies(Live stock Exit)
-community-access-roads-urf,3,Community Access Roads URF
-ple-grant,3,PLE Grant
-women-council-grant,3,Women Council Grant
-validation-of-teachers,3,Validation of teachers
-urban-urf-kiboga-tc,3,Urban URF-Kiboga T/C
-urban-urf-bukomero-tc,3,Urban URF-Bukomero T/C
-roads-maintenance--urf,3,Roads Maintenance -URF
-luwero-rwenzori,3,Luwero-Rwenzori
-immunasation,3,Immunasation
-banana-bacterial-wilt-naro,3,Banana Bacterial Wilt (NARO)
-avian-flue,3,Avian Flue
-gccfao,3,GCC/FAO
-support-to-women-councils,3,Support to women councils
-other-transfers-water-aid-wash,3,Other Transfers Water Aid (WASH)
-other-transfers-from-central-governmentmanifest,3,Other Transfers from Central Government(MANIFEST)
-other-govt-transfers-ubos,3,Other Gov't Transfers (UBOS)
-youth-lively-hood-programme-fund,3,Youth lively hood programme Fund.
-donor-funding-health,3,Donor Funding-health
-sds---health,3,SDS - HEALTH
-sds-community,3,SDS-COMMUNITY
-sds-education,3,SDS-EDUCATION
-uganda-wild-life-authority-gate-fee-sharing,3,UGANDA WILD LIFE AUTHORITY (GATE FEE SHARING)
-unicef-icc-health,3,UNICEF ICC-HEALTH
-caiip-program,3,CAIIP 3 PROGRAM
-ovc-grant,3,OVC GRANT
-uwa,3,UWA
-other-transfers-from-central-governmentubos,3,Other Transfers from Central Government(UBOS)
-other-transfers-from-central-government-moglsd,3,Other Transfers from Central Government (MoGLSD)
-aids-information-centre,3,AIDS Information Centre
-wash-plus,3,WASH-PLUS
-ple-exams---uneb,3,PLE EXAMS - UNEB
-tbleprosy,3,TB/LEPROSY
-unicef-education-barazas,3,UNICEF (Education Barazas)
-strengthening-decentralisation-for-sustainability-sds,3,Strengthening Decentralisation for Sustainability (SDS)
-land-government-owned-corporations,3,Land Government Owned Corporations
-ubos--census-fund,3,UBOS- CENSUS FUND
-unspent-balance---natural-resource,3,Unspent balance - Natural Resource
-unspent-paf--water,3,Unspent PAF -Water
-unspent-prdp-fund-production,3,Unspent PRDP FUND-Production
-vodp-ii,3,VODP II
-population-secretariate-unfpa,3,Population Secretariate (UNFPA)
-moh---post-mda-monitoring-and-data-collection,3,MOH - Post MDA Monitoring and Data Collection
-moh---nodding-syndrome,3,MOH - Nodding Syndrome
-moh---nocp,3,MOH - NOCP
-ministry-of-gender---jpp-women-empowerment,3,Ministry of Gender - JPP (Women Empowerment)
-nusaf-fund,3,NUSAF Fund
-donor-funding--world-vision,3,Donor Funding- World Vision
-donor-funding---alrep,3,Donor Funding - ALREP
-donor-funding---unicef,3,Donor Funding - UNICEF
-donor-funding--nu-hites,3,Donor Funding -NU-HITES
-fund-for-polio-immunization,3,Fund for Polio Immunization
-jica-acap-water-sector,3,JICA  ACAP-Water Sector
-unspent-donor-fund,3,Unspent Donor Fund
-donor-funding--cater-center,3,Donor Funding- Cater center
-opm-animal-restocking-programme,3,OPM Animal restocking Programme
-office-start-up-fund,3,Office start up fund
-moh-ntd-mda-monitoring-meningitis,3,"MoH-NTD-MDA Monitoring, Meningitis"
-youth-livelihood-programme-operation-funds,3,Youth Livelihood Programme (Operation funds)
-moh-gavi-fund,3,MoH GAVI Fund
-unhcr-education,3,UNHCR Education
-unhcr-health,3,UNHCR Health
-icbp,3,ICBP
-research-triangle-ntd,3,Research Triangle (NTD)
-road-maintenance-road-fund,3,Road Maintenance (Road Fund)
-numat,3,NUMAT
-district-roads-maintenance---uganda-road-fund,3,District Roads Maintenance - Uganda Road Fund
-nalpip,3,NALPIP
-who-mass-polio,3,WHO (Mass Polio)
-fao,3, FAO
-ntd,3, NTD
-kalip,3,KALIP
-other-transfers-from-central-government-restocking,3,Other Transfers from Central Government-restocking
-other-transfers-from-central-government-ple-and-deo-operations,3,Other Transfers from Central Government-PLE and DEO operations
-other-transfers-from-central-governmentntd,3,Other Transfers from Central Government(NTD)
-sds-administration,3,SDS ADMINISTRATION
-sds--health,3,SDS -HEALTH
-sds-grant-c,3,SDS-GRANT C
-bvlf,3,BVLF
-baylor-ovc,3,BAYLOR-OVC
-baylor-health,3,BAYLOR-Health
-pcygtz,3,PCY(GTZ)
-mogld-fgm-fund,3,MoGLD FGM Fund
-uneb-for-ple,3,UNEB for PLE
-ubos-census-funds,3,UBOS Census Funds
-mogld-gender-equality-fund,3,MoGLD Gender equality Fund
-moh-for-imunisation,3,MOH for imunisation
-forestry-products-levy,3,Forestry Products Levy
-livestock-exit-fees,3,Livestock Exit fees
-youth-livelihood-molgsd,3,Youth Livelihood-MoLGSD
-luweero-rwenzori,3,Luweero-Rwenzori
-mass-measles-immunisation,3,Mass measles Immunisation
-roads-maintenaceurf,3,Roads  maintenace/URF
-ubos-census-funds,3,UBOS-Census funds
-idi-funds,3,IDI Funds
-contract-fees,3,contract fees
-luwero-rwenzori,3,Luwero Rwenzori
-national-women-council-funds,3,National Women Council Funds
-moh---mtrack,3,MOH - M.track
-moes-uneb,3,MoES (UNEB)
-avian-disease-surveillance,3, Avian Disease Surveillance
-road-maintenanceroad-fund,3,Road maintenance(Road Fund)
-education,3,Education
-unicef-interest,3,UNICEF Interest
-unspent-icb,3,Unspent ICB
-unspent-unicef,3,Unspent UNICEF
-water-for-life,3,Water For Life
-lrdp-luwero-rwenzori-devt-plan,3,LRDP (Luwero Rwenzori Dev't Plan)
-unspent-balance-health,3,Unspent balance Health
-unspent-balane-prdp,3,Unspent balane PRDP
-nusaf-ii-unspent-balance,3,NUSAF II Unspent balance
-prdp-unspent-balance,3,PRDP unspent balance
-rti-unspent-balance,3,RTI unspent balance
-lgmsdg-unspent-balance,3,LGMSDG unspent balance
-unspent-balance-prdp-market-construction,3,Unspent balance PRDP market construction
-unspent-balance-unicef,3,Unspent balance UNICEF
-unspent-balance-nuhites,3,Unspent balance NUHITES
-unspent-balance-global-fund,3,Unspent balance Global Fund
-nudeil-unspent-balance,3,NUDEIL unspent balance
-unspent-balance-nodding-syndrome,3,Unspent balance Nodding syndrome
-national-census,3,National Census
-who-polio-immunization,3,WHO Polio Immunization
-banana-bacterial-wilt,3,Banana Bacterial Wilt
-road-equipment-maintenece,3,Road equipment maintenece
-deos-operational-fund,3,DEOs operational fund
-conditional-transfer-to-road-maintenance-district,3,Conditional transfer to road maintenance district
-conditional-transfer-to-road-maintenance-sc,3,Conditional transfer to road maintenance S/C
-conditional-transfer-to-road-maintenance-urban,3,Conditional transfer to road maintenance urban
-salvation-army,3,Salvation Army
-sunrise,3,SUNRISE
-peace-foundation-korea,3,Peace Foundation Korea
-miscellaneous-and-unidentified-revenue,3,Miscellaneous and Unidentified Revenue
-pcymglsd,3,PCY(MGLSD)
-uganda-road-fund-ducar,3,Uganda Road Fund (DUCAR)
-mohgavi,3,MOH(GAVI)
-mohntd,3,MOH(NTD)
-uboscensus,3,UBOS(Census 2014)
-unfpamglsd,3,UNFPA(MGLSD)
-income-generation-granymoglsd,3,INCOME GENERATION GRANY(MoGLSD)
-maaif,3,MAAIF
-dicos,3,DICOS
-moesple,3,MOES(PLE)
-vso,3,VSO
-unspent-balances---donordanida,3,Unspent balances - donor(DANIDA)
-pride-project,3,PRIDE PROJECT
-unfpaunjp,3,UNFPA/UNJP
-nuhealth,3,NUHealth
-niure,3,NIURE
-unjp,3,UNJP
-faosupport-to-commercial-sector,3,FAO(Support to Commercial Sector)
-national-population-housing-census,3,National Population & Housing Census 2014
-road-maintenance--uganda-road-fund,3,Road maintenance -Uganda Road Fund
-caip,3,CAIP
-uncief,3,UNCIEF
-ifadi-dlsp,3,IFADI DLSP
-uganda-road-fund-road-maintainance,3,Uganda Road Fund (Road maintainance)
-other-transfers-from-central-governmentyouth-livelihood-program,3,Other Transfers from Central Government(Youth livelihood program)
-cis,3,(CIS)
-uneb,3,(UNEB)
-unspent-balance-mildmay,3,Unspent balance mildmay
-unspent-balances-prefa,3,Unspent balances prefa
-fao_bbw,3,FAO_BBW
-registration-marriage-nomination-fees,3,"Registration, Marriage & Nomination Fees"
-agency-fees-tender-fees,3,Agency Fees / Tender fees
-uganda-road-fund-urban-roads,3,Uganda Road Fund (Urban Roads)
-uganda-road-fund-district-roads,3,Uganda Road Fund (District Roads)
-uganda-road-fund-community-roads,3,Uganda Road Fund (Community Roads)
-mechanical-imprest,3,Mechanical Imprest
-pace-positive-living,3,PACE ( Positive living)
-save-the-childrenhbb,3,Save the Children(HBB)
-chai,3,CHAI
-whodisease-surveillance,3,WHO(Disease surveillance)
-mildmay---uganda,3,Mildmay - Uganda
-rentals,3,  Rentals
-fish-movement-permits,3,Fish movement permits
-sand-and-stone,3, Sand and stone
-cess-on-produce,3, Cess on produce
-agency-fees,3, Agency fees
-others,3, Others
-plan-approval,3, Plan Approval
-surcharge-and-fines,3, Surcharge and Fines
-ubos-census,3,UBOS (Census 2014)
-support-to-ple,3,Support to PLE
-roads-maintenance-urf,3,Roads maintenance (URF)
-caiip-to-works,3,CAIIP to Works
-district-livilihood-support-programme,3,District Livilihood Support Programme
-youth-livilihood-programme-ylp,3,Youth Livilihood Programme (YLP)
-busoga-forest-company,3,Busoga Forest Company
-mayuge-sugar-industries,3,Mayuge Sugar Industries
-kakira-sugar-works,3,Kakira Sugar Works
-irish-aid-support-to-gender-based-violence-project,3,Irish Aid (Support to Gender Based Violence Project)
-sight-savers,3, Sight savers
-nfa,3,NFA
-haulage-fees,3,Haulage fees.
-crop-cess-fees,3,Crop cess fees.
-forest-products,3,Forest products.
-produce-fees,3,Produce fees.
-development-tax,3,Development Tax.
--transfers-from-llgs,3,35% transfers from LLGs.
-birth-and-death-registration,3,Birth and death registration.
-bid-document-sales,3,Bid document sales.
-road-maintenance---uganda-road-fund,3,Road Maintenance - Uganda Road Fund
-urban-gt-compensation,3,Urban GT Compensation.
-child-fund,3,Child Fund
-ceford,3,CEFORD.
-caritas-uganda,3,CARITAS Uganda.
-unicef,3,UNICEF.
-pace--urcs,3,Pace -URCS.
-belgium-technical-cooperation-btc,3,Belgium Technical cooperation (BTC)
-acav--support,3,ACAV -Support
-snv--support,3,SNV -support
-rural-initiative-for-community-empowerment--rice,3,Rural Initiative for Community Empowerment -RICE.
-public-library,3,Public Library
-ministry-of-energygiz-support,3,Ministry of Energy/GIZ Support
-mayank,3,MAYANK
-maracha-asea,3,Maracha Asea.
-liverpool-school-of-tropical-medicines,3,Liverpool School of tropical medicines.
-gavi--moh,3,GAVI -MoH
-dar-ii-programme-funds,3,DAR II programme funds.
-reco-support,3,RECO Support
-youth-livehood-from-mogld,3,Youth Livehood from MOGLD
-uneb-contribution-to-ple,3,UNEB contribution to PLE
-aviation-human-and-influenza-project-ahip,3,AVIATION HUMAN AND INFLUENZA PROJECT (AHIP)
-community-access-road-fund,3,Community Access Road Fund
-private-registration,3,PRIVATE REGISTRATION
-private-contribution-towards-mock,3,PRIVATE CONTRIBUTION TOWARDS MOCK
-prefaglobal-fundntdmildmay,3,"PREFA,GLOBAL FUND,NTD,MILDMAY"
-clean-development-management,3,CLEAN DEVELOPMENT MANAGEMENT
-naro-support-research,3,NARO SUPPORT RESEARCH
-lake-albert-safaries,3,LAKE ALBERT SAFARIES
-form-x,3,FORM X
-district-commercial-service-support,3,District Commercial Service Support
-lvemp,3,LVEMP
-rates---produced-assets---from-private-entities,3,Rates - Produced Assets - from private entities
-other-fines-and-penalties,3,Other Fines and Penalties
-migration-permits,3,Migration permits
-fees-from-forestry,3,Fees from Forestry
-driving-permits,3,Driving Permits
-development-tax,3,Development Tax
-sale-of-noneproduced-government-propertiesassets,3,Sale of None(Produced) Government Properties/assets
-reimbursements-by-other-bodies,3,Reimbursements by Other bodies
-wind-fall-gains,3,Wind Fall Gains
-vegetable-oil-developmet-project-ii,3,Vegetable Oil Developmet Project II
-rodas-maintenance--uganda-road-fund,3,Rodas maintenance- Uganda Road Fund
-uganda-national-examinations-board-uneb,3,Uganda National Examinations Board (UNEB)
-eradication-of-banana-bacterial-wilt---maif,3,Eradication of Banana Bacterial Wilt - MAIF
-poulation-and-housing-census,3,Poulation and Housing Census
+advertisementsbillboards,3,Advertisementsbillboards
+advertisementsbill-boards,3,Advertisementsbill Boards
+agency-fees,3,Agency Fees
+agency-feeslevy-from-forestry,3,Agency Feeslevy From Forestry
+agency-feestender-fees,3,Agency Feestender Fees
+agency-fees-tender-fees,3,Agency Fees Tender Fees
 agricultuture-technology-transfer,3,Agricultuture Technology Transfer
-northern-uganda-social-action-fund-ii,3,Northern Uganda Social Action Fund II
-unspent-balance---ntd-health,3,Unspent balance -  NTD Health
-world-wide-fund-wwf,3,World Wide Fund (WWF)
-infectious-diseases-institute-idi,3,Infectious Diseases Institute (IDI)
-unspent-balance---taso-health,3,Unspent balance -  TASO Health
-water-aid,3,Water Aid
-ces-sight-savers---health,3,CES (Sight Savers) - Health
-malaria-cosotium,3,Malaria Cosotium
-unicef---health,3,UNICEF - Health
-ntdneglected-tropical-diseases,3,NTD(Neglected Tropical Diseases)
-ifad---district-livelihood-support-programme,3,IFAD - District Livelihood Support Programme
-infectious-disease-institute-idi,3,Infectious Disease Institute (IDI)
-unicef---plannining-unit,3,UNICEF - Plannining Unit
-cessight-savers---education,3,CES(Sight Savers) - Education
-property-related-dutiesfeesproperty-tax,3,Property related duties/fees(Property tax)
-local-hotel-tax,3,Local hotel  Tax
-interest,3,Interest
-advertisementsbill-boards,3, Advertisements/Bill Boards
-inspection-fees,3, Inspection Fees
-animal-crop-husbandry-related-levies,3, Animal & Crop Husbandry related Levies
-rent-rates---nonproduced-assets---from-private-entities,3, Rent & rates - Nonproduced assets - from private entities
-other-fees-and-charges,3, Other Fees and Charges
-registration-of-businesses,3, Registration of Businesses
-market-gate-charges,3, Market /Gate Charges
-unspent-balance--phc,3,Unspent balance- PHC
-unspent-sfg,3,Unspent  SFG
-recruitment-for-dsc,3,Recruitment for DSC
-banana-disease-control-maiif,3,Banana Disease Control (MAIIF)
-caiip-ii,3,CAIIP II
-unspent-prdp-roads,3,Unspent PRDP roads
-community-donorssne,3,Community Donors(SNE)
-community-serv-prog,3,Community Serv. Prog.
-world-vision-cbs,3,world vision CBS
-women-igs,3,women IGS
-vegetable-oil-devt-project,3,Vegetable Oil Dev't Project
-uganda-global-fund,3,Uganda Global Fund
-crane-bank,3,Crane Bank
-donor-fundingavian-flu,3,Donor Funding(AVIAN FLU)
-other-donors-ie-who-etc,3,"Other Donors ie WHO, etc"
-merecp,3,Merecp
-malaria-consortium,3,Malaria consortium
-ilo,3,ILO
-hivchai,3,HIV/CHAI
-farm-income-enhancement,3,Farm Income &Enhancement
-world-vision-to-education,3,World vision to education
-other-transfers-from-central-government-youth-livelihood-programme,3,Other Transfers from Central Government (youth livelihood programme)
-other-transfers-from-central-governmentcensus,3,Other Transfers from Central Government(Census)
-roads-maintenance--ur-f,3,Roads maintenance- UR F
-rotavirus-campaign,3,Rotavirus Campaign
-mass-measles-compaign,3,Mass measles compaign
-special-grant-for-women-mglsd,3,Special Grant for Women (MGLSD)
-mtrac,3,MTRAC
-moh--disease-surveillance,3,MOH- Disease surveillance
-hpv-campaign,3,HPV Campaign
-head-count-sec-schools,3,Head count-sec schools
-head-count-pri-schools,3,Head count-pri schools
-contribution-to-ple-uneb,3,Contribution To PLE (UNEB)
-donor-funding-ministry-of-gender,3,Donor Funding( ministry of gender)
-caiip,3,CAIIP 111
-mjap,3,MJAP
-taxes-on-goods-and-services,3,Taxes on goods and services
-road-fund---urban-roads,3,Road fund - Urban roads
-caiip-iii-project,3,CAIIP III Project
-road-fund---district-feeder-roads,3,Road fund - District feeder roads
-road-fund---community-acess-roads,3,Road fund - Community Acess roads
-road-fund--tarmac-mitooma-tc,3,Road fund -Tarmac (Mitooma T/C)
-uneb--ple,3,UNEB- PLE
-road-fund--mechanical-imprest,3,Road fund- Mechanical imprest
-ubos---census,3,UBOS - Census 2014
-uwa-uganda-wild-life-authority,3,UWA (Uganda Wild life Authority)
-world-wide-fund-for-nature,3,World Wide Fund For Nature
-nusaf-ii-operational-fund,3,NUSAF II (Operational Fund)
-cater-centre,3,Cater Centre
-un-spent-balance,3,Un Spent balance
-bbw-control,3,BBW Control
-ministry-of-trade-tourism-and-industry,3,Ministry of Trade Tourism and Industry
-uganda-bureau-of-stataistics-ubos,3,Uganda Bureau of Stataistics (UBOS)
-pcy-ministry-of-gender,3,PCY (Ministry of Gender)
-construction-of-sec-schools-and-presidential-pledges,3,Construction of Sec Schools and Presidential Pledges
-haip,3,HAIP
-csf-hiv-project,3,CSF (HIV  Project)
-strengthening-decentralization-for-sustainability-sds,3,Strengthening Decentralization for Sustainability (SDS)
-ucda,3,UCDA
-unepidisease-survtb,3,UNEPI/Disease Surv/TB
-other-fees-and-charges--remitances-from-llgs,3,Other Fees and Charges (35% Remitances from LLGs)
-other-fees-and-charges-building-plan-fee,3,Other Fees and Charges (Building Plan fee)
-other-fees-and-charges-lst,3,Other Fees and Charges (LST)
-other-fees-and-charges-stores-supplies,3,Other Fees and Charges (Stores supplies)
-other-licences-forestry,3,Other licences (Forestry)
-other-grants,3,Other Grants
-caiip-operational-costs,3,CAIIP Operational costs
-pcy-program,3,PCY Program
-population-census-ubos,3,population census (UBOS)
-orphans-and-vulnerable-children,3,Orphans and vulnerable children
-mowe--support-to-rural-water-project,3,MOWE- support to rural water project
-moh-ntd-disease-survillance,3,MOH NTD Disease survillance
-moh--mass-polio,3,MOH- Mass polio
-luweero-rwenzori-development-prog,3,Luweero Rwenzori Development Prog
-road-maintenance-road-fund-to-llgs,3,Road Maintenance (Road Fund) to LLGs
-trace-mtti,3,Trace /MTTI
-maai-avian-influenza-project,3,MAAI /Avian Influenza Project
-forest-produce-revenues,3,Forest produce revenues
-other-revenues,3,Other Revenues
-youlth-livelihood-programmemglsd,3,Youlth Livelihood Programme(MGLSD)
-ubospopulation-and-housing-census,3,UBOS(Population and Housing Census)
-population-secretariatjpp,3,Population Secretariat(JPP)
-road-fund,3,ROAD FUND
-concern-worldwide,3,Concern Worldwide
-cuam,3,CUAM
-giz-climate-change-adaptation,3,GIZ Climate Change Adaptation
-sciu,3,SCIU
-sustain-project,3,SUSTAIN PROJECT
-undp,3,UNDP
-eukalip,3,EU(KALIP)
-kinyogoga-sc,3,Kinyogoga SC
-mechanical-imprest-semuto-tc,3,Mechanical Imprest-Semuto TC
-nakaseke-sc,3,Nakaseke SC
-nakaseke-tc,3,Nakaseke TC
-nakaseke-butalangu-tc,3,Nakaseke-Butalangu TC
-ngoma-sc,3,Ngoma SC
-kikamulo-sc,3,Kikamulo SC
-other-transfers-dlsp-unspent,3,Other Transfers-DLSP Unspent
-mechanical-imprest-nakaseke-tc,3,Mechanical Imprest-Nakaseke TC
-save-the-chidren,3,Save the Chidren
-semuto-sc,3,Semuto SC
-semuto-tc,3,Semuto TC
-sustainable-land-managementslm,3,Sustainable Land Management(SLM)
-ngoma-tc,3,Ngoma TC
-kiwoko-tc,3,Kiwoko TC
-fao,3,FAO
-green-charcoal-project-gcp,3,Green Charcoal Project-GCP
-kapeeka-sc,3,Kapeeka SC
-kasangombe-sc,3,Kasangombe SC
-kinoni-sc,3,Kinoni SC
-mechanical-imprest-ngoma-tc,3,Mechanical Imprest-Ngoma  TC
-kito-sc,3,Kito SC
-mechanical-imprest-nakaseke-butalangu-tc,3,Mechanical Imprest-Nakaseke-Butalangu  TC
-mechanical-imprest--dist-feeder-roads,3,Mechanical Imprest- Dist. Feeder Roads
-mechanical-imprest-kiwoko-tc,3,Mechanical Imprest-Kiwoko  TC
-district-feeder-raods,3,District Feeder Raods
-wakyato-sc,3,Wakyato SC
-fisheries-licemces,3,Fisheries Licemces
-caos-salary,3,CAOs salary
-bilharzia,3,Bilharzia
-recruitment-of-teachers,3,Recruitment of teachers
-top-up-of-doctors-salary,3,Top up of Doctor's salary
-slmgef,3,SLM/GEF
-roads,3,Roads
-lrdp-luwero-rwenzori-devt-prog,3,LRDP (Luwero-Rwenzori dev't prog
-emergency-road-maintanance,3,Emergency Road Maintanance
-global-climate-change,3,Global Climate Change
-sds-grant-b,3,SDS Grant B
-marketgate-rental-charges,3,Market/Gate rental Charges
-unspent-unconditiona-grant-planning,3,unspent unconditiona grant (Planning)
-support-to-women-igas,3,Support to women (IGAs)
-revoted-funds,3,Revoted funds
-unspent-sfg,3,Unspent SFG
-unspent-water,3,Unspent water
-unspent-balances-local-revenue,3,Unspent Balances Local revenue
-unspent-lgmsd,3,unspent LGMSD
-deos-facilitation,3,deos facilitation
-unicef-bdr,3,UNICEF-BDR
-unicef-emtctcida,3,UNICEF-EMTCT/CIDA
-unicef-health,3,UNICEF-health
-unicef-ovc,3,UNICEF-OVC
-unicef--education,3,UNICEF -Education
-salary-for-technical-institute-basoga-nsadhu-me,3,Salary for technical institute (Basoga Nsadhu Me)
-road-maintenance---urf,3,Road Maintenance - URF
-ple-supervision-and-invigilation,3,P.L.E Supervision and Invigilation
-women-grants-for-igas-ncw--cbsd,3,Women Grants for IGAs (NCW) -CBSD
-gender-based-violencegbv,3,Gender Based Violence(GBV)
-sds-dmc,3,SDS (DMC)
-sdscbs,3,SDS(CBS)
-sdshealth,3,SDS(Health)
-loss-on-wine-tc,3,LOSS ON WINE (TC)
-giz,3,GIZ
-national-waters,3,National Waters
-neglected-tropical-disease-fund,3,Neglected Tropical Disease Fund
-uganda-sanitation-fund,3,Uganda Sanitation Fund
-icb,3,ICB
-avian-flu,3,Avian Flu
-re-stocking-project,3,Re-Stocking Project
-deo-monitoring,3,DEO Monitoring
-use-head-count,3,USE Head Count
-moh-ntd,3,MoH (NTD)
-moes---validation,3,MoES - Validation
-uganda-road-fund---ducar,3,Uganda Road Fund - DUCAR
-ylp---mglsd,3,YLP - MGLSD
-moh-gavi,3,MoH (GAVI)
-baylor-u,3,Baylor (U)
-census-by-ubos,3,Census 2014 (by UBOS)
-avian-influenza-virus-funds,3,Avian Influenza Virus funds
-presedential-pledge-for-office-construction,3,Presedential Pledge (for Office Construction)
-global-funds---malaria,3,Global Funds - Malaria
-medical-supplies-nms,3,Medical Supplies (NMS)
-icb-mohbtc,3,ICB-MOH/BTC
-youth-livilihood-program,3,Youth Livilihood Program
-ntd-rti,3,NTD RTI
-barylor,3,BARYLOR
-uwa-support,3,UWA Support
-other-transfers-from-central-governmen-town-councilst,3,Other Transfers from Central Governmen-Town councilst
-uneb-funds-for-supervising-exams,3,UNEB funds for supervising exams
-district-road-maintanance-urf,3,District road maintanance-URF
-mt-elgon-labour-based-road-training-centre,3,Mt Elgon    labour based road training centre
-bbw-controll,3,BBW CONTROLL
-strenthening-decentralisationsds,3,strenthening decentralisation(SDS)
-ministry-of-education-and-sports,3,Ministry Of Education and Sports
-uganda-bureau-of-statistics--census,3,Uganda Bureau of Statistics- Census 2014
-donor-funding--nuhites,3,Donor Funding- NUHITES
-donor-funding---the-carter-centre,3,Donor Funding - The Carter Centre
-donor-funding--nudeil,3,Donor Funding- NUDEIL
-envision--usaid,3,ENVision- USAID
-unspent-balances--global-fund,3,Unspent balances- Global Fund
-unspent-balances--jica,3,Unspent balances- JICA
-unspent-balances--led,3,Unspent balances- LED
-unspent-balances--nudeil,3,Unspent balances- NUDEIL
-unspent-balances--unicef-funds,3,Unspent balances- Unicef funds
-donor-funding--jica,3,Donor Funding- JICA
-uganda-sanitation-fund-usf,3,Uganda Sanitation Fund (USF)
-prdp-re-stocking,3,PRDP2 (Re-stocking)
-ple-top-up,3,PLE Top UP
-moes-school-activities-monitoring,3,MoES (School Activities Monitoring)
-medical-supplies-by-nms,3,Medical Supplies by NMS
-income-generation-grantmoglsd,3,INCOME GENERATION GRANT(MoGLSD)
-war-child-holland,3,War Child Holland
-global-fund-malaria-grant,3,Global Fund (Malaria Grant)
-ministry-of-healthmass-polio-campaign,3,Ministry of Health(Mass Polio Campaign)
-nodding-syndrome-funds,3,NODDING SYNDROME FUNDS
-other-transfers-from-cg-naads-laid-off-staff,3,Other Transfers from CG (NAADS laid off staff)
-cdd-top-up-funds,3,CDD TOP UP FUNDS
-vodp,3,VODP2
-road-funds,3,Road funds
-other-transfers-from-central-governmentmglsd,3,Other Transfers from Central Government(MGLSD)
-nu-hites,3,NU HITES
+agri-skills-for-you-fundfs-from-zoaceford,3,Agri Skills For You Fundfs From Zoaceford
+ahip,3,Ahip
+aids-information-centre,3,Aids Information Centre
+allowances-to-medical-workers,3,Allowances To Medical Workers
+alref,3,Alref
+alrep,3,Alrep
+amref,3,Amref
+animal-and-crop-levieslive-stock-exit,3,Animal And Crop Levieslive Stock Exit
+animal-crop-husbandry-related-levies,3,Animal Crop Husbandry Related Levies
+apoc,3,Apoc
 apocc,3,Apocc
-danida-rrp-unspent-balance,3,Danida RRP (unspent balance)
-the-carter-centre,3,The Carter Centre
-concern,3,CONCERN
-jica-unspent,3,JICA ( Unspent)
-ungender-fund,3,UNGENDER fund
-ple,3,P.L.E
-min-of-genderwomen-groups-support,3,Min. of Gender(women groups support)
-youth-livelihood-programmeylp,3,Youth Livelihood Programme(YLP)
-polio-campaign,3,Polio campaign
-global-fundhivrti,3,Global fund/HIV/RTI
-envisionntd-health,3,Envision(NTD) Health
-sds-sunrise--ovc,3,SDS-SUNRISE- OVC
-aasps-danida-transport-fund,3,AASPS-DANIDA Transport fund
-vodp,3,VODP 2
-manifest-health,3,MANIFEST-Health
-ubos-census,3, UBOS CENSUS
-ylp-activities,3,YLP Activities
-mechnical-imprest,3,Mechnical imprest
-teachers-fundschool-joint-activity,3,Teachers fund/School joint Activity
-hivaids---uganda-aids-commission,3,HIV/AIDS - Uganda AIDS Commission
-iominternational-organisation-of-migration,3,IOM(International Organisation of Migration)
-lvemp-ii-project,3,LVEMP II Project
-makerere-universitymusph,3,Makerere University(MUSPH)
-moh-mass-immunisation-of-measles-polio,3,MOH ( Mass immunisation of measles & Polio)
-rhsp,3,RHSP
-landing-site-fees,3,Landing Site Fees
-agency-feeslevy-from-forestry,3,Agency Fees(Levy from Forestry)
-sale-of-scrap--govt-propertiesassets,3,Sale of scrap -govt Properties/assets
-roads-maintenance-urf,3,Roads maintenance-URF
-nhpc-census,3,NHPC (Census)
-molgsd-support-to-women-projects,3,MoLGSD-Support to Women projects
-onchocerciasis-carter-centre,3,Onchocerciasis-CARTER Centre
-donor-funding-unepisias,3,Donor Funding-UNEPI(SIAS)
-apoc,3,APOC
-uwa-share,3,UWA share
-unbs,3,UNBS
-pcy-conditional-grant-ministry-of-gender,3,PCY conditional Grant( Ministry of Gender)
-district-road-fund-grant,3,District Road fund  Grant
-moglsd-women-grant,3,MoGLSD women Grant
-sds-grant-c--admin,3,SDS Grant C- Admin
-sds-to-community,3,SDS to Community
-sds-ministry-of-health,3,"SDS, Ministry  Of Health"
-un-spent-balance--other-ucg-other-govt-transfer,3,Un spent Balance- OTHER UCG OTHER GOVT TRANSFER
-un-spent-balance--other-govt-transfer-llgs,3,Un spent Balance- OTHER GOVT TRANSFER( LLGs)
-road-maintanance-urf,3,ROAD MAINTANANCE (URF)
-phc-drugs-nms,3,PHC DRUGS NMS
-maaif-fao-slm,3,MAAIF FAO SLM
-naro-valley-tanks,3,NARO-Valley tanks
-mog-youth-training,3,MoG( Youth Training)
-maaif-disease-control,3,MAAIF-DISEASE CONTROL
-maaif--slm,3,MAAIF- SLM
-youth-livelihood-moglsd,3,Youth Livelihood (MOGLSD)
-other-transfers-from-central-governmente,3,Other Transfers from Central Governmente
-maaif-commercial-sector,3,MAAIF-COMMERCIAL SECTOR
-moes-school-census,3,MoES SCHOOL CENSUS
-maaif-plant-clinics,3,MAAIF-PLANT  CLINICS
-maaif-sembeguya,3,MAAIF-SEMBEGUYA
-min-of-health-gavi,3,Min Of Health( GAVI)
-moes---ple,3,MoES - PLE
-maaif-bbw-control,3,MAAIF-BBW control
-cnooc,3,CNOOC
-unspent-balances---donor-,3,Unspent balances - donor-
-avian-flu-surveillance,3,Avian flu surveillance
-other-transfers-from-central-government-start-up,3,Other Transfers from Central Government (Start Up)
-dicos-project,3,DICOS Project
-right-to-play,3,Right to play
-civic-soc-fund-ovc,3,Civic Soc Fund OVC
-taxes-on-goods-services-vat-on-markets-parks,3,Taxes on goods & services [VAT on markets & parks]
+application-fees,3,Application Fees
+application-fees-from-tenderers,3,Application Fees From Tenderers
+application-fees-loans,3,Application Fees Loans
+application-fees-non-refundable-fees,3,Application Fees Non Refundable Fees
+application-feestender-fees,3,Application Feestender Fees
+aqouaya,3,Aqouaya
+aquaya,3,Aquaya
 avain-influenza,3,Avain Influenza
-community-development-workers,3,Community Development workers
-expanded-program-on-immunisation-epi,3,Expanded Program on Immunisation [EPI]
-youth-livelihood-programme-ylp--mglsd,3,Youth Livelihood Programme (YLP)- MGLSD
-world-bank,3,WORLD BANK
-renovation-of-district-hospital,3,Renovation of District Hospital
-star-southwest,3,Star SouthWest
-sheema-development-fund-savings-for-admn-block,3,Sheema  Development Fund (Savings for Admn block)
-unebple,3,UNEB/PLE
-polio-sia-round-one,3,Polio SIA Round One
-roads-maintenance-road-fund,3,Roads Maintenance (Road Fund)
-national-population-housing-census,3,National Population & housing Census
-special-release-to-natural-resources,3,Special Release to Natural Resources
-vodp-phase,3,VODP  Phase 2
-caiip---road-supervision,3,CAIIP - ROAD SUPERVISION
-other-transfers-from-cg-pcy,3,other transfers from C.G PCY
-lgmsdsds-for-llgs,3,LGMSD/SDS FOR LLGS
-opm---restockig,3,OPM - RESTOCKIG
-mglsd-ylp,3,MGLSD YLP
-dicoss-ministry-of-trade-and-tourism,3,DICOSS-MINISTRY OF TRADE AND TOURISM
-health---ntd---hivaids,3,HEALTH - NTD - HIV/AIDS
-health---baylor---hivaids,3,HEALTH - BAYLOR - HIV/AIDS
-who-reproductive-health,3,WHO-REPRODUCTIVE HEALTH
-who-mass-immunisation,3,WHO Mass Immunisation
-rent-rates-from-other-govt-units,3,Rent & Rates from other govt units
+avian-and-human-influenza-preparedness-ahip,3,Avian And Human Influenza Preparedness Ahip
+avian-disease-surveillance,3,Avian Disease Surveillance
+avian-flu,3,Avian Flu
+avian-flue,3,Avian Flue
+avian-flu-surveillance,3,Avian Flu Surveillance
+avian-influenza,3,Avian Influenza
+avian-influenza-virus-funds,3,Avian Influenza Virus Funds
+aviation-human-and-influenza-project-ahip,3,Aviation Human And Influenza Project Ahip
+az-project,3,Az Project
+balyor-hivaids,3,Balyor Hivaids
+banana-bacterial-wilt,3,Banana Bacterial Wilt
+banana-bacterial-wilt-naro,3,Banana Bacterial Wilt Naro
+banana-disease-control-maiif,3,Banana Disease Control Maiif
+barylor,3,Barylor
+baylor,3,Baylor
+baylor-college,3,Baylor College
+baylor-college-of-medicine,3,Baylor College Of Medicine
+baylor-health,3,Baylor Health
+baylor-international-u,3,Baylor International U
+baylormakererembarara-joint-aids-prog,3,Baylormakererembarara Joint Aids Prog
+baylor-ovc,3,Baylor Ovc
+baylor-u,3,Baylor U
+baylor-uganda,3,Baylor Uganda
+bbw-control,3,Bbw Control
+bbw-controll,3,Bbw Controll
+belgium-technical-cooperation-btc,3,Belgium Technical Cooperation Btc
+belgium-uganda,3,Belgium Uganda
+beligium-techinical-cooperation,3,Beligium Techinical Cooperation
+bernard-van-leer-foundation,3,Bernard Van Leer Foundation
+bid-document-sales,3,Bid Document Sales
+bilharzia,3,Bilharzia
+bird-flu-surveillance,3,Bird Flu Surveillance
+birth-and-death-registration,3,Birth And Death Registration
+bududa--nabweya-gravity-flow-scheme,3,Bududa  Nabweya Gravity Flow Scheme
+busesa-technical-institute,3,Busesa Technical Institute
+business-licences,3,Business Licences
+busoga-forest-company,3,Busoga Forest Company
+bvlf,3,Bvlf
+caaip--under-roads-sector,3,Caaip  Under Roads Sector
+caiip,3,Caiip
+caiip-,3,Caiip 
+caiip--,3,Caiip  
+caiip-ii,3,Caiip Ii
+caiipiii,3,Caiipiii
+caiip-iii,3,Caiip Iii
+caiip-iii-project,3,Caiip Iii Project
+caiip-ministry-of-local-government,3,Caiip Ministry Of Local Government
+caiip-ministry-of-local-govt,3,Caiip Ministry Of Local Govt
+caiip-operational-costs,3,Caiip Operational Costs
+caiip-program,3,Caiip Program
+caiip---road-supervision,3,Caiip   Road Supervision
+caiip-to-works,3,Caiip To Works
+caip,3,Caip
+caos-salary,3,Caos Salary
+care-international---community,3,Care International   Community
+caritas-uganda,3,Caritas Uganda
+carter-centre,3,Carter Centre
+cater-centre,3,Cater Centre
+cattle-branding---opm,3,Cattle Branding   Opm
+cconditional-trasfer-from-the-ministry-of-local-government,3,Cconditional Trasfer From The Ministry Of Local Government
+cdc,3,Cdc
+cdd-top-up-funds,3,Cdd Top Up Funds
+cedovic,3,Cedovic
+cedovip,3,Cedovip
+ceford,3,Ceford
+census,3,Census
+census-,3,Census 
+census-by-ubos,3,Census By Ubos
+census-fund,3,Census Fund
+census-fund-from-ubos,3,Census Fund From Ubos
+census-funds,3,Census Funds
+census-ubos,3,Census Ubos
+census---ubos,3,Census   Ubos
+ces,3,Ces
+cessight-savers---education,3,Cessight Savers   Education
+ces-sight-savers---health,3,Ces Sight Savers   Health
+cess-on-produce,3,Cess On Produce
+chai,3,Chai
+child-fund,3,Child Fund
+cipesa,3,Cipesa
+cis,3,Cis
+civic-soc-fund-ovc,3,Civic Soc Fund Ovc
+clean-development-management,3,Clean Development Management
+climate-smart-agriculture,3,Climate Smart Agriculture
+cnooc,3,Cnooc
+codes-project-child-fund-uganda,3,Codes Project Child Fund Uganda
+community-access-road-fund,3,Community Access Road Fund
+community-access-roads,3,Community Access Roads
+community-access-roads-urf,3,Community Access Roads Urf
+community-acess-roadsurf,3,Community Acess Roadsurf
+community-agricultural-infrastructural-improvement-project-caiip,3,Community Agricultural Infrastructural Improvement Project Caiip
+community-contributionwater,3,Community Contributionwater
+community-development-workers,3,Community Development Workers
+community-donorssne,3,Community Donorssne
+community-information-system_unspent,3,Community Information System_Unspent
+community-road-access,3,Community Road Access
+community-serv-prog,3,Community Serv Prog
+communty-contribution--water,3,Communty Contribution  Water
+concern,3,Concern
+concern-worldwide,3,Concern Worldwide
+conditional-grant-for-naads,3,Conditional Grant For Naads
+conditional-grant-from-maaf-to-production-sector,3,Conditional Grant From Maaf To Production Sector
+conditional-grant-from-maaif,3,Conditional Grant From Maaif
+conditional-grant-to-agric-ext-salaries,3,Conditional Grant To Agric Ext Salaries
+conditional-grant-to-community-devt-assistants-non-wage,3,Conditional Grant To Community Devt Assistants Non Wage
+conditional-grant-to-district-community-roads,3,Conditional Grant To District Community Roads
+conditional-grant-to-district-hospitals,3,Conditional Grant To District Hospitals
+conditional-grant-to-district-natural-res---wetlands-non-wage,3,Conditional Grant To District Natural Res   Wetlands Non Wage
+conditional-grant-to-dsc-chairs’-salaries,3,Conditional Grant To Dsc Chairs’ Salaries
+conditional-grant-to-feeder-roads-maintenance-workshops-urf,3,Conditional Grant To Feeder Roads Maintenance Workshops Urf
+conditional-grant-to-functional-adult-lit,3,Conditional Grant To Functional Adult Lit
+conditional-grant-to-health-training-schools,3,Conditional Grant To Health Training Schools
+conditional-grant-to-ifms-running-costs,3,Conditional Grant To Ifms Running Costs
+conditional-grant-to-ipps-recurrent-costs,3,Conditional Grant To Ipps Recurrent Costs
+conditional-grant-to-ngo-hospitals,3,Conditional Grant To Ngo Hospitals
+conditional-grant-to-paf-monitoring,3,Conditional Grant To Paf Monitoring
+conditional-grant-to-phc---development,3,Conditional Grant To Phc   Development
+conditional-grant-to-phc--non-wage,3,Conditional Grant To Phc  Non Wage
+conditional-grant-to-phc-salaries,3,Conditional Grant To Phc Salaries
+conditional-grant-to-primary-education,3,Conditional Grant To Primary Education
+conditional-grant-to-primary-salaries,3,Conditional Grant To Primary Salaries
+conditional-grant-to-public-libraries,3,Conditional Grant To Public Libraries
+conditional-grant-to-secondary-education,3,Conditional Grant To Secondary Education
+conditional-grant-to-secondary-salaries,3,Conditional Grant To Secondary Salaries
+conditional-grant-to-sfg,3,Conditional Grant To Sfg
+conditional-grant-to-tertiary-salaries,3,Conditional Grant To Tertiary Salaries
+conditional-grant-to-urban-water,3,Conditional Grant To Urban Water
+conditional-grant-to-women-youth-and-disability-grant,3,Conditional Grant To Women Youth And Disability Grant
+conditional-transfer-for-rural-water,3,Conditional Transfer For Rural Water
+conditional-transfers-for-non-wage-community-polytechnics,3,Conditional Transfers For Non Wage Community Polytechnics
+conditional-transfers-for-non-wage-technical-farm-schools,3,Conditional Transfers For Non Wage Technical Farm Schools
+conditional-transfers-for-non-wage-technical-institutes,3,Conditional Transfers For Non Wage Technical Institutes
+conditional-transfers-for-primary-teachers-colleges,3,Conditional Transfers For Primary Teachers Colleges
+conditional-transfers-to-councillors-allowances-and-ex--gratia-for-llgs,3,Conditional Transfers To Councillors Allowances And Ex  Gratia For Llgs
+conditional-transfers-to-dsc-operational-costs,3,Conditional Transfers To Dsc Operational Costs
+conditional-transfers-to-production-and-marketing,3,Conditional Transfers To Production And Marketing
+conditional-transfers-to-school-inspection-grant,3,Conditional Transfers To School Inspection Grant
+conditional-transfers-to-special-grant-for-pwds,3,Conditional Transfers To Special Grant For Pwds
+conditional-transfer-to-road-maintenance-district,3,Conditional Transfer To Road Maintenance District
+conditional-transfer-to-road-maintenance-sc,3,Conditional Transfer To Road Maintenance Sc
+conditional-transfer-to-road-maintenance-urban,3,Conditional Transfer To Road Maintenance Urban
+construction-of-secondary-schools,3,Construction Of Secondary Schools
+construction-of-sec-schools-and-presidential-pledges,3,Construction Of Sec Schools And Presidential Pledges
+contract-fees,3,Contract Fees
+contribution-on-monitoringmeos,3,Contribution On Monitoringmeos
+contribution-to-district-administration-block-poject-by-molg,3,Contribution To District Administration Block Poject By Molg
+contribution-to-ple-uneb,3,Contribution To Ple Uneb
+court-filing-fees,3,Court Filing Fees
+crane-bank,3,Crane Bank
+credit-line-kambuga-hospital,3,Credit Line Kambuga Hospital
+credit-line-nda,3,Credit Line Nda
+crop-cess-fees,3,Crop Cess Fees
+csf-hiv-project,3,Csf Hiv Project
+cuam,3,Cuam
+danida-rrp-unspent-balance,3,Danida Rrp Unspent Balance
+danida-rti,3,Danida Rti
+dar-ii-programme-funds,3,Dar Ii Programme Funds
+death-and-birth-registation-unicef,3,Death And Birth Registation Unicef
+deo-monitoring,3,Deo Monitoring
+deo-operational-costs,3,Deo Operational Costs
+deos-facilitation,3,Deos Facilitation
+deos-facilitation-from-moes,3,Deos Facilitation From Moes
+deos-grant,3,Deos Grant
+deo-s-monitoring,3,Deo S Monitoring
+deos-operational-fund,3,Deos Operational Fund
+dept-revenue,3,Dept Revenue
+development-expenditure,3,Development Expenditure
+development-fees,3,Development Fees
+development-tax,3,Development Tax
+devt-transfers-to-kaliro-tc-form-molg,3,Devt Transfers To Kaliro Tc Form Molg
+dicos,3,Dicos
+dicos-project,3,Dicos Project
+dicoss,3,Dicoss
+dicoss-ministry-of-trade,3,Dicoss Ministry Of Trade
+dicoss-ministry-of-trade-and-tourism,3,Dicoss Ministry Of Trade And Tourism
+dicoss-project,3,Dicoss Project
+dicoss-world-bank,3,Dicoss World Bank
+disease-survillence-who--health,3,Disease Survillence Who  Health
+disposal-of-assets,3,Disposal Of Assets
+disposal-of-assets-for-llgs,3,Disposal Of Assets For Llgs
+district-and-urban-road-maintenance,3,District And Urban Road Maintenance
+district-commercial-service-support,3,District Commercial Service Support
+district-equalisation-grant,3,District Equalisation Grant
+district-feeder-raods,3,District Feeder Raods
+district-liveihood-support-programmedlsp,3,District Liveihood Support Programmedlsp
+district-livelihood-support-programme,3,District Livelihood Support Programme
+district-livilihood-support-programme,3,District Livilihood Support Programme
+district-road-fund-grant,3,District Road Fund Grant
+district-road-maintanance-urf,3,District Road Maintanance Urf
+district-roads-maintenance---uganda-road-fund,3,District Roads Maintenance   Uganda Road Fund
+district-roadsurf,3,District Roadsurf
+district-unconditional-grant---non-wage,3,District Unconditional Grant   Non Wage
+dlsp,3,Dlsp
+dlsp_unspent,3,Dlsp_Unspent
+donation-by-mrc-to-kyamulibwa-sc,3,Donation By Mrc To Kyamulibwa Sc
+donations-from-llgs-others,3,Donations From Llgs Others
+donor-funding,3,Donor Funding
+donor-funding---alrep,3,Donor Funding   Alrep
+donor-fundingavian-flu,3,Donor Fundingavian Flu
+donor-funding--cater-center,3,Donor Funding  Cater Center
+donor-funding-health,3,Donor Funding Health
+donor-funding-health-sector,3,Donor Funding Health Sector
+donor-funding--jica,3,Donor Funding  Jica
+donor-funding-ministry-of-gender,3,Donor Funding Ministry Of Gender
+donor-funding--nudeil,3,Donor Funding  Nudeil
+donor-funding--nuhites,3,Donor Funding  Nuhites
+donor-funding--nu-hites,3,Donor Funding  Nu Hites
+donor-funding---the-carter-centre,3,Donor Funding   The Carter Centre
+donor-funding-to-planning-unit,3,Donor Funding To Planning Unit
+donor-funding-unepisias,3,Donor Funding Unepisias
+donor-funding-unhcr,3,Donor Funding Unhcr
+donor-funding-unicef,3,Donor Funding Unicef
+donor-funding--unicef,3,Donor Funding  Unicef
+donor-funding---unicef,3,Donor Funding   Unicef
+donor-funding--unpent-balances,3,Donor Funding  Unpent Balances
+donor-funding---vng-international,3,Donor Funding   Vng International
+donor-funding--world-vision,3,Donor Funding  World Vision
+driving-permits,3,Driving Permits
+drpt,3,Drpt
+edf,3,Edf
+education,3,Education
+educationalinstruction-related-levies,3,Educationalinstruction Related Levies
+education-funds-for-dialogue,3,Education Funds For Dialogue
+eicos,3,Eicos
+emergency-road-fund,3,Emergency Road Fund
+emergency-road-maintanance,3,Emergency Road Maintanance
+emergency-road-rehabilitation-urf,3,Emergency Road Rehabilitation Urf
+envision,3,Envision
+envisionntd-health,3,Envisionntd Health
+envision--usaid,3,Envision  Usaid
+epi-polio,3,Epi Polio
+eradication-of-banana-bacterial-wilt---maif,3,Eradication Of Banana Bacterial Wilt   Maif
+eskom-royalties,3,Eskom Royalties
+eukalip,3,Eukalip
+expanded-program-on-immunisation-epi,3,Expanded Program On Immunisation Epi
+eye-care-sight-savers,3,Eye Care Sight Savers
+fao,3,Fao
+fao_bbw,3,Fao_Bbw
+faosupport-to-commercial-sector,3,Faosupport To Commercial Sector
+farm-income-and-forestry-conservation-project,3,Farm Income And Forestry Conservation Project
+farm-income-enhancement,3,Farm Income Enhancement
+feeder-road-funddistrict,3,Feeder Road Funddistrict
+fees-from-appeals,3,Fees From Appeals
+fees-from-forestry,3,Fees From Forestry
+fees-from-hospital-private-wings,3,Fees From Hospital Private Wings
+feifoc,3,Feifoc
+fgm-grant-from-mogl,3,Fgm Grant From Mogl
+fiefoc,3,Fiefoc
+fisheries-licemces,3,Fisheries Licemces
+fisheries-training,3,Fisheries Training
+fish-movement-permits,3,Fish Movement Permits
+fish-permits,3,Fish Permits
+forest-produce-revenues,3,Forest Produce Revenues
+forest-products,3,Forest Products
+forest-revenues,3,Forest Revenues
+forestry-charges,3,Forestry Charges
+forestry-dues,3,Forestry Dues
+forestry-forest-products,3,Forestry Forest Products
+forestry-products,3,Forestry Products
+forestry-products-levy,3,Forestry Products Levy
+forestry-revenue,3,Forestry Revenue
+forest-timber-permits,3,Forest Timber Permits
+form-x,3,Form X
+form-x-ple-registration-mock-for-private-schools,3,Form X Ple Registration Mock For Private Schools
+fund-for-polio-immunization,3,Fund For Polio Immunization
+funds-for-dhos-office-hsub-district,3,Funds For Dhos Office Hsub District
+funds-for-population-and-housing-census,3,Funds For Population And Housing Census
+funds-from-trade-ministry,3,Funds From Trade Ministry
+funds-to-carry-out-census,3,Funds To Carry Out Census
+gavi,3,Gavi
+gavi-fund,3,Gavi Fund
+gavi-fund-moh,3,Gavi Fund Moh
+gavi-funds,3,Gavi Funds
+gavi-immunization-moh,3,Gavi Immunization Moh
+gavi--moh,3,Gavi  Moh
+gbv,3,Gbv
+gccfao,3,Gccfao
+gender-based-violencegbv,3,Gender Based Violencegbv
+gender-based-violence-preventiongbv,3,Gender Based Violence Preventiongbv
+german-leprosy-services--health,3,German Leprosy Services  Health
+ggp-japanese,3,Ggp Japanese
+giz,3,Giz
+giz-climate-change-adaptation,3,Giz Climate Change Adaptation
+global-climate-change,3,Global Climate Change
+global-fund,3,Global Fund
+global-fund-for-hivaids,3,Global Fund For Hivaids
+global-fund-for-malariahiv,3,Global Fund For Malariahiv
+global-fund-gavi,3,Global Fund Gavi
+global-fundgavi-fund,3,Global Fundgavi Fund
+global-fundhivaids-malaria-tb,3,Global Fundhivaids Malaria Tb
+global-fund-hiv--health,3,Global Fund Hiv  Health
+global-fundhivrti,3,Global Fundhivrti
+global-fund-ii,3,Global Fund Ii
+global-fund-malaria-control,3,Global Fund Malaria Control
+global-fund-malaria-grant,3,Global Fund Malaria Grant
+global-fund-malaria---health,3,Global Fund Malaria   Health
+global-fund-malaria-hiv-and-tb,3,Global Fund Malaria Hiv And Tb
+global-fund-ministry-of-health,3,Global Fund Ministry Of Health
+global-fund-moh,3,Global Fund Moh
+global-fund-on-tb,3,Global Fund On Tb
+global-funds---malaria,3,Global Funds   Malaria
+global-fund-tb-health,3,Global Fund Tb Health
+globle-fund,3,Globle Fund
+grant-for-women-igas,3,Grant For Women Igas
+green-charcoal-project-gcp,3,Green Charcoal Project Gcp
+ground-rent,3,Ground Rent
+ground-rent-rate---non-produced-assests,3,Ground Rent Rate   Non Produced Assests
+group-registration,3,Group Registration
+haip,3,Haip
+hard-to-reach-allowances,3,Hard To Reach Allowances
+haulage-fees,3,Haulage Fees
+head-count-pri-schools,3,Head Count Pri Schools
+head-count-sec-schools,3,Head Count Sec Schools
+health---baylor---hivaids,3,Health   Baylor   Hivaids
+health---ntd-bilharzia,3,Health   Ntd Bilharzia
+health---ntd---hivaids,3,Health   Ntd   Hivaids
+health---prefa-pmtct,3,Health   Prefa Pmtct
+hiv,3,Hiv
+hiv-aidsglobal-fund,3,Hiv Aidsglobal Fund
+hivaids---uganda-aids-commission,3,Hivaids   Uganda Aids Commission
+hivchai,3,Hivchai
+hotel-tax,3,Hotel Tax
+hpv-campaign,3,Hpv Campaign
+hu-hietes,3,Hu Hietes
+icb,3,Icb
+icbbtc,3,Icbbtc
+icb--btc,3,Icb  Btc
+icb-mohbtc,3,Icb Mohbtc
+icbp,3,Icbp
+identity-cards,3,Identity Cards
+idi,3,Idi
+idi-funds,3,Idi Funds
+ids,3,Ids
+ifad,3,Ifad
+ifad---district-livelihood-support-programme,3,Ifad   District Livelihood Support Programme
+ifadi-dlsp,3,Ifadi Dlsp
+igad,3,Igad
+iga-fund-for-womenmglsd,3,Iga Fund For Womenmglsd
+igas-for-women-groups-by-nwc-secreteriate,3,Igas For Women Groups By Nwc Secreteriate
+ilo,3,Ilo
+immunasation,3,Immunasation
+immunisation-fund-from-moh,3,Immunisation Fund From Moh
+income-generation-grantmoglsd,3,Income Generation Grantmoglsd
+income-generation-granymoglsd,3,Income Generation Granymoglsd
+infectious-disease-institute-idi,3,Infectious Disease Institute Idi
+infectious-diseases-institute-idi,3,Infectious Diseases Institute Idi
+inspection-fees,3,Inspection Fees
+institutional-capacity-building-icb,3,Institutional Capacity Building Icb
+institutional-capacity-building-icb-project,3,Institutional Capacity Building Icb Project
+interest,3,Interest
+interest-from-private-entities,3,Interest From Private Entities
 interest-income,3,Interest Income
-feifoc,3,FEIFOC
-usaid,3,USAID
-who-mtrac,3,WHO (MTRAC)
-igad,3,IGAD
-ifad,3,IFAD
-forestry-charges,3,FORESTRY CHARGES
-other-transfers-from-central-governmentmock,3,Other Transfers from Central Government/Mock
-ministry-of-gender-women-councils,3,Ministry of Gender / Women Councils
-roads-maintenace--urf,3,Roads maintenace- URF
-national-population-housing-census-ubos,3,NATIONAL POPULATION & HOUSING CENSUS (UBOS)
-ple---private-schools,3,PLE - PRIVATE SCHOOLS
-youth-livehood-program-moglsd,3,YOUTH LIVEHOOD PROGRAM (MOGLSD)
-global-fund-gavi,3,Global Fund /GAVI
-acode,3,ACODE
-miscellaneousyumbe-tc,3,Miscellaneous(Yumbe TC)
-sanitation-and-hygiene-health,3,Sanitation and Hygiene (Health)
-restocking-grant,3,Restocking grant
-ple-facilitation-fund,3,PLE facilitation fund
-nusaf-district-operational-fund,3,NUSAF2 District operational fund
-baylormakererembarara-joint-aids-prog,3,Baylor/Makerere/Mbarara Joint AIDs Prog
-institutional-capacity-building-icb-project,3,Institutional Capacity Building (ICB) project
-reproductive-healthunfpa,3,Reproductive Health/UNFPA
-surveillance-projectwho,3,Surveillance project(WHO)
-unicef-and-other-partners,3,UNICEF and other partners
-prequalification-fees,3,Prequalification fees
-sale-of-bid-documents,3,Sale of bid documents
-ntdmoh,3,NTD/MoH
-restocking-operational-funds,3,Restocking Operational funds
-iga-fund-for-womenmglsd,3,IGA fund for Women(MGLSD)
-funds-for-population-and-housing-census,3,Funds for Population and Housing Census 2014
-medical-drugs-from-nms,3,Medical Drugs from NMS
-ceford,3,CEFORD
-agri-skills-for-you-fundfs-from-zoaceford,3,Agri Skills for  You  fundfs from ZOA/CEFORD
-lico,3,LICO
-wage,4,Wage
-non-wage,4,Non Wage
+iominternational-organisation-of-migration,3,Iominternational Organisation Of Migration
+irish-aid,3,Irish Aid
+irish-aid-gbv,3,Irish Aid Gbv
+irish-aid-gbv-cedovip,3,Irish Aid Gbv Cedovip
+irish-aid-grant,3,Irish Aid Grant
+irish-aid-support-to-gender-based-violence-project,3,Irish Aid Support To Gender Based Violence Project
+jica,3,Jica
+jica-acap,3,Jica Acap
+jica-acap-water-sector,3,Jica Acap Water Sector
+jica-unspent,3,Jica Unspent
+juvenile-justice,3,Juvenile Justice
+kakira-sugar-works,3,Kakira Sugar Works
+kalip,3,Kalip
+kalip---opm,3,Kalip   Opm
+kapeeka-sc,3,Kapeeka Sc
+kasangombe-sc,3,Kasangombe Sc
+kchsp,3,Kchsp
+kddp,3,Kddp
+kikamulo-sc,3,Kikamulo Sc
+kinoni-sc,3,Kinoni Sc
+kinyogoga-sc,3,Kinyogoga Sc
+kito-sc,3,Kito Sc
+kiwoko-tc,3,Kiwoko Tc
+lake-albert-safaries,3,Lake Albert Safaries
+land-fees,3,Land Fees
+land-fees-kiruruma-farm,3,Land Fees Kiruruma Farm
+land-feespremium,3,Land Feespremium
+land-fees--to-land-board,3,Land Fees  To Land Board
+land-government-owned-corporations,3,Land Government Owned Corporations
+landing-site-fees,3,Landing Site Fees
+lands-and-surveys,3,Lands And Surveys
+lavemp-ii-project,3,Lavemp Ii Project
+led,3,Led
+lgmsd-former-lgdp,3,Lgmsd Former Lgdp
+lgmsdg-unspent-balance,3,Lgmsdg Unspent Balance
+lgmsdsds-for-llgs,3,Lgmsdsds For Llgs
+licence-application,3,Licence Application
+lico,3,Lico
+liquor-licences,3,Liquor Licences
+liverpool-school-of-tropical-medicines,3,Liverpool School Of Tropical Medicines
+livestock-exit-fees,3,Livestock Exit Fees
+livestock-fees,3,Livestock Fees
+loan-application-fees,3,Loan Application Fees
+local-government-hotel-tax,3,Local Government Hotel Tax
+local-hotel-tax,3,Local Hotel Tax
+locally-raised-revenues,3,Locally Raised Revenues
+local-service-tax,3,Local Service Tax
+local-service-tax-lst,3,Local Service Tax Lst
+lock-up-fees,3,Lock Up Fees
+loss-on-wine-tc,3,Loss On Wine Tc
+lrdp,3,Lrdp
+lrdp-luwero-rwenzori-devt-plan,3,Lrdp Luwero Rwenzori Devt Plan
+lrdp-luwero-rwenzori-devt-prog,3,Lrdp Luwero Rwenzori Devt Prog
+luweero-rwenzori,3,Luweero Rwenzori
+luweero-rwenzori-development-prog,3,Luweero Rwenzori Development Prog
+luwero-rwenzori,3,Luwero Rwenzori
+luwero-rwenzori-development-fund,3,Luwero Rwenzori Development Fund
+luwero--rwenzori-development-grant,3,Luwero  Rwenzori Development Grant
+luwero-rwenzori-development-plan,3,Luwero Rwenzori Development Plan
+lvemp,3,Lvemp
+lvemp-ii,3,Lvemp Ii
+lvemp-ii-project,3,Lvemp Ii Project
+maai-avian-influenza-project,3,Maai Avian Influenza Project
+maaif,3,Maaif
+maaif_climate-smart-agriculture_csa,3,Maaif_Climate Smart Agriculture_Csa
+maaif---avian-human-influenza-surveillence,3,Maaif   Avian Human Influenza Surveillence
+maaif---banana-wilt,3,Maaif   Banana Wilt
+maaif-bbw-control,3,Maaif Bbw Control
+maaif-commercial-sector,3,Maaif Commercial Sector
+maaif-disease-control,3,Maaif Disease Control
+maaif-fao-slm,3,Maaif Fao Slm
+maaif-plant-clinics,3,Maaif Plant Clinics
+maaif-sembeguya,3,Maaif Sembeguya
+maaif--slm,3,Maaif  Slm
+maaif-vegetable-oil,3,Maaif Vegetable Oil
+maif,3,Maif
+maiif,3,Maiif
+maiif--maize-lethol-disease,3,Maiif  Maize Lethol Disease
+maintenance-roads---urf,3,Maintenance Roads   Urf
+makerere-universitymusph,3,Makerere Universitymusph
+malaria-consortium,3,Malaria Consortium
+malaria-cosotium,3,Malaria Cosotium
+manifest,3,Manifest
+manifest-health,3,Manifest Health
+maracha-asea,3,Maracha Asea
+market-charges,3,Market Charges
+market-fees,3,Market Fees
+marketgate-charges,3,Marketgate Charges
+market-gate-charges,3,Market Gate Charges
+marketgate-rental-charges,3,Marketgate Rental Charges
+marketparish-charges,3,Marketparish Charges
+mass-measles-compaign,3,Mass Measles Compaign
+mass-measles-immunisation,3,Mass Measles Immunisation
+mayank,3,Mayank
+mayuge-sugar-industries,3,Mayuge Sugar Industries
+mechanical-imprest,3,Mechanical Imprest
+mechanical-imprest--dist-feeder-roads,3,Mechanical Imprest  Dist Feeder Roads
+mechanical-imprest-kiwoko-tc,3,Mechanical Imprest Kiwoko Tc
+mechanical-imprest-nakaseke-butalangu-tc,3,Mechanical Imprest Nakaseke Butalangu Tc
+mechanical-imprest-nakaseke-tc,3,Mechanical Imprest Nakaseke Tc
+mechanical-imprest-ngoma-tc,3,Mechanical Imprest Ngoma Tc
+mechanical-imprest-semuto-tc,3,Mechanical Imprest Semuto Tc
+mechnical-imprest,3,Mechnical Imprest
+medical-drugs-from-nms,3,Medical Drugs From Nms
+medical-supplies,3,Medical Supplies
+medical-supplies-by-nms,3,Medical Supplies By Nms
+medical-supplies-from-nms,3,Medical Supplies From Nms
+medical-supplies-nms,3,Medical Supplies Nms
+merecp,3,Merecp
+mglsdunfpa-gbv-project,3,Mglsdunfpa Gbv Project
+mglsd-ylp,3,Mglsd Ylp
+mglsd-youth-entreprenuership,3,Mglsd Youth Entreprenuership
+mglsd-youth-livelihood-fund,3,Mglsd Youth Livelihood Fund
+migration-permits,3,Migration Permits
+mildmay,3,Mildmay
+mild-may,3,Mild May
+mildmay-ovc,3,Mildmay Ovc
+mildmay-ug,3,Mildmay Ug
+mildmay-uganda,3,Mildmay Uganda
+mildmay---uganda,3,Mildmay   Uganda
+ministry-of-agricultureanimal-industry-fisheries,3,Ministry Of Agricultureanimal Industry Fisheries
+ministry-of-education,3,Ministry Of Education
+ministry-of-education-and-sports,3,Ministry Of Education And Sports
+ministry-of-education---head-count,3,Ministry Of Education   Head Count
+ministry-of-education-sports,3,Ministry Of Education Sports
+ministry-of-energygiz-support,3,Ministry Of Energygiz Support
+ministry-of-gender---jpp-women-empowerment,3,Ministry Of Gender   Jpp Women Empowerment
+ministry-of-gender-labour-and-social-development,3,Ministry Of Gender Labour And Social Development
+ministry-of-genderlabour-and-social-devt,3,Ministry Of Genderlabour And Social Devt
+ministry-of-gender-women-councils,3,Ministry Of Gender Women Councils
+ministry-of-gender-youth-livelihood-project,3,Ministry Of Gender Youth Livelihood Project
+ministry-of-health,3,Ministry Of Health
+ministry-of-healthmass-polio-campaign,3,Ministry Of Healthmass Polio Campaign
+ministry-of-local-government-caiip-ii,3,Ministry Of Local Government Caiip Ii
+ministry-of-tourism-uwa-quepa,3,Ministry Of Tourism Uwa Quepa
+ministry-of-tourism-uwa-revenue-sharing,3,Ministry Of Tourism Uwa Revenue Sharing
+ministry-of-trade-tourism-and-industry,3,Ministry Of Trade Tourism And Industry
+ministry-of-water-environment-lvemp-ii,3,Ministry Of Water Environment Lvemp Ii
+mini-taso---kagadi-hosp,3,Mini Taso   Kagadi Hosp
+min-of-genderwomen-groups-support,3,Min Of Genderwomen Groups Support
+min-of-health-gavi,3,Min Of Health Gavi
+miscellaneous,3,Miscellaneous
+miscellaneous-and-identified-revenue,3,Miscellaneous And Identified Revenue
+miscellaneous-and-unidentified-revenue,3,Miscellaneous And Unidentified Revenue
+miscellaneous-receits-incomes,3,Miscellaneous Receits Incomes
+miscellaneous-revenue-water-sources-hall-hire,3,Miscellaneous Revenue Water Sources Hall Hire
+miscellaneousyumbe-tc,3,Miscellaneousyumbe Tc
+mjap,3,Mjap
+moe-ple,3,Moe Ple
+moep-uneb-examination,3,Moep Uneb Examination
+moes,3,Moes
+moesdeo-operational-cost-others,3,Moesdeo Operational Cost Others
+moes--monitoring-and-supervision,3,Moes  Monitoring And Supervision
+moesple,3,Moesple
+moes--ple,3,Moes  Ple
+moes---ple,3,Moes   Ple
+moes-school-activities-monitoring,3,Moes School Activities Monitoring
+moes-school-census,3,Moes School Census
+moes-uneb,3,Moes Uneb
+moes---uneb,3,Moes   Uneb
+moes-use-enrolment-verification,3,Moes Use Enrolment Verification
+moes-validation,3,Moes Validation
+moes---validation,3,Moes   Validation
+mofped,3,Mofped
+mogld-fgm-fund,3,Mogld Fgm Fund
+mogld-gender-equality-fund,3,Mogld Gender Equality Fund
+moglsd,3,Moglsd
+moglsd-women-grant,3,Moglsd Women Grant
+mog-youth-training,3,Mog Youth Training
+moh,3,Moh
+moh_bilharzia,3,Moh_Bilharzia
+moh--disease-surveillance,3,Moh  Disease Surveillance
+moh-for-imunisation,3,Moh For Imunisation
+moh-for-nodding,3,Moh For Nodding
+mohgavi,3,Mohgavi
+moh-gavi,3,Moh Gavi
+moh-gavi-fund,3,Moh Gavi Fund
+moh-mass-immunisation-of-measles-polio,3,Moh Mass Immunisation Of Measles Polio
+moh--mass-polio,3,Moh  Mass Polio
+moh---mtrack,3,Moh   Mtrack
+moh---nocp,3,Moh   Nocp
+moh---nodding-syndrome,3,Moh   Nodding Syndrome
+mohntd,3,Mohntd
+moh-ntd,3,Moh Ntd
+moh-ntd-disease-survillance,3,Moh Ntd Disease Survillance
+moh-ntd-mda-monitoring-meningitis,3,Moh Ntd Mda Monitoring Meningitis
+moh--polio-campaign,3,Moh  Polio Campaign
+moh---post-mda-monitoring-and-data-collection,3,Moh   Post Mda Monitoring And Data Collection
+moh-unepi,3,Moh Unepi
+moh-vht,3,Moh Vht
+mohwho,3,Mohwho
+mohwho-mass-immunization,3,Mohwho Mass Immunization
+molgsd-support-to-women-projects,3,Molgsd Support To Women Projects
+money-from-the-carter-centre-to-fight-orchociasis,3,Money From The Carter Centre To Fight Orchociasis
+monitoring-educ-enrolment,3,Monitoring Educ Enrolment
+mother-child-baylor,3,Mother Child Baylor
+mowe--support-to-rural-water-project,3,Mowe  Support To Rural Water Project
+mrc,3,Mrc
+mt-elgon-labour-based-road-training-centre,3,Mt Elgon Labour Based Road Training Centre
+mtrac,3,Mtrac
+m-trac-suppport-supervision,3,M Trac Suppport Supervision
+mtrac-who-moh,3,Mtrac Who Moh
+muwrp,3,Muwrp
+mwrp-ovc-activities,3,Mwrp Ovc Activities
+naads-districts---wage,3,Naads Districts   Wage
+naads-gratuity,3,Naads Gratuity
+naads-special-release,3,Naads Special Release
+nakaseke-butalangu-tc,3,Nakaseke Butalangu Tc
+nakaseke-sc,3,Nakaseke Sc
+nakaseke-tc,3,Nakaseke Tc
+nalpip,3,Nalpip
+naro-support-research,3,Naro Support Research
+naro-valley-tanks,3,Naro Valley Tanks
+national-census,3,National Census
+national-council-for-women,3,National Council For Women
+national-housing-and-population-census,3,National Housing And Population Census
+national-immunisation-campaign,3,National Immunisation Campaign
+national-medical-stores-nms,3,National Medical Stores Nms
+national-population-and-housing-census,3,National Population And Housing Census
+national-population-and-housing-census---ubos,3,National Population And Housing Census   Ubos
+national-population-housing-census,3,National Population Housing Census
+national-population-housing-census-ubos,3,National Population Housing Census Ubos
+national-road-fund,3,National Road Fund
+national-waters,3,National Waters
+national-women-council,3,National Women Council
+national-women-council-funds,3,National Women Council Funds
+national-women-council-grant,3,National Women Council Grant
+national-women-secretariat,3,National Women Secretariat
+neglected-tropical-disease-fund,3,Neglected Tropical Disease Fund
+neglected-tropical-diseases,3,Neglected Tropical Diseases
+neglected-tropical-diseasesntd,3,Neglected Tropical Diseasesntd
+neglected-tropical-diseases-ntd,3,Neglected Tropical Diseases Ntd
+nfa,3,Nfa
+ngoma-sc,3,Ngoma Sc
+ngoma-tc,3,Ngoma Tc
+nhpc-census,3,Nhpc Census
+nids,3,Nids
+niure,3,Niure
+nodding-syndrome-funds,3,Nodding Syndrome Funds
+non-refundable-fees,3,Non Refundable Fees
+northern-uganda-social-action-fund-ii,3,Northern Uganda Social Action Fund Ii
+northern-uganda-social-action-fund-ii-nusaf-ii,3,Northern Uganda Social Action Fund Ii Nusaf Ii
+northern-uganda-support,3,Northern Uganda Support
+notf,3,Notf
+ntd,3,Ntd
+ntd-control-program,3,Ntd Control Program
+ntd--health,3,Ntd  Health
+ntdmoh,3,Ntdmoh
+ntdneglected-tropical-diseases,3,Ntdneglected Tropical Diseases
+ntd-research-triangle,3,Ntd Research Triangle
+ntdrti,3,Ntdrti
+ntd-rti,3,Ntd Rti
+ntds,3,Ntds
+nudeil,3,Nudeil
+nudeil-unspent-balance,3,Nudeil Unspent Balance
+nuhealth,3,Nuhealth
+nu-health,3,Nu Health
+nuhites,3,Nuhites
+nu-hites,3,Nu Hites
+numat,3,Numat
+nusaf,3,Nusaf
+nusaf-district-operational-fund,3,Nusaf District Operational Fund
+nusaf-fund,3,Nusaf Fund
+nusafii,3,Nusafii
+nusaf-ii,3,Nusaf Ii
+nusaf-ii-operational-fund,3,Nusaf Ii Operational Fund
+nusaf-ii-unspent-balance,3,Nusaf Ii Unspent Balance
+nusaf-operations,3,Nusaf Operations
+nusaf-subprojects,3,Nusaf Subprojects
+occupational-permits,3,Occupational Permits
+office-of-the-prime-minister,3,Office Of The Prime Minister
+office-start-up-fund,3,Office Start Up Fund
+onchocerciasis-carter-centre,3,Onchocerciasis Carter Centre
+onchosciasis,3,Onchosciasis
+opm-animal-restocking-programme,3,Opm Animal Restocking Programme
+opmnusaf-ii,3,Opmnusaf Ii
+opm---restockig,3,Opm   Restockig
+opm-restocking,3,Opm Restocking
+opm-youth-training,3,Opm Youth Training
+orphans-and-vulnerable-children,3,Orphans And Vulnerable Children
+other-contractual-fees-and-charges,3,Other Contractual Fees And Charges
+other-court-fees,3,Other Court Fees
+other-donors-ie-who-etc,3,Other Donors Ie Who Etc
+other-fees-and-charges,3,Other Fees And Charges
+other-fees-and-charges-building-plan-fee,3,Other Fees And Charges Building Plan Fee
+other-fees-and-charges---development-tax,3,Other Fees And Charges   Development Tax
+other-fees-and-charges-eg-staff-recoveries,3,Other Fees And Charges Eg Staff Recoveries
+other-fees-and-charges-lst,3,Other Fees And Charges Lst
+other-fees-and-chargesmiscellaneous,3,Other Fees And Chargesmiscellaneous
+other-fees-and-charges--remitances-from-llgs,3,Other Fees And Charges  Remitances From Llgs
+other-fees-and-charges-remittances,3,Other Fees And Charges Remittances
+other-fees-and-charges-stores-supplies,3,Other Fees And Charges Stores Supplies
+other-fees-and-charges--tender,3,Other Fees And Charges  Tender
+other-fees-and-penalties,3,Other Fees And Penalties
+other-fees-loan-handling-fees,3,Other Fees Loan Handling Fees
+other-fines-and-penalties,3,Other Fines And Penalties
+other-govt-transfers-ubos,3,Other Govt Transfers Ubos
+other-grants,3,Other Grants
+other-health-interventions,3,Other Health Interventions
+other-licences,3,Other Licences
+other-licences-forestry,3,Other Licences Forestry
+other-licences---uwa,3,Other Licences   Uwa
+other---management-of-ple,3,Other   Management Of Ple
+other-revenues,3,Other Revenues
+other-revenues-moes,3,Other Revenues Moes
+others,3,Others
+others-mildmay-mjap-sustain-pace-etc,3,Others Mildmay Mjap Sustain Pace Etc
+other-transfers-census-ubos,3,Other Transfers Census Ubos
+other-transfers-dlsp-unspent,3,Other Transfers Dlsp Unspent
+other-transfers-from-administration,3,Other Transfers From Administration
+other-transfers-from-central-government,3,Other Transfers From Central Government
+other-transfers-from-central-governmentcensus,3,Other Transfers From Central Governmentcensus
+other-transfers-from-central-governmente,3,Other Transfers From Central Governmente
+other-transfers-from-central-governmentmanifest,3,Other Transfers From Central Governmentmanifest
+other-transfers-from-central-governmentmglsd,3,Other Transfers From Central Governmentmglsd
+other-transfers-from-central-governmentmock,3,Other Transfers From Central Governmentmock
+other-transfers-from-central-government-moes,3,Other Transfers From Central Government Moes
+other-transfers-from-central-government-moglsd,3,Other Transfers From Central Government Moglsd
+other-transfers-from-central-government---moglsd,3,Other Transfers From Central Government   Moglsd
+other-transfers-from-central-government-moh,3,Other Transfers From Central Government Moh
+other-transfers-from-central-governmentntd,3,Other Transfers From Central Governmentntd
+other-transfers-from-central-governmen-town-councilst,3,Other Transfers From Central Governmen Town Councilst
+other-transfers-from-central-government-ple-and-deo-operations,3,Other Transfers From Central Government Ple And Deo Operations
+other-transfers-from-central-government-restocking,3,Other Transfers From Central Government Restocking
+other-transfers-from-central-government-road,3,Other Transfers From Central Government Road
+other-transfers-from-central-government-sanitation,3,Other Transfers From Central Government Sanitation
+other-transfers-from-central-government-start-up,3,Other Transfers From Central Government Start Up
+other-transfers-from-central-governmentubos,3,Other Transfers From Central Governmentubos
+other-transfers-from-central-government-ubos,3,Other Transfers From Central Government Ubos
+other-transfers-from-central-government-unspent,3,Other Transfers From Central Government Unspent
+other-transfers-from-central-government--unspent-balances,3,Other Transfers From Central Government  Unspent Balances
+other-transfers-from-central-governmentwcs,3,Other Transfers From Central Governmentwcs
+other-transfers-from-central-governmentyouth-livelihood-program,3,Other Transfers From Central Governmentyouth Livelihood Program
+other-transfers-from-central-government-youth-livelihood-programme,3,Other Transfers From Central Government Youth Livelihood Programme
+other-transfers-from-cg-naads-laid-off-staff,3,Other Transfers From Cg Naads Laid Off Staff
+other-transfers-from-cg-pcy,3,Other Transfers From Cg Pcy
+other-transfers-from-uganda-road-fund,3,Other Transfers From Uganda Road Fund
+other-transfers-water-aid-wash,3,Other Transfers Water Aid Wash
+other--youth-livelihood-programme-ylp,3,Other  Youth Livelihood Programme Ylp
+ovc,3,Ovc
+ovc-grant,3,Ovc Grant
+pace,3,Pace
+pace-positive-living,3,Pace Positive Living
+pace--urcs,3,Pace  Urcs
+park-fees,3,Park Fees
+park-feesboda-boda,3,Park Feesboda Boda
+pcv,3,Pcv
+pcy,3,Pcy
+pcy-conditional-grant-ministry-of-gender,3,Pcy Conditional Grant Ministry Of Gender
+pcygtz,3,Pcygtz
+pcymglsd,3,Pcymglsd
+pcy-ministry-of-gender,3,Pcy Ministry Of Gender
+pcy-program,3,Pcy Program
+peace-foundation-korea,3,Peace Foundation Korea
+pearl,3,Pearl
+phc-credit-linenda-drugs,3,Phc Credit Linenda Drugs
+phc-drugs-nms,3,Phc Drugs Nms
+plan-approval,3,Plan Approval
+ple,3,Ple
+ple-examination-uneb,3,Ple Examination Uneb
+ple-exams---uneb,3,Ple Exams   Uneb
+ple-facilitation-fund,3,Ple Facilitation Fund
+ple-grant,3,Ple Grant
+ple-monitoring,3,Ple Monitoring
+ple---private-schools,3,Ple   Private Schools
+ple-supervision,3,Ple Supervision
+ple-supervision-and-invigilation,3,Ple Supervision And Invigilation
+ple-top-up,3,Ple Top Up
+polio,3,Polio
+polio-campaign,3,Polio Campaign
+polio-sia-round-one,3,Polio Sia Round One
+popsecunfpa---planning,3,Popsecunfpa   Planning
+population-and-housing-census,3,Population And Housing Census
+population-census-ubos,3,Population Census Ubos
+population-housing-census,3,Population Housing Census
+population-secretariate-unfpa,3,Population Secretariate Unfpa
+population-secretariatjpp,3,Population Secretariatjpp
+positive-living-pace,3,Positive Living Pace
+poulation-and-housing-census,3,Poulation And Housing Census
+ppp,3,Ppp
+prdp-re-stocking,3,Prdp Re Stocking
+prdp-unspent-balance,3,Prdp Unspent Balance
+prefa,3,Prefa
+prefaglobal-fundntdmildmay,3,Prefaglobal Fundntdmildmay
+prefar-pace-worldvision-mildmay,3,Prefar Pace Worldvision Mildmay
+prequalification-fees,3,Prequalification Fees
+presedential-pledge-for-office-construction,3,Presedential Pledge For Office Construction
+presidential-pledge,3,Presidential Pledge
+presidential-pledge-for-office-construction,3,Presidential Pledge For Office Construction
+presidential-pledge-towards-lg-hdqrts,3,Presidential Pledge Towards Lg Hdqrts
+pride-project,3,Pride Project
+primary-education-ple,3,Primary Education Ple
+primary-leaving-examinations,3,Primary Leaving Examinations
+private-contribution-towards-mock,3,Private Contribution Towards Mock
+private-registration,3,Private Registration
+private-schools,3,Private Schools
+produce-fees,3,Produce Fees
+produce-loading-levy,3,Produce Loading Levy
+property-related-dutiesfees,3,Property Related Dutiesfees
+property-related-dutiesfeesproperty-tax,3,Property Related Dutiesfeesproperty Tax
+public-health-licences,3,Public Health Licences
+public-library,3,Public Library
+quarry-charges,3,Quarry Charges
+rates---produced-assets---from-private-entities,3,Rates   Produced Assets   From Private Entities
+reco-support,3,Reco Support
+recovery-from-ura-,3,Recovery From Ura 
+recruitment-for-dsc,3,Recruitment For Dsc
+recruitment-of-teachers,3,Recruitment Of Teachers
+recurrent-expenditure,3,Recurrent Expenditure
+refuse-collection-chargespublic-convinience,3,Refuse Collection Chargespublic Convinience
+registration-eg-births-deaths-marriages-etc-fees,3,Registration Eg Births Deaths Marriages Etc Fees
+registration-marriage-nomination-fees,3,Registration Marriage Nomination Fees
+registration-of-businesses,3,Registration Of Businesses
+registrationof-bussiness-trading-lincence,3,Registrationof Bussiness Trading Lincence
+registration-of-ngoscbos,3,Registration Of Ngoscbos
+reimbursements-by-other-bodies,3,Reimbursements By Other Bodies
+renovation-of-district-hospital,3,Renovation Of District Hospital
+rentals,3,Rentals
+rent-kda-houses,3,Rent Kda Houses
+rent-rates-forestry,3,Rent Rates Forestry
+rent-rates-from-non-produced-assets,3,Rent Rates From Non Produced Assets
+rent-rates-from-other-govt-units,3,Rent Rates From Other Govt Units
+rent-rates-from-private-entities,3,Rent Rates From Private Entities
+rent-rates---non-produced,3,Rent Rates   Non Produced
+rent-rates---non-produced-assets,3,Rent Rates   Non Produced Assets
+rent-rates---nonproduced-assets---from-private-entities,3,Rent Rates   Nonproduced Assets   From Private Entities
+rent-rates-produced-assets-from-private-entities,3,Rent Rates Produced Assets From Private Entities
+reproductive-healthunfpa,3,Reproductive Healthunfpa
+research-triangle,3,Research Triangle
+research-triangle-ntd,3,Research Triangle Ntd
+researc-triangle,3,Researc Triangle
+restocking,3,Restocking
+restocking-grant,3,Restocking Grant
+restocking-operational-funds,3,Restocking Operational Funds
+restocking-opm,3,Restocking Opm
+re-stocking-opm,3,Re Stocking Opm
+restocking-programme,3,Restocking Programme
+re-stocking-project,3,Re Stocking Project
+revoted-funds,3,Revoted Funds
+rhsp,3,Rhsp
+right-to-play,3,Right To Play
+road-equipment-maintenece,3,Road Equipment Maintenece
+road-fund,3,Road Fund
+road-fund-access,3,Road Fund Access
+road-fund-acess-operational,3,Road Fund Acess Operational
+road-fund---community-acess-roads,3,Road Fund   Community Acess Roads
+road-fund-district,3,Road Fund District
+road-fund---district-feeder-roads,3,Road Fund   District Feeder Roads
+road-fund-gombe-town-council,3,Road Fund Gombe Town Council
+road-fund--mechanical-imprest,3,Road Fund  Mechanical Imprest
+road-funds,3,Road Funds
+road-fund--tarmac-mitooma-tc,3,Road Fund  Tarmac Mitooma Tc
+road-fund---urban-roads,3,Road Fund   Urban Roads
+road-maintainance,3,Road Maintainance
+road-maintainence,3,Road Maintainence
+road-maintanance-urf,3,Road Maintanance Urf
+road-maintenance-grant-road-fund,3,Road Maintenance Grant Road Fund
+road-maintenanceroad-fund,3,Road Maintenanceroad Fund
+road-maintenance-road-fund,3,Road Maintenance Road Fund
+road-maintenance-road-fund-to-llgs,3,Road Maintenance Road Fund To Llgs
+road-maintenance-uganda-road-fund,3,Road Maintenance Uganda Road Fund
+road-maintenance--uganda-road-fund,3,Road Maintenance  Uganda Road Fund
+road-maintenance---uganda-road-fund,3,Road Maintenance   Uganda Road Fund
+road-maintenance-urf,3,Road Maintenance Urf
+road-maintenance---urf,3,Road Maintenance   Urf
+road-rehabilitation-grant--district,3,Road Rehabilitation Grant  District
+roads,3,Roads
+roads-maintanance-uganda-road-fund,3,Roads Maintanance Uganda Road Fund
+roads-mainteanance--urf,3,Roads Mainteanance  Urf
+roads-maintenaceurf,3,Roads Maintenaceurf
+roads-maintenace--urf,3,Roads Maintenace  Urf
+roads-maintenance-road-fund,3,Roads Maintenance Road Fund
+roads-maintenance-uganda-road-fund,3,Roads Maintenance Uganda Road Fund
+roads-maintenance--uganda-road-fund,3,Roads Maintenance  Uganda Road Fund
+roads-maintenance---uganda-road-fund,3,Roads Maintenance   Uganda Road Fund
+roads-maintenance--uganda-road-fund---district,3,Roads Maintenance  Uganda Road Fund   District
+roads-maintenance---uganda-roads-fund-urf,3,Roads Maintenance   Uganda Roads Fund Urf
+roads-maintenance-urf,3,Roads Maintenance Urf
+roads-maintenance--urf,3,Roads Maintenance  Urf
+roads-maintenance--ur-f,3,Roads Maintenance  Ur F
+roads-maintenance---urf,3,Roads Maintenance   Urf
+roads-rehabilitation-grant,3,Roads Rehabilitation Grant
+rodas-maintenance--uganda-road-fund,3,Rodas Maintenance  Uganda Road Fund
+rotavirus-campaign,3,Rotavirus Campaign
+royalities,3,Royalities
+royalties,3,Royalties
+rti-unspent-balance,3,Rti Unspent Balance
+rural-initiative-for-community-empowerment--rice,3,Rural Initiative For Community Empowerment  Rice
+sage,3,Sage
+salary-for-technical-institute-basoga-nsadhu-me,3,Salary For Technical Institute Basoga Nsadhu Me
+sale-of-bid-documents,3,Sale Of Bid Documents
+sale-of-forest-produts,3,Sale Of Forest Produts
+sale-of-land,3,Sale Of Land
+sale-of-noneproduced-government-propertiesassets,3,Sale Of Noneproduced Government Propertiesassets
+sale-of-non-produced-government-propertiesassets,3,Sale Of Non Produced Government Propertiesassets
+sale-of-non---produced-government-propertiesassets,3,Sale Of Non   Produced Government Propertiesassets
+sale-of-plots-in-kmc-and-ditrict-house-in-makanga,3,Sale Of Plots In Kmc And Ditrict House In Makanga
+sale-of-produced-government-propertiesassets,3,Sale Of Produced Government Propertiesassets
+sale-of-revenue-collection-materials,3,Sale Of Revenue Collection Materials
+sale-of-scrap,3,Sale Of Scrap
+sale-of-scrap--govt-propertiesassets,3,Sale Of Scrap  Govt Propertiesassets
+sale-of-stationery-and-bids,3,Sale Of Stationery And Bids
+sales-non-produced-assets,3,Sales Non Produced Assets
+sales-of-publications,3,Sales Of Publications
+salvation-army,3,Salvation Army
+sand-and-stone,3,Sand And Stone
+sanitation-and-hygiene,3,Sanitation And Hygiene
+sanitation-and-hygiene-health,3,Sanitation And Hygiene Health
+sanitation-fund,3,Sanitation Fund
+save-the-chidren,3,Save The Chidren
+save-the-childrenhbb,3,Save The Childrenhbb
+school-data-collection,3,School Data Collection
+sciu,3,Sciu
+sds,3,Sds
+sds-administration,3,Sds Administration
+sdscbs,3,Sdscbs
+sds-community,3,Sds Community
+sds-dmc,3,Sds Dmc
+sds-dmip,3,Sds Dmip
+sds-education,3,Sds Education
+sds-grant-a,3,Sds Grant A
+sds-grant-b,3,Sds Grant B
+sds-grant-c,3,Sds Grant C
+sds-grant-c--admin,3,Sds Grant C  Admin
+sdshealth,3,Sdshealth
+sds--health,3,Sds  Health
+sds---health,3,Sds   Health
+sds-ministry-of-health,3,Sds Ministry Of Health
+sds-programme,3,Sds Programme
+sds-sunrise--ovc,3,Sds Sunrise  Ovc
+sds-to-community,3,Sds To Community
+sds-usaid,3,Sds Usaid
+sds--usaid,3,Sds  Usaid
+sds-usaid-ii,3,Sds Usaid Ii
+second-northern-uganda-social-action-fund-nusaf,3,Second Northern Uganda Social Action Fund Nusaf
+semuto-sc,3,Semuto Sc
+semuto-tc,3,Semuto Tc
+sheema-development-fund-savings-for-admn-block,3,Sheema Development Fund Savings For Admn Block
+sight-saver,3,Sight Saver
+sight-savers,3,Sight Savers
+sight-savers-international,3,Sight Savers International
+sight-savers-international-ssi,3,Sight Savers International Ssi
+slaughter-fees,3,Slaughter Fees
+slmgef,3,Slmgef
+smart-agriculture-programme,3,Smart Agriculture Programme
+snv--support,3,Snv  Support
+spear,3,Spear
+special-grant-for-women-councils,3,Special Grant For Women Councils
+special-grant-for-women-mglsd,3,Special Grant For Women Mglsd
+special-release-to-natural-resources,3,Special Release To Natural Resources
+star-ec-hivaids-health,3,Star Ec Hivaids Health
+star-southwest,3,Star Southwest
+stores-supplies,3,Stores Supplies
+strengthening-decentralisation-for-sustainability-sds,3,Strengthening Decentralisation For Sustainability Sds
+strengthening-decentralisation-for-sustainability-sds-grant-a,3,Strengthening Decentralisation For Sustainability Sds Grant A
+strengthening-decentralisation-for-sustainability-sds-grant-b,3,Strengthening Decentralisation For Sustainability Sds Grant B
+strengthening-decentralization-for-service-delivery-sds,3,Strengthening Decentralization For Service Delivery Sds
+strengthening-decentralization-for-sustainability-sds,3,Strengthening Decentralization For Sustainability Sds
+strenthening-decentralisationsds,3,Strenthening Decentralisationsds
+sub-county-road-fund,3,Sub County Road Fund
+sunrise,3,Sunrise
+sunrise-ovc-sds---community,3,Sunrise Ovc Sds   Community
+supervision-of-uneb-exams,3,Supervision Of Uneb Exams
+support-from-molg-to-buvuma-tc-office-block,3,Support From Molg To Buvuma Tc Office Block
+support-to-decentralisation-for-sustainability,3,Support To Decentralisation For Sustainability
+support-to-ple,3,Support To Ple
+support-to-women-council_nwc,3,Support To Women Council_Nwc
+support-to-women-councils,3,Support To Women Councils
+support-to-women-groups,3,Support To Women Groups
+support-to-women-igas,3,Support To Women Igas
+surcharge-and-fines,3,Surcharge And Fines
+surveillance-projectwho,3,Surveillance Projectwho
+sustain,3,Sustain
+sustainable-land-managementslm,3,Sustainable Land Managementslm
+sustainable-land-management-slm,3,Sustainable Land Management Slm
+sustain-project,3,Sustain Project
+taso,3,Taso
+taxes-on-goods-and-services,3,Taxes On Goods And Services
+taxes-on-goods-services-vat-on-markets-parks,3,Taxes On Goods Services Vat On Markets Parks
+taxi-parks-bodadboda-parks,3,Taxi Parks Bodadboda Parks
+tax-tribunal---court-charges-and-fees,3,Tax Tribunal   Court Charges And Fees
+tbleprosy,3,Tbleprosy
+teachers-fundschool-joint-activity,3,Teachers Fundschool Joint Activity
+tender-application-fees,3,Tender Application Fees
+tender-fees,3,Tender Fees
+tenders,3,Tenders
+tf-transfers-from-llgs,3,35% Transfers From LLGs
+the-carter-centre,3,The Carter Centre
+top-up-of-doctors-salary,3,Top Up Of Doctors Salary
+tpotso,3,Tpotso
+trace-mtti,3,Trace Mtti
+trading-licences,3,Trading Licences
+transfer-from-moes-for-recruitment-of-teachers,3,Transfer From Moes For Recruitment Of Teachers
+transfer-of-district-unconditional-grant---wage,3,Transfer Of District Unconditional Grant   Wage
+transfer-of-urban-unconditional-grant---wage,3,Transfer Of Urban Unconditional Grant   Wage
+transfers-from-other-govt-units-,3,Transfers From Other Govt Units 
+transfers-from-ubos,3,Transfers From Ubos
+transfers-from-uganda-road-fund,3,Transfers From Uganda Road Fund
+transfers-of-various-grants-to-llgsurban-and-subcounties,3,Transfers Of Various Grants To Llgsurban And Subcounties
+transfers-to-pece,3,Transfers To Pece
+transfers-to-trc,3,Transfers To Trc
+uac,3,Uac
+uacmoh,3,Uacmoh
+ubos,3,Ubos
+ubos_-census,3,Ubos_ Census
+uboscensus,3,Uboscensus
+ubos-census,3,Ubos Census
+ubos--census,3,Ubos  Census
+ubos---census,3,Ubos   Census
+ubos--census-fund,3,Ubos  Census Fund
+ubos-census-funds,3,Ubos Census Funds
+ubosmin-of-financeplanning-econdevt,3,Ubosmin Of Financeplanning Econdevt
+ubospopulation-and-housing-census,3,Ubospopulation And Housing Census
+ubos-population-census,3,Ubos Population Census
+ucda,3,Ucda
+uetcl-compensation,3,Uetcl Compensation
+uganda-aids-commission,3,Uganda Aids Commission
+uganda-bureau-of-stataistics-ubos,3,Uganda Bureau Of Stataistics Ubos
+uganda-bureau-of-statistics,3,Uganda Bureau Of Statistics
+uganda-bureau-of-statistics-census,3,Uganda Bureau Of Statistics Census
+uganda-bureau-of-statistics--census,3,Uganda Bureau Of Statistics  Census
+uganda-cares,3,Uganda Cares
+uganda-electricity-transmission,3,Uganda Electricity Transmission
+uganda-envision-control-prograame,3,Uganda Envision Control Prograame
+uganda-examinations-board-uneb,3,Uganda Examinations Board Uneb
+uganda-global-fund,3,Uganda Global Fund
+uganda-national-examinations-board,3,Uganda National Examinations Board
+uganda-national-examinations-board-uneb,3,Uganda National Examinations Board Uneb
+uganda-ntd-programme,3,Uganda Ntd Programme
+uganda-population-housing-census,3,Uganda Population Housing Census
+uganda-road-fund,3,Uganda Road Fund
+uganda-road-fund-community-roads,3,Uganda Road Fund Community Roads
+uganda-road-fund-district,3,Uganda Road Fund District
+uganda-road-fund-district-roads,3,Uganda Road Fund District Roads
+uganda-road-fund---district-roads,3,Uganda Road Fund   District Roads
+uganda-road-fund-ducar,3,Uganda Road Fund Ducar
+uganda-road-fund---ducar,3,Uganda Road Fund   Ducar
+uganda-road-fund---mechanised-imprest,3,Uganda Road Fund   Mechanised Imprest
+uganda-road-fund-mech-imprest,3,Uganda Road Fund Mech Imprest
+uganda-road-fundroad-maint,3,Uganda Road Fundroad Maint
+uganda-road-fund-road-maintainance,3,Uganda Road Fund Road Maintainance
+uganda-road-fund-road-maintenance,3,Uganda Road Fund Road Maintenance
+uganda-road-fund-urban-busolwe-tc,3,Uganda Road Fund Urban Busolwe Tc
+uganda-road-fund-urban-butaleja-tc,3,Uganda Road Fund Urban Butaleja Tc
+uganda-road-fund-urban-butaleja-tc-tarmacking,3,Uganda Road Fund Urban Butaleja Tc Tarmacking
+uganda-road-fund-urban-roads,3,Uganda Road Fund Urban Roads
+uganda-road-fund-urf,3,Uganda Road Fund Urf
+uganda-roads-fund,3,Uganda Roads Fund
+uganda-roads-funds---district,3,Uganda Roads Funds   District
+uganda-roads-funds---urban,3,Uganda Roads Funds   Urban
+uganda-sanitation-fund,3,Uganda Sanitation Fund
+uganda-sanitation-fund-usf,3,Uganda Sanitation Fund Usf
+uganda-sanitation-grant,3,Uganda Sanitation Grant
+uganda-wildlife-authority,3,Uganda Wildlife Authority
+uganda-wild-life-authority,3,Uganda Wild Life Authority
+uganda-wild-life-authority-gate-fee-sharing,3,Uganda Wild Life Authority Gate Fee Sharing
+uganda-womens-council,3,Uganda Womens Council
+ulgadfid,3,Ulgadfid
+umsd-project,3,Umsd Project
+unbs,3,Unbs
+uncief,3,Uncief
+undp,3,Undp
+uneb,3,Uneb
+uneb-contribution,3,Uneb Contribution
+uneb-contribution-to-ple,3,Uneb Contribution To Ple
+uneb-for-ple,3,Uneb For Ple
+uneb-funds-for-supervising-exams,3,Uneb Funds For Supervising Exams
+uneb-funds-to-monitor-upe-exams,3,Uneb Funds To Monitor Upe Exams
+uneb-p-exams,3,Uneb P Exams
+unebple,3,Unebple
+uneb-ple,3,Uneb Ple
+uneb--ple,3,Uneb  Ple
+uneb---ple,3,Uneb   Ple
+uneb-ple-contribution,3,Uneb Ple Contribution
+uneb-ple-expenses,3,Uneb Ple Expenses
+uneb-ple-supervision,3,Uneb Ple Supervision
+uneb-support-moes,3,Uneb Support Moes
+unepi,3,Unepi
+unepidisease-survtb,3,Unepidisease Survtb
+unepi-surviellance-immunisation,3,Unepi Surviellance Immunisation
+unepiunicefwho,3,Unepiunicefwho
+unfpa,3,Unfpa
+unfpa--community-services,3,Unfpa  Community Services
+unfpamglsd,3,Unfpamglsd
+unfpapopsec,3,Unfpapopsec
+unfpaunjp,3,Unfpaunjp
+ungender-fund,3,Ungender Fund
+unhcr,3,Unhcr
+unhcr-education,3,Unhcr Education
+unhcr-health,3,Unhcr Health
+unicef,3,Unicef
+unicef-and-other-partners,3,Unicef And Other Partners
+unicefbdr,3,Unicefbdr
+unicef-bdr,3,Unicef Bdr
+unicef-birth-registration,3,Unicef Birth Registration
+unicef-child-protection,3,Unicef Child Protection
+unicef-community-based-nutrition,3,Unicef Community Based Nutrition
+unicef-cp,3,Unicef Cp
+unicef--education,3,Unicef  Education
+unicef-education-barazas,3,Unicef Education Barazas
+unicef-education--capacity-building,3,Unicef Education  Capacity Building
+unicef-emtctcida,3,Unicef Emtctcida
+unicef-family-health-days,3,Unicef Family Health Days
+unicef-funding-to-community-services,3,Unicef Funding To Community Services
+unicefgavi,3,Unicefgavi
+unicef-health,3,Unicef Health
+unicef---health,3,Unicef   Health
+unicef-icc-health,3,Unicef Icc Health
+unicef-interest,3,Unicef Interest
+unicef-ovc,3,Unicef Ovc
+unicef-ovc-mapping,3,Unicef Ovc Mapping
+unicef---plannining-unit,3,Unicef   Plannining Unit
+unicef-uganda,3,Unicef Uganda
+unicef-vht-strategye,3,Unicef Vht Strategye
+united-nations-population-fundgou-joint-programme,3,United Nations Population Fundgou Joint Programme
+unjp,3,Unjp
+unjpp---popsec,3,Unjpp   Popsec
+unmcec-project,3,Unmcec Project
+un-spent-balance,3,Un Spent Balance
+unspent-balance-global-fund,3,Unspent Balance Global Fund
+unspent-balance-health,3,Unspent Balance Health
+unspent-balance-mildmay,3,Unspent Balance Mildmay
+unspent-balance---natural-resource,3,Unspent Balance   Natural Resource
+unspent-balance-nodding-syndrome,3,Unspent Balance Nodding Syndrome
+unspent-balance---ntd-health,3,Unspent Balance   Ntd Health
+unspent-balance-nuhites,3,Unspent Balance Nuhites
+un-spent-balance--other-govt-transfer-llgs,3,Un Spent Balance  Other Govt Transfer Llgs
+un-spent-balance--other-ucg-other-govt-transfer,3,Un Spent Balance  Other Ucg Other Govt Transfer
+unspent-balance--phc,3,Unspent Balance  Phc
+unspent-balance-prdp-market-construction,3,Unspent Balance Prdp Market Construction
+unspent-balances,3,Unspent Balances
+unspent-balances---caiip,3,Unspent Balances   Caiip
+unspent-balances-conditional-grants,3,Unspent Balances Conditional Grants
+unspent-balances---conditional-grants,3,Unspent Balances   Conditional Grants
+unspent-balances---donor,3,Unspent Balances   Donor
+unspent-balances---donor-,3,Unspent Balances   Donor 
+unspent-balances---donordanida,3,Unspent Balances   Donordanida
+unspent-balances-gavi,3,Unspent Balances Gavi
+unspent-balances--global-fund,3,Unspent Balances  Global Fund
+unspent-balances--jica,3,Unspent Balances  Jica
+unspent-balances--led,3,Unspent Balances  Led
+unspent-balances---locally-raised-revenues,3,Unspent Balances   Locally Raised Revenues
+unspent-balances-local-revenue,3,Unspent Balances Local Revenue
+unspent-balances--nudeil,3,Unspent Balances  Nudeil
+unspent-balances---other-government-transfers,3,Unspent Balances   Other Government Transfers
+unspent-balances-prefa,3,Unspent Balances Prefa
+unspent-balances---sds,3,Unspent Balances   Sds
+unspent-balances-ulgadfid,3,Unspent Balances Ulgadfid
+unspent-balances---unconditional-grants,3,Unspent Balances   Unconditional Grants
+unspent-balances--unicef-funds,3,Unspent Balances  Unicef Funds
+unspent-balances-unicef--health,3,Unspent Balances Unicef  Health
+unspent-balance---taso-health,3,Unspent Balance   Taso Health
+unspent-balance-unicef,3,Unspent Balance Unicef
+unspent-balance--unicef-donor-funding,3,Unspent Balance  Unicef Donor Funding
+unspent-balane-prdp,3,Unspent Balane Prdp
+unspent-conditional-grants-rural-water,3,Unspent Conditional Grants Rural Water
+unspent-conditional-grant-to-pmg,3,Unspent Conditional Grant To Pmg
+unspent-conditional-transfers-to-production-and-marketing,3,Unspent Conditional Transfers To Production And Marketing
+unspent-donor-fund,3,Unspent Donor Fund
+unspent-donor--nudeil,3,Unspent Donor  Nudeil
+unspent-donor-who--health,3,Unspent Donor Who  Health
+unspent-icb,3,Unspent Icb
+unspent-lgmsd,3,Unspent Lgmsd
+unspent-paf--water,3,Unspent Paf  Water
+unspent-prdp-fund-production,3,Unspent Prdp Fund Production
+unspent-prdp-roads,3,Unspent Prdp Roads
+unspent-sfg,3,Unspent Sfg
+unspent-unconditiona-grant-planning,3,Unspent Unconditiona Grant Planning
+unspent-unicef,3,Unspent Unicef
+unspent-water,3,Unspent Water
+unspent-ylp-funds-from-mglsd,3,Unspent Ylp Funds From Mglsd
+upe-support--caa,3,Upe Support  Caa
+urban-equalisation-grant,3,Urban Equalisation Grant
+urban-gt-compensation,3,Urban Gt Compensation
+urban-road-funds,3,Urban Road Funds
+urban-roads,3,Urban Roads
+urban-roads-operational,3,Urban Roads Operational
+urban-roadsurf,3,Urban Roadsurf
+urban-unconditional-grant---non-wage,3,Urban Unconditional Grant   Non Wage
+urban-urf-bukomero-tc,3,Urban Urf Bukomero Tc
+urban-urf-kiboga-tc,3,Urban Urf Kiboga Tc
+urf,3,Urf
+urf-community-access-roads,3,Urf Community Access Roads
+urf-mechanical-imprest---urban,3,Urf Mechanical Imprest   Urban
+urf-urban,3,Urf Urban
+urgencytender-fees,3,Urgencytender Fees
+usaid,3,Usaid
+usaidsds,3,Usaidsds
+usaid-sds-grant-ab,3,Usaid Sds Grant Ab
+usaidsds-hivaids,3,Usaidsds Hivaids
+use-head-count,3,Use Head Count
+uwa,3,Uwa
+uwa-share,3,Uwa Share
+uwa-support,3,Uwa Support
+uwa-uganda-wild-life-authority,3,Uwa Uganda Wild Life Authority
+validation-of-teachers,3,Validation Of Teachers
+vat,3,Vat
+vegetable-oil,3,Vegetable Oil
+vegetable-oil-developmet-project-ii,3,Vegetable Oil Developmet Project Ii
+vegetable-oil-dev-prog-vodp-ii,3,Vegetable Oil Dev Prog Vodp Ii
+vegetable-oil-devt-project,3,Vegetable Oil Devt Project
+vegetable-oil-devt-project-vodp,3,Vegetable Oil Devt Project Vodp
+vegetablepalm-oil-development-project,3,Vegetablepalm Oil Development Project
+vegitable-oil-project,3,Vegitable Oil Project
+vodp,3,Vodp
+vodp-ii,3,Vodp Ii
+vodp-phase,3,Vodp Phase
+voluntary-transfers,3,Voluntary Transfers
+vso,3,Vso
+wakyato-sc,3,Wakyato Sc
+waltereed,3,Waltereed
+war-child-holland,3,War Child Holland
+wash-plus,3,Wash Plus
+wateraid,3,Wateraid
+water-aid,3,Water Aid
+water-for-life,3,Water For Life
+who,3,Who
+whodisease-surveillance,3,Whodisease Surveillance
+who-disease-surveillance,3,Who Disease Surveillance
+who-epidemic,3,Who Epidemic
+who-geniva-sanitation-fund,3,Who Geniva Sanitation Fund
+whoglobal-fund,3,Whoglobal Fund
+who-mass-immunisation,3,Who Mass Immunisation
+who-mass-polio,3,Who Mass Polio
+who-moh,3,Who Moh
+who-mtrac,3,Who Mtrac
+who---mtrac,3,Who   Mtrac
+who-polio,3,Who Polio
+who-polio-immunization,3,Who Polio Immunization
+who-reproductive-health,3,Who Reproductive Health
+who-surveillance,3,Who Surveillance
+whounicef,3,Whounicef
+windfall-gains,3,Windfall Gains
+wind-fall-gains,3,Wind Fall Gains
+windfall-gains-community-contributions,3,Windfall Gains Community Contributions
+women-council-grant,3,Women Council Grant
+women-councils-iga,3,Women Councils Iga
+women-grants-for-igas-ncw--cbsd,3,Women Grants For Igas Ncw  Cbsd
+women-igs,3,Women Igs
+world-bank,3,World Bank
+world-health-organisation,3,World Health Organisation
+world-vision,3,World Vision
+world-vision-cbs,3,World Vision Cbs
+world-vision-to-education,3,World Vision To Education
+world-wide-fund-for-nature,3,World Wide Fund For Nature
+world-wide-fund-wwf,3,World Wide Fund Wwf
+wwf,3,Wwf
+ylp-activities,3,Ylp Activities
+ylp-funds-from-mglsd,3,Ylp Funds From Mglsd
+ylp-funds-from-mglsd-unspent,3,Ylp Funds From Mglsd Unspent
+ylp---mglsd,3,Ylp   Mglsd
+youlth-livelihood-programmemglsd,3,Youlth Livelihood Programmemglsd
+youth-and-gender,3,Youth And Gender
+youth-fund,3,Youth Fund
+youth-funds,3,Youth Funds
+youth-likelihood-programme,3,Youth Likelihood Programme
+youth-livehood-from-mogld,3,Youth Livehood From Mogld
+youth-livehood-program-moglsd,3,Youth Livehood Program Moglsd
+youth-liveihood-programme,3,Youth Liveihood Programme
+youth-livelihood,3,Youth Livelihood
+youth-livelihood-fund,3,Youth Livelihood Fund
+youth-livelihood-grant,3,Youth Livelihood Grant
+youth-livelihood-moglsd,3,Youth Livelihood Moglsd
+youth-livelihood-molgsd,3,Youth Livelihood Molgsd
+youth-livelihood-program,3,Youth Livelihood Program
+youth-livelihood-programm,3,Youth Livelihood Programm
+youth-livelihood-programme,3,Youth Livelihood Programme
+youth-livelihood-programme-operation-funds,3,Youth Livelihood Programme Operation Funds
+youth-livelihood-programmeylp,3,Youth Livelihood Programmeylp
+youth-livelihood-programme-ylp,3,Youth Livelihood Programme Ylp
+youth-livelihood-programme-ylp--mglsd,3,Youth Livelihood Programme Ylp  Mglsd
+youth-livelihood-programme-ylp-moglsd,3,Youth Livelihood Programme Ylp Moglsd
+youth-livelihood-project,3,Youth Livelihood Project
+youth-livelihood-projects,3,Youth Livelihood Projects
+youth-livelihood--ylp,3,Youth Livelihood  Ylp
+youth-lively-hood-programme-fund,3,Youth Lively Hood Programme Fund
+youth-livilihood-program,3,Youth Livilihood Program
+youth-livilihood-programme-ylp,3,Youth Livilihood Programme Ylp
+zero,4,Zero
 domestic-development,4,Domestic Development
 donor-development,4,Donor Development
+non-wage,4,Non Wage
+wage,4,Wage
