@@ -1,6 +1,6 @@
 id,level,name,color-id
-expenditure,1,Expenditure,
-revenue,1,Revenue,
+expenditure,1,Expenditure,lightblue-high
+revenue,1,Revenue,lightblue-high
 administration,2,Administration,
 community-based-services,2,Community Based Services,
 conditional-government-transfers,2,Conditional Government Transfers,orange-high
