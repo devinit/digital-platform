@@ -1,25 +1,25 @@
 id,level,name,color-id
 expenditure,1,Expenditure,lightblue-high
 revenue,1,Revenue,lightblue-high
-administration,2,Administration,
-community-based-services,2,Community Based Services,
+administration,2,Administration,darkpurple-high
+community-based-services,2,Community Based Services,orange-low
 conditional-government-transfers,2,Conditional Government Transfers,orange-high
 discretionary-government-transfers,2,Discretionary Government Transfers,orange-high
 donor-funding,2,Donor Funding,blue-high
-education,2,Education,
-finance,2,Finance,
-health,2,Health,
-internal-audit,2,Internal Audit,
+education,2,Education,purple-high
+finance,2,Finance,purple-mid
+health,2,Health,red-high
+internal-audit,2,Internal Audit,yellow-low
 local-development-grant,2,Local Development Grant,orange-high
 locally-raised-revenues,2,Locally Raised Revenues,red-high
-multi-sectoral-transfers-to-llgs,2,Multi Sectoral Transfers To Llgs,
-natural-resources,2,Natural Resources,
+multi-sectoral-transfers-to-llgs,2,Multi Sectoral Transfers To Llgs,lightblue-low
+natural-resources,2,Natural Resources,orange-mid
 other-government-transfers,2,Other Government Transfers,orange-high
-planning,2,Planning,
-production-and-marketing,2,Production and Marketing,
-roads-and-engineering,2,Roads and Engineering,
-statutory-bodies,2,Statutory Bodies,
-water,2,Water,
+planning,2,Planning,red-mid
+production-and-marketing,2,Production and Marketing,yellow-mid
+roads-and-engineering,2,Roads and Engineering,yellow-high
+statutory-bodies,2,Statutory Bodies,red-low
+water,2,Water,lightblue-mid
 aasps-danida-transport-fund,3,Aasps Danida Transport Fund,
 acav--support,3,Acav  Support,
 accord,3,Accord,
