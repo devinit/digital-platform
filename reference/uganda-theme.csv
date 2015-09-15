@@ -3,4 +3,5 @@ poverty,Poverty,uganda-poverty-headcount
 pop,Population,uganda-urban-pop
 education,Education,uganda-primary-educ-funding
 health,Health,uganda-overall-health
-wash,Water & Sanitation,uganda-rural-safe-water
+wash,Water and sanitation,uganda-rural-safe-water
+dist-resource,District public resources,uganda-local-percent
