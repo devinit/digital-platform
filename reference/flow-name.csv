@@ -14,8 +14,8 @@ oda-interest-payments-out,ODA,1,out,recipient,official,,2,Interest payments on O
 oofs-in,OOFs,2,in,recipient,official,1,,Other official flows,lightblue-high,,OECD DAC,gross disbursements
 oofs-capital-payments-out,OOFs,2,out,recipient,official,,1,Capital repayments on OOFs loans,lightblue-high,,OECD DAC,capital repayments
 oofs-interest-payments-out,OOFs,2,out,recipient,official,,2,Interest payments on OOFs loans,lightblue-high,,OECD DAC,interest payments
-ssc-in,Development cooperation,3,in,recipient,official,1,,Development cooperation,grey-mid,,Development Initiatives calculations; OECD DAC,inflows
-ssc-out,Development cooperation,3,out,recipient,official,,1,Development cooperation,grey-mid,Estimates of development cooperation,Development Initiatives calculations based on national sources,outflows
+ssc-in,Dev coop,3,in,recipient,official,1,,Development cooperation,grey-mid,,Development Initiatives calculations; OECD DAC,inflows
+ssc-out,Dev coop,3,out,recipient,official,,1,Development cooperation,grey-mid,Estimates of development cooperation,Development Initiatives calculations based on national sources,outflows
 long-debt-net-official-in,Long term debt,4,in,recipient,official,1,,Long-term debt (official sources),darklightblue-high,"Disbursments of long-term debt from official creditors, excluding disbursements reported as ODA or OOFs",World Bank International Debt Statistics,long-term debt disbursements (official)
 fdi-in,Inward FDI,5,in,recipient,commercial,1,,Foreign Direct Investment,orange-high,Net inflows of foreign direct investment (new investments minus disinvestment),UNCTAD,inward investment
 fdi-in-profits-out,Inward FDI,5,out,recipient,commercial,,2,Profits on FDI,orange-high,Outflows of profits on foreign direct investment,World Bank,outflow of profits on FDI
