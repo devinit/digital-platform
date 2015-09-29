@@ -5,8 +5,6 @@
 ""
 "Notes:"
 ""
-"This data contains information that may be a projection. Projected datapoints are indicated by a value of TRUE in the 'estimate' column. The year at which projections begin varies from country to country."
-""
 "On the 'Data-wide-value' sheet, we have provided the indicator in a wide format. The values you see listed there are from the 'value' column."
 ""
 ""
