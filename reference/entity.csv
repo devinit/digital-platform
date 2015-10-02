@@ -99,7 +99,7 @@ HN,country,Honduras,north-central-america,HN,HND,"GT,NI,SV",lmics,honduras,HN,re
 HR,country,Croatia,europe,HR,HRV,"HU,SI,BA,ME,RS",,croatia,HR,crossover,,Croatia
 HT,country,Haiti,north-central-america,HT,HTI,DO,ldcs,haiti,HT,recipient,1,Haiti
 HU,country,Hungary,europe,HU,HUN,"SK,SI,RO,UA,HR,AT,RS",,hungary,HU,donor,,Hungary
-ID,country,Indonesia,east-asia,ID,IDN,"PG,TL,MY",lmics,indonesia,ID,recipient,has-domestic,Indonesia
+ID,country,Indonesia,east-asia,ID,IDN,"PG,TL,MY",lmics,indonesia,ID,recipient,1,Indonesia
 IE,country,Ireland,europe,IE,IRL,GB,,ireland,IE,donor,,Ireland
 IL,country,Israel,middle-east,IL,ISR,"SY,JO,LB,EG,PS",,israel,IL,donor,,Israel
 IM,country,Isle of Man,europe,IM,IMN,,,isle-of-man,IM,,,Isle of Man
