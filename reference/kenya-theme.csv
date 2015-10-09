@@ -1,2 +1,3 @@
 id,name,default
-kenya-poverty,Poverty,kenya-poverty-headcount
+kenya-health,Health,kenya-pc-no-contra
+kenya-pop,Population,kenya-pop-pc-female
