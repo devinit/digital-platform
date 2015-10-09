@@ -1,7 +1,6 @@
 id,name,slug,alt-name,adm1-id,adm1-name,area
 d18943,Kiambu,kiambu,,1518,Central,0.2100209347
 d18944,Kirinyaga,kirinyaga,,1518,Central,0.1203510382
-d18945,Machakos,machakos,,1518,Central,0.006635245
 d18946,Murang'a,muranga,,1518,Central,0.206353614
 d18947,Nyandarua,nyandarua,,1518,Central,0.2649308741
 d18948,Nyeri,nyeri,,1518,Central,0.2727435091
@@ -46,3 +45,4 @@ d18987,Bungoma,bungoma,,1525,Western,0.2449468204
 d18988,Busia,busia,,1525,Western,0.1462176784
 d18989,Kakamega,kakamega,,1525,Western,0.2464573328
 d18990,Vihiga,vihiga,,1525,Western,0.0465047031
+d18991,Kajiado,kajiado,,1524,Rift Valley,0
