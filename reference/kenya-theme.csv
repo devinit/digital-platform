@@ -1,3 +1,5 @@
 id,name,default
 kenya-health,Health,kenya-pc-no-contra
 kenya-pop,Population,kenya-pop-pc-female
+kenya-infra,Infrastructure,kenya-electricity
+kenya-pov,Poverty,kenya-pov-gap
