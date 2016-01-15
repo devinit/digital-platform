@@ -13,9 +13,9 @@ AS,country,American Samoa,oceania,AS,ASM,,,american-samoa,AS,,,American Samoa
 AT,country,Austria,europe,AT,AUT,"CH,DE,HU,SK,CZ,IT,SI,LI",,austria,AT,donor,,Austria
 AU,country,Australia,oceania,AU,AUS,,,australia,AU,donor,,Australia
 AW,country,Aruba,north-central-america,AW,ABW,,,aruba,AW,,,Aruba
-AX,country,Åland Islands,oceania,AX,ALA,,,aland-islands,AX,,,Åland Islands
+AX,country,Åland Islands,oceania,AX,ALA,,,aland-islands,AX,,,Aland Islands
 AZ,country,Azerbaijan,south-central-asia,AZ,AZE,"GE,IR,AM,TR,RU",umics,azerbaijan,AZ,recipient,1,Azerbaijan
-BA,country,Bosnia and Herzegovina,europe,BA,BIH,"HR,ME,RS",umics,bosnia-and-herzegovina,BA,recipient,1,Bosnia and Herzegovina
+BA,country,Bosnia and Herzegovina,europe,BA,BIH,"HR,ME,RS",umics,bosnia-and-herzegovina,BA,recipient,1,Bosnia & Herzegovina
 BB,country,Barbados,north-central-america,BB,BRB,,,barbados,BB,recipient,,Barbados
 BD,country,Bangladesh,south-central-asia,BD,BGD,"MM,IN",ldcs,bangladesh,BD,recipient,1,Bangladesh
 BE,country,Belgium,europe,BE,BEL,"DE,NL,LU,FR",,belgium,BE,donor,,Belgium
@@ -24,7 +24,7 @@ BG,country,Bulgaria,europe,BG,BGR,"MK,GR,RO,TR,RS",,bulgaria,BG,donor,,Bulgaria
 BH,country,Bahrain,middle-east,BH,BHR,,,bahrain,BH,recipient,,Bahrain
 BI,country,Burundi,south-of-sahara,BI,BDI,"TZ,CD,RW",ldcs,burundi,BI,recipient,1,Burundi
 BJ,country,Benin,south-of-sahara,BJ,BEN,"NE,TG,BF,NG",ldcs,benin,BJ,recipient,1,Benin
-BL,country,Saint Barthélemy,north-central-america,BL,BLM,,,saint-barthelemy,BL,,,Saint Barthélemy
+BL,country,Saint Barthélemy,north-central-america,BL,BLM,,,saint-barthelemy,BL,,,Saint Barthelemy
 BM,country,Bermuda,north-central-america,BM,BMU,,,bermuda,BM,,,Bermuda
 BN,country,Brunei Darussalam,south-central-asia,BN,BRN,MY,,brunei,BN,,,Brunei
 BO,country,"Bolivia, Plurinational State of",south-america,BO,BOL,"PE,CL,PY,BR,AR",lmics,bolivia,BO,recipient,1,Bolivia 
@@ -42,7 +42,7 @@ CD,country,"Congo, the Democratic Republic of the",south-of-sahara,CD,COD,"TZ,CF
 CF,country,Central African Republic,south-of-sahara,CF,CAF,"TD,SD,CD,SS,CM,CG",ldcs,car,CF,recipient,1,CAR
 CG,country,Congo,south-of-sahara,CG,COG,"CF,GA,CD,CM,AO",lmics,congo,CG,recipient,1,Congo
 CH,country,Switzerland,europe,CH,CHE,"DE,IT,LI,FR,AT",,switzerland,CH,donor,,Switzerland
-CI,country,Côte d'Ivoire,south-of-sahara,CI,CIV,"LR,GH,GN,BF,ML",lmics,cote-divoire,CI,recipient,1,Côte d'Ivoire
+CI,country,Côte d'Ivoire,south-of-sahara,CI,CIV,"LR,GH,GN,BF,ML",lmics,cote-divoire,CI,recipient,1,Cote d'Ivoire
 CK,country,Cook Islands,oceania,CK,COK,,umics,cook-islands,CK,recipient,,Cook Islands
 CL,country,Chile,south-america,CL,CHL,"PE,BO,AR",umics,chile,CL,recipient,1,Chile
 CM,country,Cameroon,south-of-sahara,CM,CMR,"TD,CF,GA,GQ,CG,NG",lmics,cameroon,CM,recipient,1,Cameroon
@@ -51,7 +51,7 @@ CO,country,Colombia,south-america,CO,COL,"EC,PE,PA,BR,VE",umics,colombia,CO,reci
 CR,country,Costa Rica,north-central-america,CR,CRI,"PA,NI",umics,costa-rica,CR,recipient,1,Costa Rica
 CU,country,Cuba,north-central-america,CU,CUB,US,umics,cuba,CU,recipient,,Cuba
 CV,country,Cape Verde,south-of-sahara,CV,CPV,,lmics,cape-verde,CV,recipient,1,Cape Verde
-CW,country,Curaçao,north-central-america,CW,CUW,,,curacao,CW,,,Curaçao
+CW,country,Curaçao,north-central-america,CW,CUW,,,curacao,CW,,,Curacao
 CX,country,Christmas Island,oceania,CX,CXR,,,christmas-island,CX,,,Christmas Island
 CY,country,Cyprus,europe,CY,CYP,,,cyprus,CY,donor,,Cyprus
 CZ,country,Czech Republic,europe,CZ,CZE,"PL,DE,SK,AT",,czech-republic,CZ,donor,,Czech Republic
@@ -88,13 +88,13 @@ GN,country,Guinea,south-of-sahara,GN,GIN,"LR,SN,SL,CI,GW,ML",ldcs,guinea,GN,reci
 GP,country,Guadeloupe,north-central-america,GP,GLP,,,guadeloupe,GP,,,Guadeloupe
 GQ,country,Equatorial Guinea,south-of-sahara,GQ,GNQ,"GA,CM",ldcs,equatorial-guinea,GQ,recipient,1,Equatorial Guinea
 GR,country,Greece,europe,GR,GRC,"AL,MK,TR,BG",,greece,GR,donor,,Greece
-GS,country,South Georgia and the South Sandwich Islands,unspecified,GS,SGS,,,south-georgia-and-the-south-sandwich-islands,GS,,,South Georgia and the South Sandwich Islands
+GS,country,South Georgia and the South Sandwich Islands,unspecified,GS,SGS,,,south-georgia-and-the-south-sandwich-islands,GS,,,South Georgia & the South Sandwich Islands
 GT,country,Guatemala,north-central-america,GT,GTM,"MX,HN,BZ,SV",lmics,guatemala,GT,recipient,1,Guatemala
 GU,country,Guam,oceania,GU,GUM,,,guam,GU,,,Guam
 GW,country,Guinea-Bissau,south-of-sahara,GW,GNB,"SN,GN",ldcs,guinea-bissau,GW,recipient,1,Guinea-Bissau
 GY,country,Guyana,south-america,GY,GUY,"SR,BR,VE",lmics,guyana,GY,recipient,1,Guyana
 HK,country,Hong Kong,south-central-asia,HK,HKG,,,hong-kong,HK,,,Hong Kong
-HM,country,Heard Island and McDonald Islands,unspecified,HM,HMD,,,heard-island-and-mcdonald-islands,HM,,,Heard Island and McDonald Islands
+HM,country,Heard Island and McDonald Islands,unspecified,HM,HMD,,,heard-island-and-mcdonald-islands,HM,,,Heard Island & McDonald Islands
 HN,country,Honduras,north-central-america,HN,HND,"GT,NI,SV",lmics,honduras,HN,recipient,1,Honduras
 HR,country,Croatia,europe,HR,HRV,"HU,SI,BA,ME,RS",,croatia,HR,crossover,,Croatia
 HT,country,Haiti,north-central-america,HT,HTI,DO,ldcs,haiti,HT,recipient,1,Haiti
@@ -178,7 +178,7 @@ PG,country,Papua New Guinea,oceania,PG,PNG,ID,lmics,papua-new-guinea,PG,recipien
 PH,country,Philippines,east-asia,PH,PHL,,lmics,philippines,PH,recipient,1,Philippines
 PK,country,Pakistan,south-central-asia,PK,PAK,"CN,AF,IR,IN",lmics,pakistan,PK,recipient,1,Pakistan
 PL,country,Poland,europe,PL,POL,"DE,LT,SK,CZ,BY,UA,RU",,poland,PL,donor,,Poland
-PM,country,Saint Pierre and Miquelon,north-central-america,PM,SPM,,,saint-pierre-and-miquelon,PM,,,Saint Pierre and Miquelon
+PM,country,Saint Pierre and Miquelon,north-central-america,PM,SPM,,,saint-pierre-and-miquelon,PM,,,Saint Pierre & Miquelon
 PN,country,Pitcairn,oceania,PN,PCN,,,pitcairn,PN,,,Pitcairn
 PR,country,Puerto Rico,north-central-america,PR,PRI,,,puerto-rico,PR,,,Puerto Rico
 PS,country,"Palestine, State of",middle-east,PS,PSE,"JO,IL,EG",lmics,palestine,PS,recipient,,Palestine
@@ -186,7 +186,7 @@ PT,country,Portugal,europe,PT,PRT,ES,,portugal,PT,donor,,Portugal
 PW,country,Palau,oceania,PW,PLW,,umics,palau,PW,recipient,1,Palau
 PY,country,Paraguay,south-america,PY,PRY,"BO,BR,AR",lmics,paraguay,PY,recipient,1,Paraguay
 QA,country,Qatar,middle-east,QA,QAT,SA,,qatar,QA,donor,,Qatar
-RE,country,Réunion,south-of-sahara,RE,REU,,,r�union,RE,,,Réunion
+RE,country,Réunion,south-of-sahara,RE,REU,,,r�union,RE,,,Reunion
 RO,country,Romania,europe,RO,ROU,"MD,HU,UA,BG,RS",,romania,RO,donor,,Romania
 RS,country,Serbia,europe,RS,SRB,"AL,HU,MK,RO,HR,BA,BG,ME,XK",umics,serbia,RS,recipient,1,Serbia
 RU,country,Russian Federation,europe,RU,RUS,"GE,CN,BY,UA,KZ,LV,PL,EE,LT,FI,MN,NO,AZ,KP",,russian-federation,RU,donor,,Russian Federation
@@ -197,9 +197,9 @@ SC,country,Seychelles,south-of-sahara,SC,SYC,,umics,seychelles,SC,recipient,1,Se
 SD,country,Sudan,south-of-sahara,SD,SDN,"SS,TD,EG,ET,ER,LY,CF",ldcs,sudan,SD,recipient,1,Sudan
 SE,country,Sweden,europe,SE,SWE,"NO,FI",,sweden,SE,donor,,Sweden
 SG,country,Singapore,south-central-asia,SG,SGP,,,singapore,SG,,,Singapore
-SH,country,"Saint Helena, Ascension and Tristan da Cunha",south-of-sahara,SH,SHN,,umics,saint-helena-ascension-and-tristan-da-cunha,SH,recipient,,"Saint Helena, Ascension and Tristan da Cunha"
+SH,country,"Saint Helena, Ascension and Tristan da Cunha",south-of-sahara,SH,SHN,,umics,saint-helena-ascension-and-tristan-da-cunha,SH,recipient,,"Saint Helena, Ascension & Tristan da Cunha"
 SI,country,Slovenia,europe,SI,SVN,"HU,IT,HR,AT",,slovenia,SI,crossover,,Slovenia
-SJ,country,Svalbard and Jan Mayen,europe,SJ,SJM,,,svalbard-and-jan-mayen,SJ,,,Svalbard and Jan Mayen
+SJ,country,Svalbard and Jan Mayen,europe,SJ,SJM,,,svalbard-and-jan-mayen,SJ,,,Svalbard & Jan Mayen
 SK,country,Slovakia,europe,SK,SVK,"PL,HU,CZ,UA,AT",,slovakia,SK,donor,,Slovakia
 SL,country,Sierra Leone,south-of-sahara,SL,SLE,"LR,GN",ldcs,sierra-leone,SL,recipient,1,Sierra Leone
 SM,country,San Marino,europe,SM,SMR,IT,,san-marino,SM,,,San Marino
@@ -207,12 +207,12 @@ SN,country,Senegal,south-of-sahara,SN,SEN,"GN,MR,GW,GM,ML",ldcs,senegal,SN,recip
 SO,country,Somalia,south-of-sahara,SO,SOM,"ET,KE,DJ",ldcs,somalia,SO,recipient,,Somalia
 SR,country,Suriname,south-america,SR,SUR,"GY,BR,GF",umics,suriname,SR,recipient,1,Suriname
 SS,country,South Sudan,south-of-sahara,SS,SSD,"CD,CF,ET,KE,SD,UG,",ldcs,south-sudan,SS,recipient,1,South Sudan
-ST,country,Sao Tome and Principe,south-of-sahara,ST,STP,,ldcs,sao-tome-and-principe,ST,recipient,1,Sao Tome and Principe
+ST,country,Sao Tome and Principe,south-of-sahara,ST,STP,,ldcs,sao-tome-and-principe,ST,recipient,1,Sao Tome & Principe
 SV,country,El Salvador,north-central-america,SV,SLV,"GT,HN",lmics,el-salvador,SV,recipient,1,El Salvador
 SX,country,Sint Maarten (Dutch part),north-central-america,SX,SXM,MF,,sint-maarten-dutch-part,SX,,,Sint Maarten (Dutch part)
 SY,country,Syrian Arab Republic,middle-east,SY,SYR,"IQ,JO,IL,TR,LB",lmics,syria,SY,recipient,1,Syria
 SZ,country,Swaziland,south-of-sahara,SZ,SWZ,"ZA,MZ",lmics,swaziland,SZ,recipient,1,Swaziland
-TC,country,Turks and Caicos Islands,north-central-america,TC,TCA,,,turks-and-caicos-islands,TC,recipient,,Turks and Caicos Islands
+TC,country,Turks and Caicos Islands,north-central-america,TC,TCA,,,turks-and-caicos-islands,TC,recipient,,Turks & Caicos Islands
 TD,country,Chad,south-of-sahara,TD,TCD,"NE,LY,CF,SD,CM,NG",ldcs,chad,TD,recipient,1,Chad
 TF,country,French Southern Territories,unspecified,TF,ATF,,,french-southern-territories,TF,,,French Southern Territories
 TG,country,Togo,south-of-sahara,TG,TGO,"BJ,GH,BF",ldcs,togo,TG,recipient,1,Togo
@@ -224,7 +224,7 @@ TM,country,Turkmenistan,south-central-asia,TM,TKM,"AF,IR,UZ,KZ",lmics,turkmenist
 TN,country,Tunisia,north-of-sahara,TN,TUN,"DZ,LY",umics,tunisia,TN,recipient,1,Tunisia
 TO,country,Tonga,oceania,TO,TON,,lmics,tonga,TO,recipient,1,Tonga
 TR,country,Turkey,europe,TR,TUR,"SY,GE,IQ,IR,GR,AM,AZ,BG",umics,turkey,TR,crossover,1,Turkey
-TT,country,Trinidad and Tobago,europe,TT,TTO,,,trinidad-and-tobago,TT,recipient,,Trinidad and Tobago
+TT,country,Trinidad and Tobago,europe,TT,TTO,,,trinidad-and-tobago,TT,recipient,,Trinidad & Tobago
 TV,country,Tuvalu,oceania,TV,TUV,,ldcs,tuvalu,TV,recipient,1,Tuvalu
 TW,country,"Taiwan, Province of China",east-asia,TW,TWN,,,taiwan,TW,donor,,Taiwan
 TZ,country,"Tanzania, United Republic of",south-of-sahara,TZ,TZA,"MZ,KE,CD,RW,ZM,BI,UG,MW",ldcs,tanzania,TZ,recipient,1,Tanzania
@@ -235,13 +235,13 @@ US,country,United States,north-central-america,US,USA,"CA,MX,CU",,usa,US,donor,,
 UY,country,Uruguay,south-america,UY,URY,"BR,AR",umics,uruguay,UY,recipient,1,Uruguay
 UZ,country,Uzbekistan,south-central-asia,UZ,UZB,"TM,AF,KG,TJ,KZ",lmics,uzbekistan,UZ,recipient,1,Uzbekistan
 VA,country,Holy See (Vatican City State),europe,VA,VAT,IT,,holy-see-vatican-city-state,VA,,,Holy See (Vatican City State)
-VC,country,Saint Vincent and the Grenadines,north-central-america,VC,VCT,,umics,saint-vincent-and-the-grenadines,VC,recipient,1,Saint Vincent and the Grenadines
+VC,country,Saint Vincent and the Grenadines,north-central-america,VC,VCT,,umics,saint-vincent-and-the-grenadines,VC,recipient,1,Saint Vincent & the Grenadines
 VE,country,"Venezuela, Bolivarian Republic of",south-america,VE,VEN,"GY,BR,CO",umics,venezuela,VE,recipient,,Venezuela
 VG,country,"Virgin Islands, British",north-central-america,VG,VGB,,,virgin-islands-gb,VG,,,Virgin Islands (GB)
 VI,country,"Virgin Islands, U.S.",north-central-america,VI,VIR,,,virgin-islands-us,VI,,,Virgin Islands (US)
 VN,country,Viet Nam,east-asia,VN,VNM,"CN,LA,KH",lmics,viet-nam,VN,recipient,1,Viet Nam
 VU,country,Vanuatu,oceania,VU,VUT,,ldcs,vanuatu,VU,recipient,1,Vanuatu
-WF,country,Wallis and Futuna,oceania,WF,WLF,,umics,wallis-and-futuna,WF,recipient,,Wallis and Futuna
+WF,country,Wallis and Futuna,oceania,WF,WLF,,umics,wallis-and-futuna,WF,recipient,,Wallis & Futuna
 WS,country,Samoa,oceania,WS,WSM,,ldcs,samoa,WS,recipient,1,Samoa
 XK,country,Kosovo,europe,XK,XKS,,lmics,kosovo,XK,recipient,1,Kosovo
 YE,country,Yemen,middle-east,YE,YEM,"SA,OM",ldcs,yemen,YE,recipient,1,Yemen
@@ -271,7 +271,7 @@ idb-specialfund,organisation,IDB Sp.Fund,,,,,,idb-sp-fund,17,multilateral,,IDB S
 ifad,organisation,IFAD,,,,,,ifad,18,multilateral,,IFAD
 ifc,organisation,IFC,,,,,,ifc,19,multilateral,,IFC
 imf,organisation,IMF,,,,,,imf,20,multilateral,,IMF
-imf-concessional-trust-fund,organisation,IMF (Concessional Trust Funds),,,,,,imf-concessional-trust-funds,21,multilateral,,IMF (Concessional Trust Funds)
+imf-concessional-trust-fund,organisation,IMF (Concessional Trust Funds),,,,,,imf-concessional-trust-funds,21,multilateral,,IMF (CTF)
 islamic-dev-bank,organisation,Isl.Dev Bank,,,,,,islamic-dev-bank,22,multilateral,,Islamic Dev Bank
 montreal-protocol,organisation,Montreal Protocol,,,,,,montreal-protocol,23,multilateral,,Montreal Protocol
 nordic-dev-fund,organisation,Nordic Dev.Fund,,,,,,nordic-dev-fund,24,multilateral,,Nordic Dev.Fund
