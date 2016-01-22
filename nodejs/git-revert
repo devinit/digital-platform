@@ -1,0 +1,16 @@
+cd `dirname $0`
+
+echo "REVERTING CSV FILES"
+echo "this will undo changes made by warehouse import"
+
+git checkout --theirs ../country-year
+git checkout --theirs ../di-only
+git checkout --theirs ../latest-year
+git checkout --theirs ../reference
+git checkout --theirs ../shape-files
+git checkout --theirs ../user-data
+
+
+
+
+
