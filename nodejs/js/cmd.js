@@ -9,16 +9,24 @@ var ls=function(a) { console.log(util.inspect(a,{depth:null})); }
 
 
 // set defaults if unset
+// settings come from commandline then environemnt then defaults
+// environment variables have a warehouse_ prefix
 
 cmd.defaults=function(argv)
 {
 	console.log("")
 
-	argv.database=argv.database||"postgres://test:test123@213.168.251.124/ddw";
-	console.log("--database="+argv.database)
+// how/where to connect to postgres
+	argv.database	=	argv.database||
+						process.env.warehouse_database||
+						"postgres://test:test123@213.168.251.124/ddw";
+	console.log("--database="+argv.database);
 
-	argv.csvdir=argv.cache||"../";
-	console.log("--csvdir="+argv.csvdir)
+// where to store the csv output files
+	argv.csvdir		=	argv.cache||
+						process.env.warehouse_csvdir||
+						"../";
+	console.log("--csvdir="+argv.csvdir);
 
 	console.log("")
 
