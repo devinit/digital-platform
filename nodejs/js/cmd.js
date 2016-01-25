@@ -17,9 +17,15 @@ cmd.defaults=function(argv)
 	console.log("")
 
 // how/where to connect to postgres
+	argv.verbose	=	argv.verbose||
+						process.env.warehouse_verbose||
+						0;
+	console.log("--verbose="+argv.verbose);
+
+// how/where to connect to postgres
 	argv.database	=	argv.database||
 						process.env.warehouse_database||
-						"postgres://test:test123@213.168.251.124/ddw";
+						"postgres://readonly:test123@213.168.251.124:5433/ddw";
 	console.log("--database="+argv.database);
 
 // where to store the csv output files
@@ -40,8 +46,12 @@ cmd.run=function(argv)
 {
 	if( argv._[0]=="import" )
 	{
-		require("./import").import_all();
-		return;		
+		return require("./import").import_all();
+	}
+	else
+	if( argv._[0]=="test" )
+	{
+		return require("./db").test();
 	}
 
 	// help text
