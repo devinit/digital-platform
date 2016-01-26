@@ -5,6 +5,7 @@ var fs = require('fs');
 var util=require('util');
 var path=require('path');
 
+var print=console.log;
 var ls=function(a) { console.log(util.inspect(a,{depth:null})); }
 
 
@@ -14,27 +15,29 @@ var ls=function(a) { console.log(util.inspect(a,{depth:null})); }
 
 cmd.defaults=function(argv)
 {
-	console.log("")
 
-// how/where to connect to postgres
+// display verbose data
 	argv.verbose	=	argv.verbose||
 						process.env.warehouse_verbose||
 						0;
-	console.log("--verbose="+argv.verbose);
 
 // how/where to connect to postgres
 	argv.database	=	argv.database||
 						process.env.warehouse_database||
 						"postgres://readonly:test123@213.168.251.124:5433/ddw";
-	console.log("--database="+argv.database);
 
 // where to store the csv output files
 	argv.csvdir		=	argv.cache||
 						process.env.warehouse_csvdir||
 						"../";
-	console.log("--csvdir="+argv.csvdir);
 
-	console.log("")
+	if(argv.verbose){
+		console.log("");
+		console.log("--verbose="+	argv.verbose	);
+		console.log("--database="+	argv.database	);
+		console.log("--csvdir="+	argv.csvdir		);
+		console.log("");
+	}
 
 	return argv;
 }
@@ -49,6 +52,11 @@ cmd.run=function(argv)
 		return require("./import").import_all();
 	}
 	else
+	if( argv._[0]=="summary" )
+	{
+		return require("./datamap").summary();
+	}
+	else
 	if( argv._[0]=="test" )
 	{
 		return require("./db").test();
@@ -60,9 +68,11 @@ cmd.run=function(argv)
 		">	warehouse import \n"+
 		"Import all warehouse data into local CSV files.\n"+
 		"\n"+
+		">	warehouse summary \n"+
+		"Display a summary of how we map data between the DW and DP and what is probably missing.\n"+
+		"\n"+
 		">	warehouse test \n"+
 		"Test settings etc.\n"+
-		"\n"+
 		"\n"+
 	"");
 

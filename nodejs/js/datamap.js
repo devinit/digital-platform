@@ -5,238 +5,86 @@ var fs=require("fs");
 var util=require("util");
 var babyparse=require("babyparse");
 
+var print=console.log;
 var ls=function(a) { console.log(util.inspect(a,{depth:null})); }
 
 // read in the concepts.csv 
 datamap.concepts=babyparse.parse( fs.readFileSync(argv.csvdir+"concepts.csv").toString() , {header:true}).data;
 
-// map dw to dt
-datamap.raw=[
-{	dw:'dac_country_deflator.2015_10_15',									},
-{	dw:'dac_country_deflator.2015_10_15_pivoted',							},
-{	dw:'data.2015_09_17',													},
-{	dw:'data_series.agricultural_census',									},
-{	dw:'data_series.avg_income_of_extreme_poor',							},
-{	dw:'data_series.civil_reg_births',										},
-{	dw:'data_series.civil_reg_deaths',										},
-{	dw:'data_series.climate_vulnerability',									},
-{	dw:'data_series.dac_oda_percent_gni',									},
-{	dw:'data_series.dac_oda_to_ldcs_pc_gni',								},
-{	dw:'data_series.depth_of_extreme_poverty',								},
-{	dw:'data_series.dev_coop_in_detail',									},
-{	dw:'data_series.dfis_out',												},
-{	dw:'data_series.dfis_out_dev',											},
-{	dw:'data_series.domestic',												},
-{	dw:'data_series.domestic_sectors',										},
-{	dw:'data_series.educ_mis',												},
-{	dw:'data_series.evi',													},
-{	dw:'data_series.fdi_out',												},
-{	dw:'data_series.fdi_pp',												},
-{	dw:'data_series.fragile_states',										},
-{	dw:'data_series.general_gov_health_exp',								},
-{	dw:'data_series.gov_revenue_pc_gdp',									},
-{	dw:'data_series.govtspend_pc',											},
-{	dw:'data_series.grants_pct_totalrevenue',								},
-{	dw:'data_series.health_mis',											},
-{	dw:'data_series.human_hazard',											},
-{	dw:'data_series.in_ha',													},
-{	dw:'data_series.in_oda_gross',											},
-{	dw:'data_series.in_oda_net',											},
-{	dw:'data_series.in_oof_gross',											},
-{	dw:'data_series.intl_flows_donors',										},
-{	dw:'data_series.intl_flows_recipients',									},
-{	dw:'data_series.intlresources_total',									},
-{	dw:'data_series.kenya_births_pc_skilled',								},
-{	dw:'data_series.kenya_electricity',										},
-{	dw:'data_series.kenya_fertility_rate',									},
-{	dw:'data_series.kenya_improved_sani',									},
-{	dw:'data_series.kenya_improved_water',									},
-{	dw:'data_series.kenya_paved_roads',										},
-{	dw:'data_series.kenya_pc_female_know_hiv',								},
-{	dw:'data_series.kenya_pc_female_tested_hiv',							},
-{	dw:'data_series.kenya_pc_house_malaria_nets',							},
-{	dw:'data_series.kenya_pc_male_know_hiv',								},
-{	dw:'data_series.kenya_pc_male_tested_hiv',								},
-{	dw:'data_series.kenya_pc_modern_contra',								},
-{	dw:'data_series.kenya_pc_no_contra',									},
-{	dw:'data_series.kenya_pc_trad_contra',									},
-{	dw:'data_series.kenya_pop_female',										},
-{	dw:'data_series.kenya_pop_male',										},
-{	dw:'data_series.kenya_pop_pc_female',									},
-{	dw:'data_series.kenya_pop_pc_male',										},
-{	dw:'data_series.kenya_pop_total',										},
-{	dw:'data_series.kenya_pov_gap',											},
-{	dw:'data_series.kenya_rural_pop',										},
-{	dw:'data_series.kenya_treat_child_diarr',								},
-{	dw:'data_series.kenya_treat_child_respir',								},
-{	dw:'data_series.kenya_urban_pop',										},
-{	dw:'data_series.kenya_weight_below_3sd',								},
-{	dw:'data_series.largest_intl_flow',										},
-{	dw:'data_series.latest_census',											},
-{	dw:'data_series.latest_hh_survey',										},
-{	dw:'data_series.long_debt_disbursement_in',								},
-{	dw:'data_series.long_debt_net_official_in',								},
-{	dw:'data_series.natural_hazard',										},
-{	dw:'data_series.non_grant_revenue_ppp_capita',							},
-{	dw:'data_series.number_of_surveys',										},
-{	dw:'data_series.oda_capital_repayments',								},
-{	dw:'data_series.oda_interest_payments',									},
-{	dw:'data_series.oda_per_poor_person',									},
-{	dw:'data_series.oof',													},
-{	dw:'data_series.out_dac_oda_net',										},
-{	dw:'data_series.out_oof_net',											},
-{	dw:'data_series.out_ssc_net',											},
-{	dw:'data_series.poorest20pct',											},
-{	dw:'data_series.poor_people',											},
-{	dw:'data_series.poverty_125',											},
-{	dw:'data_series.poverty_200',											},
-{	dw:'data_series.profits_pct_fdi',										},
-{	dw:'data_series.remittances',											},
-{	dw:'data_series.rems_pp',												},
-{	dw:'data_series.ssc_out',												},
-{	dw:'data_series.ssc_percent_gni',										},
-{	dw:'data_series.stat_capacity',											},
-{	dw:'data_series.total_revenue_pct_gdp',									},
-{	dw:'data_series.total_revenue_ppp_capita',								},
-{	dw:'data_series.uganda_agri_percent',									},
-{	dw:'data_series.uganda_anc4_coverage',									},
-{	dw:'data_series.uganda_avg_house_size',									},
-{	dw:'data_series.uganda_central_resources',								},
-{	dw:'data_series.uganda_dependency_ratio',								},
-{	dw:'data_series.uganda_deprivation_living',								},
-{	dw:'data_series.uganda_donor_educ_spend',								},
-{	dw:'data_series.uganda_donor_percent',									},
-{	dw:'data_series.uganda_donor_resources',								},
-{	dw:'data_series.uganda_dpt3_coverage',									},
-{	dw:'data_series.uganda_educ_percent',									},
-{	dw:'data_series.uganda_finance',										},
-{	dw:'data_series.uganda_gov_spend_pp',									},
-{	dw:'data_series.uganda_health_funding',									},
-{	dw:'data_series.uganda_health_percent',									},
-{	dw:'data_series.uganda_health_posts',									},
-{	dw:'data_series.uganda_hmis',											},
-{	dw:'data_series.uganda_household_san_cov',								},
-{	dw:'data_series.uganda_igf_resources',									},
-{	dw:'data_series.uganda_ipt2_coverage',									},
-{	dw:'data_series.uganda_leaving_exam_perf_rate',							},
-{	dw:'data_series.uganda_life_expectancy',								},
-{	dw:'data_series.uganda_local_percent',									},
-{	dw:'data_series.uganda_overall_health',									},
-{	dw:'data_series.uganda_pop_dens',										},
-{	dw:'data_series.uganda_poverty_headcount',								},
-{	dw:'data_series.uganda_primary_educ_funding',							},
-{	dw:'data_series.uganda_primary_enrol',									},
-{	dw:'data_series.uganda_primary_sit_write',								},
-{	dw:'data_series.uganda_primary_sit_write_gov',							},
-{	dw:'data_series.uganda_primary_stu_teach_ratio',						},
-{	dw:'data_series.uganda_primary_stu_teach_ratio_gov',					},
-{	dw:'data_series.uganda_rural_safe_water',								},
-{	dw:'data_series.uganda_rural_water_func',								},
-{	dw:'data_series.uganda_secondary_enrol',								},
-{	dw:'data_series.uganda_secondary_sit_write',							},
-{	dw:'data_series.uganda_secondary_sit_write_gov',						},
-{	dw:'data_series.uganda_secondary_stu_teach_ratio',						},
-{	dw:'data_series.uganda_secondary_stu_teach_ratio_gov',					},
-{	dw:'data_series.uganda_tb_success',										},
-{	dw:'data_series.uganda_total_pop',										},
-{	dw:'data_series.uganda_urban_pop',										},
-{	dw:'data_series.uganda_urban_rural_pop',								},
-{	dw:'data_series.uganda_wash_perf_score',								},
-{	dw:'data_series.uganda_water_source_comm_func',							},
-{	dw:'deflator.2015_oct',													},
-{	dw:'deflator.2015_oct_pivoted',											},
-{	dw:'dimension.di_itep_channel',											},
-{	dw:'dimension.di_itep_sector',											},
-{	dw:'dimension.di_oda_aid_bundle',										},
-{	dw:'dimension.iso_3166_1',												},
-{	dw:'dimension.oecd_crs_channel_code_5_digit_to_di_itep_channel_map',	},
-{	dw:'dimension.oecd_crs_donor',											},
-{	dw:'dimension.oecd_crs_purpose_code_5_digit_to_di_itep_sector_map',		},
-{	dw:'dimension.oecd_crs_recipient',										},
-{	dw:'dimension.oecd_crs_sector_code_3_digit_to_di_itep_sector_map',		},
-{	dw:'dimension.oecd_dac_2a_recipient',									},
-{	dw:'dimension.oecd_dac_2b_recipient',									},
-{	dw:'dimension.oecd_dac_donor',											},
-{	dw:'dimension.oecd_deflator_lookup',									},
-{	dw:'dimension.oecd_deflator_pivoted_dac_2015_10_15_non_dac_2015_09_17',	},
-{	dw:'dimension.oecd_donor',												},
-{	dw:'dimension.oecd_donor_to_di_id_map',									},
-{	dw:'dimension.oecd_donor_to_iso_3166_1_map',							},
-{	dw:'dimension.oecd_donor_type',											},
-{	dw:'dimension.oecd_income_group',										},
-{	dw:'dimension.oecd_loc_donor',											},
-{	dw:'dimension.oecd_loc_recipient',										},
-{	dw:'dimension.oecd_recipient',											},
-{	dw:'dimension.oecd_recipient_to_di_id_map',								},
-{	dw:'dimension.oecd_recipient_to_iso_3166_1_map',						},
-{	dw:'dimension.wb_wdi_country_to_di_id_map',								},
-{	dw:'dimension.wb_wdi_country_to_imf_weo_country_map',					},
-{	dw:'fact.gdp_usd_current',												},
-{	dw:'fact.gdp_usd_current_2012',											},
-{	dw:'fact.gni_pc_usd_current',											},
-{	dw:'fact.gni_pc_usd_current_2012',										},
-{	dw:'fact.gni_usd_current',												},
-{	dw:'fact.gni_usd_current_2012',											},
-{	dw:'fact.income_share_bottom_20pc',										},
-{	dw:'fact.income_share_by_quintile',										},
-{	dw:'fact.income_share_by_quintile_2nd',									},
-{	dw:'fact.income_share_by_quintile_3rd',									},
-{	dw:'fact.income_share_by_quintile_4th',									},
-{	dw:'fact.income_share_by_quintile_5th',									},
-{	dw:'fact.life_expectancy_at_birth',										},
-{	dw:'fact.maternal_mortality',											},
-{	dw:'fact.oda',															},
-{	dw:'fact.oda_2012',														},
-{	dw:'fact.oda_donor',													},
-{	dw:'fact.oda_donor_2012',												},
-{	dw:'fact.population_by_age',											},
-{	dw:'fact.population_by_age_0_14',										},
-{	dw:'fact.population_by_age_15_64',										},
-{	dw:'fact.population_by_age_65_and_above',								},
-{	dw:'fact.population_rural',												},
-{	dw:'fact.population_rural_urban',										},
-{	dw:'fact.population_total',												},
-{	dw:'fact.population_urban',												},
-{	dw:'non_dac_country_deflator.2015_04_20',								},
-{	dw:'non_dac_country_deflator.2015_09_17',								},
-{	dw:'non_dac_country_deflator.2015_09_17_pivoted',						},
-{	dw:'public.di_concept_in_ddw',											},
-{	dw:'public.di_concept_in_dh',											},
-{	dw:'public.individual_wb_wdi_series_in_di_dh',							},
-{	dw:'reference.di_aid_bundle',											},
-{	dw:'reference.di_budget_type',											},
-{	dw:'reference.di_channel',												},
-{	dw:'reference.di_color',												},
-{	dw:'reference.di_colorramp',											},
-{	dw:'reference.di_concept',												},
-{	dw:'reference.di_cp_bubble_chart',										},
-{	dw:'reference.di_currency',												},
-{	dw:'reference.di_destination_institution_type',							},
-{	dw:'reference.di_domestic_budget_level',								},
-{	dw:'reference.di_entity',												},
-{	dw:'reference.di_financing_type',										},
-{	dw:'reference.di_flow_name',											},
-{	dw:'reference.di_fragile_state',										},
-{	dw:'reference.di_income_group',											},
-{	dw:'reference.di_kenya_district_entity',								},
-{	dw:'reference.di_kenya_theme',											},
-{	dw:'reference.di_largest_intl_flow',									},
-{	dw:'reference.di_oof_bundle',											},
-{	dw:'reference.di_region',												},
-{	dw:'reference.di_sector',												},
-{	dw:'reference.di_theme',												},
-{	dw:'reference.di_theme_colours',										},
-{	dw:'reference.di_uganda_budget_level',									},
-{	dw:'reference.di_uganda_district_entity',								},
-{	dw:'reference.di_uganda_theme',											},
-{	dw:'series.2015_09_17',													},
-];
+datamap.raw=require("./datamap_raw.json").raw;
 
-for(var i in datamap.raw){ var v=datamap.raw[i];
+for(var i in datamap.raw){var v=datamap.raw[i];
 	var aa=v.dw.split(".");
 	v.schema=aa[0];
 	v.name=aa[1];
 	v.table=v.schema+".\""+v.name+"\""; // need to add " around table name as it may start with a number
+	
+	var fn=v.name.split("_").join("-"); // possible filename, check for it in concepts
+	
+	for(var ic in datamap.concepts){var vc=datamap.concepts[ic];
+		if(fn==vc.id) // 
+		{
+			if(vc.series!="reference") // dont map to reference folder, that will stay in DP
+			{
+				if(v.csv)
+				{
+					print( "CLASH: " + v.csv + " - " + vc.series+"/"+vc.id+".csv : "+v.dw );
+				}
+				else
+				{
+					vc.dw=v;
+					v.csv=vc.series+"/"+vc.id+".csv";
+					v.dp=vc;
+//				print( v.csv + " FOUND " );
+				}
+			}
+		}
+	}
 }
 
+
+datamap.summary=function()
+{
+
+	print("")
+	print("The following DW tables are not going to be used")
+	print("")
+
+	for(var i in datamap.raw){var v=datamap.raw[i];
+		if( v.schema && v.schema!="reference" ) // ignore reference
+		{
+			if(!v.dp)
+			{
+				print( "UNKNOWN DW TABLE: "+v.dw);
+			}
+		}
+	}
+
+	print("")
+	print("The following DP csv files are not going to be replaced with DW data")
+	print("")
+	for(var ic in datamap.concepts){var vc=datamap.concepts[ic];
+		if( vc.series && vc.series!="reference" ) // dont map to reference folder, that will stay in DP
+		{
+			if(!vc.dw)
+			{
+				print( "MISSING DW TABLE FOR DP: "+vc.series+"/"+vc.id);
+			}
+		}
+	}
+
+	print("")
+	print("The following DP tables will be exported to these DW csv files")
+	print("")
+	for(var i in datamap.raw){var v=datamap.raw[i];
+		if( v.schema && v.schema!="reference" ) // ignore reference
+		{
+			if(v.dp)
+			{
+				print( v.dw+" -> "+v.csv);
+			}
+		}
+	}
+
+}
 
