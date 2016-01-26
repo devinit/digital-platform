@@ -6,10 +6,12 @@
   "license":"MIT",
   "dependencies": {
     "babyparse": "*",
+    "csv": "*",
     "yargs": "*",
     "pg-monitor": "*",
     "pg-promise": "*",
     "co": "*",
+    "thenify": "*",
     "mz": "*"
   }
 }

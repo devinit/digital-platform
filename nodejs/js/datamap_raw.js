@@ -1,4 +1,4 @@
-{"raw":[
+exports.raw=[
 {	"dw":"dac_country_deflator.2015_10_15"									},
 {	"dw":"dac_country_deflator.2015_10_15_pivoted"							},
 {	"dw":"data.2015_09_17"													},
@@ -172,7 +172,7 @@
 {	"dw":"fact.income_share_by_quintile_5th"								},
 {	"dw":"fact.life_expectancy_at_birth"									},
 {	"dw":"fact.maternal_mortality"											},
-{	"dw":"fact.oda"														},
+//{	"dw":"fact.oda"														},
 {	"dw":"fact.oda_2012"													},
 {	"dw":"fact.oda_donor"													},
 {	"dw":"fact.oda_donor_2012"												},
@@ -217,4 +217,4 @@
 {	"dw":"reference.di_uganda_district_entity"								},
 {	"dw":"reference.di_uganda_theme"											},
 {	"dw":"series.2015_09_17"													}
-]}
+]

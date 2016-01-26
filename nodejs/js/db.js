@@ -6,6 +6,10 @@ var util=require('util');
 var path=require('path');
 var co = require('co');
 
+var thenify = require('thenify');
+var csv_parse = thenify(require('csv-parse'));
+var csv_stringify = thenify(require('csv-stringify'));
+
 var pgp_options = {};
 if(argv.verbose){ require("pg-monitor").attach(pgp_options); } // enable database logging to console
 var pgp = require('pg-promise')(pgp_options);
@@ -26,6 +30,35 @@ db.end=function()
 	return pgp.end();
 };
 
+db.under_to_dash=function(s){ return s.split("_").join("-"); };
+db.dash_to_under=function(s){ return s.split("-").join("_"); };
+// use csv names
+db.rebuild_array_and_fix_names=function(rin){
+	var head;
+	var ret=[];
+	for(var i in rin){var v=rin[i];
+// build head
+		if(!head)
+		{
+			head=[];
+			for(var iv in v){var vv=v[iv];
+				head.push( iv );
+			}
+			var r=[];
+			ret.push(r);
+			for(var iv in head){r.push( db.under_to_dash( head[iv] ) );}
+		}
+// data
+		{
+			var r=[];
+			ret.push(r);
+			for(var iv in head){var vv=v[ head[iv] ];
+				r.push(vv);
+			}
+		}
+	}
+	return ret;
+}
 // test some bits and bobs
 db.test=function()
 {
@@ -84,12 +117,20 @@ db.import=function()
 			if(v.csv)
 			{
 
-				var r=yield d.query('SELECT COUNT(*) FROM '+v.table+';');
+				var r=yield d.query('SELECT * FROM '+v.table+';');
+				console.log(argv.csvdir+v.csv+" <- "+v.table+" ["+r.length+"]" );
 
-				console.log(argv.csvdir+v.csv,v.table,r[0].count);
+				c=db.rebuild_array_and_fix_names(r);
 				
-				fs.writeFileSync( argv.csvdir+v.csv , v.table+" : "+r[0].count );
+//				ls(c);
 
+				var s=yield csv_stringify(c);
+//				print(s);
+				
+				fs.writeFileSync( argv.csvdir+v.csv , s );
+
+
+//process.exit();
 			}
 						
 		}

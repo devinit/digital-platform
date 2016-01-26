@@ -11,7 +11,7 @@ var ls=function(a) { console.log(util.inspect(a,{depth:null})); }
 // read in the concepts.csv 
 datamap.concepts=babyparse.parse( fs.readFileSync(argv.csvdir+"concepts.csv").toString() , {header:true}).data;
 
-datamap.raw=require("./datamap_raw.json").raw;
+datamap.raw=require("./datamap_raw").raw;
 
 for(var i in datamap.raw){var v=datamap.raw[i];
 	var aa=v.dw.split(".");
