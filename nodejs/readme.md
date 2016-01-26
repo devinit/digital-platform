@@ -20,3 +20,9 @@ then you can run the importer code
 
 	./warehouse import
 
+
+Notes.
+======
+
+Data Warehouse or DW is the postgres database.
+Digital Platform or DP is the collection of csv files.

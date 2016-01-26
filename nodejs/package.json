@@ -5,6 +5,7 @@
   "repository":"https://github.com/devinit/digital-platform",
   "license":"MIT",
   "dependencies": {
+    "babyparse": "*",
     "yargs": "*",
     "pg-monitor": "*",
     "pg-promise": "*",

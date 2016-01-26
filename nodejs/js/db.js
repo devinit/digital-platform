@@ -10,8 +10,10 @@ var pgp_options = {};
 if(argv.verbose){ require("pg-monitor").attach(pgp_options); } // enable database logging to console
 var pgp = require('pg-promise')(pgp_options);
 
+var datamap=require('./datamap')
 
-var ls=function(a) { console.log(util.inspect(a,{depth:null})); }
+var print=console.log;
+var ls=function(a) { print(util.inspect(a,{depth:null})); }
 
 // get pgp using given host or the default host
 db.start=function(database)
@@ -30,7 +32,6 @@ db.test=function()
 
 // run a yieldable coroutine (requires ES6)
 // This  reduces callback hell / excessive use of unnamed function 
-
 	co(function*(){
 		var d=yield db.start().connect();
 
@@ -39,12 +40,27 @@ db.test=function()
 
 		var r=yield d.query("SELECT * FROM information_schema.tables ORDER BY table_schema,table_name;");
 		for(var ir in r) { var vr=r[ir];
-			if(vr.table_schema.slice(0,3)!="pg_"){
-				console.log(vr.table_schema+"."+vr.table_name);
+			if( vr.table_schema!="pg_catalog" && vr.table_schema!="information_schema" ){ // ignore internal junk
+//				console.log(vr.table_schema+"."+vr.table_name);
 			}
 		}
 //		ls(r);
 		
+//		var r=yield d.query("SELECT * FROM public.di_concept_in_ddw;");
+//		ls(r);
+
+//		var r=yield d.query("SELECT * FROM public.di_concept_in_dh;");
+//		ls(r);
+
+//		var r=yield d.query("SELECT * FROM data.\"2015_09_17\" LIMIT 200;");
+//		ls(r);
+
+		for(var i in datamap.raw){ v=datamap.raw[i];
+			var r=yield d.query('SELECT COUNT(*) FROM '+v.table+';');
+			console.log(v.table,r[0].count);
+		}
+
+
 		
 		d.done();
 
