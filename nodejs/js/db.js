@@ -80,12 +80,17 @@ db.import=function()
 		var d=yield db.start().connect();
 
 		for(var i in datamap.raw){ v=datamap.raw[i];
-
-			var r=yield d.query('SELECT COUNT(*) FROM '+v.table+';');
-
-			console.log(argv.csvdir+v.csv,v.table,r[0].count);
 			
-			fs.writeFileSync(argv.csvdir+v.csv,v.table,r[0].count);
+			if(v.csv)
+			{
+
+				var r=yield d.query('SELECT COUNT(*) FROM '+v.table+';');
+
+				console.log(argv.csvdir+v.csv,v.table,r[0].count);
+				
+				fs.writeFileSync( argv.csvdir+v.csv , v.table+" : "+r[0].count );
+
+			}
 						
 		}
 		
