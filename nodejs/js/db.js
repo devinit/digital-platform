@@ -42,7 +42,10 @@ db.rebuild_array_and_fix_names=function(rin){
 		{
 			head=[];
 			for(var iv in v){var vv=v[iv];
-				head.push( iv );
+				if( iv!="row_id" ) // ignore row_id
+				{
+					head.push( iv );
+				}
 			}
 			var r=[];
 			ret.push(r);
