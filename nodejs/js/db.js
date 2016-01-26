@@ -69,3 +69,31 @@ db.test=function()
 	db.end(); // exit when database callbacks finish, otherwise we sit and wait forever?
 
 };
+
+
+// export data
+db.import=function()
+{
+// run a yieldable coroutine (requires ES6)
+// This  reduces callback hell / excessive use of unnamed function 
+	co(function*(){
+		var d=yield db.start().connect();
+
+		for(var i in datamap.raw){ v=datamap.raw[i];
+
+			var r=yield d.query('SELECT COUNT(*) FROM '+v.table+';');
+
+			console.log(argv.csvdir+v.csv,v.table,r[0].count);
+			
+			fs.writeFileSync(argv.csvdir+v.csv,v.table,r[0].count);
+						
+		}
+		
+		d.done();
+
+	}).then(function(v){},function(e){console.error(e.stack);process.exit();});
+
+	db.end(); // exit when database callbacks finish, otherwise we sit and wait forever?
+
+};
+
