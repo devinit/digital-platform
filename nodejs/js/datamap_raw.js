@@ -172,7 +172,7 @@ exports.raw=[
 {	"dw":"fact.income_share_by_quintile_5th"								},
 {	"dw":"fact.life_expectancy_at_birth"									},
 {	"dw":"fact.maternal_mortality"											},
-//{	"dw":"fact.oda"														},
+{	"dw":"fact.oda"														},
 {	"dw":"fact.oda_2012"													},
 {	"dw":"fact.oda_donor"													},
 {	"dw":"fact.oda_donor_2012"												},

@@ -8,8 +8,10 @@
     "babyparse": "*",
     "csv": "*",
     "yargs": "*",
+    "pg": "*",
     "pg-monitor": "*",
     "pg-promise": "*",
+    "pg-query-stream": "*",
     "co": "*",
     "thenify": "*",
     "mz": "*"
