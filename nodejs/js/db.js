@@ -151,7 +151,7 @@ db.test=function()
 //			console.log(v.table,r[0].count);
 //		}
 
-console.log( JSON.stringify(datamap.raw,null,1) );
+console.log( JSON.stringify(datamap.csv,null,1) );
 
 
 		
