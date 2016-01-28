@@ -32,9 +32,9 @@ for(var i in datamap.raw){var v=datamap.raw[i];
 				}
 				else
 				{
-					vc.dw=v;
 					v.csv=vc.series+"/"+vc.id+".csv";
-					v.dp=vc;
+//					vc.dw=v;
+//					v.dp=vc;
 //				print( v.csv + " FOUND " );
 				}
 			}
@@ -53,7 +53,7 @@ datamap.summary=function()
 	for(var i in datamap.raw){var v=datamap.raw[i];
 		if( v.schema && v.schema!="reference" ) // ignore reference
 		{
-			if(!v.dp)
+			if(!v.csv)
 			{
 				print( "UNKNOWN DW TABLE: "+v.dw);
 			}
@@ -79,7 +79,7 @@ datamap.summary=function()
 	for(var i in datamap.raw){var v=datamap.raw[i];
 		if( v.schema && v.schema!="reference" ) // ignore reference
 		{
-			if(v.dp)
+			if(v.csv)
 			{
 				print( v.dw+" -> "+v.csv);
 			}

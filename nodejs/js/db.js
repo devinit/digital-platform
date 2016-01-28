@@ -132,7 +132,7 @@ db.test=function()
 		var r=yield d.query("SELECT * FROM information_schema.tables ORDER BY table_schema,table_name;");
 		for(var ir in r) { var vr=r[ir];
 			if( vr.table_schema!="pg_catalog" && vr.table_schema!="information_schema" ){ // ignore internal junk
-//				console.log(vr.table_schema+"."+vr.table_name);
+				console.log("{ \"dw\":\""+vr.table_schema+"."+vr.table_name+"\" },");
 			}
 		}
 //		ls(r);
@@ -146,10 +146,12 @@ db.test=function()
 //		var r=yield d.query("SELECT * FROM data.\"2015_09_17\" LIMIT 200;");
 //		ls(r);
 
-		for(var i in datamap.raw){ v=datamap.raw[i];
-			var r=yield d.query('SELECT COUNT(*) FROM '+v.table+';');
-			console.log(v.table,r[0].count);
-		}
+//		for(var i in datamap.raw){ v=datamap.raw[i];
+//			var r=yield d.query('SELECT COUNT(*) FROM '+v.table+';');
+//			console.log(v.table,r[0].count);
+//		}
+
+console.log( JSON.stringify(datamap.raw,null,1) );
 
 
 		
