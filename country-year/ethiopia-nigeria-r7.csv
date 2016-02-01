@@ -1,4 +1,4 @@
-id,year,ODA % GDP,ODA % GDP (ex. Non-transfer)
+id,year,oda_pct_gdp,oda_pct_gdp_ex
 ET,2000,0.071103201,
 ET,2001,0.104467188,
 ET,2002,0.119866295,
