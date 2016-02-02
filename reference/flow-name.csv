@@ -14,14 +14,14 @@ oda-interest-payments-out,ODA,1,out,recipient,official,,2,Interest payments on O
 oofs-in,OOFs,2,in,recipient,official,1,,Other official flows,lightblue-high,,OECD DAC,Gross disbursements
 oofs-capital-payments-out,OOFs,2,out,recipient,official,,1,Capital repayments on OOFs loans,lightblue-high,,OECD DAC,Capital repayments
 oofs-interest-payments-out,OOFs,2,out,recipient,official,,2,Interest payments on OOFs loans,lightblue-high,,OECD DAC,Interest payments
-ssc-in,Dev coop,3,in,recipient,official,1,,Development cooperation,grey-mid,,Development Initiatives calculations; OECD DAC,Inflows
-ssc-out,Dev coop,3,out,recipient,official,,1,Development cooperation,grey-mid,Estimates of development cooperation,Development Initiatives calculations based on national sources,Outflows
-long-debt-net-official-in,Long term debt,4,in,recipient,official,1,,Long-term debt (official sources),darklightblue-high,"Disbursments of long-term debt from official creditors, excluding disbursements reported as ODA or OOFs",World Bank International Debt Statistics,Disbursements (official)
+ssc-in,Development cooperation,3,in,recipient,official,1,,Development cooperation,grey-mid,,Development Initiatives calculations; OECD DAC,Inflows
+ssc-out,Development cooperation,3,out,recipient,official,,1,Development cooperation,grey-mid,Estimates of development cooperation,Development Initiatives calculations based on national sources,Outflows
+long-debt-net-official-in,Long term debt,4,in,recipient,official,1,,Long-term debt (official sources),darklightblue-high,"Disbursments of long-term debt from official creditors, excluding disbursements reported as ODA or OOFs",World Bank International Debt Statistics,Disbursements
 fdi-in,FDI,5,in,recipient,commercial,1,,Foreign Direct Investment,orange-high,Net inflows of foreign direct investment (new investments minus disinvestment),UNCTAD,Inward investment
-fdi-in-profits-out,FDI,5,out,recipient,commercial,,2,Profits on FDI,orange-high,Outflows of profits on foreign direct investment,World Bank,Outflow of profits on FDI
+fdi-in-profits-out,FDI,5,out,recipient,commercial,,2,Profits on FDI,orange-high,Outflows of profits on foreign direct investment,World Bank,Outflow of profits
 fdi-out,FDI,5,out,recipient,commercial,,3,Foreign Direct Investment,orange-high,Net outflows of foreign direct investment (new investments minus disinvestment),,Outward investment
 net-portfolio-equity-in,Portfolio equity,6,in,recipient,commercial,1,,Portfolio equity,yellow-mid,,,Net inflows
-long-debt-disbursement-in,Long term debt,7,in,recipient,commercial,1,,Long-term debt (commercial sources),darklightblue-high,Disbursments of long-term debt from commercial creditors,World Bank International Debt Statistics,Disbursements (commercial)
+long-debt-disbursement-in,Long term debt,7,in,recipient,commercial,1,,Long-term debt (commercial sources),darklightblue-high,Disbursments of long-term debt from commercial creditors,World Bank International Debt Statistics,Disbursements
 long-debt-capital-payments-out,Long term debt,7,out,recipient,commercial,,1,Capital repayments on long-term debt,darklightblue-high,Capital repayments on long-term debt,World Bank International Debt Statistics,Capital repayments
 long-debt-interest-payments-out,Long term debt,7,out,recipient,commercial,,2,Interest payments on long-term debt,darklightblue-high,Interest payments on long-term debt,World Bank International Debt Statistics,Interest payments
 short-debt-net-flow-in,Short term debt,8,in,recipient,commercial,1,,Short-term debt,yellow-high,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),World Bank International Debt Statistics,Net disbursements
