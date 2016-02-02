@@ -2,7 +2,7 @@ id,type,long-name,region,iso-alpha-2,iso-alpha-3,neighbors,income-group,slug,dac
 AD,country,Andorra,europe,AD,AND,"ES,FR",,andorra,AD,,,Andorra
 AE,country,United Arab Emirates,middle-east,AE,ARE,"SA,OM",,uae,AE,donor,,UAE
 AF,country,Afghanistan,south-central-asia,AF,AFG,"TM,CN,IR,TJ,PK,UZ",ldcs,afghanistan,AF,recipient,1,Afghanistan
-AG,country,Antigua and Barbuda,north-central-america,AG,ATG,,umics,antigua-and-barbuda,AG,recipient,1,Antigua and Barbuda
+AG,country,Antigua and Barbuda,north-central-america,AG,ATG,,umics,antigua-and-barbuda,AG,recipient,1,Antigua & Barbuda
 AI,country,Anguilla,north-central-america,AI,AIA,,umics,anguilla,AI,recipient,,Anguilla
 AL,country,Albania,europe,AL,ALB,"MK,GR,ME,RS,XK",umics,albania,AL,recipient,1,Albania
 AM,country,Armenia,south-central-asia,AM,ARM,"GE,IR,AZ,TR",lmics,armenia,AM,recipient,1,Armenia
@@ -75,7 +75,7 @@ FM,country,"Micronesia, Federated States of",oceania,FM,FSM,,lmics,micronesia,FM
 FO,country,Faroe Islands,europe,FO,FRO,,,faroe-islands,FO,,,Faroe Islands
 FR,country,France,europe,FR,FRA,"CH,DE,BE,LU,IT,AD,MC,ES",,france,FR,donor,,France
 GA,country,Gabon,south-of-sahara,GA,GAB,"CM,GQ,CG",umics,gabon,GA,recipient,1,Gabon
-GB,country,United Kingdom,europe,GB,GBR,IE,,united-kingdom,GB,donor,,United Kingdom
+GB,country,UK,europe,GB,GBR,IE,,united-kingdom,GB,donor,,UK
 GD,country,Grenada,north-central-america,GD,GRD,,umics,grenada,GD,recipient,1,Grenada
 GE,country,Georgia,south-central-asia,GE,GEO,"AM,AZ,TR,RU",lmics,georgia,GE,recipient,1,Georgia
 GF,country,French Guiana,south-america,GF,GUF,"SR,BR",,french-guiana,GF,,,French Guiana
