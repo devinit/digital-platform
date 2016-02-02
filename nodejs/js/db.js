@@ -167,7 +167,7 @@ console.log( JSON.stringify(datamap.csv,null,1) );
 
 
 // export data
-db.import=function()
+db.import=function(only)
 {
 // run a yieldable coroutine (requires ES6)
 // This  reduces callback hell / excessive use of unnamed function 
@@ -175,8 +175,7 @@ db.import=function()
 		var d=yield db.start().connect();
 
 		for(var i in datamap.raw){ v=datamap.raw[i];
-			
-			if(v.csv)
+			if( (v.csv) && ( (!only) || (only==v.csv) ) )
 			{
 				
 				process.stdout.write(argv.csvdir+v.csv+" <- "+v.table+" ");
