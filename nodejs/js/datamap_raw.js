@@ -1246,14 +1246,14 @@ exports.raw=
   "dw": "fact.oda",
   "schema": "fact",
   "name": "oda",
-  "table": "fact.\"oda\"",
-  "csv": "country-year/oda.csv"
+  "table": "fact.\"oda\""
  },
  {
   "dw": "fact.oda_2012",
   "schema": "fact",
   "name": "oda_2012",
-  "table": "fact.\"oda_2012\""
+  "table": "fact.\"oda_2012\"",
+  "csv": "country-year/oda.csv"
  },
  {
   "dw": "fact.oda_donor",

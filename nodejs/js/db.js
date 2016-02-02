@@ -37,12 +37,18 @@ db.end=function()
 db.under_to_dash=function(s){ return s.split("_").join("-"); };
 db.dash_to_under=function(s){ return s.split("-").join("_"); };
 
+// oneway defluff to fix the fixes that fixed the thing that wasnt broken
+db.defluff=function(s){
+	s=s.split("from-di-id").join("id-from");
+	s=s.split("to-di-id").join("id-to");
+	return s;
+};
 // 
 db.rename_headers=function(head,func)
 {
 	func=func||db.under_to_dash; // default replace _ with - (because...)
 	var r=[];
-	for(var iv in head){r.push( func( head[iv] ) );}
+	for(var iv in head){r.push( db.defluff(func( head[iv] ) ) );}
 	return r;
 };
 

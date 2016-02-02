@@ -19,6 +19,7 @@ for(var i in datamap.raw){var v=datamap.raw[i];
 	}
 	else // take a guess from v.dw
 	{
+/*
 		var aa=v.dw.split(".");
 		v.schema=aa[0];
 		v.name=aa[1];
@@ -44,6 +45,7 @@ for(var i in datamap.raw){var v=datamap.raw[i];
 				}
 			}
 		}
+*/
 	}
 }
 
