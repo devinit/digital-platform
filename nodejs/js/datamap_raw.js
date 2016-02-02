@@ -1246,13 +1246,16 @@ exports.raw=
   "dw": "fact.oda",
   "schema": "fact",
   "name": "oda",
-  "table": "fact.\"oda\""
+//  "table": "fact.\"oda\""
+  "table": " ( SELECT * FROM fact.\"oda\" WHERE year=2014 ) sq ",
+//  "csv": "country-year/oda.csv"
  },
  {
   "dw": "fact.oda_2012",
   "schema": "fact",
   "name": "oda_2012",
-  "table": "fact.\"oda_2012\"",
+//  "table": "fact.\"oda_2012\"",
+  "table": " ( SELECT * FROM fact.\"oda_2012\" WHERE year=2014 ) sq ",
   "csv": "country-year/oda.csv"
  },
  {
