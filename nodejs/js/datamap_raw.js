@@ -148,7 +148,7 @@ exports.csv=
  "country-year/oda.2002.csv": " ( SELECT * FROM fact.\"oda_2012\" WHERE year=2002 ) sq ",
  "country-year/oda.2001.csv": " ( SELECT * FROM fact.\"oda_2012\" WHERE year=2001 ) sq ",
  "country-year/oda.2000.csv": " ( SELECT * FROM fact.\"oda_2012\" WHERE year=2000 ) sq ",
- "country-year/oda.1999.csv": " ( SELECT * FROM fact.\"oda_2012\" WHERE year<=1999 ) sq ",
+ "country-year/oda.csv": " ( SELECT * FROM fact.\"oda_2012\" WHERE year<=1999 ) sq ",
  "country-year/population-by-age.csv": "fact.\"population_by_age\"",
  "country-year/population-rural.csv": "fact.\"population_rural\"",
  "country-year/population-rural-urban.csv": "fact.\"population_rural_urban\"",
