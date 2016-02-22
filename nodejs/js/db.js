@@ -180,35 +180,17 @@ db.import=function(only)
 	co(function*(){
 		var d=yield db.start().connect();
 
-		for(var i in datamap.raw){ v=datamap.raw[i];
-			if( (v.csv) && ( (!only) || (only==v.csv) ) )
-			{
-				
-				process.stdout.write(argv.csvdir+v.csv+" <- "+v.table+" ");
+		for(var csv_name in datamap.csv){ var csv_sql=datamap.csv[csv_name];
 
-				var fp=fs.createWriteStream(argv.csvdir+v.csv);
-				var qs = new pgps('SELECT * FROM '+v.table+';');
-				var sd=yield d.stream(qs, function (s) {
-//console.log(s);
-						s.pipe(new stream_to_csv()).pipe(fp);
-				});
-				fp.end();
-				process.stdout.write("\n");
+			process.stdout.write(argv.csvdir+csv_name+" <- "+csv_sql+" ");
 
-/*
-				var r=yield d.query('SELECT * FROM '+v.table+';');
-				console.log(argv.csvdir+v.csv+" <- "+v.table+" ["+r.length+"]" );
-
-				c=db.rebuild_array(r);
-				c[0]=db.rename_headers(c[0]);
-
-				var s=csv.arrays_to_lines(c);
-				
-				fs.writeFileSync( argv.csvdir+v.csv , s );
-*/
-
-			}
-						
+			var fp=fs.createWriteStream(argv.csvdir+csv_name);
+			var qs = new pgps('SELECT * FROM '+csv_sql+';');
+			var sd=yield d.stream(qs, function (s) {
+					s.pipe(new stream_to_csv()).pipe(fp);
+			});
+			fp.end();
+			process.stdout.write("\n");
 		}
 		
 		d.done();
