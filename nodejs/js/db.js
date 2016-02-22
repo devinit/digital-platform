@@ -39,8 +39,14 @@ db.dash_to_under=function(s){ return s.split("-").join("_"); };
 
 // oneway defluff to fix the fixes that fixed the thing that wasnt broken
 db.defluff=function(s){
+	s=s.split("value-bottom-20pc").join("income-share-bottom-20pc");
+	s=s.split("value-second-20pc").join("income-share-second-20pc");
+	s=s.split("value-third-20pc").join("income-share-third-20pc");
+	s=s.split("value-fourth-20pc").join("income-share-fourth-20pc");
+	s=s.split("value-highest-20pc").join("income-share-highest-20pc");
 	s=s.split("from-di-id").join("id-from");
 	s=s.split("to-di-id").join("id-to");
+	s=s.split("di-id").join("id");
 	return s;
 };
 // 
