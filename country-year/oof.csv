@@ -3423,6 +3423,7 @@ year,id-from,id-to,sector,oof-bundle,channel,value
 2010,idb,SV,infrastructure,oof-loan,public-sector-recipient,12087619
 2010,idb,SV,other-social-services,oof-loan,public-sector-recipient,2629692
 2010,idb,SV,water-and-sanitation,oof-loan,public-sector-recipient,365617
+2010,idb,UY,industry-and-trade,oof-loan,public-sector-recipient,7547715
 2010,idb,GT,agriculture-and-food-security,oof-loan,public-sector-recipient,2084400
 2010,idb,GT,environment,oof-loan,public-sector-recipient,3873672
 2010,idb,GT,governance-and-security,oof-loan,public-sector-recipient,261617688
@@ -3504,7 +3505,6 @@ year,id-from,id-to,sector,oof-bundle,channel,value
 2010,idb,UY,education,oof-loan,public-sector-recipient,1388349
 2010,idb,UY,environment,oof-loan,public-sector-recipient,6654833
 2010,idb,UY,governance-and-security,oof-loan,public-sector-recipient,17819683
-2010,idb,UY,industry-and-trade,oof-loan,public-sector-recipient,7547715
 2010,idb,UY,infrastructure,oof-loan,public-sector-recipient,17243237
 2010,idb,UY,other,oof-loan,public-sector-recipient,11159186
 2010,idb,UY,other-social-services,oof-loan,public-sector-recipient,7106092
