@@ -204,9 +204,9 @@
 "DZ","Algeria",2012,"ppg","private","private","bonds",0
 "DZ","Algeria",2012,"ppg","private","private","commercial-banking",0
 "DZ","Algeria",2012,"ppg","private","private","other-private",0
+"DZ","Algeria",2013,"ppg","private","private","bonds",0
 "DZ","Algeria",2013,"png","private","private","bonds",0
 "DZ","Algeria",2013,"png","private","private","commercial-banking",0
-"DZ","Algeria",2013,"ppg","private","private","bonds",0
 "DZ","Algeria",2013,"ppg","private","private","commercial-banking",0
 "DZ","Algeria",2013,"ppg","private","private","other-private",0
 "AO","Angola",2000,"png","private","private","bonds",0
@@ -714,9 +714,9 @@
 "BS","Bahamas",2002,"ppg","private","private","bonds",
 "BS","Bahamas",2002,"ppg","private","private","commercial-banking",
 "BS","Bahamas",2002,"ppg","private","private","other-private",
+"BS","Bahamas",2003,"ppg","private","private","bonds",
 "BS","Bahamas",2003,"png","private","private","bonds",
 "BS","Bahamas",2003,"png","private","private","commercial-banking",
-"BS","Bahamas",2003,"ppg","private","private","bonds",
 "BS","Bahamas",2003,"ppg","private","private","commercial-banking",
 "BS","Bahamas",2003,"ppg","private","private","other-private",
 "BS","Bahamas",2004,"png","private","private","bonds",
@@ -754,21 +754,21 @@
 "BS","Bahamas",2010,"ppg","private","private","bonds",
 "BS","Bahamas",2010,"ppg","private","private","commercial-banking",
 "BS","Bahamas",2010,"ppg","private","private","other-private",
+"BS","Bahamas",2011,"ppg","private","private","bonds",
 "BS","Bahamas",2011,"png","private","private","bonds",
 "BS","Bahamas",2011,"png","private","private","commercial-banking",
-"BS","Bahamas",2011,"ppg","private","private","bonds",
 "BS","Bahamas",2011,"ppg","private","private","commercial-banking",
 "BS","Bahamas",2011,"ppg","private","private","other-private",
-"BS","Bahamas",2012,"png","private","private","bonds",
 "BS","Bahamas",2012,"png","private","private","commercial-banking",
+"BS","Bahamas",2012,"png","private","private","bonds",
 "BS","Bahamas",2012,"ppg","private","private","bonds",
 "BS","Bahamas",2012,"ppg","private","private","commercial-banking",
 "BS","Bahamas",2012,"ppg","private","private","other-private",
 "BS","Bahamas",2013,"png","private","private","bonds",
+"BS","Bahamas",2013,"ppg","private","private","other-private",
 "BS","Bahamas",2013,"png","private","private","commercial-banking",
 "BS","Bahamas",2013,"ppg","private","private","bonds",
 "BS","Bahamas",2013,"ppg","private","private","commercial-banking",
-"BS","Bahamas",2013,"ppg","private","private","other-private",
 "BH","Bahrain",2000,"png","private","private","bonds",
 "BH","Bahrain",2000,"png","private","private","commercial-banking",
 "BH","Bahrain",2000,"ppg","private","private","bonds",
@@ -814,8 +814,8 @@
 "BH","Bahrain",2008,"ppg","private","private","bonds",
 "BH","Bahrain",2008,"ppg","private","private","commercial-banking",
 "BH","Bahrain",2008,"ppg","private","private","other-private",
-"BH","Bahrain",2009,"png","private","private","bonds",
 "BH","Bahrain",2009,"png","private","private","commercial-banking",
+"BH","Bahrain",2009,"png","private","private","bonds",
 "BH","Bahrain",2009,"ppg","private","private","bonds",
 "BH","Bahrain",2009,"ppg","private","private","commercial-banking",
 "BH","Bahrain",2009,"ppg","private","private","other-private",
@@ -824,19 +824,19 @@
 "BH","Bahrain",2010,"ppg","private","private","bonds",
 "BH","Bahrain",2010,"ppg","private","private","commercial-banking",
 "BH","Bahrain",2010,"ppg","private","private","other-private",
+"BH","Bahrain",2011,"ppg","private","private","other-private",
 "BH","Bahrain",2011,"png","private","private","bonds",
 "BH","Bahrain",2011,"png","private","private","commercial-banking",
 "BH","Bahrain",2011,"ppg","private","private","bonds",
 "BH","Bahrain",2011,"ppg","private","private","commercial-banking",
-"BH","Bahrain",2011,"ppg","private","private","other-private",
+"BH","Bahrain",2012,"ppg","private","private","commercial-banking",
 "BH","Bahrain",2012,"png","private","private","bonds",
 "BH","Bahrain",2012,"png","private","private","commercial-banking",
 "BH","Bahrain",2012,"ppg","private","private","bonds",
-"BH","Bahrain",2012,"ppg","private","private","commercial-banking",
 "BH","Bahrain",2012,"ppg","private","private","other-private",
+"BH","Bahrain",2013,"ppg","private","private","bonds",
 "BH","Bahrain",2013,"png","private","private","bonds",
 "BH","Bahrain",2013,"png","private","private","commercial-banking",
-"BH","Bahrain",2013,"ppg","private","private","bonds",
 "BH","Bahrain",2013,"ppg","private","private","commercial-banking",
 "BH","Bahrain",2013,"ppg","private","private","other-private",
 "BD","Bangladesh",2000,"png","private","private","bonds",0
@@ -984,11 +984,11 @@
 "BY","Belarus",2000,"ppg","private","private","bonds",0
 "BY","Belarus",2000,"ppg","private","private","commercial-banking",133152725.5
 "BY","Belarus",2000,"ppg","private","private","other-private",194795183.6
+"BY","Belarus",2001,"ppg","private","private","other-private",143904696.7
 "BY","Belarus",2001,"png","private","private","bonds",0
 "BY","Belarus",2001,"png","private","private","commercial-banking",577835809.5
 "BY","Belarus",2001,"ppg","private","private","bonds",0
 "BY","Belarus",2001,"ppg","private","private","commercial-banking",66210481.33
-"BY","Belarus",2001,"ppg","private","private","other-private",143904696.7
 "BY","Belarus",2002,"png","private","private","bonds",0
 "BY","Belarus",2002,"png","private","private","commercial-banking",652882646.9
 "BY","Belarus",2002,"ppg","private","private","bonds",0
@@ -1024,11 +1024,11 @@
 "BY","Belarus",2008,"ppg","private","private","bonds",0
 "BY","Belarus",2008,"ppg","private","private","commercial-banking",542327640.6
 "BY","Belarus",2008,"ppg","private","private","other-private",1685735.083
+"BY","Belarus",2009,"ppg","private","private","other-private",110632.3968
 "BY","Belarus",2009,"png","private","private","bonds",0
 "BY","Belarus",2009,"png","private","private","commercial-banking",804779166.9
 "BY","Belarus",2009,"ppg","private","private","bonds",0
 "BY","Belarus",2009,"ppg","private","private","commercial-banking",10782747.44
-"BY","Belarus",2009,"ppg","private","private","other-private",110632.3968
 "BY","Belarus",2010,"png","private","private","bonds",0
 "BY","Belarus",2010,"png","private","private","commercial-banking",1214143914
 "BY","Belarus",2010,"ppg","private","private","bonds",1072922620
@@ -1039,13 +1039,13 @@
 "BY","Belarus",2011,"ppg","private","private","bonds",837466294.3
 "BY","Belarus",2011,"ppg","private","private","commercial-banking",314338786.2
 "BY","Belarus",2011,"ppg","private","private","other-private",0
+"BY","Belarus",2012,"ppg","private","private","bonds",0
 "BY","Belarus",2012,"png","private","private","bonds",0
 "BY","Belarus",2012,"png","private","private","commercial-banking",1319680000
-"BY","Belarus",2012,"ppg","private","private","bonds",0
 "BY","Belarus",2012,"ppg","private","private","commercial-banking",1172768000
 "BY","Belarus",2012,"ppg","private","private","other-private",0
-"BY","Belarus",2013,"png","private","private","bonds",0
 "BY","Belarus",2013,"png","private","private","commercial-banking",1402127850
+"BY","Belarus",2013,"png","private","private","bonds",0
 "BY","Belarus",2013,"ppg","private","private","bonds",0
 "BY","Belarus",2013,"ppg","private","private","commercial-banking",1347278018
 "BY","Belarus",2013,"ppg","private","private","other-private",0
@@ -1199,11 +1199,11 @@
 "BJ","Benin",2001,"ppg","private","private","bonds",0
 "BJ","Benin",2001,"ppg","private","private","commercial-banking",0
 "BJ","Benin",2001,"ppg","private","private","other-private",0
+"BJ","Benin",2002,"ppg","private","private","other-private",0
 "BJ","Benin",2002,"png","private","private","bonds",0
 "BJ","Benin",2002,"png","private","private","commercial-banking",0
 "BJ","Benin",2002,"ppg","private","private","bonds",0
 "BJ","Benin",2002,"ppg","private","private","commercial-banking",0
-"BJ","Benin",2002,"ppg","private","private","other-private",0
 "BJ","Benin",2003,"png","private","private","bonds",0
 "BJ","Benin",2003,"png","private","private","commercial-banking",0
 "BJ","Benin",2003,"ppg","private","private","bonds",0
@@ -1239,11 +1239,11 @@
 "BJ","Benin",2009,"ppg","private","private","bonds",0
 "BJ","Benin",2009,"ppg","private","private","commercial-banking",0
 "BJ","Benin",2009,"ppg","private","private","other-private",0
+"BJ","Benin",2010,"ppg","private","private","other-private",0
 "BJ","Benin",2010,"png","private","private","bonds",0
 "BJ","Benin",2010,"png","private","private","commercial-banking",0
 "BJ","Benin",2010,"ppg","private","private","bonds",0
 "BJ","Benin",2010,"ppg","private","private","commercial-banking",0
-"BJ","Benin",2010,"ppg","private","private","other-private",0
 "BJ","Benin",2011,"png","private","private","bonds",0
 "BJ","Benin",2011,"png","private","private","commercial-banking",0
 "BJ","Benin",2011,"ppg","private","private","bonds",0
@@ -1254,9 +1254,9 @@
 "BJ","Benin",2012,"ppg","private","private","bonds",0
 "BJ","Benin",2012,"ppg","private","private","commercial-banking",0
 "BJ","Benin",2012,"ppg","private","private","other-private",0
+"BJ","Benin",2013,"ppg","private","private","bonds",0
 "BJ","Benin",2013,"png","private","private","bonds",0
 "BJ","Benin",2013,"png","private","private","commercial-banking",0
-"BJ","Benin",2013,"ppg","private","private","bonds",0
 "BJ","Benin",2013,"ppg","private","private","commercial-banking",0
 "BJ","Benin",2013,"ppg","private","private","other-private",0
 "BT","Bhutan",2000,"png","private","private","bonds",0
@@ -1284,10 +1284,10 @@
 "BT","Bhutan",2004,"ppg","private","private","bonds",0
 "BT","Bhutan",2004,"ppg","private","private","commercial-banking",0
 "BT","Bhutan",2004,"ppg","private","private","other-private",0
+"BT","Bhutan",2005,"ppg","private","private","commercial-banking",0
 "BT","Bhutan",2005,"png","private","private","bonds",0
 "BT","Bhutan",2005,"png","private","private","commercial-banking",0
 "BT","Bhutan",2005,"ppg","private","private","bonds",0
-"BT","Bhutan",2005,"ppg","private","private","commercial-banking",0
 "BT","Bhutan",2005,"ppg","private","private","other-private",0
 "BT","Bhutan",2006,"png","private","private","bonds",0
 "BT","Bhutan",2006,"png","private","private","commercial-banking",0
@@ -1324,10 +1324,10 @@
 "BT","Bhutan",2012,"ppg","private","private","bonds",0
 "BT","Bhutan",2012,"ppg","private","private","commercial-banking",8612000
 "BT","Bhutan",2012,"ppg","private","private","other-private",0
+"BT","Bhutan",2013,"ppg","private","private","commercial-banking",9733951.685
 "BT","Bhutan",2013,"png","private","private","bonds",0
 "BT","Bhutan",2013,"png","private","private","commercial-banking",0
 "BT","Bhutan",2013,"ppg","private","private","bonds",0
-"BT","Bhutan",2013,"ppg","private","private","commercial-banking",9733951.685
 "BT","Bhutan",2013,"ppg","private","private","other-private",0
 "BO","Bolivia ",2000,"png","private","private","bonds",0
 "BO","Bolivia ",2000,"png","private","private","commercial-banking",944309392.8
@@ -1374,10 +1374,10 @@
 "BO","Bolivia ",2008,"ppg","private","private","bonds",0
 "BO","Bolivia ",2008,"ppg","private","private","commercial-banking",90450870.91
 "BO","Bolivia ",2008,"ppg","private","private","other-private",777409.1349
+"BO","Bolivia ",2009,"ppg","private","private","commercial-banking",9486573.489
 "BO","Bolivia ",2009,"png","private","private","bonds",0
 "BO","Bolivia ",2009,"png","private","private","commercial-banking",131340044.4
 "BO","Bolivia ",2009,"ppg","private","private","bonds",0
-"BO","Bolivia ",2009,"ppg","private","private","commercial-banking",9486573.489
 "BO","Bolivia ",2009,"ppg","private","private","other-private",0
 "BO","Bolivia ",2010,"png","private","private","bonds",0
 "BO","Bolivia ",2010,"png","private","private","commercial-banking",37186160.58
@@ -1389,16 +1389,16 @@
 "BO","Bolivia ",2011,"ppg","private","private","bonds",0
 "BO","Bolivia ",2011,"ppg","private","private","commercial-banking",71397654.61
 "BO","Bolivia ",2011,"ppg","private","private","other-private",265454.7474
-"BO","Bolivia ",2012,"png","private","private","bonds",0
 "BO","Bolivia ",2012,"png","private","private","commercial-banking",0
+"BO","Bolivia ",2012,"png","private","private","bonds",0
 "BO","Bolivia ",2012,"ppg","private","private","bonds",5e+08
 "BO","Bolivia ",2012,"ppg","private","private","commercial-banking",66400000
 "BO","Bolivia ",2012,"ppg","private","private","other-private",119000
 "BO","Bolivia ",2013,"png","private","private","bonds",0
+"BO","Bolivia ",2013,"ppg","private","private","other-private",200226.6803
 "BO","Bolivia ",2013,"png","private","private","commercial-banking",212542510.1
 "BO","Bolivia ",2013,"ppg","private","private","bonds",472232736.7
 "BO","Bolivia ",2013,"ppg","private","private","commercial-banking",0
-"BO","Bolivia ",2013,"ppg","private","private","other-private",200226.6803
 "BA","Bosnia and Herzegovina",2000,"png","private","private","bonds",0
 "BA","Bosnia and Herzegovina",2000,"png","private","private","commercial-banking",9858839.71
 "BA","Bosnia and Herzegovina",2000,"ppg","private","private","bonds",0
@@ -1504,10 +1504,10 @@
 "BW","Botswana",2006,"ppg","private","private","bonds",0
 "BW","Botswana",2006,"ppg","private","private","commercial-banking",0
 "BW","Botswana",2006,"ppg","private","private","other-private",0
+"BW","Botswana",2007,"ppg","private","private","commercial-banking",0
 "BW","Botswana",2007,"png","private","private","bonds",0
 "BW","Botswana",2007,"png","private","private","commercial-banking",0
 "BW","Botswana",2007,"ppg","private","private","bonds",0
-"BW","Botswana",2007,"ppg","private","private","commercial-banking",0
 "BW","Botswana",2007,"ppg","private","private","other-private",0
 "BW","Botswana",2008,"png","private","private","bonds",0
 "BW","Botswana",2008,"png","private","private","commercial-banking",0
@@ -1519,8 +1519,8 @@
 "BW","Botswana",2009,"ppg","private","private","bonds",0
 "BW","Botswana",2009,"ppg","private","private","commercial-banking",0
 "BW","Botswana",2009,"ppg","private","private","other-private",0
-"BW","Botswana",2010,"png","private","private","bonds",0
 "BW","Botswana",2010,"png","private","private","commercial-banking",0
+"BW","Botswana",2010,"png","private","private","bonds",0
 "BW","Botswana",2010,"ppg","private","private","bonds",0
 "BW","Botswana",2010,"ppg","private","private","commercial-banking",0
 "BW","Botswana",2010,"ppg","private","private","other-private",0
@@ -1529,15 +1529,15 @@
 "BW","Botswana",2011,"ppg","private","private","bonds",0
 "BW","Botswana",2011,"ppg","private","private","commercial-banking",0
 "BW","Botswana",2011,"ppg","private","private","other-private",0
+"BW","Botswana",2012,"ppg","private","private","other-private",0
 "BW","Botswana",2012,"png","private","private","bonds",79689000
 "BW","Botswana",2012,"png","private","private","commercial-banking",0
 "BW","Botswana",2012,"ppg","private","private","bonds",0
 "BW","Botswana",2012,"ppg","private","private","commercial-banking",0
-"BW","Botswana",2012,"ppg","private","private","other-private",0
+"BW","Botswana",2013,"ppg","private","private","commercial-banking",0
 "BW","Botswana",2013,"png","private","private","bonds",0
 "BW","Botswana",2013,"png","private","private","commercial-banking",0
 "BW","Botswana",2013,"ppg","private","private","bonds",0
-"BW","Botswana",2013,"ppg","private","private","commercial-banking",0
 "BW","Botswana",2013,"ppg","private","private","other-private",0
 "BR","Brazil",2000,"png","private","private","bonds",6796748681
 "BR","Brazil",2000,"png","private","private","commercial-banking",50702451520
@@ -1584,9 +1584,9 @@
 "BR","Brazil",2008,"ppg","private","private","bonds",12530157345
 "BR","Brazil",2008,"ppg","private","private","commercial-banking",2541458264
 "BR","Brazil",2008,"ppg","private","private","other-private",9978243.065
+"BR","Brazil",2009,"ppg","private","private","bonds",6330942686
 "BR","Brazil",2009,"png","private","private","bonds",21121762708
 "BR","Brazil",2009,"png","private","private","commercial-banking",33426788979
-"BR","Brazil",2009,"ppg","private","private","bonds",6330942686
 "BR","Brazil",2009,"ppg","private","private","commercial-banking",2145621027
 "BR","Brazil",2009,"ppg","private","private","other-private",72285710.5
 "BR","Brazil",2010,"png","private","private","bonds",32727232834
@@ -1600,14 +1600,14 @@
 "BR","Brazil",2011,"ppg","private","private","commercial-banking",6063348757
 "BR","Brazil",2011,"ppg","private","private","other-private",26861377.88
 "BR","Brazil",2012,"png","private","private","bonds",8821764000
+"BR","Brazil",2012,"ppg","private","private","other-private",10219320000
 "BR","Brazil",2012,"png","private","private","commercial-banking",42829759000
 "BR","Brazil",2012,"ppg","private","private","bonds",6587414000
 "BR","Brazil",2012,"ppg","private","private","commercial-banking",6195386000
-"BR","Brazil",2012,"ppg","private","private","other-private",10219320000
+"BR","Brazil",2013,"ppg","private","private","commercial-banking",22986719518
 "BR","Brazil",2013,"png","private","private","bonds",4902870830
 "BR","Brazil",2013,"png","private","private","commercial-banking",67813240972
 "BR","Brazil",2013,"ppg","private","private","bonds",8902626672
-"BR","Brazil",2013,"ppg","private","private","commercial-banking",22986719518
 "BR","Brazil",2013,"ppg","private","private","other-private",305658.4215
 "BN","Brunei",2000,"png","private","private","bonds",
 "BN","Brunei",2000,"png","private","private","commercial-banking",
@@ -1675,10 +1675,10 @@
 "BN","Brunei",2012,"ppg","private","private","commercial-banking",
 "BN","Brunei",2012,"ppg","private","private","other-private",
 "BN","Brunei",2013,"png","private","private","bonds",
+"BN","Brunei",2013,"ppg","private","private","other-private",
 "BN","Brunei",2013,"png","private","private","commercial-banking",
 "BN","Brunei",2013,"ppg","private","private","bonds",
 "BN","Brunei",2013,"ppg","private","private","commercial-banking",
-"BN","Brunei",2013,"ppg","private","private","other-private",
 "BG","Bulgaria",2000,"png","private","private","bonds",0
 "BG","Bulgaria",2000,"png","private","private","commercial-banking",813256375.7
 "BG","Bulgaria",2000,"ppg","private","private","bonds",0
@@ -1819,10 +1819,10 @@
 "BF","Burkina Faso",2013,"ppg","private","private","bonds",0
 "BF","Burkina Faso",2013,"ppg","private","private","commercial-banking",0
 "BF","Burkina Faso",2013,"ppg","private","private","other-private",0
+"BI","Burundi",2000,"ppg","private","private","commercial-banking",0
 "BI","Burundi",2000,"png","private","private","bonds",0
 "BI","Burundi",2000,"png","private","private","commercial-banking",0
 "BI","Burundi",2000,"ppg","private","private","bonds",0
-"BI","Burundi",2000,"ppg","private","private","commercial-banking",0
 "BI","Burundi",2000,"ppg","private","private","other-private",5632654.731
 "BI","Burundi",2001,"png","private","private","bonds",0
 "BI","Burundi",2001,"png","private","private","commercial-banking",0
@@ -1859,10 +1859,10 @@
 "BI","Burundi",2007,"ppg","private","private","bonds",0
 "BI","Burundi",2007,"ppg","private","private","commercial-banking",0
 "BI","Burundi",2007,"ppg","private","private","other-private",0
+"BI","Burundi",2008,"ppg","private","private","commercial-banking",0
 "BI","Burundi",2008,"png","private","private","bonds",0
 "BI","Burundi",2008,"png","private","private","commercial-banking",0
 "BI","Burundi",2008,"ppg","private","private","bonds",0
-"BI","Burundi",2008,"ppg","private","private","commercial-banking",0
 "BI","Burundi",2008,"ppg","private","private","other-private",0
 "BI","Burundi",2009,"png","private","private","bonds",0
 "BI","Burundi",2009,"png","private","private","commercial-banking",0
@@ -1874,8 +1874,8 @@
 "BI","Burundi",2010,"ppg","private","private","bonds",0
 "BI","Burundi",2010,"ppg","private","private","commercial-banking",0
 "BI","Burundi",2010,"ppg","private","private","other-private",0
-"BI","Burundi",2011,"png","private","private","bonds",0
 "BI","Burundi",2011,"png","private","private","commercial-banking",0
+"BI","Burundi",2011,"png","private","private","bonds",0
 "BI","Burundi",2011,"ppg","private","private","bonds",0
 "BI","Burundi",2011,"ppg","private","private","commercial-banking",0
 "BI","Burundi",2011,"ppg","private","private","other-private",0
@@ -1884,11 +1884,11 @@
 "BI","Burundi",2012,"ppg","private","private","bonds",0
 "BI","Burundi",2012,"ppg","private","private","commercial-banking",0
 "BI","Burundi",2012,"ppg","private","private","other-private",0
+"BI","Burundi",2013,"ppg","private","private","other-private",0
 "BI","Burundi",2013,"png","private","private","bonds",0
 "BI","Burundi",2013,"png","private","private","commercial-banking",0
 "BI","Burundi",2013,"ppg","private","private","bonds",0
 "BI","Burundi",2013,"ppg","private","private","commercial-banking",0
-"BI","Burundi",2013,"ppg","private","private","other-private",0
 "CI","Côte d'Ivoire",2000,"png","private","private","bonds",0
 "CI","Côte d'Ivoire",2000,"png","private","private","commercial-banking",0
 "CI","Côte d'Ivoire",2000,"ppg","private","private","bonds",0
@@ -2064,9 +2064,9 @@
 "CM","Cameroon",2006,"ppg","private","private","bonds",0
 "CM","Cameroon",2006,"ppg","private","private","commercial-banking",1708516.342
 "CM","Cameroon",2006,"ppg","private","private","other-private",0
+"CM","Cameroon",2007,"ppg","private","private","bonds",0
 "CM","Cameroon",2007,"png","private","private","bonds",0
 "CM","Cameroon",2007,"png","private","private","commercial-banking",89116282.44
-"CM","Cameroon",2007,"ppg","private","private","bonds",0
 "CM","Cameroon",2007,"ppg","private","private","commercial-banking",0
 "CM","Cameroon",2007,"ppg","private","private","other-private",0
 "CM","Cameroon",2008,"png","private","private","bonds",0
@@ -2429,10 +2429,10 @@
 "CL","Chile",2009,"ppg","private","private","bonds",
 "CL","Chile",2009,"ppg","private","private","commercial-banking",
 "CL","Chile",2009,"ppg","private","private","other-private",
+"CL","Chile",2010,"ppg","private","private","commercial-banking",
 "CL","Chile",2010,"png","private","private","bonds",
 "CL","Chile",2010,"png","private","private","commercial-banking",
 "CL","Chile",2010,"ppg","private","private","bonds",
-"CL","Chile",2010,"ppg","private","private","commercial-banking",
 "CL","Chile",2010,"ppg","private","private","other-private",
 "CL","Chile",2011,"png","private","private","bonds",
 "CL","Chile",2011,"png","private","private","commercial-banking",
@@ -2444,8 +2444,8 @@
 "CL","Chile",2012,"ppg","private","private","bonds",
 "CL","Chile",2012,"ppg","private","private","commercial-banking",
 "CL","Chile",2012,"ppg","private","private","other-private",
-"CL","Chile",2013,"png","private","private","bonds",
 "CL","Chile",2013,"png","private","private","commercial-banking",
+"CL","Chile",2013,"png","private","private","bonds",
 "CL","Chile",2013,"ppg","private","private","bonds",
 "CL","Chile",2013,"ppg","private","private","commercial-banking",
 "CL","Chile",2013,"ppg","private","private","other-private",
@@ -2694,10 +2694,10 @@
 "CG","Congo",2006,"ppg","private","private","bonds",0
 "CG","Congo",2006,"ppg","private","private","commercial-banking",0
 "CG","Congo",2006,"ppg","private","private","other-private",0
+"CG","Congo",2007,"ppg","private","private","commercial-banking",0
 "CG","Congo",2007,"png","private","private","bonds",0
 "CG","Congo",2007,"png","private","private","commercial-banking",0
 "CG","Congo",2007,"ppg","private","private","bonds",0
-"CG","Congo",2007,"ppg","private","private","commercial-banking",0
 "CG","Congo",2007,"ppg","private","private","other-private",0
 "CG","Congo",2008,"png","private","private","bonds",0
 "CG","Congo",2008,"png","private","private","commercial-banking",0
@@ -2709,8 +2709,8 @@
 "CG","Congo",2009,"ppg","private","private","bonds",0
 "CG","Congo",2009,"ppg","private","private","commercial-banking",0
 "CG","Congo",2009,"ppg","private","private","other-private",0
-"CG","Congo",2010,"png","private","private","bonds",0
 "CG","Congo",2010,"png","private","private","commercial-banking",0
+"CG","Congo",2010,"png","private","private","bonds",0
 "CG","Congo",2010,"ppg","private","private","bonds",0
 "CG","Congo",2010,"ppg","private","private","commercial-banking",0
 "CG","Congo",2010,"ppg","private","private","other-private",2076035.933
@@ -2719,15 +2719,15 @@
 "CG","Congo",2011,"ppg","private","private","bonds",0
 "CG","Congo",2011,"ppg","private","private","commercial-banking",101854715.9
 "CG","Congo",2011,"ppg","private","private","other-private",0
+"CG","Congo",2012,"ppg","private","private","other-private",0
 "CG","Congo",2012,"png","private","private","bonds",0
 "CG","Congo",2012,"png","private","private","commercial-banking",0
 "CG","Congo",2012,"ppg","private","private","bonds",0
 "CG","Congo",2012,"ppg","private","private","commercial-banking",221120000
-"CG","Congo",2012,"ppg","private","private","other-private",0
+"CG","Congo",2013,"ppg","private","private","commercial-banking",115311354.9
 "CG","Congo",2013,"png","private","private","bonds",0
 "CG","Congo",2013,"png","private","private","commercial-banking",0
 "CG","Congo",2013,"ppg","private","private","bonds",0
-"CG","Congo",2013,"ppg","private","private","commercial-banking",115311354.9
 "CG","Congo",2013,"ppg","private","private","other-private",99029440.21
 "CR","Costa Rica",2000,"png","private","private","bonds",0
 "CR","Costa Rica",2000,"png","private","private","commercial-banking",15223413.11
@@ -3495,10 +3495,10 @@
 "EG","Egypt",2012,"ppg","private","private","commercial-banking",54765000
 "EG","Egypt",2012,"ppg","private","private","other-private",0
 "EG","Egypt",2013,"png","private","private","bonds",0
+"EG","Egypt",2013,"ppg","private","private","other-private",0
 "EG","Egypt",2013,"png","private","private","commercial-banking",17054318.72
 "EG","Egypt",2013,"ppg","private","private","bonds",3058097410
 "EG","Egypt",2013,"ppg","private","private","commercial-banking",24925466.86
-"EG","Egypt",2013,"ppg","private","private","other-private",0
 "SV","El Salvador",2000,"png","private","private","bonds",0
 "SV","El Salvador",2000,"png","private","private","commercial-banking",73245365.68
 "SV","El Salvador",2000,"ppg","private","private","bonds",45940880.25
@@ -3599,9 +3599,9 @@
 "GQ","Equatorial Guinea",2005,"ppg","private","private","bonds",
 "GQ","Equatorial Guinea",2005,"ppg","private","private","commercial-banking",
 "GQ","Equatorial Guinea",2005,"ppg","private","private","other-private",
+"GQ","Equatorial Guinea",2006,"ppg","private","private","bonds",
 "GQ","Equatorial Guinea",2006,"png","private","private","bonds",
 "GQ","Equatorial Guinea",2006,"png","private","private","commercial-banking",
-"GQ","Equatorial Guinea",2006,"ppg","private","private","bonds",
 "GQ","Equatorial Guinea",2006,"ppg","private","private","commercial-banking",
 "GQ","Equatorial Guinea",2006,"ppg","private","private","other-private",
 "GQ","Equatorial Guinea",2007,"png","private","private","bonds",
@@ -4179,10 +4179,10 @@
 "GM","Gambia",2009,"ppg","private","private","bonds",0
 "GM","Gambia",2009,"ppg","private","private","commercial-banking",738026.9679
 "GM","Gambia",2009,"ppg","private","private","other-private",0
+"GM","Gambia",2010,"ppg","private","private","commercial-banking",5996281.568
 "GM","Gambia",2010,"png","private","private","bonds",0
 "GM","Gambia",2010,"png","private","private","commercial-banking",0
 "GM","Gambia",2010,"ppg","private","private","bonds",0
-"GM","Gambia",2010,"ppg","private","private","commercial-banking",5996281.568
 "GM","Gambia",2010,"ppg","private","private","other-private",0
 "GM","Gambia",2011,"png","private","private","bonds",0
 "GM","Gambia",2011,"png","private","private","commercial-banking",0
@@ -4194,8 +4194,8 @@
 "GM","Gambia",2012,"ppg","private","private","bonds",0
 "GM","Gambia",2012,"ppg","private","private","commercial-banking",7331000
 "GM","Gambia",2012,"ppg","private","private","other-private",0
-"GM","Gambia",2013,"png","private","private","bonds",0
 "GM","Gambia",2013,"png","private","private","commercial-banking",0
+"GM","Gambia",2013,"png","private","private","bonds",0
 "GM","Gambia",2013,"ppg","private","private","bonds",0
 "GM","Gambia",2013,"ppg","private","private","commercial-banking",3511487.858
 "GM","Gambia",2013,"ppg","private","private","other-private",0
@@ -4379,10 +4379,10 @@
 "GH","Ghana",2007,"ppg","private","private","bonds",829809501.3
 "GH","Ghana",2007,"ppg","private","private","commercial-banking",124096351.3
 "GH","Ghana",2007,"ppg","private","private","other-private",15111384.23
+"GH","Ghana",2008,"ppg","private","private","commercial-banking",111664772.6
 "GH","Ghana",2008,"png","private","private","bonds",0
 "GH","Ghana",2008,"png","private","private","commercial-banking",0
 "GH","Ghana",2008,"ppg","private","private","bonds",0
-"GH","Ghana",2008,"ppg","private","private","commercial-banking",111664772.6
 "GH","Ghana",2008,"ppg","private","private","other-private",50832245.78
 "GH","Ghana",2009,"png","private","private","bonds",0
 "GH","Ghana",2009,"png","private","private","commercial-banking",0
@@ -4394,8 +4394,8 @@
 "GH","Ghana",2010,"ppg","private","private","bonds",0
 "GH","Ghana",2010,"ppg","private","private","commercial-banking",294804821.2
 "GH","Ghana",2010,"ppg","private","private","other-private",14963249.03
-"GH","Ghana",2011,"png","private","private","bonds",0
 "GH","Ghana",2011,"png","private","private","commercial-banking",0
+"GH","Ghana",2011,"png","private","private","bonds",0
 "GH","Ghana",2011,"ppg","private","private","bonds",0
 "GH","Ghana",2011,"ppg","private","private","commercial-banking",497828637.8
 "GH","Ghana",2011,"ppg","private","private","other-private",6084230.102
@@ -4404,11 +4404,11 @@
 "GH","Ghana",2012,"ppg","private","private","bonds",0
 "GH","Ghana",2012,"ppg","private","private","commercial-banking",275057000
 "GH","Ghana",2012,"ppg","private","private","other-private",197665000
+"GH","Ghana",2013,"ppg","private","private","other-private",338930754.2
 "GH","Ghana",2013,"png","private","private","bonds",0
 "GH","Ghana",2013,"png","private","private","commercial-banking",0
 "GH","Ghana",2013,"ppg","private","private","bonds",934953019.9
 "GH","Ghana",2013,"ppg","private","private","commercial-banking",508914562.7
-"GH","Ghana",2013,"ppg","private","private","other-private",338930754.2
 "GR","Greece",2000,"png","private","private","bonds",
 "GR","Greece",2000,"png","private","private","commercial-banking",
 "GR","Greece",2000,"ppg","private","private","bonds",
@@ -4629,8 +4629,8 @@
 "GN","Guinea",2001,"ppg","private","private","bonds",0
 "GN","Guinea",2001,"ppg","private","private","commercial-banking",0
 "GN","Guinea",2001,"ppg","private","private","other-private",0
-"GN","Guinea",2002,"png","private","private","bonds",0
 "GN","Guinea",2002,"png","private","private","commercial-banking",0
+"GN","Guinea",2002,"png","private","private","bonds",0
 "GN","Guinea",2002,"ppg","private","private","bonds",0
 "GN","Guinea",2002,"ppg","private","private","commercial-banking",0
 "GN","Guinea",2002,"ppg","private","private","other-private",0
@@ -4669,8 +4669,8 @@
 "GN","Guinea",2009,"ppg","private","private","bonds",0
 "GN","Guinea",2009,"ppg","private","private","commercial-banking",0
 "GN","Guinea",2009,"ppg","private","private","other-private",0
-"GN","Guinea",2010,"png","private","private","bonds",0
 "GN","Guinea",2010,"png","private","private","commercial-banking",0
+"GN","Guinea",2010,"png","private","private","bonds",0
 "GN","Guinea",2010,"ppg","private","private","bonds",0
 "GN","Guinea",2010,"ppg","private","private","commercial-banking",0
 "GN","Guinea",2010,"ppg","private","private","other-private",0
@@ -4679,15 +4679,15 @@
 "GN","Guinea",2011,"ppg","private","private","bonds",0
 "GN","Guinea",2011,"ppg","private","private","commercial-banking",0
 "GN","Guinea",2011,"ppg","private","private","other-private",0
+"GN","Guinea",2012,"ppg","private","private","other-private",0
 "GN","Guinea",2012,"png","private","private","bonds",0
 "GN","Guinea",2012,"png","private","private","commercial-banking",0
 "GN","Guinea",2012,"ppg","private","private","bonds",0
 "GN","Guinea",2012,"ppg","private","private","commercial-banking",0
-"GN","Guinea",2012,"ppg","private","private","other-private",0
+"GN","Guinea",2013,"ppg","private","private","commercial-banking",0
 "GN","Guinea",2013,"png","private","private","bonds",0
 "GN","Guinea",2013,"png","private","private","commercial-banking",0
 "GN","Guinea",2013,"ppg","private","private","bonds",0
-"GN","Guinea",2013,"ppg","private","private","commercial-banking",0
 "GN","Guinea",2013,"ppg","private","private","other-private",0
 "GW","Guinea-Bissau",2000,"png","private","private","bonds",0
 "GW","Guinea-Bissau",2000,"png","private","private","commercial-banking",0
@@ -5244,9 +5244,9 @@
 "IN","India",2012,"ppg","private","private","bonds",7478361000
 "IN","India",2012,"ppg","private","private","commercial-banking",4619241000
 "IN","India",2012,"ppg","private","private","other-private",1428000
+"IN","India",2013,"ppg","private","private","bonds",2126689302
 "IN","India",2013,"png","private","private","bonds",1272606336
 "IN","India",2013,"png","private","private","commercial-banking",57184731153
-"IN","India",2013,"ppg","private","private","bonds",2126689302
 "IN","India",2013,"ppg","private","private","commercial-banking",5605969933
 "IN","India",2013,"ppg","private","private","other-private",0
 "ID","Indonesia",2000,"png","private","private","bonds",988159953.9
@@ -5359,11 +5359,11 @@
 "IR","Iran",2007,"ppg","private","private","bonds",0
 "IR","Iran",2007,"ppg","private","private","commercial-banking",795749296.5
 "IR","Iran",2007,"ppg","private","private","other-private",183127055.1
+"IR","Iran",2008,"ppg","private","private","other-private",83681959.1
 "IR","Iran",2008,"png","private","private","bonds",0
 "IR","Iran",2008,"png","private","private","commercial-banking",0
 "IR","Iran",2008,"ppg","private","private","bonds",0
 "IR","Iran",2008,"ppg","private","private","commercial-banking",452030964.8
-"IR","Iran",2008,"ppg","private","private","other-private",83681959.1
 "IR","Iran",2009,"png","private","private","bonds",0
 "IR","Iran",2009,"png","private","private","commercial-banking",0
 "IR","Iran",2009,"ppg","private","private","bonds",0
@@ -5374,21 +5374,21 @@
 "IR","Iran",2010,"ppg","private","private","bonds",0
 "IR","Iran",2010,"ppg","private","private","commercial-banking",131123174.4
 "IR","Iran",2010,"ppg","private","private","other-private",14091451.54
+"IR","Iran",2011,"ppg","private","private","bonds",0
 "IR","Iran",2011,"png","private","private","bonds",0
 "IR","Iran",2011,"png","private","private","commercial-banking",0
-"IR","Iran",2011,"ppg","private","private","bonds",0
 "IR","Iran",2011,"ppg","private","private","commercial-banking",136163657.4
 "IR","Iran",2011,"ppg","private","private","other-private",9592083.591
-"IR","Iran",2012,"png","private","private","bonds",0
 "IR","Iran",2012,"png","private","private","commercial-banking",0
+"IR","Iran",2012,"png","private","private","bonds",0
 "IR","Iran",2012,"ppg","private","private","bonds",0
 "IR","Iran",2012,"ppg","private","private","commercial-banking",2684000
 "IR","Iran",2012,"ppg","private","private","other-private",0
 "IR","Iran",2013,"png","private","private","bonds",0
+"IR","Iran",2013,"ppg","private","private","other-private",0
 "IR","Iran",2013,"png","private","private","commercial-banking",0
 "IR","Iran",2013,"ppg","private","private","bonds",0
 "IR","Iran",2013,"ppg","private","private","commercial-banking",4255009.247
-"IR","Iran",2013,"ppg","private","private","other-private",0
 "IQ","Iraq",2000,"png","private","private","bonds",
 "IQ","Iraq",2000,"png","private","private","commercial-banking",
 "IQ","Iraq",2000,"ppg","private","private","bonds",
@@ -5419,10 +5419,10 @@
 "IQ","Iraq",2005,"ppg","private","private","bonds",
 "IQ","Iraq",2005,"ppg","private","private","commercial-banking",
 "IQ","Iraq",2005,"ppg","private","private","other-private",
+"IQ","Iraq",2006,"ppg","private","private","commercial-banking",
 "IQ","Iraq",2006,"png","private","private","bonds",
 "IQ","Iraq",2006,"png","private","private","commercial-banking",
 "IQ","Iraq",2006,"ppg","private","private","bonds",
-"IQ","Iraq",2006,"ppg","private","private","commercial-banking",
 "IQ","Iraq",2006,"ppg","private","private","other-private",
 "IQ","Iraq",2007,"png","private","private","bonds",
 "IQ","Iraq",2007,"png","private","private","commercial-banking",
@@ -5434,8 +5434,8 @@
 "IQ","Iraq",2008,"ppg","private","private","bonds",
 "IQ","Iraq",2008,"ppg","private","private","commercial-banking",
 "IQ","Iraq",2008,"ppg","private","private","other-private",
-"IQ","Iraq",2009,"png","private","private","bonds",
 "IQ","Iraq",2009,"png","private","private","commercial-banking",
+"IQ","Iraq",2009,"png","private","private","bonds",
 "IQ","Iraq",2009,"ppg","private","private","bonds",
 "IQ","Iraq",2009,"ppg","private","private","commercial-banking",
 "IQ","Iraq",2009,"ppg","private","private","other-private",
@@ -5444,19 +5444,19 @@
 "IQ","Iraq",2010,"ppg","private","private","bonds",
 "IQ","Iraq",2010,"ppg","private","private","commercial-banking",
 "IQ","Iraq",2010,"ppg","private","private","other-private",
+"IQ","Iraq",2011,"ppg","private","private","other-private",
 "IQ","Iraq",2011,"png","private","private","bonds",
 "IQ","Iraq",2011,"png","private","private","commercial-banking",
 "IQ","Iraq",2011,"ppg","private","private","bonds",
 "IQ","Iraq",2011,"ppg","private","private","commercial-banking",
-"IQ","Iraq",2011,"ppg","private","private","other-private",
+"IQ","Iraq",2012,"ppg","private","private","commercial-banking",
 "IQ","Iraq",2012,"png","private","private","bonds",
 "IQ","Iraq",2012,"png","private","private","commercial-banking",
 "IQ","Iraq",2012,"ppg","private","private","bonds",
-"IQ","Iraq",2012,"ppg","private","private","commercial-banking",
 "IQ","Iraq",2012,"ppg","private","private","other-private",
+"IQ","Iraq",2013,"ppg","private","private","bonds",
 "IQ","Iraq",2013,"png","private","private","bonds",
 "IQ","Iraq",2013,"png","private","private","commercial-banking",
-"IQ","Iraq",2013,"ppg","private","private","bonds",
 "IQ","Iraq",2013,"ppg","private","private","commercial-banking",
 "IQ","Iraq",2013,"ppg","private","private","other-private",
 "IE","Ireland",2000,"png","private","private","bonds",
@@ -6144,21 +6144,21 @@
 "XK","Kosovo",2010,"ppg","private","private","bonds",
 "XK","Kosovo",2010,"ppg","private","private","commercial-banking",
 "XK","Kosovo",2010,"ppg","private","private","other-private",
+"XK","Kosovo",2011,"ppg","private","private","bonds",
 "XK","Kosovo",2011,"png","private","private","bonds",
 "XK","Kosovo",2011,"png","private","private","commercial-banking",
-"XK","Kosovo",2011,"ppg","private","private","bonds",
 "XK","Kosovo",2011,"ppg","private","private","commercial-banking",
 "XK","Kosovo",2011,"ppg","private","private","other-private",
-"XK","Kosovo",2012,"png","private","private","bonds",
 "XK","Kosovo",2012,"png","private","private","commercial-banking",
+"XK","Kosovo",2012,"png","private","private","bonds",
 "XK","Kosovo",2012,"ppg","private","private","bonds",
 "XK","Kosovo",2012,"ppg","private","private","commercial-banking",
 "XK","Kosovo",2012,"ppg","private","private","other-private",
 "XK","Kosovo",2013,"png","private","private","bonds",
+"XK","Kosovo",2013,"ppg","private","private","other-private",
 "XK","Kosovo",2013,"png","private","private","commercial-banking",
 "XK","Kosovo",2013,"ppg","private","private","bonds",
 "XK","Kosovo",2013,"ppg","private","private","commercial-banking",
-"XK","Kosovo",2013,"ppg","private","private","other-private",
 "KW","Kuwait",2000,"png","private","private","bonds",
 "KW","Kuwait",2000,"png","private","private","commercial-banking",
 "KW","Kuwait",2000,"ppg","private","private","bonds",
@@ -7734,9 +7734,9 @@
 "MD","Moldova",2006,"ppg","private","private","bonds",0
 "MD","Moldova",2006,"ppg","private","private","commercial-banking",0
 "MD","Moldova",2006,"ppg","private","private","other-private",14921399.03
+"MD","Moldova",2007,"ppg","private","private","bonds",0
 "MD","Moldova",2007,"png","private","private","bonds",0
 "MD","Moldova",2007,"png","private","private","commercial-banking",777943168.4
-"MD","Moldova",2007,"ppg","private","private","bonds",0
 "MD","Moldova",2007,"ppg","private","private","commercial-banking",0
 "MD","Moldova",2007,"ppg","private","private","other-private",0
 "MD","Moldova",2008,"png","private","private","bonds",0
@@ -7759,14 +7759,14 @@
 "MD","Moldova",2011,"ppg","private","private","bonds",0
 "MD","Moldova",2011,"ppg","private","private","commercial-banking",4220372.635
 "MD","Moldova",2011,"ppg","private","private","other-private",10022470.26
+"MD","Moldova",2012,"ppg","private","private","commercial-banking",16898000
 "MD","Moldova",2012,"png","private","private","bonds",0
 "MD","Moldova",2012,"png","private","private","commercial-banking",505200000
 "MD","Moldova",2012,"ppg","private","private","bonds",0
-"MD","Moldova",2012,"ppg","private","private","commercial-banking",16898000
 "MD","Moldova",2012,"ppg","private","private","other-private",4590000
+"MD","Moldova",2013,"ppg","private","private","bonds",0
 "MD","Moldova",2013,"png","private","private","bonds",0
 "MD","Moldova",2013,"png","private","private","commercial-banking",570679091
-"MD","Moldova",2013,"ppg","private","private","bonds",0
 "MD","Moldova",2013,"ppg","private","private","commercial-banking",6673166.49
 "MD","Moldova",2013,"ppg","private","private","other-private",8371302.327
 "MN","Mongolia",2000,"png","private","private","bonds",0
@@ -7869,9 +7869,9 @@
 "ME","Montenegro",2005,"ppg","private","private","bonds",0
 "ME","Montenegro",2005,"ppg","private","private","commercial-banking",0
 "ME","Montenegro",2005,"ppg","private","private","other-private",0
+"ME","Montenegro",2006,"ppg","private","private","bonds",0
 "ME","Montenegro",2006,"png","private","private","bonds",0
 "ME","Montenegro",2006,"png","private","private","commercial-banking",2947994.941
-"ME","Montenegro",2006,"ppg","private","private","bonds",0
 "ME","Montenegro",2006,"ppg","private","private","commercial-banking",4188500.777
 "ME","Montenegro",2006,"ppg","private","private","other-private",0
 "ME","Montenegro",2007,"png","private","private","bonds",0
@@ -9874,8 +9874,8 @@
 "WS","Samoa",2000,"ppg","private","private","bonds",0
 "WS","Samoa",2000,"ppg","private","private","commercial-banking",0
 "WS","Samoa",2000,"ppg","private","private","other-private",0
-"WS","Samoa",2001,"png","private","private","bonds",0
 "WS","Samoa",2001,"png","private","private","commercial-banking",0
+"WS","Samoa",2001,"png","private","private","bonds",0
 "WS","Samoa",2001,"ppg","private","private","bonds",0
 "WS","Samoa",2001,"ppg","private","private","commercial-banking",0
 "WS","Samoa",2001,"ppg","private","private","other-private",0
@@ -9914,8 +9914,8 @@
 "WS","Samoa",2008,"ppg","private","private","bonds",0
 "WS","Samoa",2008,"ppg","private","private","commercial-banking",0
 "WS","Samoa",2008,"ppg","private","private","other-private",0
-"WS","Samoa",2009,"png","private","private","bonds",0
 "WS","Samoa",2009,"png","private","private","commercial-banking",0
+"WS","Samoa",2009,"png","private","private","bonds",0
 "WS","Samoa",2009,"ppg","private","private","bonds",0
 "WS","Samoa",2009,"ppg","private","private","commercial-banking",0
 "WS","Samoa",2009,"ppg","private","private","other-private",0
@@ -9924,19 +9924,19 @@
 "WS","Samoa",2010,"ppg","private","private","bonds",0
 "WS","Samoa",2010,"ppg","private","private","commercial-banking",0
 "WS","Samoa",2010,"ppg","private","private","other-private",0
+"WS","Samoa",2011,"ppg","private","private","other-private",0
 "WS","Samoa",2011,"png","private","private","bonds",0
 "WS","Samoa",2011,"png","private","private","commercial-banking",0
 "WS","Samoa",2011,"ppg","private","private","bonds",0
 "WS","Samoa",2011,"ppg","private","private","commercial-banking",0
-"WS","Samoa",2011,"ppg","private","private","other-private",0
+"WS","Samoa",2012,"ppg","private","private","commercial-banking",0
 "WS","Samoa",2012,"png","private","private","bonds",0
 "WS","Samoa",2012,"png","private","private","commercial-banking",0
 "WS","Samoa",2012,"ppg","private","private","bonds",0
-"WS","Samoa",2012,"ppg","private","private","commercial-banking",0
 "WS","Samoa",2012,"ppg","private","private","other-private",0
+"WS","Samoa",2013,"ppg","private","private","bonds",0
 "WS","Samoa",2013,"png","private","private","bonds",0
 "WS","Samoa",2013,"png","private","private","commercial-banking",0
-"WS","Samoa",2013,"ppg","private","private","bonds",0
 "WS","Samoa",2013,"ppg","private","private","commercial-banking",0
 "WS","Samoa",2013,"ppg","private","private","other-private",0
 "SM","San Marino",2000,"png","private","private","bonds",
@@ -11329,13 +11329,13 @@
 "SE","Sweden",2011,"ppg","private","private","bonds",
 "SE","Sweden",2011,"ppg","private","private","commercial-banking",
 "SE","Sweden",2011,"ppg","private","private","other-private",
+"SE","Sweden",2012,"ppg","private","private","bonds",
 "SE","Sweden",2012,"png","private","private","bonds",
 "SE","Sweden",2012,"png","private","private","commercial-banking",
-"SE","Sweden",2012,"ppg","private","private","bonds",
 "SE","Sweden",2012,"ppg","private","private","commercial-banking",
 "SE","Sweden",2012,"ppg","private","private","other-private",
-"SE","Sweden",2013,"png","private","private","bonds",
 "SE","Sweden",2013,"png","private","private","commercial-banking",
+"SE","Sweden",2013,"png","private","private","bonds",
 "SE","Sweden",2013,"ppg","private","private","bonds",
 "SE","Sweden",2013,"ppg","private","private","commercial-banking",
 "SE","Sweden",2013,"ppg","private","private","other-private",
@@ -11685,10 +11685,10 @@
 "TZ","Tanzania",2012,"ppg","private","private","commercial-banking",2450000
 "TZ","Tanzania",2012,"ppg","private","private","other-private",0
 "TZ","Tanzania",2013,"png","private","private","bonds",0
+"TZ","Tanzania",2013,"ppg","private","private","other-private",0
 "TZ","Tanzania",2013,"png","private","private","commercial-banking",140200904.9
 "TZ","Tanzania",2013,"ppg","private","private","bonds",548581229.7
 "TZ","Tanzania",2013,"ppg","private","private","commercial-banking",202374358.6
-"TZ","Tanzania",2013,"ppg","private","private","other-private",0
 "TH","Thailand",2000,"png","private","private","bonds",0
 "TH","Thailand",2000,"png","private","private","commercial-banking",1831531104
 "TH","Thailand",2000,"ppg","private","private","bonds",0
@@ -12434,8 +12434,8 @@
 "UG","Uganda",2008,"ppg","private","private","bonds",0
 "UG","Uganda",2008,"ppg","private","private","commercial-banking",0
 "UG","Uganda",2008,"ppg","private","private","other-private",0
-"UG","Uganda",2009,"png","private","private","bonds",0
 "UG","Uganda",2009,"png","private","private","commercial-banking",0
+"UG","Uganda",2009,"png","private","private","bonds",0
 "UG","Uganda",2009,"ppg","private","private","bonds",0
 "UG","Uganda",2009,"ppg","private","private","commercial-banking",0
 "UG","Uganda",2009,"ppg","private","private","other-private",0
@@ -12444,19 +12444,19 @@
 "UG","Uganda",2010,"ppg","private","private","bonds",0
 "UG","Uganda",2010,"ppg","private","private","commercial-banking",0
 "UG","Uganda",2010,"ppg","private","private","other-private",0
+"UG","Uganda",2011,"ppg","private","private","other-private",0
 "UG","Uganda",2011,"png","private","private","bonds",0
 "UG","Uganda",2011,"png","private","private","commercial-banking",0
 "UG","Uganda",2011,"ppg","private","private","bonds",0
 "UG","Uganda",2011,"ppg","private","private","commercial-banking",0
-"UG","Uganda",2011,"ppg","private","private","other-private",0
+"UG","Uganda",2012,"ppg","private","private","commercial-banking",0
 "UG","Uganda",2012,"png","private","private","bonds",0
 "UG","Uganda",2012,"png","private","private","commercial-banking",0
 "UG","Uganda",2012,"ppg","private","private","bonds",0
-"UG","Uganda",2012,"ppg","private","private","commercial-banking",0
 "UG","Uganda",2012,"ppg","private","private","other-private",0
+"UG","Uganda",2013,"ppg","private","private","bonds",0
 "UG","Uganda",2013,"png","private","private","bonds",0
 "UG","Uganda",2013,"png","private","private","commercial-banking",0
-"UG","Uganda",2013,"ppg","private","private","bonds",0
 "UG","Uganda",2013,"ppg","private","private","commercial-banking",0
 "UG","Uganda",2013,"ppg","private","private","other-private",0
 "UA","Ukraine",2000,"png","private","private","bonds",0
@@ -12504,10 +12504,10 @@
 "UA","Ukraine",2008,"ppg","private","private","bonds",0
 "UA","Ukraine",2008,"ppg","private","private","commercial-banking",4626200.681
 "UA","Ukraine",2008,"ppg","private","private","other-private",0
+"UA","Ukraine",2009,"ppg","private","private","commercial-banking",0
 "UA","Ukraine",2009,"png","private","private","bonds",1160086165
 "UA","Ukraine",2009,"png","private","private","commercial-banking",21770812144
 "UA","Ukraine",2009,"ppg","private","private","bonds",0
-"UA","Ukraine",2009,"ppg","private","private","commercial-banking",0
 "UA","Ukraine",2009,"ppg","private","private","other-private",0
 "UA","Ukraine",2010,"png","private","private","bonds",2122823989
 "UA","Ukraine",2010,"png","private","private","commercial-banking",29782878215
@@ -12519,16 +12519,16 @@
 "UA","Ukraine",2011,"ppg","private","private","bonds",2963103782
 "UA","Ukraine",2011,"ppg","private","private","commercial-banking",2972801.212
 "UA","Ukraine",2011,"ppg","private","private","other-private",0
-"UA","Ukraine",2012,"png","private","private","bonds",0
 "UA","Ukraine",2012,"png","private","private","commercial-banking",12602437000
+"UA","Ukraine",2012,"png","private","private","bonds",0
 "UA","Ukraine",2012,"ppg","private","private","bonds",5.45e+09
 "UA","Ukraine",2012,"ppg","private","private","commercial-banking",2549000
 "UA","Ukraine",2012,"ppg","private","private","other-private",0
 "UA","Ukraine",2013,"png","private","private","bonds",3933499104
+"UA","Ukraine",2013,"ppg","private","private","other-private",0
 "UA","Ukraine",2013,"png","private","private","commercial-banking",21840322823
 "UA","Ukraine",2013,"ppg","private","private","bonds",6531092852
 "UA","Ukraine",2013,"ppg","private","private","commercial-banking",0
-"UA","Ukraine",2013,"ppg","private","private","other-private",0
 "GB","United Kingdom",2000,"png","private","private","bonds",
 "GB","United Kingdom",2000,"png","private","private","commercial-banking",
 "GB","United Kingdom",2000,"ppg","private","private","bonds",
@@ -12854,10 +12854,10 @@
 "VU","Vanuatu",2008,"ppg","private","private","bonds",0
 "VU","Vanuatu",2008,"ppg","private","private","commercial-banking",0
 "VU","Vanuatu",2008,"ppg","private","private","other-private",0
+"VU","Vanuatu",2009,"ppg","private","private","commercial-banking",0
 "VU","Vanuatu",2009,"png","private","private","bonds",0
 "VU","Vanuatu",2009,"png","private","private","commercial-banking",0
 "VU","Vanuatu",2009,"ppg","private","private","bonds",0
-"VU","Vanuatu",2009,"ppg","private","private","commercial-banking",0
 "VU","Vanuatu",2009,"ppg","private","private","other-private",0
 "VU","Vanuatu",2010,"png","private","private","bonds",0
 "VU","Vanuatu",2010,"png","private","private","commercial-banking",0
@@ -12869,16 +12869,16 @@
 "VU","Vanuatu",2011,"ppg","private","private","bonds",0
 "VU","Vanuatu",2011,"ppg","private","private","commercial-banking",0
 "VU","Vanuatu",2011,"ppg","private","private","other-private",0
-"VU","Vanuatu",2012,"png","private","private","bonds",0
 "VU","Vanuatu",2012,"png","private","private","commercial-banking",0
+"VU","Vanuatu",2012,"png","private","private","bonds",0
 "VU","Vanuatu",2012,"ppg","private","private","bonds",0
 "VU","Vanuatu",2012,"ppg","private","private","commercial-banking",0
 "VU","Vanuatu",2012,"ppg","private","private","other-private",0
 "VU","Vanuatu",2013,"png","private","private","bonds",0
+"VU","Vanuatu",2013,"ppg","private","private","other-private",0
 "VU","Vanuatu",2013,"png","private","private","commercial-banking",0
 "VU","Vanuatu",2013,"ppg","private","private","bonds",0
 "VU","Vanuatu",2013,"ppg","private","private","commercial-banking",0
-"VU","Vanuatu",2013,"ppg","private","private","other-private",0
 "VE","Venezuela",2000,"png","private","private","bonds",0
 "VE","Venezuela",2000,"png","private","private","commercial-banking",0
 "VE","Venezuela",2000,"ppg","private","private","bonds",785932754.4
@@ -13015,10 +13015,10 @@
 "VN","Viet Nam",2012,"ppg","private","private","commercial-banking",1246871000
 "VN","Viet Nam",2012,"ppg","private","private","other-private",0
 "VN","Viet Nam",2013,"png","private","private","bonds",192299919.3
+"VN","Viet Nam",2013,"ppg","private","private","other-private",0
 "VN","Viet Nam",2013,"png","private","private","commercial-banking",3545049012
 "VN","Viet Nam",2013,"ppg","private","private","bonds",602666985.5
 "VN","Viet Nam",2013,"ppg","private","private","commercial-banking",1524286463
-"VN","Viet Nam",2013,"ppg","private","private","other-private",0
 "YE","Yemen",2000,"png","private","private","bonds",0
 "YE","Yemen",2000,"png","private","private","commercial-banking",0
 "YE","Yemen",2000,"ppg","private","private","bonds",0
