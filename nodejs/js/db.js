@@ -188,15 +188,18 @@ db.import=function(only)
 
 		for(var csv_name in datamap.csv){ var csv_sql=datamap.csv[csv_name];
 
-			process.stdout.write(argv.csvdir+csv_name+" <- "+csv_sql+" ");
+			if((!only)||(only==csv_name))
+			{
+				process.stdout.write(argv.csvdir+csv_name+" <- "+csv_sql+" ");
 
-			var fp=fs.createWriteStream(argv.csvdir+csv_name);
-			var qs = new pgps('SELECT * FROM '+csv_sql+';');
-			var sd=yield d.stream(qs, function (s) {
-					s.pipe(new stream_to_csv()).pipe(fp);
-			});
-			fp.end();
-			process.stdout.write("\n");
+				var fp=fs.createWriteStream(argv.csvdir+csv_name);
+				var qs = new pgps('SELECT * FROM '+csv_sql+';');
+				var sd=yield d.stream(qs, function (s) {
+						s.pipe(new stream_to_csv()).pipe(fp);
+				});
+				fp.end();
+				process.stdout.write("\n");
+			}
 		}
 		
 		d.done();
