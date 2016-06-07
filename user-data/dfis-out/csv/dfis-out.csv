@@ -7,7 +7,7 @@
 "ES","Spain","AF","Afghanistan",2012,0
 "FI","Finland","AF","Afghanistan",2012,0
 "FR","France","AF","Afghanistan",2012,0
-"GB","United Kingdom","AF","Afghanistan",2012,0
+"GB","UK","AF","Afghanistan",2012,0
 "JP","Japan","AF","Afghanistan",2012,0
 "NL","Netherlands","AF","Afghanistan",2012,0
 "NO","Norway","AF","Afghanistan",2012,0
@@ -22,7 +22,7 @@
 "ES","Spain","AL","Albania",2012,0
 "FI","Finland","AL","Albania",2012,0
 "FR","France","AL","Albania",2012,0
-"GB","United Kingdom","AL","Albania",2012,0
+"GB","UK","AL","Albania",2012,0
 "JP","Japan","AL","Albania",2012,0
 "NL","Netherlands","AL","Albania",2012,0
 "NO","Norway","AL","Albania",2012,0
@@ -37,7 +37,7 @@
 "ES","Spain","DZ","Algeria",2012,0
 "FI","Finland","DZ","Algeria",2012,0
 "FR","France","DZ","Algeria",2012,0
-"GB","United Kingdom","DZ","Algeria",2012,0
+"GB","UK","DZ","Algeria",2012,0
 "JP","Japan","DZ","Algeria",2012,0
 "NL","Netherlands","DZ","Algeria",2012,0
 "NO","Norway","DZ","Algeria",2012,0
@@ -52,7 +52,7 @@
 "ES","Spain","AO","Angola",2012,0
 "FI","Finland","AO","Angola",2012,0
 "FR","France","AO","Angola",2012,0
-"GB","United Kingdom","AO","Angola",2012,0
+"GB","UK","AO","Angola",2012,0
 "JP","Japan","AO","Angola",2012,317500000
 "NL","Netherlands","AO","Angola",2012,0
 "NO","Norway","AO","Angola",2012,0
@@ -67,28 +67,28 @@
 "ES","Spain","AI","Anguilla",2012,0
 "FI","Finland","AI","Anguilla",2012,0
 "FR","France","AI","Anguilla",2012,0
-"GB","United Kingdom","AI","Anguilla",2012,0
+"GB","UK","AI","Anguilla",2012,0
 "JP","Japan","AI","Anguilla",2012,0
 "NL","Netherlands","AI","Anguilla",2012,0
 "NO","Norway","AI","Anguilla",2012,0
 "PT","Portugal","AI","Anguilla",2012,0
 "SE","Sweden","AI","Anguilla",2012,0
 "US","USA","AI","Anguilla",2012,0
-"AT","Austria","AG","Antigua and Barbuda",2012,0
-"BE","Belgium","AG","Antigua and Barbuda",2012,0
-"CH","Switzerland","AG","Antigua and Barbuda",2012,0
-"DE","Germany","AG","Antigua and Barbuda",2012,0
-"DK","Denmark","AG","Antigua and Barbuda",2012,0
-"ES","Spain","AG","Antigua and Barbuda",2012,0
-"FI","Finland","AG","Antigua and Barbuda",2012,0
-"FR","France","AG","Antigua and Barbuda",2012,0
-"GB","United Kingdom","AG","Antigua and Barbuda",2012,0
-"JP","Japan","AG","Antigua and Barbuda",2012,0
-"NL","Netherlands","AG","Antigua and Barbuda",2012,0
-"NO","Norway","AG","Antigua and Barbuda",2012,0
-"PT","Portugal","AG","Antigua and Barbuda",2012,0
-"SE","Sweden","AG","Antigua and Barbuda",2012,0
-"US","USA","AG","Antigua and Barbuda",2012,0
+"AT","Austria","AG","Antigua & Barbuda",2012,0
+"BE","Belgium","AG","Antigua & Barbuda",2012,0
+"CH","Switzerland","AG","Antigua & Barbuda",2012,0
+"DE","Germany","AG","Antigua & Barbuda",2012,0
+"DK","Denmark","AG","Antigua & Barbuda",2012,0
+"ES","Spain","AG","Antigua & Barbuda",2012,0
+"FI","Finland","AG","Antigua & Barbuda",2012,0
+"FR","France","AG","Antigua & Barbuda",2012,0
+"GB","UK","AG","Antigua & Barbuda",2012,0
+"JP","Japan","AG","Antigua & Barbuda",2012,0
+"NL","Netherlands","AG","Antigua & Barbuda",2012,0
+"NO","Norway","AG","Antigua & Barbuda",2012,0
+"PT","Portugal","AG","Antigua & Barbuda",2012,0
+"SE","Sweden","AG","Antigua & Barbuda",2012,0
+"US","USA","AG","Antigua & Barbuda",2012,0
 "AT","Austria","AR","Argentina",2012,0
 "BE","Belgium","AR","Argentina",2012,0
 "CH","Switzerland","AR","Argentina",2012,0
@@ -97,7 +97,7 @@
 "ES","Spain","AR","Argentina",2012,0
 "FI","Finland","AR","Argentina",2012,0
 "FR","France","AR","Argentina",2012,0
-"GB","United Kingdom","AR","Argentina",2012,0
+"GB","UK","AR","Argentina",2012,0
 "JP","Japan","AR","Argentina",2012,0
 "NL","Netherlands","AR","Argentina",2012,0
 "NO","Norway","AR","Argentina",2012,0
@@ -112,7 +112,7 @@
 "ES","Spain","AM","Armenia",2012,0
 "FI","Finland","AM","Armenia",2012,0
 "FR","France","AM","Armenia",2012,0
-"GB","United Kingdom","AM","Armenia",2012,0
+"GB","UK","AM","Armenia",2012,0
 "JP","Japan","AM","Armenia",2012,0
 "NL","Netherlands","AM","Armenia",2012,0
 "NO","Norway","AM","Armenia",2012,0
@@ -127,7 +127,7 @@
 "ES","Spain","AZ","Azerbaijan",2012,0
 "FI","Finland","AZ","Azerbaijan",2012,0
 "FR","France","AZ","Azerbaijan",2012,0
-"GB","United Kingdom","AZ","Azerbaijan",2012,0
+"GB","UK","AZ","Azerbaijan",2012,0
 "JP","Japan","AZ","Azerbaijan",2012,0
 "NL","Netherlands","AZ","Azerbaijan",2012,0
 "NO","Norway","AZ","Azerbaijan",2012,0
@@ -142,7 +142,7 @@
 "ES","Spain","BD","Bangladesh",2012,0
 "FI","Finland","BD","Bangladesh",2012,0
 "FR","France","BD","Bangladesh",2012,0
-"GB","United Kingdom","BD","Bangladesh",2012,0
+"GB","UK","BD","Bangladesh",2012,0
 "JP","Japan","BD","Bangladesh",2012,0
 "NL","Netherlands","BD","Bangladesh",2012,0
 "NO","Norway","BD","Bangladesh",2012,0
@@ -157,7 +157,7 @@
 "ES","Spain","BY","Belarus",2012,0
 "FI","Finland","BY","Belarus",2012,0
 "FR","France","BY","Belarus",2012,0
-"GB","United Kingdom","BY","Belarus",2012,0
+"GB","UK","BY","Belarus",2012,0
 "JP","Japan","BY","Belarus",2012,0
 "NL","Netherlands","BY","Belarus",2012,0
 "NO","Norway","BY","Belarus",2012,0
@@ -172,7 +172,7 @@
 "ES","Spain","BZ","Belize",2012,0
 "FI","Finland","BZ","Belize",2012,0
 "FR","France","BZ","Belize",2012,0
-"GB","United Kingdom","BZ","Belize",2012,0
+"GB","UK","BZ","Belize",2012,0
 "JP","Japan","BZ","Belize",2012,0
 "NL","Netherlands","BZ","Belize",2012,0
 "NO","Norway","BZ","Belize",2012,0
@@ -187,7 +187,7 @@
 "ES","Spain","BJ","Benin",2012,0
 "FI","Finland","BJ","Benin",2012,0
 "FR","France","BJ","Benin",2012,0
-"GB","United Kingdom","BJ","Benin",2012,0
+"GB","UK","BJ","Benin",2012,0
 "JP","Japan","BJ","Benin",2012,0
 "NL","Netherlands","BJ","Benin",2012,0
 "NO","Norway","BJ","Benin",2012,0
@@ -202,7 +202,7 @@
 "ES","Spain","BT","Bhutan",2012,0
 "FI","Finland","BT","Bhutan",2012,0
 "FR","France","BT","Bhutan",2012,0
-"GB","United Kingdom","BT","Bhutan",2012,0
+"GB","UK","BT","Bhutan",2012,0
 "JP","Japan","BT","Bhutan",2012,0
 "NL","Netherlands","BT","Bhutan",2012,0
 "NO","Norway","BT","Bhutan",2012,0
@@ -217,28 +217,28 @@
 "ES","Spain","BO","Bolivia ",2012,0
 "FI","Finland","BO","Bolivia ",2012,0
 "FR","France","BO","Bolivia ",2012,0
-"GB","United Kingdom","BO","Bolivia ",2012,0
+"GB","UK","BO","Bolivia ",2012,0
 "JP","Japan","BO","Bolivia ",2012,0
 "NL","Netherlands","BO","Bolivia ",2012,0
 "NO","Norway","BO","Bolivia ",2012,0
 "PT","Portugal","BO","Bolivia ",2012,0
 "SE","Sweden","BO","Bolivia ",2012,0
 "US","USA","BO","Bolivia ",2012,0
-"AT","Austria","BA","Bosnia and Herzegovina",2012,0
-"BE","Belgium","BA","Bosnia and Herzegovina",2012,0
-"CH","Switzerland","BA","Bosnia and Herzegovina",2012,0
-"DE","Germany","BA","Bosnia and Herzegovina",2012,23086605
-"DK","Denmark","BA","Bosnia and Herzegovina",2012,0
-"ES","Spain","BA","Bosnia and Herzegovina",2012,0
-"FI","Finland","BA","Bosnia and Herzegovina",2012,0
-"FR","France","BA","Bosnia and Herzegovina",2012,0
-"GB","United Kingdom","BA","Bosnia and Herzegovina",2012,0
-"JP","Japan","BA","Bosnia and Herzegovina",2012,0
-"NL","Netherlands","BA","Bosnia and Herzegovina",2012,0
-"NO","Norway","BA","Bosnia and Herzegovina",2012,0
-"PT","Portugal","BA","Bosnia and Herzegovina",2012,0
-"SE","Sweden","BA","Bosnia and Herzegovina",2012,0
-"US","USA","BA","Bosnia and Herzegovina",2012,0
+"AT","Austria","BA","Bosnia & Herzegovina",2012,0
+"BE","Belgium","BA","Bosnia & Herzegovina",2012,0
+"CH","Switzerland","BA","Bosnia & Herzegovina",2012,0
+"DE","Germany","BA","Bosnia & Herzegovina",2012,23086605
+"DK","Denmark","BA","Bosnia & Herzegovina",2012,0
+"ES","Spain","BA","Bosnia & Herzegovina",2012,0
+"FI","Finland","BA","Bosnia & Herzegovina",2012,0
+"FR","France","BA","Bosnia & Herzegovina",2012,0
+"GB","UK","BA","Bosnia & Herzegovina",2012,0
+"JP","Japan","BA","Bosnia & Herzegovina",2012,0
+"NL","Netherlands","BA","Bosnia & Herzegovina",2012,0
+"NO","Norway","BA","Bosnia & Herzegovina",2012,0
+"PT","Portugal","BA","Bosnia & Herzegovina",2012,0
+"SE","Sweden","BA","Bosnia & Herzegovina",2012,0
+"US","USA","BA","Bosnia & Herzegovina",2012,0
 "AT","Austria","BW","Botswana",2012,0
 "BE","Belgium","BW","Botswana",2012,0
 "CH","Switzerland","BW","Botswana",2012,0
@@ -247,7 +247,7 @@
 "ES","Spain","BW","Botswana",2012,0
 "FI","Finland","BW","Botswana",2012,0
 "FR","France","BW","Botswana",2012,0
-"GB","United Kingdom","BW","Botswana",2012,0
+"GB","UK","BW","Botswana",2012,0
 "JP","Japan","BW","Botswana",2012,0
 "NL","Netherlands","BW","Botswana",2012,0
 "NO","Norway","BW","Botswana",2012,0
@@ -262,7 +262,7 @@
 "ES","Spain","BR","Brazil",2012,0
 "FI","Finland","BR","Brazil",2012,0
 "FR","France","BR","Brazil",2012,13215000
-"GB","United Kingdom","BR","Brazil",2012,0
+"GB","UK","BR","Brazil",2012,0
 "JP","Japan","BR","Brazil",2012,1478700000
 "NL","Netherlands","BR","Brazil",2012,0
 "NO","Norway","BR","Brazil",2012,0
@@ -277,7 +277,7 @@
 "ES","Spain","BF","Burkina Faso",2012,0
 "FI","Finland","BF","Burkina Faso",2012,0
 "FR","France","BF","Burkina Faso",2012,0
-"GB","United Kingdom","BF","Burkina Faso",2012,0
+"GB","UK","BF","Burkina Faso",2012,0
 "JP","Japan","BF","Burkina Faso",2012,0
 "NL","Netherlands","BF","Burkina Faso",2012,0
 "NO","Norway","BF","Burkina Faso",2012,0
@@ -292,28 +292,13 @@
 "ES","Spain","BI","Burundi",2012,0
 "FI","Finland","BI","Burundi",2012,0
 "FR","France","BI","Burundi",2012,0
-"GB","United Kingdom","BI","Burundi",2012,0
+"GB","UK","BI","Burundi",2012,0
 "JP","Japan","BI","Burundi",2012,0
 "NL","Netherlands","BI","Burundi",2012,0
 "NO","Norway","BI","Burundi",2012,0
 "PT","Portugal","BI","Burundi",2012,0
 "SE","Sweden","BI","Burundi",2012,0
 "US","USA","BI","Burundi",2012,0
-"AT","Austria","CI","Côte d'Ivoire",2012,0
-"BE","Belgium","CI","Côte d'Ivoire",2012,0
-"CH","Switzerland","CI","Côte d'Ivoire",2012,0
-"DE","Germany","CI","Côte d'Ivoire",2012,25319940
-"DK","Denmark","CI","Côte d'Ivoire",2012,0
-"ES","Spain","CI","Côte d'Ivoire",2012,0
-"FI","Finland","CI","Côte d'Ivoire",2012,0
-"FR","France","CI","Côte d'Ivoire",2012,87073000
-"GB","United Kingdom","CI","Côte d'Ivoire",2012,0
-"JP","Japan","CI","Côte d'Ivoire",2012,0
-"NL","Netherlands","CI","Côte d'Ivoire",2012,0
-"NO","Norway","CI","Côte d'Ivoire",2012,0
-"PT","Portugal","CI","Côte d'Ivoire",2012,0
-"SE","Sweden","CI","Côte d'Ivoire",2012,0
-"US","USA","CI","Côte d'Ivoire",2012,0
 "AT","Austria","KH","Cambodia",2012,0
 "BE","Belgium","KH","Cambodia",2012,0
 "CH","Switzerland","KH","Cambodia",2012,0
@@ -322,7 +307,7 @@
 "ES","Spain","KH","Cambodia",2012,0
 "FI","Finland","KH","Cambodia",2012,0
 "FR","France","KH","Cambodia",2012,12340000
-"GB","United Kingdom","KH","Cambodia",2012,0
+"GB","UK","KH","Cambodia",2012,0
 "JP","Japan","KH","Cambodia",2012,0
 "NL","Netherlands","KH","Cambodia",2012,0
 "NO","Norway","KH","Cambodia",2012,0
@@ -337,7 +322,7 @@
 "ES","Spain","CM","Cameroon",2012,0
 "FI","Finland","CM","Cameroon",2012,0
 "FR","France","CM","Cameroon",2012,0
-"GB","United Kingdom","CM","Cameroon",2012,0
+"GB","UK","CM","Cameroon",2012,0
 "JP","Japan","CM","Cameroon",2012,0
 "NL","Netherlands","CM","Cameroon",2012,0
 "NO","Norway","CM","Cameroon",2012,0
@@ -352,7 +337,7 @@
 "ES","Spain","CV","Cape Verde",2012,0
 "FI","Finland","CV","Cape Verde",2012,0
 "FR","France","CV","Cape Verde",2012,0
-"GB","United Kingdom","CV","Cape Verde",2012,0
+"GB","UK","CV","Cape Verde",2012,0
 "JP","Japan","CV","Cape Verde",2012,0
 "NL","Netherlands","CV","Cape Verde",2012,0
 "NO","Norway","CV","Cape Verde",2012,0
@@ -367,7 +352,7 @@
 "ES","Spain","CF","CAR",2012,0
 "FI","Finland","CF","CAR",2012,0
 "FR","France","CF","CAR",2012,0
-"GB","United Kingdom","CF","CAR",2012,0
+"GB","UK","CF","CAR",2012,0
 "JP","Japan","CF","CAR",2012,0
 "NL","Netherlands","CF","CAR",2012,0
 "NO","Norway","CF","CAR",2012,0
@@ -382,7 +367,7 @@
 "ES","Spain","TD","Chad",2012,0
 "FI","Finland","TD","Chad",2012,0
 "FR","France","TD","Chad",2012,0
-"GB","United Kingdom","TD","Chad",2012,0
+"GB","UK","TD","Chad",2012,0
 "JP","Japan","TD","Chad",2012,0
 "NL","Netherlands","TD","Chad",2012,0
 "NO","Norway","TD","Chad",2012,0
@@ -397,7 +382,7 @@
 "ES","Spain","CL","Chile",2012,0
 "FI","Finland","CL","Chile",2012,0
 "FR","France","CL","Chile",2012,0
-"GB","United Kingdom","CL","Chile",2012,0
+"GB","UK","CL","Chile",2012,0
 "JP","Japan","CL","Chile",2012,4880700000
 "NL","Netherlands","CL","Chile",2012,0
 "NO","Norway","CL","Chile",2012,0
@@ -412,7 +397,7 @@
 "ES","Spain","CN","China",2012,0
 "FI","Finland","CN","China",2012,0
 "FR","France","CN","China",2012,1e+07
-"GB","United Kingdom","CN","China",2012,0
+"GB","UK","CN","China",2012,0
 "JP","Japan","CN","China",2012,113900000
 "NL","Netherlands","CN","China",2012,0
 "NO","Norway","CN","China",2012,0
@@ -427,7 +412,7 @@
 "ES","Spain","CO","Colombia",2012,0
 "FI","Finland","CO","Colombia",2012,0
 "FR","France","CO","Colombia",2012,0
-"GB","United Kingdom","CO","Colombia",2012,0
+"GB","UK","CO","Colombia",2012,0
 "JP","Japan","CO","Colombia",2012,201500000
 "NL","Netherlands","CO","Colombia",2012,0
 "NO","Norway","CO","Colombia",2012,0
@@ -442,7 +427,7 @@
 "ES","Spain","KM","Comoros",2012,0
 "FI","Finland","KM","Comoros",2012,0
 "FR","France","KM","Comoros",2012,0
-"GB","United Kingdom","KM","Comoros",2012,0
+"GB","UK","KM","Comoros",2012,0
 "JP","Japan","KM","Comoros",2012,0
 "NL","Netherlands","KM","Comoros",2012,0
 "NO","Norway","KM","Comoros",2012,0
@@ -457,7 +442,7 @@
 "ES","Spain","CG","Congo",2012,0
 "FI","Finland","CG","Congo",2012,0
 "FR","France","CG","Congo",2012,0
-"GB","United Kingdom","CG","Congo",2012,0
+"GB","UK","CG","Congo",2012,0
 "JP","Japan","CG","Congo",2012,0
 "NL","Netherlands","CG","Congo",2012,0
 "NO","Norway","CG","Congo",2012,0
@@ -472,7 +457,7 @@
 "ES","Spain","CK","Cook Islands",2012,0
 "FI","Finland","CK","Cook Islands",2012,0
 "FR","France","CK","Cook Islands",2012,0
-"GB","United Kingdom","CK","Cook Islands",2012,0
+"GB","UK","CK","Cook Islands",2012,0
 "JP","Japan","CK","Cook Islands",2012,0
 "NL","Netherlands","CK","Cook Islands",2012,0
 "NO","Norway","CK","Cook Islands",2012,0
@@ -487,13 +472,28 @@
 "ES","Spain","CR","Costa Rica",2012,0
 "FI","Finland","CR","Costa Rica",2012,0
 "FR","France","CR","Costa Rica",2012,7e+06
-"GB","United Kingdom","CR","Costa Rica",2012,0
+"GB","UK","CR","Costa Rica",2012,0
 "JP","Japan","CR","Costa Rica",2012,0
 "NL","Netherlands","CR","Costa Rica",2012,0
 "NO","Norway","CR","Costa Rica",2012,0
 "PT","Portugal","CR","Costa Rica",2012,0
 "SE","Sweden","CR","Costa Rica",2012,0
 "US","USA","CR","Costa Rica",2012,31631250
+"AT","Austria","CI","Cote d'Ivoire",2012,0
+"BE","Belgium","CI","Cote d'Ivoire",2012,0
+"CH","Switzerland","CI","Cote d'Ivoire",2012,0
+"DE","Germany","CI","Cote d'Ivoire",2012,25319940
+"DK","Denmark","CI","Cote d'Ivoire",2012,0
+"ES","Spain","CI","Cote d'Ivoire",2012,0
+"FI","Finland","CI","Cote d'Ivoire",2012,0
+"FR","France","CI","Cote d'Ivoire",2012,87073000
+"GB","UK","CI","Cote d'Ivoire",2012,0
+"JP","Japan","CI","Cote d'Ivoire",2012,0
+"NL","Netherlands","CI","Cote d'Ivoire",2012,0
+"NO","Norway","CI","Cote d'Ivoire",2012,0
+"PT","Portugal","CI","Cote d'Ivoire",2012,0
+"SE","Sweden","CI","Cote d'Ivoire",2012,0
+"US","USA","CI","Cote d'Ivoire",2012,0
 "AT","Austria","CU","Cuba",2012,0
 "BE","Belgium","CU","Cuba",2012,0
 "CH","Switzerland","CU","Cuba",2012,0
@@ -502,7 +502,7 @@
 "ES","Spain","CU","Cuba",2012,0
 "FI","Finland","CU","Cuba",2012,0
 "FR","France","CU","Cuba",2012,0
-"GB","United Kingdom","CU","Cuba",2012,0
+"GB","UK","CU","Cuba",2012,0
 "JP","Japan","CU","Cuba",2012,0
 "NL","Netherlands","CU","Cuba",2012,0
 "NO","Norway","CU","Cuba",2012,0
@@ -517,7 +517,7 @@
 "ES","Spain","DJ","Djibouti",2012,0
 "FI","Finland","DJ","Djibouti",2012,0
 "FR","France","DJ","Djibouti",2012,0
-"GB","United Kingdom","DJ","Djibouti",2012,0
+"GB","UK","DJ","Djibouti",2012,0
 "JP","Japan","DJ","Djibouti",2012,0
 "NL","Netherlands","DJ","Djibouti",2012,0
 "NO","Norway","DJ","Djibouti",2012,0
@@ -532,7 +532,7 @@
 "ES","Spain","DM","Dominica",2012,0
 "FI","Finland","DM","Dominica",2012,0
 "FR","France","DM","Dominica",2012,0
-"GB","United Kingdom","DM","Dominica",2012,0
+"GB","UK","DM","Dominica",2012,0
 "JP","Japan","DM","Dominica",2012,0
 "NL","Netherlands","DM","Dominica",2012,0
 "NO","Norway","DM","Dominica",2012,0
@@ -547,7 +547,7 @@
 "ES","Spain","DO","Dominican Republic",2012,0
 "FI","Finland","DO","Dominican Republic",2012,0
 "FR","France","DO","Dominican Republic",2012,1.5e+07
-"GB","United Kingdom","DO","Dominican Republic",2012,0
+"GB","UK","DO","Dominican Republic",2012,0
 "JP","Japan","DO","Dominican Republic",2012,0
 "NL","Netherlands","DO","Dominican Republic",2012,0
 "NO","Norway","DO","Dominican Republic",2012,0
@@ -562,7 +562,7 @@
 "ES","Spain","CD","DRC",2012,0
 "FI","Finland","CD","DRC",2012,0
 "FR","France","CD","DRC",2012,1e+07
-"GB","United Kingdom","CD","DRC",2012,0
+"GB","UK","CD","DRC",2012,0
 "JP","Japan","CD","DRC",2012,0
 "NL","Netherlands","CD","DRC",2012,0
 "NO","Norway","CD","DRC",2012,0
@@ -577,7 +577,7 @@
 "ES","Spain","EC","Ecuador",2012,0
 "FI","Finland","EC","Ecuador",2012,0
 "FR","France","EC","Ecuador",2012,2e+07
-"GB","United Kingdom","EC","Ecuador",2012,0
+"GB","UK","EC","Ecuador",2012,0
 "JP","Japan","EC","Ecuador",2012,0
 "NL","Netherlands","EC","Ecuador",2012,0
 "NO","Norway","EC","Ecuador",2012,0
@@ -592,7 +592,7 @@
 "ES","Spain","EG","Egypt",2012,0
 "FI","Finland","EG","Egypt",2012,0
 "FR","France","EG","Egypt",2012,1.5e+07
-"GB","United Kingdom","EG","Egypt",2012,0
+"GB","UK","EG","Egypt",2012,0
 "JP","Japan","EG","Egypt",2012,0
 "NL","Netherlands","EG","Egypt",2012,0
 "NO","Norway","EG","Egypt",2012,0
@@ -607,7 +607,7 @@
 "ES","Spain","SV","El Salvador",2012,0
 "FI","Finland","SV","El Salvador",2012,0
 "FR","France","SV","El Salvador",2012,0
-"GB","United Kingdom","SV","El Salvador",2012,0
+"GB","UK","SV","El Salvador",2012,0
 "JP","Japan","SV","El Salvador",2012,0
 "NL","Netherlands","SV","El Salvador",2012,0
 "NO","Norway","SV","El Salvador",2012,0
@@ -622,7 +622,7 @@
 "ES","Spain","GQ","Equatorial Guinea",2012,0
 "FI","Finland","GQ","Equatorial Guinea",2012,0
 "FR","France","GQ","Equatorial Guinea",2012,0
-"GB","United Kingdom","GQ","Equatorial Guinea",2012,0
+"GB","UK","GQ","Equatorial Guinea",2012,0
 "JP","Japan","GQ","Equatorial Guinea",2012,0
 "NL","Netherlands","GQ","Equatorial Guinea",2012,0
 "NO","Norway","GQ","Equatorial Guinea",2012,0
@@ -637,7 +637,7 @@
 "ES","Spain","ER","Eritrea",2012,0
 "FI","Finland","ER","Eritrea",2012,0
 "FR","France","ER","Eritrea",2012,0
-"GB","United Kingdom","ER","Eritrea",2012,0
+"GB","UK","ER","Eritrea",2012,0
 "JP","Japan","ER","Eritrea",2012,0
 "NL","Netherlands","ER","Eritrea",2012,0
 "NO","Norway","ER","Eritrea",2012,0
@@ -652,7 +652,7 @@
 "ES","Spain","ET","Ethiopia",2012,0
 "FI","Finland","ET","Ethiopia",2012,0
 "FR","France","ET","Ethiopia",2012,0
-"GB","United Kingdom","ET","Ethiopia",2012,14860700
+"GB","UK","ET","Ethiopia",2012,14860700
 "JP","Japan","ET","Ethiopia",2012,0
 "NL","Netherlands","ET","Ethiopia",2012,0
 "NO","Norway","ET","Ethiopia",2012,0
@@ -667,7 +667,7 @@
 "ES","Spain","FJ","Fiji",2012,0
 "FI","Finland","FJ","Fiji",2012,0
 "FR","France","FJ","Fiji",2012,0
-"GB","United Kingdom","FJ","Fiji",2012,0
+"GB","UK","FJ","Fiji",2012,0
 "JP","Japan","FJ","Fiji",2012,0
 "NL","Netherlands","FJ","Fiji",2012,0
 "NO","Norway","FJ","Fiji",2012,0
@@ -682,7 +682,7 @@
 "ES","Spain","GA","Gabon",2012,0
 "FI","Finland","GA","Gabon",2012,0
 "FR","France","GA","Gabon",2012,0
-"GB","United Kingdom","GA","Gabon",2012,0
+"GB","UK","GA","Gabon",2012,0
 "JP","Japan","GA","Gabon",2012,0
 "NL","Netherlands","GA","Gabon",2012,0
 "NO","Norway","GA","Gabon",2012,0
@@ -697,7 +697,7 @@
 "ES","Spain","GM","Gambia",2012,0
 "FI","Finland","GM","Gambia",2012,0
 "FR","France","GM","Gambia",2012,0
-"GB","United Kingdom","GM","Gambia",2012,0
+"GB","UK","GM","Gambia",2012,0
 "JP","Japan","GM","Gambia",2012,0
 "NL","Netherlands","GM","Gambia",2012,0
 "NO","Norway","GM","Gambia",2012,0
@@ -712,7 +712,7 @@
 "ES","Spain","GE","Georgia",2012,0
 "FI","Finland","GE","Georgia",2012,0
 "FR","France","GE","Georgia",2012,2e+07
-"GB","United Kingdom","GE","Georgia",2012,0
+"GB","UK","GE","Georgia",2012,0
 "JP","Japan","GE","Georgia",2012,0
 "NL","Netherlands","GE","Georgia",2012,0
 "NO","Norway","GE","Georgia",2012,0
@@ -727,7 +727,7 @@
 "ES","Spain","GH","Ghana",2012,0
 "FI","Finland","GH","Ghana",2012,0
 "FR","France","GH","Ghana",2012,6e+07
-"GB","United Kingdom","GH","Ghana",2012,0
+"GB","UK","GH","Ghana",2012,0
 "JP","Japan","GH","Ghana",2012,0
 "NL","Netherlands","GH","Ghana",2012,0
 "NO","Norway","GH","Ghana",2012,0
@@ -742,7 +742,7 @@
 "ES","Spain","GD","Grenada",2012,0
 "FI","Finland","GD","Grenada",2012,0
 "FR","France","GD","Grenada",2012,0
-"GB","United Kingdom","GD","Grenada",2012,0
+"GB","UK","GD","Grenada",2012,0
 "JP","Japan","GD","Grenada",2012,0
 "NL","Netherlands","GD","Grenada",2012,0
 "NO","Norway","GD","Grenada",2012,0
@@ -757,7 +757,7 @@
 "ES","Spain","GT","Guatemala",2012,0
 "FI","Finland","GT","Guatemala",2012,0
 "FR","France","GT","Guatemala",2012,0
-"GB","United Kingdom","GT","Guatemala",2012,0
+"GB","UK","GT","Guatemala",2012,0
 "JP","Japan","GT","Guatemala",2012,0
 "NL","Netherlands","GT","Guatemala",2012,0
 "NO","Norway","GT","Guatemala",2012,0
@@ -772,7 +772,7 @@
 "ES","Spain","GN","Guinea",2012,0
 "FI","Finland","GN","Guinea",2012,0
 "FR","France","GN","Guinea",2012,0
-"GB","United Kingdom","GN","Guinea",2012,0
+"GB","UK","GN","Guinea",2012,0
 "JP","Japan","GN","Guinea",2012,0
 "NL","Netherlands","GN","Guinea",2012,0
 "NO","Norway","GN","Guinea",2012,0
@@ -787,7 +787,7 @@
 "ES","Spain","GW","Guinea-Bissau",2012,0
 "FI","Finland","GW","Guinea-Bissau",2012,0
 "FR","France","GW","Guinea-Bissau",2012,0
-"GB","United Kingdom","GW","Guinea-Bissau",2012,0
+"GB","UK","GW","Guinea-Bissau",2012,0
 "JP","Japan","GW","Guinea-Bissau",2012,0
 "NL","Netherlands","GW","Guinea-Bissau",2012,0
 "NO","Norway","GW","Guinea-Bissau",2012,0
@@ -802,7 +802,7 @@
 "ES","Spain","GY","Guyana",2012,0
 "FI","Finland","GY","Guyana",2012,0
 "FR","France","GY","Guyana",2012,0
-"GB","United Kingdom","GY","Guyana",2012,0
+"GB","UK","GY","Guyana",2012,0
 "JP","Japan","GY","Guyana",2012,0
 "NL","Netherlands","GY","Guyana",2012,0
 "NO","Norway","GY","Guyana",2012,0
@@ -817,7 +817,7 @@
 "ES","Spain","HT","Haiti",2012,0
 "FI","Finland","HT","Haiti",2012,0
 "FR","France","HT","Haiti",2012,0
-"GB","United Kingdom","HT","Haiti",2012,0
+"GB","UK","HT","Haiti",2012,0
 "JP","Japan","HT","Haiti",2012,0
 "NL","Netherlands","HT","Haiti",2012,0
 "NO","Norway","HT","Haiti",2012,0
@@ -832,7 +832,7 @@
 "ES","Spain","HN","Honduras",2012,0
 "FI","Finland","HN","Honduras",2012,0
 "FR","France","HN","Honduras",2012,2e+07
-"GB","United Kingdom","HN","Honduras",2012,0
+"GB","UK","HN","Honduras",2012,0
 "JP","Japan","HN","Honduras",2012,0
 "NL","Netherlands","HN","Honduras",2012,0
 "NO","Norway","HN","Honduras",2012,0
@@ -847,7 +847,7 @@
 "ES","Spain","IN","India",2012,0
 "FI","Finland","IN","India",2012,0
 "FR","France","IN","India",2012,105251800
-"GB","United Kingdom","IN","India",2012,0
+"GB","UK","IN","India",2012,0
 "JP","Japan","IN","India",2012,4.64e+08
 "NL","Netherlands","IN","India",2012,0
 "NO","Norway","IN","India",2012,0
@@ -862,7 +862,7 @@
 "ES","Spain","ID","Indonesia",2012,0
 "FI","Finland","ID","Indonesia",2012,0
 "FR","France","ID","Indonesia",2012,32683500
-"GB","United Kingdom","ID","Indonesia",2012,0
+"GB","UK","ID","Indonesia",2012,0
 "JP","Japan","ID","Indonesia",2012,1.336e+09
 "NL","Netherlands","ID","Indonesia",2012,0
 "NO","Norway","ID","Indonesia",2012,0
@@ -877,7 +877,7 @@
 "ES","Spain","IR","Iran",2012,0
 "FI","Finland","IR","Iran",2012,0
 "FR","France","IR","Iran",2012,0
-"GB","United Kingdom","IR","Iran",2012,0
+"GB","UK","IR","Iran",2012,0
 "JP","Japan","IR","Iran",2012,0
 "NL","Netherlands","IR","Iran",2012,0
 "NO","Norway","IR","Iran",2012,0
@@ -892,7 +892,7 @@
 "ES","Spain","IQ","Iraq",2012,0
 "FI","Finland","IQ","Iraq",2012,0
 "FR","France","IQ","Iraq",2012,2e+07
-"GB","United Kingdom","IQ","Iraq",2012,0
+"GB","UK","IQ","Iraq",2012,0
 "JP","Japan","IQ","Iraq",2012,0
 "NL","Netherlands","IQ","Iraq",2012,0
 "NO","Norway","IQ","Iraq",2012,0
@@ -907,7 +907,7 @@
 "ES","Spain","JM","Jamaica",2012,0
 "FI","Finland","JM","Jamaica",2012,0
 "FR","France","JM","Jamaica",2012,0
-"GB","United Kingdom","JM","Jamaica",2012,0
+"GB","UK","JM","Jamaica",2012,0
 "JP","Japan","JM","Jamaica",2012,0
 "NL","Netherlands","JM","Jamaica",2012,0
 "NO","Norway","JM","Jamaica",2012,0
@@ -922,7 +922,7 @@
 "ES","Spain","JO","Jordan",2012,0
 "FI","Finland","JO","Jordan",2012,0
 "FR","France","JO","Jordan",2012,0
-"GB","United Kingdom","JO","Jordan",2012,0
+"GB","UK","JO","Jordan",2012,0
 "JP","Japan","JO","Jordan",2012,0
 "NL","Netherlands","JO","Jordan",2012,0
 "NO","Norway","JO","Jordan",2012,0
@@ -937,7 +937,7 @@
 "ES","Spain","KZ","Kazakhstan",2012,0
 "FI","Finland","KZ","Kazakhstan",2012,0
 "FR","France","KZ","Kazakhstan",2012,0
-"GB","United Kingdom","KZ","Kazakhstan",2012,0
+"GB","UK","KZ","Kazakhstan",2012,0
 "JP","Japan","KZ","Kazakhstan",2012,290500000
 "NL","Netherlands","KZ","Kazakhstan",2012,0
 "NO","Norway","KZ","Kazakhstan",2012,0
@@ -952,7 +952,7 @@
 "ES","Spain","KE","Kenya",2012,0
 "FI","Finland","KE","Kenya",2012,0
 "FR","France","KE","Kenya",2012,5e+06
-"GB","United Kingdom","KE","Kenya",2012,0
+"GB","UK","KE","Kenya",2012,0
 "JP","Japan","KE","Kenya",2012,0
 "NL","Netherlands","KE","Kenya",2012,0
 "NO","Norway","KE","Kenya",2012,0
@@ -967,7 +967,7 @@
 "ES","Spain","KI","Kiribati",2012,0
 "FI","Finland","KI","Kiribati",2012,0
 "FR","France","KI","Kiribati",2012,0
-"GB","United Kingdom","KI","Kiribati",2012,0
+"GB","UK","KI","Kiribati",2012,0
 "JP","Japan","KI","Kiribati",2012,0
 "NL","Netherlands","KI","Kiribati",2012,0
 "NO","Norway","KI","Kiribati",2012,0
@@ -982,7 +982,7 @@
 "ES","Spain","XK","Kosovo",2012,0
 "FI","Finland","XK","Kosovo",2012,0
 "FR","France","XK","Kosovo",2012,0
-"GB","United Kingdom","XK","Kosovo",2012,0
+"GB","UK","XK","Kosovo",2012,0
 "JP","Japan","XK","Kosovo",2012,0
 "NL","Netherlands","XK","Kosovo",2012,0
 "NO","Norway","XK","Kosovo",2012,0
@@ -997,7 +997,7 @@
 "ES","Spain","KG","Kyrgyzstan",2012,0
 "FI","Finland","KG","Kyrgyzstan",2012,0
 "FR","France","KG","Kyrgyzstan",2012,0
-"GB","United Kingdom","KG","Kyrgyzstan",2012,0
+"GB","UK","KG","Kyrgyzstan",2012,0
 "JP","Japan","KG","Kyrgyzstan",2012,0
 "NL","Netherlands","KG","Kyrgyzstan",2012,0
 "NO","Norway","KG","Kyrgyzstan",2012,0
@@ -1012,7 +1012,7 @@
 "ES","Spain","LA","Lao",2012,0
 "FI","Finland","LA","Lao",2012,0
 "FR","France","LA","Lao",2012,0
-"GB","United Kingdom","LA","Lao",2012,0
+"GB","UK","LA","Lao",2012,0
 "JP","Japan","LA","Lao",2012,0
 "NL","Netherlands","LA","Lao",2012,0
 "NO","Norway","LA","Lao",2012,0
@@ -1027,7 +1027,7 @@
 "ES","Spain","LB","Lebanon",2012,0
 "FI","Finland","LB","Lebanon",2012,0
 "FR","France","LB","Lebanon",2012,1.5e+07
-"GB","United Kingdom","LB","Lebanon",2012,0
+"GB","UK","LB","Lebanon",2012,0
 "JP","Japan","LB","Lebanon",2012,0
 "NL","Netherlands","LB","Lebanon",2012,0
 "NO","Norway","LB","Lebanon",2012,0
@@ -1042,7 +1042,7 @@
 "ES","Spain","LS","Lesotho",2012,0
 "FI","Finland","LS","Lesotho",2012,0
 "FR","France","LS","Lesotho",2012,0
-"GB","United Kingdom","LS","Lesotho",2012,0
+"GB","UK","LS","Lesotho",2012,0
 "JP","Japan","LS","Lesotho",2012,0
 "NL","Netherlands","LS","Lesotho",2012,0
 "NO","Norway","LS","Lesotho",2012,0
@@ -1057,7 +1057,7 @@
 "ES","Spain","LR","Liberia",2012,0
 "FI","Finland","LR","Liberia",2012,0
 "FR","France","LR","Liberia",2012,0
-"GB","United Kingdom","LR","Liberia",2012,0
+"GB","UK","LR","Liberia",2012,0
 "JP","Japan","LR","Liberia",2012,0
 "NL","Netherlands","LR","Liberia",2012,0
 "NO","Norway","LR","Liberia",2012,0
@@ -1072,7 +1072,7 @@
 "ES","Spain","LY","Libya",2012,0
 "FI","Finland","LY","Libya",2012,0
 "FR","France","LY","Libya",2012,0
-"GB","United Kingdom","LY","Libya",2012,0
+"GB","UK","LY","Libya",2012,0
 "JP","Japan","LY","Libya",2012,0
 "NL","Netherlands","LY","Libya",2012,0
 "NO","Norway","LY","Libya",2012,0
@@ -1087,7 +1087,7 @@
 "ES","Spain","MK","Macedonia",2012,0
 "FI","Finland","MK","Macedonia",2012,0
 "FR","France","MK","Macedonia",2012,0
-"GB","United Kingdom","MK","Macedonia",2012,0
+"GB","UK","MK","Macedonia",2012,0
 "JP","Japan","MK","Macedonia",2012,0
 "NL","Netherlands","MK","Macedonia",2012,0
 "NO","Norway","MK","Macedonia",2012,0
@@ -1102,7 +1102,7 @@
 "ES","Spain","MG","Madagascar",2012,0
 "FI","Finland","MG","Madagascar",2012,0
 "FR","France","MG","Madagascar",2012,0
-"GB","United Kingdom","MG","Madagascar",2012,0
+"GB","UK","MG","Madagascar",2012,0
 "JP","Japan","MG","Madagascar",2012,0
 "NL","Netherlands","MG","Madagascar",2012,0
 "NO","Norway","MG","Madagascar",2012,0
@@ -1117,7 +1117,7 @@
 "ES","Spain","MW","Malawi",2012,0
 "FI","Finland","MW","Malawi",2012,0
 "FR","France","MW","Malawi",2012,0
-"GB","United Kingdom","MW","Malawi",2012,0
+"GB","UK","MW","Malawi",2012,0
 "JP","Japan","MW","Malawi",2012,0
 "NL","Netherlands","MW","Malawi",2012,0
 "NO","Norway","MW","Malawi",2012,0
@@ -1132,7 +1132,7 @@
 "ES","Spain","MY","Malaysia",2012,0
 "FI","Finland","MY","Malaysia",2012,0
 "FR","France","MY","Malaysia",2012,0
-"GB","United Kingdom","MY","Malaysia",2012,0
+"GB","UK","MY","Malaysia",2012,0
 "JP","Japan","MY","Malaysia",2012,127600000
 "NL","Netherlands","MY","Malaysia",2012,0
 "NO","Norway","MY","Malaysia",2012,0
@@ -1147,7 +1147,7 @@
 "ES","Spain","MV","Maldives",2012,0
 "FI","Finland","MV","Maldives",2012,0
 "FR","France","MV","Maldives",2012,0
-"GB","United Kingdom","MV","Maldives",2012,0
+"GB","UK","MV","Maldives",2012,0
 "JP","Japan","MV","Maldives",2012,0
 "NL","Netherlands","MV","Maldives",2012,0
 "NO","Norway","MV","Maldives",2012,0
@@ -1162,7 +1162,7 @@
 "ES","Spain","ML","Mali",2012,0
 "FI","Finland","ML","Mali",2012,0
 "FR","France","ML","Mali",2012,0
-"GB","United Kingdom","ML","Mali",2012,0
+"GB","UK","ML","Mali",2012,0
 "JP","Japan","ML","Mali",2012,0
 "NL","Netherlands","ML","Mali",2012,0
 "NO","Norway","ML","Mali",2012,0
@@ -1177,7 +1177,7 @@
 "ES","Spain","MH","Marshall Islands",2012,0
 "FI","Finland","MH","Marshall Islands",2012,0
 "FR","France","MH","Marshall Islands",2012,0
-"GB","United Kingdom","MH","Marshall Islands",2012,0
+"GB","UK","MH","Marshall Islands",2012,0
 "JP","Japan","MH","Marshall Islands",2012,0
 "NL","Netherlands","MH","Marshall Islands",2012,0
 "NO","Norway","MH","Marshall Islands",2012,0
@@ -1192,7 +1192,7 @@
 "ES","Spain","MR","Mauritania",2012,0
 "FI","Finland","MR","Mauritania",2012,0
 "FR","France","MR","Mauritania",2012,0
-"GB","United Kingdom","MR","Mauritania",2012,0
+"GB","UK","MR","Mauritania",2012,0
 "JP","Japan","MR","Mauritania",2012,0
 "NL","Netherlands","MR","Mauritania",2012,0
 "NO","Norway","MR","Mauritania",2012,0
@@ -1207,7 +1207,7 @@
 "ES","Spain","MU","Mauritius",2012,0
 "FI","Finland","MU","Mauritius",2012,0
 "FR","France","MU","Mauritius",2012,6841400
-"GB","United Kingdom","MU","Mauritius",2012,0
+"GB","UK","MU","Mauritius",2012,0
 "JP","Japan","MU","Mauritius",2012,0
 "NL","Netherlands","MU","Mauritius",2012,0
 "NO","Norway","MU","Mauritius",2012,0
@@ -1222,7 +1222,7 @@
 "ES","Spain","MX","Mexico",2012,0
 "FI","Finland","MX","Mexico",2012,0
 "FR","France","MX","Mexico",2012,0
-"GB","United Kingdom","MX","Mexico",2012,0
+"GB","UK","MX","Mexico",2012,0
 "JP","Japan","MX","Mexico",2012,650400000
 "NL","Netherlands","MX","Mexico",2012,0
 "NO","Norway","MX","Mexico",2012,0
@@ -1237,7 +1237,7 @@
 "ES","Spain","FM","Micronesia",2012,0
 "FI","Finland","FM","Micronesia",2012,0
 "FR","France","FM","Micronesia",2012,0
-"GB","United Kingdom","FM","Micronesia",2012,0
+"GB","UK","FM","Micronesia",2012,0
 "JP","Japan","FM","Micronesia",2012,0
 "NL","Netherlands","FM","Micronesia",2012,0
 "NO","Norway","FM","Micronesia",2012,0
@@ -1252,7 +1252,7 @@
 "ES","Spain","MD","Moldova",2012,0
 "FI","Finland","MD","Moldova",2012,0
 "FR","France","MD","Moldova",2012,0
-"GB","United Kingdom","MD","Moldova",2012,0
+"GB","UK","MD","Moldova",2012,0
 "JP","Japan","MD","Moldova",2012,0
 "NL","Netherlands","MD","Moldova",2012,0
 "NO","Norway","MD","Moldova",2012,0
@@ -1267,7 +1267,7 @@
 "ES","Spain","MN","Mongolia",2012,0
 "FI","Finland","MN","Mongolia",2012,0
 "FR","France","MN","Mongolia",2012,5e+06
-"GB","United Kingdom","MN","Mongolia",2012,0
+"GB","UK","MN","Mongolia",2012,0
 "JP","Japan","MN","Mongolia",2012,0
 "NL","Netherlands","MN","Mongolia",2012,0
 "NO","Norway","MN","Mongolia",2012,0
@@ -1282,7 +1282,7 @@
 "ES","Spain","ME","Montenegro",2012,0
 "FI","Finland","ME","Montenegro",2012,0
 "FR","France","ME","Montenegro",2012,0
-"GB","United Kingdom","ME","Montenegro",2012,0
+"GB","UK","ME","Montenegro",2012,0
 "JP","Japan","ME","Montenegro",2012,0
 "NL","Netherlands","ME","Montenegro",2012,0
 "NO","Norway","ME","Montenegro",2012,0
@@ -1297,7 +1297,7 @@
 "ES","Spain","MS","Montserrat",2012,0
 "FI","Finland","MS","Montserrat",2012,0
 "FR","France","MS","Montserrat",2012,0
-"GB","United Kingdom","MS","Montserrat",2012,0
+"GB","UK","MS","Montserrat",2012,0
 "JP","Japan","MS","Montserrat",2012,0
 "NL","Netherlands","MS","Montserrat",2012,0
 "NO","Norway","MS","Montserrat",2012,0
@@ -1312,7 +1312,7 @@
 "ES","Spain","MA","Morocco",2012,0
 "FI","Finland","MA","Morocco",2012,0
 "FR","France","MA","Morocco",2012,3507000
-"GB","United Kingdom","MA","Morocco",2012,0
+"GB","UK","MA","Morocco",2012,0
 "JP","Japan","MA","Morocco",2012,148700000
 "NL","Netherlands","MA","Morocco",2012,0
 "NO","Norway","MA","Morocco",2012,0
@@ -1327,7 +1327,7 @@
 "ES","Spain","MZ","Mozambique",2012,0
 "FI","Finland","MZ","Mozambique",2012,0
 "FR","France","MZ","Mozambique",2012,0
-"GB","United Kingdom","MZ","Mozambique",2012,0
+"GB","UK","MZ","Mozambique",2012,0
 "JP","Japan","MZ","Mozambique",2012,1400000
 "NL","Netherlands","MZ","Mozambique",2012,0
 "NO","Norway","MZ","Mozambique",2012,0
@@ -1342,7 +1342,7 @@
 "ES","Spain","MM","Myanmar",2012,0
 "FI","Finland","MM","Myanmar",2012,0
 "FR","France","MM","Myanmar",2012,0
-"GB","United Kingdom","MM","Myanmar",2012,0
+"GB","UK","MM","Myanmar",2012,0
 "JP","Japan","MM","Myanmar",2012,723800000
 "NL","Netherlands","MM","Myanmar",2012,0
 "NO","Norway","MM","Myanmar",2012,0
@@ -1357,7 +1357,7 @@
 "ES","Spain","NA","Namibia",2012,0
 "FI","Finland","NA","Namibia",2012,0
 "FR","France","NA","Namibia",2012,5890000
-"GB","United Kingdom","NA","Namibia",2012,0
+"GB","UK","NA","Namibia",2012,0
 "JP","Japan","NA","Namibia",2012,0
 "NL","Netherlands","NA","Namibia",2012,0
 "NO","Norway","NA","Namibia",2012,0
@@ -1372,7 +1372,7 @@
 "ES","Spain","NR","Nauru",2012,0
 "FI","Finland","NR","Nauru",2012,0
 "FR","France","NR","Nauru",2012,0
-"GB","United Kingdom","NR","Nauru",2012,0
+"GB","UK","NR","Nauru",2012,0
 "JP","Japan","NR","Nauru",2012,0
 "NL","Netherlands","NR","Nauru",2012,0
 "NO","Norway","NR","Nauru",2012,0
@@ -1387,7 +1387,7 @@
 "ES","Spain","NP","Nepal",2012,0
 "FI","Finland","NP","Nepal",2012,0
 "FR","France","NP","Nepal",2012,0
-"GB","United Kingdom","NP","Nepal",2012,0
+"GB","UK","NP","Nepal",2012,0
 "JP","Japan","NP","Nepal",2012,0
 "NL","Netherlands","NP","Nepal",2012,0
 "NO","Norway","NP","Nepal",2012,0
@@ -1402,7 +1402,7 @@
 "ES","Spain","NI","Nicaragua",2012,0
 "FI","Finland","NI","Nicaragua",2012,0
 "FR","France","NI","Nicaragua",2012,26500000
-"GB","United Kingdom","NI","Nicaragua",2012,0
+"GB","UK","NI","Nicaragua",2012,0
 "JP","Japan","NI","Nicaragua",2012,0
 "NL","Netherlands","NI","Nicaragua",2012,0
 "NO","Norway","NI","Nicaragua",2012,12650.39468
@@ -1417,7 +1417,7 @@
 "ES","Spain","NE","Niger",2012,0
 "FI","Finland","NE","Niger",2012,0
 "FR","France","NE","Niger",2012,0
-"GB","United Kingdom","NE","Niger",2012,0
+"GB","UK","NE","Niger",2012,0
 "JP","Japan","NE","Niger",2012,0
 "NL","Netherlands","NE","Niger",2012,0
 "NO","Norway","NE","Niger",2012,0
@@ -1432,7 +1432,7 @@
 "ES","Spain","NG","Nigeria",2012,0
 "FI","Finland","NG","Nigeria",2012,0
 "FR","France","NG","Nigeria",2012,4e+07
-"GB","United Kingdom","NG","Nigeria",2012,26632461.91
+"GB","UK","NG","Nigeria",2012,26632461.91
 "JP","Japan","NG","Nigeria",2012,0
 "NL","Netherlands","NG","Nigeria",2012,0
 "NO","Norway","NG","Nigeria",2012,0
@@ -1447,7 +1447,7 @@
 "ES","Spain","NU","Niue",2012,0
 "FI","Finland","NU","Niue",2012,0
 "FR","France","NU","Niue",2012,0
-"GB","United Kingdom","NU","Niue",2012,0
+"GB","UK","NU","Niue",2012,0
 "JP","Japan","NU","Niue",2012,0
 "NL","Netherlands","NU","Niue",2012,0
 "NO","Norway","NU","Niue",2012,0
@@ -1462,7 +1462,7 @@
 "ES","Spain","KP","North Korea",2012,0
 "FI","Finland","KP","North Korea",2012,0
 "FR","France","KP","North Korea",2012,0
-"GB","United Kingdom","KP","North Korea",2012,0
+"GB","UK","KP","North Korea",2012,0
 "JP","Japan","KP","North Korea",2012,0
 "NL","Netherlands","KP","North Korea",2012,0
 "NO","Norway","KP","North Korea",2012,0
@@ -1477,7 +1477,7 @@
 "ES","Spain","PK","Pakistan",2012,0
 "FI","Finland","PK","Pakistan",2012,0
 "FR","France","PK","Pakistan",2012,0
-"GB","United Kingdom","PK","Pakistan",2012,0
+"GB","UK","PK","Pakistan",2012,0
 "JP","Japan","PK","Pakistan",2012,0
 "NL","Netherlands","PK","Pakistan",2012,0
 "NO","Norway","PK","Pakistan",2012,0
@@ -1492,7 +1492,7 @@
 "ES","Spain","PW","Palau",2012,0
 "FI","Finland","PW","Palau",2012,0
 "FR","France","PW","Palau",2012,0
-"GB","United Kingdom","PW","Palau",2012,0
+"GB","UK","PW","Palau",2012,0
 "JP","Japan","PW","Palau",2012,0
 "NL","Netherlands","PW","Palau",2012,0
 "NO","Norway","PW","Palau",2012,0
@@ -1507,7 +1507,7 @@
 "ES","Spain","PS","Palestine",2012,0
 "FI","Finland","PS","Palestine",2012,0
 "FR","France","PS","Palestine",2012,0
-"GB","United Kingdom","PS","Palestine",2012,0
+"GB","UK","PS","Palestine",2012,0
 "JP","Japan","PS","Palestine",2012,0
 "NL","Netherlands","PS","Palestine",2012,0
 "NO","Norway","PS","Palestine",2012,0
@@ -1522,7 +1522,7 @@
 "ES","Spain","PA","Panama",2012,0
 "FI","Finland","PA","Panama",2012,0
 "FR","France","PA","Panama",2012,9e+06
-"GB","United Kingdom","PA","Panama",2012,0
+"GB","UK","PA","Panama",2012,0
 "JP","Japan","PA","Panama",2012,22300000
 "NL","Netherlands","PA","Panama",2012,0
 "NO","Norway","PA","Panama",2012,0
@@ -1537,7 +1537,7 @@
 "ES","Spain","PG","Papua New Guinea",2012,0
 "FI","Finland","PG","Papua New Guinea",2012,0
 "FR","France","PG","Papua New Guinea",2012,0
-"GB","United Kingdom","PG","Papua New Guinea",2012,0
+"GB","UK","PG","Papua New Guinea",2012,0
 "JP","Japan","PG","Papua New Guinea",2012,227600000
 "NL","Netherlands","PG","Papua New Guinea",2012,0
 "NO","Norway","PG","Papua New Guinea",2012,0
@@ -1552,7 +1552,7 @@
 "ES","Spain","PY","Paraguay",2012,0
 "FI","Finland","PY","Paraguay",2012,0
 "FR","France","PY","Paraguay",2012,0
-"GB","United Kingdom","PY","Paraguay",2012,0
+"GB","UK","PY","Paraguay",2012,0
 "JP","Japan","PY","Paraguay",2012,0
 "NL","Netherlands","PY","Paraguay",2012,0
 "NO","Norway","PY","Paraguay",2012,0
@@ -1567,7 +1567,7 @@
 "ES","Spain","PE","Peru",2012,0
 "FI","Finland","PE","Peru",2012,0
 "FR","France","PE","Peru",2012,32476250
-"GB","United Kingdom","PE","Peru",2012,0
+"GB","UK","PE","Peru",2012,0
 "JP","Japan","PE","Peru",2012,39730000
 "NL","Netherlands","PE","Peru",2012,0
 "NO","Norway","PE","Peru",2012,0
@@ -1582,7 +1582,7 @@
 "ES","Spain","PH","Philippines",2012,0
 "FI","Finland","PH","Philippines",2012,0
 "FR","France","PH","Philippines",2012,0
-"GB","United Kingdom","PH","Philippines",2012,0
+"GB","UK","PH","Philippines",2012,0
 "JP","Japan","PH","Philippines",2012,317500000
 "NL","Netherlands","PH","Philippines",2012,0
 "NO","Norway","PH","Philippines",2012,0
@@ -1597,28 +1597,28 @@
 "ES","Spain","RW","Rwanda",2012,0
 "FI","Finland","RW","Rwanda",2012,0
 "FR","France","RW","Rwanda",2012,4800000
-"GB","United Kingdom","RW","Rwanda",2012,0
+"GB","UK","RW","Rwanda",2012,0
 "JP","Japan","RW","Rwanda",2012,0
 "NL","Netherlands","RW","Rwanda",2012,0
 "NO","Norway","RW","Rwanda",2012,0
 "PT","Portugal","RW","Rwanda",2012,0
 "SE","Sweden","RW","Rwanda",2012,0
 "US","USA","RW","Rwanda",2012,6350000
-"AT","Austria","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"BE","Belgium","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"CH","Switzerland","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"DE","Germany","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"DK","Denmark","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"ES","Spain","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"FI","Finland","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"FR","France","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"GB","United Kingdom","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"JP","Japan","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"NL","Netherlands","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"NO","Norway","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"PT","Portugal","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"SE","Sweden","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
-"US","USA","SH","Saint Helena, Ascension and Tristan da Cunha",2012,0
+"AT","Austria","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"BE","Belgium","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"CH","Switzerland","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"DE","Germany","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"DK","Denmark","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"ES","Spain","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"FI","Finland","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"FR","France","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"GB","UK","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"JP","Japan","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"NL","Netherlands","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"NO","Norway","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"PT","Portugal","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"SE","Sweden","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
+"US","USA","SH","Saint Helena, Ascension & Tristan da Cunha",2012,0
 "AT","Austria","KN","Saint Kitts and Nevis",2012,0
 "BE","Belgium","KN","Saint Kitts and Nevis",2012,0
 "CH","Switzerland","KN","Saint Kitts and Nevis",2012,0
@@ -1627,7 +1627,7 @@
 "ES","Spain","KN","Saint Kitts and Nevis",2012,0
 "FI","Finland","KN","Saint Kitts and Nevis",2012,0
 "FR","France","KN","Saint Kitts and Nevis",2012,0
-"GB","United Kingdom","KN","Saint Kitts and Nevis",2012,0
+"GB","UK","KN","Saint Kitts and Nevis",2012,0
 "JP","Japan","KN","Saint Kitts and Nevis",2012,0
 "NL","Netherlands","KN","Saint Kitts and Nevis",2012,0
 "NO","Norway","KN","Saint Kitts and Nevis",2012,0
@@ -1642,28 +1642,28 @@
 "ES","Spain","LC","Saint Lucia",2012,0
 "FI","Finland","LC","Saint Lucia",2012,0
 "FR","France","LC","Saint Lucia",2012,0
-"GB","United Kingdom","LC","Saint Lucia",2012,0
+"GB","UK","LC","Saint Lucia",2012,0
 "JP","Japan","LC","Saint Lucia",2012,0
 "NL","Netherlands","LC","Saint Lucia",2012,0
 "NO","Norway","LC","Saint Lucia",2012,0
 "PT","Portugal","LC","Saint Lucia",2012,0
 "SE","Sweden","LC","Saint Lucia",2012,0
 "US","USA","LC","Saint Lucia",2012,0
-"AT","Austria","VC","Saint Vincent and the Grenadines",2012,0
-"BE","Belgium","VC","Saint Vincent and the Grenadines",2012,0
-"CH","Switzerland","VC","Saint Vincent and the Grenadines",2012,0
-"DE","Germany","VC","Saint Vincent and the Grenadines",2012,0
-"DK","Denmark","VC","Saint Vincent and the Grenadines",2012,0
-"ES","Spain","VC","Saint Vincent and the Grenadines",2012,0
-"FI","Finland","VC","Saint Vincent and the Grenadines",2012,0
-"FR","France","VC","Saint Vincent and the Grenadines",2012,0
-"GB","United Kingdom","VC","Saint Vincent and the Grenadines",2012,0
-"JP","Japan","VC","Saint Vincent and the Grenadines",2012,0
-"NL","Netherlands","VC","Saint Vincent and the Grenadines",2012,0
-"NO","Norway","VC","Saint Vincent and the Grenadines",2012,0
-"PT","Portugal","VC","Saint Vincent and the Grenadines",2012,0
-"SE","Sweden","VC","Saint Vincent and the Grenadines",2012,0
-"US","USA","VC","Saint Vincent and the Grenadines",2012,0
+"AT","Austria","VC","Saint Vincent & the Grenadines",2012,0
+"BE","Belgium","VC","Saint Vincent & the Grenadines",2012,0
+"CH","Switzerland","VC","Saint Vincent & the Grenadines",2012,0
+"DE","Germany","VC","Saint Vincent & the Grenadines",2012,0
+"DK","Denmark","VC","Saint Vincent & the Grenadines",2012,0
+"ES","Spain","VC","Saint Vincent & the Grenadines",2012,0
+"FI","Finland","VC","Saint Vincent & the Grenadines",2012,0
+"FR","France","VC","Saint Vincent & the Grenadines",2012,0
+"GB","UK","VC","Saint Vincent & the Grenadines",2012,0
+"JP","Japan","VC","Saint Vincent & the Grenadines",2012,0
+"NL","Netherlands","VC","Saint Vincent & the Grenadines",2012,0
+"NO","Norway","VC","Saint Vincent & the Grenadines",2012,0
+"PT","Portugal","VC","Saint Vincent & the Grenadines",2012,0
+"SE","Sweden","VC","Saint Vincent & the Grenadines",2012,0
+"US","USA","VC","Saint Vincent & the Grenadines",2012,0
 "AT","Austria","WS","Samoa",2012,0
 "BE","Belgium","WS","Samoa",2012,0
 "CH","Switzerland","WS","Samoa",2012,0
@@ -1672,28 +1672,28 @@
 "ES","Spain","WS","Samoa",2012,0
 "FI","Finland","WS","Samoa",2012,0
 "FR","France","WS","Samoa",2012,0
-"GB","United Kingdom","WS","Samoa",2012,0
+"GB","UK","WS","Samoa",2012,0
 "JP","Japan","WS","Samoa",2012,0
 "NL","Netherlands","WS","Samoa",2012,0
 "NO","Norway","WS","Samoa",2012,0
 "PT","Portugal","WS","Samoa",2012,0
 "SE","Sweden","WS","Samoa",2012,0
 "US","USA","WS","Samoa",2012,0
-"AT","Austria","ST","Sao Tome and Principe",2012,0
-"BE","Belgium","ST","Sao Tome and Principe",2012,0
-"CH","Switzerland","ST","Sao Tome and Principe",2012,0
-"DE","Germany","ST","Sao Tome and Principe",2012,0
-"DK","Denmark","ST","Sao Tome and Principe",2012,0
-"ES","Spain","ST","Sao Tome and Principe",2012,0
-"FI","Finland","ST","Sao Tome and Principe",2012,0
-"FR","France","ST","Sao Tome and Principe",2012,0
-"GB","United Kingdom","ST","Sao Tome and Principe",2012,0
-"JP","Japan","ST","Sao Tome and Principe",2012,0
-"NL","Netherlands","ST","Sao Tome and Principe",2012,0
-"NO","Norway","ST","Sao Tome and Principe",2012,0
-"PT","Portugal","ST","Sao Tome and Principe",2012,0
-"SE","Sweden","ST","Sao Tome and Principe",2012,0
-"US","USA","ST","Sao Tome and Principe",2012,0
+"AT","Austria","ST","Sao Tome & Principe",2012,0
+"BE","Belgium","ST","Sao Tome & Principe",2012,0
+"CH","Switzerland","ST","Sao Tome & Principe",2012,0
+"DE","Germany","ST","Sao Tome & Principe",2012,0
+"DK","Denmark","ST","Sao Tome & Principe",2012,0
+"ES","Spain","ST","Sao Tome & Principe",2012,0
+"FI","Finland","ST","Sao Tome & Principe",2012,0
+"FR","France","ST","Sao Tome & Principe",2012,0
+"GB","UK","ST","Sao Tome & Principe",2012,0
+"JP","Japan","ST","Sao Tome & Principe",2012,0
+"NL","Netherlands","ST","Sao Tome & Principe",2012,0
+"NO","Norway","ST","Sao Tome & Principe",2012,0
+"PT","Portugal","ST","Sao Tome & Principe",2012,0
+"SE","Sweden","ST","Sao Tome & Principe",2012,0
+"US","USA","ST","Sao Tome & Principe",2012,0
 "AT","Austria","SN","Senegal",2012,0
 "BE","Belgium","SN","Senegal",2012,0
 "CH","Switzerland","SN","Senegal",2012,0
@@ -1702,7 +1702,7 @@
 "ES","Spain","SN","Senegal",2012,0
 "FI","Finland","SN","Senegal",2012,0
 "FR","France","SN","Senegal",2012,0
-"GB","United Kingdom","SN","Senegal",2012,0
+"GB","UK","SN","Senegal",2012,0
 "JP","Japan","SN","Senegal",2012,0
 "NL","Netherlands","SN","Senegal",2012,0
 "NO","Norway","SN","Senegal",2012,0
@@ -1717,7 +1717,7 @@
 "ES","Spain","RS","Serbia",2012,0
 "FI","Finland","RS","Serbia",2012,0
 "FR","France","RS","Serbia",2012,0
-"GB","United Kingdom","RS","Serbia",2012,0
+"GB","UK","RS","Serbia",2012,0
 "JP","Japan","RS","Serbia",2012,0
 "NL","Netherlands","RS","Serbia",2012,0
 "NO","Norway","RS","Serbia",2012,0
@@ -1732,7 +1732,7 @@
 "ES","Spain","SC","Seychelles",2012,0
 "FI","Finland","SC","Seychelles",2012,0
 "FR","France","SC","Seychelles",2012,0
-"GB","United Kingdom","SC","Seychelles",2012,0
+"GB","UK","SC","Seychelles",2012,0
 "JP","Japan","SC","Seychelles",2012,0
 "NL","Netherlands","SC","Seychelles",2012,0
 "NO","Norway","SC","Seychelles",2012,0
@@ -1747,7 +1747,7 @@
 "ES","Spain","SL","Sierra Leone",2012,0
 "FI","Finland","SL","Sierra Leone",2012,0
 "FR","France","SL","Sierra Leone",2012,0
-"GB","United Kingdom","SL","Sierra Leone",2012,0
+"GB","UK","SL","Sierra Leone",2012,0
 "JP","Japan","SL","Sierra Leone",2012,0
 "NL","Netherlands","SL","Sierra Leone",2012,0
 "NO","Norway","SL","Sierra Leone",2012,0
@@ -1762,7 +1762,7 @@
 "ES","Spain","SB","Solomon Islands",2012,0
 "FI","Finland","SB","Solomon Islands",2012,0
 "FR","France","SB","Solomon Islands",2012,0
-"GB","United Kingdom","SB","Solomon Islands",2012,0
+"GB","UK","SB","Solomon Islands",2012,0
 "JP","Japan","SB","Solomon Islands",2012,0
 "NL","Netherlands","SB","Solomon Islands",2012,0
 "NO","Norway","SB","Solomon Islands",2012,0
@@ -1777,7 +1777,7 @@
 "ES","Spain","SO","Somalia",2012,0
 "FI","Finland","SO","Somalia",2012,0
 "FR","France","SO","Somalia",2012,0
-"GB","United Kingdom","SO","Somalia",2012,0
+"GB","UK","SO","Somalia",2012,0
 "JP","Japan","SO","Somalia",2012,0
 "NL","Netherlands","SO","Somalia",2012,0
 "NO","Norway","SO","Somalia",2012,0
@@ -1792,7 +1792,7 @@
 "ES","Spain","ZA","South Africa",2012,0
 "FI","Finland","ZA","South Africa",2012,0
 "FR","France","ZA","South Africa",2012,57529200
-"GB","United Kingdom","ZA","South Africa",2012,0
+"GB","UK","ZA","South Africa",2012,0
 "JP","Japan","ZA","South Africa",2012,48700000
 "NL","Netherlands","ZA","South Africa",2012,0
 "NO","Norway","ZA","South Africa",2012,19600500
@@ -1807,7 +1807,7 @@
 "ES","Spain","SS","South Sudan",2012,0
 "FI","Finland","SS","South Sudan",2012,0
 "FR","France","SS","South Sudan",2012,0
-"GB","United Kingdom","SS","South Sudan",2012,0
+"GB","UK","SS","South Sudan",2012,0
 "JP","Japan","SS","South Sudan",2012,0
 "NL","Netherlands","SS","South Sudan",2012,0
 "NO","Norway","SS","South Sudan",2012,1107782.234
@@ -1822,7 +1822,7 @@
 "ES","Spain","LK","Sri Lanka",2012,0
 "FI","Finland","LK","Sri Lanka",2012,0
 "FR","France","LK","Sri Lanka",2012,2e+07
-"GB","United Kingdom","LK","Sri Lanka",2012,0
+"GB","UK","LK","Sri Lanka",2012,0
 "JP","Japan","LK","Sri Lanka",2012,0
 "NL","Netherlands","LK","Sri Lanka",2012,0
 "NO","Norway","LK","Sri Lanka",2012,0
@@ -1837,7 +1837,7 @@
 "ES","Spain","SD","Sudan",2012,0
 "FI","Finland","SD","Sudan",2012,0
 "FR","France","SD","Sudan",2012,0
-"GB","United Kingdom","SD","Sudan",2012,0
+"GB","UK","SD","Sudan",2012,0
 "JP","Japan","SD","Sudan",2012,0
 "NL","Netherlands","SD","Sudan",2012,0
 "NO","Norway","SD","Sudan",2012,0
@@ -1852,7 +1852,7 @@
 "ES","Spain","SR","Suriname",2012,0
 "FI","Finland","SR","Suriname",2012,0
 "FR","France","SR","Suriname",2012,0
-"GB","United Kingdom","SR","Suriname",2012,0
+"GB","UK","SR","Suriname",2012,0
 "JP","Japan","SR","Suriname",2012,0
 "NL","Netherlands","SR","Suriname",2012,0
 "NO","Norway","SR","Suriname",2012,0
@@ -1867,7 +1867,7 @@
 "ES","Spain","SZ","Swaziland",2012,0
 "FI","Finland","SZ","Swaziland",2012,0
 "FR","France","SZ","Swaziland",2012,0
-"GB","United Kingdom","SZ","Swaziland",2012,0
+"GB","UK","SZ","Swaziland",2012,0
 "JP","Japan","SZ","Swaziland",2012,0
 "NL","Netherlands","SZ","Swaziland",2012,0
 "NO","Norway","SZ","Swaziland",2012,0
@@ -1882,7 +1882,7 @@
 "ES","Spain","SY","Syria",2012,0
 "FI","Finland","SY","Syria",2012,0
 "FR","France","SY","Syria",2012,0
-"GB","United Kingdom","SY","Syria",2012,0
+"GB","UK","SY","Syria",2012,0
 "JP","Japan","SY","Syria",2012,0
 "NL","Netherlands","SY","Syria",2012,0
 "NO","Norway","SY","Syria",2012,0
@@ -1897,7 +1897,7 @@
 "ES","Spain","TJ","Tajikistan",2012,0
 "FI","Finland","TJ","Tajikistan",2012,0
 "FR","France","TJ","Tajikistan",2012,0
-"GB","United Kingdom","TJ","Tajikistan",2012,0
+"GB","UK","TJ","Tajikistan",2012,0
 "JP","Japan","TJ","Tajikistan",2012,0
 "NL","Netherlands","TJ","Tajikistan",2012,0
 "NO","Norway","TJ","Tajikistan",2012,0
@@ -1912,7 +1912,7 @@
 "ES","Spain","TZ","Tanzania",2012,0
 "FI","Finland","TZ","Tanzania",2012,0
 "FR","France","TZ","Tanzania",2012,2e+07
-"GB","United Kingdom","TZ","Tanzania",2012,0
+"GB","UK","TZ","Tanzania",2012,0
 "JP","Japan","TZ","Tanzania",2012,0
 "NL","Netherlands","TZ","Tanzania",2012,0
 "NO","Norway","TZ","Tanzania",2012,0
@@ -1927,7 +1927,7 @@
 "ES","Spain","TH","Thailand",2012,0
 "FI","Finland","TH","Thailand",2012,0
 "FR","France","TH","Thailand",2012,0
-"GB","United Kingdom","TH","Thailand",2012,0
+"GB","UK","TH","Thailand",2012,0
 "JP","Japan","TH","Thailand",2012,562600000
 "NL","Netherlands","TH","Thailand",2012,0
 "NO","Norway","TH","Thailand",2012,0
@@ -1942,7 +1942,7 @@
 "ES","Spain","TL","Timor-Leste",2012,0
 "FI","Finland","TL","Timor-Leste",2012,0
 "FR","France","TL","Timor-Leste",2012,0
-"GB","United Kingdom","TL","Timor-Leste",2012,0
+"GB","UK","TL","Timor-Leste",2012,0
 "JP","Japan","TL","Timor-Leste",2012,0
 "NL","Netherlands","TL","Timor-Leste",2012,0
 "NO","Norway","TL","Timor-Leste",2012,0
@@ -1957,7 +1957,7 @@
 "ES","Spain","TG","Togo",2012,0
 "FI","Finland","TG","Togo",2012,0
 "FR","France","TG","Togo",2012,0
-"GB","United Kingdom","TG","Togo",2012,0
+"GB","UK","TG","Togo",2012,0
 "JP","Japan","TG","Togo",2012,0
 "NL","Netherlands","TG","Togo",2012,0
 "NO","Norway","TG","Togo",2012,0
@@ -1972,7 +1972,7 @@
 "ES","Spain","TK","Tokelau",2012,0
 "FI","Finland","TK","Tokelau",2012,0
 "FR","France","TK","Tokelau",2012,0
-"GB","United Kingdom","TK","Tokelau",2012,0
+"GB","UK","TK","Tokelau",2012,0
 "JP","Japan","TK","Tokelau",2012,0
 "NL","Netherlands","TK","Tokelau",2012,0
 "NO","Norway","TK","Tokelau",2012,0
@@ -1987,7 +1987,7 @@
 "ES","Spain","TO","Tonga",2012,0
 "FI","Finland","TO","Tonga",2012,0
 "FR","France","TO","Tonga",2012,0
-"GB","United Kingdom","TO","Tonga",2012,0
+"GB","UK","TO","Tonga",2012,0
 "JP","Japan","TO","Tonga",2012,0
 "NL","Netherlands","TO","Tonga",2012,0
 "NO","Norway","TO","Tonga",2012,0
@@ -2002,7 +2002,7 @@
 "ES","Spain","TN","Tunisia",2012,0
 "FI","Finland","TN","Tunisia",2012,0
 "FR","France","TN","Tunisia",2012,2575200
-"GB","United Kingdom","TN","Tunisia",2012,0
+"GB","UK","TN","Tunisia",2012,0
 "JP","Japan","TN","Tunisia",2012,0
 "NL","Netherlands","TN","Tunisia",2012,0
 "NO","Norway","TN","Tunisia",2012,0
@@ -2017,7 +2017,7 @@
 "ES","Spain","TR","Turkey",2012,0
 "FI","Finland","TR","Turkey",2012,0
 "FR","France","TR","Turkey",2012,82396500
-"GB","United Kingdom","TR","Turkey",2012,0
+"GB","UK","TR","Turkey",2012,0
 "JP","Japan","TR","Turkey",2012,141200000
 "NL","Netherlands","TR","Turkey",2012,0
 "NO","Norway","TR","Turkey",2012,0
@@ -2032,7 +2032,7 @@
 "ES","Spain","TM","Turkmenistan",2012,0
 "FI","Finland","TM","Turkmenistan",2012,0
 "FR","France","TM","Turkmenistan",2012,0
-"GB","United Kingdom","TM","Turkmenistan",2012,0
+"GB","UK","TM","Turkmenistan",2012,0
 "JP","Japan","TM","Turkmenistan",2012,0
 "NL","Netherlands","TM","Turkmenistan",2012,0
 "NO","Norway","TM","Turkmenistan",2012,0
@@ -2047,7 +2047,7 @@
 "ES","Spain","TV","Tuvalu",2012,0
 "FI","Finland","TV","Tuvalu",2012,0
 "FR","France","TV","Tuvalu",2012,0
-"GB","United Kingdom","TV","Tuvalu",2012,0
+"GB","UK","TV","Tuvalu",2012,0
 "JP","Japan","TV","Tuvalu",2012,0
 "NL","Netherlands","TV","Tuvalu",2012,0
 "NO","Norway","TV","Tuvalu",2012,0
@@ -2062,7 +2062,7 @@
 "ES","Spain","UG","Uganda",2012,0
 "FI","Finland","UG","Uganda",2012,0
 "FR","France","UG","Uganda",2012,2.3e+07
-"GB","United Kingdom","UG","Uganda",2012,0
+"GB","UK","UG","Uganda",2012,0
 "JP","Japan","UG","Uganda",2012,0
 "NL","Netherlands","UG","Uganda",2012,0
 "NO","Norway","UG","Uganda",2012,2201700
@@ -2077,7 +2077,7 @@
 "ES","Spain","UA","Ukraine",2012,0
 "FI","Finland","UA","Ukraine",2012,0
 "FR","France","UA","Ukraine",2012,0
-"GB","United Kingdom","UA","Ukraine",2012,0
+"GB","UK","UA","Ukraine",2012,0
 "JP","Japan","UA","Ukraine",2012,0
 "NL","Netherlands","UA","Ukraine",2012,0
 "NO","Norway","UA","Ukraine",2012,0
@@ -2092,7 +2092,7 @@
 "ES","Spain","UY","Uruguay",2012,0
 "FI","Finland","UY","Uruguay",2012,0
 "FR","France","UY","Uruguay",2012,0
-"GB","United Kingdom","UY","Uruguay",2012,0
+"GB","UK","UY","Uruguay",2012,0
 "JP","Japan","UY","Uruguay",2012,0
 "NL","Netherlands","UY","Uruguay",2012,0
 "NO","Norway","UY","Uruguay",2012,0
@@ -2107,7 +2107,7 @@
 "ES","Spain","UZ","Uzbekistan",2012,0
 "FI","Finland","UZ","Uzbekistan",2012,0
 "FR","France","UZ","Uzbekistan",2012,0
-"GB","United Kingdom","UZ","Uzbekistan",2012,0
+"GB","UK","UZ","Uzbekistan",2012,0
 "JP","Japan","UZ","Uzbekistan",2012,0
 "NL","Netherlands","UZ","Uzbekistan",2012,0
 "NO","Norway","UZ","Uzbekistan",2012,0
@@ -2122,7 +2122,7 @@
 "ES","Spain","VU","Vanuatu",2012,0
 "FI","Finland","VU","Vanuatu",2012,0
 "FR","France","VU","Vanuatu",2012,0
-"GB","United Kingdom","VU","Vanuatu",2012,0
+"GB","UK","VU","Vanuatu",2012,0
 "JP","Japan","VU","Vanuatu",2012,0
 "NL","Netherlands","VU","Vanuatu",2012,0
 "NO","Norway","VU","Vanuatu",2012,0
@@ -2137,7 +2137,7 @@
 "ES","Spain","VE","Venezuela",2012,0
 "FI","Finland","VE","Venezuela",2012,0
 "FR","France","VE","Venezuela",2012,0
-"GB","United Kingdom","VE","Venezuela",2012,0
+"GB","UK","VE","Venezuela",2012,0
 "JP","Japan","VE","Venezuela",2012,249100000
 "NL","Netherlands","VE","Venezuela",2012,0
 "NO","Norway","VE","Venezuela",2012,0
@@ -2152,28 +2152,28 @@
 "ES","Spain","VN","Viet Nam",2012,0
 "FI","Finland","VN","Viet Nam",2012,0
 "FR","France","VN","Viet Nam",2012,0
-"GB","United Kingdom","VN","Viet Nam",2012,0
+"GB","UK","VN","Viet Nam",2012,0
 "JP","Japan","VN","Viet Nam",2012,68400000
 "NL","Netherlands","VN","Viet Nam",2012,0
 "NO","Norway","VN","Viet Nam",2012,0
 "PT","Portugal","VN","Viet Nam",2012,0
 "SE","Sweden","VN","Viet Nam",2012,0
 "US","USA","VN","Viet Nam",2012,0
-"AT","Austria","WF","Wallis and Futuna",2012,0
-"BE","Belgium","WF","Wallis and Futuna",2012,0
-"CH","Switzerland","WF","Wallis and Futuna",2012,0
-"DE","Germany","WF","Wallis and Futuna",2012,0
-"DK","Denmark","WF","Wallis and Futuna",2012,0
-"ES","Spain","WF","Wallis and Futuna",2012,0
-"FI","Finland","WF","Wallis and Futuna",2012,0
-"FR","France","WF","Wallis and Futuna",2012,0
-"GB","United Kingdom","WF","Wallis and Futuna",2012,0
-"JP","Japan","WF","Wallis and Futuna",2012,0
-"NL","Netherlands","WF","Wallis and Futuna",2012,0
-"NO","Norway","WF","Wallis and Futuna",2012,0
-"PT","Portugal","WF","Wallis and Futuna",2012,0
-"SE","Sweden","WF","Wallis and Futuna",2012,0
-"US","USA","WF","Wallis and Futuna",2012,0
+"AT","Austria","WF","Wallis & Futuna",2012,0
+"BE","Belgium","WF","Wallis & Futuna",2012,0
+"CH","Switzerland","WF","Wallis & Futuna",2012,0
+"DE","Germany","WF","Wallis & Futuna",2012,0
+"DK","Denmark","WF","Wallis & Futuna",2012,0
+"ES","Spain","WF","Wallis & Futuna",2012,0
+"FI","Finland","WF","Wallis & Futuna",2012,0
+"FR","France","WF","Wallis & Futuna",2012,0
+"GB","UK","WF","Wallis & Futuna",2012,0
+"JP","Japan","WF","Wallis & Futuna",2012,0
+"NL","Netherlands","WF","Wallis & Futuna",2012,0
+"NO","Norway","WF","Wallis & Futuna",2012,0
+"PT","Portugal","WF","Wallis & Futuna",2012,0
+"SE","Sweden","WF","Wallis & Futuna",2012,0
+"US","USA","WF","Wallis & Futuna",2012,0
 "AT","Austria","YE","Yemen",2012,0
 "BE","Belgium","YE","Yemen",2012,0
 "CH","Switzerland","YE","Yemen",2012,0
@@ -2182,7 +2182,7 @@
 "ES","Spain","YE","Yemen",2012,0
 "FI","Finland","YE","Yemen",2012,0
 "FR","France","YE","Yemen",2012,0
-"GB","United Kingdom","YE","Yemen",2012,0
+"GB","UK","YE","Yemen",2012,0
 "JP","Japan","YE","Yemen",2012,0
 "NL","Netherlands","YE","Yemen",2012,0
 "NO","Norway","YE","Yemen",2012,0
@@ -2197,7 +2197,7 @@
 "ES","Spain","ZM","Zambia",2012,0
 "FI","Finland","ZM","Zambia",2012,0
 "FR","France","ZM","Zambia",2012,0
-"GB","United Kingdom","ZM","Zambia",2012,0
+"GB","UK","ZM","Zambia",2012,0
 "JP","Japan","ZM","Zambia",2012,0
 "NL","Netherlands","ZM","Zambia",2012,0
 "NO","Norway","ZM","Zambia",2012,10668400
@@ -2212,7 +2212,7 @@
 "ES","Spain","ZW","Zimbabwe",2012,0
 "FI","Finland","ZW","Zimbabwe",2012,0
 "FR","France","ZW","Zimbabwe",2012,0
-"GB","United Kingdom","ZW","Zimbabwe",2012,0
+"GB","UK","ZW","Zimbabwe",2012,0
 "JP","Japan","ZW","Zimbabwe",2012,0
 "NL","Netherlands","ZW","Zimbabwe",2012,0
 "NO","Norway","ZW","Zimbabwe",2012,0

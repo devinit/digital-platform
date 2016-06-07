@@ -31,14 +31,14 @@
 "AO","Angola",2010,2.42
 "AO","Angola",2011,2.41
 "AO","Angola",2012,2.4
-"AG","Antigua and Barbuda",2005,7.27
-"AG","Antigua and Barbuda",2006,7.29
-"AG","Antigua and Barbuda",2007,7.3
-"AG","Antigua and Barbuda",2008,7.29
-"AG","Antigua and Barbuda",2009,7.27
-"AG","Antigua and Barbuda",2010,7.23
-"AG","Antigua and Barbuda",2011,7.19
-"AG","Antigua and Barbuda",2012,7.14
+"AG","Antigua & Barbuda",2005,7.27
+"AG","Antigua & Barbuda",2006,7.29
+"AG","Antigua & Barbuda",2007,7.3
+"AG","Antigua & Barbuda",2008,7.29
+"AG","Antigua & Barbuda",2009,7.27
+"AG","Antigua & Barbuda",2010,7.23
+"AG","Antigua & Barbuda",2011,7.19
+"AG","Antigua & Barbuda",2012,7.14
 "AR","Argentina",2005,10.23
 "AR","Argentina",2006,10.3
 "AR","Argentina",2007,10.37
@@ -111,14 +111,14 @@
 "BO","Bolivia ",2010,4.69
 "BO","Bolivia ",2011,4.76
 "BO","Bolivia ",2012,4.83
-"BA","Bosnia and Herzegovina",2005,13.14
-"BA","Bosnia and Herzegovina",2006,13.59
-"BA","Bosnia and Herzegovina",2007,14.02
-"BA","Bosnia and Herzegovina",2008,14.42
-"BA","Bosnia and Herzegovina",2009,14.78
-"BA","Bosnia and Herzegovina",2010,15.07
-"BA","Bosnia and Herzegovina",2011,15.29
-"BA","Bosnia and Herzegovina",2012,15.46
+"BA","Bosnia & Herzegovina",2005,13.14
+"BA","Bosnia & Herzegovina",2006,13.59
+"BA","Bosnia & Herzegovina",2007,14.02
+"BA","Bosnia & Herzegovina",2008,14.42
+"BA","Bosnia & Herzegovina",2009,14.78
+"BA","Bosnia & Herzegovina",2010,15.07
+"BA","Bosnia & Herzegovina",2011,15.29
+"BA","Bosnia & Herzegovina",2012,15.46
 "BW","Botswana",2005,3.21
 "BW","Botswana",2006,3.27
 "BW","Botswana",2007,3.32
@@ -151,14 +151,6 @@
 "BI","Burundi",2010,2.53
 "BI","Burundi",2011,2.48
 "BI","Burundi",2012,2.44
-"CI","Côte d'Ivoire",2005,2.95
-"CI","Côte d'Ivoire",2006,2.98
-"CI","Côte d'Ivoire",2007,3.01
-"CI","Côte d'Ivoire",2008,3.05
-"CI","Côte d'Ivoire",2009,3.08
-"CI","Côte d'Ivoire",2010,3.11
-"CI","Côte d'Ivoire",2011,3.13
-"CI","Côte d'Ivoire",2012,3.14
 "KH","Cambodia",2005,4.38
 "KH","Cambodia",2006,4.51
 "KH","Cambodia",2007,4.64
@@ -239,6 +231,14 @@
 "CR","Costa Rica",2010,6.5
 "CR","Costa Rica",2011,6.66
 "CR","Costa Rica",2012,6.83
+"CI","Cote d'Ivoire",2005,2.95
+"CI","Cote d'Ivoire",2006,2.98
+"CI","Cote d'Ivoire",2007,3.01
+"CI","Cote d'Ivoire",2008,3.05
+"CI","Cote d'Ivoire",2009,3.08
+"CI","Cote d'Ivoire",2010,3.11
+"CI","Cote d'Ivoire",2011,3.13
+"CI","Cote d'Ivoire",2012,3.14
 "CU","Cuba",2005,10.97
 "CU","Cuba",2006,11.25
 "CU","Cuba",2007,11.53
@@ -807,14 +807,14 @@
 "LC","Saint Lucia",2010,8.47
 "LC","Saint Lucia",2011,8.63
 "LC","Saint Lucia",2012,8.74
-"VC","Saint Vincent and the Grenadines",2005,7.18
-"VC","Saint Vincent and the Grenadines",2006,7.12
-"VC","Saint Vincent and the Grenadines",2007,7.01
-"VC","Saint Vincent and the Grenadines",2008,6.88
-"VC","Saint Vincent and the Grenadines",2009,6.78
-"VC","Saint Vincent and the Grenadines",2010,6.74
-"VC","Saint Vincent and the Grenadines",2011,6.76
-"VC","Saint Vincent and the Grenadines",2012,6.83
+"VC","Saint Vincent & the Grenadines",2005,7.18
+"VC","Saint Vincent & the Grenadines",2006,7.12
+"VC","Saint Vincent & the Grenadines",2007,7.01
+"VC","Saint Vincent & the Grenadines",2008,6.88
+"VC","Saint Vincent & the Grenadines",2009,6.78
+"VC","Saint Vincent & the Grenadines",2010,6.74
+"VC","Saint Vincent & the Grenadines",2011,6.76
+"VC","Saint Vincent & the Grenadines",2012,6.83
 "WS","Samoa",2005,4.84
 "WS","Samoa",2006,4.9
 "WS","Samoa",2007,4.94
@@ -823,14 +823,14 @@
 "WS","Samoa",2010,5.05
 "WS","Samoa",2011,5.07
 "WS","Samoa",2012,5.1
-"ST","Sao Tome and Principe",2005,3.99
-"ST","Sao Tome and Principe",2006,3.94
-"ST","Sao Tome and Principe",2007,3.87
-"ST","Sao Tome and Principe",2008,3.79
-"ST","Sao Tome and Principe",2009,3.7
-"ST","Sao Tome and Principe",2010,3.62
-"ST","Sao Tome and Principe",2011,3.53
-"ST","Sao Tome and Principe",2012,3.45
+"ST","Sao Tome & Principe",2005,3.99
+"ST","Sao Tome & Principe",2006,3.94
+"ST","Sao Tome & Principe",2007,3.87
+"ST","Sao Tome & Principe",2008,3.79
+"ST","Sao Tome & Principe",2009,3.7
+"ST","Sao Tome & Principe",2010,3.62
+"ST","Sao Tome & Principe",2011,3.53
+"ST","Sao Tome & Principe",2012,3.45
 "SN","Senegal",2005,3.17
 "SN","Senegal",2006,3.16
 "SN","Senegal",2007,3.15

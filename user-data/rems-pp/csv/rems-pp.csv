@@ -69,20 +69,20 @@
 "AI","Anguilla",2011,
 "AI","Anguilla",2012,
 "AI","Anguilla",2013,
-"AG","Antigua and Barbuda",2000,351.5214333
-"AG","Antigua and Barbuda",2001,437.1954235
-"AG","Antigua and Barbuda",2002,277.4420901
-"AG","Antigua and Barbuda",2003,310.9369895
-"AG","Antigua and Barbuda",2004,315.8216391
-"AG","Antigua and Barbuda",2005,263.9401805
-"AG","Antigua and Barbuda",2006,272.9116385
-"AG","Antigua and Barbuda",2007,273.6523331
-"AG","Antigua and Barbuda",2008,276.1636163
-"AG","Antigua and Barbuda",2009,257.9126273
-"AG","Antigua and Barbuda",2010,242.1326523
-"AG","Antigua and Barbuda",2011,237.5589468
-"AG","Antigua and Barbuda",2012,230.7920113
-"AG","Antigua and Barbuda",2013,244.0711474
+"AG","Antigua & Barbuda",2000,351.5214333
+"AG","Antigua & Barbuda",2001,437.1954235
+"AG","Antigua & Barbuda",2002,277.4420901
+"AG","Antigua & Barbuda",2003,310.9369895
+"AG","Antigua & Barbuda",2004,315.8216391
+"AG","Antigua & Barbuda",2005,263.9401805
+"AG","Antigua & Barbuda",2006,272.9116385
+"AG","Antigua & Barbuda",2007,273.6523331
+"AG","Antigua & Barbuda",2008,276.1636163
+"AG","Antigua & Barbuda",2009,257.9126273
+"AG","Antigua & Barbuda",2010,242.1326523
+"AG","Antigua & Barbuda",2011,237.5589468
+"AG","Antigua & Barbuda",2012,230.7920113
+"AG","Antigua & Barbuda",2013,244.0711474
 "AR","Argentina",2000,2.953311366
 "AR","Argentina",2001,6.490060442
 "AR","Argentina",2002,17.23952224
@@ -209,20 +209,20 @@
 "BO","Bolivia ",2011,108.5699816
 "BO","Bolivia ",2012,105.8023962
 "BO","Bolivia ",2013,104.733509
-"BA","Bosnia and Herzegovina",2000,894.5043217
-"BA","Bosnia and Herzegovina",2001,824.4957725
-"BA","Bosnia and Herzegovina",2002,743.4386545
-"BA","Bosnia and Herzegovina",2003,701.0330421
-"BA","Bosnia and Herzegovina",2004,738.2171073
-"BA","Bosnia and Herzegovina",2005,701.6685206
-"BA","Bosnia and Herzegovina",2006,687.1813108
-"BA","Bosnia and Herzegovina",2007,741.5531587
-"BA","Bosnia and Herzegovina",2008,649.9297554
-"BA","Bosnia and Herzegovina",2009,537.4025259
-"BA","Bosnia and Herzegovina",2010,476.7382048
-"BA","Bosnia and Herzegovina",2011,476.4909026
-"BA","Bosnia and Herzegovina",2012,479.5355515
-"BA","Bosnia and Herzegovina",2013,460.9473029
+"BA","Bosnia & Herzegovina",2000,894.5043217
+"BA","Bosnia & Herzegovina",2001,824.4957725
+"BA","Bosnia & Herzegovina",2002,743.4386545
+"BA","Bosnia & Herzegovina",2003,701.0330421
+"BA","Bosnia & Herzegovina",2004,738.2171073
+"BA","Bosnia & Herzegovina",2005,701.6685206
+"BA","Bosnia & Herzegovina",2006,687.1813108
+"BA","Bosnia & Herzegovina",2007,741.5531587
+"BA","Bosnia & Herzegovina",2008,649.9297554
+"BA","Bosnia & Herzegovina",2009,537.4025259
+"BA","Bosnia & Herzegovina",2010,476.7382048
+"BA","Bosnia & Herzegovina",2011,476.4909026
+"BA","Bosnia & Herzegovina",2012,479.5355515
+"BA","Bosnia & Herzegovina",2013,460.9473029
 "BW","Botswana",2000,23.24911954
 "BW","Botswana",2001,23.83942254
 "BW","Botswana",2002,26.39992623
@@ -279,20 +279,6 @@
 "BI","Burundi",2011,4.849853199
 "BI","Burundi",2012,4.714282133
 "BI","Burundi",2013,4.380921468
-"CI","Côte d'Ivoire",2000,16.65959786
-"CI","Côte d'Ivoire",2001,15.75537185
-"CI","Côte d'Ivoire",2002,14.47408359
-"CI","Côte d'Ivoire",2003,13.85808539
-"CI","Côte d'Ivoire",2004,13.86049374
-"CI","Côte d'Ivoire",2005,13.49317251
-"CI","Côte d'Ivoire",2006,12.89943041
-"CI","Côte d'Ivoire",2007,12.52262153
-"CI","Côte d'Ivoire",2008,11.44060311
-"CI","Côte d'Ivoire",2009,19.28565927
-"CI","Côte d'Ivoire",2010,22.48911238
-"CI","Côte d'Ivoire",2011,19.98354921
-"CI","Côte d'Ivoire",2012,18.82471148
-"CI","Côte d'Ivoire",2013,17.55846243
 "KH","Cambodia",2000,15.35915077
 "KH","Cambodia",2001,16.40869808
 "KH","Cambodia",2002,16.82553975
@@ -461,6 +447,20 @@
 "CR","Costa Rica",2011,114.9231256
 "CR","Costa Rica",2012,117.0256378
 "CR","Costa Rica",2013,117.6817986
+"CI","Cote d'Ivoire",2000,16.65959786
+"CI","Cote d'Ivoire",2001,15.75537185
+"CI","Cote d'Ivoire",2002,14.47408359
+"CI","Cote d'Ivoire",2003,13.85808539
+"CI","Cote d'Ivoire",2004,13.86049374
+"CI","Cote d'Ivoire",2005,13.49317251
+"CI","Cote d'Ivoire",2006,12.89943041
+"CI","Cote d'Ivoire",2007,12.52262153
+"CI","Cote d'Ivoire",2008,11.44060311
+"CI","Cote d'Ivoire",2009,19.28565927
+"CI","Cote d'Ivoire",2010,22.48911238
+"CI","Cote d'Ivoire",2011,19.98354921
+"CI","Cote d'Ivoire",2012,18.82471148
+"CI","Cote d'Ivoire",2013,17.55846243
 "CU","Cuba",2000,
 "CU","Cuba",2001,
 "CU","Cuba",2002,
@@ -1497,20 +1497,20 @@
 "RW","Rwanda",2011,16.49271034
 "RW","Rwanda",2012,15.91974528
 "RW","Rwanda",2013,15.06830659
-"SH","Saint Helena, Ascension and Tristan da Cunha",2000,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2001,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2002,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2003,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2004,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2005,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2006,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2007,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2008,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2009,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2010,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2011,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2012,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2013,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2000,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2001,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2002,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2003,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2004,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2005,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2006,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2007,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2008,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2009,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2010,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2011,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2012,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2013,
 "KN","Saint Kitts and Nevis",2000,891.5308711
 "KN","Saint Kitts and Nevis",2001,867.7451378
 "KN","Saint Kitts and Nevis",2002,846.2643824
@@ -1539,20 +1539,20 @@
 "LC","Saint Lucia",2011,167.2820808
 "LC","Saint Lucia",2012,164.9096665
 "LC","Saint Lucia",2013,159.7144201
-"VC","Saint Vincent and the Grenadines",2000,276.0923007
-"VC","Saint Vincent and the Grenadines",2001,260.8074868
-"VC","Saint Vincent and the Grenadines",2002,262.2655675
-"VC","Saint Vincent and the Grenadines",2003,273.7039149
-"VC","Saint Vincent and the Grenadines",2004,286.2571876
-"VC","Saint Vincent and the Grenadines",2005,245.0270561
-"VC","Saint Vincent and the Grenadines",2006,266.6543187
-"VC","Saint Vincent and the Grenadines",2007,276.7889412
-"VC","Saint Vincent and the Grenadines",2008,251.2508459
-"VC","Saint Vincent and the Grenadines",2009,274.8094578
-"VC","Saint Vincent and the Grenadines",2010,266.0610245
-"VC","Saint Vincent and the Grenadines",2011,269.9473433
-"VC","Saint Vincent and the Grenadines",2012,271.2089736
-"VC","Saint Vincent and the Grenadines",2013,282.6205104
+"VC","Saint Vincent & the Grenadines",2000,276.0923007
+"VC","Saint Vincent & the Grenadines",2001,260.8074868
+"VC","Saint Vincent & the Grenadines",2002,262.2655675
+"VC","Saint Vincent & the Grenadines",2003,273.7039149
+"VC","Saint Vincent & the Grenadines",2004,286.2571876
+"VC","Saint Vincent & the Grenadines",2005,245.0270561
+"VC","Saint Vincent & the Grenadines",2006,266.6543187
+"VC","Saint Vincent & the Grenadines",2007,276.7889412
+"VC","Saint Vincent & the Grenadines",2008,251.2508459
+"VC","Saint Vincent & the Grenadines",2009,274.8094578
+"VC","Saint Vincent & the Grenadines",2010,266.0610245
+"VC","Saint Vincent & the Grenadines",2011,269.9473433
+"VC","Saint Vincent & the Grenadines",2012,271.2089736
+"VC","Saint Vincent & the Grenadines",2013,282.6205104
 "WS","Samoa",2000,0
 "WS","Samoa",2001,0
 "WS","Samoa",2002,0
@@ -1567,20 +1567,20 @@
 "WS","Samoa",2011,904.7029917
 "WS","Samoa",2012,736.6606564
 "WS","Samoa",2013,895.2397984
-"ST","Sao Tome and Principe",2000,6.434066485
-"ST","Sao Tome and Principe",2001,7.784646018
-"ST","Sao Tome and Principe",2002,10.16649068
-"ST","Sao Tome and Principe",2003,20.43646355
-"ST","Sao Tome and Principe",2004,11.47704585
-"ST","Sao Tome and Principe",2005,14.00385764
-"ST","Sao Tome and Principe",2006,14.92576798
-"ST","Sao Tome and Principe",2007,17.3397385
-"ST","Sao Tome and Principe",2008,21.67869239
-"ST","Sao Tome and Principe",2009,13.632668
-"ST","Sao Tome and Principe",2010,42.96596923
-"ST","Sao Tome and Principe",2011,38.45214946
-"ST","Sao Tome and Principe",2012,33.80626087
-"ST","Sao Tome and Principe",2013,
+"ST","Sao Tome & Principe",2000,6.434066485
+"ST","Sao Tome & Principe",2001,7.784646018
+"ST","Sao Tome & Principe",2002,10.16649068
+"ST","Sao Tome & Principe",2003,20.43646355
+"ST","Sao Tome & Principe",2004,11.47704585
+"ST","Sao Tome & Principe",2005,14.00385764
+"ST","Sao Tome & Principe",2006,14.92576798
+"ST","Sao Tome & Principe",2007,17.3397385
+"ST","Sao Tome & Principe",2008,21.67869239
+"ST","Sao Tome & Principe",2009,13.632668
+"ST","Sao Tome & Principe",2010,42.96596923
+"ST","Sao Tome & Principe",2011,38.45214946
+"ST","Sao Tome & Principe",2012,33.80626087
+"ST","Sao Tome & Principe",2013,
 "SN","Senegal",2000,44.91252617
 "SN","Senegal",2001,57.42002312
 "SN","Senegal",2002,58.05619409
@@ -2015,20 +2015,20 @@
 "VN","Viet Nam",2011,107.515155
 "VN","Viet Nam",2012,112.6469902
 "VN","Viet Nam",2013,117.7033582
-"WF","Wallis and Futuna",2000,
-"WF","Wallis and Futuna",2001,
-"WF","Wallis and Futuna",2002,
-"WF","Wallis and Futuna",2003,
-"WF","Wallis and Futuna",2004,
-"WF","Wallis and Futuna",2005,
-"WF","Wallis and Futuna",2006,
-"WF","Wallis and Futuna",2007,
-"WF","Wallis and Futuna",2008,
-"WF","Wallis and Futuna",2009,
-"WF","Wallis and Futuna",2010,
-"WF","Wallis and Futuna",2011,
-"WF","Wallis and Futuna",2012,
-"WF","Wallis and Futuna",2013,
+"WF","Wallis & Futuna",2000,
+"WF","Wallis & Futuna",2001,
+"WF","Wallis & Futuna",2002,
+"WF","Wallis & Futuna",2003,
+"WF","Wallis & Futuna",2004,
+"WF","Wallis & Futuna",2005,
+"WF","Wallis & Futuna",2006,
+"WF","Wallis & Futuna",2007,
+"WF","Wallis & Futuna",2008,
+"WF","Wallis & Futuna",2009,
+"WF","Wallis & Futuna",2010,
+"WF","Wallis & Futuna",2011,
+"WF","Wallis & Futuna",2012,
+"WF","Wallis & Futuna",2013,
 "YE","Yemen",2000,198.0247175
 "YE","Yemen",2001,197.2517911
 "YE","Yemen",2002,183.5154853

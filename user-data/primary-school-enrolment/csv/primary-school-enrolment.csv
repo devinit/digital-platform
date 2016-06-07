@@ -83,20 +83,20 @@
 "AO","Angola",2011,85.66859,85.66859
 "AO","Angola",2012,,
 "AO","Angola",2013,,
-"AG","Antigua and Barbuda",2000,,
-"AG","Antigua and Barbuda",2001,,
-"AG","Antigua and Barbuda",2002,,
-"AG","Antigua and Barbuda",2003,,
-"AG","Antigua and Barbuda",2004,,
-"AG","Antigua and Barbuda",2005,,
-"AG","Antigua and Barbuda",2006,,
-"AG","Antigua and Barbuda",2007,91.82146,91.82146
-"AG","Antigua and Barbuda",2008,91.98224,91.98224
-"AG","Antigua and Barbuda",2009,90.97539,90.97539
-"AG","Antigua and Barbuda",2010,88.3315,88.3315
-"AG","Antigua and Barbuda",2011,87.14524,87.14524
-"AG","Antigua and Barbuda",2012,85.27814,85.27814
-"AG","Antigua and Barbuda",2013,,
+"AG","Antigua & Barbuda",2000,,
+"AG","Antigua & Barbuda",2001,,
+"AG","Antigua & Barbuda",2002,,
+"AG","Antigua & Barbuda",2003,,
+"AG","Antigua & Barbuda",2004,,
+"AG","Antigua & Barbuda",2005,,
+"AG","Antigua & Barbuda",2006,,
+"AG","Antigua & Barbuda",2007,91.82146,91.82146
+"AG","Antigua & Barbuda",2008,91.98224,91.98224
+"AG","Antigua & Barbuda",2009,90.97539,90.97539
+"AG","Antigua & Barbuda",2010,88.3315,88.3315
+"AG","Antigua & Barbuda",2011,87.14524,87.14524
+"AG","Antigua & Barbuda",2012,85.27814,85.27814
+"AG","Antigua & Barbuda",2013,,
 "AR","Argentina",2000,,
 "AR","Argentina",2001,,
 "AR","Argentina",2002,,
@@ -335,20 +335,20 @@
 "BO","Bolivia ",2011,83.4281,83.4281
 "BO","Bolivia ",2012,,
 "BO","Bolivia ",2013,,
-"BA","Bosnia and Herzegovina",2000,,
-"BA","Bosnia and Herzegovina",2001,,
-"BA","Bosnia and Herzegovina",2002,,
-"BA","Bosnia and Herzegovina",2003,,
-"BA","Bosnia and Herzegovina",2004,,
-"BA","Bosnia and Herzegovina",2005,,
-"BA","Bosnia and Herzegovina",2006,,
-"BA","Bosnia and Herzegovina",2007,,
-"BA","Bosnia and Herzegovina",2008,,
-"BA","Bosnia and Herzegovina",2009,,
-"BA","Bosnia and Herzegovina",2010,,
-"BA","Bosnia and Herzegovina",2011,,
-"BA","Bosnia and Herzegovina",2012,,
-"BA","Bosnia and Herzegovina",2013,,
+"BA","Bosnia & Herzegovina",2000,,
+"BA","Bosnia & Herzegovina",2001,,
+"BA","Bosnia & Herzegovina",2002,,
+"BA","Bosnia & Herzegovina",2003,,
+"BA","Bosnia & Herzegovina",2004,,
+"BA","Bosnia & Herzegovina",2005,,
+"BA","Bosnia & Herzegovina",2006,,
+"BA","Bosnia & Herzegovina",2007,,
+"BA","Bosnia & Herzegovina",2008,,
+"BA","Bosnia & Herzegovina",2009,,
+"BA","Bosnia & Herzegovina",2010,,
+"BA","Bosnia & Herzegovina",2011,,
+"BA","Bosnia & Herzegovina",2012,,
+"BA","Bosnia & Herzegovina",2013,,
 "BW","Botswana",2000,80.67681,80.67681
 "BW","Botswana",2001,82.34309,82.34309
 "BW","Botswana",2002,82.61333,82.61333
@@ -433,20 +433,6 @@
 "BI","Burundi",2011,,
 "BI","Burundi",2012,,
 "BI","Burundi",2013,,
-"CI","Côte d'Ivoire",2000,58.25738,58.25738
-"CI","Côte d'Ivoire",2001,62.86219,62.86219
-"CI","Côte d'Ivoire",2002,63.35843,63.35843
-"CI","Côte d'Ivoire",2003,60.05406,60.05406
-"CI","Côte d'Ivoire",2004,60.354615,
-"CI","Côte d'Ivoire",2005,60.65517,
-"CI","Côte d'Ivoire",2006,60.955725,
-"CI","Côte d'Ivoire",2007,61.25628,
-"CI","Côte d'Ivoire",2008,61.556835,
-"CI","Côte d'Ivoire",2009,61.85739,61.85739
-"CI","Côte d'Ivoire",2010,,
-"CI","Côte d'Ivoire",2011,,
-"CI","Côte d'Ivoire",2012,,
-"CI","Côte d'Ivoire",2013,,
 "KH","Cambodia",2000,91.96241,91.96241
 "KH","Cambodia",2001,93.7592833333,
 "KH","Cambodia",2002,95.5561566667,
@@ -629,6 +615,20 @@
 "CR","Costa Rica",2011,94.05556,94.05556
 "CR","Costa Rica",2012,91.97587,91.97587
 "CR","Costa Rica",2013,,
+"CI","Cote d'Ivoire",2000,58.25738,58.25738
+"CI","Cote d'Ivoire",2001,62.86219,62.86219
+"CI","Cote d'Ivoire",2002,63.35843,63.35843
+"CI","Cote d'Ivoire",2003,60.05406,60.05406
+"CI","Cote d'Ivoire",2004,60.354615,
+"CI","Cote d'Ivoire",2005,60.65517,
+"CI","Cote d'Ivoire",2006,60.955725,
+"CI","Cote d'Ivoire",2007,61.25628,
+"CI","Cote d'Ivoire",2008,61.556835,
+"CI","Cote d'Ivoire",2009,61.85739,61.85739
+"CI","Cote d'Ivoire",2010,,
+"CI","Cote d'Ivoire",2011,,
+"CI","Cote d'Ivoire",2012,,
+"CI","Cote d'Ivoire",2013,,
 "HR","Croatia",2000,87.37778,87.37778
 "HR","Croatia",2001,88.12113,88.12113
 "HR","Croatia",2002,89.05983,89.05983
@@ -657,20 +657,20 @@
 "CU","Cuba",2011,97.99492,97.99492
 "CU","Cuba",2012,96.35661,96.35661
 "CU","Cuba",2013,,
-"CW","Curaçao",2000,,
-"CW","Curaçao",2001,,
-"CW","Curaçao",2002,,
-"CW","Curaçao",2003,,
-"CW","Curaçao",2004,,
-"CW","Curaçao",2005,,
-"CW","Curaçao",2006,,
-"CW","Curaçao",2007,,
-"CW","Curaçao",2008,,
-"CW","Curaçao",2009,,
-"CW","Curaçao",2010,,
-"CW","Curaçao",2011,,
-"CW","Curaçao",2012,,
-"CW","Curaçao",2013,,
+"CW","Curacao",2000,,
+"CW","Curacao",2001,,
+"CW","Curacao",2002,,
+"CW","Curacao",2003,,
+"CW","Curacao",2004,,
+"CW","Curacao",2005,,
+"CW","Curacao",2006,,
+"CW","Curacao",2007,,
+"CW","Curacao",2008,,
+"CW","Curacao",2009,,
+"CW","Curacao",2010,,
+"CW","Curacao",2011,,
+"CW","Curacao",2012,,
+"CW","Curacao",2013,,
 "CY","Cyprus",2000,95.31862,95.31862
 "CY","Cyprus",2001,94.96985,94.96985
 "CY","Cyprus",2002,95.94279,95.94279
@@ -2239,20 +2239,20 @@
 "MF","Saint Martin ",2011,,
 "MF","Saint Martin ",2012,,
 "MF","Saint Martin ",2013,,
-"VC","Saint Vincent and the Grenadines",2000,97.04312,97.04312
-"VC","Saint Vincent and the Grenadines",2001,97.48809,97.48809
-"VC","Saint Vincent and the Grenadines",2002,98.05008,98.05008
-"VC","Saint Vincent and the Grenadines",2003,97.92175,97.92175
-"VC","Saint Vincent and the Grenadines",2004,97.12028,97.12028
-"VC","Saint Vincent and the Grenadines",2005,96.07571,96.07571
-"VC","Saint Vincent and the Grenadines",2006,95.74231,
-"VC","Saint Vincent and the Grenadines",2007,95.40891,95.40891
-"VC","Saint Vincent and the Grenadines",2008,94.72486,94.72486
-"VC","Saint Vincent and the Grenadines",2009,94.62802,94.62802
-"VC","Saint Vincent and the Grenadines",2010,93.94276,93.94276
-"VC","Saint Vincent and the Grenadines",2011,92.31974,92.31974
-"VC","Saint Vincent and the Grenadines",2012,94.78603,94.78603
-"VC","Saint Vincent and the Grenadines",2013,,
+"VC","Saint Vincent & the Grenadines",2000,97.04312,97.04312
+"VC","Saint Vincent & the Grenadines",2001,97.48809,97.48809
+"VC","Saint Vincent & the Grenadines",2002,98.05008,98.05008
+"VC","Saint Vincent & the Grenadines",2003,97.92175,97.92175
+"VC","Saint Vincent & the Grenadines",2004,97.12028,97.12028
+"VC","Saint Vincent & the Grenadines",2005,96.07571,96.07571
+"VC","Saint Vincent & the Grenadines",2006,95.74231,
+"VC","Saint Vincent & the Grenadines",2007,95.40891,95.40891
+"VC","Saint Vincent & the Grenadines",2008,94.72486,94.72486
+"VC","Saint Vincent & the Grenadines",2009,94.62802,94.62802
+"VC","Saint Vincent & the Grenadines",2010,93.94276,93.94276
+"VC","Saint Vincent & the Grenadines",2011,92.31974,92.31974
+"VC","Saint Vincent & the Grenadines",2012,94.78603,94.78603
+"VC","Saint Vincent & the Grenadines",2013,,
 "WS","Samoa",2000,89.34666,89.34666
 "WS","Samoa",2001,86.45957,86.45957
 "WS","Samoa",2002,88.4446816667,
@@ -2281,20 +2281,20 @@
 "SM","San Marino",2011,92.45588,
 "SM","San Marino",2012,92.70895,92.70895
 "SM","San Marino",2013,,
-"ST","Sao Tome and Principe",2000,,
-"ST","Sao Tome and Principe",2001,,
-"ST","Sao Tome and Principe",2002,94.66858,94.66858
-"ST","Sao Tome and Principe",2003,97.14781,97.14781
-"ST","Sao Tome and Principe",2004,97.62006,97.62006
-"ST","Sao Tome and Principe",2005,96.42781,96.42781
-"ST","Sao Tome and Principe",2006,96.64447,
-"ST","Sao Tome and Principe",2007,96.86113,96.86113
-"ST","Sao Tome and Principe",2008,98.5274,98.5274
-"ST","Sao Tome and Principe",2009,97.54983,97.54983
-"ST","Sao Tome and Principe",2010,98.47309,98.47309
-"ST","Sao Tome and Principe",2011,97.7725233333,
-"ST","Sao Tome and Principe",2012,97.0719566667,
-"ST","Sao Tome and Principe",2013,96.37139,96.37139
+"ST","Sao Tome & Principe",2000,,
+"ST","Sao Tome & Principe",2001,,
+"ST","Sao Tome & Principe",2002,94.66858,94.66858
+"ST","Sao Tome & Principe",2003,97.14781,97.14781
+"ST","Sao Tome & Principe",2004,97.62006,97.62006
+"ST","Sao Tome & Principe",2005,96.42781,96.42781
+"ST","Sao Tome & Principe",2006,96.64447,
+"ST","Sao Tome & Principe",2007,96.86113,96.86113
+"ST","Sao Tome & Principe",2008,98.5274,98.5274
+"ST","Sao Tome & Principe",2009,97.54983,97.54983
+"ST","Sao Tome & Principe",2010,98.47309,98.47309
+"ST","Sao Tome & Principe",2011,97.7725233333,
+"ST","Sao Tome & Principe",2012,97.0719566667,
+"ST","Sao Tome & Principe",2013,96.37139,96.37139
 "SA","Saudi Arabia",2000,,
 "SA","Saudi Arabia",2001,,
 "SA","Saudi Arabia",2002,,
@@ -2687,20 +2687,20 @@
 "TO","Tonga",2011,91.30348,
 "TO","Tonga",2012,89.82505,89.82505
 "TO","Tonga",2013,,
-"TT","Trinidad and Tobago",2000,93.85632,93.85632
-"TT","Trinidad and Tobago",2001,93.063,93.063
-"TT","Trinidad and Tobago",2002,89.87859,89.87859
-"TT","Trinidad and Tobago",2003,90.99373,90.99373
-"TT","Trinidad and Tobago",2004,91.68451,91.68451
-"TT","Trinidad and Tobago",2005,88.70078,88.70078
-"TT","Trinidad and Tobago",2006,91.101745,
-"TT","Trinidad and Tobago",2007,93.50271,93.50271
-"TT","Trinidad and Tobago",2008,94.3281,94.3281
-"TT","Trinidad and Tobago",2009,95.16174,95.16174
-"TT","Trinidad and Tobago",2010,95.18178,95.18178
-"TT","Trinidad and Tobago",2011,,
-"TT","Trinidad and Tobago",2012,,
-"TT","Trinidad and Tobago",2013,,
+"TT","Trinidad & Tobago",2000,93.85632,93.85632
+"TT","Trinidad & Tobago",2001,93.063,93.063
+"TT","Trinidad & Tobago",2002,89.87859,89.87859
+"TT","Trinidad & Tobago",2003,90.99373,90.99373
+"TT","Trinidad & Tobago",2004,91.68451,91.68451
+"TT","Trinidad & Tobago",2005,88.70078,88.70078
+"TT","Trinidad & Tobago",2006,91.101745,
+"TT","Trinidad & Tobago",2007,93.50271,93.50271
+"TT","Trinidad & Tobago",2008,94.3281,94.3281
+"TT","Trinidad & Tobago",2009,95.16174,95.16174
+"TT","Trinidad & Tobago",2010,95.18178,95.18178
+"TT","Trinidad & Tobago",2011,,
+"TT","Trinidad & Tobago",2012,,
+"TT","Trinidad & Tobago",2013,,
 "TN","Tunisia",2000,96.27408,96.27408
 "TN","Tunisia",2001,96.64355,96.64355
 "TN","Tunisia",2002,97.4057,97.4057
@@ -2743,20 +2743,20 @@
 "TM","Turkmenistan",2011,,
 "TM","Turkmenistan",2012,,
 "TM","Turkmenistan",2013,,
-"TC","Turks and Caicos Islands",2000,,
-"TC","Turks and Caicos Islands",2001,,
-"TC","Turks and Caicos Islands",2002,87.95066,87.95066
-"TC","Turks and Caicos Islands",2003,72.31559,72.31559
-"TC","Turks and Caicos Islands",2004,81.46838,81.46838
-"TC","Turks and Caicos Islands",2005,77.95307,77.95307
-"TC","Turks and Caicos Islands",2006,,
-"TC","Turks and Caicos Islands",2007,,
-"TC","Turks and Caicos Islands",2008,,
-"TC","Turks and Caicos Islands",2009,,
-"TC","Turks and Caicos Islands",2010,,
-"TC","Turks and Caicos Islands",2011,,
-"TC","Turks and Caicos Islands",2012,,
-"TC","Turks and Caicos Islands",2013,,
+"TC","Turks & Caicos Islands",2000,,
+"TC","Turks & Caicos Islands",2001,,
+"TC","Turks & Caicos Islands",2002,87.95066,87.95066
+"TC","Turks & Caicos Islands",2003,72.31559,72.31559
+"TC","Turks & Caicos Islands",2004,81.46838,81.46838
+"TC","Turks & Caicos Islands",2005,77.95307,77.95307
+"TC","Turks & Caicos Islands",2006,,
+"TC","Turks & Caicos Islands",2007,,
+"TC","Turks & Caicos Islands",2008,,
+"TC","Turks & Caicos Islands",2009,,
+"TC","Turks & Caicos Islands",2010,,
+"TC","Turks & Caicos Islands",2011,,
+"TC","Turks & Caicos Islands",2012,,
+"TC","Turks & Caicos Islands",2013,,
 "TV","Tuvalu",2000,,
 "TV","Tuvalu",2001,,
 "TV","Tuvalu",2002,,
@@ -2799,6 +2799,20 @@
 "UG","Uganda",2011,90.91658,90.91658
 "UG","Uganda",2012,,
 "UG","Uganda",2013,,
+"GB","UK",2000,99.9512,99.9512
+"GB","UK",2001,99.94393,99.94393
+"GB","UK",2002,99.94273,99.94273
+"GB","UK",2003,99.92726,99.92726
+"GB","UK",2004,98.2001,98.2001
+"GB","UK",2005,98.77175,98.77175
+"GB","UK",2006,98.53668,98.53668
+"GB","UK",2007,97.24107,97.24107
+"GB","UK",2008,99.51223,99.51223
+"GB","UK",2009,99.53821,99.53821
+"GB","UK",2010,99.46062,99.46062
+"GB","UK",2011,99.65832,99.65832
+"GB","UK",2012,99.81512,99.81512
+"GB","UK",2013,,
 "UA","Ukraine",2000,,
 "UA","Ukraine",2001,,
 "UA","Ukraine",2002,91.89082,91.89082
@@ -2813,20 +2827,6 @@
 "UA","Ukraine",2011,96.95903,96.95903
 "UA","Ukraine",2012,97.92538,97.92538
 "UA","Ukraine",2013,,
-"GB","United Kingdom",2000,99.9512,99.9512
-"GB","United Kingdom",2001,99.94393,99.94393
-"GB","United Kingdom",2002,99.94273,99.94273
-"GB","United Kingdom",2003,99.92726,99.92726
-"GB","United Kingdom",2004,98.2001,98.2001
-"GB","United Kingdom",2005,98.77175,98.77175
-"GB","United Kingdom",2006,98.53668,98.53668
-"GB","United Kingdom",2007,97.24107,97.24107
-"GB","United Kingdom",2008,99.51223,99.51223
-"GB","United Kingdom",2009,99.53821,99.53821
-"GB","United Kingdom",2010,99.46062,99.46062
-"GB","United Kingdom",2011,99.65832,99.65832
-"GB","United Kingdom",2012,99.81512,99.81512
-"GB","United Kingdom",2013,,
 "UY","Uruguay",2000,,
 "UY","Uruguay",2001,,
 "UY","Uruguay",2002,,

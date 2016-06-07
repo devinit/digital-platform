@@ -4,7 +4,7 @@
 "DZ","Algeria",0.24
 "AO","Angola",16.24
 "AI","Anguilla",2.17
-"AG","Antigua and Barbuda",2.17
+"AG","Antigua & Barbuda",2.17
 "AR","Argentina",0.78
 "AM","Armenia",0.4
 "AZ","Azerbaijan",0.11
@@ -14,13 +14,12 @@
 "BJ","Benin",18.82
 "BT","Bhutan",0.45
 "BO","Bolivia ",3.12
-"BA","Bosnia and Herzegovina",0.01
+"BA","Bosnia & Herzegovina",0.01
 "BW","Botswana",2.93
 "BR","Brazil",2.51
 "BG","Bulgaria",0.81
 "BF","Burkina Faso",12.86
 "BI","Burundi",34.7
-"CI","Côte d'Ivoire",13.78
 "KH","Cambodia",1.43
 "CM","Cameroon",6.18
 "CV","Cape Verde",2.64
@@ -33,6 +32,7 @@
 "CG","Congo",11.47
 "CK","Cook Islands",1.56
 "CR","Costa Rica",0.56
+"CI","Cote d'Ivoire",13.78
 "HR","Croatia",0
 "CU","Cuba",2.17
 "CZ","Czech Republic",0.06
@@ -116,12 +116,12 @@
 "RO","Romania",0
 "RU","Russian Federation",0
 "RW","Rwanda",26.53
-"SH","Saint Helena, Ascension and Tristan da Cunha",19.2
+"SH","Saint Helena, Ascension & Tristan da Cunha",19.2
 "KN","Saint Kitts and Nevis",2.17
 "LC","Saint Lucia",3.68
-"VC","Saint Vincent and the Grenadines",2.17
+"VC","Saint Vincent & the Grenadines",2.17
 "WS","Samoa",1.56
-"ST","Sao Tome and Principe",13.34
+"ST","Sao Tome & Principe",13.34
 "SN","Senegal",11.08
 "RS","Serbia",0
 "SC","Seychelles",0.06
@@ -144,7 +144,7 @@
 "TG","Togo",22.52
 "TK","Tokelau",1.56
 "TO","Tonga",1.56
-"TT","Trinidad and Tobago",0.33
+"TT","Trinidad & Tobago",0.33
 "TN","Tunisia",0.19
 "TR","Turkey",0
 "TM","Turkmenistan",0.99
@@ -156,7 +156,7 @@
 "VU","Vanuatu",1.56
 "VE","Venezuela",3.44
 "VN","Viet Nam",0.85
-"WF","Wallis and Futuna",1.56
+"WF","Wallis & Futuna",1.56
 "YE","Yemen",0.91
 "ZM","Zambia",40.64
 "ZW","Zimbabwe",19.2

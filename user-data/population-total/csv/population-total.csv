@@ -83,27 +83,27 @@
 "AO","Angola",2018,27444000
 "AO","Angola",2019,28267000
 "AO","Angola",2020,29115000
-"AG","Antigua and Barbuda",2000,76000
-"AG","Antigua and Barbuda",2001,77000
-"AG","Antigua and Barbuda",2002,78000
-"AG","Antigua and Barbuda",2003,79000
-"AG","Antigua and Barbuda",2004,79000
-"AG","Antigua and Barbuda",2005,80000
-"AG","Antigua and Barbuda",2006,81000
-"AG","Antigua and Barbuda",2007,82000
-"AG","Antigua and Barbuda",2008,83000
-"AG","Antigua and Barbuda",2009,84000
-"AG","Antigua and Barbuda",2010,85000
-"AG","Antigua and Barbuda",2011,86000
-"AG","Antigua and Barbuda",2012,86000
-"AG","Antigua and Barbuda",2013,87000
-"AG","Antigua and Barbuda",2014,88000
-"AG","Antigua and Barbuda",2015,89000
-"AG","Antigua and Barbuda",2016,90000
-"AG","Antigua and Barbuda",2017,91000
-"AG","Antigua and Barbuda",2018,92000
-"AG","Antigua and Barbuda",2019,93000
-"AG","Antigua and Barbuda",2020,94000
+"AG","Antigua & Barbuda",2000,76000
+"AG","Antigua & Barbuda",2001,77000
+"AG","Antigua & Barbuda",2002,78000
+"AG","Antigua & Barbuda",2003,79000
+"AG","Antigua & Barbuda",2004,79000
+"AG","Antigua & Barbuda",2005,80000
+"AG","Antigua & Barbuda",2006,81000
+"AG","Antigua & Barbuda",2007,82000
+"AG","Antigua & Barbuda",2008,83000
+"AG","Antigua & Barbuda",2009,84000
+"AG","Antigua & Barbuda",2010,85000
+"AG","Antigua & Barbuda",2011,86000
+"AG","Antigua & Barbuda",2012,86000
+"AG","Antigua & Barbuda",2013,87000
+"AG","Antigua & Barbuda",2014,88000
+"AG","Antigua & Barbuda",2015,89000
+"AG","Antigua & Barbuda",2016,90000
+"AG","Antigua & Barbuda",2017,91000
+"AG","Antigua & Barbuda",2018,92000
+"AG","Antigua & Barbuda",2019,93000
+"AG","Antigua & Barbuda",2020,94000
 "AR","Argentina",2000,35923000
 "AR","Argentina",2001,36260000
 "AR","Argentina",2002,36670000
@@ -419,27 +419,27 @@
 "BO","Bolivia ",2018,12126000
 "BO","Bolivia ",2019,12356000
 "BO","Bolivia ",2020,12714000
-"BA","Bosnia and Herzegovina",2000,3781000
-"BA","Bosnia and Herzegovina",2001,3798000
-"BA","Bosnia and Herzegovina",2002,3828000
-"BA","Bosnia and Herzegovina",2003,3858000
-"BA","Bosnia and Herzegovina",2004,3889000
-"BA","Bosnia and Herzegovina",2005,3919000
-"BA","Bosnia and Herzegovina",2006,3920000
-"BA","Bosnia and Herzegovina",2007,3916000
-"BA","Bosnia and Herzegovina",2008,3911000
-"BA","Bosnia and Herzegovina",2009,3904000
-"BA","Bosnia and Herzegovina",2010,3897000
-"BA","Bosnia and Herzegovina",2011,3890000
-"BA","Bosnia and Herzegovina",2012,3884000
-"BA","Bosnia and Herzegovina",2013,3878000
-"BA","Bosnia and Herzegovina",2014,3871000
-"BA","Bosnia and Herzegovina",2015,3863000
-"BA","Bosnia and Herzegovina",2016,3854000
-"BA","Bosnia and Herzegovina",2017,3845000
-"BA","Bosnia and Herzegovina",2018,3837000
-"BA","Bosnia and Herzegovina",2019,3831000
-"BA","Bosnia and Herzegovina",2020,3825000
+"BA","Bosnia & Herzegovina",2000,3781000
+"BA","Bosnia & Herzegovina",2001,3798000
+"BA","Bosnia & Herzegovina",2002,3828000
+"BA","Bosnia & Herzegovina",2003,3858000
+"BA","Bosnia & Herzegovina",2004,3889000
+"BA","Bosnia & Herzegovina",2005,3919000
+"BA","Bosnia & Herzegovina",2006,3920000
+"BA","Bosnia & Herzegovina",2007,3916000
+"BA","Bosnia & Herzegovina",2008,3911000
+"BA","Bosnia & Herzegovina",2009,3904000
+"BA","Bosnia & Herzegovina",2010,3897000
+"BA","Bosnia & Herzegovina",2011,3890000
+"BA","Bosnia & Herzegovina",2012,3884000
+"BA","Bosnia & Herzegovina",2013,3878000
+"BA","Bosnia & Herzegovina",2014,3871000
+"BA","Bosnia & Herzegovina",2015,3863000
+"BA","Bosnia & Herzegovina",2016,3854000
+"BA","Bosnia & Herzegovina",2017,3845000
+"BA","Bosnia & Herzegovina",2018,3837000
+"BA","Bosnia & Herzegovina",2019,3831000
+"BA","Bosnia & Herzegovina",2020,3825000
 "BW","Botswana",2000,1753000
 "BW","Botswana",2001,1777500
 "BW","Botswana",2002,1802000
@@ -566,27 +566,6 @@
 "BI","Burundi",2018,10117000
 "BI","Burundi",2019,10359000
 "BI","Burundi",2020,10608000
-"CI","Côte d'Ivoire",2000,15554000
-"CI","Côte d'Ivoire",2001,16020000
-"CI","Côte d'Ivoire",2002,16501000
-"CI","Côte d'Ivoire",2003,16996000
-"CI","Côte d'Ivoire",2004,17506000
-"CI","Côte d'Ivoire",2005,18031000
-"CI","Côte d'Ivoire",2006,18500000
-"CI","Côte d'Ivoire",2007,18981000
-"CI","Côte d'Ivoire",2008,19475000
-"CI","Côte d'Ivoire",2009,19981000
-"CI","Côte d'Ivoire",2010,20500000
-"CI","Côte d'Ivoire",2011,21033000
-"CI","Côte d'Ivoire",2012,21580000
-"CI","Côte d'Ivoire",2013,22141000
-"CI","Côte d'Ivoire",2014,22717000
-"CI","Côte d'Ivoire",2015,23308000
-"CI","Côte d'Ivoire",2016,23914000
-"CI","Côte d'Ivoire",2017,24535000
-"CI","Côte d'Ivoire",2018,25173000
-"CI","Côte d'Ivoire",2019,25828000
-"CI","Côte d'Ivoire",2020,26499000
 "KH","Cambodia",2000,12223000
 "KH","Cambodia",2001,12473000
 "KH","Cambodia",2002,12709000
@@ -839,6 +818,27 @@
 "CR","Costa Rica",2018,5029000
 "CR","Costa Rica",2019,5094000
 "CR","Costa Rica",2020,5161000
+"CI","Cote d'Ivoire",2000,15554000
+"CI","Cote d'Ivoire",2001,16020000
+"CI","Cote d'Ivoire",2002,16501000
+"CI","Cote d'Ivoire",2003,16996000
+"CI","Cote d'Ivoire",2004,17506000
+"CI","Cote d'Ivoire",2005,18031000
+"CI","Cote d'Ivoire",2006,18500000
+"CI","Cote d'Ivoire",2007,18981000
+"CI","Cote d'Ivoire",2008,19475000
+"CI","Cote d'Ivoire",2009,19981000
+"CI","Cote d'Ivoire",2010,20500000
+"CI","Cote d'Ivoire",2011,21033000
+"CI","Cote d'Ivoire",2012,21580000
+"CI","Cote d'Ivoire",2013,22141000
+"CI","Cote d'Ivoire",2014,22717000
+"CI","Cote d'Ivoire",2015,23308000
+"CI","Cote d'Ivoire",2016,23914000
+"CI","Cote d'Ivoire",2017,24535000
+"CI","Cote d'Ivoire",2018,25173000
+"CI","Cote d'Ivoire",2019,25828000
+"CI","Cote d'Ivoire",2020,26499000
 "HR","Croatia",2000,4381000
 "HR","Croatia",2001,4305000
 "HR","Croatia",2002,4305000
@@ -2939,27 +2939,27 @@
 "LC","Saint Lucia",2018,174000
 "LC","Saint Lucia",2019,175000
 "LC","Saint Lucia",2020,176000
-"VC","Saint Vincent and the Grenadines",2000,106000
-"VC","Saint Vincent and the Grenadines",2001,106000
-"VC","Saint Vincent and the Grenadines",2002,107000
-"VC","Saint Vincent and the Grenadines",2003,107000
-"VC","Saint Vincent and the Grenadines",2004,108000
-"VC","Saint Vincent and the Grenadines",2005,108000
-"VC","Saint Vincent and the Grenadines",2006,109000
-"VC","Saint Vincent and the Grenadines",2007,109000
-"VC","Saint Vincent and the Grenadines",2008,109000
-"VC","Saint Vincent and the Grenadines",2009,109000
-"VC","Saint Vincent and the Grenadines",2010,109000
-"VC","Saint Vincent and the Grenadines",2011,110000
-"VC","Saint Vincent and the Grenadines",2012,110000
-"VC","Saint Vincent and the Grenadines",2013,110000
-"VC","Saint Vincent and the Grenadines",2014,110000
-"VC","Saint Vincent and the Grenadines",2015,110000
-"VC","Saint Vincent and the Grenadines",2016,110000
-"VC","Saint Vincent and the Grenadines",2017,110000
-"VC","Saint Vincent and the Grenadines",2018,110000
-"VC","Saint Vincent and the Grenadines",2019,110000
-"VC","Saint Vincent and the Grenadines",2020,111000
+"VC","Saint Vincent & the Grenadines",2000,106000
+"VC","Saint Vincent & the Grenadines",2001,106000
+"VC","Saint Vincent & the Grenadines",2002,107000
+"VC","Saint Vincent & the Grenadines",2003,107000
+"VC","Saint Vincent & the Grenadines",2004,108000
+"VC","Saint Vincent & the Grenadines",2005,108000
+"VC","Saint Vincent & the Grenadines",2006,109000
+"VC","Saint Vincent & the Grenadines",2007,109000
+"VC","Saint Vincent & the Grenadines",2008,109000
+"VC","Saint Vincent & the Grenadines",2009,109000
+"VC","Saint Vincent & the Grenadines",2010,109000
+"VC","Saint Vincent & the Grenadines",2011,110000
+"VC","Saint Vincent & the Grenadines",2012,110000
+"VC","Saint Vincent & the Grenadines",2013,110000
+"VC","Saint Vincent & the Grenadines",2014,110000
+"VC","Saint Vincent & the Grenadines",2015,110000
+"VC","Saint Vincent & the Grenadines",2016,110000
+"VC","Saint Vincent & the Grenadines",2017,110000
+"VC","Saint Vincent & the Grenadines",2018,110000
+"VC","Saint Vincent & the Grenadines",2019,110000
+"VC","Saint Vincent & the Grenadines",2020,111000
 "WS","Samoa",2000,174500
 "WS","Samoa",2001,175500
 "WS","Samoa",2002,176500
@@ -3002,27 +3002,27 @@
 "SM","San Marino",2018,31000
 "SM","San Marino",2019,31000
 "SM","San Marino",2020,31000
-"ST","Sao Tome and Principe",2000,139000
-"ST","Sao Tome and Principe",2001,142000
-"ST","Sao Tome and Principe",2002,144000
-"ST","Sao Tome and Principe",2003,147000
-"ST","Sao Tome and Principe",2004,151000
-"ST","Sao Tome and Principe",2005,155000
-"ST","Sao Tome and Principe",2006,159000
-"ST","Sao Tome and Principe",2007,163000
-"ST","Sao Tome and Principe",2008,168000
-"ST","Sao Tome and Principe",2009,173000
-"ST","Sao Tome and Principe",2010,178000
-"ST","Sao Tome and Principe",2011,183000
-"ST","Sao Tome and Principe",2012,188000
-"ST","Sao Tome and Principe",2013,193000
-"ST","Sao Tome and Principe",2014,198000
-"ST","Sao Tome and Principe",2015,203000
-"ST","Sao Tome and Principe",2016,208000
-"ST","Sao Tome and Principe",2017,213000
-"ST","Sao Tome and Principe",2018,217000
-"ST","Sao Tome and Principe",2019,222000
-"ST","Sao Tome and Principe",2020,227000
+"ST","Sao Tome & Principe",2000,139000
+"ST","Sao Tome & Principe",2001,142000
+"ST","Sao Tome & Principe",2002,144000
+"ST","Sao Tome & Principe",2003,147000
+"ST","Sao Tome & Principe",2004,151000
+"ST","Sao Tome & Principe",2005,155000
+"ST","Sao Tome & Principe",2006,159000
+"ST","Sao Tome & Principe",2007,163000
+"ST","Sao Tome & Principe",2008,168000
+"ST","Sao Tome & Principe",2009,173000
+"ST","Sao Tome & Principe",2010,178000
+"ST","Sao Tome & Principe",2011,183000
+"ST","Sao Tome & Principe",2012,188000
+"ST","Sao Tome & Principe",2013,193000
+"ST","Sao Tome & Principe",2014,198000
+"ST","Sao Tome & Principe",2015,203000
+"ST","Sao Tome & Principe",2016,208000
+"ST","Sao Tome & Principe",2017,213000
+"ST","Sao Tome & Principe",2018,217000
+"ST","Sao Tome & Principe",2019,222000
+"ST","Sao Tome & Principe",2020,227000
 "SA","Saudi Arabia",2000,20474000
 "SA","Saudi Arabia",2001,20976000
 "SA","Saudi Arabia",2002,21491000
@@ -3590,27 +3590,27 @@
 "TO","Tonga",2018,103500
 "TO","Tonga",2019,104500
 "TO","Tonga",2020,105500
-"TT","Trinidad and Tobago",2000,1268000
-"TT","Trinidad and Tobago",2001,1272000
-"TT","Trinidad and Tobago",2002,1278000
-"TT","Trinidad and Tobago",2003,1284000
-"TT","Trinidad and Tobago",2004,1290000
-"TT","Trinidad and Tobago",2005,1297000
-"TT","Trinidad and Tobago",2006,1303000
-"TT","Trinidad and Tobago",2007,1310000
-"TT","Trinidad and Tobago",2008,1316000
-"TT","Trinidad and Tobago",2009,1323000
-"TT","Trinidad and Tobago",2010,1328000
-"TT","Trinidad and Tobago",2011,1333000
-"TT","Trinidad and Tobago",2012,1337000
-"TT","Trinidad and Tobago",2013,1344000
-"TT","Trinidad and Tobago",2014,1351000
-"TT","Trinidad and Tobago",2015,1358000
-"TT","Trinidad and Tobago",2016,1364000
-"TT","Trinidad and Tobago",2017,1371000
-"TT","Trinidad and Tobago",2018,1378000
-"TT","Trinidad and Tobago",2019,1385000
-"TT","Trinidad and Tobago",2020,1392000
+"TT","Trinidad & Tobago",2000,1268000
+"TT","Trinidad & Tobago",2001,1272000
+"TT","Trinidad & Tobago",2002,1278000
+"TT","Trinidad & Tobago",2003,1284000
+"TT","Trinidad & Tobago",2004,1290000
+"TT","Trinidad & Tobago",2005,1297000
+"TT","Trinidad & Tobago",2006,1303000
+"TT","Trinidad & Tobago",2007,1310000
+"TT","Trinidad & Tobago",2008,1316000
+"TT","Trinidad & Tobago",2009,1323000
+"TT","Trinidad & Tobago",2010,1328000
+"TT","Trinidad & Tobago",2011,1333000
+"TT","Trinidad & Tobago",2012,1337000
+"TT","Trinidad & Tobago",2013,1344000
+"TT","Trinidad & Tobago",2014,1351000
+"TT","Trinidad & Tobago",2015,1358000
+"TT","Trinidad & Tobago",2016,1364000
+"TT","Trinidad & Tobago",2017,1371000
+"TT","Trinidad & Tobago",2018,1378000
+"TT","Trinidad & Tobago",2019,1385000
+"TT","Trinidad & Tobago",2020,1392000
 "TN","Tunisia",2000,9553000
 "TN","Tunisia",2001,9651000
 "TN","Tunisia",2002,9749000
@@ -3737,6 +3737,27 @@
 "UG","Uganda",2018,42233500
 "UG","Uganda",2019,43513500
 "UG","Uganda",2020,44832000
+"GB","UK",2000,58886000
+"GB","UK",2001,59113000
+"GB","UK",2002,59319000
+"GB","UK",2003,59552000
+"GB","UK",2004,59842000
+"GB","UK",2005,60235000
+"GB","UK",2006,60584000
+"GB","UK",2007,60986000
+"GB","UK",2008,61398000
+"GB","UK",2009,61792000
+"GB","UK",2010,62262000
+"GB","UK",2011,63285000
+"GB","UK",2012,63705000
+"GB","UK",2013,64087000
+"GB","UK",2014,64511000
+"GB","UK",2015,64938000
+"GB","UK",2016,65386000
+"GB","UK",2017,65825000
+"GB","UK",2018,66266000
+"GB","UK",2019,66697000
+"GB","UK",2020,67126000
 "UA","Ukraine",2000,49115000
 "UA","Ukraine",2001,48241000
 "UA","Ukraine",2002,47823000
@@ -3758,27 +3779,6 @@
 "UA","Ukraine",2018,42417000
 "UA","Ukraine",2019,42328000
 "UA","Ukraine",2020,42239000
-"GB","United Kingdom",2000,58886000
-"GB","United Kingdom",2001,59113000
-"GB","United Kingdom",2002,59319000
-"GB","United Kingdom",2003,59552000
-"GB","United Kingdom",2004,59842000
-"GB","United Kingdom",2005,60235000
-"GB","United Kingdom",2006,60584000
-"GB","United Kingdom",2007,60986000
-"GB","United Kingdom",2008,61398000
-"GB","United Kingdom",2009,61792000
-"GB","United Kingdom",2010,62262000
-"GB","United Kingdom",2011,63285000
-"GB","United Kingdom",2012,63705000
-"GB","United Kingdom",2013,64087000
-"GB","United Kingdom",2014,64511000
-"GB","United Kingdom",2015,64938000
-"GB","United Kingdom",2016,65386000
-"GB","United Kingdom",2017,65825000
-"GB","United Kingdom",2018,66266000
-"GB","United Kingdom",2019,66697000
-"GB","United Kingdom",2020,67126000
 "UY","Uruguay",2000,3301000
 "UY","Uruguay",2001,3308000
 "UY","Uruguay",2002,3309000

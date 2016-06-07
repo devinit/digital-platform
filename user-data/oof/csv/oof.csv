@@ -45,7 +45,7 @@
 "DE","Germany","africa","Africa, regional",2007,"other","oof-loan","unspecified",83320707
 "FI","Finland","africa","Africa, regional",2007,"other","oof-loan","unspecified",6783301
 "FR","France","africa","Africa, regional",2007,"other","oof-loan","unspecified",11026925
-"GB","United Kingdom","africa","Africa, regional",2007,"other","oof-loan","unspecified",8442759
+"GB","UK","africa","Africa, regional",2007,"other","oof-loan","unspecified",8442759
 "KR","South Korea","africa","Africa, regional",2007,"other","oof-loan","unspecified",3732899
 "US","USA","africa","Africa, regional",2007,"other","oof-loan","unspecified",2556009
 "AU","Australia","africa","Africa, regional",2008,"other","oof-grant","unspecified",4495027
@@ -55,7 +55,7 @@
 "EU","European Union","africa","Africa, regional",2008,"other","oof-loan","unspecified",128833298
 "FI","Finland","africa","Africa, regional",2008,"other","oof-loan","unspecified",6429335
 "FR","France","africa","Africa, regional",2008,"other","oof-loan","unspecified",53909498
-"GB","United Kingdom","africa","Africa, regional",2008,"other","oof-loan","unspecified",13720017
+"GB","UK","africa","Africa, regional",2008,"other","oof-loan","unspecified",13720017
 "KR","South Korea","africa","Africa, regional",2008,"other","oof-loan","unspecified",255586584
 "US","USA","africa","Africa, regional",2008,"other","oof-loan","unspecified",3223384
 "afdb","AfDB","africa","Africa, regional",2009,"banking-and-business","oof-loan","public-sector-unknown",2073474
@@ -85,7 +85,7 @@
 "EU","European Union","africa","Africa, regional",2010,"banking-and-business","oof-loan","unspecified",14395892
 "FI","Finland","africa","Africa, regional",2010,"other","oof-loan","unspecified",12343231
 "FR","France","africa","Africa, regional",2010,"other","oof-loan","unspecified",52105857
-"GB","United Kingdom","africa","Africa, regional",2010,"other","oof-loan","unspecified",10942444
+"GB","UK","africa","Africa, regional",2010,"other","oof-loan","unspecified",10942444
 "KR","South Korea","africa","Africa, regional",2010,"other","oof-loan","unspecified",147912181
 "ofid","OFID","africa","Africa, regional",2010,"banking-and-business","oof-loan","unspecified",64594711
 "afdb","AfDB","africa","Africa, regional",2011,"agriculture-and-food-security","oof-loan","other",3400808
@@ -102,7 +102,7 @@
 "EU","European Union","africa","Africa, regional",2011,"other","oof-loan","unspecified",121294762
 "FI","Finland","africa","Africa, regional",2011,"other","oof-loan","unspecified",8787284
 "FR","France","africa","Africa, regional",2011,"other","oof-loan","unspecified",15646338
-"GB","United Kingdom","africa","Africa, regional",2011,"other","oof-loan","unspecified",7497427
+"GB","UK","africa","Africa, regional",2011,"other","oof-loan","unspecified",7497427
 "KR","South Korea","africa","Africa, regional",2011,"other","oof-loan","unspecified",71105818
 "US","USA","africa","Africa, regional",2011,"other","oof-loan","unspecified",8109065
 "afdb","AfDB","africa","Africa, regional",2012,"banking-and-business","oof-loan","other",218445519
@@ -121,7 +121,7 @@
 "EU","European Union","africa","Africa, regional",2012,"banking-and-business","oof-loan","unspecified",33419023
 "FI","Finland","africa","Africa, regional",2012,"other","oof-loan","unspecified",1571979
 "FR","France","africa","Africa, regional",2012,"other","oof-loan","unspecified",65794339
-"GB","United Kingdom","africa","Africa, regional",2012,"other","oof-loan","unspecified",6054851
+"GB","UK","africa","Africa, regional",2012,"other","oof-loan","unspecified",6054851
 "KR","South Korea","africa","Africa, regional",2012,"other","oof-loan","unspecified",2400000
 "SE","Sweden","africa","Africa, regional",2012,"other","oof-loan","unspecified",4546972
 "SE","Sweden","africa","Africa, regional",2012,"banking-and-business","oof-loan","unspecified",10142564
@@ -150,7 +150,7 @@
 "FI","Finland","africa","Africa, regional",2013,"other","oof-loan","unspecified",5489490
 "FI","Finland","africa","Africa, regional",2013,"industry-and-trade","oof-loan","unspecified",4154039
 "FR","France","africa","Africa, regional",2013,"other","oof-loan","unspecified",189116249
-"GB","United Kingdom","africa","Africa, regional",2013,"other","oof-loan","unspecified",16480223
+"GB","UK","africa","Africa, regional",2013,"other","oof-loan","unspecified",16480223
 "KR","South Korea","africa","Africa, regional",2013,"other","oof-loan","unspecified",218781226
 "ofid","OFID","africa","Africa, regional",2013,"industry-and-trade","oof-loan","unspecified",1512783
 "ofid","OFID","africa","Africa, regional",2013,"banking-and-business","oof-loan","unspecified",81016936
@@ -249,7 +249,7 @@
 "DE","Germany","america","America, regional",2007,"other","oof-loan","unspecified",210281866
 "EU","European Union","america","America, regional",2007,"other","oof-loan","unspecified",17803903
 "FI","Finland","america","America, regional",2007,"other","oof-loan","unspecified",1868258
-"GB","United Kingdom","america","America, regional",2007,"other","oof-loan","unspecified",-8822975
+"GB","UK","america","America, regional",2007,"other","oof-loan","unspecified",-8822975
 "KR","South Korea","america","America, regional",2007,"other","oof-loan","unspecified",8119820
 "US","USA","america","America, regional",2007,"other","oof-loan","unspecified",20388720
 "AU","Australia","america","America, regional",2008,"other","oof-grant","unspecified",417500
@@ -259,7 +259,7 @@
 "EU","European Union","america","America, regional",2008,"other","oof-loan","unspecified",357984484
 "FI","Finland","america","America, regional",2008,"other","oof-loan","unspecified",6963728
 "FR","France","america","America, regional",2008,"other","oof-loan","unspecified",23673149
-"GB","United Kingdom","america","America, regional",2008,"other","oof-loan","unspecified",330433
+"GB","UK","america","America, regional",2008,"other","oof-loan","unspecified",330433
 "JP","Japan","america","America, regional",2008,"other","oof-loan","unspecified",2210277
 "KR","South Korea","america","America, regional",2008,"other","oof-loan","unspecified",124895983
 "US","USA","america","America, regional",2008,"other","oof-loan","unspecified",1163914
@@ -278,7 +278,7 @@
 "DK","Denmark","america","America, regional",2010,"other","oof-loan","unspecified",721527
 "EU","European Union","america","America, regional",2010,"other","oof-loan","unspecified",340144261
 "FR","France","america","America, regional",2010,"other","oof-loan","unspecified",67197717
-"GB","United Kingdom","america","America, regional",2010,"other","oof-loan","unspecified",5362612
+"GB","UK","america","America, regional",2010,"other","oof-loan","unspecified",5362612
 "KR","South Korea","america","America, regional",2010,"other","oof-loan","unspecified",148673355
 "US","USA","america","America, regional",2010,"other","oof-loan","unspecified",5498531
 "AU","Australia","america","America, regional",2011,"other","oof-grant","unspecified",871601
@@ -290,7 +290,7 @@
 "EU","European Union","america","America, regional",2011,"other","oof-loan","unspecified",49996570
 "FI","Finland","america","America, regional",2011,"other","oof-loan","unspecified",1416493
 "FR","France","america","America, regional",2011,"other","oof-loan","unspecified",34664503
-"GB","United Kingdom","america","America, regional",2011,"other","oof-loan","unspecified",3439332
+"GB","UK","america","America, regional",2011,"other","oof-loan","unspecified",3439332
 "KR","South Korea","america","America, regional",2011,"other","oof-loan","unspecified",909502458
 "US","USA","america","America, regional",2011,"other","oof-loan","unspecified",23707198
 "AU","Australia","america","America, regional",2012,"other","oof-grant","unspecified",981248
@@ -301,7 +301,7 @@
 "DK","Denmark","america","America, regional",2012,"other","oof-loan","unspecified",926786
 "EU","European Union","america","America, regional",2012,"other","oof-loan","unspecified",36472082
 "FR","France","america","America, regional",2012,"other","oof-loan","unspecified",54485479
-"GB","United Kingdom","america","America, regional",2012,"other","oof-loan","unspecified",2120820
+"GB","UK","america","America, regional",2012,"other","oof-loan","unspecified",2120820
 "idb","IDB","america","America, regional",2012,"other-social-services","oof-loan","public-sector-recipient",5e+05
 "idb","IDB","america","America, regional",2012,"infrastructure","oof-loan","public-sector-recipient",48283636
 "idb","IDB","america","America, regional",2012,"education","oof-loan","public-sector-recipient",1865411
@@ -322,8 +322,8 @@
 "US","USA","america","America, regional",2013,"banking-and-business","oof-loan","unspecified",51754276
 "US","USA","america","America, regional",2013,"other","oof-loan","unspecified",2167586
 "US","USA","AO","Angola",2010,"other","oof-loan","unspecified",4927928
-"ibrd","IBRD","AG","Antigua and Barbuda",2013,"other-social-services","oof-loan","public-sector-recipient",461333
-"ibrd","IBRD","AG","Antigua and Barbuda",2013,"governance-and-security","oof-loan","public-sector-recipient",1026839
+"ibrd","IBRD","AG","Antigua & Barbuda",2013,"other-social-services","oof-loan","public-sector-recipient",461333
+"ibrd","IBRD","AG","Antigua & Barbuda",2013,"governance-and-security","oof-loan","public-sector-recipient",1026839
 "AU","Australia","AR","Argentina",2006,"other","oof-grant","unspecified",1746121
 "ibrd","IBRD","AR","Argentina",2006,"infrastructure","oof-loan","unspecified",190991881
 "ibrd","IBRD","AR","Argentina",2006,"industry-and-trade","oof-loan","unspecified",519110
@@ -589,7 +589,7 @@
 "BE","Belgium","asia","Asia, regional",2007,"other","oof-loan","unspecified",9036113
 "DE","Germany","asia","Asia, regional",2007,"other","oof-loan","unspecified",572271077
 "FR","France","asia","Asia, regional",2007,"other","oof-loan","unspecified",15135474
-"GB","United Kingdom","asia","Asia, regional",2007,"other","oof-loan","unspecified",-1526117
+"GB","UK","asia","Asia, regional",2007,"other","oof-loan","unspecified",-1526117
 "KR","South Korea","asia","Asia, regional",2007,"other","oof-loan","unspecified",244023408
 "US","USA","asia","Asia, regional",2007,"other","oof-loan","unspecified",2696921
 "AU","Australia","asia","Asia, regional",2008,"other","oof-grant","unspecified",3708295
@@ -600,7 +600,7 @@
 "EU","European Union","asia","Asia, regional",2008,"other","oof-loan","unspecified",54552031
 "FI","Finland","asia","Asia, regional",2008,"other","oof-loan","unspecified",4974289
 "FR","France","asia","Asia, regional",2008,"other","oof-loan","unspecified",22063846
-"GB","United Kingdom","asia","Asia, regional",2008,"other","oof-loan","unspecified",61502
+"GB","UK","asia","Asia, regional",2008,"other","oof-loan","unspecified",61502
 "JP","Japan","asia","Asia, regional",2008,"other","oof-loan","unspecified",116386546
 "KR","South Korea","asia","Asia, regional",2008,"other","oof-loan","unspecified",613882690
 "US","USA","asia","Asia, regional",2008,"other","oof-loan","unspecified",3174312
@@ -623,7 +623,7 @@
 "EU","European Union","asia","Asia, regional",2010,"other","oof-loan","unspecified",286337283
 "FI","Finland","asia","Asia, regional",2010,"other","oof-loan","unspecified",2446896
 "FR","France","asia","Asia, regional",2010,"other","oof-loan","unspecified",57519454
-"GB","United Kingdom","asia","Asia, regional",2010,"other","oof-loan","unspecified",11778289
+"GB","UK","asia","Asia, regional",2010,"other","oof-loan","unspecified",11778289
 "KR","South Korea","asia","Asia, regional",2010,"other","oof-loan","unspecified",277311137
 "US","USA","asia","Asia, regional",2010,"other","oof-loan","unspecified",26324887
 "AU","Australia","asia","Asia, regional",2011,"other","oof-grant","unspecified",20965599
@@ -635,7 +635,7 @@
 "EU","European Union","asia","Asia, regional",2011,"other","oof-loan","unspecified",25500212
 "FI","Finland","asia","Asia, regional",2011,"other","oof-loan","unspecified",2248402
 "FR","France","asia","Asia, regional",2011,"other","oof-loan","unspecified",15994862
-"GB","United Kingdom","asia","Asia, regional",2011,"other","oof-loan","unspecified",7589596
+"GB","UK","asia","Asia, regional",2011,"other","oof-loan","unspecified",7589596
 "IT","Italy","asia","Asia, regional",2011,"other","oof-loan","unspecified",809036
 "KR","South Korea","asia","Asia, regional",2011,"other","oof-loan","unspecified",158871082
 "US","USA","asia","Asia, regional",2011,"other","oof-loan","unspecified",6582437
@@ -649,7 +649,7 @@
 "EU","European Union","asia","Asia, regional",2012,"other","oof-loan","unspecified",38928736
 "FI","Finland","asia","Asia, regional",2012,"other","oof-loan","unspecified",2956298
 "FR","France","asia","Asia, regional",2012,"other","oof-loan","unspecified",116297202
-"GB","United Kingdom","asia","Asia, regional",2012,"other","oof-loan","unspecified",5810852
+"GB","UK","asia","Asia, regional",2012,"other","oof-loan","unspecified",5810852
 "KR","South Korea","asia","Asia, regional",2012,"other","oof-loan","unspecified",21887240
 "SE","Sweden","asia","Asia, regional",2012,"other","oof-loan","unspecified",3450191
 "US","USA","asia","Asia, regional",2012,"other","oof-loan","unspecified",3146945
@@ -665,7 +665,7 @@
 "ES","Spain","asia","Asia, regional",2013,"other","oof-grant","unspecified",51466
 "FI","Finland","asia","Asia, regional",2013,"other","oof-loan","unspecified",9769561
 "FR","France","asia","Asia, regional",2013,"other","oof-loan","unspecified",53198021
-"GB","United Kingdom","asia","Asia, regional",2013,"other","oof-loan","unspecified",27223612
+"GB","UK","asia","Asia, regional",2013,"other","oof-loan","unspecified",27223612
 "KR","South Korea","asia","Asia, regional",2013,"other","oof-loan","unspecified",417291895
 "ibrd","IBRD","AZ","Azerbaijan",2006,"infrastructure","oof-loan","unspecified",6246757
 "ibrd","IBRD","AZ","Azerbaijan",2007,"infrastructure","oof-loan","unspecified",16585938
@@ -891,59 +891,59 @@
 "idb","IDB","BO","Bolivia ",2012,"industry-and-trade","oof-loan","other",2e+06
 "BE","Belgium","BO","Bolivia ",2013,"other","oof-loan","unspecified",3449866
 "idb","IDB","BO","Bolivia ",2013,"agriculture-and-food-security","oof-loan","other",3596624
-"EU","European Union","BA","Bosnia and Herzegovina",2006,"other","oof-loan","unspecified",82042584
-"EU","European Union","BA","Bosnia and Herzegovina",2007,"industry-and-trade","oof-loan","unspecified",102497255
-"EU","European Union","BA","Bosnia and Herzegovina",2007,"other","oof-loan","unspecified",42648605
-"EU","European Union","BA","Bosnia and Herzegovina",2008,"other","oof-loan","unspecified",50654532
-"EU","European Union","BA","Bosnia and Herzegovina",2008,"infrastructure","oof-loan","unspecified",30045092
-"EU","European Union","BA","Bosnia and Herzegovina",2008,"industry-and-trade","oof-loan","unspecified",6704754
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2009,"industry-and-trade","oof-loan","other",36509358
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2009,"water-and-sanitation","oof-loan","public-sector-unknown",6327802
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2009,"banking-and-business","oof-loan","other",13143369
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2009,"agriculture-and-food-security","oof-loan","other",36509358
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2009,"infrastructure","oof-loan","public-sector-unknown",117520704
-"EU","European Union","BA","Bosnia and Herzegovina",2009,"other","oof-loan","unspecified",74477584
-"EU","European Union","BA","Bosnia and Herzegovina",2009,"infrastructure","oof-loan","unspecified",59339090
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2009,"water-and-sanitation","oof-loan","unspecified",67035
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2010,"infrastructure","oof-loan","public-sector-recipient",78287951
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2010,"infrastructure","oof-loan","other",2075543
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2010,"banking-and-business","oof-loan","other",39753801
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2010,"water-and-sanitation","oof-loan","public-sector-recipient",3224764
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2010,"industry-and-trade","oof-loan","other",32202927
-"EU","European Union","BA","Bosnia and Herzegovina",2010,"banking-and-business","oof-loan","unspecified",54080058
-"EU","European Union","BA","Bosnia and Herzegovina",2010,"infrastructure","oof-loan","unspecified",86972733
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2010,"banking-and-business","oof-loan","unspecified",43189
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2010,"industry-and-trade","oof-loan","unspecified",4275704
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2010,"governance-and-security","oof-loan","unspecified",22879062
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2010,"other-social-services","oof-loan","unspecified",22879062
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2010,"water-and-sanitation","oof-loan","unspecified",2249779
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2011,"water-and-sanitation","oof-loan","public-sector-recipient",67862
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2011,"industry-and-trade","oof-loan","other",14929566
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2011,"infrastructure","oof-loan","public-sector-recipient",77921475
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2011,"banking-and-business","oof-loan","other",39643426
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2011,"water-and-sanitation","oof-loan","unspecified",779198
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2011,"banking-and-business","oof-loan","unspecified",395422
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2011,"industry-and-trade","oof-loan","unspecified",39146784
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2012,"industry-and-trade","oof-loan","other",8849428
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2012,"infrastructure","oof-loan","public-sector-recipient",126865620
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2012,"water-and-sanitation","oof-loan","public-sector-recipient",1072585
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2012,"banking-and-business","oof-loan","other",24446350
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2012,"infrastructure","oof-loan","other",1061085
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2012,"water-and-sanitation","oof-loan","unspecified",6584975
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2012,"banking-and-business","oof-loan","unspecified",195729
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2012,"industry-and-trade","oof-loan","unspecified",19377145
-"islamic-dev-bank","Islamic Dev Bank","BA","Bosnia and Herzegovina",2012,"other","oof-loan","unspecified",19956430
-"ofid","OFID","BA","Bosnia and Herzegovina",2012,"banking-and-business","oof-loan","other",6426735
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2013,"water-and-sanitation","oof-loan","public-sector-recipient",4135054
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2013,"other","oof-loan","other",265285
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2013,"infrastructure","oof-loan","public-sector-recipient",202513946
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2013,"banking-and-business","oof-loan","other",36003920
-"ebrd","EBRD","BA","Bosnia and Herzegovina",2013,"industry-and-trade","oof-loan","other",24229338
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2013,"water-and-sanitation","oof-loan","public-sector-recipient",3097869
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2013,"banking-and-business","oof-loan","public-sector-recipient",74350
-"ibrd","IBRD","BA","Bosnia and Herzegovina",2013,"industry-and-trade","oof-loan","public-sector-recipient",7360607
-"ofid","OFID","BA","Bosnia and Herzegovina",2013,"banking-and-business","oof-loan","unspecified",4995311
-"ofid","OFID","BA","Bosnia and Herzegovina",2013,"infrastructure","oof-loan","unspecified",2274782
+"EU","European Union","BA","Bosnia & Herzegovina",2006,"other","oof-loan","unspecified",82042584
+"EU","European Union","BA","Bosnia & Herzegovina",2007,"industry-and-trade","oof-loan","unspecified",102497255
+"EU","European Union","BA","Bosnia & Herzegovina",2007,"other","oof-loan","unspecified",42648605
+"EU","European Union","BA","Bosnia & Herzegovina",2008,"other","oof-loan","unspecified",50654532
+"EU","European Union","BA","Bosnia & Herzegovina",2008,"infrastructure","oof-loan","unspecified",30045092
+"EU","European Union","BA","Bosnia & Herzegovina",2008,"industry-and-trade","oof-loan","unspecified",6704754
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2009,"industry-and-trade","oof-loan","other",36509358
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2009,"water-and-sanitation","oof-loan","public-sector-unknown",6327802
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2009,"banking-and-business","oof-loan","other",13143369
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2009,"agriculture-and-food-security","oof-loan","other",36509358
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2009,"infrastructure","oof-loan","public-sector-unknown",117520704
+"EU","European Union","BA","Bosnia & Herzegovina",2009,"other","oof-loan","unspecified",74477584
+"EU","European Union","BA","Bosnia & Herzegovina",2009,"infrastructure","oof-loan","unspecified",59339090
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2009,"water-and-sanitation","oof-loan","unspecified",67035
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2010,"infrastructure","oof-loan","public-sector-recipient",78287951
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2010,"infrastructure","oof-loan","other",2075543
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2010,"banking-and-business","oof-loan","other",39753801
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2010,"water-and-sanitation","oof-loan","public-sector-recipient",3224764
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2010,"industry-and-trade","oof-loan","other",32202927
+"EU","European Union","BA","Bosnia & Herzegovina",2010,"banking-and-business","oof-loan","unspecified",54080058
+"EU","European Union","BA","Bosnia & Herzegovina",2010,"infrastructure","oof-loan","unspecified",86972733
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2010,"banking-and-business","oof-loan","unspecified",43189
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2010,"industry-and-trade","oof-loan","unspecified",4275704
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2010,"governance-and-security","oof-loan","unspecified",22879062
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2010,"other-social-services","oof-loan","unspecified",22879062
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2010,"water-and-sanitation","oof-loan","unspecified",2249779
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2011,"water-and-sanitation","oof-loan","public-sector-recipient",67862
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2011,"industry-and-trade","oof-loan","other",14929566
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2011,"infrastructure","oof-loan","public-sector-recipient",77921475
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2011,"banking-and-business","oof-loan","other",39643426
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2011,"water-and-sanitation","oof-loan","unspecified",779198
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2011,"banking-and-business","oof-loan","unspecified",395422
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2011,"industry-and-trade","oof-loan","unspecified",39146784
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2012,"industry-and-trade","oof-loan","other",8849428
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2012,"infrastructure","oof-loan","public-sector-recipient",126865620
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2012,"water-and-sanitation","oof-loan","public-sector-recipient",1072585
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2012,"banking-and-business","oof-loan","other",24446350
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2012,"infrastructure","oof-loan","other",1061085
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2012,"water-and-sanitation","oof-loan","unspecified",6584975
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2012,"banking-and-business","oof-loan","unspecified",195729
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2012,"industry-and-trade","oof-loan","unspecified",19377145
+"islamic-dev-bank","Islamic Dev Bank","BA","Bosnia & Herzegovina",2012,"other","oof-loan","unspecified",19956430
+"ofid","OFID","BA","Bosnia & Herzegovina",2012,"banking-and-business","oof-loan","other",6426735
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2013,"water-and-sanitation","oof-loan","public-sector-recipient",4135054
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2013,"other","oof-loan","other",265285
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2013,"infrastructure","oof-loan","public-sector-recipient",202513946
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2013,"banking-and-business","oof-loan","other",36003920
+"ebrd","EBRD","BA","Bosnia & Herzegovina",2013,"industry-and-trade","oof-loan","other",24229338
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2013,"water-and-sanitation","oof-loan","public-sector-recipient",3097869
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2013,"banking-and-business","oof-loan","public-sector-recipient",74350
+"ibrd","IBRD","BA","Bosnia & Herzegovina",2013,"industry-and-trade","oof-loan","public-sector-recipient",7360607
+"ofid","OFID","BA","Bosnia & Herzegovina",2013,"banking-and-business","oof-loan","unspecified",4995311
+"ofid","OFID","BA","Bosnia & Herzegovina",2013,"infrastructure","oof-loan","unspecified",2274782
 "EU","European Union","BW","Botswana",2006,"other","oof-loan","unspecified",10854961
 "EU","European Union","BW","Botswana",2007,"other","oof-loan","unspecified",6233361
 "afdb","AfDB","BW","Botswana",2009,"agriculture-and-food-security","oof-loan","public-sector-unknown",189147
@@ -1170,18 +1170,6 @@
 "islamic-dev-bank","Islamic Dev Bank","BF","Burkina Faso",2012,"other","oof-loan","unspecified",1188750
 "BE","Belgium","BF","Burkina Faso",2013,"other","oof-loan","unspecified",2581441
 "BE","Belgium","BI","Burundi",2013,"other","oof-loan","unspecified",181991
-"FR","France","CI","Côte d'Ivoire",2008,"infrastructure","oof-loan","unspecified",6147617
-"FR","France","CI","Côte d'Ivoire",2008,"other","oof-loan","unspecified",238257812
-"FR","France","CI","Côte d'Ivoire",2009,"other","oof-loan","unspecified",130151338
-"afdb","AfDB","CI","Côte d'Ivoire",2012,"infrastructure","oof-loan","other",7695246
-"BE","Belgium","CI","Côte d'Ivoire",2012,"industry-and-trade","oof-loan","unspecified",554275
-"FR","France","CI","Côte d'Ivoire",2012,"banking-and-business","oof-loan","unspecified",5535584
-"islamic-dev-bank","Islamic Dev Bank","CI","Côte d'Ivoire",2012,"other","oof-loan","unspecified",35196400
-"afdb","AfDB","CI","Côte d'Ivoire",2013,"infrastructure","oof-loan","other",32606446
-"afdb","AfDB","CI","Côte d'Ivoire",2013,"banking-and-business","oof-loan","other",1194799
-"BE","Belgium","CI","Côte d'Ivoire",2013,"other","oof-loan","unspecified",8713506
-"FR","France","CI","Côte d'Ivoire",2013,"banking-and-business","oof-loan","unspecified",4678369
-"ofid","OFID","CI","Côte d'Ivoire",2013,"infrastructure","oof-loan","unspecified",1668073
 "AU","Australia","KH","Cambodia",2006,"other","oof-grant","unspecified",3539560
 "KR","South Korea","KH","Cambodia",2006,"industry-and-trade","oof-loan","unspecified",1268210
 "AU","Australia","KH","Cambodia",2007,"governance-and-security","oof-grant","unspecified",2914525
@@ -1679,7 +1667,7 @@
 "ibrd","IBRD","CR","Costa Rica",2006,"health","oof-loan","unspecified",891900
 "ibrd","IBRD","CR","Costa Rica",2006,"agriculture-and-food-security","oof-loan","unspecified",5134232
 "US","USA","CR","Costa Rica",2006,"banking-and-business","oof-loan","unspecified",13817046
-"GB","United Kingdom","CR","Costa Rica",2007,"agriculture-and-food-security","oof-loan","unspecified",-9544900
+"GB","UK","CR","Costa Rica",2007,"agriculture-and-food-security","oof-loan","unspecified",-9544900
 "ibrd","IBRD","CR","Costa Rica",2007,"health","oof-loan","unspecified",1502494
 "ibrd","IBRD","CR","Costa Rica",2007,"governance-and-security","oof-loan","unspecified",79079
 "US","USA","CR","Costa Rica",2007,"banking-and-business","oof-loan","unspecified",10787682
@@ -1751,6 +1739,18 @@
 "idb","IDB","CR","Costa Rica",2013,"governance-and-security","oof-loan","other",13220231
 "idb","IDB","CR","Costa Rica",2013,"water-and-sanitation","oof-loan","other",4358619
 "US","USA","CR","Costa Rica",2013,"other-social-services","oof-loan","unspecified",620718
+"FR","France","CI","Cote d'Ivoire",2008,"infrastructure","oof-loan","unspecified",6147617
+"FR","France","CI","Cote d'Ivoire",2008,"other","oof-loan","unspecified",238257812
+"FR","France","CI","Cote d'Ivoire",2009,"other","oof-loan","unspecified",130151338
+"afdb","AfDB","CI","Cote d'Ivoire",2012,"infrastructure","oof-loan","other",7695246
+"BE","Belgium","CI","Cote d'Ivoire",2012,"industry-and-trade","oof-loan","unspecified",554275
+"FR","France","CI","Cote d'Ivoire",2012,"banking-and-business","oof-loan","unspecified",5535584
+"islamic-dev-bank","Islamic Dev Bank","CI","Cote d'Ivoire",2012,"other","oof-loan","unspecified",35196400
+"afdb","AfDB","CI","Cote d'Ivoire",2013,"infrastructure","oof-loan","other",32606446
+"afdb","AfDB","CI","Cote d'Ivoire",2013,"banking-and-business","oof-loan","other",1194799
+"BE","Belgium","CI","Cote d'Ivoire",2013,"other","oof-loan","unspecified",8713506
+"FR","France","CI","Cote d'Ivoire",2013,"banking-and-business","oof-loan","unspecified",4678369
+"ofid","OFID","CI","Cote d'Ivoire",2013,"infrastructure","oof-loan","unspecified",1668073
 "afdb","AfDB","country-unspecified","Country not specified",2006,"other","oof-loan","unspecified",83212376
 "asdb","AsDB","country-unspecified","Country not specified",2006,"other","oof-loan","unspecified",5119390000
 "AT","Austria","country-unspecified","Country not specified",2006,"other","oof-export-credit","unspecified",86540000
@@ -1772,8 +1772,8 @@
 "DK","Denmark","country-unspecified","Country not specified",2006,"other","oof-loan","unspecified",55470000
 "ebrd","EBRD","country-unspecified","Country not specified",2006,"other","oof-loan","unspecified",1562570000
 "FR","France","country-unspecified","Country not specified",2006,"banking-and-business","oof-loan","unspecified",15053829
-"GB","United Kingdom","country-unspecified","Country not specified",2006,"other","oof-grant","unspecified",2030000
-"GB","United Kingdom","country-unspecified","Country not specified",2006,"other","oof-loan","unspecified",8880000
+"GB","UK","country-unspecified","Country not specified",2006,"other","oof-grant","unspecified",2030000
+"GB","UK","country-unspecified","Country not specified",2006,"other","oof-loan","unspecified",8880000
 "GR","Greece","country-unspecified","Country not specified",2006,"other","oof-grant","unspecified",9420000
 "idb","IDB","country-unspecified","Country not specified",2006,"other","oof-loan","unspecified",7042280000
 "ifad","IFAD","country-unspecified","Country not specified",2006,"other","oof-loan","unspecified",45330000
@@ -1819,9 +1819,9 @@
 "FR","France","country-unspecified","Country not specified",2007,"banking-and-business","oof-loan","unspecified",26446811
 "FR","France","country-unspecified","Country not specified",2007,"other","oof-loan","unspecified",1860794
 "FR","France","country-unspecified","Country not specified",2007,"other","oof-loan","unspecified",44372555
-"GB","United Kingdom","country-unspecified","Country not specified",2007,"other","oof-loan","unspecified",53231226
-"GB","United Kingdom","country-unspecified","Country not specified",2007,"other","oof-loan","unspecified",-6973991
-"GB","United Kingdom","country-unspecified","Country not specified",2007,"other","oof-export-credit","unspecified",2290000
+"GB","UK","country-unspecified","Country not specified",2007,"other","oof-loan","unspecified",53231226
+"GB","UK","country-unspecified","Country not specified",2007,"other","oof-loan","unspecified",-6973991
+"GB","UK","country-unspecified","Country not specified",2007,"other","oof-export-credit","unspecified",2290000
 "idb","IDB","country-unspecified","Country not specified",2007,"other","oof-loan","unspecified",7181710000
 "ifad","IFAD","country-unspecified","Country not specified",2007,"other","oof-loan","unspecified",42880000
 "ifc","IFC","country-unspecified","Country not specified",2007,"other","oof-loan","unspecified",4622270000
@@ -1859,7 +1859,7 @@
 "FI","Finland","country-unspecified","Country not specified",2008,"other","oof-loan","unspecified",1360822
 "FR","France","country-unspecified","Country not specified",2008,"other","oof-loan","unspecified",41216791
 "FR","France","country-unspecified","Country not specified",2008,"banking-and-business","oof-loan","unspecified",16704997
-"GB","United Kingdom","country-unspecified","Country not specified",2008,"other","oof-loan","unspecified",223427
+"GB","UK","country-unspecified","Country not specified",2008,"other","oof-loan","unspecified",223427
 "GR","Greece","country-unspecified","Country not specified",2008,"other","oof-loan","unspecified",649434
 "idb","IDB","country-unspecified","Country not specified",2008,"other","oof-loan","unspecified",7279280000
 "ifad","IFAD","country-unspecified","Country not specified",2008,"other","oof-loan","unspecified",54140000
@@ -1903,7 +1903,7 @@
 "FR","France","country-unspecified","Country not specified",2009,"other","oof-loan","unspecified",249931332
 "FR","France","country-unspecified","Country not specified",2009,"banking-and-business","oof-loan","unspecified",46180893
 "FR","France","country-unspecified","Country not specified",2009,"other","oof-loan","unspecified",3449006
-"GB","United Kingdom","country-unspecified","Country not specified",2009,"other","oof-loan","unspecified",353352550
+"GB","UK","country-unspecified","Country not specified",2009,"other","oof-loan","unspecified",353352550
 "ifad","IFAD","country-unspecified","Country not specified",2009,"other","oof-loan","unspecified",39550000
 "ifc","IFC","country-unspecified","Country not specified",2009,"other","oof-loan","unspecified",4688730000
 "IT","Italy","country-unspecified","Country not specified",2009,"other","oof-loan","unspecified",55860000
@@ -1944,8 +1944,8 @@
 "FR","France","country-unspecified","Country not specified",2010,"infrastructure","oof-loan","unspecified",2708401
 "FR","France","country-unspecified","Country not specified",2010,"other","oof-loan","unspecified",127412395
 "FR","France","country-unspecified","Country not specified",2010,"banking-and-business","oof-loan","unspecified",59595702
-"GB","United Kingdom","country-unspecified","Country not specified",2010,"other","oof-grant","unspecified",27930000
-"GB","United Kingdom","country-unspecified","Country not specified",2010,"other","oof-loan","unspecified",1067238
+"GB","UK","country-unspecified","Country not specified",2010,"other","oof-grant","unspecified",27930000
+"GB","UK","country-unspecified","Country not specified",2010,"other","oof-loan","unspecified",1067238
 "ifad","IFAD","country-unspecified","Country not specified",2010,"other","oof-loan","unspecified",45900000
 "ifc","IFC","country-unspecified","Country not specified",2010,"other","oof-loan","unspecified",4345450000
 "islamic-dev-bank","Islamic Dev Bank","country-unspecified","Country not specified",2010,"other","oof-loan","unspecified",1548800000
@@ -1982,8 +1982,8 @@
 "EU","European Union","country-unspecified","Country not specified",2011,"other","oof-loan","unspecified",15926007
 "FI","Finland","country-unspecified","Country not specified",2011,"other","oof-export-credit","unspecified",1050020000
 "FR","France","country-unspecified","Country not specified",2011,"banking-and-business","oof-loan","unspecified",52922126
-"GB","United Kingdom","country-unspecified","Country not specified",2011,"other","oof-grant","unspecified",19260000
-"GB","United Kingdom","country-unspecified","Country not specified",2011,"other","oof-loan","unspecified",1418233
+"GB","UK","country-unspecified","Country not specified",2011,"other","oof-grant","unspecified",19260000
+"GB","UK","country-unspecified","Country not specified",2011,"other","oof-loan","unspecified",1418233
 "ifad","IFAD","country-unspecified","Country not specified",2011,"other","oof-loan","unspecified",47700000
 "ifc","IFC","country-unspecified","Country not specified",2011,"other","oof-loan","unspecified",4619840000
 "islamic-dev-bank","Islamic Dev Bank","country-unspecified","Country not specified",2011,"other","oof-loan","unspecified",1643650000
@@ -2022,8 +2022,8 @@
 "FI","Finland","country-unspecified","Country not specified",2012,"other","oof-loan","unspecified",1735219
 "FI","Finland","country-unspecified","Country not specified",2012,"other","oof-loan","unspecified",6326967
 "FR","France","country-unspecified","Country not specified",2012,"banking-and-business","oof-loan","unspecified",139122417
-"GB","United Kingdom","country-unspecified","Country not specified",2012,"other","oof-loan","unspecified",49735550
-"GB","United Kingdom","country-unspecified","Country not specified",2012,"other","oof-grant","unspecified",14611084
+"GB","UK","country-unspecified","Country not specified",2012,"other","oof-loan","unspecified",49735550
+"GB","UK","country-unspecified","Country not specified",2012,"other","oof-grant","unspecified",14611084
 "ifad","IFAD","country-unspecified","Country not specified",2012,"other","oof-loan","unspecified",63390000
 "ifc","IFC","country-unspecified","Country not specified",2012,"other","oof-loan","unspecified",6414080000
 "islamic-dev-bank","Islamic Dev Bank","country-unspecified","Country not specified",2012,"other","oof-loan","unspecified",5988100
@@ -2075,8 +2075,8 @@
 "FR","France","country-unspecified","Country not specified",2013,"banking-and-business","oof-loan","unspecified",284105281
 "FR","France","country-unspecified","Country not specified",2013,"other","oof-loan","unspecified",25557484
 "FR","France","country-unspecified","Country not specified",2013,"infrastructure","oof-loan","unspecified",7161086
-"GB","United Kingdom","country-unspecified","Country not specified",2013,"other","oof-grant","unspecified",126266283
-"GB","United Kingdom","country-unspecified","Country not specified",2013,"other","oof-loan","unspecified",128434113
+"GB","UK","country-unspecified","Country not specified",2013,"other","oof-grant","unspecified",126266283
+"GB","UK","country-unspecified","Country not specified",2013,"other","oof-loan","unspecified",128434113
 "ifad","IFAD","country-unspecified","Country not specified",2013,"other","oof-loan","unspecified",57450000
 "ifc","IFC","country-unspecified","Country not specified",2013,"other","oof-loan","unspecified",6736730000
 "IT","Italy","country-unspecified","Country not specified",2013,"other","oof-grant","unspecified",153530000
@@ -3742,7 +3742,7 @@
 "AU","Australia","KE","Kenya",2011,"industry-and-trade","oof-grant","unspecified",273070
 "FR","France","KE","Kenya",2011,"banking-and-business","oof-loan","unspecified",15525010
 "FR","France","KE","Kenya",2011,"other","oof-loan","unspecified",3602282
-"GB","United Kingdom","KE","Kenya",2011,"industry-and-trade","oof-loan","unspecified",43454
+"GB","UK","KE","Kenya",2011,"industry-and-trade","oof-loan","unspecified",43454
 "afdb","AfDB","KE","Kenya",2012,"infrastructure","oof-loan","other",20638534
 "AU","Australia","KE","Kenya",2012,"other","oof-grant","unspecified",4268927
 "BE","Belgium","KE","Kenya",2012,"other","oof-loan","unspecified",71536
@@ -4562,7 +4562,7 @@
 "US","USA","MZ","Mozambique",2006,"other","oof-loan","unspecified",5338782
 "afdb","AfDB","MZ","Mozambique",2007,"industry-and-trade","oof-loan","other",8119634
 "EU","European Union","MZ","Mozambique",2007,"other","oof-loan","unspecified",8196364
-"GB","United Kingdom","MZ","Mozambique",2007,"industry-and-trade","oof-loan","unspecified",-4659433
+"GB","UK","MZ","Mozambique",2007,"industry-and-trade","oof-loan","unspecified",-4659433
 "EU","European Union","MZ","Mozambique",2008,"other","oof-loan","unspecified",353806
 "FR","France","MZ","Mozambique",2009,"banking-and-business","oof-loan","unspecified",6014373
 "EU","European Union","MZ","Mozambique",2010,"other","oof-loan","unspecified",42827482
@@ -4579,10 +4579,10 @@
 "AU","Australia","MM","Myanmar",2010,"other","oof-grant","unspecified",2056761
 "AU","Australia","MM","Myanmar",2011,"other","oof-grant","unspecified",983579
 "AU","Australia","MM","Myanmar",2012,"other","oof-grant","unspecified",1312750
-"GB","United Kingdom","MM","Myanmar",2012,"other-social-services","oof-grant","unspecified",8916
+"GB","UK","MM","Myanmar",2012,"other-social-services","oof-grant","unspecified",8916
 "AU","Australia","MM","Myanmar",2013,"industry-and-trade","oof-grant","unspecified",373730
 "AU","Australia","MM","Myanmar",2013,"other","oof-grant","unspecified",863514
-"GB","United Kingdom","MM","Myanmar",2013,"other-social-services","oof-grant","unspecified",3717
+"GB","UK","MM","Myanmar",2013,"other-social-services","oof-grant","unspecified",3717
 "afdb","AfDB","NA","Namibia",2006,"agriculture-and-food-security","oof-loan","public-sector-unknown",7754603
 "afdb","AfDB","NA","Namibia",2006,"infrastructure","oof-loan","public-sector-unknown",21349227
 "afdb","AfDB","NA","Namibia",2007,"agriculture-and-food-security","oof-loan","public-sector-unknown",3134977
@@ -4676,8 +4676,8 @@
 "FI","Finland","NG","Nigeria",2013,"other","oof-loan","unspecified",781679
 "FI","Finland","NG","Nigeria",2013,"industry-and-trade","oof-loan","unspecified",313243
 "FR","France","NG","Nigeria",2013,"banking-and-business","oof-loan","unspecified",60467395
-"GB","United Kingdom","NG","Nigeria",2013,"industry-and-trade","oof-loan","unspecified",556220
-"GB","United Kingdom","NG","Nigeria",2013,"infrastructure","oof-loan","unspecified",13077444
+"GB","UK","NG","Nigeria",2013,"industry-and-trade","oof-loan","unspecified",556220
+"GB","UK","NG","Nigeria",2013,"infrastructure","oof-loan","unspecified",13077444
 "KR","South Korea","NG","Nigeria",2013,"infrastructure","oof-loan","unspecified",46078896
 "EU","European Union","north-central-america","North & Central America, regional",2006,"other","oof-loan","unspecified",4461596
 "AU","Australia","north-central-america","North & Central America, regional",2008,"other","oof-grant","unspecified",94214
@@ -5447,30 +5447,30 @@
 "ibrd","IBRD","LC","Saint Lucia",2011,"infrastructure","oof-loan","unspecified",52120
 "ibrd","IBRD","LC","Saint Lucia",2012,"governance-and-security","oof-loan","unspecified",5547
 "ibrd","IBRD","LC","Saint Lucia",2012,"infrastructure","oof-loan","unspecified",88790
-"EU","European Union","VC","Saint Vincent and the Grenadines",2006,"other","oof-loan","unspecified",3174851
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2006,"industry-and-trade","oof-loan","unspecified",711512
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2006,"infrastructure","oof-loan","unspecified",1423024
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2006,"agriculture-and-food-security","oof-loan","unspecified",711512
-"EU","European Union","VC","Saint Vincent and the Grenadines",2007,"other","oof-loan","unspecified",1622827
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2008,"infrastructure","oof-loan","unspecified",60259
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2008,"governance-and-security","oof-loan","unspecified",3766
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2009,"health","oof-loan","unspecified",436019
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2009,"education","oof-loan","unspecified",128762
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2009,"other-social-services","oof-loan","unspecified",68050
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2009,"governance-and-security","oof-loan","unspecified",135434
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2010,"other-social-services","oof-loan","unspecified",169221
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2010,"health","oof-loan","unspecified",1084254
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2010,"education","oof-loan","unspecified",690846
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2010,"governance-and-security","oof-loan","unspecified",431572
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2010,"infrastructure","oof-loan","unspecified",33997
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2011,"education","oof-loan","unspecified",1235927
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2011,"infrastructure","oof-loan","unspecified",46003
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2011,"other-social-services","oof-loan","unspecified",69279
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2011,"health","oof-loan","unspecified",443731
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2011,"governance-and-security","oof-loan","unspecified",416918
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2012,"governance-and-security","oof-loan","unspecified",-4348
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2012,"infrastructure","oof-loan","unspecified",81270
-"ibrd","IBRD","VC","Saint Vincent and the Grenadines",2012,"education","oof-loan","unspecified",-37701
+"EU","European Union","VC","Saint Vincent & the Grenadines",2006,"other","oof-loan","unspecified",3174851
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2006,"industry-and-trade","oof-loan","unspecified",711512
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2006,"infrastructure","oof-loan","unspecified",1423024
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2006,"agriculture-and-food-security","oof-loan","unspecified",711512
+"EU","European Union","VC","Saint Vincent & the Grenadines",2007,"other","oof-loan","unspecified",1622827
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2008,"infrastructure","oof-loan","unspecified",60259
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2008,"governance-and-security","oof-loan","unspecified",3766
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2009,"health","oof-loan","unspecified",436019
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2009,"education","oof-loan","unspecified",128762
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2009,"other-social-services","oof-loan","unspecified",68050
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2009,"governance-and-security","oof-loan","unspecified",135434
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2010,"other-social-services","oof-loan","unspecified",169221
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2010,"health","oof-loan","unspecified",1084254
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2010,"education","oof-loan","unspecified",690846
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2010,"governance-and-security","oof-loan","unspecified",431572
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2010,"infrastructure","oof-loan","unspecified",33997
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2011,"education","oof-loan","unspecified",1235927
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2011,"infrastructure","oof-loan","unspecified",46003
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2011,"other-social-services","oof-loan","unspecified",69279
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2011,"health","oof-loan","unspecified",443731
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2011,"governance-and-security","oof-loan","unspecified",416918
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2012,"governance-and-security","oof-loan","unspecified",-4348
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2012,"infrastructure","oof-loan","unspecified",81270
+"ibrd","IBRD","VC","Saint Vincent & the Grenadines",2012,"education","oof-loan","unspecified",-37701
 "AU","Australia","WS","Samoa",2006,"other","oof-grant","unspecified",760246
 "AU","Australia","WS","Samoa",2007,"other","oof-grant","unspecified",640034
 "AU","Australia","WS","Samoa",2008,"other","oof-grant","unspecified",978362
@@ -5909,7 +5909,7 @@
 "EU","European Union","TZ","Tanzania",2013,"banking-and-business","oof-loan","multilateral",32843656
 "FI","Finland","TZ","Tanzania",2013,"banking-and-business","oof-loan","unspecified",282776
 "FR","France","TZ","Tanzania",2013,"banking-and-business","oof-loan","unspecified",15418616
-"GB","United Kingdom","TZ","Tanzania",2013,"infrastructure","oof-loan","unspecified",1427419
+"GB","UK","TZ","Tanzania",2013,"infrastructure","oof-loan","unspecified",1427419
 "US","USA","TZ","Tanzania",2013,"infrastructure","oof-loan","unspecified",2364639
 "AU","Australia","TH","Thailand",2006,"other","oof-grant","unspecified",7105995
 "AU","Australia","TH","Thailand",2006,"other-social-services","oof-grant","unspecified",1919567
@@ -6002,31 +6002,31 @@
 "AU","Australia","TO","Tonga",2011,"other","oof-grant","unspecified",780617
 "AU","Australia","TO","Tonga",2012,"other","oof-grant","unspecified",998026
 "AU","Australia","TO","Tonga",2013,"other","oof-grant","unspecified",339597
-"ibrd","IBRD","TT","Trinidad and Tobago",2006,"health","oof-loan","unspecified",5436635
-"ibrd","IBRD","TT","Trinidad and Tobago",2006,"infrastructure","oof-loan","unspecified",1389854
-"AU","Australia","TT","Trinidad and Tobago",2007,"governance-and-security","oof-grant","unspecified",1020265
-"EU","European Union","TT","Trinidad and Tobago",2007,"other","oof-loan","unspecified",4733978
-"ibrd","IBRD","TT","Trinidad and Tobago",2007,"infrastructure","oof-loan","unspecified",863770
-"ibrd","IBRD","TT","Trinidad and Tobago",2007,"health","oof-loan","unspecified",6300932
-"AU","Australia","TT","Trinidad and Tobago",2008,"other","oof-grant","unspecified",455322
-"EU","European Union","TT","Trinidad and Tobago",2008,"other","oof-loan","unspecified",2879467
-"ibrd","IBRD","TT","Trinidad and Tobago",2008,"health","oof-loan","unspecified",1084167
-"AU","Australia","TT","Trinidad and Tobago",2009,"other","oof-grant","unspecified",1346309
-"EU","European Union","TT","Trinidad and Tobago",2009,"other","oof-loan","unspecified",656306
-"ibrd","IBRD","TT","Trinidad and Tobago",2009,"health","oof-loan","unspecified",2221187
-"idb","IDB","TT","Trinidad and Tobago",2009,"other-social-services","oof-loan","unspecified",9985988
-"idb","IDB","TT","Trinidad and Tobago",2009,"other","oof-loan","unspecified",84345
-"idb","IDB","TT","Trinidad and Tobago",2009,"health","oof-loan","unspecified",8175573
-"idb","IDB","TT","Trinidad and Tobago",2009,"governance-and-security","oof-loan","unspecified",669444
-"idb","IDB","TT","Trinidad and Tobago",2009,"education","oof-loan","unspecified",9009104
-"AU","Australia","TT","Trinidad and Tobago",2010,"other","oof-grant","unspecified",716634
-"ibrd","IBRD","TT","Trinidad and Tobago",2010,"health","oof-loan","unspecified",4492049
-"idb","IDB","TT","Trinidad and Tobago",2010,"industry-and-trade","oof-loan","public-sector-recipient",124733
-"idb","IDB","TT","Trinidad and Tobago",2010,"other-social-services","oof-loan","public-sector-recipient",1424734
-"idb","IDB","TT","Trinidad and Tobago",2010,"governance-and-security","oof-loan","public-sector-recipient",105466667
-"idb","IDB","TT","Trinidad and Tobago",2010,"industry-and-trade","oof-loan","other",35020
-"idb","IDB","TT","Trinidad and Tobago",2010,"health","oof-loan","public-sector-recipient",7875424
-"idb","IDB","TT","Trinidad and Tobago",2010,"education","oof-loan","public-sector-recipient",33618855
+"ibrd","IBRD","TT","Trinidad & Tobago",2006,"health","oof-loan","unspecified",5436635
+"ibrd","IBRD","TT","Trinidad & Tobago",2006,"infrastructure","oof-loan","unspecified",1389854
+"AU","Australia","TT","Trinidad & Tobago",2007,"governance-and-security","oof-grant","unspecified",1020265
+"EU","European Union","TT","Trinidad & Tobago",2007,"other","oof-loan","unspecified",4733978
+"ibrd","IBRD","TT","Trinidad & Tobago",2007,"infrastructure","oof-loan","unspecified",863770
+"ibrd","IBRD","TT","Trinidad & Tobago",2007,"health","oof-loan","unspecified",6300932
+"AU","Australia","TT","Trinidad & Tobago",2008,"other","oof-grant","unspecified",455322
+"EU","European Union","TT","Trinidad & Tobago",2008,"other","oof-loan","unspecified",2879467
+"ibrd","IBRD","TT","Trinidad & Tobago",2008,"health","oof-loan","unspecified",1084167
+"AU","Australia","TT","Trinidad & Tobago",2009,"other","oof-grant","unspecified",1346309
+"EU","European Union","TT","Trinidad & Tobago",2009,"other","oof-loan","unspecified",656306
+"ibrd","IBRD","TT","Trinidad & Tobago",2009,"health","oof-loan","unspecified",2221187
+"idb","IDB","TT","Trinidad & Tobago",2009,"other-social-services","oof-loan","unspecified",9985988
+"idb","IDB","TT","Trinidad & Tobago",2009,"other","oof-loan","unspecified",84345
+"idb","IDB","TT","Trinidad & Tobago",2009,"health","oof-loan","unspecified",8175573
+"idb","IDB","TT","Trinidad & Tobago",2009,"governance-and-security","oof-loan","unspecified",669444
+"idb","IDB","TT","Trinidad & Tobago",2009,"education","oof-loan","unspecified",9009104
+"AU","Australia","TT","Trinidad & Tobago",2010,"other","oof-grant","unspecified",716634
+"ibrd","IBRD","TT","Trinidad & Tobago",2010,"health","oof-loan","unspecified",4492049
+"idb","IDB","TT","Trinidad & Tobago",2010,"industry-and-trade","oof-loan","public-sector-recipient",124733
+"idb","IDB","TT","Trinidad & Tobago",2010,"other-social-services","oof-loan","public-sector-recipient",1424734
+"idb","IDB","TT","Trinidad & Tobago",2010,"governance-and-security","oof-loan","public-sector-recipient",105466667
+"idb","IDB","TT","Trinidad & Tobago",2010,"industry-and-trade","oof-loan","other",35020
+"idb","IDB","TT","Trinidad & Tobago",2010,"health","oof-loan","public-sector-recipient",7875424
+"idb","IDB","TT","Trinidad & Tobago",2010,"education","oof-loan","public-sector-recipient",33618855
 "afdb","AfDB","TN","Tunisia",2006,"education","oof-loan","public-sector-unknown",3774251
 "afdb","AfDB","TN","Tunisia",2006,"environment","oof-loan","public-sector-unknown",4542684
 "afdb","AfDB","TN","Tunisia",2006,"agriculture-and-food-security","oof-loan","public-sector-unknown",15788979
@@ -6800,9 +6800,9 @@
 "KR","South Korea","VN","Viet Nam",2013,"infrastructure","oof-loan","unspecified",220160416
 "KR","South Korea","VN","Viet Nam",2013,"industry-and-trade","oof-loan","unspecified",757668493
 "KR","South Korea","VN","Viet Nam",2013,"other-social-services","oof-loan","unspecified",23039448
-"FR","France","WF","Wallis and Futuna",2006,"other-social-services","oof-loan","unspecified",5502
-"FR","France","WF","Wallis and Futuna",2007,"other-social-services","oof-loan","unspecified",3765
-"FR","France","WF","Wallis and Futuna",2008,"other-social-services","oof-loan","unspecified",5235609
+"FR","France","WF","Wallis & Futuna",2006,"other-social-services","oof-loan","unspecified",5502
+"FR","France","WF","Wallis & Futuna",2007,"other-social-services","oof-loan","unspecified",3765
+"FR","France","WF","Wallis & Futuna",2008,"other-social-services","oof-loan","unspecified",5235609
 "CA","Canada","west-indies","West Indies, regional",2013,"governance-and-security","oof-grant","unspecified",657998
 "KR","South Korea","YE","Yemen",2007,"industry-and-trade","oof-loan","unspecified",110456152
 "KR","South Korea","YE","Yemen",2009,"industry-and-trade","oof-loan","unspecified",1245
@@ -6813,7 +6813,7 @@
 "afdb","AfDB","ZM","Zambia",2007,"industry-and-trade","oof-loan","other",19352019
 "EU","European Union","ZM","Zambia",2007,"other","oof-loan","unspecified",71370891
 "EU","European Union","ZM","Zambia",2007,"industry-and-trade","oof-loan","unspecified",10594765
-"GB","United Kingdom","ZM","Zambia",2007,"agriculture-and-food-security","oof-loan","unspecified",-15496570
+"GB","UK","ZM","Zambia",2007,"agriculture-and-food-security","oof-loan","unspecified",-15496570
 "afdb","AfDB","ZM","Zambia",2008,"industry-and-trade","oof-loan","unspecified",23660939
 "EU","European Union","ZM","Zambia",2008,"other","oof-loan","unspecified",27965236
 "FR","France","ZM","Zambia",2008,"banking-and-business","oof-loan","unspecified",12073281

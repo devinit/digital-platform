@@ -137,29 +137,29 @@
 "AO","Angola",2010,0.195
 "AO","Angola",2011,0.199
 "AO","Angola",2012,0.188
-"AG","Antigua and Barbuda",1990,
-"AG","Antigua and Barbuda",1991,
-"AG","Antigua and Barbuda",1992,
-"AG","Antigua and Barbuda",1993,
-"AG","Antigua and Barbuda",1994,
-"AG","Antigua and Barbuda",1995,
-"AG","Antigua and Barbuda",1996,
-"AG","Antigua and Barbuda",1997,
-"AG","Antigua and Barbuda",1998,
-"AG","Antigua and Barbuda",1999,
-"AG","Antigua and Barbuda",2000,0.133
-"AG","Antigua and Barbuda",2001,0.151
-"AG","Antigua and Barbuda",2002,0.162
-"AG","Antigua and Barbuda",2003,0.167
-"AG","Antigua and Barbuda",2004,0.175
-"AG","Antigua and Barbuda",2005,0.168
-"AG","Antigua and Barbuda",2006,0.184
-"AG","Antigua and Barbuda",2007,0.198
-"AG","Antigua and Barbuda",2008,0.19
-"AG","Antigua and Barbuda",2009,0.176
-"AG","Antigua and Barbuda",2010,0.188
-"AG","Antigua and Barbuda",2011,0.181
-"AG","Antigua and Barbuda",2012,0.187
+"AG","Antigua & Barbuda",1990,
+"AG","Antigua & Barbuda",1991,
+"AG","Antigua & Barbuda",1992,
+"AG","Antigua & Barbuda",1993,
+"AG","Antigua & Barbuda",1994,
+"AG","Antigua & Barbuda",1995,
+"AG","Antigua & Barbuda",1996,
+"AG","Antigua & Barbuda",1997,
+"AG","Antigua & Barbuda",1998,
+"AG","Antigua & Barbuda",1999,
+"AG","Antigua & Barbuda",2000,0.133
+"AG","Antigua & Barbuda",2001,0.151
+"AG","Antigua & Barbuda",2002,0.162
+"AG","Antigua & Barbuda",2003,0.167
+"AG","Antigua & Barbuda",2004,0.175
+"AG","Antigua & Barbuda",2005,0.168
+"AG","Antigua & Barbuda",2006,0.184
+"AG","Antigua & Barbuda",2007,0.198
+"AG","Antigua & Barbuda",2008,0.19
+"AG","Antigua & Barbuda",2009,0.176
+"AG","Antigua & Barbuda",2010,0.188
+"AG","Antigua & Barbuda",2011,0.181
+"AG","Antigua & Barbuda",2012,0.187
 "AR","Argentina",1990,
 "AR","Argentina",1991,
 "AR","Argentina",1992,
@@ -551,29 +551,29 @@
 "BO","Bolivia ",2010,
 "BO","Bolivia ",2011,
 "BO","Bolivia ",2012,
-"BA","Bosnia and Herzegovina",1990,
-"BA","Bosnia and Herzegovina",1991,
-"BA","Bosnia and Herzegovina",1992,
-"BA","Bosnia and Herzegovina",1993,
-"BA","Bosnia and Herzegovina",1994,
-"BA","Bosnia and Herzegovina",1995,
-"BA","Bosnia and Herzegovina",1996,
-"BA","Bosnia and Herzegovina",1997,
-"BA","Bosnia and Herzegovina",1998,
-"BA","Bosnia and Herzegovina",1999,
-"BA","Bosnia and Herzegovina",2000,
-"BA","Bosnia and Herzegovina",2001,
-"BA","Bosnia and Herzegovina",2002,
-"BA","Bosnia and Herzegovina",2003,0.198
-"BA","Bosnia and Herzegovina",2004,0.19
-"BA","Bosnia and Herzegovina",2005,0.204
-"BA","Bosnia and Herzegovina",2006,0.225
-"BA","Bosnia and Herzegovina",2007,0.221
-"BA","Bosnia and Herzegovina",2008,0.209
-"BA","Bosnia and Herzegovina",2009,0.195
-"BA","Bosnia and Herzegovina",2010,0.202
-"BA","Bosnia and Herzegovina",2011,0.207
-"BA","Bosnia and Herzegovina",2012,0.209
+"BA","Bosnia & Herzegovina",1990,
+"BA","Bosnia & Herzegovina",1991,
+"BA","Bosnia & Herzegovina",1992,
+"BA","Bosnia & Herzegovina",1993,
+"BA","Bosnia & Herzegovina",1994,
+"BA","Bosnia & Herzegovina",1995,
+"BA","Bosnia & Herzegovina",1996,
+"BA","Bosnia & Herzegovina",1997,
+"BA","Bosnia & Herzegovina",1998,
+"BA","Bosnia & Herzegovina",1999,
+"BA","Bosnia & Herzegovina",2000,
+"BA","Bosnia & Herzegovina",2001,
+"BA","Bosnia & Herzegovina",2002,
+"BA","Bosnia & Herzegovina",2003,0.198
+"BA","Bosnia & Herzegovina",2004,0.19
+"BA","Bosnia & Herzegovina",2005,0.204
+"BA","Bosnia & Herzegovina",2006,0.225
+"BA","Bosnia & Herzegovina",2007,0.221
+"BA","Bosnia & Herzegovina",2008,0.209
+"BA","Bosnia & Herzegovina",2009,0.195
+"BA","Bosnia & Herzegovina",2010,0.202
+"BA","Bosnia & Herzegovina",2011,0.207
+"BA","Bosnia & Herzegovina",2012,0.209
 "BW","Botswana",1990,0.275
 "BW","Botswana",1991,0.256
 "BW","Botswana",1992,0.278
@@ -712,29 +712,6 @@
 "BI","Burundi",2010,
 "BI","Burundi",2011,
 "BI","Burundi",2012,
-"CI","Côte d'Ivoire",1990,
-"CI","Côte d'Ivoire",1991,
-"CI","Côte d'Ivoire",1992,
-"CI","Côte d'Ivoire",1993,
-"CI","Côte d'Ivoire",1994,
-"CI","Côte d'Ivoire",1995,
-"CI","Côte d'Ivoire",1996,
-"CI","Côte d'Ivoire",1997,
-"CI","Côte d'Ivoire",1998,
-"CI","Côte d'Ivoire",1999,
-"CI","Côte d'Ivoire",2000,
-"CI","Côte d'Ivoire",2001,
-"CI","Côte d'Ivoire",2002,
-"CI","Côte d'Ivoire",2003,0.149
-"CI","Côte d'Ivoire",2004,0.152
-"CI","Côte d'Ivoire",2005,0.145
-"CI","Côte d'Ivoire",2006,0.15
-"CI","Côte d'Ivoire",2007,0.155
-"CI","Côte d'Ivoire",2008,0.156
-"CI","Côte d'Ivoire",2009,0.154
-"CI","Côte d'Ivoire",2010,0.156
-"CI","Côte d'Ivoire",2011,0.115
-"CI","Côte d'Ivoire",2012,0.156
 "KH","Cambodia",1990,
 "KH","Cambodia",1991,
 "KH","Cambodia",1992,
@@ -1034,6 +1011,29 @@
 "CR","Costa Rica",2010,0.134
 "CR","Costa Rica",2011,0.137
 "CR","Costa Rica",2012,0.136
+"CI","Cote d'Ivoire",1990,
+"CI","Cote d'Ivoire",1991,
+"CI","Cote d'Ivoire",1992,
+"CI","Cote d'Ivoire",1993,
+"CI","Cote d'Ivoire",1994,
+"CI","Cote d'Ivoire",1995,
+"CI","Cote d'Ivoire",1996,
+"CI","Cote d'Ivoire",1997,
+"CI","Cote d'Ivoire",1998,
+"CI","Cote d'Ivoire",1999,
+"CI","Cote d'Ivoire",2000,
+"CI","Cote d'Ivoire",2001,
+"CI","Cote d'Ivoire",2002,
+"CI","Cote d'Ivoire",2003,0.149
+"CI","Cote d'Ivoire",2004,0.152
+"CI","Cote d'Ivoire",2005,0.145
+"CI","Cote d'Ivoire",2006,0.15
+"CI","Cote d'Ivoire",2007,0.155
+"CI","Cote d'Ivoire",2008,0.156
+"CI","Cote d'Ivoire",2009,0.154
+"CI","Cote d'Ivoire",2010,0.156
+"CI","Cote d'Ivoire",2011,0.115
+"CI","Cote d'Ivoire",2012,0.156
 "HR","Croatia",1990,
 "HR","Croatia",1991,0.149
 "HR","Croatia",1992,0.197
@@ -3679,29 +3679,29 @@
 "LC","Saint Lucia",2010,0.23
 "LC","Saint Lucia",2011,0.233
 "LC","Saint Lucia",2012,0.228
-"VC","Saint Vincent and the Grenadines",1990,0.221
-"VC","Saint Vincent and the Grenadines",1991,0.235
-"VC","Saint Vincent and the Grenadines",1992,0.22
-"VC","Saint Vincent and the Grenadines",1993,0.224
-"VC","Saint Vincent and the Grenadines",1994,0.235
-"VC","Saint Vincent and the Grenadines",1995,0.228
-"VC","Saint Vincent and the Grenadines",1996,0.235
-"VC","Saint Vincent and the Grenadines",1997,0.244
-"VC","Saint Vincent and the Grenadines",1998,0.249
-"VC","Saint Vincent and the Grenadines",1999,0.244
-"VC","Saint Vincent and the Grenadines",2000,0.212
-"VC","Saint Vincent and the Grenadines",2001,0.208
-"VC","Saint Vincent and the Grenadines",2002,0.218
-"VC","Saint Vincent and the Grenadines",2003,0.209
-"VC","Saint Vincent and the Grenadines",2004,0.206
-"VC","Saint Vincent and the Grenadines",2005,0.205
-"VC","Saint Vincent and the Grenadines",2006,0.22
-"VC","Saint Vincent and the Grenadines",2007,0.218
-"VC","Saint Vincent and the Grenadines",2008,0.239
-"VC","Saint Vincent and the Grenadines",2009,0.237
-"VC","Saint Vincent and the Grenadines",2010,0.229
-"VC","Saint Vincent and the Grenadines",2011,0.225
-"VC","Saint Vincent and the Grenadines",2012,0.23
+"VC","Saint Vincent & the Grenadines",1990,0.221
+"VC","Saint Vincent & the Grenadines",1991,0.235
+"VC","Saint Vincent & the Grenadines",1992,0.22
+"VC","Saint Vincent & the Grenadines",1993,0.224
+"VC","Saint Vincent & the Grenadines",1994,0.235
+"VC","Saint Vincent & the Grenadines",1995,0.228
+"VC","Saint Vincent & the Grenadines",1996,0.235
+"VC","Saint Vincent & the Grenadines",1997,0.244
+"VC","Saint Vincent & the Grenadines",1998,0.249
+"VC","Saint Vincent & the Grenadines",1999,0.244
+"VC","Saint Vincent & the Grenadines",2000,0.212
+"VC","Saint Vincent & the Grenadines",2001,0.208
+"VC","Saint Vincent & the Grenadines",2002,0.218
+"VC","Saint Vincent & the Grenadines",2003,0.209
+"VC","Saint Vincent & the Grenadines",2004,0.206
+"VC","Saint Vincent & the Grenadines",2005,0.205
+"VC","Saint Vincent & the Grenadines",2006,0.22
+"VC","Saint Vincent & the Grenadines",2007,0.218
+"VC","Saint Vincent & the Grenadines",2008,0.239
+"VC","Saint Vincent & the Grenadines",2009,0.237
+"VC","Saint Vincent & the Grenadines",2010,0.229
+"VC","Saint Vincent & the Grenadines",2011,0.225
+"VC","Saint Vincent & the Grenadines",2012,0.23
 "WS","Samoa",1990,
 "WS","Samoa",1991,
 "WS","Samoa",1992,
@@ -3748,29 +3748,29 @@
 "SM","San Marino",2010,
 "SM","San Marino",2011,
 "SM","San Marino",2012,
-"ST","Sao Tome and Principe",1990,
-"ST","Sao Tome and Principe",1991,
-"ST","Sao Tome and Principe",1992,
-"ST","Sao Tome and Principe",1993,
-"ST","Sao Tome and Principe",1994,
-"ST","Sao Tome and Principe",1995,
-"ST","Sao Tome and Principe",1996,
-"ST","Sao Tome and Principe",1997,
-"ST","Sao Tome and Principe",1998,
-"ST","Sao Tome and Principe",1999,
-"ST","Sao Tome and Principe",2000,
-"ST","Sao Tome and Principe",2001,
-"ST","Sao Tome and Principe",2002,0.096
-"ST","Sao Tome and Principe",2003,0.101
-"ST","Sao Tome and Principe",2004,0.119
-"ST","Sao Tome and Principe",2005,0.112
-"ST","Sao Tome and Principe",2006,0.158
-"ST","Sao Tome and Principe",2007,0.164
-"ST","Sao Tome and Principe",2008,0.152
-"ST","Sao Tome and Principe",2009,0.145
-"ST","Sao Tome and Principe",2010,0.174
-"ST","Sao Tome and Principe",2011,0.166
-"ST","Sao Tome and Principe",2012,0.14
+"ST","Sao Tome & Principe",1990,
+"ST","Sao Tome & Principe",1991,
+"ST","Sao Tome & Principe",1992,
+"ST","Sao Tome & Principe",1993,
+"ST","Sao Tome & Principe",1994,
+"ST","Sao Tome & Principe",1995,
+"ST","Sao Tome & Principe",1996,
+"ST","Sao Tome & Principe",1997,
+"ST","Sao Tome & Principe",1998,
+"ST","Sao Tome & Principe",1999,
+"ST","Sao Tome & Principe",2000,
+"ST","Sao Tome & Principe",2001,
+"ST","Sao Tome & Principe",2002,0.096
+"ST","Sao Tome & Principe",2003,0.101
+"ST","Sao Tome & Principe",2004,0.119
+"ST","Sao Tome & Principe",2005,0.112
+"ST","Sao Tome & Principe",2006,0.158
+"ST","Sao Tome & Principe",2007,0.164
+"ST","Sao Tome & Principe",2008,0.152
+"ST","Sao Tome & Principe",2009,0.145
+"ST","Sao Tome & Principe",2010,0.174
+"ST","Sao Tome & Principe",2011,0.166
+"ST","Sao Tome & Principe",2012,0.14
 "SA","Saudi Arabia",1990,
 "SA","Saudi Arabia",1991,
 "SA","Saudi Arabia",1992,
@@ -4415,29 +4415,29 @@
 "TO","Tonga",2010,
 "TO","Tonga",2011,
 "TO","Tonga",2012,
-"TT","Trinidad and Tobago",1990,
-"TT","Trinidad and Tobago",1991,
-"TT","Trinidad and Tobago",1992,
-"TT","Trinidad and Tobago",1993,0.232
-"TT","Trinidad and Tobago",1994,0.214
-"TT","Trinidad and Tobago",1995,0.227
-"TT","Trinidad and Tobago",1996,
-"TT","Trinidad and Tobago",1997,
-"TT","Trinidad and Tobago",1998,
-"TT","Trinidad and Tobago",1999,
-"TT","Trinidad and Tobago",2000,
-"TT","Trinidad and Tobago",2001,0.221
-"TT","Trinidad and Tobago",2002,0.205
-"TT","Trinidad and Tobago",2003,0.214
-"TT","Trinidad and Tobago",2004,0.227
-"TT","Trinidad and Tobago",2005,0.264
-"TT","Trinidad and Tobago",2006,0.303
-"TT","Trinidad and Tobago",2007,0.26
-"TT","Trinidad and Tobago",2008,0.295
-"TT","Trinidad and Tobago",2009,0.268
-"TT","Trinidad and Tobago",2010,0.283
-"TT","Trinidad and Tobago",2011,
-"TT","Trinidad and Tobago",2012,
+"TT","Trinidad & Tobago",1990,
+"TT","Trinidad & Tobago",1991,
+"TT","Trinidad & Tobago",1992,
+"TT","Trinidad & Tobago",1993,0.232
+"TT","Trinidad & Tobago",1994,0.214
+"TT","Trinidad & Tobago",1995,0.227
+"TT","Trinidad & Tobago",1996,
+"TT","Trinidad & Tobago",1997,
+"TT","Trinidad & Tobago",1998,
+"TT","Trinidad & Tobago",1999,
+"TT","Trinidad & Tobago",2000,
+"TT","Trinidad & Tobago",2001,0.221
+"TT","Trinidad & Tobago",2002,0.205
+"TT","Trinidad & Tobago",2003,0.214
+"TT","Trinidad & Tobago",2004,0.227
+"TT","Trinidad & Tobago",2005,0.264
+"TT","Trinidad & Tobago",2006,0.303
+"TT","Trinidad & Tobago",2007,0.26
+"TT","Trinidad & Tobago",2008,0.295
+"TT","Trinidad & Tobago",2009,0.268
+"TT","Trinidad & Tobago",2010,0.283
+"TT","Trinidad & Tobago",2011,
+"TT","Trinidad & Tobago",2012,
 "TN","Tunisia",1990,0.2
 "TN","Tunisia",1991,0.204
 "TN","Tunisia",1992,0.205
@@ -4507,29 +4507,29 @@
 "TM","Turkmenistan",2010,
 "TM","Turkmenistan",2011,
 "TM","Turkmenistan",2012,
-"TC","Turks and Caicos Islands",1990,
-"TC","Turks and Caicos Islands",1991,
-"TC","Turks and Caicos Islands",1992,
-"TC","Turks and Caicos Islands",1993,
-"TC","Turks and Caicos Islands",1994,
-"TC","Turks and Caicos Islands",1995,
-"TC","Turks and Caicos Islands",1996,
-"TC","Turks and Caicos Islands",1997,
-"TC","Turks and Caicos Islands",1998,
-"TC","Turks and Caicos Islands",1999,
-"TC","Turks and Caicos Islands",2000,
-"TC","Turks and Caicos Islands",2001,
-"TC","Turks and Caicos Islands",2002,
-"TC","Turks and Caicos Islands",2003,
-"TC","Turks and Caicos Islands",2004,
-"TC","Turks and Caicos Islands",2005,
-"TC","Turks and Caicos Islands",2006,
-"TC","Turks and Caicos Islands",2007,
-"TC","Turks and Caicos Islands",2008,
-"TC","Turks and Caicos Islands",2009,
-"TC","Turks and Caicos Islands",2010,
-"TC","Turks and Caicos Islands",2011,
-"TC","Turks and Caicos Islands",2012,
+"TC","Turks & Caicos Islands",1990,
+"TC","Turks & Caicos Islands",1991,
+"TC","Turks & Caicos Islands",1992,
+"TC","Turks & Caicos Islands",1993,
+"TC","Turks & Caicos Islands",1994,
+"TC","Turks & Caicos Islands",1995,
+"TC","Turks & Caicos Islands",1996,
+"TC","Turks & Caicos Islands",1997,
+"TC","Turks & Caicos Islands",1998,
+"TC","Turks & Caicos Islands",1999,
+"TC","Turks & Caicos Islands",2000,
+"TC","Turks & Caicos Islands",2001,
+"TC","Turks & Caicos Islands",2002,
+"TC","Turks & Caicos Islands",2003,
+"TC","Turks & Caicos Islands",2004,
+"TC","Turks & Caicos Islands",2005,
+"TC","Turks & Caicos Islands",2006,
+"TC","Turks & Caicos Islands",2007,
+"TC","Turks & Caicos Islands",2008,
+"TC","Turks & Caicos Islands",2009,
+"TC","Turks & Caicos Islands",2010,
+"TC","Turks & Caicos Islands",2011,
+"TC","Turks & Caicos Islands",2012,
 "TV","Tuvalu",1990,
 "TV","Tuvalu",1991,
 "TV","Tuvalu",1992,
@@ -4599,6 +4599,29 @@
 "UG","Uganda",2010,0.12
 "UG","Uganda",2011,0.161
 "UG","Uganda",2012,0.13
+"GB","UK",1990,
+"GB","UK",1991,
+"GB","UK",1992,
+"GB","UK",1993,
+"GB","UK",1994,
+"GB","UK",1995,0.258
+"GB","UK",1996,0.258
+"GB","UK",1997,0.263
+"GB","UK",1998,0.274
+"GB","UK",1999,0.277
+"GB","UK",2000,0.281
+"GB","UK",2001,0.279
+"GB","UK",2002,0.269
+"GB","UK",2003,0.261
+"GB","UK",2004,0.263
+"GB","UK",2005,0.268
+"GB","UK",2006,0.275
+"GB","UK",2007,0.272
+"GB","UK",2008,0.284
+"GB","UK",2009,0.256
+"GB","UK",2010,0.264
+"GB","UK",2011,0.271
+"GB","UK",2012,0.269
 "UA","Ukraine",1990,
 "UA","Ukraine",1991,
 "UA","Ukraine",1992,
@@ -4622,29 +4645,6 @@
 "UA","Ukraine",2010,0.155
 "UA","Ukraine",2011,0.185
 "UA","Ukraine",2012,0.182
-"GB","United Kingdom",1990,
-"GB","United Kingdom",1991,
-"GB","United Kingdom",1992,
-"GB","United Kingdom",1993,
-"GB","United Kingdom",1994,
-"GB","United Kingdom",1995,0.258
-"GB","United Kingdom",1996,0.258
-"GB","United Kingdom",1997,0.263
-"GB","United Kingdom",1998,0.274
-"GB","United Kingdom",1999,0.277
-"GB","United Kingdom",2000,0.281
-"GB","United Kingdom",2001,0.279
-"GB","United Kingdom",2002,0.269
-"GB","United Kingdom",2003,0.261
-"GB","United Kingdom",2004,0.263
-"GB","United Kingdom",2005,0.268
-"GB","United Kingdom",2006,0.275
-"GB","United Kingdom",2007,0.272
-"GB","United Kingdom",2008,0.284
-"GB","United Kingdom",2009,0.256
-"GB","United Kingdom",2010,0.264
-"GB","United Kingdom",2011,0.271
-"GB","United Kingdom",2012,0.269
 "UY","Uruguay",1990,0.162
 "UY","Uruguay",1991,0.168
 "UY","Uruguay",1992,0.172

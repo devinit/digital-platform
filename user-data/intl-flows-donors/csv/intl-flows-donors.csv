@@ -4129,119 +4129,119 @@
 "AE","UAE",2013,"in","official","oda-interest",0
 "AE","UAE",2013,"out","official","oofs-out",7890000
 "AE","UAE",2013,"in","official","oofs-interest",0
-"GB","United Kingdom",2000,"in","official","oofs-interest",0
-"GB","United Kingdom",2000,"in","official","oda-interest",0
-"GB","United Kingdom",2000,"out","official","oofs-out",247930000
-"GB","United Kingdom",2000,"out","official","dfis-out",391555183
-"GB","United Kingdom",2000,"in","official","oda-capital-repay",68550000
-"GB","United Kingdom",2000,"in","official","oofs-capital-repay",348040000
-"GB","United Kingdom",2000,"out","commercial","fdi-out",6023509931
-"GB","United Kingdom",2000,"out","official","oda-out",6337790000
-"GB","United Kingdom",2001,"in","official","oda-interest",0
-"GB","United Kingdom",2001,"in","official","oofs-interest",0
-"GB","United Kingdom",2001,"in","official","oofs-capital-repay",321860000
-"GB","United Kingdom",2001,"in","official","oda-capital-repay",171860000
-"GB","United Kingdom",2001,"out","official","dfis-out",203132594
-"GB","United Kingdom",2001,"out","official","oofs-out",354330000
-"GB","United Kingdom",2001,"out","commercial","fdi-out",6614651498
-"GB","United Kingdom",2001,"out","official","oda-out",6706780000
-"GB","United Kingdom",2002,"in","official","oda-interest",2450000
-"GB","United Kingdom",2002,"in","official","oofs-interest",0
-"GB","United Kingdom",2002,"out","official","oofs-out",240540000
-"GB","United Kingdom",2002,"in","official","oda-capital-repay",143780000
-"GB","United Kingdom",2002,"out","official","dfis-out",288845215
-"GB","United Kingdom",2002,"in","official","oofs-capital-repay",245660000
-"GB","United Kingdom",2002,"out","official","oda-out",6752580000
-"GB","United Kingdom",2002,"out","commercial","fdi-out",13441674633
-"GB","United Kingdom",2003,"in","official","oofs-interest",0
-"GB","United Kingdom",2003,"out","official","dfis-out",407830043
-"GB","United Kingdom",2003,"out","official","oofs-out",292910000
-"GB","United Kingdom",2003,"in","official","oda-capital-repay",203730000
-"GB","United Kingdom",2003,"in","official","oda-interest",67830000
-"GB","United Kingdom",2003,"in","official","oofs-capital-repay",233010000
-"GB","United Kingdom",2003,"out","official","oda-out",7754120000
-"GB","United Kingdom",2003,"out","commercial","fdi-out",12349441028
-"GB","United Kingdom",2004,"in","official","oda-interest",2100000
-"GB","United Kingdom",2004,"in","official","oofs-interest",0
-"GB","United Kingdom",2004,"out","official","oofs-out",71840000
-"GB","United Kingdom",2004,"out","official","dfis-out",295487511
-"GB","United Kingdom",2004,"in","official","oofs-capital-repay",234570000
-"GB","United Kingdom",2004,"in","official","oda-capital-repay",296310000
-"GB","United Kingdom",2004,"out","official","oda-out",8593650000
-"GB","United Kingdom",2004,"out","commercial","fdi-out",18195092630
-"GB","United Kingdom",2005,"in","official","oda-interest",0
-"GB","United Kingdom",2005,"in","official","oofs-interest",0
-"GB","United Kingdom",2005,"out","official","dfis-out",414216988
-"GB","United Kingdom",2005,"out","official","oofs-out",54360000
-"GB","United Kingdom",2005,"in","official","oda-capital-repay",359310000
-"GB","United Kingdom",2005,"in","official","oofs-capital-repay",1.57e+08
-"GB","United Kingdom",2005,"out","official","oda-out",11538090000
-"GB","United Kingdom",2005,"out","commercial","fdi-out",12783279836
-"GB","United Kingdom",2006,"in","official","oda-interest",1490000
-"GB","United Kingdom",2006,"out","official","dfis-out",805999193
-"GB","United Kingdom",2006,"in","official","oofs-interest",43270000
-"GB","United Kingdom",2006,"out","official","oofs-out",10910000
-"GB","United Kingdom",2006,"in","official","oofs-capital-repay",197250000
-"GB","United Kingdom",2006,"out","official","oda-out",12971530000
-"GB","United Kingdom",2006,"in","official","oda-capital-repay",554620000
-"GB","United Kingdom",2006,"out","commercial","fdi-out",10032180805
-"GB","United Kingdom",2007,"in","official","oda-interest",19470000
-"GB","United Kingdom",2007,"out","official","dfis-out",1519075582
-"GB","United Kingdom",2007,"in","official","oofs-interest",0
-"GB","United Kingdom",2007,"out","official","oofs-out",16940000
-"GB","United Kingdom",2007,"in","official","oofs-capital-repay",55560000
-"GB","United Kingdom",2007,"out","official","oda-out",10410770000
-"GB","United Kingdom",2007,"out","commercial","fdi-out",13506454865
-"GB","United Kingdom",2007,"in","official","oda-capital-repay",1588200000
-"GB","United Kingdom",2008,"out","official","dfis-out",297861070
-"GB","United Kingdom",2008,"in","official","oda-interest",0
-"GB","United Kingdom",2008,"in","official","oofs-interest",5260000
-"GB","United Kingdom",2008,"out","official","oofs-out",14380000
-"GB","United Kingdom",2008,"in","official","oofs-capital-repay",35890000
-"GB","United Kingdom",2008,"out","official","oda-out",11500390000
-"GB","United Kingdom",2008,"out","commercial","fdi-out",8863828655
-"GB","United Kingdom",2008,"in","official","oda-capital-repay",457730000
-"GB","United Kingdom",2009,"in","official","oda-interest",0
-"GB","United Kingdom",2009,"in","official","oofs-interest",0
-"GB","United Kingdom",2009,"out","official","oofs-out",8360000
-"GB","United Kingdom",2009,"out","commercial","fdi-out",13085708787
-"GB","United Kingdom",2009,"out","official","dfis-out",
-"GB","United Kingdom",2009,"in","official","oofs-capital-repay",22500000
-"GB","United Kingdom",2009,"in","official","oda-capital-repay",225800000
-"GB","United Kingdom",2009,"out","official","oda-out",12501440000
-"GB","United Kingdom",2010,"in","official","oda-interest",0
-"GB","United Kingdom",2010,"out","official","oofs-out",29150000
-"GB","United Kingdom",2010,"out","official","dfis-out",
-"GB","United Kingdom",2010,"in","official","oofs-interest",0
-"GB","United Kingdom",2010,"out","private","remittances-devcountries",13762323060
-"GB","United Kingdom",2010,"in","official","oofs-capital-repay",49460000
-"GB","United Kingdom",2010,"out","commercial","fdi-out",22662990412
-"GB","United Kingdom",2010,"in","official","oda-capital-repay",367790000
-"GB","United Kingdom",2010,"out","official","oda-out",14301950000
-"GB","United Kingdom",2011,"in","official","oda-interest",0
-"GB","United Kingdom",2011,"in","official","oofs-interest",0
-"GB","United Kingdom",2011,"out","official","oofs-out",19990000
-"GB","United Kingdom",2011,"out","private","remittances-devcountries",14395570540
-"GB","United Kingdom",2011,"in","official","oda-capital-repay",342690000
-"GB","United Kingdom",2011,"out","official","dfis-out",
-"GB","United Kingdom",2011,"in","official","oofs-capital-repay",59910000
-"GB","United Kingdom",2011,"out","official","oda-out",14244170000
-"GB","United Kingdom",2011,"out","commercial","fdi-out",32282218968
-"GB","United Kingdom",2012,"in","official","oofs-interest",0
-"GB","United Kingdom",2012,"out","private","remittances-devcountries",15331655720
-"GB","United Kingdom",2012,"out","official","oofs-out",63740000
-"GB","United Kingdom",2012,"in","official","oda-interest",0
-"GB","United Kingdom",2012,"in","official","oda-capital-repay",317830000
-"GB","United Kingdom",2012,"out","official","dfis-out",11944891
-"GB","United Kingdom",2012,"out","commercial","fdi-out",13830427000
-"GB","United Kingdom",2012,"out","official","oda-out",14209290000
-"GB","United Kingdom",2012,"in","official","oofs-capital-repay",27720000
-"GB","United Kingdom",2013,"out","official","oofs-out",187200000
-"GB","United Kingdom",2013,"in","official","oofs-interest",0
-"GB","United Kingdom",2013,"in","official","oda-interest",0
-"GB","United Kingdom",2013,"in","official","oofs-capital-repay",1950000
-"GB","United Kingdom",2013,"in","official","oda-capital-repay",412370000
-"GB","United Kingdom",2013,"out","official","oda-out",18205400000
+"GB","UK",2000,"in","official","oofs-interest",0
+"GB","UK",2000,"in","official","oda-interest",0
+"GB","UK",2000,"out","official","oofs-out",247930000
+"GB","UK",2000,"out","official","dfis-out",391555183
+"GB","UK",2000,"in","official","oda-capital-repay",68550000
+"GB","UK",2000,"in","official","oofs-capital-repay",348040000
+"GB","UK",2000,"out","commercial","fdi-out",6023509931
+"GB","UK",2000,"out","official","oda-out",6337790000
+"GB","UK",2001,"in","official","oda-interest",0
+"GB","UK",2001,"in","official","oofs-interest",0
+"GB","UK",2001,"in","official","oofs-capital-repay",321860000
+"GB","UK",2001,"in","official","oda-capital-repay",171860000
+"GB","UK",2001,"out","official","dfis-out",203132594
+"GB","UK",2001,"out","official","oofs-out",354330000
+"GB","UK",2001,"out","commercial","fdi-out",6614651498
+"GB","UK",2001,"out","official","oda-out",6706780000
+"GB","UK",2002,"in","official","oda-interest",2450000
+"GB","UK",2002,"in","official","oofs-interest",0
+"GB","UK",2002,"out","official","oofs-out",240540000
+"GB","UK",2002,"in","official","oda-capital-repay",143780000
+"GB","UK",2002,"out","official","dfis-out",288845215
+"GB","UK",2002,"in","official","oofs-capital-repay",245660000
+"GB","UK",2002,"out","official","oda-out",6752580000
+"GB","UK",2002,"out","commercial","fdi-out",13441674633
+"GB","UK",2003,"in","official","oofs-interest",0
+"GB","UK",2003,"out","official","dfis-out",407830043
+"GB","UK",2003,"out","official","oofs-out",292910000
+"GB","UK",2003,"in","official","oda-capital-repay",203730000
+"GB","UK",2003,"in","official","oda-interest",67830000
+"GB","UK",2003,"in","official","oofs-capital-repay",233010000
+"GB","UK",2003,"out","official","oda-out",7754120000
+"GB","UK",2003,"out","commercial","fdi-out",12349441028
+"GB","UK",2004,"in","official","oda-interest",2100000
+"GB","UK",2004,"in","official","oofs-interest",0
+"GB","UK",2004,"out","official","oofs-out",71840000
+"GB","UK",2004,"out","official","dfis-out",295487511
+"GB","UK",2004,"in","official","oofs-capital-repay",234570000
+"GB","UK",2004,"in","official","oda-capital-repay",296310000
+"GB","UK",2004,"out","official","oda-out",8593650000
+"GB","UK",2004,"out","commercial","fdi-out",18195092630
+"GB","UK",2005,"in","official","oda-interest",0
+"GB","UK",2005,"in","official","oofs-interest",0
+"GB","UK",2005,"out","official","dfis-out",414216988
+"GB","UK",2005,"out","official","oofs-out",54360000
+"GB","UK",2005,"in","official","oda-capital-repay",359310000
+"GB","UK",2005,"in","official","oofs-capital-repay",1.57e+08
+"GB","UK",2005,"out","official","oda-out",11538090000
+"GB","UK",2005,"out","commercial","fdi-out",12783279836
+"GB","UK",2006,"in","official","oda-interest",1490000
+"GB","UK",2006,"out","official","dfis-out",805999193
+"GB","UK",2006,"in","official","oofs-interest",43270000
+"GB","UK",2006,"out","official","oofs-out",10910000
+"GB","UK",2006,"in","official","oofs-capital-repay",197250000
+"GB","UK",2006,"out","official","oda-out",12971530000
+"GB","UK",2006,"in","official","oda-capital-repay",554620000
+"GB","UK",2006,"out","commercial","fdi-out",10032180805
+"GB","UK",2007,"in","official","oda-interest",19470000
+"GB","UK",2007,"out","official","dfis-out",1519075582
+"GB","UK",2007,"in","official","oofs-interest",0
+"GB","UK",2007,"out","official","oofs-out",16940000
+"GB","UK",2007,"in","official","oofs-capital-repay",55560000
+"GB","UK",2007,"out","official","oda-out",10410770000
+"GB","UK",2007,"out","commercial","fdi-out",13506454865
+"GB","UK",2007,"in","official","oda-capital-repay",1588200000
+"GB","UK",2008,"out","official","dfis-out",297861070
+"GB","UK",2008,"in","official","oda-interest",0
+"GB","UK",2008,"in","official","oofs-interest",5260000
+"GB","UK",2008,"out","official","oofs-out",14380000
+"GB","UK",2008,"in","official","oofs-capital-repay",35890000
+"GB","UK",2008,"out","official","oda-out",11500390000
+"GB","UK",2008,"out","commercial","fdi-out",8863828655
+"GB","UK",2008,"in","official","oda-capital-repay",457730000
+"GB","UK",2009,"in","official","oda-interest",0
+"GB","UK",2009,"in","official","oofs-interest",0
+"GB","UK",2009,"out","official","oofs-out",8360000
+"GB","UK",2009,"out","commercial","fdi-out",13085708787
+"GB","UK",2009,"out","official","dfis-out",
+"GB","UK",2009,"in","official","oofs-capital-repay",22500000
+"GB","UK",2009,"in","official","oda-capital-repay",225800000
+"GB","UK",2009,"out","official","oda-out",12501440000
+"GB","UK",2010,"in","official","oda-interest",0
+"GB","UK",2010,"out","official","oofs-out",29150000
+"GB","UK",2010,"out","official","dfis-out",
+"GB","UK",2010,"in","official","oofs-interest",0
+"GB","UK",2010,"out","private","remittances-devcountries",13762323060
+"GB","UK",2010,"in","official","oofs-capital-repay",49460000
+"GB","UK",2010,"out","commercial","fdi-out",22662990412
+"GB","UK",2010,"in","official","oda-capital-repay",367790000
+"GB","UK",2010,"out","official","oda-out",14301950000
+"GB","UK",2011,"in","official","oda-interest",0
+"GB","UK",2011,"in","official","oofs-interest",0
+"GB","UK",2011,"out","official","oofs-out",19990000
+"GB","UK",2011,"out","private","remittances-devcountries",14395570540
+"GB","UK",2011,"in","official","oda-capital-repay",342690000
+"GB","UK",2011,"out","official","dfis-out",
+"GB","UK",2011,"in","official","oofs-capital-repay",59910000
+"GB","UK",2011,"out","official","oda-out",14244170000
+"GB","UK",2011,"out","commercial","fdi-out",32282218968
+"GB","UK",2012,"in","official","oofs-interest",0
+"GB","UK",2012,"out","private","remittances-devcountries",15331655720
+"GB","UK",2012,"out","official","oofs-out",63740000
+"GB","UK",2012,"in","official","oda-interest",0
+"GB","UK",2012,"in","official","oda-capital-repay",317830000
+"GB","UK",2012,"out","official","dfis-out",11944891
+"GB","UK",2012,"out","commercial","fdi-out",13830427000
+"GB","UK",2012,"out","official","oda-out",14209290000
+"GB","UK",2012,"in","official","oofs-capital-repay",27720000
+"GB","UK",2013,"out","official","oofs-out",187200000
+"GB","UK",2013,"in","official","oofs-interest",0
+"GB","UK",2013,"in","official","oda-interest",0
+"GB","UK",2013,"in","official","oofs-capital-repay",1950000
+"GB","UK",2013,"in","official","oda-capital-repay",412370000
+"GB","UK",2013,"out","official","oda-out",18205400000
 "US","USA",2000,"out","commercial","fdi-out",23994178107
 "US","USA",2000,"out","official","oofs-out",2084520000
 "US","USA",2000,"in","official","oofs-capital-repay",1363700000

@@ -1,15 +1,15 @@
 id,name,old-code
 education,Education,A
 health,Health,B
-water-and-sanitation,Water and sanitation,C
-governance-and-security,Governance and security,D
-other-social-services,Other social services,E
+water-and-sanitation,WASH,C
+governance-and-security,Gov & sec,D
+other-social-services,Other social serv,E
 infrastructure,Infrastructure,F
-banking-and-business,Banking and business,G
-agriculture-and-food-security,Agriculture and food security,H
-industry-and-trade,Industry and trade,I
+banking-and-business,Bank & business,G
+agriculture-and-food-security,Agri & food,H
+industry-and-trade,Ind & trade,I
 environment,Environment,J
 other,Other,K
-general-budget-support,General Budget Support,L
+general-budget-support,GBS,L
 debt-relief,Debt relief,M
 humanitarian,Humanitarian,N

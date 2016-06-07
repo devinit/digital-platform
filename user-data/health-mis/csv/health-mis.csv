@@ -5,13 +5,13 @@
 "BW","Botswana","Grey","No information",,
 "BF","Burkina Faso","Green","Functioning","DHIS 2","https://www.dhis2.org/deployments"
 "BI","Burundi","Orange","Partial","DHIS 2","https://www.dhis2.org/deployments"
-"CI","Côte d'Ivoire","Orange","Pilot","DHIS 2","https://www.dhis2.org/deployments"
 "CM","Cameroon","Grey","No information",,
 "CV","Cape Verde","Grey","No information",,
 "CF","CAR","Grey","No information",,
 "TD","Chad","Grey","No information",,
 "KM","Comoros","Grey","No information",,
 "CG","Congo","Orange","Pilot","DHIS 2","https://www.dhis2.org/deployments"
+"CI","Cote d'Ivoire","Orange","Pilot","DHIS 2","https://www.dhis2.org/deployments"
 "DJ","Djibouti","Grey","No information",,
 "CD","DRC","Orange","Partial","DHIS 2","https://www.dhis2.org/deployments"
 "EG","Egypt","Grey","No information",,
@@ -38,7 +38,7 @@
 "NE","Niger","Orange","Pilot","DHIS 2","https://www.dhis2.org/deployments"
 "NG","Nigeria","Green","Functioning","DHIS 2","https://www.dhis2.org/deployments"
 "RW","Rwanda","Green","Functioning","DHIS 2","https://www.dhis2.org/deployments"
-"ST","Sao Tome and Principe","Grey","No information",,
+"ST","Sao Tome & Principe","Grey","No information",,
 "SN","Senegal","Orange","Pilot","DHIS 2","https://www.dhis2.org/deployments"
 "SC","Seychelles","Grey","No information",,
 "SL","Sierra Leone","Green","Functioning","DHIS 2","https://www.dhis2.org/deployments"

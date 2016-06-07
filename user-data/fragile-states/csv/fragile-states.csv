@@ -1,6 +1,6 @@
 "id","entity-name","year","value"
-"AX","Åland Islands",2014,
 "AF","Afghanistan",2014,4
+"AX","Aland Islands",2014,
 "AL","Albania",2014,1
 "DZ","Algeria",2014,2
 "AS","American Samoa",2014,1
@@ -8,7 +8,7 @@
 "AO","Angola",2014,4
 "AI","Anguilla",2014,
 "AQ","Antarctica",2014,
-"AG","Antigua and Barbuda",2014,1
+"AG","Antigua & Barbuda",2014,1
 "AR","Argentina",2014,1
 "AM","Armenia",2014,1
 "AW","Aruba",2014,1
@@ -27,7 +27,7 @@
 "BQ","BES Islands",2014,
 "BT","Bhutan",2014,4
 "BO","Bolivia ",2014,1
-"BA","Bosnia and Herzegovina",2014,2
+"BA","Bosnia & Herzegovina",2014,2
 "BW","Botswana",2014,1
 "BV","Bouvet Island",2014,
 "BR","Brazil",2014,1
@@ -36,7 +36,6 @@
 "BG","Bulgaria",2014,1
 "BF","Burkina Faso",2014,3
 "BI","Burundi",2014,4
-"CI","Côte d'Ivoire",2014,4
 "KH","Cambodia",2014,3
 "CM","Cameroon",2014,4
 "CA","Canada",2014,1
@@ -53,9 +52,10 @@
 "CG","Congo",2014,3
 "CK","Cook Islands",2014,
 "CR","Costa Rica",2014,1
+"CI","Cote d'Ivoire",2014,4
 "HR","Croatia",2014,1
 "CU","Cuba",2014,2
-"CW","Curaçao",2014,1
+"CW","Curacao",2014,1
 "CY","Cyprus",2014,1
 "CZ","Czech Republic",2014,1
 "DK","Denmark",2014,1
@@ -95,7 +95,7 @@
 "GW","Guinea-Bissau",2014,3
 "GY","Guyana",2014,1
 "HT","Haiti",2014,4
-"HM","Heard Island and McDonald Islands",2014,
+"HM","Heard Island & McDonald Islands",2014,
 "VA","Holy See (Vatican City State)",2014,
 "HN","Honduras",2014,1
 "HK","Hong Kong",2014,1
@@ -179,20 +179,20 @@
 "PT","Portugal",2014,1
 "PR","Puerto Rico",2014,1
 "QA","Qatar",2014,1
-"RE","Réunion",2014,
+"RE","Reunion",2014,
 "RO","Romania",2014,1
 "RU","Russian Federation",2014,2
 "RW","Rwanda",2014,4
-"BL","Saint Barthélemy",2014,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2014,
+"BL","Saint Barthelemy",2014,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2014,
 "KN","Saint Kitts and Nevis",2014,1
 "LC","Saint Lucia",2014,1
 "MF","Saint Martin ",2014,1
-"PM","Saint Pierre and Miquelon",2014,
-"VC","Saint Vincent and the Grenadines",2014,1
+"PM","Saint Pierre & Miquelon",2014,
+"VC","Saint Vincent & the Grenadines",2014,1
 "WS","Samoa",2014,1
 "SM","San Marino",2014,1
-"ST","Sao Tome and Principe",2014,1
+"ST","Sao Tome & Principe",2014,1
 "SA","Saudi Arabia",2014,1
 "SN","Senegal",2014,3
 "RS","Serbia",2014,2
@@ -205,14 +205,14 @@
 "SB","Solomon Islands",2014,3
 "SO","Somalia",2014,5
 "ZA","South Africa",2014,1
-"GS","South Georgia and the South Sandwich Islands",2014,
+"GS","South Georgia & the South Sandwich Islands",2014,
 "KR","South Korea",2014,1
 "SS","South Sudan",2014,5
 "ES","Spain",2014,1
 "LK","Sri Lanka",2014,3
 "SD","Sudan",2014,5
 "SR","Suriname",2014,1
-"SJ","Svalbard and Jan Mayen",2014,
+"SJ","Svalbard & Jan Mayen",2014,
 "SZ","Swaziland",2014,3
 "SE","Sweden",2014,1
 "CH","Switzerland",2014,1
@@ -225,16 +225,16 @@
 "TG","Togo",2014,4
 "TK","Tokelau",2014,
 "TO","Tonga",2014,1
-"TT","Trinidad and Tobago",2014,1
+"TT","Trinidad & Tobago",2014,1
 "TN","Tunisia",2014,1
 "TR","Turkey",2014,1
 "TM","Turkmenistan",2014,2
-"TC","Turks and Caicos Islands",2014,1
+"TC","Turks & Caicos Islands",2014,1
 "TV","Tuvalu",2014,1
 "AE","UAE",2014,1
 "UG","Uganda",2014,4
+"GB","UK",2014,1
 "UA","Ukraine",2014,1
-"GB","United Kingdom",2014,1
 "UM","United States Minor Outlying Islands",2014,
 "UY","Uruguay",2014,1
 "US","USA",2014,1
@@ -244,7 +244,7 @@
 "VN","Viet Nam",2014,1
 "VG","Virgin Islands (GB)",2014,
 "VI","Virgin Islands (US)",2014,1
-"WF","Wallis and Futuna",2014,
+"WF","Wallis & Futuna",2014,
 "EH","Western Sahara",2014,
 "YE","Yemen",2014,4
 "ZM","Zambia",2014,3

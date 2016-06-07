@@ -69,20 +69,20 @@
 "AI","Anguilla",2011,
 "AI","Anguilla",2012,
 "AI","Anguilla",2013,
-"AG","Antigua and Barbuda",2000,4
-"AG","Antigua and Barbuda",2001,4
-"AG","Antigua and Barbuda",2002,4
-"AG","Antigua and Barbuda",2003,4
-"AG","Antigua and Barbuda",2004,4
-"AG","Antigua and Barbuda",2005,4
-"AG","Antigua and Barbuda",2006,4
-"AG","Antigua and Barbuda",2007,4
-"AG","Antigua and Barbuda",2008,4
-"AG","Antigua and Barbuda",2009,4
-"AG","Antigua and Barbuda",2010,4
-"AG","Antigua and Barbuda",2011,4
-"AG","Antigua and Barbuda",2012,4
-"AG","Antigua and Barbuda",2013,4
+"AG","Antigua & Barbuda",2000,4
+"AG","Antigua & Barbuda",2001,4
+"AG","Antigua & Barbuda",2002,4
+"AG","Antigua & Barbuda",2003,4
+"AG","Antigua & Barbuda",2004,4
+"AG","Antigua & Barbuda",2005,4
+"AG","Antigua & Barbuda",2006,4
+"AG","Antigua & Barbuda",2007,4
+"AG","Antigua & Barbuda",2008,4
+"AG","Antigua & Barbuda",2009,4
+"AG","Antigua & Barbuda",2010,4
+"AG","Antigua & Barbuda",2011,4
+"AG","Antigua & Barbuda",2012,4
+"AG","Antigua & Barbuda",2013,4
 "AR","Argentina",2000,6
 "AR","Argentina",2001,3
 "AR","Argentina",2002,4
@@ -237,20 +237,20 @@
 "BO","Bolivia ",2011,5
 "BO","Bolivia ",2012,5
 "BO","Bolivia ",2013,4
-"BA","Bosnia and Herzegovina",2000,5
-"BA","Bosnia and Herzegovina",2001,5
-"BA","Bosnia and Herzegovina",2002,5
-"BA","Bosnia and Herzegovina",2003,5
-"BA","Bosnia and Herzegovina",2004,5
-"BA","Bosnia and Herzegovina",2005,5
-"BA","Bosnia and Herzegovina",2006,5
-"BA","Bosnia and Herzegovina",2007,5
-"BA","Bosnia and Herzegovina",2008,5
-"BA","Bosnia and Herzegovina",2009,5
-"BA","Bosnia and Herzegovina",2010,5
-"BA","Bosnia and Herzegovina",2011,5
-"BA","Bosnia and Herzegovina",2012,5
-"BA","Bosnia and Herzegovina",2013,5
+"BA","Bosnia & Herzegovina",2000,5
+"BA","Bosnia & Herzegovina",2001,5
+"BA","Bosnia & Herzegovina",2002,5
+"BA","Bosnia & Herzegovina",2003,5
+"BA","Bosnia & Herzegovina",2004,5
+"BA","Bosnia & Herzegovina",2005,5
+"BA","Bosnia & Herzegovina",2006,5
+"BA","Bosnia & Herzegovina",2007,5
+"BA","Bosnia & Herzegovina",2008,5
+"BA","Bosnia & Herzegovina",2009,5
+"BA","Bosnia & Herzegovina",2010,5
+"BA","Bosnia & Herzegovina",2011,5
+"BA","Bosnia & Herzegovina",2012,5
+"BA","Bosnia & Herzegovina",2013,5
 "BW","Botswana",2000,4
 "BW","Botswana",2001,1
 "BW","Botswana",2002,4
@@ -307,20 +307,6 @@
 "BI","Burundi",2011,1
 "BI","Burundi",2012,1
 "BI","Burundi",2013,1
-"CI","Côte d'Ivoire",2000,1
-"CI","Côte d'Ivoire",2001,4
-"CI","Côte d'Ivoire",2002,1
-"CI","Côte d'Ivoire",2003,1
-"CI","Côte d'Ivoire",2004,4
-"CI","Côte d'Ivoire",2005,4
-"CI","Côte d'Ivoire",2006,4
-"CI","Côte d'Ivoire",2007,4
-"CI","Côte d'Ivoire",2008,1
-"CI","Côte d'Ivoire",2009,1
-"CI","Côte d'Ivoire",2010,1
-"CI","Côte d'Ivoire",2011,1
-"CI","Côte d'Ivoire",2012,1
-"CI","Côte d'Ivoire",2013,1
 "KH","Cambodia",2000,1
 "KH","Cambodia",2001,1
 "KH","Cambodia",2002,1
@@ -489,6 +475,20 @@
 "CR","Costa Rica",2011,4
 "CR","Costa Rica",2012,6
 "CR","Costa Rica",2013,6
+"CI","Cote d'Ivoire",2000,1
+"CI","Cote d'Ivoire",2001,4
+"CI","Cote d'Ivoire",2002,1
+"CI","Cote d'Ivoire",2003,1
+"CI","Cote d'Ivoire",2004,4
+"CI","Cote d'Ivoire",2005,4
+"CI","Cote d'Ivoire",2006,4
+"CI","Cote d'Ivoire",2007,4
+"CI","Cote d'Ivoire",2008,1
+"CI","Cote d'Ivoire",2009,1
+"CI","Cote d'Ivoire",2010,1
+"CI","Cote d'Ivoire",2011,1
+"CI","Cote d'Ivoire",2012,1
+"CI","Cote d'Ivoire",2013,1
 "HR","Croatia",2000,4
 "HR","Croatia",2001,4
 "HR","Croatia",2002,4
@@ -1581,20 +1581,20 @@
 "RW","Rwanda",2011,1
 "RW","Rwanda",2012,1
 "RW","Rwanda",2013,1
-"SH","Saint Helena, Ascension and Tristan da Cunha",2000,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2001,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2002,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2003,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2004,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2005,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2006,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2007,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2008,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2009,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2010,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2011,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2012,
-"SH","Saint Helena, Ascension and Tristan da Cunha",2013,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2000,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2001,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2002,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2003,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2004,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2005,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2006,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2007,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2008,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2009,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2010,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2011,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2012,
+"SH","Saint Helena, Ascension & Tristan da Cunha",2013,
 "KN","Saint Kitts and Nevis",2000,4
 "KN","Saint Kitts and Nevis",2001,4
 "KN","Saint Kitts and Nevis",2002,4
@@ -1623,20 +1623,20 @@
 "LC","Saint Lucia",2011,4
 "LC","Saint Lucia",2012,4
 "LC","Saint Lucia",2013,4
-"VC","Saint Vincent and the Grenadines",2000,5
-"VC","Saint Vincent and the Grenadines",2001,5
-"VC","Saint Vincent and the Grenadines",2002,5
-"VC","Saint Vincent and the Grenadines",2003,4
-"VC","Saint Vincent and the Grenadines",2004,4
-"VC","Saint Vincent and the Grenadines",2005,4
-"VC","Saint Vincent and the Grenadines",2006,4
-"VC","Saint Vincent and the Grenadines",2007,4
-"VC","Saint Vincent and the Grenadines",2008,4
-"VC","Saint Vincent and the Grenadines",2009,4
-"VC","Saint Vincent and the Grenadines",2010,4
-"VC","Saint Vincent and the Grenadines",2011,4
-"VC","Saint Vincent and the Grenadines",2012,4
-"VC","Saint Vincent and the Grenadines",2013,4
+"VC","Saint Vincent & the Grenadines",2000,5
+"VC","Saint Vincent & the Grenadines",2001,5
+"VC","Saint Vincent & the Grenadines",2002,5
+"VC","Saint Vincent & the Grenadines",2003,4
+"VC","Saint Vincent & the Grenadines",2004,4
+"VC","Saint Vincent & the Grenadines",2005,4
+"VC","Saint Vincent & the Grenadines",2006,4
+"VC","Saint Vincent & the Grenadines",2007,4
+"VC","Saint Vincent & the Grenadines",2008,4
+"VC","Saint Vincent & the Grenadines",2009,4
+"VC","Saint Vincent & the Grenadines",2010,4
+"VC","Saint Vincent & the Grenadines",2011,4
+"VC","Saint Vincent & the Grenadines",2012,4
+"VC","Saint Vincent & the Grenadines",2013,4
 "WS","Samoa",2000,1
 "WS","Samoa",2001,1
 "WS","Samoa",2002,1
@@ -1651,20 +1651,20 @@
 "WS","Samoa",2011,5
 "WS","Samoa",2012,5
 "WS","Samoa",2013,5
-"ST","Sao Tome and Principe",2000,1
-"ST","Sao Tome and Principe",2001,1
-"ST","Sao Tome and Principe",2002,1
-"ST","Sao Tome and Principe",2003,1
-"ST","Sao Tome and Principe",2004,1
-"ST","Sao Tome and Principe",2005,1
-"ST","Sao Tome and Principe",2006,4
-"ST","Sao Tome and Principe",2007,1
-"ST","Sao Tome and Principe",2008,4
-"ST","Sao Tome and Principe",2009,1
-"ST","Sao Tome and Principe",2010,4
-"ST","Sao Tome and Principe",2011,1
-"ST","Sao Tome and Principe",2012,1
-"ST","Sao Tome and Principe",2013,1
+"ST","Sao Tome & Principe",2000,1
+"ST","Sao Tome & Principe",2001,1
+"ST","Sao Tome & Principe",2002,1
+"ST","Sao Tome & Principe",2003,1
+"ST","Sao Tome & Principe",2004,1
+"ST","Sao Tome & Principe",2005,1
+"ST","Sao Tome & Principe",2006,4
+"ST","Sao Tome & Principe",2007,1
+"ST","Sao Tome & Principe",2008,4
+"ST","Sao Tome & Principe",2009,1
+"ST","Sao Tome & Principe",2010,4
+"ST","Sao Tome & Principe",2011,1
+"ST","Sao Tome & Principe",2012,1
+"ST","Sao Tome & Principe",2013,1
 "SA","Saudi Arabia",2000,4
 "SA","Saudi Arabia",2001,4
 "SA","Saudi Arabia",2002,4
@@ -1973,20 +1973,20 @@
 "TO","Tonga",2011,1
 "TO","Tonga",2012,1
 "TO","Tonga",2013,1
-"TT","Trinidad and Tobago",2000,4
-"TT","Trinidad and Tobago",2001,4
-"TT","Trinidad and Tobago",2002,4
-"TT","Trinidad and Tobago",2003,4
-"TT","Trinidad and Tobago",2004,4
-"TT","Trinidad and Tobago",2005,4
-"TT","Trinidad and Tobago",2006,4
-"TT","Trinidad and Tobago",2007,4
-"TT","Trinidad and Tobago",2008,4
-"TT","Trinidad and Tobago",2009,4
-"TT","Trinidad and Tobago",2010,4
-"TT","Trinidad and Tobago",2011,4
-"TT","Trinidad and Tobago",2012,4
-"TT","Trinidad and Tobago",2013,4
+"TT","Trinidad & Tobago",2000,4
+"TT","Trinidad & Tobago",2001,4
+"TT","Trinidad & Tobago",2002,4
+"TT","Trinidad & Tobago",2003,4
+"TT","Trinidad & Tobago",2004,4
+"TT","Trinidad & Tobago",2005,4
+"TT","Trinidad & Tobago",2006,4
+"TT","Trinidad & Tobago",2007,4
+"TT","Trinidad & Tobago",2008,4
+"TT","Trinidad & Tobago",2009,4
+"TT","Trinidad & Tobago",2010,4
+"TT","Trinidad & Tobago",2011,4
+"TT","Trinidad & Tobago",2012,4
+"TT","Trinidad & Tobago",2013,4
 "TN","Tunisia",2000,5
 "TN","Tunisia",2001,5
 "TN","Tunisia",2002,5
@@ -2029,20 +2029,20 @@
 "TM","Turkmenistan",2011,4
 "TM","Turkmenistan",2012,4
 "TM","Turkmenistan",2013,4
-"TC","Turks and Caicos Islands",2000,
-"TC","Turks and Caicos Islands",2001,
-"TC","Turks and Caicos Islands",2002,
-"TC","Turks and Caicos Islands",2003,
-"TC","Turks and Caicos Islands",2004,
-"TC","Turks and Caicos Islands",2005,
-"TC","Turks and Caicos Islands",2006,
-"TC","Turks and Caicos Islands",2007,
-"TC","Turks and Caicos Islands",2008,
-"TC","Turks and Caicos Islands",2009,
-"TC","Turks and Caicos Islands",2010,
-"TC","Turks and Caicos Islands",2011,
-"TC","Turks and Caicos Islands",2012,
-"TC","Turks and Caicos Islands",2013,
+"TC","Turks & Caicos Islands",2000,
+"TC","Turks & Caicos Islands",2001,
+"TC","Turks & Caicos Islands",2002,
+"TC","Turks & Caicos Islands",2003,
+"TC","Turks & Caicos Islands",2004,
+"TC","Turks & Caicos Islands",2005,
+"TC","Turks & Caicos Islands",2006,
+"TC","Turks & Caicos Islands",2007,
+"TC","Turks & Caicos Islands",2008,
+"TC","Turks & Caicos Islands",2009,
+"TC","Turks & Caicos Islands",2010,
+"TC","Turks & Caicos Islands",2011,
+"TC","Turks & Caicos Islands",2012,
+"TC","Turks & Caicos Islands",2013,
 "TV","Tuvalu",2000,1
 "TV","Tuvalu",2001,1
 "TV","Tuvalu",2002,1
@@ -2155,20 +2155,20 @@
 "VN","Viet Nam",2011,5
 "VN","Viet Nam",2012,5
 "VN","Viet Nam",2013,5
-"WF","Wallis and Futuna",2000,
-"WF","Wallis and Futuna",2001,
-"WF","Wallis and Futuna",2002,
-"WF","Wallis and Futuna",2003,
-"WF","Wallis and Futuna",2004,
-"WF","Wallis and Futuna",2005,
-"WF","Wallis and Futuna",2006,
-"WF","Wallis and Futuna",2007,
-"WF","Wallis and Futuna",2008,
-"WF","Wallis and Futuna",2009,
-"WF","Wallis and Futuna",2010,
-"WF","Wallis and Futuna",2011,
-"WF","Wallis and Futuna",2012,
-"WF","Wallis and Futuna",2013,
+"WF","Wallis & Futuna",2000,
+"WF","Wallis & Futuna",2001,
+"WF","Wallis & Futuna",2002,
+"WF","Wallis & Futuna",2003,
+"WF","Wallis & Futuna",2004,
+"WF","Wallis & Futuna",2005,
+"WF","Wallis & Futuna",2006,
+"WF","Wallis & Futuna",2007,
+"WF","Wallis & Futuna",2008,
+"WF","Wallis & Futuna",2009,
+"WF","Wallis & Futuna",2010,
+"WF","Wallis & Futuna",2011,
+"WF","Wallis & Futuna",2012,
+"WF","Wallis & Futuna",2013,
 "YE","Yemen",2000,5
 "YE","Yemen",2001,5
 "YE","Yemen",2002,5

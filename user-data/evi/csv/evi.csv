@@ -35,18 +35,18 @@
 "AO","Angola",2009,48.87454855
 "AO","Angola",2010,49.29945834
 "AO","Angola",2011,49.70276642
-"AG","Antigua and Barbuda",2000,44.89230978
-"AG","Antigua and Barbuda",2001,45.86643858
-"AG","Antigua and Barbuda",2002,45.08016279
-"AG","Antigua and Barbuda",2003,42.31465273
-"AG","Antigua and Barbuda",2004,42.17537225
-"AG","Antigua and Barbuda",2005,43.02189316
-"AG","Antigua and Barbuda",2006,43.09873661
-"AG","Antigua and Barbuda",2007,42.92719315
-"AG","Antigua and Barbuda",2008,43.61047101
-"AG","Antigua and Barbuda",2009,40.81678304
-"AG","Antigua and Barbuda",2010,39.99370103
-"AG","Antigua and Barbuda",2011,39.74573792
+"AG","Antigua & Barbuda",2000,44.89230978
+"AG","Antigua & Barbuda",2001,45.86643858
+"AG","Antigua & Barbuda",2002,45.08016279
+"AG","Antigua & Barbuda",2003,42.31465273
+"AG","Antigua & Barbuda",2004,42.17537225
+"AG","Antigua & Barbuda",2005,43.02189316
+"AG","Antigua & Barbuda",2006,43.09873661
+"AG","Antigua & Barbuda",2007,42.92719315
+"AG","Antigua & Barbuda",2008,43.61047101
+"AG","Antigua & Barbuda",2009,40.81678304
+"AG","Antigua & Barbuda",2010,39.99370103
+"AG","Antigua & Barbuda",2011,39.74573792
 "AR","Argentina",2000,31.8311255
 "AR","Argentina",2001,31.43572616
 "AR","Argentina",2002,33.10596713
@@ -215,18 +215,6 @@
 "BI","Burundi",2009,53.7712636
 "BI","Burundi",2010,54.16593269
 "BI","Burundi",2011,53.91085549
-"CI","Côte d'Ivoire",2000,20.8964178
-"CI","Côte d'Ivoire",2001,20.83712291
-"CI","Côte d'Ivoire",2002,22.07428505
-"CI","Côte d'Ivoire",2003,22.04308272
-"CI","Côte d'Ivoire",2004,21.63553446
-"CI","Côte d'Ivoire",2005,20.84663227
-"CI","Côte d'Ivoire",2006,19.3864312
-"CI","Côte d'Ivoire",2007,19.67883304
-"CI","Côte d'Ivoire",2008,20.11190328
-"CI","Côte d'Ivoire",2009,20.08274966
-"CI","Côte d'Ivoire",2010,21.09250752
-"CI","Côte d'Ivoire",2011,22.3368563
 "KH","Cambodia",2000,64.71735376
 "KH","Cambodia",2001,64.31832025
 "KH","Cambodia",2002,64.27752894
@@ -359,6 +347,18 @@
 "CR","Costa Rica",2009,32.17130443
 "CR","Costa Rica",2010,31.85619362
 "CR","Costa Rica",2011,32.51588369
+"CI","Cote d'Ivoire",2000,20.8964178
+"CI","Cote d'Ivoire",2001,20.83712291
+"CI","Cote d'Ivoire",2002,22.07428505
+"CI","Cote d'Ivoire",2003,22.04308272
+"CI","Cote d'Ivoire",2004,21.63553446
+"CI","Cote d'Ivoire",2005,20.84663227
+"CI","Cote d'Ivoire",2006,19.3864312
+"CI","Cote d'Ivoire",2007,19.67883304
+"CI","Cote d'Ivoire",2008,20.11190328
+"CI","Cote d'Ivoire",2009,20.08274966
+"CI","Cote d'Ivoire",2010,21.09250752
+"CI","Cote d'Ivoire",2011,22.3368563
 "CU","Cuba",2000,35.39360416
 "CU","Cuba",2001,36.76316139
 "CU","Cuba",2002,36.85304768
@@ -1139,18 +1139,18 @@
 "LC","Saint Lucia",2009,34.2791269
 "LC","Saint Lucia",2010,36.39617154
 "LC","Saint Lucia",2011,37.37897436
-"VC","Saint Vincent and the Grenadines",2000,41.20221376
-"VC","Saint Vincent and the Grenadines",2001,41.38001934
-"VC","Saint Vincent and the Grenadines",2002,40.89504214
-"VC","Saint Vincent and the Grenadines",2003,39.84385552
-"VC","Saint Vincent and the Grenadines",2004,40.95598452
-"VC","Saint Vincent and the Grenadines",2005,41.23692345
-"VC","Saint Vincent and the Grenadines",2006,42.15820226
-"VC","Saint Vincent and the Grenadines",2007,40.19005823
-"VC","Saint Vincent and the Grenadines",2008,40.50648161
-"VC","Saint Vincent and the Grenadines",2009,39.96187885
-"VC","Saint Vincent and the Grenadines",2010,40.21974345
-"VC","Saint Vincent and the Grenadines",2011,40.47972508
+"VC","Saint Vincent & the Grenadines",2000,41.20221376
+"VC","Saint Vincent & the Grenadines",2001,41.38001934
+"VC","Saint Vincent & the Grenadines",2002,40.89504214
+"VC","Saint Vincent & the Grenadines",2003,39.84385552
+"VC","Saint Vincent & the Grenadines",2004,40.95598452
+"VC","Saint Vincent & the Grenadines",2005,41.23692345
+"VC","Saint Vincent & the Grenadines",2006,42.15820226
+"VC","Saint Vincent & the Grenadines",2007,40.19005823
+"VC","Saint Vincent & the Grenadines",2008,40.50648161
+"VC","Saint Vincent & the Grenadines",2009,39.96187885
+"VC","Saint Vincent & the Grenadines",2010,40.21974345
+"VC","Saint Vincent & the Grenadines",2011,40.47972508
 "WS","Samoa",2000,57.68325938
 "WS","Samoa",2001,57.75095232
 "WS","Samoa",2002,56.08046526
@@ -1163,18 +1163,18 @@
 "WS","Samoa",2009,55.1378456
 "WS","Samoa",2010,51.51787462
 "WS","Samoa",2011,50.51220652
-"ST","Sao Tome and Principe",2000,56.55471008
-"ST","Sao Tome and Principe",2001,59.19082757
-"ST","Sao Tome and Principe",2002,60.46323125
-"ST","Sao Tome and Principe",2003,53.07501629
-"ST","Sao Tome and Principe",2004,54.84376079
-"ST","Sao Tome and Principe",2005,52.88986362
-"ST","Sao Tome and Principe",2006,52.26938089
-"ST","Sao Tome and Principe",2007,52.4331671
-"ST","Sao Tome and Principe",2008,52.35329528
-"ST","Sao Tome and Principe",2009,47.03841155
-"ST","Sao Tome and Principe",2010,43.97169659
-"ST","Sao Tome and Principe",2011,42.90209991
+"ST","Sao Tome & Principe",2000,56.55471008
+"ST","Sao Tome & Principe",2001,59.19082757
+"ST","Sao Tome & Principe",2002,60.46323125
+"ST","Sao Tome & Principe",2003,53.07501629
+"ST","Sao Tome & Principe",2004,54.84376079
+"ST","Sao Tome & Principe",2005,52.88986362
+"ST","Sao Tome & Principe",2006,52.26938089
+"ST","Sao Tome & Principe",2007,52.4331671
+"ST","Sao Tome & Principe",2008,52.35329528
+"ST","Sao Tome & Principe",2009,47.03841155
+"ST","Sao Tome & Principe",2010,43.97169659
+"ST","Sao Tome & Principe",2011,42.90209991
 "SA","Saudi Arabia",2000,28.98627981
 "SA","Saudi Arabia",2001,24.74050725
 "SA","Saudi Arabia",2002,24.12047323
@@ -1403,18 +1403,18 @@
 "TO","Tonga",2009,56.62709757
 "TO","Tonga",2010,55.52459512
 "TO","Tonga",2011,56.68006337
-"TT","Trinidad and Tobago",2000,27.07213956
-"TT","Trinidad and Tobago",2001,27.22133845
-"TT","Trinidad and Tobago",2002,27.97327848
-"TT","Trinidad and Tobago",2003,28.24680257
-"TT","Trinidad and Tobago",2004,29.09591495
-"TT","Trinidad and Tobago",2005,28.94304562
-"TT","Trinidad and Tobago",2006,29.15819419
-"TT","Trinidad and Tobago",2007,30.24145448
-"TT","Trinidad and Tobago",2008,30.81131281
-"TT","Trinidad and Tobago",2009,34.01842572
-"TT","Trinidad and Tobago",2010,33.19109038
-"TT","Trinidad and Tobago",2011,33.72991089
+"TT","Trinidad & Tobago",2000,27.07213956
+"TT","Trinidad & Tobago",2001,27.22133845
+"TT","Trinidad & Tobago",2002,27.97327848
+"TT","Trinidad & Tobago",2003,28.24680257
+"TT","Trinidad & Tobago",2004,29.09591495
+"TT","Trinidad & Tobago",2005,28.94304562
+"TT","Trinidad & Tobago",2006,29.15819419
+"TT","Trinidad & Tobago",2007,30.24145448
+"TT","Trinidad & Tobago",2008,30.81131281
+"TT","Trinidad & Tobago",2009,34.01842572
+"TT","Trinidad & Tobago",2010,33.19109038
+"TT","Trinidad & Tobago",2011,33.72991089
 "TN","Tunisia",2000,25.27497838
 "TN","Tunisia",2001,26.03167108
 "TN","Tunisia",2002,25.52326461

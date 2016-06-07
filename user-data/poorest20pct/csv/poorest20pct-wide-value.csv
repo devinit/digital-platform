@@ -3,7 +3,7 @@
 "AL","Albania",18270
 "DZ","Algeria",966656
 "AO","Angola",10424988
-"AG","Antigua and Barbuda",
+"AG","Antigua & Barbuda",
 "AR","Argentina",712775
 "AM","Armenia",148888
 "AZ","Azerbaijan",51352
@@ -13,13 +13,12 @@
 "BJ","Benin",5910054
 "BT","Bhutan",47888
 "BO","Bolivia ",857592
-"BA","Bosnia and Herzegovina",2304
+"BA","Bosnia & Herzegovina",2304
 "BW","Botswana",289943
 "BR","Brazil",10693842
 "BG","Bulgaria",188852
 "BF","Burkina Faso",8182400
 "BI","Burundi",8192952
-"CI","Côte d'Ivoire",8859291
 "KH","Cambodia",2827035
 "CM","Cameroon",7073788
 "CV","Cape Verde",88200
@@ -31,6 +30,7 @@
 "KM","Comoros",385280
 "CG","Congo",1729224
 "CR","Costa Rica",90534
+"CI","Cote d'Ivoire",8859291
 "HR","Croatia",0
 "CU","Cuba",
 "CZ","Czech Republic",5248
@@ -111,9 +111,9 @@
 "RW","Rwanda",7898260
 "KN","Saint Kitts and Nevis",
 "LC","Saint Lucia",28890
-"VC","Saint Vincent and the Grenadines",
+"VC","Saint Vincent & the Grenadines",
 "WS","Samoa",
-"ST","Sao Tome and Principe",95760
+"ST","Sao Tome & Principe",95760
 "SN","Senegal",5741231
 "RS","Serbia",7260
 "SC","Seychelles",315
@@ -135,7 +135,7 @@
 "TL","Timor-Leste",547166
 "TG","Togo",3889764
 "TO","Tonga",
-"TT","Trinidad and Tobago",26128.4
+"TT","Trinidad & Tobago",26128.4
 "TN","Tunisia",142978
 "TR","Turkey",445666
 "TM","Turkmenistan",518154

@@ -5,7 +5,7 @@
 "AS","American Samoa",
 "AD","Andorra",
 "AO","Angola",51.66
-"AG","Antigua and Barbuda",
+"AG","Antigua & Barbuda",
 "AR","Argentina",1.75
 "AM","Armenia",5.03
 "AW","Aruba",
@@ -23,14 +23,13 @@
 "BM","Bermuda",
 "BT","Bhutan",6.56
 "BO","Bolivia ",8.31
-"BA","Bosnia and Herzegovina",0.06
+"BA","Bosnia & Herzegovina",0.06
 "BW","Botswana",14.57
 "BR","Brazil",5.43
 "BN","Brunei",
 "BG","Bulgaria",2.57
 "BF","Burkina Faso",51.14
 "BI","Burundi",85.88
-"CI","Côte d'Ivoire",45.69
 "KH","Cambodia",19.35
 "CM","Cameroon",33.43
 "CA","Canada",
@@ -44,9 +43,10 @@
 "KM","Comoros",55.04
 "CG","Congo",40.88
 "CR","Costa Rica",1.91
+"CI","Cote d'Ivoire",45.69
 "HR","Croatia",0
 "CU","Cuba",
-"CW","Curaçao",
+"CW","Curacao",
 "CY","Cyprus",
 "CZ","Czech Republic",0.05
 "DK","Denmark",
@@ -159,10 +159,10 @@
 "KN","Saint Kitts and Nevis",
 "LC","Saint Lucia",16.05
 "MF","Saint Martin ",
-"VC","Saint Vincent and the Grenadines",
+"VC","Saint Vincent & the Grenadines",
 "WS","Samoa",
 "SM","San Marino",
-"ST","Sao Tome and Principe",53.2
+"ST","Sao Tome & Principe",53.2
 "SA","Saudi Arabia",
 "SN","Senegal",43.07
 "RS","Serbia",0.1
@@ -191,16 +191,16 @@
 "TL","Timor-Leste",46.37
 "TG","Togo",60.12
 "TO","Tonga",
-"TT","Trinidad and Tobago",1.96
+"TT","Trinidad & Tobago",1.96
 "TN","Tunisia",1.34
 "TR","Turkey",0.61
 "TM","Turkmenistan",10.14
-"TC","Turks and Caicos Islands",
+"TC","Turks & Caicos Islands",
 "TV","Tuvalu",
 "AE","UAE",
 "UG","Uganda",46.26
+"GB","UK",
 "UA","Ukraine",0
-"GB","United Kingdom",
 "UY","Uruguay",0.42
 "US","USA",
 "UZ","Uzbekistan",

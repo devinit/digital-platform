@@ -5,13 +5,13 @@
 "BW","Botswana","Orange","2015","Statistics Botswana press release","http://www.cso.gov.bw/images/agri_census.pdf"
 "BF","Burkina Faso","Orange","2010 (planned for 2016)","FAO Country information","http://www.fao.org/economic/ess/ess-wca/en/"
 "BI","Burundi","Grey","No information",,
-"CI","Côte d'Ivoire","Green","2014","Government press release and World Bank metadata","http://www.agriculture.gouv.ci/index.php?option=com_content&view=article&id=455:lancement-du-recensement-des-exploitants-et-exploitations-agricoles&catid=65:dernieres-actualites&Itemid=90 and http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS#"
 "CM","Cameroon","Green","2013","Statistics Cameroon","http://www.statistics-cameroon.org/news.php?id=125"
 "CV","Cape Verde","Green","2014","World Programme for the Census of Agriculture","http://www.fao.org/economic/ess/ess-wca/en/"
 "CF","CAR","Grey","No information",,
 "TD","Chad","Orange","2011 (planned for 2014-15)","World Programme for the Census of Agriculture","http://www.fao.org/economic/ess/ess-wca/en/"
 "KM","Comoros","Red","2004","World Programme for the Census of Agriculture","http://www.fao.org/fileadmin/templates/ess/ess_test_folder/World_Census_Agriculture/Country_info_2000/Keydata/Comoros_Keydata.pdf"
 "CG","Congo","Green","2014-2015","World Programme for the Census of Agriculture","http://www.fao.org/economic/ess/ess-capacity/countrystathome/congo-launch/en/ and http://www.fao.org/economic/ess/ess-wca/en/"
+"CI","Cote d'Ivoire","Green","2014","Government press release and World Bank metadata","http://www.agriculture.gouv.ci/index.php?option=com_content&view=article&id=455:lancement-du-recensement-des-exploitants-et-exploitations-agricoles&catid=65:dernieres-actualites&Itemid=90 and http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS#"
 "DJ","Djibouti","Red","1995","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "CD","DRC","Red","1990","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "EG","Egypt","Orange","2010","World Bank metadata and World Programme for the Census of Agriculture","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/en/"
@@ -38,7 +38,7 @@
 "NE","Niger","Red","2008","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "NG","Nigeria","Green","2013","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "RW","Rwanda","Green","2013","World Programme for the Census of Agriculture and government press release","http://www.fao.org/economic/ess/ess-wca/en/ and http://www.statistics.gov.rw/about-us/news/rwanda-national-agriculture-survey-started-november-2012"
-"ST","Sao Tome and Principe","Green","2012","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
+"ST","Sao Tome & Principe","Green","2012","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "SN","Senegal","Green","2013","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "SC","Seychelles","Orange","2011","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "SL","Sierra Leone","Red","1985","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"

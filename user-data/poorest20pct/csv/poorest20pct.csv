@@ -3,7 +3,7 @@
 "AL","Albania",2011,18270
 "DZ","Algeria",2011,966656
 "AO","Angola",2011,10424988
-"AG","Antigua and Barbuda",2011,
+"AG","Antigua & Barbuda",2011,
 "AR","Argentina",2011,712775
 "AM","Armenia",2011,148888
 "AZ","Azerbaijan",2011,51352
@@ -13,13 +13,12 @@
 "BJ","Benin",2011,5910054
 "BT","Bhutan",2011,47888
 "BO","Bolivia ",2011,857592
-"BA","Bosnia and Herzegovina",2011,2304
+"BA","Bosnia & Herzegovina",2011,2304
 "BW","Botswana",2011,289943
 "BR","Brazil",2011,10693842
 "BG","Bulgaria",2011,188852
 "BF","Burkina Faso",2011,8182400
 "BI","Burundi",2011,8192952
-"CI","Côte d'Ivoire",2011,8859291
 "KH","Cambodia",2011,2827035
 "CM","Cameroon",2011,7073788
 "CV","Cape Verde",2011,88200
@@ -31,6 +30,7 @@
 "KM","Comoros",2011,385280
 "CG","Congo",2011,1729224
 "CR","Costa Rica",2011,90534
+"CI","Cote d'Ivoire",2011,8859291
 "HR","Croatia",2011,0
 "CU","Cuba",2011,
 "CZ","Czech Republic",2011,5248
@@ -111,9 +111,9 @@
 "RW","Rwanda",2011,7898260
 "KN","Saint Kitts and Nevis",2011,
 "LC","Saint Lucia",2011,28890
-"VC","Saint Vincent and the Grenadines",2011,
+"VC","Saint Vincent & the Grenadines",2011,
 "WS","Samoa",2011,
-"ST","Sao Tome and Principe",2011,95760
+"ST","Sao Tome & Principe",2011,95760
 "SN","Senegal",2011,5741231
 "RS","Serbia",2011,7260
 "SC","Seychelles",2011,315
@@ -135,7 +135,7 @@
 "TL","Timor-Leste",2011,547166
 "TG","Togo",2011,3889764
 "TO","Tonga",2011,
-"TT","Trinidad and Tobago",2011,26128.4
+"TT","Trinidad & Tobago",2011,26128.4
 "TN","Tunisia",2011,142978
 "TR","Turkey",2011,445666
 "TM","Turkmenistan",2011,518154

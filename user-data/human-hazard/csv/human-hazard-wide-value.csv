@@ -3,7 +3,7 @@
 "AL","Albania",0.1
 "DZ","Algeria",8
 "AO","Angola",4.9
-"AG","Antigua and Barbuda",0
+"AG","Antigua & Barbuda",0
 "AR","Argentina",2.1
 "AM","Armenia",0.1
 "AU","Australia",0.1
@@ -19,14 +19,13 @@
 "BJ","Benin",1.1
 "BT","Bhutan",0.1
 "BO","Bolivia ",2.2
-"BA","Bosnia and Herzegovina",0.1
+"BA","Bosnia & Herzegovina",0.1
 "BW","Botswana",0.2
 "BR","Brazil",6
 "BN","Brunei",0
 "BG","Bulgaria",1.3
 "BF","Burkina Faso",1.9
 "BI","Burundi",4.6
-"CI","Côte d'Ivoire",3.9
 "KH","Cambodia",3.7
 "CM","Cameroon",1.7
 "CA","Canada",0.7
@@ -39,6 +38,7 @@
 "KM","Comoros",0.1
 "CG","Congo",3.3
 "CR","Costa Rica",0.1
+"CI","Cote d'Ivoire",3.9
 "HR","Croatia",0
 "CU","Cuba",0.1
 "CY","Cyprus",0.1
@@ -142,9 +142,9 @@
 "RW","Rwanda",1.6
 "KN","Saint Kitts and Nevis",0
 "LC","Saint Lucia",0
-"VC","Saint Vincent and the Grenadines",0
+"VC","Saint Vincent & the Grenadines",0
 "WS","Samoa",0
-"ST","Sao Tome and Principe",0
+"ST","Sao Tome & Principe",0
 "SA","Saudi Arabia",3.4
 "SN","Senegal",4
 "RS","Serbia",1.9
@@ -172,15 +172,15 @@
 "TL","Timor-Leste",0.5
 "TG","Togo",2.9
 "TO","Tonga",0
-"TT","Trinidad and Tobago",0.1
+"TT","Trinidad & Tobago",0.1
 "TN","Tunisia",2.2
 "TR","Turkey",5.5
 "TM","Turkmenistan",0.9
 "TV","Tuvalu",0
 "AE","UAE",0
 "UG","Uganda",8
+"GB","UK",3.5
 "UA","Ukraine",9
-"GB","United Kingdom",3.5
 "UY","Uruguay",0
 "US","USA",2.8
 "UZ","Uzbekistan",2.8

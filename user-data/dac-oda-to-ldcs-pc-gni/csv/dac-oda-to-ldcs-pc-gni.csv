@@ -363,20 +363,20 @@
 "CH","Switzerland",2011,0.12
 "CH","Switzerland",2012,0.11
 "CH","Switzerland",2013,0.12
-"GB","United Kingdom",2000,0.11
-"GB","United Kingdom",2001,0.12
-"GB","United Kingdom",2002,0.09
-"GB","United Kingdom",2003,0.13
-"GB","United Kingdom",2004,0.14
-"GB","United Kingdom",2005,0.12
-"GB","United Kingdom",2006,0.16
-"GB","United Kingdom",2007,0.15
-"GB","United Kingdom",2008,0.16
-"GB","United Kingdom",2009,0.18
-"GB","United Kingdom",2010,0.2
-"GB","United Kingdom",2011,0.21
-"GB","United Kingdom",2012,0.19
-"GB","United Kingdom",2013,0.24
+"GB","UK",2000,0.11
+"GB","UK",2001,0.12
+"GB","UK",2002,0.09
+"GB","UK",2003,0.13
+"GB","UK",2004,0.14
+"GB","UK",2005,0.12
+"GB","UK",2006,0.16
+"GB","UK",2007,0.15
+"GB","UK",2008,0.16
+"GB","UK",2009,0.18
+"GB","UK",2010,0.2
+"GB","UK",2011,0.21
+"GB","UK",2012,0.19
+"GB","UK",2013,0.24
 "US","USA",2000,0.02
 "US","USA",2001,0.02
 "US","USA",2002,0.03

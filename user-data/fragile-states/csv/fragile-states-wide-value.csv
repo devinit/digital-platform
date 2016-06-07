@@ -1,6 +1,6 @@
 "id","entity-name","2014"
-"AX","Åland Islands",
 "AF","Afghanistan",4
+"AX","Aland Islands",
 "AL","Albania",1
 "DZ","Algeria",2
 "AS","American Samoa",1
@@ -8,7 +8,7 @@
 "AO","Angola",4
 "AI","Anguilla",
 "AQ","Antarctica",
-"AG","Antigua and Barbuda",1
+"AG","Antigua & Barbuda",1
 "AR","Argentina",1
 "AM","Armenia",1
 "AW","Aruba",1
@@ -27,7 +27,7 @@
 "BQ","BES Islands",
 "BT","Bhutan",4
 "BO","Bolivia ",1
-"BA","Bosnia and Herzegovina",2
+"BA","Bosnia & Herzegovina",2
 "BW","Botswana",1
 "BV","Bouvet Island",
 "BR","Brazil",1
@@ -36,7 +36,6 @@
 "BG","Bulgaria",1
 "BF","Burkina Faso",3
 "BI","Burundi",4
-"CI","Côte d'Ivoire",4
 "KH","Cambodia",3
 "CM","Cameroon",4
 "CA","Canada",1
@@ -53,9 +52,10 @@
 "CG","Congo",3
 "CK","Cook Islands",
 "CR","Costa Rica",1
+"CI","Cote d'Ivoire",4
 "HR","Croatia",1
 "CU","Cuba",2
-"CW","Curaçao",1
+"CW","Curacao",1
 "CY","Cyprus",1
 "CZ","Czech Republic",1
 "DK","Denmark",1
@@ -95,7 +95,7 @@
 "GW","Guinea-Bissau",3
 "GY","Guyana",1
 "HT","Haiti",4
-"HM","Heard Island and McDonald Islands",
+"HM","Heard Island & McDonald Islands",
 "VA","Holy See (Vatican City State)",
 "HN","Honduras",1
 "HK","Hong Kong",1
@@ -179,20 +179,20 @@
 "PT","Portugal",1
 "PR","Puerto Rico",1
 "QA","Qatar",1
-"RE","Réunion",
+"RE","Reunion",
 "RO","Romania",1
 "RU","Russian Federation",2
 "RW","Rwanda",4
-"BL","Saint Barthélemy",
-"SH","Saint Helena, Ascension and Tristan da Cunha",
+"BL","Saint Barthelemy",
+"SH","Saint Helena, Ascension & Tristan da Cunha",
 "KN","Saint Kitts and Nevis",1
 "LC","Saint Lucia",1
 "MF","Saint Martin ",1
-"PM","Saint Pierre and Miquelon",
-"VC","Saint Vincent and the Grenadines",1
+"PM","Saint Pierre & Miquelon",
+"VC","Saint Vincent & the Grenadines",1
 "WS","Samoa",1
 "SM","San Marino",1
-"ST","Sao Tome and Principe",1
+"ST","Sao Tome & Principe",1
 "SA","Saudi Arabia",1
 "SN","Senegal",3
 "RS","Serbia",2
@@ -205,14 +205,14 @@
 "SB","Solomon Islands",3
 "SO","Somalia",5
 "ZA","South Africa",1
-"GS","South Georgia and the South Sandwich Islands",
+"GS","South Georgia & the South Sandwich Islands",
 "KR","South Korea",1
 "SS","South Sudan",5
 "ES","Spain",1
 "LK","Sri Lanka",3
 "SD","Sudan",5
 "SR","Suriname",1
-"SJ","Svalbard and Jan Mayen",
+"SJ","Svalbard & Jan Mayen",
 "SZ","Swaziland",3
 "SE","Sweden",1
 "CH","Switzerland",1
@@ -225,16 +225,16 @@
 "TG","Togo",4
 "TK","Tokelau",
 "TO","Tonga",1
-"TT","Trinidad and Tobago",1
+"TT","Trinidad & Tobago",1
 "TN","Tunisia",1
 "TR","Turkey",1
 "TM","Turkmenistan",2
-"TC","Turks and Caicos Islands",1
+"TC","Turks & Caicos Islands",1
 "TV","Tuvalu",1
 "AE","UAE",1
 "UG","Uganda",4
+"GB","UK",1
 "UA","Ukraine",1
-"GB","United Kingdom",1
 "UM","United States Minor Outlying Islands",
 "UY","Uruguay",1
 "US","USA",1
@@ -244,7 +244,7 @@
 "VN","Viet Nam",1
 "VG","Virgin Islands (GB)",
 "VI","Virgin Islands (US)",1
-"WF","Wallis and Futuna",
+"WF","Wallis & Futuna",
 "EH","Western Sahara",
 "YE","Yemen",4
 "ZM","Zambia",3

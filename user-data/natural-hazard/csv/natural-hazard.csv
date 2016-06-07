@@ -3,7 +3,7 @@
 "AL","Albania",2015,3.5
 "DZ","Algeria",2015,3.2
 "AO","Angola",2015,1.8
-"AG","Antigua and Barbuda",2015,5.7
+"AG","Antigua & Barbuda",2015,5.7
 "AR","Argentina",2015,3.9
 "AM","Armenia",2015,4
 "AU","Australia",2015,4.4
@@ -19,14 +19,13 @@
 "BJ","Benin",2015,3.9
 "BT","Bhutan",2015,4.7
 "BO","Bolivia ",2015,3.8
-"BA","Bosnia and Herzegovina",2015,3.5
+"BA","Bosnia & Herzegovina",2015,3.5
 "BW","Botswana",2015,2.5
 "BR","Brazil",2015,4.1
 "BN","Brunei",2015,0.2
 "BG","Bulgaria",2015,3.2
 "BF","Burkina Faso",2015,2.4
 "BI","Burundi",2015,2.7
-"CI","Côte d'Ivoire",2015,1.5
 "KH","Cambodia",2015,5
 "CM","Cameroon",2015,2.6
 "CA","Canada",2015,6.1
@@ -39,6 +38,7 @@
 "KM","Comoros",2015,1.9
 "CG","Congo",2015,1.3
 "CR","Costa Rica",2015,4.9
+"CI","Cote d'Ivoire",2015,1.5
 "HR","Croatia",2015,3.2
 "CU","Cuba",2015,4.9
 "CY","Cyprus",2015,2.5
@@ -142,9 +142,9 @@
 "RW","Rwanda",2015,2.9
 "KN","Saint Kitts and Nevis",2015,5.2
 "LC","Saint Lucia",2015,4.8
-"VC","Saint Vincent and the Grenadines",2015,1.7
+"VC","Saint Vincent & the Grenadines",2015,1.7
 "WS","Samoa",2015,2.3
-"ST","Sao Tome and Principe",2015,0
+"ST","Sao Tome & Principe",2015,0
 "SA","Saudi Arabia",2015,1.9
 "SN","Senegal",2015,2.8
 "RS","Serbia",2015,4.4
@@ -172,15 +172,15 @@
 "TL","Timor-Leste",2015,4.9
 "TG","Togo",2015,1.2
 "TO","Tonga",2015,2.8
-"TT","Trinidad and Tobago",2015,2.4
+"TT","Trinidad & Tobago",2015,2.4
 "TN","Tunisia",2015,2.4
 "TR","Turkey",2015,6.7
 "TM","Turkmenistan",2015,4
 "TV","Tuvalu",2015,0.3
 "AE","UAE",2015,2.9
 "UG","Uganda",2015,3.2
+"GB","UK",2015,2.1
 "UA","Ukraine",2015,3
-"GB","United Kingdom",2015,2.1
 "UY","Uruguay",2015,1.7
 "US","USA",2015,7.6
 "UZ","Uzbekistan",2015,5.9
