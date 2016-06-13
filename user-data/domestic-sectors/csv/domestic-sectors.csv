@@ -1,4 +1,5 @@
 "id","entity-name","year","budget-type","l1","l2","l3","l4","l5","l6","value","value-ncu"
+"SN","Senegal",2013,"budget","agriculture","ministere-de-lelevage-et-des-productions-animales","capital","government-funded",,,12017545.09,5.85e+09
 "SN","Senegal",2013,"budget","agriculture","ministere-de-la-peche-et-des-affaires-maritimes",,,,,49398557.22,24046638280
 "SN","Senegal",2013,"budget","agriculture","ministere-de-la-peche-et-des-affaires-maritimes","recurrent",,,,4212587.691,2050638280
 "SN","Senegal",2013,"budget","agriculture","ministere-de-la-peche-et-des-affaires-maritimes","recurrent","wage",,,2755903.046,1341541280
@@ -132,7 +133,6 @@
 "SN","Senegal",2013,"budget","agriculture","ministere-de-lelevage-et-des-productions-animales","capital",,,,22118445.81,1.08e+10
 "SN","Senegal",2013,"budget","agriculture","ministere-de-lelevage-et-des-productions-animales","capital","external-funded-grants",,,1887884.434,9.19e+08
 "SN","Senegal",2013,"budget","agriculture","ministere-de-lelevage-et-des-productions-animales","capital","external-funded-loans",,,8213016.285,4e+09
-"SN","Senegal",2013,"budget","agriculture","ministere-de-lelevage-et-des-productions-animales","capital","government-funded",,,12017545.09,5.85e+09
 "SN","Senegal",2013,"budget","local-government-development","ministere-de-la-gouvernance-locale-du-developpement-et-de-lamenagement-du-territoire","capital","external-funded-grants",,,7586460.515,3.69e+09
 "SN","Senegal",2013,"budget","local-government-development","ministere-de-la-gouvernance-locale-du-developpement-et-de-lamenagement-du-territoire","capital","external-funded-loans",,,19885442.13,9.68e+09
 "SN","Senegal",2013,"budget","local-government-development","ministere-de-la-gouvernance-locale-du-developpement-et-de-lamenagement-du-territoire","capital","government-funded",,,40917173.18,1.99e+10
@@ -146,7 +146,6 @@
 "SN","Senegal",2013,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","recurrent","wage",,,59807609.74,29113642960
 "SN","Senegal",2013,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","recurrent","non-wage",,,14595836.46,7105082000
 "SN","Senegal",2013,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","capital",,,,26303016.64,1.28e+10
-"SN","Senegal",2013,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","capital","external-funded-grants",,,0,0
 "SN","Senegal",2013,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","capital","external-funded-loans",,,2054281.212,1e+09
 "SN","Senegal",2013,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","capital","government-funded",,,24248735.42,1.18e+10
 "SN","Senegal",2013,"budget","security","ministere-de-la-justice",,,,,61348967.09,29863957640
@@ -170,6 +169,7 @@
 "SN","Senegal",2013,"budget","security","ministere-des-forces-armees","recurrent",,,,189349869.3,92173295540
 "SN","Senegal",2013,"budget","security","ministere-des-forces-armees","recurrent","wage",,,136597211.7,66493920540
 "SN","Senegal",2013,"budget","security","ministere-des-forces-armees","recurrent","non-wage",,,52752657.59,25679375000
+"SN","Senegal",2013,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","capital","external-funded-grants",,,0,0
 "SN","Senegal",2013,"budget","local-government-development",,,,,,110325222.7,53705024440
 "SN","Senegal",2013,"budget","local-government-development","ministere-de-la-gouvernance-locale-du-developpement-et-de-lamenagement-du-territoire",,,,,110325222.7,53705024440
 "SN","Senegal",2013,"budget","local-government-development","ministere-de-la-gouvernance-locale-du-developpement-et-de-lamenagement-du-territoire","recurrent",,,,41936146.86,20414024440
@@ -192,7 +192,6 @@
 "SN","Senegal",2014,"budget","agriculture","ministere-de-lelevage-et-des-productions-animales","capital","external-funded-grants",,,4076966.335,1.96e+09
 "SN","Senegal",2014,"budget","agriculture","ministere-de-lelevage-et-des-productions-animales","capital","external-funded-loans",,,7512939.494,3.61e+09
 "SN","Senegal",2014,"budget","agriculture","ministere-de-lelevage-et-des-productions-animales","capital","government-funded",,,12486880.05,6e+09
-"SN","Senegal",2014,"budget","agriculture","ministere-de-la-peche-et-des-affaires-maritimes",,,,,25730808.41,12363765000
 "SN","Senegal",2014,"budget","agriculture","ministere-de-la-peche-et-des-affaires-maritimes","recurrent",,,,3932147.662,1889414000
 "SN","Senegal",2014,"budget","agriculture","ministere-de-la-peche-et-des-affaires-maritimes","recurrent","wage",,,2390507.046,1148649000
 "SN","Senegal",2014,"budget","agriculture","ministere-de-la-peche-et-des-affaires-maritimes","recurrent","non-wage",,,1541640.616,740765000
@@ -259,6 +258,7 @@
 "SN","Senegal",2014,"budget","infrastructure","ministere-des-postes-et-des-telecommunications","capital","external-funded-grants",,,,
 "SN","Senegal",2014,"budget","infrastructure","ministere-des-postes-et-des-telecommunications","capital","external-funded-loans",,,,
 "SN","Senegal",2014,"budget","infrastructure","ministere-des-postes-et-des-telecommunications","capital","government-funded",,,,
+"SN","Senegal",2014,"budget","infrastructure","ministere-de-la-promotion-des-investissements-des-partenariats-et-du-developpement-des-teleservices-de-letat",,,,,70773018.18,34006742080
 "SN","Senegal",2014,"budget","education",,,,,,1047707508,5.03e+11
 "SN","Senegal",2014,"budget","education","ministere-de-leducation-nationale",,,,,763395817.3,3.67e+11
 "SN","Senegal",2014,"budget","education","ministere-de-leducation-nationale","recurrent",,,,677271724.5,3.25e+11
@@ -284,6 +284,7 @@
 "SN","Senegal",2014,"budget","education","ministere-de-lenseignement-superieur-et-de-la-recherche","capital","external-funded-grants",,,0,0
 "SN","Senegal",2014,"budget","education","ministere-de-lenseignement-superieur-et-de-la-recherche","capital","external-funded-loans",,,6243440.023,3e+09
 "SN","Senegal",2014,"budget","education","ministere-de-lenseignement-superieur-et-de-la-recherche","capital","government-funded",,,37918492.4,1.82e+10
+"SN","Senegal",2014,"budget","agriculture","ministere-de-la-peche-et-des-affaires-maritimes",,,,,25730808.41,12363765000
 "SN","Senegal",2014,"budget","health",,,,,,264503336.6,1.27e+11
 "SN","Senegal",2014,"budget","health","ministere-de-la-sante-et-de-laction-sociale",,,,,264503336.6,1.27e+11
 "SN","Senegal",2014,"budget","health","ministere-de-la-sante-et-de-laction-sociale","recurrent",,,,156004431.6,74960805760
@@ -344,7 +345,6 @@
 "SN","Senegal",2014,"budget","security","cour-supreme","capital","external-funded-grants",,,0,0
 "SN","Senegal",2014,"budget","security","cour-supreme","capital","external-funded-loans",,,0,0
 "SN","Senegal",2014,"budget","security","cour-supreme","capital","government-funded",,,312172.0011,1.5e+08
-"SN","Senegal",2014,"budget","infrastructure","ministere-de-la-promotion-des-investissements-des-partenariats-et-du-developpement-des-teleservices-de-letat",,,,,70773018.18,34006742080
 "SN","Senegal",2014,"budget","infrastructure","ministere-de-la-promotion-des-investissements-des-partenariats-et-du-developpement-des-teleservices-de-letat","recurrent",,,,4455198.26,2140742080
 "SN","Senegal",2014,"budget","infrastructure","ministere-de-la-promotion-des-investissements-des-partenariats-et-du-developpement-des-teleservices-de-letat","recurrent","wage",,,278694.6757,133914000
 "SN","Senegal",2014,"budget","infrastructure","ministere-de-la-promotion-des-investissements-des-partenariats-et-du-developpement-des-teleservices-de-letat","recurrent","non-wage",,,4176503.585,2006828080
@@ -419,7 +419,6 @@
 "SN","Senegal",2015,"budget","education","ministere-de-leducation-nationale","recurrent","wage",,,428582596.3,2.12e+11
 "SN","Senegal",2015,"budget","education","ministere-de-leducation-nationale","recurrent","non-wage",,,244090096.6,1.21e+11
 "SN","Senegal",2015,"budget","education","ministere-de-leducation-nationale","capital",,,,75866904.91,3.76e+10
-"SN","Senegal",2015,"budget","education","ministere-de-leducation-nationale","capital","external-funded-grants",,,25459912.47,1.26e+10
 "SN","Senegal",2015,"budget","education","ministere-de-leducation-nationale","capital","external-funded-loans",,,10095127.86,5e+09
 "SN","Senegal",2015,"budget","education","ministere-de-leducation-nationale","capital","government-funded",,,40311864.58,2e+10
 "SN","Senegal",2015,"budget","education","ministere-de-la-formation-professionnelle-de-lapprentissage-et-de-lartisanat",,,,,61323923.15,30373029440
@@ -466,6 +465,7 @@
 "SN","Senegal",2015,"budget","local-government-development","ministere-de-la-gouvernance-locale-du-developpement-et-de-lamenagement-du-territoire","capital","external-funded-loans",,,14133179.01,7e+09
 "SN","Senegal",2015,"budget","local-government-development","ministere-de-la-gouvernance-locale-du-developpement-et-de-lamenagement-du-territoire","capital","government-funded",,,43409049.81,2.15e+10
 "SN","Senegal",2015,"budget","other",,,,,,1359700658,6.73e+11
+"SN","Senegal",2015,"budget","education","ministere-de-leducation-nationale","capital","external-funded-grants",,,25459912.47,1.26e+10
 "SN","Senegal",2015,"budget","security","ministere-des-forces-armees",,,,,256537389.2,1.27e+11
 "SN","Senegal",2015,"budget","security","ministere-des-forces-armees","recurrent",,,,193947188.5,96059797900
 "SN","Senegal",2015,"budget","security","ministere-des-forces-armees","recurrent","wage",,,143976988,71310135900
@@ -480,6 +480,7 @@
 "SN","Senegal",2015,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","recurrent","non-wage",,,20695163.55,10250075000
 "SN","Senegal",2015,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","capital",,,,40493576.88,2.01e+10
 "SN","Senegal",2015,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","capital","external-funded-grants",,,1171034.832,5.8e+08
+"SN","Senegal",2015,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","capital","external-funded-loans",,,9037158.463,4.48e+09
 "SN","Senegal",2015,"budget","infrastructure","ministere-des-infrastructures-des-transports-terrestres-et-du-desenclavement",,,,,339432522.2,1.68e+11
 "SN","Senegal",2015,"budget","infrastructure","ministere-des-infrastructures-des-transports-terrestres-et-du-desenclavement","recurrent",,,,2213282.12,1096213020
 "SN","Senegal",2015,"budget","infrastructure","ministere-des-infrastructures-des-transports-terrestres-et-du-desenclavement","recurrent","wage",,,1122541.916,555982020
@@ -523,33 +524,32 @@
 "SN","Senegal",2015,"budget","security","cour-supreme","recurrent","non-wage",,,1556795.915,771063000
 "SN","Senegal",2015,"budget","security","cour-supreme","capital",,,,151426.9179,7.5e+07
 "SN","Senegal",2015,"budget","security","cour-supreme","capital","external-funded-grants",,,0,0
-"SN","Senegal",2015,"budget","security","cour-supreme","capital","external-funded-loans",,,0,0
 "SN","Senegal",2015,"budget","security","cour-supreme","capital","government-funded",,,151426.9179,7.5e+07
 "SN","Senegal",2015,"budget","local-government-development",,,,,,114490151.5,56705647060
 "SN","Senegal",2015,"budget","security","ministere-de-la-justice","recurrent",,,,50577607.49,25050503660
-"SN","Senegal",2015,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","capital","external-funded-loans",,,9037158.463,4.48e+09
+"SN","Senegal",2015,"budget","security","ministere-de-la-justice","recurrent","wage",,,36775950.47,18214702660
 "SN","Senegal",2015,"budget","security","ministere-de-linterieur-et-de-la-securite-publique","capital","government-funded",,,30285383.59,1.5e+10
 "SN","Senegal",2015,"budget","security","ministere-de-la-justice",,,,,55905815.98,27689503660
-"SN","Senegal",2015,"budget","security","ministere-de-la-justice","recurrent","wage",,,36775950.47,18214702660
+"SN","Senegal",2015,"budget","security","cour-supreme","capital","external-funded-loans",,,0,0
 "SN","Senegal",2015,"budget","security","ministere-de-la-justice","recurrent","non-wage",,,13801657.03,6835801000
 "UG","Uganda",2014,"budget","health","other","national-medical-stores",,,,75068697.89,2.19e+11
 "UG","Uganda",2014,"budget","health","other","fort-portal-referral-hospital",,,,1823932.898,5.33e+09
 "UG","Uganda",2014,"budget","health","other","gulu-referral-hospital",,,,1704162.445,4.98e+09
-"UG","Uganda",2014,"budget","health","other","hoima-referral-hospital",,,,1635722.186,4.78e+09
+"UG","Uganda",2014,"budget","health","other","kampala-capital-city-authority-community-health-management",,,,1837620.949,5.37e+09
 "UG","Uganda",2014,"budget","health","other","jinja-referral-hospital",,,,1960813.415,5.73e+09
 "UG","Uganda",2014,"budget","health","other","kabale-referral-hospital",,,,1505685.694,4.4e+09
 "UG","Uganda",2014,"budget","health","other","masaka-referral-hospital",,,,1437245.435,4.2e+09
-"UG","Uganda",2014,"budget","health","other","mbale-referral-hospital",,,,2022409.648,5.91e+09
-"UG","Uganda",2014,"budget","health","other","kampala-capital-city-authority-community-health-management",,,,1837620.949,5.37e+09
+"UG","Uganda",2014,"budget","health","other","hoima-referral-hospital",,,,1635722.186,4.78e+09
+"UG","Uganda",2014,"budget","health","other","soroti-referral-hospital",,,,1776024.716,5.19e+09
 "UG","Uganda",2014,"budget","health","other","health-service-commission",,,,1327741.021,3.88e+09
 "UG","Uganda",2014,"budget","health","other","uganda-blood-transfusion-service",,,,1399603.293,4.09e+09
-"UG","Uganda",2014,"budget","health","other","mulago-hospital-complex",,,,13068667.42,3.82e+10
+"UG","Uganda",2014,"budget","health","other","mbale-referral-hospital",,,,2022409.648,5.91e+09
 "UG","Uganda",2014,"budget","health","other","butabika-hospital",,,,3144829.893,9.19e+09
 "UG","Uganda",2014,"budget","health","other","arua-referral-hospital",,,,1690474.393,4.94e+09
 "UG","Uganda",2014,"budget","health",,,,,,387111792,1.13e+12
 "UG","Uganda",2014,"budget","health","ministry-of-health",,,,,158230798.6,4.62e+11
 "UG","Uganda",2014,"budget","health","local-governments",,,,,102646700.2,3e+11
-"UG","Uganda",2014,"budget","health","other",,,,,126234635.4,3.69e+11
+"UG","Uganda",2014,"budget","health","other","mulago-hospital-complex",,,,13068667.42,3.82e+10
 "UG","Uganda",2014,"budget","health","ministry-of-health","sector-monitoring-and-quality-assurance",,,,275472.0418,8.05e+08
 "UG","Uganda",2014,"budget","health","ministry-of-health","health-systems-development",,,,65109613.63,1.9e+11
 "UG","Uganda",2014,"budget","health","ministry-of-health","health-research",,,,825731.7227,2.41e+09
@@ -565,7 +565,6 @@
 "UG","Uganda",2014,"budget","health","ministry-of-health","policy-planning-and-support-services","internal-audit-department",,,142355.7384,4.16e+08
 "UG","Uganda",2014,"budget","health","ministry-of-health","policy-planning-and-support-services","development-of-social-health-initiative",,,241594.1136,7.06e+08
 "UG","Uganda",2014,"budget","health","ministry-of-health","policy-planning-and-support-services","institutional-capacity-building",,,4757624.592,1.39e+10
-"UG","Uganda",2014,"budget","health","other","soroti-referral-hospital",,,,1776024.716,5.19e+09
 "UG","Uganda",2014,"budget","health","other","lira-referral-hospital",,,,1392759.267,4.07e+09
 "UG","Uganda",2014,"budget","health","other","mbarara-referral-hospital",,,,1817088.872,5.31e+09
 "UG","Uganda",2014,"budget","health","other","mubende-referral-hospital",,,,1272988.814,3.72e+09
@@ -597,7 +596,7 @@
 "UG","Uganda",2014,"budget","agriculture","national-agricultural-advisory-services-secretariat",,,,,16124140.34,47118876000
 "UG","Uganda",2014,"budget","agriculture","local-governments",,,,,49749224.14,1.45e+11
 "UG","Uganda",2014,"budget","agriculture","other",,,,,7303443.097,21342535000
-"UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","crops",,,,11704738.96,34204251000
+"UG","Uganda",2014,"budget","health","other",,,,,126234635.4,3.69e+11
 "UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","animal-resources",,,,10330273.43,30187710000
 "UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","policy-planning-and-support-services",,,,6560378.994,19171111000
 "UG","Uganda",2014,"budget","agriculture","national-agricultural-research-organisation","headquarters",,,,8325876.23,24330347000
@@ -661,6 +660,7 @@
 "UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","animal-resources","technical-assistance-to-improve-animal-disease-diagnostic-capacity",,,68440.25882,2e+08
 "UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","policy-planning-and-support-services","headquarters",,,2527986.395,7387425000
 "UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","policy-planning-and-support-services","department-of-planning",,,760269.9839,2221704000
+"UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","policy-planning-and-support-services","internal-audit",,,152095.4716,444462000
 "UG","Uganda",2014,"budget","defence",,,,,,353076451.2,1.03e+12
 "UG","Uganda",2014,"budget","defence","ministry-of-defence",,,,,349469649.6,1.02e+12
 "UG","Uganda",2014,"budget","defence","external-security",,,,,3608122.537,10543860000
@@ -676,6 +676,7 @@
 "UG","Uganda",2014,"budget","defence","external-security","external-security","headquarters",,,3473979.63,10151860000
 "UG","Uganda",2014,"budget","defence","external-security","external-security","strengthening-external-security-organisation",,,134142.9073,3.92e+08
 "UG","Uganda",2014,"budget","defence","ministry-of-defence","national-defence-updf","updf-peace-keeping-mission-in-somalia","african-union",,83651790.75,2.44e+11
+"UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","crops",,,,11704738.96,34204251000
 "UG","Uganda",2014,"budget","wash",,,,,,111630168.6,3.26e+11
 "UG","Uganda",2014,"budget","wash","rural-water-supply-and-sanitation---central-government",,,,,10475640.54,30612510000
 "UG","Uganda",2014,"budget","wash","urban-water-supply-and-sanitation---central-government",,,,,52979946.56,1.55e+11
@@ -711,7 +712,6 @@
 "UG","Uganda",2014,"budget","wash","water-resources-management","operational-water-resources-management",,,,432932.8874,1265141000
 "UG","Uganda",2014,"budget","wash","water-resources-management","support-to-water-resource-management",,,,2178142.72,6365092000
 "UG","Uganda",2014,"budget","wash","water-resources-management","mapping-of-ground-water-resurces-in-uganda",,,,571000.5014,1668610000
-"UG","Uganda",2014,"budget","wash","water-resources-management","water-management-and-development-project",,,,759438.0926,2219273000
 "UG","Uganda",2014,"budget","wash","water-resources-management","support-for-hydro-power-development-and-operations-on-river",,,,0,0
 "UG","Uganda",2014,"budget","wash","policy-planning-and-support-services","finance-and-administration",,,,619259.0967,1809634000
 "UG","Uganda",2014,"budget","wash","policy-planning-and-support-services","office-of-directorate-of-water-development",,,,61995.23965,181166000
@@ -743,11 +743,11 @@
 "UG","Uganda",2014,"budget","social-protection","policy-planning-and-support-services","strengthening-ministry-of-gender-labour-and-social-development","support-to-youth-groups",,,0,0
 "UG","Uganda",2014,"budget","social-protection","policy-planning-and-support-services","strengthening-ministry-of-gender-labour-and-social-development","other",,,3965849.162,11589229000
 "UG","Uganda",2014,"budget","other",,,,,,2000570362,5.85e+12
-"UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","policy-planning-and-support-services","internal-audit",,,152095.4716,444462000
 "UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","policy-planning-and-support-services","department-of-agribusiness",,,0,0
 "UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","policy-planning-and-support-services","agricultural-statistical-unit",,,0,0
 "UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","policy-planning-and-support-services","support-for-institutional-development",,,1256056.694,3670520000
 "UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","policy-planning-and-support-services","rural-electrification",,,219351.0295,6.41e+08
+"UG","Uganda",2014,"budget","education","pre-primary-and-primary-education","central-government",,,,15771373.24,4.61e+10
 "UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","policy-planning-and-support-services","supervision-monitoring-and-evaluation",,,228932.6658,6.69e+08
 "UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","policy-planning-and-support-services","plan-for-national-agriculture-statistics",,,191632.7247,5.6e+08
 "UG","Uganda",2014,"budget","agriculture","ministry-of-agriculture-animal-fisheries","policy-planning-and-support-services","agriculture-production-marketing-regulation",,,136880.5176,4e+08
@@ -762,7 +762,6 @@
 "UG","Uganda",2014,"budget","education","secondary-education",,,,,188978269.3,5.52e+11
 "UG","Uganda",2014,"budget","education","tertiaryhigher-education",,,,,121501991.5,3.55e+11
 "UG","Uganda",2014,"budget","education","other",,,,,27406501.27,80088830000
-"UG","Uganda",2014,"budget","education","pre-primary-and-primary-education","central-government",,,,15771373.24,4.61e+10
 "UG","Uganda",2014,"budget","education","pre-primary-and-primary-education","district-governments",,,,247603168.4,7.24e+11
 "UG","Uganda",2014,"budget","education","pre-primary-and-primary-education","kampala-capital-city-authority",,,,4578433.964,13379359000
 "UG","Uganda",2014,"budget","education","secondary-education","central-government",,,,81190679.04,2.37e+11
@@ -816,6 +815,7 @@
 "UG","Uganda",2014,"budget","education","other","quality-and-standards","education-standards-agency",,,1340730.298,3917958000
 "UG","Uganda",2014,"budget","education","other","quality-and-standards","development-of-primary-teachers-colleges",,,1808512.623,5284938000
 "UG","Uganda",2014,"budget","education","other","quality-and-standards","relocation-of-shimoni-primary-teachers-college",,,339484.9002,992062000
+"UG","Uganda",2014,"budget","wash","water-resources-management","water-management-and-development-project",,,,759438.0926,2219273000
 "UG","Uganda",2014,"budget","education","other","quality-and-standards","improving-the-training-of-btvet-technical-instructors-health-tutors-secondary-teachers-in-uganda",,,6084237.033,17779702000
 "UG","Uganda",2014,"budget","education","other","physical-education-and-sports","sports-and-physical-education",,,1093508.684,3195513000
 "UG","Uganda",2014,"budget","education","other","physical-education-and-sports","support-to-physical-education-and-sports",,,711710.2515,2079800000
@@ -838,6 +838,7 @@
 "UG","Uganda",2015,"budget","health","ministry-of-health","health-systems-development",,,,62235657.72,2.11e+11
 "UG","Uganda",2015,"budget","health","ministry-of-health","health-research",,,,712494.5257,2.41e+09
 "UG","Uganda",2015,"budget","health","ministry-of-health","clinical-and-public-health",,,,8777873.429,2.97e+10
+"UG","Uganda",2015,"budget","health","ministry-of-health","pharmaceutical-and-other-supplies",,,,92329830.02,3.12e+11
 "UG","Uganda",2015,"budget","health","ministry-of-health","health-systems-development","district-infrastructure-support-programme",,,413177.0537,1397564000
 "UG","Uganda",2015,"budget","health","ministry-of-health","health-systems-development","rehabilitation-of-health-facilities-in-eastern-region",,,0,0
 "UG","Uganda",2015,"budget","health","ministry-of-health","health-systems-development","insitutional-support-to-moh",,,299676.6757,1013651000
@@ -863,7 +864,6 @@
 "UG","Uganda",2015,"budget","health","ministry-of-health","policy-planning-and-support-services","internal-audit-department",,,122986.6069,4.16e+08
 "UG","Uganda",2015,"budget","health","ministry-of-health","policy-planning-and-support-services","development-of-social-health-initiative",,,0,0
 "UG","Uganda",2015,"budget","health","ministry-of-health","policy-planning-and-support-services","institutional-capacity-building",,,2842852.271,9615897000
-"UG","Uganda",2015,"budget","health","ministry-of-health","pharmaceutical-and-other-supplies",,,,92329830.02,3.12e+11
 "UG","Uganda",2015,"budget","health","ministry-of-health","policy-planning-and-support-services",,,,6399559.902,21646397000
 "UG","Uganda",2015,"budget","health","other","uganda-aids-commission",,,,1611242.807,5.45e+09
 "UG","Uganda",2015,"budget","health","other","uganda-cancer-institute",,,,3030319.041,1.03e+10
@@ -896,6 +896,8 @@
 "UG","Uganda",2015,"budget","defence","ministry-of-defence","policy-planning-and-support-services",,,,9127072.317,30872159000
 "UG","Uganda",2015,"budget","defence","external-security","external-security",,,,4104795.08,13884396000
 "UG","Uganda",2015,"budget","defence","ministry-of-defence","national-defence-updf","updf-land-forces",,,213531061.7,7.22e+11
+"UG","Uganda",2015,"budget","education","tertiaryhigher-education",,,,,131541862.8,4.45e+11
+"UG","Uganda",2015,"budget","education","other",,,,,23631210.44,79932147000
 "UG","Uganda",2015,"budget","education","pre-primary-and-primary-education","central-government",,,,18333074.25,62011296000
 "UG","Uganda",2015,"budget","education","pre-primary-and-primary-education","district-governments",,,,279732446.2,9.46e+11
 "UG","Uganda",2015,"budget","education","pre-primary-and-primary-education","kampala-capital-city-authority",,,,3026804.462,10238112000
@@ -903,7 +905,6 @@
 "UG","Uganda",2015,"budget","education","secondary-education","district-governments",,,,104423315.9,3.53e+11
 "UG","Uganda",2015,"budget","education","secondary-education","kampala-capital-city-authority",,,,5248428.026,17752714000
 "UG","Uganda",2015,"budget","education","tertiaryhigher-education","higher-education",,,,16393286.91,5.55e+10
-"UG","Uganda",2015,"budget","education","tertiaryhigher-education","central-government---skills-development",,,,35482818.66,1.2e+11
 "UG","Uganda",2015,"budget","education","tertiaryhigher-education","busitema-university",,,,5017025.768,1.7e+10
 "UG","Uganda",2015,"budget","education","tertiaryhigher-education","kampala-capital-city-authority",,,,1859670.727,6290303000
 "UG","Uganda",2015,"budget","education","tertiaryhigher-education","muni-university",,,,1921665.733,6.5e+09
@@ -959,7 +960,7 @@
 "UG","Uganda",2015,"budget","education","other","policy-planning-and-support-services","quick-action-for-improving-quality-and-timeliness-of-education-and-sports-sector",,,59128.17641,2e+08
 "UG","Uganda",2015,"budget","wash",,,,,,106726949.7,3.61e+11
 "UG","Uganda",2015,"budget","wash","rural-water-supply-and-sanitation---central-government",,,,,21434547.25,72501973000
-"UG","Uganda",2015,"budget","wash","urban-water-supply-and-sanitation---central-government",,,,,44551898.36,1.51e+11
+"UG","Uganda",2015,"budget","education","tertiaryhigher-education","central-government---skills-development",,,,35482818.66,1.2e+11
 "UG","Uganda",2015,"budget","wash","water-for-production",,,,,9599317.236,32469519000
 "UG","Uganda",2015,"budget","wash","water-resources-management",,,,,7107877.318,24042268000
 "UG","Uganda",2015,"budget","wash","policy-planning-and-support-services",,,,,5150786.416,17422443000
@@ -1065,6 +1066,7 @@
 "UG","Uganda",2015,"budget","agriculture","ministry-of-agriculture-animal-fisheries","crops","crop-protection-department",,,579498.7011,1960144000
 "UG","Uganda",2015,"budget","agriculture","ministry-of-agriculture-animal-fisheries","crops","crop-production-department",,,317302.1938,1073269000
 "UG","Uganda",2015,"budget","agriculture","ministry-of-agriculture-animal-fisheries","crops","department-of-crop-regulation-and-certification",,,295640.882,1e+09
+"UG","Uganda",2015,"budget","wash","urban-water-supply-and-sanitation---central-government",,,,,44551898.36,1.51e+11
 "UG","Uganda",2015,"budget","agriculture","ministry-of-agriculture-animal-fisheries","crops","support-for-tea-cocoa-seedlings",,,542971.6788,1836592000
 "UG","Uganda",2015,"budget","agriculture","ministry-of-agriculture-animal-fisheries","crops","crop-disease-and-pest-control",,,719294.266,2.43e+09
 "UG","Uganda",2015,"budget","agriculture","ministry-of-agriculture-animal-fisheries","crops","improvement-of-food-security-in-cross-border-districts",,,0,0
@@ -1111,5 +1113,3 @@
 "UG","Uganda",2015,"budget","education",,,,,,597708996.8,2.02e+12
 "UG","Uganda",2015,"budget","education","pre-primary-and-primary-education",,,,,301092499.9,1.02e+12
 "UG","Uganda",2015,"budget","education","secondary-education",,,,,141444354.1,4.78e+11
-"UG","Uganda",2015,"budget","education","tertiaryhigher-education",,,,,131541862.8,4.45e+11
-"UG","Uganda",2015,"budget","education","other",,,,,23631210.44,79932147000

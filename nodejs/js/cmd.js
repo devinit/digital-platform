@@ -49,7 +49,7 @@ cmd.run=function(argv)
 {
 	if( argv._[0]=="import" )
 	{
-		return require("./db").import();
+		return require("./db").import(argv._[1]);
 	}
 	else
 	if( argv._[0]=="summary" )

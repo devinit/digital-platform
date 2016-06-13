@@ -1153,6 +1153,7 @@ BH,2006,png,private,private,bonds,
 BH,2006,png,private,private,commercial-banking,
 BH,2006,ppg,private,private,bonds,
 BH,2006,ppg,private,private,commercial-banking,
+BZ,2013,png,private,private,bonds,0
 BH,2006,ppg,private,private,other-private,
 BH,2007,png,private,private,bonds,
 BH,2007,png,private,private,commercial-banking,
@@ -1884,7 +1885,6 @@ BZ,2012,png,private,private,commercial-banking,4252000
 BZ,2012,ppg,private,private,bonds,0
 BZ,2012,ppg,private,private,commercial-banking,0
 BZ,2012,ppg,private,private,other-private,0
-BZ,2013,png,private,private,bonds,0
 BZ,2013,png,private,private,commercial-banking,543402.0932
 BZ,2013,ppg,private,private,bonds,40014599.99
 BZ,2013,ppg,private,private,commercial-banking,0
@@ -2098,6 +2098,7 @@ CF,2013,png,private,private,bonds,0
 CF,2013,png,private,private,commercial-banking,0
 CF,2013,ppg,private,private,bonds,0
 CF,2013,ppg,private,private,commercial-banking,0
+CH,2007,png,private,private,bonds,
 CF,2013,ppg,private,private,other-private,0
 CG,2000,png,private,private,bonds,0
 CG,2000,png,private,private,commercial-banking,0
@@ -2204,7 +2205,6 @@ CH,2006,png,private,private,commercial-banking,
 CH,2006,ppg,private,private,bonds,
 CH,2006,ppg,private,private,commercial-banking,
 CH,2006,ppg,private,private,other-private,
-CH,2007,png,private,private,bonds,
 CH,2007,png,private,private,commercial-banking,
 CH,2007,ppg,private,private,bonds,
 CH,2007,ppg,private,private,commercial-banking,
@@ -2310,6 +2310,7 @@ CI,2013,ppg,private,private,bonds,0
 CI,2013,ppg,private,private,commercial-banking,1348804336
 CI,2013,ppg,private,private,other-private,4591027.65
 CL,2000,png,private,private,bonds,
+CM,2007,ppg,private,private,bonds,0
 CL,2000,png,private,private,commercial-banking,
 CL,2000,ppg,private,private,bonds,
 CL,2000,ppg,private,private,commercial-banking,
@@ -2416,7 +2417,6 @@ CM,2006,ppg,private,private,commercial-banking,1708516.342
 CM,2006,ppg,private,private,other-private,0
 CM,2007,png,private,private,bonds,0
 CM,2007,png,private,private,commercial-banking,89116282.44
-CM,2007,ppg,private,private,bonds,0
 CM,2007,ppg,private,private,commercial-banking,0
 CM,2007,ppg,private,private,other-private,0
 CM,2008,png,private,private,bonds,0
@@ -3247,6 +3247,7 @@ DZ,2004,ppg,private,private,other-private,1695434838
 DZ,2005,png,private,private,bonds,0
 DZ,2005,png,private,private,commercial-banking,774389975.4
 DZ,2005,ppg,private,private,bonds,0
+EC,2012,png,private,private,bonds,0
 DZ,2005,ppg,private,private,commercial-banking,13558462.43
 DZ,2005,ppg,private,private,other-private,539964427.7
 DZ,2006,png,private,private,bonds,0
@@ -3349,7 +3350,6 @@ EC,2011,png,private,private,commercial-banking,1072392282
 EC,2011,ppg,private,private,bonds,0
 EC,2011,ppg,private,private,commercial-banking,762561.6928
 EC,2011,ppg,private,private,other-private,0
-EC,2012,png,private,private,bonds,0
 EC,2012,png,private,private,commercial-banking,985963000
 EC,2012,ppg,private,private,bonds,0
 EC,2012,ppg,private,private,commercial-banking,0
@@ -3455,6 +3455,7 @@ EG,2004,ppg,private,private,bonds,0
 EG,2004,ppg,private,private,commercial-banking,356333483.2
 EG,2004,ppg,private,private,other-private,153290116.7
 EG,2005,png,private,private,bonds,0
+ER,2012,png,private,private,bonds,0
 EG,2005,png,private,private,commercial-banking,0
 EG,2005,ppg,private,private,bonds,2608657520
 EG,2005,ppg,private,private,commercial-banking,1514004304
@@ -3559,7 +3560,6 @@ ER,2011,png,private,private,commercial-banking,0
 ER,2011,ppg,private,private,bonds,0
 ER,2011,ppg,private,private,commercial-banking,0
 ER,2011,ppg,private,private,other-private,0
-ER,2012,png,private,private,bonds,0
 ER,2012,png,private,private,commercial-banking,0
 ER,2012,ppg,private,private,bonds,0
 ER,2012,ppg,private,private,commercial-banking,0
@@ -4300,6 +4300,7 @@ GH,2005,ppg,private,private,bonds,0
 GH,2005,ppg,private,private,commercial-banking,97616904.93
 GH,2005,ppg,private,private,other-private,5766011.591
 GH,2006,png,private,private,bonds,0
+GQ,2006,ppg,private,private,bonds,
 GH,2006,png,private,private,commercial-banking,0
 GH,2006,ppg,private,private,bonds,0
 GH,2006,ppg,private,private,commercial-banking,73798669.33
@@ -4511,7 +4512,6 @@ GQ,2005,ppg,private,private,commercial-banking,
 GQ,2005,ppg,private,private,other-private,
 GQ,2006,png,private,private,bonds,
 GQ,2006,png,private,private,commercial-banking,
-GQ,2006,ppg,private,private,bonds,
 GQ,2006,ppg,private,private,commercial-banking,
 GQ,2006,ppg,private,private,other-private,
 GQ,2007,png,private,private,bonds,
@@ -5175,7 +5175,7 @@ HU,2012,ppg,private,private,bonds,11691539000
 HU,2012,ppg,private,private,commercial-banking,2471000
 HU,2012,ppg,private,private,other-private,0
 HU,2013,png,private,private,bonds,1390110496
-HU,2013,png,private,private,commercial-banking,1.15E+11
+HU,2013,png,private,private,commercial-banking,115000000000
 HU,2013,ppg,private,private,bonds,4320982773
 HU,2013,ppg,private,private,commercial-banking,257988338.1
 HU,2013,ppg,private,private,other-private,0
@@ -5453,6 +5453,7 @@ IN,2012,png,private,private,bonds,664667000
 IN,2012,png,private,private,commercial-banking,31996000000
 IN,2012,ppg,private,private,bonds,7478361000
 IN,2012,ppg,private,private,commercial-banking,4619241000
+IS,2013,png,private,private,bonds,
 IN,2012,ppg,private,private,other-private,1428000
 IN,2013,png,private,private,bonds,1272606336
 IN,2013,png,private,private,commercial-banking,57184731153
@@ -5664,7 +5665,6 @@ IS,2012,png,private,private,commercial-banking,
 IS,2012,ppg,private,private,bonds,
 IS,2012,ppg,private,private,commercial-banking,
 IS,2012,ppg,private,private,other-private,
-IS,2013,png,private,private,bonds,
 IS,2013,png,private,private,commercial-banking,
 IS,2013,ppg,private,private,bonds,
 IS,2013,ppg,private,private,commercial-banking,
@@ -7347,6 +7347,7 @@ MA,2012,ppg,private,private,other-private,0
 MA,2013,png,private,private,bonds,0
 MA,2013,png,private,private,commercial-banking,2968870460
 MA,2013,ppg,private,private,bonds,723131287.8
+ME,2006,ppg,private,private,bonds,0
 MA,2013,ppg,private,private,commercial-banking,400851920.5
 MA,2013,ppg,private,private,other-private,0
 MD,2000,png,private,private,bonds,0
@@ -7451,7 +7452,6 @@ ME,2005,ppg,private,private,commercial-banking,0
 ME,2005,ppg,private,private,other-private,0
 ME,2006,png,private,private,bonds,0
 ME,2006,png,private,private,commercial-banking,2947994.941
-ME,2006,ppg,private,private,bonds,0
 ME,2006,ppg,private,private,commercial-banking,4188500.777
 ME,2006,ppg,private,private,other-private,0
 ME,2007,png,private,private,bonds,0
@@ -10382,6 +10382,7 @@ SE,2003,ppg,private,private,other-private,
 SE,2004,png,private,private,bonds,
 SE,2004,png,private,private,commercial-banking,
 SE,2004,ppg,private,private,bonds,
+SG,2012,png,private,private,bonds,
 SE,2004,ppg,private,private,commercial-banking,
 SE,2004,ppg,private,private,other-private,
 SE,2005,png,private,private,bonds,
@@ -10489,7 +10490,6 @@ SG,2011,png,private,private,commercial-banking,
 SG,2011,ppg,private,private,bonds,
 SG,2011,ppg,private,private,commercial-banking,
 SG,2011,ppg,private,private,other-private,
-SG,2012,png,private,private,bonds,
 SG,2012,png,private,private,commercial-banking,
 SG,2012,ppg,private,private,bonds,
 SG,2012,ppg,private,private,commercial-banking,
@@ -12175,6 +12175,7 @@ TZ,2012,ppg,private,private,bonds,0
 TZ,2012,ppg,private,private,commercial-banking,2450000
 TZ,2012,ppg,private,private,other-private,0
 TZ,2013,png,private,private,bonds,0
+US,2013,png,private,private,bonds,
 TZ,2013,png,private,private,commercial-banking,140200904.9
 TZ,2013,ppg,private,private,bonds,548581229.7
 TZ,2013,ppg,private,private,commercial-banking,202374358.6
@@ -12384,7 +12385,6 @@ US,2012,png,private,private,commercial-banking,
 US,2012,ppg,private,private,bonds,
 US,2012,ppg,private,private,commercial-banking,
 US,2012,ppg,private,private,other-private,
-US,2013,png,private,private,bonds,
 US,2013,png,private,private,commercial-banking,
 US,2013,ppg,private,private,bonds,
 US,2013,ppg,private,private,commercial-banking,
@@ -12695,6 +12695,7 @@ VN,2004,ppg,private,private,bonds,0
 VN,2004,ppg,private,private,commercial-banking,322766222.2
 VN,2004,ppg,private,private,other-private,275031.8484
 VN,2005,png,private,private,bonds,0
+YE,2013,png,private,private,bonds,0
 VN,2005,png,private,private,commercial-banking,0
 VN,2005,ppg,private,private,bonds,1332609501
 VN,2005,ppg,private,private,commercial-banking,64713294.16
@@ -13014,7 +13015,6 @@ YE,2012,png,private,private,commercial-banking,0
 YE,2012,ppg,private,private,bonds,0
 YE,2012,ppg,private,private,commercial-banking,0
 YE,2012,ppg,private,private,other-private,0
-YE,2013,png,private,private,bonds,0
 YE,2013,png,private,private,commercial-banking,0
 YE,2013,ppg,private,private,bonds,0
 YE,2013,ppg,private,private,commercial-banking,0

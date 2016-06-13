@@ -37,12 +37,24 @@ db.end=function()
 db.under_to_dash=function(s){ return s.split("_").join("-"); };
 db.dash_to_under=function(s){ return s.split("-").join("_"); };
 
+// oneway defluff to fix the fixes that fixed the thing that wasnt broken
+db.defluff=function(s){
+	s=s.split("value-bottom-20pc").join("income-share-bottom-20pc");
+	s=s.split("value-second-20pc").join("income-share-second-20pc");
+	s=s.split("value-third-20pc").join("income-share-third-20pc");
+	s=s.split("value-fourth-20pc").join("income-share-fourth-20pc");
+	s=s.split("value-highest-20pc").join("income-share-highest-20pc");
+	s=s.split("from-di-id").join("id-from");
+	s=s.split("to-di-id").join("id-to");
+	s=s.split("di-id").join("id");
+	return s;
+};
 // 
 db.rename_headers=function(head,func)
 {
 	func=func||db.under_to_dash; // default replace _ with - (because...)
 	var r=[];
-	for(var iv in head){r.push( func( head[iv] ) );}
+	for(var iv in head){r.push( db.defluff(func( head[iv] ) ) );}
 	return r;
 };
 
@@ -167,43 +179,27 @@ console.log( JSON.stringify(datamap.csv,null,1) );
 
 
 // export data
-db.import=function()
+db.import=function(only)
 {
 // run a yieldable coroutine (requires ES6)
 // This  reduces callback hell / excessive use of unnamed function 
 	co(function*(){
 		var d=yield db.start().connect();
 
-		for(var i in datamap.raw){ v=datamap.raw[i];
-			
-			if(v.csv)
-			{
-				
-				process.stdout.write(argv.csvdir+v.csv+" <- "+v.table+" ");
+		for(var csv_name in datamap.csv){ var csv_sql=datamap.csv[csv_name];
 
-				var fp=fs.createWriteStream(argv.csvdir+v.csv);
-				var qs = new pgps('SELECT * FROM '+v.table+';');
+			if((!only)||(only==csv_name))
+			{
+				process.stdout.write(argv.csvdir+csv_name+" <- "+csv_sql+" ");
+
+				var fp=fs.createWriteStream(argv.csvdir+csv_name);
+				var qs = new pgps('SELECT * FROM '+csv_sql+';');
 				var sd=yield d.stream(qs, function (s) {
-//console.log(s);
 						s.pipe(new stream_to_csv()).pipe(fp);
 				});
 				fp.end();
 				process.stdout.write("\n");
-
-/*
-				var r=yield d.query('SELECT * FROM '+v.table+';');
-				console.log(argv.csvdir+v.csv+" <- "+v.table+" ["+r.length+"]" );
-
-				c=db.rebuild_array(r);
-				c[0]=db.rename_headers(c[0]);
-
-				var s=csv.arrays_to_lines(c);
-				
-				fs.writeFileSync( argv.csvdir+v.csv , s );
-*/
-
 			}
-						
 		}
 		
 		d.done();
