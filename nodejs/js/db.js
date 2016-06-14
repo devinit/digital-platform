@@ -51,6 +51,10 @@ db.defluff=function(s){
 	s=s.split("value-pop-rur").join("population-rural");
 	s=s.split("value-pop-urb").join("population-urban");
 
+	s=s.split("value-pop-0-14").join("population-0-14");
+	s=s.split("value-pop-15-64").join("population-15-64");
+	s=s.split("value-pop-65-and-above").join("population-65-");
+
 	return s;
 };
 // 
