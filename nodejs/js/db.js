@@ -47,6 +47,10 @@ db.defluff=function(s){
 	s=s.split("from-di-id").join("id-from");
 	s=s.split("to-di-id").join("id-to");
 	s=s.split("di-id").join("id");
+
+	s=s.split("value-pop-rur").join("population-rural");
+	s=s.split("value-pop-urb").join("population-urban");
+
 	return s;
 };
 // 
