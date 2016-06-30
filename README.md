@@ -19,4 +19,4 @@ country-data:
 work-in-progress:
 - various wip data 
 
-
+Staging data is current auto deployed on a server at data.devinit.org:8000
