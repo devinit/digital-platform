@@ -33,3 +33,5 @@ illicit-financing-out,Illicit finance,10,out,recipient,illicit,,2,Illicit Financ
 dfis-in,DFIs,,in,recipient,official,,,Development Finance Institutions,purple-high,Disbursements from Development Finance Insitutions (excluding disbursements recorded as ODA or OOFs),Development Initiatives,Disbursements
 pda-in,PDA,,in,recipient,private,,,Private development assistance,purple-mid,,Development Initiatives,Inflows
 pda-out,PDA,,out,recipient,private,,,Private development assistance,purple-mid,,Development Initiatives,Outflows
+out-debt-relief,ODA,,out,donor,official,,,Debt relief,grey-mid,,OECD DAC,Debt relief
+out-oda-net-excl-debt-relief,ODA,,out,donor,official,,,Net ODA excluding debt relief,red-high,,OECD DAC,ODA excluding debt relief
