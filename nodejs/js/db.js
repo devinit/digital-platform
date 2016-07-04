@@ -47,7 +47,7 @@ db.defluff=function(s){
 
 	s=s.split("value-2nd-quintile").join("income-share-second-20pc");
 	s=s.split("value-3nd-quintile").join("income-share-third-20pc");
-	s=s.split("value-4th-quintile").join("income-share-third-20pc");
+	s=s.split("value-4th-quintile").join("income-share-fourth-20pc");
 	s=s.split("value-5th-quintile").join("income-share-highest-20pc");
 
 	s=s.split("from-di-id").join("id-from");
