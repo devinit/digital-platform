@@ -28,8 +28,8 @@ short-debt-net-flow-in,Short term debt,8,in,recipient,commercial,1,,Short-term d
 short-debt-interest-out,Short term debt,8,out,recipient,commercial,,1,Interest payments on short-term debt,yellow-high,,World Bank International Debt Statistics,Interest payments
 remittances-in,Remittances,9,in,recipient,private,1,,Remittances,blue-high,,World Bank Migration and Remittances Factbook,Inflows
 remittances-out,Remittances,9,out,recipient,private,,1,Remittances,blue-high,,World Bank Migration and Remittances Factbook,Outflows
-trade-mispricing-out,Trade mispricing,10,out,recipient,illicit,,1,Trade mispricing,red-mid,,Global Financial Integrity program,Outflows
-illicit-financing-out,Illicit finance,10,out,recipient,illicit,,2,Illicit Finance,darkorange-high,Estimates of illicit finance outflows,Global Financial Integrity program,Outflows
+trade-mispricing-out,Trade mispricing,,out,recipient,illicit,,1,Trade mispricing,red-mid,,Global Financial Integrity program,Outflows
+illicit-financing-out,Illicit finance,,out,recipient,illicit,,2,Illicit Finance,darkorange-high,Estimates of illicit finance outflows,Global Financial Integrity program,Outflows
 dfis-in,DFIs,,in,recipient,official,,,Development Finance Institutions,purple-high,Disbursements from Development Finance Insitutions (excluding disbursements recorded as ODA or OOFs),Development Initiatives,Disbursements
 pda-in,PDA,,in,recipient,private,,,Private development assistance,purple-mid,,Development Initiatives,Inflows
 pda-out,PDA,,out,recipient,private,,,Private development assistance,purple-mid,,Development Initiatives,Outflows
