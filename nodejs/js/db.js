@@ -38,7 +38,18 @@ db.under_to_dash=function(s){ return s.split("_").join("-"); };
 db.dash_to_under=function(s){ return s.split("-").join("_"); };
 
 // oneway defluff to fix the fixes that fixed the thing that wasnt broken
-db.defluff=function(s){
+db.defluff=function(s,wtf){
+
+// check for special case renames
+	var flag_oda=false;
+	if(wtf)
+	{
+		for(var i in wtf)
+		{
+			if(wtf[i]=="channel_web_id") { flag_oda=true; }
+		}
+	}
+
 	s=s.split("value-bottom-20pc").join("income-share-bottom-20pc");
 	s=s.split("value-second-20pc").join("income-share-second-20pc");
 	s=s.split("value-third-20pc").join("income-share-third-20pc");
@@ -67,6 +78,18 @@ db.defluff=function(s){
 
 	s=s.split("value-rural").join("population-rural");
 	s=s.split("value-urban").join("population-urban");
+	
+// this is a new, fun and confusing change,
+// channel has been changed to channel-web-id
+// and random text can now be found in channel.
+// this might be ODA only so any use of channel in other files remains unchanged.
+// so we need a special case.
+
+	if(flag_oda)
+	{
+		s=s.split("channel").join("channel-name"); // this also effects channel-web-id
+		s=s.split("channel-name-web-id").join("channel"); // originally named channel-web-id
+	}
 
 
 	return s;
@@ -76,7 +99,7 @@ db.rename_headers=function(head,func)
 {
 	func=func||db.under_to_dash; // default replace _ with - (because...)
 	var r=[];
-	for(var iv in head){r.push( db.defluff(func( head[iv] ) ) );}
+	for(var iv in head){r.push( db.defluff(func( head[iv] ) ,head) );}
 	return r;
 };
 
