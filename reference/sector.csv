@@ -1,15 +1,15 @@
-id,name,old-code
-education,Education,A
-health,Health,B
-water-and-sanitation,WASH,C
-governance-and-security,Gov & sec,D
-other-social-services,Other social serv,E
-infrastructure,Infrastructure,F
-banking-and-business,Bank & business,G
-agriculture-and-food-security,Agri & food,H
-industry-and-trade,Ind & trade,I
-environment,Environment,J
-other,Other,K
-general-budget-support,GBS,L
-debt-relief,Debt relief,M
-humanitarian,Humanitarian,N
+id,name,old-code,color-id
+education,Education,A,red-high
+health,Health,B,darkred-high
+water-and-sanitation,WASH,C,grey-high
+governance-and-security,Gov & sec,D,black-high
+other-social-services,Other social serv,E,yellow-high
+infrastructure,Infrastructure,F,darkyellow-high
+banking-and-business,Bank & business,G,orange-high
+agriculture-and-food-security,Agri & food,H,darkorange-high
+industry-and-trade,Ind & trade,I,purple-high
+environment,Environment,J,darkpurple-high
+other,Other,K,blue-high
+general-budget-support,GBS,L,darkblue-high
+debt-relief,Debt relief,M,lightblue-high
+humanitarian,Humanitarian,N,darklightblue-high
