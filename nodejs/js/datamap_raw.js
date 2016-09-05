@@ -155,12 +155,12 @@ exports.csv=
  "country-year/population-total.csv": "fact.\"population_total\"",
  "country-year/population-urban.csv": "fact.\"population_urban\"",
  // this is new data coming from the warehouse, so lets keep the names the same
-// "country-year/warehouse/oda_per_percent_gdp.csv": "fact.\"oda_per_percent_gdp\"",
-// "country-year/warehouse/oda_per_percent_gdp_excl_non_transfer.csv": "fact.\"oda_per_percent_gdp_excl_non_transfer\"",
-// "country-year/warehouse/oda_per_poor_person_2012.csv": "fact.\"oda_per_poor_person_2012\"",
-// "country-year/warehouse/oda_per_poor_person_excl_non_transfer_2012.csv": "fact.\"oda_per_poor_person_excl_non_transfer_2012\"",
-// "country-year/warehouse/oda_per_capita_2012.csv": "fact.\"oda_per_capita_2012\"",
-// "country-year/warehouse/oda_per_capita_excl_non_transfer_2012.csv": "fact.\"oda_per_capita_excl_non_transfer_2012\"",
+ "country-year/warehouse/oda_per_percent_gdp.csv": "fact.\"oda_per_percent_gdp\"",
+ "country-year/warehouse/oda_per_percent_gdp_excl_non_transfer.csv": "fact.\"oda_per_percent_gdp_excl_non_transfer\"",
+ "country-year/warehouse/oda_per_poor_person_2012.csv": "fact.\"oda_per_poor_person_2012\"",
+ "country-year/warehouse/oda_per_poor_person_excl_non_transfer_2012.csv": "fact.\"oda_per_poor_person_excl_non_transfer_2012\"",
+ "country-year/warehouse/oda_per_capita_2012.csv": "fact.\"oda_per_capita_2012\"",
+ "country-year/warehouse/oda_per_capita_excl_non_transfer_2012.csv": "fact.\"oda_per_capita_excl_non_transfer_2012\"",
  // new data print profile
  "country-year/warehouse/gdp_pc_usd_current_2012.csv":"fact.\"gdp_pc_usd_current_2012\"",
 }
