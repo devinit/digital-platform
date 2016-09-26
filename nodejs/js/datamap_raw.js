@@ -163,4 +163,11 @@ exports.csv=
  "country-year/warehouse/oda_per_capita_excl_non_transfer_2012.csv": "fact.\"oda_per_capita_excl_non_transfer_2012\"",
  // new data print profile
  "country-year/warehouse/gdp_pc_usd_current_2012.csv":"fact.\"gdp_pc_usd_current_2012\"",
+ // new donor data
+ "country-year/warehouse/intl_outflows_donors.csv":"data_series.intl_outflows_donors",
+ "country-year/warehouse/disbursement_by_region_2012.csv":"data_series.disbursement_by_region_2012",
+ "country-year/warehouse/donor_bundle_2012.csv":"fact.donor_bundle_2012",
+ "country-year/warehouse/loans_grants_2012.csv":"fact.loans_grants_2012",
+ "country-year/warehouse/sectors_over_time_2012.csv":"fact.sectors_over_time_2012",
+ 
 }
