@@ -1,0 +1,561 @@
+id,region,aid-type,year,value
+SI,Europe,bilateral,2013,10115314.49
+AU,Europe,bilateral,2013,382784.25
+AU,North Africa,bilateral,2013,6446423.46
+AU,Sub-Saharan Africa,bilateral,2013,331594599.67
+AU,North & Central America,bilateral,2013,15906812.11
+AU,South America,bilateral,2013,16289596.36
+AU,Far East Asia,bilateral,2013,1240339219.00
+AU,South & Central Asia,bilateral,2013,479036631.56
+AU,Middle East,bilateral,2013,117797150.82
+AU,Oceania,bilateral,2013,1106990781.29
+AU,Unspecified,bilateral,2013,1180793711.01
+AT,Europe,bilateral,2013,114762401.73
+AT,North Africa,bilateral,2013,6611058.15
+AT,Sub-Saharan Africa,bilateral,2013,86247945.72
+AT,North & Central America,bilateral,2013,19596501.92
+AT,South America,bilateral,2013,4844079.13
+AT,Far East Asia,bilateral,2013,31350496.52
+AT,South & Central Asia,bilateral,2013,92530082.38
+AT,Middle East,bilateral,2013,21014436.55
+AT,Oceania,bilateral,2013,541645.85
+AT,Unspecified,bilateral,2013,143393611.17
+BE,Europe,bilateral,2013,1477226.79
+BE,North Africa,bilateral,2013,25150227.87
+BE,Sub-Saharan Africa,bilateral,2013,543524901.75
+BE,North & Central America,bilateral,2013,26477033.60
+BE,South America,bilateral,2013,58935266.11
+BE,Far East Asia,bilateral,2013,47576008.70
+BE,South & Central Asia,bilateral,2013,18725479.18
+BE,Middle East,bilateral,2013,44986106.83
+BE,Oceania,bilateral,2013,0.00
+BE,Unspecified,bilateral,2013,533641028.55
+CA,Europe,bilateral,2013,43953539.18
+CA,North Africa,bilateral,2013,29597176.02
+CA,Sub-Saharan Africa,bilateral,2013,1527057534.08
+CA,North & Central America,bilateral,2013,286484375.39
+CA,South America,bilateral,2013,152694167.94
+CA,Far East Asia,bilateral,2013,234320882.78
+CA,South & Central Asia,bilateral,2013,476616981.84
+CA,Middle East,bilateral,2013,400431095.02
+CA,Oceania,bilateral,2013,3252419.16
+CA,Unspecified,bilateral,2013,469500469.91
+CZ,Europe,bilateral,2013,17978985.05
+CZ,North Africa,bilateral,2013,660412.28
+CZ,Sub-Saharan Africa,bilateral,2013,6564695.20
+CZ,North & Central America,bilateral,2013,916691.67
+CZ,South America,bilateral,2013,502701.88
+CZ,Far East Asia,bilateral,2013,7008255.69
+CZ,South & Central Asia,bilateral,2013,9817472.10
+CZ,Middle East,bilateral,2013,5273441.34
+CZ,Oceania,bilateral,2013,9856.90
+CZ,Unspecified,bilateral,2013,7501100.67
+DK,Europe,bilateral,2013,21580353.22
+DK,North Africa,bilateral,2013,14870301.79
+DK,Sub-Saharan Africa,bilateral,2013,711665075.20
+DK,North & Central America,bilateral,2013,4856091.31
+DK,South America,bilateral,2013,20589827.17
+DK,Far East Asia,bilateral,2013,81499600.87
+DK,South & Central Asia,bilateral,2013,221373678.23
+DK,Middle East,bilateral,2013,139089682.43
+DK,Oceania,bilateral,2013,0.00
+DK,Unspecified,bilateral,2013,986711780.58
+FI,Europe,bilateral,2013,17355997.11
+FI,North Africa,bilateral,2013,4539473.18
+FI,Sub-Saharan Africa,bilateral,2013,304726687.08
+FI,North & Central America,bilateral,2013,24868915.80
+FI,South America,bilateral,2013,21943721.49
+FI,Far East Asia,bilateral,2013,59232658.79
+FI,South & Central Asia,bilateral,2013,92522808.68
+FI,Middle East,bilateral,2013,40483859.83
+FI,Oceania,bilateral,2013,780686.65
+FI,Unspecified,bilateral,2013,216335887.19
+FR,Europe,bilateral,2013,208916571.08
+FR,North Africa,bilateral,2013,1296068379.73
+FR,Sub-Saharan Africa,bilateral,2013,2596733233.18
+FR,North & Central America,bilateral,2013,380659451.12
+FR,South America,bilateral,2013,439674644.80
+FR,Far East Asia,bilateral,2013,608383512.52
+FR,South & Central Asia,bilateral,2013,956800173.04
+FR,Middle East,bilateral,2013,293913331.16
+FR,Oceania,bilateral,2013,120157797.70
+FR,Unspecified,bilateral,2013,1007478387.00
+DE,Europe,bilateral,2013,735965293.71
+DE,North Africa,bilateral,2013,649682243.07
+DE,Sub-Saharan Africa,bilateral,2013,2264573856.66
+DE,North & Central America,bilateral,2013,516617792.68
+DE,South America,bilateral,2013,918891821.77
+DE,Far East Asia,bilateral,2013,1119767135.29
+DE,South & Central Asia,bilateral,2013,1928562723.41
+DE,Middle East,bilateral,2013,843680534.46
+DE,Oceania,bilateral,2013,13698153.56
+DE,Unspecified,bilateral,2013,1856834482.79
+GR,Europe,bilateral,2013,6803349.22
+GR,North Africa,bilateral,2013,802141.61
+GR,Sub-Saharan Africa,bilateral,2013,1435932.51
+GR,North & Central America,bilateral,2013,99029.83
+GR,South America,bilateral,2013,247574.57
+GR,Far East Asia,bilateral,2013,99029.83
+GR,South & Central Asia,bilateral,2013,1673604.10
+GR,Middle East,bilateral,2013,2535163.61
+GR,Oceania,bilateral,2013,0.00
+GR,Unspecified,bilateral,2013,29491082.94
+IS,Europe,bilateral,2013,406180.48
+IS,North Africa,bilateral,2013,0.00
+IS,Sub-Saharan Africa,bilateral,2013,14376899.64
+IS,North & Central America,bilateral,2013,141690.86
+IS,South America,bilateral,2013,94460.58
+IS,Far East Asia,bilateral,2013,377842.30
+IS,South & Central Asia,bilateral,2013,906821.53
+IS,Middle East,bilateral,2013,2229269.59
+IS,Oceania,bilateral,2013,0.00
+IS,Unspecified,bilateral,2013,9247690.38
+IE,Europe,bilateral,2013,2528138.28
+IE,North Africa,bilateral,2013,284607.03
+IE,Sub-Saharan Africa,bilateral,2013,341351788.55
+IE,North & Central America,bilateral,2013,8269521.00
+IE,South America,bilateral,2013,2914113.58
+IE,Far East Asia,bilateral,2013,23033076.58
+IE,South & Central Asia,bilateral,2013,13499486.44
+IE,Middle East,bilateral,2013,24046261.77
+IE,Oceania,bilateral,2013,48246.91
+IE,Unspecified,bilateral,2013,110485432.27
+IT,Europe,bilateral,2013,25123010.92
+IT,North Africa,bilateral,2013,30249362.13
+IT,Sub-Saharan Africa,bilateral,2013,140812293.66
+IT,North & Central America,bilateral,2013,16521551.22
+IT,South America,bilateral,2013,25356494.70
+IT,Far East Asia,bilateral,2013,20970993.55
+IT,South & Central Asia,bilateral,2013,92446095.81
+IT,Middle East,bilateral,2013,59152137.92
+IT,Oceania,bilateral,2013,1431238.75
+IT,Unspecified,bilateral,2013,491888134.72
+JP,Europe,bilateral,2013,239184482.68
+JP,North Africa,bilateral,2013,356581626.40
+JP,Sub-Saharan Africa,bilateral,2013,3543624953.53
+JP,North & Central America,bilateral,2013,183260637.59
+JP,South America,bilateral,2013,292908223.85
+JP,Far East Asia,bilateral,2013,5464182828.46
+JP,South & Central Asia,bilateral,2013,10945299366.69
+JP,Middle East,bilateral,2013,1222838968.70
+JP,Oceania,bilateral,2013,173881956.66
+JP,Unspecified,bilateral,2013,1615748948.62
+KR,Europe,bilateral,2013,3148724.57
+KR,North Africa,bilateral,2013,18369022.99
+KR,Sub-Saharan Africa,bilateral,2013,244952669.09
+KR,North & Central America,bilateral,2013,28175093.94
+KR,South America,bilateral,2013,67851405.72
+KR,Far East Asia,bilateral,2013,446339405.06
+KR,South & Central Asia,bilateral,2013,309951415.30
+KR,Middle East,bilateral,2013,40317296.73
+KR,Oceania,bilateral,2013,4252698.13
+KR,Unspecified,bilateral,2013,156629847.90
+LU,Europe,bilateral,2013,14778719.48
+LU,North Africa,bilateral,2013,1825037.35
+LU,Sub-Saharan Africa,bilateral,2013,115701416.49
+LU,North & Central America,bilateral,2013,26142214.66
+LU,South America,bilateral,2013,6490998.40
+LU,Far East Asia,bilateral,2013,35536361.54
+LU,South & Central Asia,bilateral,2013,11936961.08
+LU,Middle East,bilateral,2013,13432631.07
+LU,Oceania,bilateral,2013,318830.24
+LU,Unspecified,bilateral,2013,57079990.79
+NL,Europe,bilateral,2013,22992898.90
+NL,North Africa,bilateral,2013,9587508.77
+NL,Sub-Saharan Africa,bilateral,2013,814277038.34
+NL,North & Central America,bilateral,2013,34279259.94
+NL,South America,bilateral,2013,43450465.45
+NL,Far East Asia,bilateral,2013,50862106.08
+NL,South & Central Asia,bilateral,2013,187647353.28
+NL,Middle East,bilateral,2013,97966640.38
+NL,Oceania,bilateral,2013,0.00
+NL,Unspecified,bilateral,2013,2384712513.41
+NZ,Europe,bilateral,2013,0.00
+NZ,North Africa,bilateral,2013,41131.64
+NZ,Sub-Saharan Africa,bilateral,2013,4246841.51
+NZ,North & Central America,bilateral,2013,655240.84
+NZ,South America,bilateral,2013,1474291.89
+NZ,Far East Asia,bilateral,2013,50755292.40
+NZ,South & Central Asia,bilateral,2013,11413915.71
+NZ,Middle East,bilateral,2013,3605409.18
+NZ,Oceania,bilateral,2013,214254118.88
+NZ,Unspecified,bilateral,2013,51330411.12
+NO,Europe,bilateral,2013,100919123.55
+NO,North Africa,bilateral,2013,5444994.86
+NO,Sub-Saharan Africa,bilateral,2013,1080541152.35
+NO,North & Central America,bilateral,2013,85132150.29
+NO,South America,bilateral,2013,732979066.51
+NO,Far East Asia,bilateral,2013,144232903.75
+NO,South & Central Asia,bilateral,2013,322219366.08
+NO,Middle East,bilateral,2013,296826685.90
+NO,Oceania,bilateral,2013,1576551.45
+NO,Unspecified,bilateral,2013,1599287501.87
+PL,Europe,bilateral,2013,37347538.48
+PL,North Africa,bilateral,2013,578433.74
+PL,Sub-Saharan Africa,bilateral,2013,42505239.33
+PL,North & Central America,bilateral,2013,96405.62
+PL,South America,bilateral,2013,308497.99
+PL,Far East Asia,bilateral,2013,30078554.48
+PL,South & Central Asia,bilateral,2013,10276839.45
+PL,Middle East,bilateral,2013,3200666.70
+PL,Oceania,bilateral,2013,19281.12
+PL,Unspecified,bilateral,2013,10999881.62
+PT,Europe,bilateral,2013,1528192.26
+PT,North Africa,bilateral,2013,382168.25
+PT,Sub-Saharan Africa,bilateral,2013,272954120.35
+PT,North & Central America,bilateral,2013,471873.24
+PT,South America,bilateral,2013,6376338.34
+PT,Far East Asia,bilateral,2013,28978345.78
+PT,South & Central Asia,bilateral,2013,735442.53
+PT,Middle East,bilateral,2013,401150.47
+PT,Oceania,bilateral,2013,0.00
+PT,Unspecified,bilateral,2013,15539805.07
+SK,Europe,bilateral,2013,4318034.80
+SK,North Africa,bilateral,2013,382126.97
+SK,Sub-Saharan Africa,bilateral,2013,2388293.59
+SK,North & Central America,bilateral,2013,9553.17
+SK,South America,bilateral,2013,76425.39
+SK,Far East Asia,bilateral,2013,287295.95
+SK,South & Central Asia,bilateral,2013,3198561.60
+SK,Middle East,bilateral,2013,430943.93
+SK,Oceania,bilateral,2013,0.00
+SK,Unspecified,bilateral,2013,4365800.68
+SI,North Africa,bilateral,2013,96428.16
+SI,Sub-Saharan Africa,bilateral,2013,993210.10
+SI,North & Central America,bilateral,2013,57856.90
+SI,South America,bilateral,2013,9642.82
+SI,Far East Asia,bilateral,2013,86785.35
+SI,South & Central Asia,bilateral,2013,318212.94
+SI,Middle East,bilateral,2013,298927.31
+SI,Oceania,bilateral,2013,0.00
+SI,Unspecified,bilateral,2013,7916752.33
+ES,Europe,bilateral,2013,3967494.71
+ES,North Africa,bilateral,2013,82062606.37
+ES,Sub-Saharan Africa,bilateral,2013,382460896.51
+ES,North & Central America,bilateral,2013,152425631.74
+ES,South America,bilateral,2013,170334385.83
+ES,Far East Asia,bilateral,2013,23910640.03
+ES,South & Central Asia,bilateral,2013,25889584.12
+ES,Middle East,bilateral,2013,45698238.10
+ES,Oceania,bilateral,2013,48032.62
+ES,Unspecified,bilateral,2013,241402359.71
+SE,Europe,bilateral,2013,148062410.70
+SE,North Africa,bilateral,2013,30451961.63
+SE,Sub-Saharan Africa,bilateral,2013,1113758687.34
+SE,North & Central America,bilateral,2013,51689484.73
+SE,South America,bilateral,2013,82440448.88
+SE,Far East Asia,bilateral,2013,112678264.86
+SE,South & Central Asia,bilateral,2013,277703449.69
+SE,Middle East,bilateral,2013,228921189.10
+SE,Oceania,bilateral,2013,38197.33
+SE,Unspecified,bilateral,2013,1757172795.39
+CH,Europe,bilateral,2013,204525699.45
+CH,North Africa,bilateral,2013,69455374.91
+CH,Sub-Saharan Africa,bilateral,2013,490687259.33
+CH,North & Central America,bilateral,2013,102927959.24
+CH,South America,bilateral,2013,98276619.24
+CH,Far East Asia,bilateral,2013,166183639.92
+CH,South & Central Asia,bilateral,2013,274677212.18
+CH,Middle East,bilateral,2013,109278882.08
+CH,Oceania,bilateral,2013,217454.35
+CH,Unspecified,bilateral,2013,985601952.19
+GB,Europe,bilateral,2013,38922545.69
+GB,North Africa,bilateral,2013,92311532.47
+GB,Sub-Saharan Africa,bilateral,2013,4040369190.24
+GB,North & Central America,bilateral,2013,200279105.43
+GB,South America,bilateral,2013,56996935.75
+GB,Far East Asia,bilateral,2013,226936052.05
+GB,South & Central Asia,bilateral,2013,2118897559.67
+GB,Middle East,bilateral,2013,822868705.74
+GB,Oceania,bilateral,2013,9422830.58
+GB,Unspecified,bilateral,2013,3275173352.53
+US,Europe,bilateral,2013,474829391.78
+US,North Africa,bilateral,2013,610677910.32
+US,Sub-Saharan Africa,bilateral,2013,8635928157.61
+US,North & Central America,bilateral,2013,1241115726.60
+US,South America,bilateral,2013,567852920.08
+US,Far East Asia,bilateral,2013,923014490.32
+US,South & Central Asia,bilateral,2013,3220638712.51
+US,Middle East,bilateral,2013,3023755228.15
+US,Oceania,bilateral,2013,214108221.38
+US,Unspecified,bilateral,2013,7745769606.39
+AU,Europe,multilateral,2013,13176308.99
+AU,North Africa,multilateral,2013,15726296.44
+AU,Sub-Saharan Africa,multilateral,2013,334989961.99
+AU,North & Central America,multilateral,2013,38320907.89
+AU,South America,multilateral,2013,19988477.50
+AU,Far East Asia,multilateral,2013,66250948.66
+AU,South & Central Asia,multilateral,2013,149399191.94
+AU,Middle East,multilateral,2013,41013615.19
+AU,Oceania,multilateral,2013,6764553.12
+AU,Unspecified,multilateral,2013,54695740.96
+AT,Europe,multilateral,2013,94470121.37
+AT,North Africa,multilateral,2013,25813634.40
+AT,Sub-Saharan Africa,multilateral,2013,223440672.89
+AT,North & Central America,multilateral,2013,30594062.09
+AT,South America,multilateral,2013,17901319.35
+AT,Far East Asia,multilateral,2013,39442083.85
+AT,South & Central Asia,multilateral,2013,94860569.13
+AT,Middle East,multilateral,2013,32110607.60
+AT,Oceania,multilateral,2013,4683429.69
+AT,Unspecified,multilateral,2013,33653243.88
+BE,Europe,multilateral,2013,158323733.21
+BE,North Africa,multilateral,2013,45793138.92
+BE,Sub-Saharan Africa,multilateral,2013,339566201.56
+BE,North & Central America,multilateral,2013,43488837.85
+BE,South America,multilateral,2013,27824142.60
+BE,Far East Asia,multilateral,2013,56827026.65
+BE,South & Central Asia,multilateral,2013,128755648.67
+BE,Middle East,multilateral,2013,61690993.78
+BE,Oceania,multilateral,2013,7229612.36
+BE,Unspecified,multilateral,2013,76211722.29
+CA,Europe,multilateral,2013,24184186.83
+CA,North Africa,multilateral,2013,24433517.98
+CA,Sub-Saharan Africa,multilateral,2013,664780872.63
+CA,North & Central America,multilateral,2013,79271724.75
+CA,South America,multilateral,2013,41279425.02
+CA,Far East Asia,multilateral,2013,137616520.30
+CA,South & Central Asia,multilateral,2013,308531541.51
+CA,Middle East,multilateral,2013,73305428.89
+CA,Oceania,multilateral,2013,13653289.26
+CA,Unspecified,multilateral,2013,96736028.30
+CZ,Europe,multilateral,2013,37760781.83
+CZ,North Africa,multilateral,2013,11077976.27
+CZ,Sub-Saharan Africa,multilateral,2013,49475899.93
+CZ,North & Central America,multilateral,2013,5965762.43
+CZ,South America,multilateral,2013,3945107.54
+CZ,Far East Asia,multilateral,2013,5602284.26
+CZ,South & Central Asia,multilateral,2013,15666421.11
+CZ,Middle East,multilateral,2013,10568025.84
+CZ,Oceania,multilateral,2013,945664.19
+CZ,Unspecified,multilateral,2013,10640478.47
+DK,Europe,multilateral,2013,89556252.08
+DK,North Africa,multilateral,2013,29084153.64
+DK,Sub-Saharan Africa,multilateral,2013,278741035.91
+DK,North & Central America,multilateral,2013,34479969.24
+DK,South America,multilateral,2013,21422028.58
+DK,Far East Asia,multilateral,2013,46572004.05
+DK,South & Central Asia,multilateral,2013,102922164.98
+DK,Middle East,multilateral,2013,62199186.82
+DK,Oceania,multilateral,2013,5843801.06
+DK,Unspecified,multilateral,2013,86897007.06
+FI,Europe,multilateral,2013,67636972.69
+FI,North Africa,multilateral,2013,20032264.06
+FI,Sub-Saharan Africa,multilateral,2013,213785676.43
+FI,North & Central America,multilateral,2013,27325543.95
+FI,South America,multilateral,2013,17069450.73
+FI,Far East Asia,multilateral,2013,38155632.25
+FI,South & Central Asia,multilateral,2013,81556701.25
+FI,Middle East,multilateral,2013,46950506.40
+FI,Oceania,multilateral,2013,4578234.62
+FI,Unspecified,multilateral,2013,66653179.37
+FR,Europe,multilateral,2013,729944616.48
+FR,North Africa,multilateral,2013,261155407.87
+FR,Sub-Saharan Africa,multilateral,2013,1661513466.29
+FR,North & Central America,multilateral,2013,191344740.36
+FR,South America,multilateral,2013,113441350.82
+FR,Far East Asia,multilateral,2013,231626054.57
+FR,South & Central Asia,multilateral,2013,621217191.97
+FR,Middle East,multilateral,2013,245528004.24
+FR,Oceania,multilateral,2013,32427167.64
+FR,Unspecified,multilateral,2013,241594834.71
+DE,Europe,multilateral,2013,823646743.12
+DE,North Africa,multilateral,2013,244654642.50
+DE,Sub-Saharan Africa,multilateral,2013,1627643744.43
+DE,North & Central America,multilateral,2013,213201386.60
+DE,South America,multilateral,2013,133119339.26
+DE,Far East Asia,multilateral,2013,259470940.06
+DE,South & Central Asia,multilateral,2013,619627893.74
+DE,Middle East,multilateral,2013,271757372.63
+DE,Oceania,multilateral,2013,34301180.65
+DE,Unspecified,multilateral,2013,301157883.31
+GR,Europe,multilateral,2013,57059823.19
+GR,North Africa,multilateral,2013,15690290.26
+GR,Sub-Saharan Africa,multilateral,2013,56979326.98
+GR,North & Central America,multilateral,2013,7272603.04
+GR,South America,multilateral,2013,5170262.40
+GR,Far East Asia,multilateral,2013,4572561.65
+GR,South & Central Asia,multilateral,2013,15454551.22
+GR,Middle East,multilateral,2013,14919630.57
+GR,Oceania,multilateral,2013,1101111.12
+GR,Unspecified,multilateral,2013,15343542.44
+IS,Europe,multilateral,2013,95945.67
+IS,North Africa,multilateral,2013,80074.46
+IS,Sub-Saharan Africa,multilateral,2013,2318994.92
+IS,North & Central America,multilateral,2013,124306.35
+IS,South America,multilateral,2013,69856.79
+IS,Far East Asia,multilateral,2013,420609.62
+IS,South & Central Asia,multilateral,2013,930383.03
+IS,Middle East,multilateral,2013,450835.59
+IS,Oceania,multilateral,2013,34922.25
+IS,Unspecified,multilateral,2013,669403.00
+IE,Europe,multilateral,2013,43516103.46
+IE,North Africa,multilateral,2013,13596786.49
+IE,Sub-Saharan Africa,multilateral,2013,106612515.22
+IE,North & Central America,multilateral,2013,9880362.87
+IE,South America,multilateral,2013,6226626.22
+IE,Far East Asia,multilateral,2013,15760182.89
+IE,South & Central Asia,multilateral,2013,37587228.89
+IE,Middle East,multilateral,2013,24034471.07
+IE,Oceania,multilateral,2013,1855104.49
+IE,Unspecified,multilateral,2013,30682283.06
+IT,Europe,multilateral,2013,501538043.14
+IT,North Africa,multilateral,2013,140767866.80
+IT,Sub-Saharan Africa,multilateral,2013,844750865.01
+IT,North & Central America,multilateral,2013,118554631.66
+IT,South America,multilateral,2013,72685866.43
+IT,Far East Asia,multilateral,2013,117840822.22
+IT,South & Central Asia,multilateral,2013,317749657.25
+IT,Middle East,multilateral,2013,153824390.83
+IT,Oceania,multilateral,2013,17651860.07
+IT,Unspecified,multilateral,2013,159821532.20
+JP,Europe,multilateral,2013,55498927.43
+JP,North Africa,multilateral,2013,31765960.80
+JP,Sub-Saharan Africa,multilateral,2013,1594741690.31
+JP,North & Central America,multilateral,2013,253199552.77
+JP,South America,multilateral,2013,132991728.89
+JP,Far East Asia,multilateral,2013,377270839.92
+JP,South & Central Asia,multilateral,2013,796841539.21
+JP,Middle East,multilateral,2013,158018014.31
+JP,Oceania,multilateral,2013,37811949.98
+JP,Unspecified,multilateral,2013,212520510.32
+KR,Europe,multilateral,2013,6685794.41
+KR,North Africa,multilateral,2013,3716105.95
+KR,Sub-Saharan Africa,multilateral,2013,187238995.89
+KR,North & Central America,multilateral,2013,29539963.92
+KR,South America,multilateral,2013,14956158.21
+KR,Far East Asia,multilateral,2013,39432194.48
+KR,South & Central Asia,multilateral,2013,93127694.32
+KR,Middle East,multilateral,2013,21430177.61
+KR,Oceania,multilateral,2013,4267178.06
+KR,Unspecified,multilateral,2013,27553885.56
+LU,Europe,multilateral,2013,13003813.48
+LU,North Africa,multilateral,2013,3944319.63
+LU,Sub-Saharan Africa,multilateral,2013,46945742.31
+LU,North & Central America,multilateral,2013,3438271.58
+LU,South America,multilateral,2013,2169562.95
+LU,Far East Asia,multilateral,2013,7392744.86
+LU,South & Central Asia,multilateral,2013,17025839.83
+LU,Middle East,multilateral,2013,11560867.11
+LU,Oceania,multilateral,2013,746189.75
+LU,Unspecified,multilateral,2013,16156574.86
+NL,Europe,multilateral,2013,216831288.40
+NL,North Africa,multilateral,2013,68173230.73
+NL,Sub-Saharan Africa,multilateral,2013,633129190.18
+NL,North & Central America,multilateral,2013,74381732.37
+NL,South America,multilateral,2013,45037232.86
+NL,Far East Asia,multilateral,2013,99403551.38
+NL,South & Central Asia,multilateral,2013,237607743.51
+NL,Middle East,multilateral,2013,136572010.43
+NL,Oceania,multilateral,2013,12526269.52
+NL,Unspecified,multilateral,2013,181348905.18
+NZ,Europe,multilateral,2013,1908241.09
+NZ,North Africa,multilateral,2013,1571605.20
+NZ,Sub-Saharan Africa,multilateral,2013,44662794.93
+NZ,North & Central America,multilateral,2013,3896374.76
+NZ,South America,multilateral,2013,2174002.25
+NZ,Far East Asia,multilateral,2013,8901000.45
+NZ,South & Central Asia,multilateral,2013,18575069.04
+NZ,Middle East,multilateral,2013,8168237.30
+NZ,Oceania,multilateral,2013,806892.38
+NZ,Unspecified,multilateral,2013,12218230.42
+NO,Europe,multilateral,2013,26224291.55
+NO,North Africa,multilateral,2013,28880517.58
+NO,Sub-Saharan Africa,multilateral,2013,540339640.49
+NO,North & Central America,multilateral,2013,46158271.13
+NO,South America,multilateral,2013,25927216.48
+NO,Far East Asia,multilateral,2013,93142406.30
+NO,South & Central Asia,multilateral,2013,208287901.58
+NO,Middle East,multilateral,2013,110741065.94
+NO,Oceania,multilateral,2013,9728370.42
+NO,Unspecified,multilateral,2013,165406117.42
+PL,Europe,multilateral,2013,99529362.65
+PL,North Africa,multilateral,2013,27449154.19
+PL,Sub-Saharan Africa,multilateral,2013,99861261.52
+PL,North & Central America,multilateral,2013,12703680.95
+PL,South America,multilateral,2013,8987616.65
+PL,Far East Asia,multilateral,2013,9422127.98
+PL,South & Central Asia,multilateral,2013,27498431.06
+PL,Middle East,multilateral,2013,25397302.79
+PL,Oceania,multilateral,2013,1924675.26
+PL,Unspecified,multilateral,2013,25571562.65
+PT,Europe,multilateral,2013,48330855.77
+PT,North Africa,multilateral,2013,13287516.56
+PT,Sub-Saharan Africa,multilateral,2013,53275796.63
+PT,North & Central America,multilateral,2013,7660221.89
+PT,South America,multilateral,2013,5178350.99
+PT,Far East Asia,multilateral,2013,5094287.67
+PT,South & Central Asia,multilateral,2013,15780693.39
+PT,Middle East,multilateral,2013,13357487.81
+PT,Oceania,multilateral,2013,1109227.86
+PT,Unspecified,multilateral,2013,14129005.48
+SK,Europe,multilateral,2013,18288400.19
+SK,North Africa,multilateral,2013,5274476.14
+SK,Sub-Saharan Africa,multilateral,2013,20805437.86
+SK,North & Central America,multilateral,2013,2438359.59
+SK,South America,multilateral,2013,1692339.72
+SK,Far East Asia,multilateral,2013,2046281.65
+SK,South & Central Asia,multilateral,2013,6006021.56
+SK,Middle East,multilateral,2013,4887963.73
+SK,Oceania,multilateral,2013,389336.94
+SK,Unspecified,multilateral,2013,4919411.76
+SI,Europe,multilateral,2013,10292526.20
+SI,North Africa,multilateral,2013,2826592.86
+SI,Sub-Saharan Africa,multilateral,2013,12447352.45
+SI,North & Central America,multilateral,2013,1534905.73
+SI,South America,multilateral,2013,1061594.39
+SI,Far East Asia,multilateral,2013,1547452.15
+SI,South & Central Asia,multilateral,2013,3920232.49
+SI,Middle East,multilateral,2013,2756327.83
+SI,Oceania,multilateral,2013,244392.04
+SI,Unspecified,multilateral,2013,2875242.98
+ES,Europe,multilateral,2013,323031331.79
+ES,North Africa,multilateral,2013,91455780.59
+ES,Sub-Saharan Africa,multilateral,2013,434437530.85
+ES,North & Central America,multilateral,2013,69969927.77
+ES,South America,multilateral,2013,44193839.90
+ES,Far East Asia,multilateral,2013,60880764.36
+ES,South & Central Asia,multilateral,2013,147221330.00
+ES,Middle East,multilateral,2013,93643456.36
+ES,Oceania,multilateral,2013,9788387.29
+ES,Unspecified,multilateral,2013,98755244.75
+SE,Europe,multilateral,2013,140938620.97
+SE,North Africa,multilateral,2013,54982105.22
+SE,Sub-Saharan Africa,multilateral,2013,743268771.70
+SE,North & Central America,multilateral,2013,62932238.80
+SE,South America,multilateral,2013,36262056.72
+SE,Far East Asia,multilateral,2013,123316315.96
+SE,South & Central Asia,multilateral,2013,287726123.43
+SE,Middle East,multilateral,2013,152028069.54
+SE,Oceania,multilateral,2013,12707532.73
+SE,Unspecified,multilateral,2013,209283332.48
+CH,Europe,multilateral,2013,11219868.29
+CH,North Africa,multilateral,2013,8266137.92
+CH,Sub-Saharan Africa,multilateral,2013,307826896.73
+CH,North & Central America,multilateral,2013,31239582.25
+CH,South America,multilateral,2013,16703709.30
+CH,Far East Asia,multilateral,2013,64367133.12
+CH,South & Central Asia,multilateral,2013,139866263.28
+CH,Middle East,multilateral,2013,41703476.79
+CH,Oceania,multilateral,2013,5881094.52
+CH,Unspecified,multilateral,2013,59389680.18
+GB,Europe,multilateral,2013,696353626.64
+GB,North Africa,multilateral,2013,327781378.36
+GB,Sub-Saharan Africa,multilateral,2013,3187461060.37
+GB,North & Central America,multilateral,2013,282759468.94
+GB,South America,multilateral,2013,154457721.22
+GB,Far East Asia,multilateral,2013,510214680.10
+GB,South & Central Asia,multilateral,2013,1302371216.19
+GB,Middle East,multilateral,2013,371521058.93
+GB,Oceania,multilateral,2013,56437427.02
+GB,Unspecified,multilateral,2013,384978204.85
+US,Europe,multilateral,2013,90291331.44
+US,North Africa,multilateral,2013,133819806.50
+US,Sub-Saharan Africa,multilateral,2013,2375428037.20
+US,North & Central America,multilateral,2013,207987698.69
+US,South America,multilateral,2013,105017271.63
+US,Far East Asia,multilateral,2013,444648633.33
+US,South & Central Asia,multilateral,2013,1028709575.26
+US,Middle East,multilateral,2013,270787086.18
+US,Oceania,multilateral,2013,42599810.12
+US,Unspecified,multilateral,2013,339175447.79
