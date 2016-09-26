@@ -23,7 +23,7 @@ datamap.summary=function()
 		out[csv_name]=it		
 		it.sql=csv_sql;
 
-		var csv_header=fs.readFileSync(argv.csvdir+"concepts.csv").toString();
+		var csv_header=fs.readFileSync(argv.csvdir+csv_name).toString();
 		var csv_size=csv_header.length;
 		csv_header=csv_header.split("\n")[0];
 		csv_header=csv_header.split(",");
