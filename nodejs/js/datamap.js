@@ -15,12 +15,27 @@ datamap.csv=require("./datamap_raw").csv;
 
 datamap.summary=function()
 {
-	print("")
-	print("The following DP tables/selects will be exported to these DW csv files")
-	print("")
+	var out={};
+	
 	for(var csv_name in datamap.csv){ var csv_sql=datamap.csv[csv_name];
-		print( csv_name+" <- "+csv_sql);
+		
+		var it={};		
+		out[csv_name]=it		
+		it.sql=csv_sql;
+
+		var csv_header=fs.readFileSync(argv.csvdir+"concepts.csv").toString();
+		var csv_size=csv_header.length;
+		csv_header=csv_header.split("\n")[0];
+		csv_header=csv_header.split(",");
+
+
+		it.csv_header=csv_header;
+		it.csv_size=csv_size;
 	}
+
+	console.log(
+		JSON.stringify(out,null,"\t")
+	);
 
 }
 

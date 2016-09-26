@@ -1,0 +1,3 @@
+echo " if we run this after each import we can keep a closer eye on what has changed by diffing the summary.json file "
+./warehouse summary >summary.json
+

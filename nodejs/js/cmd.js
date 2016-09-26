@@ -56,11 +56,6 @@ cmd.run=function(argv)
 	{
 		return require("./datamap").summary();
 	}
-	else
-	if( argv._[0]=="test" )
-	{
-		return require("./db").test();
-	}
 
 	// help text
 	console.log(
@@ -68,11 +63,11 @@ cmd.run=function(argv)
 		">	warehouse import \n"+
 		"Import all warehouse data into local CSV files.\n"+
 		"\n"+
-		">	warehouse summary \n"+
-		"Display a summary of how we map data between the DW and DP and what is probably missing.\n"+
+		">	warehouse import country-year/oda.csv\n"+
+		"Import warehouse data for the given CSV file only.\n"+
 		"\n"+
-		">	warehouse test \n"+
-		"Test settings etc.\n"+
+		">	warehouse summary \n"+
+		"Output a json summary of how we map data between the DW and DP and what is contained in each CSV file.\n"+
 		"\n"+
 	"");
 
