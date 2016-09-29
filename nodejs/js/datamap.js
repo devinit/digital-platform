@@ -35,8 +35,8 @@ datamap.summary=function()
 		it.csv_size=csv_size;
 	}
 
-// list all oda ida mapped to entity so we can see missing junk
-	out.oda_ida={}
+// list all oda ids mapped to entity so we can see missing junk
+	out.oda_ids={}
 
 	var csv_entity=babyparse.parse( fs.readFileSync(argv.csvdir+"reference/entity.csv").toString() , {header:true} ).data;
 	var csv_entity_lookup={}
@@ -61,7 +61,7 @@ datamap.summary=function()
 	}
 
 	for( var id in map_ids ) {
-		out.oda_ida[id] = csv_entity_lookup[id] && csv_entity_lookup[id].name || "***MISSING***" ;
+		out.oda_ids[id] = csv_entity_lookup[id] && csv_entity_lookup[id].name || "***MISSING***" ;
 	}
 
 	console.log(
