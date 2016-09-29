@@ -308,4 +308,31 @@ south-of-sahara,region,"South of Sahara, regional",south-of-sahara,,,,,south-of-
 ex-yugoslavia,region,States Ex-Yugoslavia unspecified,europe,,,,,states-ex-yugoslavia-unspecified,66,region,,States Ex-Yugoslavia unspecified
 west-indies,region,"West Indies, regional",,,,,,west-indies-regional,67,region,,"West Indies, regional"
 region-unspecified,region,"Region, unspecified",unspecified,,,,,region-unspecified,,region,,"Region, unspecified"
+<<<<<<< HEAD
 cif,,Climate Investment Funds [CIF],,,,,,cif,,,,Climate Investment Funds [CIF]
+=======
+arab-fund,organisation,Arab Fund (AFESD),,,,,,arab-fund,4,multilateral,,Arab Fund
+imf-concessional-trust-funds,organisation,IMF (Concessional Trust Funds),,,,,,imf-concessional-trust-funds,21,multilateral,,IMF (CTF)
+idb-sp-fund,organisation,IDB Sp.Fund,,,,,,idb-sp-fund,17,multilateral,,IDB Sp.Fund
+adaptation-fund,,Adaptation Fund,,,,,,,,,,Adaptation Fund
+all-donors-total,,"All Donors, Total",,,,,,,,,,"All Donors, Total"
+ANHH,,Netherlands Antilles,,,,,,,,,,Netherlands Antilles
+bmgf,,Bill & Melinda Gates Foundation,,,,,,,,,,Bill & Melinda Gates Foundation
+ceb,,Council of Europe Development Bank [CEB],,,,,,,,,,Council of Europe Development Bank [CEB]
+cif,,Climate Investment Funds [CIF],,,,,,cif,,,,Climate Investment Funds [CIF]
+dac-countries-total,,"DAC Countries, Total",,,,,,,,,,"DAC Countries, Total"
+dac-eu-members-and-ec-total,,"DAC EU Members + EC, Total",,,,,,,,,,"DAC EU Members + EC, Total"
+dac-eu-members-total,,"DAC EU Members, Total",,,,,,,,,,"DAC EU Members, Total"
+developing-countries-unspecified,,Developing Countries unspecified,,,,,,,,,,Developing Countries unspecified
+eac,,East African Community,,,,,,,,,,East African Community
+fao,,Food and Agriculture Organisation [FAO],,,,,,,,,,Food and Agriculture Organisation [FAO]
+g7-countries-total,,"G7 Countries, Total",,,,,,,,,,"G7 Countries, Total"
+gggi,,Global Green Growth Institute [GGGI],,,,,,,,,,Global Green Growth Institute [GGGI]
+international-labour-organisation,,International Labour Organisation,,,,,,,,,,International Labour Organisation
+multilateral-total,,"Multilateral, Total",,,,,,,,,,"Multilateral, Total"
+non-dac-countries-total,,"Non-DAC Countries, Total",,,,,,,,,,"Non-DAC Countries, Total"
+other-donor-countries,,Other donor countries,,,,,,,,,,Other donor countries
+other-multilaterals,,Other Multilaterals,,,,,,,,,,Other Multilaterals
+private-donors-total,,"Memo: Private Donors, Total",,,,,,,,,,"Memo: Private Donors, Total"
+un-agencies,,UN Agencies,,,,,,,,,,UN Agencies
+>>>>>>> master
