@@ -1,0 +1,62 @@
+id,parent,oda-oof-flow,aid-type,year,value
+adaptation-fund,Adaptation Fund,oda,oda-grants,2014,13085492.71
+afdb,African Development Bank and Fund,oda,oda-grants,2014,136144596.39
+afdb,African Development Bank and Fund,oof,oof-long-term-loans,2014,3016230834.42
+afdf,African Development Bank and Fund,oda,oda-grants,2014,740603226.79
+afdf,African Development Bank and Fund,oda,oda-gross-loans,2014,1250679893.11
+arab-fund-afesd,Arab Fund,oda,oda-grants,2014,27112031.45
+arab-fund-afesd,Arab Fund,oda,oda-gross-loans,2014,849437676.77
+asdb,Asian Development Bank,oof,oof-long-term-loans,2014,7528833822.14
+asdb-special-funds,Asian Development Bank,oda,oda-grants,2014,566816789.14
+asdb-special-funds,Asian Development Bank,oda,oda-gross-loans,2014,2204395375.91
+badea,Arab Bank for Economic Development in Africa,oda,oda-grants,2014,6636850.96
+badea,Arab Bank for Economic Development in Africa,oda,oda-gross-loans,2014,118155758.57
+cardb,Caribbean Development Bank,oda,oda-grants,2014,61098651.81
+cardb,Caribbean Development Bank,oda,oda-gross-loans,2014,51034412.15
+cardb,Caribbean Development Bank,oof,oof-long-term-loans,2014,48052782.09
+ceb,Council of Europe Development Bank,oda,oda-grants,2014,267455.19
+ceb,Council of Europe Development Bank,oda,oda-gross-loans,2014,76185105.56
+ceb,Council of Europe Development Bank,oof,oof-long-term-loans,2014,282690227.86
+cif,Climate Investment Funds,oda,oda-grants,2014,23575679.53
+cif,Climate Investment Funds,oda,oda-gross-loans,2014,323343416.42
+cif,Climate Investment Funds,oof,oof-long-term-loans,2014,55719830.81
+ebrd,European Bank for Reconstruction and Development,oof,oof-long-term-loans,2014,4777898722.63
+EU,EU Institutions,oda,oda-grants,2014,12697697598.92
+EU,EU Institutions,oda,oda-gross-loans,2014,4799280684.57
+EU,EU Institutions,oof,oof-grants,2014,88927365.54
+EU,EU Institutions,oof,oof-long-term-loans,2014,734222028.47
+gavi,Global Alliance for Vaccines and Immunization,oda,oda-grants,2014,1401395844.36
+gef,Global Environment Facility,oda,oda-grants,2014,598079328.88
+gef,Global Environment Facility,oda,oda-gross-loans,2014,1872186.32
+gggi,Global Green Growth Institute,oda,oda-grants,2014,15373720.43
+global-fund,Global Fund,oda,oda-grants,2014,2859928041.46
+iaea,International Atomic Energy Agency,oda,oda-grants,2014,73371873.21
+ibrd,World Bank Group,oof,oof-long-term-loans,2014,15708742723.36
+ida,World Bank Group,oda,oda-grants,2014,2127269224.32
+ida,World Bank Group,oda,oda-gross-loans,2014,11502316491.30
+idb,Inter-American Development Bank,oof,oof-long-term-loans,2014,8706003161.57
+idb-special-fund,Inter-American Development Bank,oda,oda-grants,2014,1050197465.41
+idb-special-fund,Inter-American Development Bank,oda,oda-gross-loans,2014,869932668.76
+ifad,International Fund for Agricultural Development,oda,oda-grants,2014,174083610.08
+ifad,International Fund for Agricultural Development,oda,oda-gross-loans,2014,351505457.13
+ifad,International Fund for Agricultural Development,oof,oof-long-term-loans,2014,91113067.34
+imf-concessional-trust-funds,International Monetary Fund,oda,oda-gross-loans,2014,824237454.62
+islamic-dev-bank,Islamic Development Bank,oda,oda-gross-loans,2014,243582335.94
+islamic-dev-bank,Islamic Development Bank,oof,oof-long-term-loans,2014,1502384942.16
+montreal-protocol,Montreal Protocol,oda,oda-grants,2014,44367843.95
+nordic-dev-fund,Nordic Development Fund,oda,oda-grants,2014,40989983.98
+nordic-dev-fund,Nordic Development Fund,oda,oda-gross-loans,2014,8142524.61
+ofid,OPEC Fund for International Development,oda,oda-grants,2014,36680983.73
+ofid,OPEC Fund for International Development,oda,oda-gross-loans,2014,419250865.65
+ofid,OPEC Fund for International Development,oof,oof-long-term-loans,2014,681545159.00
+osce,Organization for Security and Co-operation in Europe,oda,oda-grants,2014,129279913.23
+unaids,The Joint United Nations Programme on HIV/AIDS,oda,oda-grants,2014,236420480.36
+undp,United Nations Development Programme,oda,oda-grants,2014,458606401.27
+unece,United Nations Economic Commission for Europe,oda,oda-grants,2014,13877952.53
+unfpa,United Nations Population Fund,oda,oda-grants,2014,336805327.55
+unhcr,United Nations High Commissioner for Refugees,oda,oda-grants,2014,475555135.58
+unicef,United Nations Children's Fund,oda,oda-grants,2014,1329747571.25
+unpbf,United Nations Peacebuilding Fund,oda,oda-grants,2014,64397265.80
+unrwa,United Nations Relief and Works Agency for Palestine Refugees in the Near East,oda,oda-grants,2014,673689901.08
+wfp,World Food Programme,oda,oda-grants,2014,305899394.72
+who,World Health Organisation,oda,oda-grants,2014,466917323.59

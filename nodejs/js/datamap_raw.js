@@ -169,5 +169,13 @@ exports.csv=
  "country-year/warehouse/donor_bundle_2012.csv":"fact.donor_bundle_2012",
  "country-year/warehouse/loans_grants_2012.csv":"fact.loans_grants_2012",
  "country-year/warehouse/sectors_over_time_2012.csv":"fact.sectors_over_time_2012",
- 
+ "country-year/multi_oda_oof_flow_type_2012.csv": "multilateral_profile.\"multi_oda_oof_flow_type_2012\"",
+ "country-year/multi_oda_oof_trend_2012.csv" : "multilateral_profile.\"multi_oda_oof_trend_2012\"",
+ "country-year/multi_oda_oof_flow_type.csv" : "multilateral_profile.\"multi_oda_oof_flow_type\"",
+ "country-year/multi_oda_oof_trend.csv" : "multilateral_profile.\"multi_oda_oof_trend\"",
+ // "country-year/displacement.csv" : "data_series.\"displacement\"",
+ // "country-year/forgotten_crisis.csv" : "data_series.\"forgotten_crisis\"",
+ // "country-year/number_of_un_appeals.csv" : "data_series.\"number_of_un_appeals\"",
 }
+
+ 
