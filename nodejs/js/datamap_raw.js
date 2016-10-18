@@ -172,7 +172,7 @@ exports.csv=
 
 // new donor data from https://github.com/devinit/ddw-data/issues/220#issuecomment-251401625
 // not sure if fact.dac_oda_percent_gni and data_series.dac_oda_percent_gni are the same data...
-// also bubble chart seems like a useless table name, so moving this all into sub dirs
+// also bubble chart seems like a useless table name, so moving this all into sub dirs by schema
 
  "country-year/warehouse/data_series/intl_flows_donors.csv"				:"data_series.intl_flows_donors",
  "country-year/warehouse/fact/out_oda_net_2012.csv"						:"fact.out_oda_net_2012",
