@@ -169,6 +169,26 @@ exports.csv=
  "country-year/warehouse/donor_bundle_2012.csv":"fact.donor_bundle_2012",
  "country-year/warehouse/loans_grants_2012.csv":"fact.loans_grants_2012",
  "country-year/warehouse/sectors_over_time_2012.csv":"fact.sectors_over_time_2012",
+
+// new donor data from https://github.com/devinit/ddw-data/issues/220#issuecomment-251401625
+// not sure if fact.dac_oda_percent_gni and data_series.dac_oda_percent_gni are the same data...
+// also bubble chart seems like a useless table name, so moving this all into sub dirs
+
+ "country-year/warehouse/data_series/intl_flows_donors.csv"				:"data_series.intl_flows_donors",
+ "country-year/warehouse/fact/out_oda_net_2012.csv"						:"fact.out_oda_net_2012",
+ "country-year/warehouse/fact/out_debt_relief_2012.csv"					:"fact.out_debt_relief_2012",
+ "country-year/warehouse/donor_profile/oda_per_capita_per_day_2012.csv"	:"donor_profile.oda_per_capita_per_day_2012",
+ "country-year/warehouse/donor_profile/gni_per_capita_per_day_2012.csv"	:"donor_profile.gni_per_capita_per_day_2012",
+ "country-year/warehouse/fact/dac_oda_percent_gni.csv"					:"fact.dac_oda_percent_gni",
+ "country-year/warehouse/donor_profile/recipient_bundle_2012.csv"		:"donor_profile.recipient_bundle_2012",
+ "country-year/warehouse/donor_profile/disbursement_by_region_2012.csv"	:"donor_profile.disbursement_by_region_2012",
+ "country-year/warehouse/donor_profile/bubble_chart.csv"				:"donor_profile.bubble_chart",
+ "country-year/warehouse/donor_profile/donor_bundle_2012.csv"			:"donor_profile.donor_bundle_2012",
+ "country-year/warehouse/donor_profile/loans_grants_2012.csv"			:"donor_profile.loans_grants_2012",
+ "country-year/warehouse/donor_profile/sectors_over_time_2012.csv"		:"donor_profile.sectors_over_time_2012",
+ 
+ 
+// might be a better idea to keep all of these in -> country-year/warehouse/multilateral_profile/***
  "country-year/multi_oda_oof_flow_type_2012.csv": "multilateral_profile.\"multi_oda_oof_flow_type_2012\"",
  "country-year/multi_oda_oof_trend_2012.csv" : "multilateral_profile.\"multi_oda_oof_trend_2012\"",
  "country-year/multi_oda_oof_flow_type.csv" : "multilateral_profile.\"multi_oda_oof_flow_type\"",
