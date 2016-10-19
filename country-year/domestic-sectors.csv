@@ -221,7 +221,6 @@ UG,2014,budget,agriculture,ministry-of-agriculture-animal-fisheries,policy-plann
 UG,2014,budget,agriculture,ministry-of-agriculture-animal-fisheries,policy-planning-and-support-services,agricultural-statistical-unit,,,0,0
 UG,2014,budget,agriculture,ministry-of-agriculture-animal-fisheries,policy-planning-and-support-services,support-for-institutional-development,,,1256056.694,3670520000
 UG,2014,budget,agriculture,ministry-of-agriculture-animal-fisheries,policy-planning-and-support-services,rural-electrification,,,219351.0295,641000000
-UG,2014,budget,education,pre-primary-and-primary-education,central-government,,,,15771373.24,46100000000
 UG,2014,budget,agriculture,ministry-of-agriculture-animal-fisheries,policy-planning-and-support-services,supervision-monitoring-and-evaluation,,,228932.6658,669000000
 UG,2014,budget,agriculture,ministry-of-agriculture-animal-fisheries,policy-planning-and-support-services,plan-for-national-agriculture-statistics,,,191632.7247,560000000
 UG,2014,budget,agriculture,ministry-of-agriculture-animal-fisheries,policy-planning-and-support-services,agriculture-production-marketing-regulation,,,136880.5176,400000000
@@ -272,7 +271,6 @@ UG,2015,budget,agriculture,ministry-of-agriculture-animal-fisheries,crops,farm-d
 UG,2015,budget,agriculture,ministry-of-agriculture-animal-fisheries,crops,crop-protection-department,,,579498.7011,1960144000
 UG,2015,budget,agriculture,ministry-of-agriculture-animal-fisheries,crops,crop-production-department,,,317302.1938,1073269000
 UG,2015,budget,agriculture,ministry-of-agriculture-animal-fisheries,crops,department-of-crop-regulation-and-certification,,,295640.882,1000000000
-SN,2014,budget,agriculture,ministere-de-la-peche-et-des-affaires-maritimes,,,,,25730808.41,12363765000
 UG,2015,budget,agriculture,ministry-of-agriculture-animal-fisheries,crops,support-for-tea-cocoa-seedlings,,,542971.6788,1836592000
 UG,2015,budget,agriculture,ministry-of-agriculture-animal-fisheries,crops,crop-disease-and-pest-control,,,719294.266,2430000000
 UG,2015,budget,agriculture,ministry-of-agriculture-animal-fisheries,crops,improvement-of-food-security-in-cross-border-districts,,,0,0
@@ -321,6 +319,7 @@ UG,2014,budget,education,pre-primary-and-primary-education,,,,,267952852.7,78300
 UG,2014,budget,education,secondary-education,,,,,188978269.3,552000000000
 UG,2014,budget,education,tertiaryhigher-education,,,,,121501991.5,355000000000
 UG,2014,budget,education,other,,,,,27406501.27,80088830000
+UG,2014,budget,education,pre-primary-and-primary-education,central-government,,,,15771373.24,46100000000
 UG,2014,budget,education,pre-primary-and-primary-education,district-governments,,,,247603168.4,724000000000
 UG,2014,budget,education,pre-primary-and-primary-education,kampala-capital-city-authority,,,,4578433.964,13379359000
 UG,2014,budget,education,secondary-education,central-government,,,,81190679.04,237000000000
@@ -374,7 +373,6 @@ UG,2014,budget,education,other,quality-and-standards,teacher-education,,,5318518
 UG,2014,budget,education,other,quality-and-standards,education-standards-agency,,,1340730.298,3917958000
 UG,2014,budget,education,other,quality-and-standards,development-of-primary-teachers-colleges,,,1808512.623,5284938000
 UG,2014,budget,education,other,quality-and-standards,relocation-of-shimoni-primary-teachers-college,,,339484.9002,992062000
-UG,2014,budget,wash,water-resources-management,water-management-and-development-project,,,,759438.0926,2219273000
 UG,2014,budget,education,other,quality-and-standards,improving-the-training-of-btvet-technical-instructors-health-tutors-secondary-teachers-in-uganda,,,6084237.033,17779702000
 UG,2014,budget,education,other,physical-education-and-sports,sports-and-physical-education,,,1093508.684,3195513000
 UG,2014,budget,education,other,physical-education-and-sports,support-to-physical-education-and-sports,,,711710.2515,2079800000
@@ -483,6 +481,7 @@ UG,2014,budget,wash,water-resources-management,lake-victoria-environment-managem
 UG,2014,budget,wash,water-resources-management,operational-water-resources-management,,,,432932.8874,1265141000
 UG,2014,budget,wash,water-resources-management,support-to-water-resource-management,,,,2178142.72,6365092000
 UG,2014,budget,wash,water-resources-management,mapping-of-ground-water-resurces-in-uganda,,,,571000.5014,1668610000
+UG,2014,budget,wash,water-resources-management,water-management-and-development-project,,,,759438.0926,2219273000
 UG,2014,budget,wash,water-resources-management,support-for-hydro-power-development-and-operations-on-river,,,,0,0
 UG,2014,budget,wash,policy-planning-and-support-services,finance-and-administration,,,,619259.0967,1809634000
 UG,2014,budget,wash,policy-planning-and-support-services,office-of-directorate-of-water-development,,,,61995.23965,181166000
@@ -752,6 +751,7 @@ SN,2014,budget,agriculture,ministere-de-lelevage-et-des-productions-animales,cap
 SN,2014,budget,agriculture,ministere-de-lelevage-et-des-productions-animales,capital,external-funded-grants,,,4076966.335,1960000000
 SN,2014,budget,agriculture,ministere-de-lelevage-et-des-productions-animales,capital,external-funded-loans,,,7512939.494,3610000000
 SN,2014,budget,agriculture,ministere-de-lelevage-et-des-productions-animales,capital,government-funded,,,12486880.05,6000000000
+SN,2014,budget,agriculture,ministere-de-la-peche-et-des-affaires-maritimes,,,,,25730808.41,12363765000
 SN,2014,budget,agriculture,ministere-de-la-peche-et-des-affaires-maritimes,recurrent,,,,3932147.662,1889414000
 SN,2014,budget,agriculture,ministere-de-la-peche-et-des-affaires-maritimes,recurrent,wage,,,2390507.046,1148649000
 SN,2014,budget,agriculture,ministere-de-la-peche-et-des-affaires-maritimes,recurrent,non-wage,,,1541640.616,740765000

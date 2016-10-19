@@ -828,7 +828,6 @@ BR,1994,6.40
 BR,1995,7.38
 BR,1996,6.84
 BR,1997,7.20
-CV,1976,
 BR,1998,13.70
 BR,1999,13.69
 BR,2000,31.53
@@ -1463,6 +1462,7 @@ CU,2012,
 CU,2013,
 CU,2014,
 CV,1975,
+CV,1976,
 CV,1977,
 CV,1978,
 CV,1979,
@@ -5461,7 +5461,6 @@ south-of-sahara,1996,
 south-of-sahara,1997,
 south-of-sahara,1998,
 south-of-sahara,1999,
-TK,2004,
 south-of-sahara,2000,
 south-of-sahara,2001,
 south-of-sahara,2002,
@@ -5886,6 +5885,7 @@ TK,2000,
 TK,2001,
 TK,2002,
 TK,2003,
+TK,2004,
 TK,2005,
 TK,2006,
 TK,2007,
