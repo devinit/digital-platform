@@ -238,7 +238,7 @@ db.import=function(only)
 				process.stdout.write(argv.csvdir+csv_name+" <- "+csv_sql+" ");
 
 				var fp=fs.createWriteStream(argv.csvdir+csv_name);
-				var qs = new pgps('SELECT * FROM '+csv_sql+';');
+				var qs = new pgps('SELECT * FROM '+csv_sql+' ORDER BY 1,2,3;'); // try and keep in same order each import
 				var sd=yield d.stream(qs, function (s) {
 						s.pipe(new stream_to_csv()).pipe(fp);
 				});

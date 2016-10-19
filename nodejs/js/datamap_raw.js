@@ -133,6 +133,7 @@ exports.csv=
  "country-year/income-share-by-quintile.csv": "fact.\"income_share_by_quintile\"",
  "country-year/life-expectancy-at-birth.csv": "fact.\"life_expectancy_at_birth\"",
  "country-year/maternal-mortality.csv": "fact.\"maternal_mortality\"",
+
  "country-year/oda.2014.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2012\" WHERE year=2014 ) sq ",
  "country-year/oda.2013.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2012\" WHERE year=2013 ) sq ",
  "country-year/oda.2012.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2012\" WHERE year=2012 ) sq ",
@@ -149,6 +150,7 @@ exports.csv=
  "country-year/oda.2001.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2012\" WHERE year=2001 ) sq ",
  "country-year/oda.2000.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2012\" WHERE year=2000 ) sq ",
  "country-year/oda.csv"     : " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2012\" WHERE year<=1999 ) sq ",
+
  "country-year/population-by-age.csv": "fact.\"population_by_age\"",
  "country-year/population-rural.csv": "fact.\"population_rural\"",
  "country-year/population-rural-urban.csv": "fact.\"population_rural_urban\"",
@@ -166,9 +168,9 @@ exports.csv=
  // new donor data
  "country-year/warehouse/intl_outflows_donors.csv":"data_series.intl_outflows_donors",
  "country-year/warehouse/disbursement_by_region_2012.csv":"data_series.disbursement_by_region_2012",
- "country-year/warehouse/donor_bundle_2012.csv":"fact.donor_bundle_2012",
- "country-year/warehouse/loans_grants_2012.csv":"fact.loans_grants_2012",
- "country-year/warehouse/sectors_over_time_2012.csv":"fact.sectors_over_time_2012",
+// "country-year/warehouse/donor_bundle_2012.csv":"fact.donor_bundle_2012",
+// "country-year/warehouse/loans_grants_2012.csv":"fact.loans_grants_2012",
+// "country-year/warehouse/sectors_over_time_2012.csv":"fact.sectors_over_time_2012",
 
 // new donor data from https://github.com/devinit/ddw-data/issues/220#issuecomment-251401625
 // not sure if fact.dac_oda_percent_gni and data_series.dac_oda_percent_gni are the same data...
