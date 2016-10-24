@@ -674,52 +674,6 @@
       "csv_size": 120627,
       "sql": "fact.\"maternal_mortality\""
     },
-    "country-year/multi_oda_oof_flow_type.csv": {
-      "csv_header": [
-        "id",
-        "parent",
-        "oda-oof-flow",
-        "aid-type",
-        "year",
-        "value"
-      ],
-      "csv_size": 4600,
-      "sql": "multilateral_profile.\"multi_oda_oof_flow_type\""
-    },
-    "country-year/multi_oda_oof_flow_type_2012.csv": {
-      "csv_header": [
-        "id",
-        "parent",
-        "oda-oof-flow",
-        "aid-type",
-        "year",
-        "value"
-      ],
-      "csv_size": 4600,
-      "sql": "multilateral_profile.\"multi_oda_oof_flow_type_2012\""
-    },
-    "country-year/multi_oda_oof_trend.csv": {
-      "csv_header": [
-        "id",
-        "parent",
-        "oda-oof-flow",
-        "year",
-        "value"
-      ],
-      "csv_size": 35414,
-      "sql": "multilateral_profile.\"multi_oda_oof_trend\""
-    },
-    "country-year/multi_oda_oof_trend_2012.csv": {
-      "csv_header": [
-        "id",
-        "parent",
-        "oda-oof-flow",
-        "year",
-        "value"
-      ],
-      "csv_size": 35444,
-      "sql": "multilateral_profile.\"multi_oda_oof_trend_2012\""
-    },
     "country-year/natural-hazard.csv": {
       "csv_header": [
         "id",
@@ -1598,7 +1552,7 @@
         "year",
         "value"
       ],
-      "csv_size": 25656,
+      "csv_size": 25432,
       "sql": "data_series.disbursement_by_region_2012"
     },
     "country-year/warehouse/donor_profile/bubble_chart.csv": {
@@ -1611,7 +1565,7 @@
         "value-2",
         "value-3"
       ],
-      "csv_size": 241551,
+      "csv_size": 234146,
       "sql": "donor_profile.bubble_chart"
     },
     "country-year/warehouse/donor_profile/disbursement_by_region_2012.csv": {
@@ -1622,7 +1576,7 @@
         "year",
         "value"
       ],
-      "csv_size": 57973,
+      "csv_size": 57077,
       "sql": "donor_profile.disbursement_by_region_2012"
     },
     "country-year/warehouse/donor_profile/donor_bundle_2012.csv": {
@@ -1632,7 +1586,7 @@
         "year",
         "value"
       ],
-      "csv_size": 11552,
+      "csv_size": 11917,
       "sql": "donor_profile.donor_bundle_2012"
     },
     "country-year/warehouse/donor_profile/gni_per_capita_per_day_2012.csv": {
@@ -1652,7 +1606,7 @@
         "value",
         "percent-of-total-oda"
       ],
-      "csv_size": 9372,
+      "csv_size": 9234,
       "sql": "donor_profile.loans_grants_2012"
     },
     "country-year/warehouse/donor_profile/oda_per_capita_per_day_2012.csv": {
@@ -1735,6 +1689,94 @@
       ],
       "csv_size": 130540,
       "sql": "data_series.intl_outflows_donors"
+    },
+    "country-year/warehouse/multilateral_profile/bundle.csv": {
+      "csv_header": [
+        "id",
+        "parent",
+        "bundle",
+        "year",
+        "value"
+      ],
+      "csv_size": 20792,
+      "sql": "multilateral_profile.\"bundle_2012\""
+    },
+    "country-year/warehouse/multilateral_profile/core_earmarked_oda_received.csv": {
+      "csv_header": [
+        "channel-code",
+        "channel-name",
+        "parent",
+        "aid-to-or-through",
+        "year",
+        "value"
+      ],
+      "csv_size": 13638,
+      "sql": "multilateral_profile.\"core_earmarked_oda_received_2012\""
+    },
+    "country-year/warehouse/multilateral_profile/core_oda_by_donor.csv": {
+      "csv_header": [
+        "channel-code",
+        "channel-name",
+        "parent",
+        "donor-code",
+        "donor-name",
+        "rank",
+        "aid-to-or-through",
+        "year",
+        "total-oda-from-donor-to-channel",
+        "total-oda-from-donor-to-channel-parent"
+      ],
+      "csv_size": 60199,
+      "sql": "multilateral_profile.\"core_oda_by_donor_2012\""
+    },
+    "country-year/warehouse/multilateral_profile/earmarked_oda_by_donor.csv": {
+      "csv_header": [
+        "channel-code",
+        "channel-name",
+        "parent",
+        "donor-code",
+        "donor-name",
+        "rank",
+        "aid-to-or-through",
+        "year",
+        "total-oda-from-donor-to-channel",
+        "total-oda-from-donor-to-channel-parent"
+      ],
+      "csv_size": 51712,
+      "sql": "multilateral_profile.\"earmarked_oda_by_donor_2012\""
+    },
+    "country-year/warehouse/multilateral_profile/oda_oof_flow_type.csv": {
+      "csv_header": [
+        "id",
+        "parent",
+        "bundle",
+        "year",
+        "value"
+      ],
+      "csv_size": 20792,
+      "sql": "multilateral_profile.\"bundle_2012\""
+    },
+    "country-year/warehouse/multilateral_profile/oda_oof_trend.csv": {
+      "csv_header": [
+        "id",
+        "parent",
+        "oda-oof-flow",
+        "year",
+        "value"
+      ],
+      "csv_size": 35444,
+      "sql": "multilateral_profile.\"oda_oof_trend_2012\""
+    },
+    "country-year/warehouse/multilateral_profile/oda_regional.csv": {
+      "csv_header": [
+        "id",
+        "parent",
+        "region",
+        "year",
+        "value"
+      ],
+      "csv_size": 14690,
+      "sql": "multilateral_profile.\"oda_regional\""
     },
     "country-year/warehouse/oda_per_capita_2012.csv": {
       "csv_header": [
