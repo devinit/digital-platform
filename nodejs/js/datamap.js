@@ -4,6 +4,7 @@ var datamap=exports;
 var fs=require("fs");
 var util=require("util");
 var babyparse=require("babyparse");
+var json_stringify = require('json-stable-stringify')
 
 var print=console.log;
 var ls=function(a) { console.log(util.inspect(a,{depth:null})); }
@@ -65,7 +66,7 @@ datamap.summary=function()
 	}
 
 	console.log(
-		JSON.stringify(out,null,"\t")
+		json_stringify(out,{ space: '  ' })
 	);
 
 }
