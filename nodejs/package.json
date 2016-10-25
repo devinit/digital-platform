@@ -2,18 +2,19 @@
   "name": "warehouse",
   "description": "warehouse",
   "version": "0.0.1",
-  "repository":"https://github.com/devinit/digital-platform",
-  "license":"MIT",
+  "repository": "https://github.com/devinit/digital-platform",
+  "license": "MIT",
   "dependencies": {
     "babyparse": "*",
+    "co": "*",
     "csv": "*",
-    "yargs": "*",
+    "json-stable-stringify": "*",
+    "mz": "*",
     "pg": "*",
     "pg-monitor": "*",
     "pg-promise": "*",
     "pg-query-stream": "*",
-    "co": "*",
     "thenify": "*",
-    "mz": "*"
+    "yargs": "*"
   }
 }
