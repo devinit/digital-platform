@@ -1,323 +1,62 @@
-id,parent,bundle,year,value
-adaptation-fund,Adaptation Fund,cash-grant,2014,0
-adaptation-fund,Adaptation Fund,cash-loan-equity,2014,0
-adaptation-fund,Adaptation Fund,commodities-food,2014,0
-adaptation-fund,Adaptation Fund,gpgs-nngos,2014,0
-adaptation-fund,Adaptation Fund,mixed-project-aid,2014,13089776
-adaptation-fund,Adaptation Fund,non-transfer,2014,0
-adaptation-fund,Adaptation Fund,technical-ooperation,2014,0
-afdb,African Development Bank and Fund,cash-grant,2014,911079
-afdb,African Development Bank and Fund,cash-loan-equity,2014,0
-afdb,African Development Bank and Fund,commodities-food,2014,0
-afdb,African Development Bank and Fund,gpgs-nngos,2014,0
-afdb,African Development Bank and Fund,mixed-project-aid,2014,11962791
-afdb,African Development Bank and Fund,non-transfer,2014,123105264
-afdb,African Development Bank and Fund,technical-ooperation,2014,167787
-afdf,African Development Bank and Fund,cash-grant,2014,709968325
-afdf,African Development Bank and Fund,cash-loan-equity,2014,1250683061
-afdf,African Development Bank and Fund,commodities-food,2014,0
-afdf,African Development Bank and Fund,gpgs-nngos,2014,0
-afdf,African Development Bank and Fund,mixed-project-aid,2014,30365097
-afdf,African Development Bank and Fund,non-transfer,2014,219135
-afdf,African Development Bank and Fund,technical-ooperation,2014,55806
-arab-fund-afesd,Arab Fund,cash-grant,2014,15067757
-arab-fund-afesd,Arab Fund,cash-loan-equity,2014,849436841
-arab-fund-afesd,Arab Fund,commodities-food,2014,0
-arab-fund-afesd,Arab Fund,gpgs-nngos,2014,649291
-arab-fund-afesd,Arab Fund,mixed-project-aid,2014,11399286
-arab-fund-afesd,Arab Fund,non-transfer,2014,0
-arab-fund-afesd,Arab Fund,technical-ooperation,2014,0
-asdb,Asian Development Bank,cash-grant,2014,0
-asdb,Asian Development Bank,cash-loan-equity,2014,0
-asdb,Asian Development Bank,commodities-food,2014,0
-asdb,Asian Development Bank,gpgs-nngos,2014,0
-asdb,Asian Development Bank,mixed-project-aid,2014,0
-asdb,Asian Development Bank,non-transfer,2014,0
-asdb,Asian Development Bank,technical-ooperation,2014,0
-asdb-special-funds,Asian Development Bank,cash-grant,2014,394381779
-asdb-special-funds,Asian Development Bank,cash-loan-equity,2014,2204395987
-asdb-special-funds,Asian Development Bank,commodities-food,2014,0
-asdb-special-funds,Asian Development Bank,gpgs-nngos,2014,0
-asdb-special-funds,Asian Development Bank,mixed-project-aid,2014,36254394
-asdb-special-funds,Asian Development Bank,non-transfer,2014,6063385
-asdb-special-funds,Asian Development Bank,technical-ooperation,2014,130117224
-badea,Arab Bank for Economic Development in Africa,cash-grant,2014,0
-badea,Arab Bank for Economic Development in Africa,cash-loan-equity,2014,118159139
-badea,Arab Bank for Economic Development in Africa,commodities-food,2014,0
-badea,Arab Bank for Economic Development in Africa,gpgs-nngos,2014,0
-badea,Arab Bank for Economic Development in Africa,mixed-project-aid,2014,0
-badea,Arab Bank for Economic Development in Africa,non-transfer,2014,0
-badea,Arab Bank for Economic Development in Africa,technical-ooperation,2014,6640531
-cardb,Caribbean Development Bank,cash-grant,2014,0
-cardb,Caribbean Development Bank,cash-loan-equity,2014,0
-cardb,Caribbean Development Bank,commodities-food,2014,0
-cardb,Caribbean Development Bank,gpgs-nngos,2014,0
-cardb,Caribbean Development Bank,mixed-project-aid,2014,0
-cardb,Caribbean Development Bank,non-transfer,2014,0
-cardb,Caribbean Development Bank,technical-ooperation,2014,0
-ceb,Council of Europe Development Bank,cash-grant,2014,0
-ceb,Council of Europe Development Bank,cash-loan-equity,2014,76184471
-ceb,Council of Europe Development Bank,commodities-food,2014,0
-ceb,Council of Europe Development Bank,gpgs-nngos,2014,0
-ceb,Council of Europe Development Bank,mixed-project-aid,2014,105143
-ceb,Council of Europe Development Bank,non-transfer,2014,0
-ceb,Council of Europe Development Bank,technical-ooperation,2014,165324
-cif,Climate Investment Funds,cash-grant,2014,2852548
-cif,Climate Investment Funds,cash-loan-equity,2014,323342153
-cif,Climate Investment Funds,commodities-food,2014,0
-cif,Climate Investment Funds,gpgs-nngos,2014,0
-cif,Climate Investment Funds,mixed-project-aid,2014,13660832
-cif,Climate Investment Funds,non-transfer,2014,0
-cif,Climate Investment Funds,technical-ooperation,2014,7063382
-dac-countries-total,,cash-grant,2014,19955084203
-dac-countries-total,,cash-loan-equity,2014,19249310933
-dac-countries-total,,commodities-food,2014,4500988270
-dac-countries-total,,gpgs-nngos,2014,8566171549
-dac-countries-total,,mixed-project-aid,2014,22736701840
-dac-countries-total,,non-transfer,2014,18082517425
-dac-countries-total,,technical-ooperation,2014,15786853033
-ebrd,European Bank for Reconstruction and Development,cash-grant,2014,0
-ebrd,European Bank for Reconstruction and Development,cash-loan-equity,2014,0
-ebrd,European Bank for Reconstruction and Development,commodities-food,2014,0
-ebrd,European Bank for Reconstruction and Development,gpgs-nngos,2014,0
-ebrd,European Bank for Reconstruction and Development,mixed-project-aid,2014,0
-ebrd,European Bank for Reconstruction and Development,non-transfer,2014,0
-ebrd,European Bank for Reconstruction and Development,technical-ooperation,2014,0
-EU,EU Institutions,cash-grant,2014,7375253918
-EU,EU Institutions,cash-loan-equity,2014,4799280670
-EU,EU Institutions,commodities-food,2014,387222882
-EU,EU Institutions,gpgs-nngos,2014,183730263
-EU,EU Institutions,mixed-project-aid,2014,2206991603
-EU,EU Institutions,non-transfer,2014,980857684
-EU,EU Institutions,technical-ooperation,2014,1563638264
-fao,Food and Agriculture Organisation,cash-grant,2014,0
-fao,Food and Agriculture Organisation,cash-loan-equity,2014,0
-fao,Food and Agriculture Organisation,commodities-food,2014,0
-fao,Food and Agriculture Organisation,gpgs-nngos,2014,0
-fao,Food and Agriculture Organisation,mixed-project-aid,2014,0
-fao,Food and Agriculture Organisation,non-transfer,2014,0
-fao,Food and Agriculture Organisation,technical-ooperation,2014,0
-gavi,Global Alliance for Vaccines and Immunization,cash-grant,2014,152896531
-gavi,Global Alliance for Vaccines and Immunization,cash-loan-equity,2014,0
-gavi,Global Alliance for Vaccines and Immunization,commodities-food,2014,1137379455
-gavi,Global Alliance for Vaccines and Immunization,gpgs-nngos,2014,0
-gavi,Global Alliance for Vaccines and Immunization,mixed-project-aid,2014,15023840
-gavi,Global Alliance for Vaccines and Immunization,non-transfer,2014,96096550
-gavi,Global Alliance for Vaccines and Immunization,technical-ooperation,2014,0
-gef,Global Environment Facility,cash-grant,2014,14204279
-gef,Global Environment Facility,cash-loan-equity,2014,1874338
-gef,Global Environment Facility,commodities-food,2014,0
-gef,Global Environment Facility,gpgs-nngos,2014,0
-gef,Global Environment Facility,mixed-project-aid,2014,569629367
-gef,Global Environment Facility,non-transfer,2014,0
-gef,Global Environment Facility,technical-ooperation,2014,14245607
-gggi,Global Green Growth Institute,cash-grant,2014,7225854
-gggi,Global Green Growth Institute,cash-loan-equity,2014,0
-gggi,Global Green Growth Institute,commodities-food,2014,0
-gggi,Global Green Growth Institute,gpgs-nngos,2014,948097
-gggi,Global Green Growth Institute,mixed-project-aid,2014,7204488
-gggi,Global Green Growth Institute,non-transfer,2014,0
-gggi,Global Green Growth Institute,technical-ooperation,2014,0
-global-fund,Global Fund,cash-grant,2014,1064052441
-global-fund,Global Fund,cash-loan-equity,2014,0
-global-fund,Global Fund,commodities-food,2014,0
-global-fund,Global Fund,gpgs-nngos,2014,194707
-global-fund,Global Fund,mixed-project-aid,2014,1603894473
-global-fund,Global Fund,non-transfer,2014,0
-global-fund,Global Fund,technical-ooperation,2014,191790041
-iaea,International Atomic Energy Agency,cash-grant,2014,0
-iaea,International Atomic Energy Agency,cash-loan-equity,2014,0
-iaea,International Atomic Energy Agency,commodities-food,2014,0
-iaea,International Atomic Energy Agency,gpgs-nngos,2014,0
-iaea,International Atomic Energy Agency,mixed-project-aid,2014,0
-iaea,International Atomic Energy Agency,non-transfer,2014,0
-iaea,International Atomic Energy Agency,technical-ooperation,2014,0
-ibrd,World Bank Group,cash-grant,2014,0
-ibrd,World Bank Group,cash-loan-equity,2014,0
-ibrd,World Bank Group,commodities-food,2014,0
-ibrd,World Bank Group,gpgs-nngos,2014,0
-ibrd,World Bank Group,mixed-project-aid,2014,0
-ibrd,World Bank Group,non-transfer,2014,0
-ibrd,World Bank Group,technical-ooperation,2014,0
-ida,World Bank Group,cash-grant,2014,1906110279
-ida,World Bank Group,cash-loan-equity,2014,11502319683
-ida,World Bank Group,commodities-food,2014,5085915
-ida,World Bank Group,gpgs-nngos,2014,0
-ida,World Bank Group,mixed-project-aid,2014,147784665
-ida,World Bank Group,non-transfer,2014,9595674
-ida,World Bank Group,technical-ooperation,2014,58690833
-idb,Inter-American Development Bank,cash-grant,2014,0
-idb,Inter-American Development Bank,cash-loan-equity,2014,0
-idb,Inter-American Development Bank,commodities-food,2014,0
-idb,Inter-American Development Bank,gpgs-nngos,2014,0
-idb,Inter-American Development Bank,mixed-project-aid,2014,0
-idb,Inter-American Development Bank,non-transfer,2014,0
-idb,Inter-American Development Bank,technical-ooperation,2014,0
-idb-special-fund,Inter-American Development Bank,cash-grant,2014,204097551
-idb-special-fund,Inter-American Development Bank,cash-loan-equity,2014,869928270
-idb-special-fund,Inter-American Development Bank,commodities-food,2014,0
-idb-special-fund,Inter-American Development Bank,gpgs-nngos,2014,0
-idb-special-fund,Inter-American Development Bank,mixed-project-aid,2014,4195666
-idb-special-fund,Inter-American Development Bank,non-transfer,2014,680524867
-idb-special-fund,Inter-American Development Bank,technical-ooperation,2014,161377871
-ifad,International Fund for Agricultural Development,cash-grant,2014,0
-ifad,International Fund for Agricultural Development,cash-loan-equity,2014,0
-ifad,International Fund for Agricultural Development,commodities-food,2014,0
-ifad,International Fund for Agricultural Development,gpgs-nngos,2014,0
-ifad,International Fund for Agricultural Development,mixed-project-aid,2014,0
-ifad,International Fund for Agricultural Development,non-transfer,2014,0
-ifad,International Fund for Agricultural Development,technical-ooperation,2014,0
-ifc,World Bank Group,cash-grant,2014,0
-ifc,World Bank Group,cash-loan-equity,2014,0
-ifc,World Bank Group,commodities-food,2014,0
-ifc,World Bank Group,gpgs-nngos,2014,0
-ifc,World Bank Group,mixed-project-aid,2014,0
-ifc,World Bank Group,non-transfer,2014,0
-ifc,World Bank Group,technical-ooperation,2014,0
-imf,International Monetary Fund,cash-grant,2014,0
-imf,International Monetary Fund,cash-loan-equity,2014,0
-imf,International Monetary Fund,commodities-food,2014,0
-imf,International Monetary Fund,gpgs-nngos,2014,0
-imf,International Monetary Fund,mixed-project-aid,2014,0
-imf,International Monetary Fund,non-transfer,2014,0
-imf,International Monetary Fund,technical-ooperation,2014,0
-imf-concessional-trust-funds,International Monetary Fund,cash-grant,2014,0
-imf-concessional-trust-funds,International Monetary Fund,cash-loan-equity,2014,824239425
-imf-concessional-trust-funds,International Monetary Fund,commodities-food,2014,0
-imf-concessional-trust-funds,International Monetary Fund,gpgs-nngos,2014,0
-imf-concessional-trust-funds,International Monetary Fund,mixed-project-aid,2014,0
-imf-concessional-trust-funds,International Monetary Fund,non-transfer,2014,0
-imf-concessional-trust-funds,International Monetary Fund,technical-ooperation,2014,0
-international-labour-organisation,International Labour Organisation,cash-grant,2014,0
-international-labour-organisation,International Labour Organisation,cash-loan-equity,2014,0
-international-labour-organisation,International Labour Organisation,commodities-food,2014,0
-international-labour-organisation,International Labour Organisation,gpgs-nngos,2014,0
-international-labour-organisation,International Labour Organisation,mixed-project-aid,2014,0
-international-labour-organisation,International Labour Organisation,non-transfer,2014,0
-international-labour-organisation,International Labour Organisation,technical-ooperation,2014,0
-islamic-dev-bank,Islamic Development Bank,cash-grant,2014,0
-islamic-dev-bank,Islamic Development Bank,cash-loan-equity,2014,243584836
-islamic-dev-bank,Islamic Development Bank,commodities-food,2014,0
-islamic-dev-bank,Islamic Development Bank,gpgs-nngos,2014,0
-islamic-dev-bank,Islamic Development Bank,mixed-project-aid,2014,0
-islamic-dev-bank,Islamic Development Bank,non-transfer,2014,0
-islamic-dev-bank,Islamic Development Bank,technical-ooperation,2014,0
-montreal-protocol,Montreal Protocol,cash-grant,2014,0
-montreal-protocol,Montreal Protocol,cash-loan-equity,2014,0
-montreal-protocol,Montreal Protocol,commodities-food,2014,0
-montreal-protocol,Montreal Protocol,gpgs-nngos,2014,0
-montreal-protocol,Montreal Protocol,mixed-project-aid,2014,0
-montreal-protocol,Montreal Protocol,non-transfer,2014,0
-montreal-protocol,Montreal Protocol,technical-ooperation,2014,0
-nordic-dev-fund,Nordic Development Fund,cash-grant,2014,3285707
-nordic-dev-fund,Nordic Development Fund,cash-loan-equity,2014,8138354
-nordic-dev-fund,Nordic Development Fund,commodities-food,2014,0
-nordic-dev-fund,Nordic Development Fund,gpgs-nngos,2014,0
-nordic-dev-fund,Nordic Development Fund,mixed-project-aid,2014,36795152
-nordic-dev-fund,Nordic Development Fund,non-transfer,2014,913856
-nordic-dev-fund,Nordic Development Fund,technical-ooperation,2014,0
-ofid,OPEC Fund for International Development,cash-grant,2014,5208024
-ofid,OPEC Fund for International Development,cash-loan-equity,2014,419245939
-ofid,OPEC Fund for International Development,commodities-food,2014,1634448
-ofid,OPEC Fund for International Development,gpgs-nngos,2014,21744
-ofid,OPEC Fund for International Development,mixed-project-aid,2014,17215431
-ofid,OPEC Fund for International Development,non-transfer,2014,11671348
-ofid,OPEC Fund for International Development,technical-ooperation,2014,925680
-osce,Organization for Security and Co-operation in Europe,cash-grant,2014,11242376
-osce,Organization for Security and Co-operation in Europe,cash-loan-equity,2014,0
-osce,Organization for Security and Co-operation in Europe,commodities-food,2014,0
-osce,Organization for Security and Co-operation in Europe,gpgs-nngos,2014,0
-osce,Organization for Security and Co-operation in Europe,mixed-project-aid,2014,118036684
-osce,Organization for Security and Co-operation in Europe,non-transfer,2014,0
-osce,Organization for Security and Co-operation in Europe,technical-ooperation,2014,0
-un-agencies,UN Agencies,cash-grant,2014,0
-un-agencies,UN Agencies,cash-loan-equity,2014,0
-un-agencies,UN Agencies,commodities-food,2014,0
-un-agencies,UN Agencies,gpgs-nngos,2014,0
-un-agencies,UN Agencies,mixed-project-aid,2014,0
-un-agencies,UN Agencies,non-transfer,2014,0
-un-agencies,UN Agencies,technical-ooperation,2014,0
-unaids,The Joint United Nations Programme on HIV/AIDS,cash-grant,2014,14038435
-unaids,The Joint United Nations Programme on HIV/AIDS,cash-loan-equity,2014,0
-unaids,The Joint United Nations Programme on HIV/AIDS,commodities-food,2014,18028461
-unaids,The Joint United Nations Programme on HIV/AIDS,gpgs-nngos,2014,0
-unaids,The Joint United Nations Programme on HIV/AIDS,mixed-project-aid,2014,204355586
-unaids,The Joint United Nations Programme on HIV/AIDS,non-transfer,2014,0
-unaids,The Joint United Nations Programme on HIV/AIDS,technical-ooperation,2014,0
-undp,United Nations Development Programme,cash-grant,2014,14564254
-undp,United Nations Development Programme,cash-loan-equity,2014,0
-undp,United Nations Development Programme,commodities-food,2014,155778
-undp,United Nations Development Programme,gpgs-nngos,2014,310509
-undp,United Nations Development Programme,mixed-project-aid,2014,435724959
-undp,United Nations Development Programme,non-transfer,2014,932385
-undp,United Nations Development Programme,technical-ooperation,2014,6916822
-unece,United Nations Economic Commission for Europe,cash-grant,2014,2262562
-unece,United Nations Economic Commission for Europe,cash-loan-equity,2014,0
-unece,United Nations Economic Commission for Europe,commodities-food,2014,0
-unece,United Nations Economic Commission for Europe,gpgs-nngos,2014,0
-unece,United Nations Economic Commission for Europe,mixed-project-aid,2014,11606353
-unece,United Nations Economic Commission for Europe,non-transfer,2014,0
-unece,United Nations Economic Commission for Europe,technical-ooperation,2014,7070
-unep,United Nations Environment Programme,cash-grant,2014,0
-unep,United Nations Environment Programme,cash-loan-equity,2014,0
-unep,United Nations Environment Programme,commodities-food,2014,0
-unep,United Nations Environment Programme,gpgs-nngos,2014,0
-unep,United Nations Environment Programme,mixed-project-aid,2014,0
-unep,United Nations Environment Programme,non-transfer,2014,0
-unep,United Nations Environment Programme,technical-ooperation,2014,0
-unfpa,United Nations Population Fund,cash-grant,2014,130824
-unfpa,United Nations Population Fund,cash-loan-equity,2014,0
-unfpa,United Nations Population Fund,commodities-food,2014,0
-unfpa,United Nations Population Fund,gpgs-nngos,2014,0
-unfpa,United Nations Population Fund,mixed-project-aid,2014,336671325
-unfpa,United Nations Population Fund,non-transfer,2014,0
-unfpa,United Nations Population Fund,technical-ooperation,2014,0
-unhcr,United Nations High Commissioner for Refugees,cash-grant,2014,0
-unhcr,United Nations High Commissioner for Refugees,cash-loan-equity,2014,0
-unhcr,United Nations High Commissioner for Refugees,commodities-food,2014,0
-unhcr,United Nations High Commissioner for Refugees,gpgs-nngos,2014,0
-unhcr,United Nations High Commissioner for Refugees,mixed-project-aid,2014,339803897
-unhcr,United Nations High Commissioner for Refugees,non-transfer,2014,135753319
-unhcr,United Nations High Commissioner for Refugees,technical-ooperation,2014,0
-unicef,United Nations Children's Fund,cash-grant,2014,4926064
-unicef,United Nations Children's Fund,cash-loan-equity,2014,0
-unicef,United Nations Children's Fund,commodities-food,2014,7163561
-unicef,United Nations Children's Fund,gpgs-nngos,2014,759338
-unicef,United Nations Children's Fund,mixed-project-aid,2014,1005592463
-unicef,United Nations Children's Fund,non-transfer,2014,306188643
-unicef,United Nations Children's Fund,technical-ooperation,2014,5117162
-unpbf,United Nations Peacebuilding Fund,cash-grant,2014,6048
-unpbf,United Nations Peacebuilding Fund,cash-loan-equity,2014,0
-unpbf,United Nations Peacebuilding Fund,commodities-food,2014,0
-unpbf,United Nations Peacebuilding Fund,gpgs-nngos,2014,0
-unpbf,United Nations Peacebuilding Fund,mixed-project-aid,2014,62716832
-unpbf,United Nations Peacebuilding Fund,non-transfer,2014,0
-unpbf,United Nations Peacebuilding Fund,technical-ooperation,2014,1675276
-unrwa,United Nations Relief and Works Agency for Palestine Refugees in the Near East,cash-grant,2014,0
-unrwa,United Nations Relief and Works Agency for Palestine Refugees in the Near East,cash-loan-equity,2014,0
-unrwa,United Nations Relief and Works Agency for Palestine Refugees in the Near East,commodities-food,2014,0
-unrwa,United Nations Relief and Works Agency for Palestine Refugees in the Near East,gpgs-nngos,2014,0
-unrwa,United Nations Relief and Works Agency for Palestine Refugees in the Near East,mixed-project-aid,2014,532209811
-unrwa,United Nations Relief and Works Agency for Palestine Refugees in the Near East,non-transfer,2014,141480714
-unrwa,United Nations Relief and Works Agency for Palestine Refugees in the Near East,technical-ooperation,2014,0
-unta,United Nations Transitional Authorities,cash-grant,2014,0
-unta,United Nations Transitional Authorities,cash-loan-equity,2014,0
-unta,United Nations Transitional Authorities,commodities-food,2014,0
-unta,United Nations Transitional Authorities,gpgs-nngos,2014,0
-unta,United Nations Transitional Authorities,mixed-project-aid,2014,0
-unta,United Nations Transitional Authorities,non-transfer,2014,0
-unta,United Nations Transitional Authorities,technical-ooperation,2014,0
-wfp,World Food Programme,cash-grant,2014,0
-wfp,World Food Programme,cash-loan-equity,2014,0
-wfp,World Food Programme,commodities-food,2014,187255643
-wfp,World Food Programme,gpgs-nngos,2014,0
-wfp,World Food Programme,mixed-project-aid,2014,118427699
-wfp,World Food Programme,non-transfer,2014,0
-wfp,World Food Programme,technical-ooperation,2014,218610
-who,World Health Organisation,cash-grant,2014,0
-who,World Health Organisation,cash-loan-equity,2014,0
-who,World Health Organisation,commodities-food,2014,10631966
-who,World Health Organisation,gpgs-nngos,2014,0
-who,World Health Organisation,mixed-project-aid,2014,456288402
-who,World Health Organisation,non-transfer,2014,0
-who,World Health Organisation,technical-ooperation,2014,0
+id,parent,oda-oof-flow,aid-type,year,value
+adaptation-fund,Adaptation Fund,oda,oda-grants,2014,13085492.71
+afdb,African Development Bank and Fund,oda,oda-grants,2014,136144596.39
+afdb,African Development Bank and Fund,oof,oof-long-term-loans,2014,3016230834.42
+afdf,African Development Bank and Fund,oda,oda-grants,2014,740603226.79
+afdf,African Development Bank and Fund,oda,oda-gross-loans,2014,1250679893.11
+arab-fund-afesd,Arab Fund,oda,oda-grants,2014,27112031.45
+arab-fund-afesd,Arab Fund,oda,oda-gross-loans,2014,849437676.77
+asdb,Asian Development Bank,oof,oof-long-term-loans,2014,7528833822.14
+asdb-special-funds,Asian Development Bank,oda,oda-grants,2014,566816789.14
+asdb-special-funds,Asian Development Bank,oda,oda-gross-loans,2014,2204395375.91
+badea,Arab Bank for Economic Development in Africa,oda,oda-grants,2014,6636850.96
+badea,Arab Bank for Economic Development in Africa,oda,oda-gross-loans,2014,118155758.57
+cardb,Caribbean Development Bank,oda,oda-grants,2014,61098651.81
+cardb,Caribbean Development Bank,oda,oda-gross-loans,2014,51034412.15
+cardb,Caribbean Development Bank,oof,oof-long-term-loans,2014,48052782.09
+ceb,Council of Europe Development Bank,oda,oda-grants,2014,267455.19
+ceb,Council of Europe Development Bank,oda,oda-gross-loans,2014,76185105.56
+ceb,Council of Europe Development Bank,oof,oof-long-term-loans,2014,282690227.86
+cif,Climate Investment Funds,oda,oda-grants,2014,23575679.53
+cif,Climate Investment Funds,oda,oda-gross-loans,2014,323343416.42
+cif,Climate Investment Funds,oof,oof-long-term-loans,2014,55719830.81
+ebrd,European Bank for Reconstruction and Development,oof,oof-long-term-loans,2014,4777898722.63
+EU,EU Institutions,oda,oda-grants,2014,12697697598.92
+EU,EU Institutions,oda,oda-gross-loans,2014,4799280684.57
+EU,EU Institutions,oof,oof-grants,2014,88927365.54
+EU,EU Institutions,oof,oof-long-term-loans,2014,734222028.47
+gavi,Global Alliance for Vaccines and Immunization,oda,oda-grants,2014,1401395844.36
+gef,Global Environment Facility,oda,oda-grants,2014,598079328.88
+gef,Global Environment Facility,oda,oda-gross-loans,2014,1872186.32
+gggi,Global Green Growth Institute,oda,oda-grants,2014,15373720.43
+global-fund,Global Fund,oda,oda-grants,2014,2859928041.46
+iaea,International Atomic Energy Agency,oda,oda-grants,2014,73371873.21
+ibrd,World Bank Group,oof,oof-long-term-loans,2014,15708742723.36
+ida,World Bank Group,oda,oda-grants,2014,2127269224.32
+ida,World Bank Group,oda,oda-gross-loans,2014,11502316491.30
+idb,Inter-American Development Bank,oof,oof-long-term-loans,2014,8706003161.57
+idb-special-fund,Inter-American Development Bank,oda,oda-grants,2014,1050197465.41
+idb-special-fund,Inter-American Development Bank,oda,oda-gross-loans,2014,869932668.76
+ifad,International Fund for Agricultural Development,oda,oda-grants,2014,174083610.08
+ifad,International Fund for Agricultural Development,oda,oda-gross-loans,2014,351505457.13
+ifad,International Fund for Agricultural Development,oof,oof-long-term-loans,2014,91113067.34
+imf-concessional-trust-funds,International Monetary Fund,oda,oda-gross-loans,2014,824237454.62
+islamic-dev-bank,Islamic Development Bank,oda,oda-gross-loans,2014,243582335.94
+islamic-dev-bank,Islamic Development Bank,oof,oof-long-term-loans,2014,1502384942.16
+montreal-protocol,Montreal Protocol,oda,oda-grants,2014,44367843.95
+nordic-dev-fund,Nordic Development Fund,oda,oda-grants,2014,40989983.98
+nordic-dev-fund,Nordic Development Fund,oda,oda-gross-loans,2014,8142524.61
+ofid,OPEC Fund for International Development,oda,oda-grants,2014,36680983.73
+ofid,OPEC Fund for International Development,oda,oda-gross-loans,2014,419250865.65
+ofid,OPEC Fund for International Development,oof,oof-long-term-loans,2014,681545159.00
+osce,Organization for Security and Co-operation in Europe,oda,oda-grants,2014,129279913.23
+unaids,The Joint United Nations Programme on HIV/AIDS,oda,oda-grants,2014,236420480.36
+undp,United Nations Development Programme,oda,oda-grants,2014,458606401.27
+unece,United Nations Economic Commission for Europe,oda,oda-grants,2014,13877952.53
+unfpa,United Nations Population Fund,oda,oda-grants,2014,336805327.55
+unhcr,United Nations High Commissioner for Refugees,oda,oda-grants,2014,475555135.58
+unicef,United Nations Children's Fund,oda,oda-grants,2014,1329747571.25
+unpbf,United Nations Peacebuilding Fund,oda,oda-grants,2014,64397265.80
+unrwa,United Nations Relief and Works Agency for Palestine Refugees in the Near East,oda,oda-grants,2014,673689901.08
+wfp,World Food Programme,oda,oda-grants,2014,305899394.72
+who,World Health Organisation,oda,oda-grants,2014,466917323.59

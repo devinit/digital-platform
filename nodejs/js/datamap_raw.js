@@ -193,7 +193,7 @@ exports.csv=
 // might be a better idea to keep all of these in -> country-year/warehouse/multilateral_profile/***
 // Noted Thanks
  "country-year/warehouse/multilateral_profile/oda_oof_trend.csv" : "multilateral_profile.\"oda_oof_trend_2012\"",
- "country-year/warehouse/multilateral_profile/oda_oof_flow_type.csv" : "multilateral_profile.\"bundle_2012\"",
+ "country-year/warehouse/multilateral_profile/oda_oof_flow_type.csv" : "multilateral_profile.\"oda_oof_flow_type_2012\"",
  "country-year/warehouse/multilateral_profile/bundle.csv" : "multilateral_profile.\"bundle_2012\"",
  "country-year/warehouse/multilateral_profile/oda_regional.csv" : "multilateral_profile.\"oda_regional\"",
  "country-year/warehouse/multilateral_profile/core_earmarked_oda_received.csv" : "multilateral_profile.\"core_earmarked_oda_received_2012\"",
