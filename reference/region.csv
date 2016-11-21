@@ -1,7 +1,7 @@
 id,name,dac-continent-code,dac-continent,dac-id,color-id
-afica,Africa,,,,,
-america,America,,,,,
-asia,Asia,,,,,
+afica,Africa,,,,
+america,America,,,,
+asia,Asia,,,,
 europe,Europe,89,Europe,89,blue-high
 north-of-sahara,North Africa,298,Africa,189,yellow-high
 south-of-sahara,Sub-Saharan Africa,298,Africa,289,red-high
