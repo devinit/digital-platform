@@ -3,12 +3,12 @@ afica,Africa,,,,
 america,America,,,,
 asia,Asia,,,,
 europe,Europe,89,Europe,89,blue-high
-north-of-sahara,North Africa,298,Africa,189,yellow-high
-south-of-sahara,Sub-Saharan Africa,298,Africa,289,red-high
-north-central-america,North & Central America,498,America,389,lightblue-high
-south-america,South America,498,America,489,purple-high
-middle-east,Middle East,798,Asia,589,black-high
-south-central-asia,South & Central Asia,798,Asia,689,lightblue-mid
 far-east-asia,Far East Asia,798,Asia,789,orange-high
+middle-east,Middle East,798,Asia,589,black-high
+north-central-america,North & Central America,498,America,389,lightblue-high
+north-of-sahara,North Africa,298,Africa,189,yellow-high
 oceania,Oceania,889,Oceania,889,white-high
+south-america,South America,498,America,489,purple-high
+south-central-asia,South & Central Asia,798,Asia,689,lightblue-mid
+south-of-sahara,Sub-Saharan Africa,298,Africa,289,red-high
 unspecified,Unspecified,998,Unspecified,998,grey-mid
