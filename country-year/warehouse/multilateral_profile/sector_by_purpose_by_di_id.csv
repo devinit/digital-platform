@@ -1,0 +1,432 @@
+id,year,sector,sector-rank,sector-value,purpose-code,purpose-name,purpose-rank,purpose-value
+adaptation-fund,2014,environment,1,8678284.90,41050,Flood prevention/control,2,901589.46
+adaptation-fund,2014,environment,1,8678284.90,41010,Environmental policy and admin. mgmt,1,7776695.44
+adaptation-fund,2014,other,2,3146352.74,43040,Rural development,1,3146352.74
+adaptation-fund,2014,water-and-sanitation,3,1265139.31,14015,Water resources protection,1,1265139.31
+afdb,2014,agriculture-and-food-security,3,2397278.41,31161,Food crop production,3,277666.03
+afdb,2014,agriculture-and-food-security,3,2397278.41,31140,Agricultural water resources,1,1437011.27
+afdb,2014,agriculture-and-food-security,3,2397278.41,31110,Agricultural policy & administrative management,2,509356.52
+afdb,2014,agriculture-and-food-security,3,2397278.41,31182,Agricultural research,4,173244.59
+afdb,2014,debt-relief,1,123105264.46,60020,Debt forgiveness,1,123105264.46
+afdb,2014,governance-and-security,5,1403871.89,15110,Public sector policy and administrative management,1,1403871.89
+afdb,2014,other,4,1859240.89,43010,Multisector aid,1,1859240.89
+afdb,2014,water-and-sanitation,2,2859446.33,14040,River basins development,3,215930.43
+afdb,2014,water-and-sanitation,2,2859446.33,14022,Sanitation - large systems,2,376151.69
+afdb,2014,water-and-sanitation,2,2859446.33,14010,Water resources policy/administrative management,1,2267364.21
+afdf,2014,agriculture-and-food-security,5,168246170.41,0,Other,6,38211013.14
+afdf,2014,agriculture-and-food-security,5,168246170.41,31182,Agricultural research,4,15177982.86
+afdf,2014,agriculture-and-food-security,5,168246170.41,31191,Agricultural services,3,19285034.63
+afdf,2014,agriculture-and-food-security,5,168246170.41,31140,Agricultural water resources,2,23607744.43
+afdf,2014,agriculture-and-food-security,5,168246170.41,31110,Agricultural policy & administrative management,1,61252041.45
+afdf,2014,agriculture-and-food-security,5,168246170.41,31163,Livestock,5,10712353.91
+afdf,2014,general-budget-support,3,213797807.06,51010,General budget support-related aid,1,213797807.06
+afdf,2014,infrastructure,1,840068766.11,23260,Geothermal energy,3,29727049.79
+afdf,2014,infrastructure,1,840068766.11,21020,Road transport,1,612187211.94
+afdf,2014,infrastructure,1,840068766.11,23630,Electric power transmission and distribution,2,156114221.99
+afdf,2014,infrastructure,1,840068766.11,21050,Air transport,4,29227481.14
+afdf,2014,infrastructure,1,840068766.11,23110,Energy policy and administrative management,5,8766846.25
+afdf,2014,infrastructure,1,840068766.11,0,Other,6,4045955.00
+afdf,2014,other,4,193449045.20,43040,Rural development,2,42794824.59
+afdf,2014,other,4,193449045.20,43010,Multisector aid,1,150654220.62
+afdf,2014,water-and-sanitation,2,263653012.66,14040,River basins development,3,2214746.88
+afdf,2014,water-and-sanitation,2,263653012.66,14022,Sanitation - large systems,2,16382739.50
+afdf,2014,water-and-sanitation,2,263653012.66,14010,Water resources policy/administrative management,1,245055526.27
+arab-fund-afesd,2014,agriculture-and-food-security,2,143537949.30,31110,Agricultural policy & administrative management,2,25795140.55
+arab-fund-afesd,2014,agriculture-and-food-security,2,143537949.30,31163,Livestock,3,733373.02
+arab-fund-afesd,2014,agriculture-and-food-security,2,143537949.30,31140,Agricultural water resources,1,117009435.72
+arab-fund-afesd,2014,environment,5,7159945.36,41010,Environmental policy and admin. mgmt,2,52135.54
+arab-fund-afesd,2014,environment,5,7159945.36,41050,Flood prevention/control,1,7107809.83
+arab-fund-afesd,2014,infrastructure,1,549764168.14,0,Other,6,14343870.76
+arab-fund-afesd,2014,infrastructure,1,549764168.14,21040,Water transport,4,26842813.04
+arab-fund-afesd,2014,infrastructure,1,549764168.14,21050,Air transport,3,41969056.96
+arab-fund-afesd,2014,infrastructure,1,549764168.14,21020,Road transport,2,105888938.03
+arab-fund-afesd,2014,infrastructure,1,549764168.14,23310,"Energy generation, non-renewable sources, unspecified",1,349749393.92
+arab-fund-afesd,2014,infrastructure,1,549764168.14,23630,Electric power transmission and distribution,5,10970095.43
+arab-fund-afesd,2014,other-social-services,4,50607196.07,16010,Social/welfare services,1,49921521.21
+arab-fund-afesd,2014,other-social-services,4,50607196.07,16061,Culture and recreation,2,685674.87
+arab-fund-afesd,2014,water-and-sanitation,3,108400071.35,14020,Water supply and sanitation - large systems,1,102178568.10
+arab-fund-afesd,2014,water-and-sanitation,3,108400071.35,14010,Water resources policy/administrative management,2,6221503.26
+asdb-special-funds,2014,agriculture-and-food-security,5,208101091.90,31130,Agricultural land resources,4,9061146.70
+asdb-special-funds,2014,agriculture-and-food-security,5,208101091.90,31191,Agricultural services,5,4800311.05
+asdb-special-funds,2014,agriculture-and-food-security,5,208101091.90,0,Other,6,7167181.51
+asdb-special-funds,2014,agriculture-and-food-security,5,208101091.90,31140,Agricultural water resources,1,117200755.90
+asdb-special-funds,2014,agriculture-and-food-security,5,208101091.90,31110,Agricultural policy & administrative management,2,52257097.71
+asdb-special-funds,2014,agriculture-and-food-security,5,208101091.90,31161,Food crop production,3,17614599.03
+asdb-special-funds,2014,banking-and-business,3,292884392.96,24040,Informal/semi-formal financial intermediaries,2,82819750.87
+asdb-special-funds,2014,banking-and-business,3,292884392.96,24020,Monetary institutions,4,1374014.51
+asdb-special-funds,2014,banking-and-business,3,292884392.96,24010,Financial policy & administrative management,3,39209563.80
+asdb-special-funds,2014,banking-and-business,3,292884392.96,24030,Formal sector financial intermediaries,1,169481063.78
+asdb-special-funds,2014,education,4,220687013.24,0,Other,6,5068736.50
+asdb-special-funds,2014,education,4,220687013.24,11110,Education policy & administrative management,1,80337212.36
+asdb-special-funds,2014,education,4,220687013.24,11330,Vocational training,2,55928301.01
+asdb-special-funds,2014,education,4,220687013.24,11320,Secondary education,3,42589233.36
+asdb-special-funds,2014,education,4,220687013.24,11420,Higher education,4,21377775.17
+asdb-special-funds,2014,education,4,220687013.24,11220,Primary education,5,15385754.84
+asdb-special-funds,2014,infrastructure,1,1204657933.53,23220,Hydro-electric power plants,5,50399401.47
+asdb-special-funds,2014,infrastructure,1,1204657933.53,21010,Transport policy & administrative management,4,62247681.47
+asdb-special-funds,2014,infrastructure,1,1204657933.53,23630,Electric power transmission and distribution,3,120657704.52
+asdb-special-funds,2014,infrastructure,1,1204657933.53,23110,Energy policy and administrative management,2,420369348.90
+asdb-special-funds,2014,infrastructure,1,1204657933.53,21020,Road transport,1,467752314.21
+asdb-special-funds,2014,infrastructure,1,1204657933.53,0,Other,6,83231482.95
+asdb-special-funds,2014,water-and-sanitation,2,327657047.55,14015,Water resources protection,3,29458138.95
+asdb-special-funds,2014,water-and-sanitation,2,327657047.55,14031,Basic drinking water supply,1,189631769.66
+asdb-special-funds,2014,water-and-sanitation,2,327657047.55,14022,Sanitation - large systems,2,74371925.66
+asdb-special-funds,2014,water-and-sanitation,2,327657047.55,14050,Waste management/disposal,4,12529450.33
+asdb-special-funds,2014,water-and-sanitation,2,327657047.55,14010,Water resources policy/administrative management,5,12271488.00
+asdb-special-funds,2014,water-and-sanitation,2,327657047.55,0,Other,6,9394274.93
+badea,2014,agriculture-and-food-security,4,9563980.39,0,Other,6,316311.33
+badea,2014,agriculture-and-food-security,4,9563980.39,31110,Agricultural policy & administrative management,1,4434596.61
+badea,2014,agriculture-and-food-security,4,9563980.39,31140,Agricultural water resources,2,2451860.76
+badea,2014,agriculture-and-food-security,4,9563980.39,31120,Agricultural development,3,968209.97
+badea,2014,agriculture-and-food-security,4,9563980.39,31161,Food crop production,4,696614.77
+badea,2014,agriculture-and-food-security,4,9563980.39,31320,Fishery development,5,696386.94
+badea,2014,education,5,5266185.62,11220,Primary education,5,101898.45
+badea,2014,education,5,5266185.62,11320,Secondary education,4,534714.14
+badea,2014,education,5,5266185.62,11420,Higher education,3,1315803.25
+badea,2014,education,5,5266185.62,11430,Advanced technical & managerial training,2,1472602.32
+badea,2014,education,5,5266185.62,11120,Education facilities and training,1,1841167.46
+badea,2014,infrastructure,1,55210753.18,21010,Transport policy & administrative management,2,13576921.11
+badea,2014,infrastructure,1,55210753.18,21020,Road transport,1,33680210.16
+badea,2014,infrastructure,1,55210753.18,23630,Electric power transmission and distribution,3,3808785.35
+badea,2014,infrastructure,1,55210753.18,21040,Water transport,4,3119970.46
+badea,2014,infrastructure,1,55210753.18,23220,Hydro-electric power plants,5,673342.21
+badea,2014,infrastructure,1,55210753.18,0,Other,6,351523.88
+badea,2014,other,3,16858843.62,99810,Sectors not specified,3,339240.66
+badea,2014,other,3,16858843.62,43040,Rural development,2,6276608.34
+badea,2014,other,3,16858843.62,43030,Urban development and management,4,83029.98
+badea,2014,other,3,16858843.62,43010,Multisector aid,1,10105465.70
+badea,2014,other,3,16858843.62,43081,Multisector education/training,5,54498.95
+badea,2014,water-and-sanitation,2,20058255.60,0,Other,6,2960829.47
+badea,2014,water-and-sanitation,2,20058255.60,14030,Basic drinking water supply and basic sanitation,1,4343350.41
+badea,2014,water-and-sanitation,2,20058255.60,14021,Water supply - large systems,5,2508828.92
+badea,2014,water-and-sanitation,2,20058255.60,14020,Water supply and sanitation - large systems,4,2558439.08
+badea,2014,water-and-sanitation,2,20058255.60,14031,Basic drinking water supply,3,3408680.71
+badea,2014,water-and-sanitation,2,20058255.60,14022,Sanitation - large systems,2,4278127.01
+ceb,2014,governance-and-security,2,11836119.98,15130,Legal and judicial development,1,11730977.40
+ceb,2014,governance-and-security,2,11836119.98,15250,Removal of land mines and explosive remnants of war,2,105142.58
+ceb,2014,health,3,8017127.75,12220,Basic health care,1,8017127.75
+ceb,2014,humanitarian,1,52571387.96,74010,Disaster prevention and preparedness,1,52571387.96
+ceb,2014,other-social-services,4,4030302.04,16040,Low-cost housing,1,4030302.04
+cif,2014,agriculture-and-food-security,3,5504653.82,31110,Agricultural policy & administrative management,1,2301893.99
+cif,2014,agriculture-and-food-security,3,5504653.82,31130,Agricultural land resources,3,1162148.66
+cif,2014,agriculture-and-food-security,3,5504653.82,31220,Forestry development,2,1286452.27
+cif,2014,agriculture-and-food-security,3,5504653.82,0,Other,6,254074.58
+cif,2014,agriculture-and-food-security,3,5504653.82,31191,Agricultural services,5,209743.31
+cif,2014,agriculture-and-food-security,3,5504653.82,31161,Food crop production,4,290341.01
+cif,2014,environment,1,233543571.71,41050,Flood prevention/control,2,2732847.79
+cif,2014,environment,1,233543571.71,41010,Environmental policy and admin. mgmt,1,230810723.92
+cif,2014,infrastructure,2,103847833.27,21010,Transport policy & administrative management,4,1193462.31
+cif,2014,infrastructure,2,103847833.27,23230,Solar energy,1,90168479.70
+cif,2014,infrastructure,2,103847833.27,23110,Energy policy and administrative management,2,9123608.98
+cif,2014,infrastructure,2,103847833.27,21020,Road transport,3,1779874.25
+cif,2014,infrastructure,2,103847833.27,23210,"Energy generation, renewable sources - multiple technologies",5,924630.23
+cif,2014,infrastructure,2,103847833.27,0,Other,6,657777.80
+cif,2014,other,5,1242836.23,99810,Sectors not specified,1,840625.82
+cif,2014,other,5,1242836.23,43030,Urban development and management,2,402210.41
+cif,2014,water-and-sanitation,4,1324638.71,0,Other,6,10210.17
+cif,2014,water-and-sanitation,4,1324638.71,14020,Water supply and sanitation - large systems,2,450524.30
+cif,2014,water-and-sanitation,4,1324638.71,14031,Basic drinking water supply,3,112454.04
+cif,2014,water-and-sanitation,4,1324638.71,14022,Sanitation - large systems,4,31807.85
+cif,2014,water-and-sanitation,4,1324638.71,14032,Basic sanitation,5,11195.18
+cif,2014,water-and-sanitation,4,1324638.71,14015,Water resources protection,1,708447.17
+EU,2014,banking-and-business,2,2159592554.92,24030,Formal sector financial intermediaries,1,2068753355.71
+EU,2014,banking-and-business,2,2159592554.92,24010,Financial policy & administrative management,4,3779209.12
+EU,2014,banking-and-business,2,2159592554.92,24081,Education/training in banking & financial services,5,3740248.21
+EU,2014,banking-and-business,2,2159592554.92,0,Other,6,1204963.43
+EU,2014,banking-and-business,2,2159592554.92,24040,Informal/semi-formal financial intermediaries,3,5728895.66
+EU,2014,banking-and-business,2,2159592554.92,25010,Business support services & institutions,2,76385882.80
+EU,2014,governance-and-security,4,2140675816.15,15210,Security system management and reform,3,295129066.89
+EU,2014,governance-and-security,4,2140675816.15,15110,Public sector policy and administrative management,1,379764619.06
+EU,2014,governance-and-security,4,2140675816.15,0,Other,6,650838187.27
+EU,2014,governance-and-security,4,2140675816.15,15150,Democratic participation and civil society,5,211966663.30
+EU,2014,governance-and-security,4,2140675816.15,15220,"Civilian peace-building, conflict prevention and resolution",4,239006344.01
+EU,2014,governance-and-security,4,2140675816.15,15130,Legal and judicial development,2,363970935.63
+EU,2014,humanitarian,3,2154373425.18,72010,Material relief assistance and services ,1,1474026882.13
+EU,2014,humanitarian,3,2154373425.18,72040,Emergency food aid,2,270937418.70
+EU,2014,humanitarian,3,2154373425.18,73010,Reconstruction relief and rehabilitation,3,208828220.42
+EU,2014,humanitarian,3,2154373425.18,74010,Disaster prevention and preparedness,4,139377261.49
+EU,2014,humanitarian,3,2154373425.18,72050,Relief co-ordination; protection and support services,5,61203642.44
+EU,2014,infrastructure,1,3166492262.82,23630,Electric power transmission and distribution,5,194304787.80
+EU,2014,infrastructure,1,3166492262.82,21020,Road transport,1,1316401861.37
+EU,2014,infrastructure,1,3166492262.82,23110,Energy policy and administrative management,2,421871169.59
+EU,2014,infrastructure,1,3166492262.82,23310,"Energy generation, non-renewable sources, unspecified",3,362231199.83
+EU,2014,infrastructure,1,3166492262.82,21030,Rail transport,4,229376600.00
+EU,2014,infrastructure,1,3166492262.82,0,Other,6,642306644.24
+EU,2014,other,5,1939452894.61,43040,Rural development,4,249887014.50
+EU,2014,other,5,1939452894.61,91010,Administrative costs (non-sector allocable),1,771834257.87
+EU,2014,other,5,1939452894.61,99810,Sectors not specified,5,63813251.60
+EU,2014,other,5,1939452894.61,0,Other,6,125084897.17
+EU,2014,other,5,1939452894.61,43010,Multisector aid,2,462375995.27
+EU,2014,other,5,1939452894.61,43030,Urban development and management,3,266457478.19
+gavi,2014,health,1,1304665871.25,12220,Basic health care,1,1189319533.60
+gavi,2014,health,1,1304665871.25,12250,Infectious disease control,2,107022878.92
+gavi,2014,health,1,1304665871.25,12110,Health policy & administrative management,3,8323458.74
+gavi,2014,other,2,96730517.81,91010,Administrative costs (non-sector allocable),1,96730517.81
+gef,2014,environment,1,416319036.27,41010,Environmental policy and admin. mgmt,1,388405638.97
+gef,2014,environment,1,416319036.27,41030,Bio-diversity,2,23355525.44
+gef,2014,environment,1,416319036.27,41020,Biosphere protection,3,4264202.60
+gef,2014,environment,1,416319036.27,41040,Site preservation,4,259140.30
+gef,2014,environment,1,416319036.27,41082,Environmental research,5,34528.96
+gef,2014,governance-and-security,5,8975067.50,15150,Democratic participation and civil society,2,984518.40
+gef,2014,governance-and-security,5,8975067.50,15110,Public sector policy and administrative management,1,7990549.10
+gef,2014,humanitarian,3,16711892.21,74010,Disaster prevention and preparedness,1,16711892.21
+gef,2014,infrastructure,2,135466041.06,23230,Solar energy,4,360908.98
+gef,2014,infrastructure,2,135466041.06,23270,Biofuel-fired power plants,5,159263.62
+gef,2014,infrastructure,2,135466041.06,23260,Geothermal energy,3,516115.21
+gef,2014,infrastructure,2,135466041.06,23110,Energy policy and administrative management,1,107885259.51
+gef,2014,infrastructure,2,135466041.06,23210,"Energy generation, renewable sources - multiple technologies",2,26285831.01
+gef,2014,infrastructure,2,135466041.06,0,Other,6,258662.73
+gef,2014,water-and-sanitation,4,13988231.55,14050,Waste management/disposal,4,732685.18
+gef,2014,water-and-sanitation,4,13988231.55,14010,Water resources policy/administrative management,1,5763944.68
+gef,2014,water-and-sanitation,4,13988231.55,14015,Water resources protection,2,5639690.25
+gef,2014,water-and-sanitation,4,13988231.55,14040,River basins development,3,1703194.26
+gef,2014,water-and-sanitation,4,13988231.55,14031,Basic drinking water supply,5,100456.38
+gef,2014,water-and-sanitation,4,13988231.55,0,Other,6,48260.80
+gggi,2014,agriculture-and-food-security,4,550632.78,31210,Forestry policy & administrative management,1,550632.78
+gggi,2014,banking-and-business,3,1043660.66,25010,Business support services & institutions,1,943467.00
+gggi,2014,banking-and-business,3,1043660.66,24010,Financial policy & administrative management,2,100193.67
+gggi,2014,environment,1,7353523.88,41010,Environmental policy and admin. mgmt,1,7353523.88
+gggi,2014,other,2,4860188.94,43010,Multisector aid,1,4030568.70
+gggi,2014,other,2,4860188.94,43030,Urban development and management,2,415967.11
+gggi,2014,other,2,4860188.94,43082,Research/scientific institutions,3,413653.13
+gggi,2014,water-and-sanitation,5,543434.27,14020,Water supply and sanitation - large systems,1,543434.27
+global-fund,2014,health,1,2859931664.98,12263,Tuberculosis control,3,439213154.27
+global-fund,2014,health,1,2859931664.98,13040,Std control including hiv/aids,1,1537266670.65
+global-fund,2014,health,1,2859931664.98,12262,Malaria control,2,824845225.73
+global-fund,2014,health,1,2859931664.98,12110,Health policy & administrative management,4,29937000.13
+global-fund,2014,health,1,2859931664.98,12220,Basic health care,5,24675695.97
+global-fund,2014,health,1,2859931664.98,0,Other,6,3993918.23
+ida,2014,agriculture-and-food-security,4,1318290073.93,0,Other,6,480708934.40
+ida,2014,agriculture-and-food-security,4,1318290073.93,31130,Agricultural land resources,5,66869199.78
+ida,2014,agriculture-and-food-security,4,1318290073.93,31182,Agricultural research,4,141890057.02
+ida,2014,agriculture-and-food-security,4,1318290073.93,31110,Agricultural policy & administrative management,3,143881788.76
+ida,2014,agriculture-and-food-security,4,1318290073.93,31120,Agricultural development,2,203160085.38
+ida,2014,agriculture-and-food-security,4,1318290073.93,31140,Agricultural water resources,1,281780008.58
+ida,2014,education,3,1606409757.22,0,Other,6,254177913.03
+ida,2014,education,3,1606409757.22,11220,Primary education,1,452831568.09
+ida,2014,education,3,1606409757.22,11320,Secondary education,2,411765379.29
+ida,2014,education,3,1606409757.22,11110,Education policy & administrative management,3,213477034.15
+ida,2014,education,3,1606409757.22,11420,Higher education,4,170812947.26
+ida,2014,education,3,1606409757.22,11330,Vocational training,5,103344915.41
+ida,2014,governance-and-security,2,1617107995.27,15113,Anti-corruption organisations and institutions,4,59667847.91
+ida,2014,governance-and-security,2,1617107995.27,15220,"Civilian peace-building, conflict prevention and resolution",5,18157058.02
+ida,2014,governance-and-security,2,1617107995.27,15111,Public finance management,1,811006410.34
+ida,2014,governance-and-security,2,1617107995.27,15110,Public sector policy and administrative management,2,345932767.13
+ida,2014,governance-and-security,2,1617107995.27,0,Other,6,49307103.54
+ida,2014,governance-and-security,2,1617107995.27,15112,Decentralisation and support to subnational government,3,333036808.32
+ida,2014,infrastructure,1,3759033312.32,21020,Road transport,1,1298053436.45
+ida,2014,infrastructure,1,3759033312.32,0,Other,6,662198594.07
+ida,2014,infrastructure,1,3759033312.32,23220,Hydro-electric power plants,5,155212060.38
+ida,2014,infrastructure,1,3759033312.32,21010,Transport policy & administrative management,4,224975118.36
+ida,2014,infrastructure,1,3759033312.32,23630,Electric power transmission and distribution,3,588862798.15
+ida,2014,infrastructure,1,3759033312.32,23110,Energy policy and administrative management,2,829731304.91
+ida,2014,water-and-sanitation,5,997712805.38,0,Other,6,241644001.72
+ida,2014,water-and-sanitation,5,997712805.38,14021,Water supply - large systems,1,292250831.68
+ida,2014,water-and-sanitation,5,997712805.38,14022,Sanitation - large systems,2,127536536.46
+ida,2014,water-and-sanitation,5,997712805.38,14010,Water resources policy/administrative management,3,115774145.45
+ida,2014,water-and-sanitation,5,997712805.38,14040,River basins development,4,114360343.20
+ida,2014,water-and-sanitation,5,997712805.38,14020,Water supply and sanitation - large systems,5,106146946.86
+idb-special-fund,2014,banking-and-business,4,115039045.81,24020,Monetary institutions,4,948855.72
+idb-special-fund,2014,banking-and-business,4,115039045.81,24040,Informal/semi-formal financial intermediaries,3,7335745.04
+idb-special-fund,2014,banking-and-business,4,115039045.81,25010,Business support services & institutions,2,20285810.34
+idb-special-fund,2014,banking-and-business,4,115039045.81,24010,Financial policy & administrative management,1,86126501.07
+idb-special-fund,2014,banking-and-business,4,115039045.81,24030,Formal sector financial intermediaries,5,342133.63
+idb-special-fund,2014,infrastructure,2,549767707.62,23220,Hydro-electric power plants,5,32808586.25
+idb-special-fund,2014,infrastructure,2,549767707.62,21010,Transport policy & administrative management,1,235719062.29
+idb-special-fund,2014,infrastructure,2,549767707.62,23110,Energy policy and administrative management,2,145238455.14
+idb-special-fund,2014,infrastructure,2,549767707.62,21020,Road transport,3,66433330.82
+idb-special-fund,2014,infrastructure,2,549767707.62,23630,Electric power transmission and distribution,4,47478438.92
+idb-special-fund,2014,infrastructure,2,549767707.62,0,Other,6,22089834.21
+idb-special-fund,2014,other,1,720908064.49,91010,Administrative costs (non-sector allocable),1,680524866.99
+idb-special-fund,2014,other,1,720908064.49,43040,Rural development,2,24682872.68
+idb-special-fund,2014,other,1,720908064.49,99810,Sectors not specified,3,8133155.75
+idb-special-fund,2014,other,1,720908064.49,43082,Research/scientific institutions,4,4148056.61
+idb-special-fund,2014,other,1,720908064.49,43030,Urban development and management,5,3419112.45
+idb-special-fund,2014,other-social-services,3,137463075.18,16061,Culture and recreation,5,31397.26
+idb-special-fund,2014,other-social-services,3,137463075.18,0,Other,6,5079.67
+idb-special-fund,2014,other-social-services,3,137463075.18,16062,Statistical capacity building,4,66508.18
+idb-special-fund,2014,other-social-services,3,137463075.18,16020,Employment policy and administrative management,3,7519555.11
+idb-special-fund,2014,other-social-services,3,137463075.18,16040,Low-cost housing,2,54279848.12
+idb-special-fund,2014,other-social-services,3,137463075.18,16010,Social/welfare services,1,75560686.85
+idb-special-fund,2014,water-and-sanitation,5,77853019.51,14021,Water supply - large systems,2,18695864.53
+idb-special-fund,2014,water-and-sanitation,5,77853019.51,14020,Water supply and sanitation - large systems,1,52096311.28
+idb-special-fund,2014,water-and-sanitation,5,77853019.51,14022,Sanitation - large systems,3,4647918.47
+idb-special-fund,2014,water-and-sanitation,5,77853019.51,14050,Waste management/disposal,4,804199.12
+idb-special-fund,2014,water-and-sanitation,5,77853019.51,14032,Basic sanitation,5,548021.62
+idb-special-fund,2014,water-and-sanitation,5,77853019.51,0,Other,6,1060704.49
+imf-concessional-trust-funds,2014,general-budget-support,1,824239425.87,51010,General budget support-related aid,1,824239425.87
+islamic-dev-bank,2014,other,1,243584839.13,99810,Sectors not specified,1,243584839.13
+nordic-dev-fund,2014,agriculture-and-food-security,4,5257128.89,31310,Fishing policy and admin. management,1,5257128.89
+nordic-dev-fund,2014,debt-relief,5,913855.74,60020,Debt forgiveness,1,913855.74
+nordic-dev-fund,2014,infrastructure,2,16199914.27,21020,Road transport,5,263381.94
+nordic-dev-fund,2014,infrastructure,2,16199914.27,23210,"Energy generation, renewable sources - multiple technologies",1,7551775.53
+nordic-dev-fund,2014,infrastructure,2,16199914.27,21010,Transport policy & administrative management,2,6388035.42
+nordic-dev-fund,2014,infrastructure,2,16199914.27,23230,Solar energy,3,1339580.02
+nordic-dev-fund,2014,infrastructure,2,16199914.27,23220,Hydro-electric power plants,4,657141.36
+nordic-dev-fund,2014,other,1,17118882.37,43030,Urban development and management,2,5572556.62
+nordic-dev-fund,2014,other,1,17118882.37,43010,Multisector aid,1,11424061.08
+nordic-dev-fund,2014,other,1,17118882.37,43082,Research/scientific institutions,3,122264.66
+nordic-dev-fund,2014,water-and-sanitation,3,8565690.23,14010,Water resources policy/administrative management,1,7885698.29
+nordic-dev-fund,2014,water-and-sanitation,3,8565690.23,14015,Water resources protection,2,679991.94
+ofid,2014,agriculture-and-food-security,2,66457202.68,31140,Agricultural water resources,1,28156656.94
+ofid,2014,agriculture-and-food-security,2,66457202.68,31120,Agricultural development,2,13484737.93
+ofid,2014,agriculture-and-food-security,2,66457202.68,0,Other,6,5523807.47
+ofid,2014,agriculture-and-food-security,2,66457202.68,31320,Fishery development,5,2306355.24
+ofid,2014,agriculture-and-food-security,2,66457202.68,31130,Agricultural land resources,4,5536870.18
+ofid,2014,agriculture-and-food-security,2,66457202.68,31110,Agricultural policy & administrative management,3,11448774.93
+ofid,2014,health,3,37455396.27,0,Other,6,367261.54
+ofid,2014,health,3,37455396.27,12230,Basic health infrastructure,1,25672944.24
+ofid,2014,health,3,37455396.27,13040,Std control including hiv/aids,2,4285919.86
+ofid,2014,health,3,37455396.27,12191,Medical services,3,3855292.24
+ofid,2014,health,3,37455396.27,12250,Infectious disease control,4,2778691.00
+ofid,2014,health,3,37455396.27,13020,Reproductive health care,5,495287.39
+ofid,2014,infrastructure,1,238981842.23,21020,Road transport,1,127843442.13
+ofid,2014,infrastructure,1,238981842.23,0,Other,6,6267733.08
+ofid,2014,infrastructure,1,238981842.23,21010,Transport policy & administrative management,5,4100127.65
+ofid,2014,infrastructure,1,238981842.23,23220,Hydro-electric power plants,4,28961674.27
+ofid,2014,infrastructure,1,238981842.23,23340,Natural gas-fired electric power plants,3,34384732.36
+ofid,2014,infrastructure,1,238981842.23,23630,Electric power transmission and distribution,2,37424132.74
+ofid,2014,other,4,32141304.37,43081,Multisector education/training,4,1137569.13
+ofid,2014,other,4,32141304.37,43040,Rural development,1,20513380.03
+ofid,2014,other,4,32141304.37,43010,Multisector aid,2,8889591.34
+ofid,2014,other,4,32141304.37,43030,Urban development and management,3,1313065.30
+ofid,2014,other,4,32141304.37,43082,Research/scientific institutions,5,287698.57
+ofid,2014,water-and-sanitation,5,30638826.32,14020,Water supply and sanitation - large systems,1,10620764.38
+ofid,2014,water-and-sanitation,5,30638826.32,14021,Water supply - large systems,2,8204603.93
+ofid,2014,water-and-sanitation,5,30638826.32,14031,Basic drinking water supply,3,6405997.51
+ofid,2014,water-and-sanitation,5,30638826.32,14040,River basins development,4,2868002.22
+ofid,2014,water-and-sanitation,5,30638826.32,14030,Basic drinking water supply and basic sanitation,5,1335702.91
+ofid,2014,water-and-sanitation,5,30638826.32,0,Other,6,1203755.38
+osce,2014,environment,3,5511150.89,41010,Environmental policy and admin. mgmt,1,5511150.89
+osce,2014,governance-and-security,1,63107558.25,15210,Security system management and reform,1,26327782.51
+osce,2014,governance-and-security,1,63107558.25,15130,Legal and judicial development,2,19206354.26
+osce,2014,governance-and-security,1,63107558.25,15160,Human rights,3,8718819.22
+osce,2014,governance-and-security,1,63107558.25,15153,Media and free flow of information,5,1960881.39
+osce,2014,governance-and-security,1,63107558.25,0,Other,6,797729.67
+osce,2014,governance-and-security,1,63107558.25,15150,Democratic participation and civil society,4,6095991.19
+osce,2014,other,2,57675768.24,43010,Multisector aid,1,57675768.24
+osce,2014,other-social-services,4,2984581.97,16010,Social/welfare services,1,2984581.97
+unaids,2014,governance-and-security,1,111496599.66,15170,Women's equality organisations and institutions,3,10984915.81
+unaids,2014,governance-and-security,1,111496599.66,15110,Public sector policy and administrative management,1,74133975.88
+unaids,2014,governance-and-security,1,111496599.66,15160,Human rights,2,15847199.62
+unaids,2014,governance-and-security,1,111496599.66,15150,Democratic participation and civil society,4,10530508.36
+unaids,2014,health,2,105695541.12,12220,Basic health care,2,22887249.87
+unaids,2014,health,2,105695541.12,13040,Std control including hiv/aids,1,61777407.12
+unaids,2014,health,2,105695541.12,12110,Health policy & administrative management,3,21030884.13
+unaids,2014,other-social-services,3,19230337.47,16064,Social mitigation of HIV/AIDS,1,13758330.22
+unaids,2014,other-social-services,3,19230337.47,16010,Social/welfare services,2,5472007.24
+undp,2014,environment,4,38901931.40,41040,Site preservation,3,624872.79
+undp,2014,environment,4,38901931.40,41082,Environmental research,5,150270.49
+undp,2014,environment,4,38901931.40,41010,Environmental policy and admin. mgmt,1,35860487.18
+undp,2014,environment,4,38901931.40,0,Other,6,220907.89
+undp,2014,environment,4,38901931.40,41030,Bio-diversity,2,1625136.08
+undp,2014,environment,4,38901931.40,41020,Biosphere protection,4,420256.96
+undp,2014,governance-and-security,1,240806606.29,15150,Democratic participation and civil society,4,17364576.47
+undp,2014,governance-and-security,1,240806606.29,15110,Public sector policy and administrative management,1,103106300.14
+undp,2014,governance-and-security,1,240806606.29,15130,Legal and judicial development,2,24806420.97
+undp,2014,governance-and-security,1,240806606.29,15112,Decentralisation and support to subnational government,3,17910098.47
+undp,2014,governance-and-security,1,240806606.29,15220,"Civilian peace-building, conflict prevention and resolution",5,12962229.88
+undp,2014,governance-and-security,1,240806606.29,0,Other,6,64656980.36
+undp,2014,humanitarian,3,52364851.61,73010,Reconstruction relief and rehabilitation,2,15249710.64
+undp,2014,humanitarian,3,52364851.61,72010,Material relief assistance and services ,3,10489524.19
+undp,2014,humanitarian,3,52364851.61,74010,Disaster prevention and preparedness,1,26403187.41
+undp,2014,humanitarian,3,52364851.61,72050,Relief co-ordination; protection and support services,4,222429.36
+undp,2014,other,2,67123301.11,43030,Urban development and management,3,3539337.54
+undp,2014,other,2,67123301.11,99810,Sectors not specified,2,17544024.75
+undp,2014,other,2,67123301.11,43010,Multisector aid,1,42920333.12
+undp,2014,other,2,67123301.11,0,Other,6,524133.81
+undp,2014,other,2,67123301.11,99820,Promotion of development awareness  (non-sector allocable),5,932386.08
+undp,2014,other,2,67123301.11,43040,Rural development,4,1663085.80
+undp,2014,other-social-services,5,12996249.27,16062,Statistical capacity building,3,2358935.97
+undp,2014,other-social-services,5,12996249.27,16010,Social/welfare services,1,6053709.94
+undp,2014,other-social-services,5,12996249.27,16020,Employment policy and administrative management,2,3665864.00
+undp,2014,other-social-services,5,12996249.27,16064,Social mitigation of HIV/AIDS,4,592852.07
+undp,2014,other-social-services,5,12996249.27,16050,Multisector aid for basic social services,5,175740.84
+undp,2014,other-social-services,5,12996249.27,0,Other,6,149146.44
+unece,2014,environment,1,5365424.47,41010,Environmental policy and admin. mgmt,1,5060825.70
+unece,2014,environment,1,5365424.47,41082,Environmental research,2,304598.77
+unece,2014,governance-and-security,5,991517.80,15240,Reintegration and SALW control,1,741213.42
+unece,2014,governance-and-security,5,991517.80,15170,Women's equality organisations and institutions,3,56296.35
+unece,2014,governance-and-security,5,991517.80,15210,Security system management and reform,2,194008.03
+unece,2014,industry-and-trade,4,1260360.78,32110,Industrial policy & admin. mgmt,2,561730.19
+unece,2014,industry-and-trade,4,1260360.78,33110,Trade policy and admin. management,4,3834.51
+unece,2014,industry-and-trade,4,1260360.78,33120,Trade facilitation,3,127507.77
+unece,2014,industry-and-trade,4,1260360.78,33150,Trade-related adjustment,1,567288.30
+unece,2014,infrastructure,3,1923819.03,23640,Gas distribution,2,277242.07
+unece,2014,infrastructure,3,1923819.03,21020,Road transport,1,1414625.96
+unece,2014,infrastructure,3,1923819.03,21030,Rail transport,3,141013.27
+unece,2014,infrastructure,3,1923819.03,21010,Transport policy & administrative management,4,83438.09
+unece,2014,infrastructure,3,1923819.03,23320,Coal-fired electric power plants,5,7499.64
+unece,2014,water-and-sanitation,2,2844990.17,14010,Water resources policy/administrative management,1,2812210.07
+unece,2014,water-and-sanitation,2,2844990.17,14022,Sanitation - large systems,2,32780.10
+unfpa,2014,health,1,336801989.42,13010,Population policy and administrative management,1,224999065.00
+unfpa,2014,health,1,336801989.42,13020,Reproductive health care,2,68857747.39
+unfpa,2014,health,1,336801989.42,13030,Family planning,3,33601281.22
+unfpa,2014,health,1,336801989.42,13040,Std control including hiv/aids,4,9343895.80
+unhcr,2014,humanitarian,1,339803896.43,72010,Material relief assistance and services ,1,339803896.43
+unhcr,2014,other,2,135753319.35,91010,Administrative costs (non-sector allocable),1,135753319.35
+unicef,2014,education,4,81174707.94,11120,Education facilities and training,4,2526144.96
+unicef,2014,education,4,81174707.94,0,Other,6,3508106.68
+unicef,2014,education,4,81174707.94,11182,Educational research,5,1980857.32
+unicef,2014,education,4,81174707.94,11110,Education policy & administrative management,1,49451788.67
+unicef,2014,education,4,81174707.94,11220,Primary education,2,20258966.75
+unicef,2014,education,4,81174707.94,11240,Early childhood education,3,3448843.56
+unicef,2014,governance-and-security,5,72928561.29,15112,Decentralisation and support to subnational government,4,10062996.49
+unicef,2014,governance-and-security,5,72928561.29,15110,Public sector policy and administrative management,1,16650559.42
+unicef,2014,governance-and-security,5,72928561.29,15160,Human rights,3,13096369.22
+unicef,2014,governance-and-security,5,72928561.29,15150,Democratic participation and civil society,2,14600597.62
+unicef,2014,governance-and-security,5,72928561.29,0,Other,6,9124780.53
+unicef,2014,governance-and-security,5,72928561.29,15130,Legal and judicial development,5,9393257.99
+unicef,2014,health,2,225936354.87,12250,Infectious disease control,2,43442105.27
+unicef,2014,health,2,225936354.87,12110,Health policy & administrative management,4,29845378.90
+unicef,2014,health,2,225936354.87,13040,Std control including hiv/aids,5,21985432.58
+unicef,2014,health,2,225936354.87,0,Other,6,45466162.55
+unicef,2014,health,2,225936354.87,12220,Basic health care,1,45785656.59
+unicef,2014,health,2,225936354.87,12240,Basic nutrition,3,39411618.98
+unicef,2014,other,1,709606536.31,43010,Multisector aid,2,268304767.23
+unicef,2014,other,1,709606536.31,91010,Administrative costs (non-sector allocable),1,306188642.56
+unicef,2014,other,1,709606536.31,99810,Sectors not specified,3,134909592.13
+unicef,2014,other,1,709606536.31,43030,Urban development and management,4,203534.39
+unicef,2014,other-social-services,3,92091519.46,16050,Multisector aid for basic social services,3,7857976.06
+unicef,2014,other-social-services,3,92091519.46,16062,Statistical capacity building,2,21670840.89
+unicef,2014,other-social-services,3,92091519.46,16010,Social/welfare services,1,60004369.81
+unicef,2014,other-social-services,3,92091519.46,16064,Social mitigation of HIV/AIDS,4,2199661.42
+unicef,2014,other-social-services,3,92091519.46,16020,Employment policy and administrative management,5,358671.28
+unpbf,2014,governance-and-security,1,53383980.96,15160,Human rights,5,1831246.75
+unpbf,2014,governance-and-security,1,53383980.96,0,Other,6,3438417.32
+unpbf,2014,governance-and-security,1,53383980.96,15220,"Civilian peace-building, conflict prevention and resolution",1,23920391.30
+unpbf,2014,governance-and-security,1,53383980.96,15130,Legal and judicial development,2,16039788.85
+unpbf,2014,governance-and-security,1,53383980.96,15210,Security system management and reform,3,6184302.85
+unpbf,2014,governance-and-security,1,53383980.96,15240,Reintegration and SALW control,4,1969833.89
+unpbf,2014,health,4,1914397.68,13010,Population policy and administrative management,1,1914397.68
+unpbf,2014,other,3,2240092.72,43040,Rural development,1,2234345.40
+unpbf,2014,other,3,2240092.72,43010,Multisector aid,2,5747.31
+unpbf,2014,other-social-services,2,4490280.61,16020,Employment policy and administrative management,1,4451271.55
+unpbf,2014,other-social-services,2,4490280.61,16010,Social/welfare services,2,26618.95
+unpbf,2014,other-social-services,2,4490280.61,16050,Multisector aid for basic social services,3,12390.11
+unpbf,2014,water-and-sanitation,5,1358043.34,14021,Water supply - large systems,1,1034259.12
+unpbf,2014,water-and-sanitation,5,1358043.34,14015,Water resources protection,2,323784.22
+unrwa,2014,education,1,391075055.95,11220,Primary education,1,391075055.95
+unrwa,2014,health,3,103137852.59,12220,Basic health care,1,103137852.59
+unrwa,2014,humanitarian,4,37996902.88,72010,Material relief assistance and services ,1,37996902.88
+unrwa,2014,other,2,141480713.71,91010,Administrative costs (non-sector allocable),1,141480713.71
+wfp,2014,agriculture-and-food-security,4,20890984.16,31130,Agricultural land resources,2,416051.31
+wfp,2014,agriculture-and-food-security,4,20890984.16,52010,Food aid/Food security programmes,1,20474932.85
+wfp,2014,education,3,30271380.53,11120,Education facilities and training,3,218609.95
+wfp,2014,education,3,30271380.53,11220,Primary education,1,28252539.62
+wfp,2014,education,3,30271380.53,11230,Basic life skills for youth & adults,2,1800230.96
+wfp,2014,health,5,19454125.74,12240,Basic nutrition,1,17271285.27
+wfp,2014,health,5,19454125.74,13040,Std control including hiv/aids,2,2182840.47
+wfp,2014,humanitarian,1,201338631.00,74010,Disaster prevention and preparedness,2,22553832.31
+wfp,2014,humanitarian,1,201338631.00,72050,Relief co-ordination; protection and support services,4,1500304.74
+wfp,2014,humanitarian,1,201338631.00,72040,Emergency food aid,1,166780706.55
+wfp,2014,humanitarian,1,201338631.00,73010,Reconstruction relief and rehabilitation,3,10503787.41
+wfp,2014,other,2,31311830.74,99810,Sectors not specified,1,31311830.74
+who,2014,health,1,431868618.72,12110,Health policy & administrative management,1,222109372.43
+who,2014,health,1,431868618.72,12191,Medical services,2,33798872.56
+who,2014,health,1,431868618.72,12182,Medical research,3,27248441.80
+who,2014,health,1,431868618.72,13020,Reproductive health care,4,26302548.09
+who,2014,health,1,431868618.72,0,Other,6,96497616.20
+who,2014,health,1,431868618.72,12281,Health personnel development,5,25911767.64
+who,2014,humanitarian,2,35051679.98,74010,Disaster prevention and preparedness,1,23639220.92
+who,2014,humanitarian,2,35051679.98,72050,Relief co-ordination; protection and support services,2,11412459.07

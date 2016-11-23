@@ -188,17 +188,27 @@ exports.csv=
  "country-year/warehouse/donor_profile/donor_bundle_2012.csv"			:"donor_profile.donor_bundle_2012",
  "country-year/warehouse/donor_profile/loans_grants_2012.csv"			:"donor_profile.loans_grants_2012",
  "country-year/warehouse/donor_profile/sectors_over_time_2012.csv"		:"donor_profile.sectors_over_time_2012",
-
-
-// might be a better idea to keep all of these in -> country-year/warehouse/multilateral_profile/***
-// Noted Thanks
- "country-year/warehouse/multilateral_profile/oda_oof_trend.csv" : "multilateral_profile.\"oda_oof_trend_2012\"",
- "country-year/warehouse/multilateral_profile/oda_oof_flow_type.csv" : "multilateral_profile.\"oda_oof_flow_type_2012\"",
- "country-year/warehouse/multilateral_profile/bundle.csv" : "multilateral_profile.\"bundle_2012\"",
- "country-year/warehouse/multilateral_profile/oda_regional.csv" : "multilateral_profile.\"oda_regional\"",
- "country-year/warehouse/multilateral_profile/core_earmarked_oda_received.csv" : "multilateral_profile.\"core_earmarked_oda_received_2012\"",
- "country-year/warehouse/multilateral_profile/core_oda_by_donor.csv" : "multilateral_profile.\"core_oda_by_donor_2012\"",
- "country-year/warehouse/multilateral_profile/earmarked_oda_by_donor.csv" : "multilateral_profile.\"earmarked_oda_by_donor_2012\"",
+// multilateral_profiles
+"country-year/warehouse/multilateral_profile/oda_oof_trend.csv" : "multilateral_profile.\"oda_oof_trend_2012\"",
+"country-year/warehouse/multilateral_profile/oda_oof_flow_type.csv" : "multilateral_profile.\"oda_oof_flow_type_2012\"",
+"country-year/warehouse/multilateral_profile/bundle.csv" : "multilateral_profile.\"bundle_2012\"",
+"country-year/warehouse/multilateral_profile/oda_regional.csv" : "multilateral_profile.\"oda_regional\"",
+"country-year/warehouse/multilateral_profile/core_earmarked_oda_received.csv" : "multilateral_profile.\"core_earmarked_oda_received_2012\"",
+"country-year/warehouse/multilateral_profile/core_oda_by_donor.csv" : "multilateral_profile.\"core_oda_by_donor_2012\"",
+"country-year/warehouse/multilateral_profile/earmarked_oda_by_donor.csv" : "multilateral_profile.\"earmarked_oda_by_donor_2012\"",
+"country-year/warehouse/multilateral_profile/master_multilateral_donor.csv" : "multilateral_profile.\"master_multilateral_donor\"",
+"country-year/warehouse/multilateral_profile/mums_multilateral_donor.csv" : "multilateral_profile.\"mums_multilateral_donor\"",
+"country-year/warehouse/multilateral_profile/channel.csv" : "multilateral_profile.\"channel_2012\"",
+"country-year/warehouse/multilateral_profile/oda_revenue_poverty.csv" : "multilateral_profile.\"oda_revenue_poverty_2012\"",
+"country-year/warehouse/multilateral_profile/purpose_by_bundle.csv" : "multilateral_profile.\"purpose_by_bundle_2012\"",
+"country-year/warehouse/multilateral_profile/purpose_trend.csv" : "multilateral_profile.\"purpose_trend_2012\"",
+"country-year/warehouse/multilateral_profile/recipient_by_purpose_by_di_id.csv" : "multilateral_profile.\"recipient_by_purpose_by_di_id_2012\"",
+"country-year/warehouse/multilateral_profile/recipient_by_purpose_by_parent.csv" : "multilateral_profile.\"recipient_by_purpose_by_parent_2012\"",
+"country-year/warehouse/multilateral_profile/recipient_by_sector_by_di_id.csv" : "multilateral_profile.\"recipient_by_sector_by_di_id_2012\"",
+"country-year/warehouse/multilateral_profile/recipient_by_sector_by_parent.csv" : "multilateral_profile.\"recipient_by_sector_by_parent_2012\"",
+"country-year/warehouse/multilateral_profile/sector_by_purpose_by_di_id.csv": "multilateral_profile.\"sector_by_purpose_by_di_id_2012\"",
+"country-year/warehouse/multilateral_profile/sector_by_purpose_by_parent.csv": "multilateral_profile.\"sector_by_purpose_by_parent_2012\"",
+"country-year/warehouse/multilateral_profile/sector_trend.csv": "multilateral_profile.\"sector_trend_2012\""
  // "country-year/displacement.csv" : "data_series.\"displacement\"",
  // "country-year/forgotten_crisis.csv" : "data_series.\"forgotten_crisis\"",
  // "country-year/number_of_un_appeals.csv" : "data_series.\"number_of_un_appeals\"",
