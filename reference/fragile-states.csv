@@ -1,6 +1,12 @@
 id,name
-1,Not fragile
-2,Improving fragility
-3,Fragile
-4,Long-term fragile
-5,Very fragile
+1,Very sustainable
+2,Sustainable
+3,More stable
+4,Stable
+5,Less stable
+6,Low warning
+7,Warning
+8,High warning
+9,Alert
+10,High alert
+11,Very high alert
