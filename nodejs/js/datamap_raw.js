@@ -71,7 +71,7 @@ exports.csv=
  "country-year/out-dac-oda-net.csv": "data_series.\"out_dac_oda_net\"",
  "country-year/out-oof-net.csv": "data_series.\"out_oof_net\"",
  "country-year/out-ssc-net.csv": "data_series.\"out_ssc_net\"",
- "country-year/2013-p20-population.csv": "data_series.\"2013_p20_population\"",
+ "country-year/poorest20pct.csv": "data_series.\"2013_p20_population\"",
  "country-year/poor-people-190.csv": "data_series.\"poor_people_190\"",
  "country-year/poverty-190.csv": "data_series.\"poverty_190\"",
  "country-year/poverty-310.csv": "data_series.\"poverty_310\"",
