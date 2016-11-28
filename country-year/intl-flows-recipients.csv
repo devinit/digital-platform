@@ -2266,6 +2266,7 @@ ET,2000,out,official,oda-capital-payments-out,73403003
 FJ,2000,out,official,oda-capital-payments-out,6216693
 GA,2000,out,official,oda-capital-payments-out,75805287
 GM,2000,out,official,oda-capital-payments-out,11550196
+SR,2000,in,official,oofs-in,4267224
 GE,2000,out,official,oda-capital-payments-out,0
 GH,2000,out,official,oda-capital-payments-out,167873972
 GD,2000,out,official,oda-capital-payments-out,5261732
@@ -2551,6 +2552,7 @@ CR,2002,out,official,oda-capital-payments-out,75337682
 CI,2002,out,official,oda-capital-payments-out,432174316
 CU,2002,out,official,oda-capital-payments-out,0
 DJ,2002,out,official,oda-capital-payments-out,5264428
+SZ,2000,in,official,oofs-in,19856091
 DM,2002,out,official,oda-capital-payments-out,6302474
 DO,2002,out,official,oda-capital-payments-out,86948095
 EC,2002,out,official,oda-capital-payments-out,90815991
@@ -2646,6 +2648,7 @@ TH,2002,out,official,oda-capital-payments-out,768441438
 TL,2002,out,official,oda-capital-payments-out,0
 TG,2002,out,official,oda-capital-payments-out,15969126
 TK,2002,out,official,oda-capital-payments-out,0
+SY,2000,in,official,oofs-in,541469090
 TO,2002,out,official,oda-capital-payments-out,3989594
 TN,2002,out,official,oda-capital-payments-out,276646713
 TR,2002,out,official,oda-capital-payments-out,556080665
@@ -2836,6 +2839,7 @@ CV,2004,out,official,oda-capital-payments-out,13338407
 KH,2004,out,official,oda-capital-payments-out,19364625
 CM,2004,out,official,oda-capital-payments-out,169130610
 CF,2004,out,official,oda-capital-payments-out,2969525
+TJ,2000,in,official,oofs-in,3564692
 TD,2004,out,official,oda-capital-payments-out,27412782
 CL,2004,out,official,oda-capital-payments-out,70279524
 CN,2004,out,official,oda-capital-payments-out,1461715472
@@ -3121,6 +3125,7 @@ BD,2006,out,official,oda-capital-payments-out,583299185
 BY,2006,out,official,oda-capital-payments-out,4101921
 BZ,2006,out,official,oda-capital-payments-out,3872915
 BJ,2006,out,official,oda-capital-payments-out,17716463
+TZ,2000,in,official,oofs-in,64027931
 BT,2006,out,official,oda-capital-payments-out,4111913
 BO,2006,out,official,oda-capital-payments-out,41120256
 BA,2006,out,official,oda-capital-payments-out,7621305
@@ -3786,6 +3791,7 @@ MX,2010,out,official,oda-capital-payments-out,181266407
 FM,2010,out,official,oda-capital-payments-out,1433243
 MD,2010,out,official,oda-capital-payments-out,19297277
 MN,2010,out,official,oda-capital-payments-out,46335976
+TH,2000,in,official,oofs-in,1131306884
 ME,2010,out,official,oda-capital-payments-out,4410790
 MS,2010,out,official,oda-capital-payments-out,3548904
 MA,2010,out,official,oda-capital-payments-out,425467363
@@ -3976,6 +3982,7 @@ SZ,2011,out,official,oda-capital-payments-out,12783344
 SY,2011,out,official,oda-capital-payments-out,153555036
 TJ,2011,out,official,oda-capital-payments-out,20862363
 TZ,2011,out,official,oda-capital-payments-out,65074590
+TL,2000,in,official,oofs-in,633787022
 TH,2011,out,official,oda-capital-payments-out,676901222
 TL,2011,out,official,oda-capital-payments-out,88265
 TG,2011,out,official,oda-capital-payments-out,6681928
@@ -4072,6 +4079,7 @@ LR,2012,out,official,oda-capital-payments-out,2940000
 LY,2012,out,official,oda-capital-payments-out,60000000
 MK,2012,out,official,oda-capital-payments-out,57480000
 MG,2012,out,official,oda-capital-payments-out,37150000
+TG,2000,in,official,oofs-in,7478268
 MW,2012,out,official,oda-capital-payments-out,17010000
 MY,2012,out,official,oda-capital-payments-out,240060000
 MV,2012,out,official,oda-capital-payments-out,9340000
@@ -6278,6 +6286,7 @@ GD,2012,out,official,oda-interest-payments-out,2330000
 GT,2012,out,official,oda-interest-payments-out,15770000
 GN,2012,out,official,oda-interest-payments-out,15180000
 GW,2012,out,official,oda-interest-payments-out,1150000
+TK,2000,in,official,oofs-in,
 GY,2012,out,official,oda-interest-payments-out,7740000
 HT,2012,out,official,oda-interest-payments-out,1720000
 HN,2012,out,official,oda-interest-payments-out,22700000
@@ -6781,15 +6790,6 @@ KN,2000,in,official,oofs-in,5900702
 LC,2000,in,official,oofs-in,7038370
 VC,2000,in,official,oofs-in,6475053
 SD,2000,in,official,oofs-in,2639389
-SR,2000,in,official,oofs-in,4267224
-SZ,2000,in,official,oofs-in,19856091
-SY,2000,in,official,oofs-in,541469090
-TJ,2000,in,official,oofs-in,3564692
-TZ,2000,in,official,oofs-in,64027931
-TH,2000,in,official,oofs-in,1131306884
-TL,2000,in,official,oofs-in,633787022
-TG,2000,in,official,oofs-in,7478268
-TK,2000,in,official,oofs-in,
 TO,2000,in,official,oofs-in,45507
 TN,2000,in,official,oofs-in,558397584
 TR,2000,in,official,oofs-in,2346219426
@@ -9029,6 +9029,7 @@ ZM,2000,out,official,oofs-capital-payments-out,48843861
 ZW,2000,out,official,oofs-capital-payments-out,137512854
 AF,2001,out,official,oofs-capital-payments-out,0
 AL,2001,out,official,oofs-capital-payments-out,10326727
+AO,2001,in,commercial,fdi-in,9055115271
 DZ,2001,out,official,oofs-capital-payments-out,994628498
 AO,2001,out,official,oofs-capital-payments-out,24713518
 AI,2001,out,official,oofs-capital-payments-out,205288
@@ -9594,6 +9595,7 @@ KN,2004,out,official,oofs-capital-payments-out,5276880
 LC,2004,out,official,oofs-capital-payments-out,4892415
 VC,2004,out,official,oofs-capital-payments-out,1460422
 SD,2004,out,official,oofs-capital-payments-out,5026287
+AI,2001,in,commercial,fdi-in,
 SR,2004,out,official,oofs-capital-payments-out,3813686
 SZ,2004,out,official,oofs-capital-payments-out,14730235
 SY,2004,out,official,oofs-capital-payments-out,17951023
@@ -9971,6 +9973,7 @@ GT,2007,out,official,oofs-capital-payments-out,113790597
 GN,2007,out,official,oofs-capital-payments-out,8502211
 GW,2007,out,official,oofs-capital-payments-out,481257
 GY,2007,out,official,oofs-capital-payments-out,3176298
+SR,2001,in,commercial,fdi-in,-72549285.93
 HT,2007,out,official,oofs-capital-payments-out,32982162
 HN,2007,out,official,oofs-capital-payments-out,25645663
 IN,2007,out,official,oofs-capital-payments-out,873761112
@@ -11642,6 +11645,7 @@ MM,2003,out,official,oofs-interest-payments-out,598688
 NA,2003,out,official,oofs-interest-payments-out,6173143
 NR,2003,out,official,oofs-interest-payments-out,0
 NP,2003,out,official,oofs-interest-payments-out,11468209
+SZ,2001,in,commercial,fdi-in,62154267.61
 NI,2003,out,official,oofs-interest-payments-out,20594881
 NE,2003,out,official,oofs-interest-payments-out,412430
 NG,2003,out,official,oofs-interest-payments-out,880471087
@@ -12181,6 +12185,7 @@ DM,2007,out,official,oofs-interest-payments-out,1358215
 DO,2007,out,official,oofs-interest-payments-out,147177827
 EC,2007,out,official,oofs-interest-payments-out,113395065
 EG,2007,out,official,oofs-interest-payments-out,375190650
+SY,2001,in,commercial,fdi-in,
 SV,2007,out,official,oofs-interest-payments-out,101716388
 GQ,2007,out,official,oofs-interest-payments-out,0
 ER,2007,out,official,oofs-interest-payments-out,0
@@ -12629,6 +12634,7 @@ EG,2010,out,official,oofs-interest-payments-out,275514975
 SV,2010,out,official,oofs-interest-payments-out,72555355
 GQ,2010,out,official,oofs-interest-payments-out,17022363
 ER,2010,out,official,oofs-interest-payments-out,0
+TJ,2001,in,commercial,fdi-in,30231987.6
 ET,2010,out,official,oofs-interest-payments-out,2883731
 FJ,2010,out,official,oofs-interest-payments-out,2243338
 GA,2010,out,official,oofs-interest-payments-out,19833333
@@ -13264,6 +13270,7 @@ MH,2014,out,official,oofs-interest-payments-out,138445
 MR,2014,out,official,oofs-interest-payments-out,14889389
 MU,2014,out,official,oofs-interest-payments-out,17519093
 MX,2014,out,official,oofs-interest-payments-out,390785661
+NG,2002,in,commercial,fdi-in,5278853211
 FM,2014,out,official,oofs-interest-payments-out,39556
 MD,2014,out,official,oofs-interest-payments-out,2911296
 MN,2014,out,official,oofs-interest-payments-out,6922235
@@ -13480,8 +13487,6 @@ ZW,2000,in,commercial,fdi-in,38426522.43
 AF,2001,in,commercial,fdi-in,
 AL,2001,in,commercial,fdi-in,379435436.5
 DZ,2001,in,commercial,fdi-in,2829657555
-AO,2001,in,commercial,fdi-in,9055115271
-AI,2001,in,commercial,fdi-in,
 AG,2001,in,commercial,fdi-in,142610468.5
 AR,2001,in,commercial,fdi-in,2450895757
 AM,2001,in,commercial,fdi-in,156586905.6
@@ -13599,10 +13604,6 @@ KN,2001,in,commercial,fdi-in,128795872.2
 LC,2001,in,commercial,fdi-in,90618935.17
 VC,2001,in,commercial,fdi-in,26147000.6
 SD,2001,in,commercial,fdi-in,
-SR,2001,in,commercial,fdi-in,-72549285.93
-SZ,2001,in,commercial,fdi-in,62154267.61
-SY,2001,in,commercial,fdi-in,
-TJ,2001,in,commercial,fdi-in,30231987.6
 TZ,2001,in,commercial,fdi-in,724723516.6
 TH,2001,in,commercial,fdi-in,10232187388
 TL,2001,in,commercial,fdi-in,
@@ -13720,7 +13721,6 @@ NR,2002,in,commercial,fdi-in,
 NP,2002,in,commercial,fdi-in,-12383984.91
 NI,2002,in,commercial,fdi-in,286883085.3
 NE,2002,in,commercial,fdi-in,4799321.398
-NG,2002,in,commercial,fdi-in,5278853211
 NU,2002,in,commercial,fdi-in,
 PK,2002,in,commercial,fdi-in,1611691575
 PW,2002,in,commercial,fdi-in,-1052807.054
@@ -14072,6 +14072,7 @@ AO,2005,in,commercial,fdi-in,-2732110361
 AI,2005,in,commercial,fdi-in,
 AG,2005,in,commercial,fdi-in,281943953.1
 AR,2005,in,commercial,fdi-in,10036283006
+SY,2005,in,commercial,fdi-in,
 AM,2005,in,commercial,fdi-in,467040719.4
 AZ,2005,in,commercial,fdi-in,3987308041
 BD,2005,in,commercial,fdi-in,1112937814
@@ -14189,7 +14190,6 @@ VC,2005,in,commercial,fdi-in,48504354.53
 SD,2005,in,commercial,fdi-in,
 SR,2005,in,commercial,fdi-in,45686174.21
 SZ,2005,in,commercial,fdi-in,-58100232.28
-SY,2005,in,commercial,fdi-in,
 TJ,2005,in,commercial,fdi-in,33884276.57
 TZ,2005,in,commercial,fdi-in,1417381669
 TH,2005,in,commercial,fdi-in,13025945754
@@ -14656,6 +14656,7 @@ YE,2008,in,commercial,fdi-in,2045516023
 ZM,2008,in,commercial,fdi-in,955574222.8
 ZW,2008,in,commercial,fdi-in,73063148.85
 AF,2009,in,commercial,fdi-in,96809635.39
+SS,2009,in,commercial,fdi-in,
 AL,2009,in,commercial,fdi-in,940734231.6
 DZ,2009,in,commercial,fdi-in,3830696009
 AO,2009,in,commercial,fdi-in,2981774802
@@ -14771,7 +14772,6 @@ SL,2009,in,commercial,fdi-in,132541897.5
 SB,2009,in,commercial,fdi-in,162482185.5
 SO,2009,in,commercial,fdi-in,
 ZA,2009,in,commercial,fdi-in,9226718703
-SS,2009,in,commercial,fdi-in,
 LK,2009,in,commercial,fdi-in,458926922.2
 KN,2009,in,commercial,fdi-in,150107128.1
 LC,2009,in,commercial,fdi-in,171356470.9
@@ -16152,6 +16152,7 @@ BR,2004,out,commercial,fdi-out,26065000579
 BF,2004,out,commercial,fdi-out,-12806239.17
 BI,2004,out,commercial,fdi-out,0
 CV,2004,out,commercial,fdi-out,0
+CF,2007,out,commercial,fdi-out,0
 KH,2004,out,commercial,fdi-out,15017089.97
 CM,2004,out,commercial,fdi-out,12451510.01
 CF,2004,out,commercial,fdi-out,0
@@ -16598,7 +16599,6 @@ BI,2007,out,commercial,fdi-out,52302.3008
 CV,2007,out,commercial,fdi-out,378275.4779
 KH,2007,out,commercial,fdi-out,1371867.147
 CM,2007,out,commercial,fdi-out,-8455403.459
-CF,2007,out,commercial,fdi-out,0
 TD,2007,out,commercial,fdi-out,0
 CL,2007,out,commercial,fdi-out,6164530519
 CN,2007,out,commercial,fdi-out,40753112728
@@ -17263,6 +17263,7 @@ MM,2011,out,commercial,fdi-out,
 NA,2011,out,commercial,fdi-out,5305052.255
 NR,2011,out,commercial,fdi-out,
 NP,2011,out,commercial,fdi-out,
+TD,2013,out,commercial,fdi-out,0
 NI,2011,out,commercial,fdi-out,6934799.021
 NE,2011,out,commercial,fdi-out,9069967.256
 NG,2011,out,commercial,fdi-out,880834946.9
@@ -17488,7 +17489,6 @@ CV,2013,out,commercial,fdi-out,-5065986.094
 KH,2013,out,commercial,fdi-out,45467860.06
 CM,2013,out,commercial,fdi-out,-358649454.3
 CF,2013,out,commercial,fdi-out,0
-TD,2013,out,commercial,fdi-out,0
 CL,2013,out,commercial,fdi-out,7618224136
 CN,2013,out,commercial,fdi-out,96966033072
 CO,2013,out,commercial,fdi-out,7808339203
@@ -17917,6 +17917,7 @@ AR,2001,out,commercial,fdi-in-profits-out,
 AM,2001,out,commercial,fdi-in-profits-out,8012111.06
 AZ,2001,out,commercial,fdi-in-profits-out,1089134421
 BD,2001,out,commercial,fdi-in-profits-out,238888285.1
+JO,2000,out,official,ssc-out,
 BY,2001,out,commercial,fdi-in-profits-out,32726304.51
 BZ,2001,out,commercial,fdi-in-profits-out,40426763.59
 BJ,2001,out,commercial,fdi-in-profits-out,500503.5838
@@ -19820,6 +19821,7 @@ TO,2013,out,commercial,fdi-in-profits-out,0
 TN,2013,out,commercial,fdi-in-profits-out,1728234916
 TR,2013,out,commercial,fdi-in-profits-out,3650984607
 TM,2013,out,commercial,fdi-in-profits-out,0
+KZ,2000,out,official,ssc-out,
 TV,2013,out,commercial,fdi-in-profits-out,
 UG,2013,out,commercial,fdi-in-profits-out,532204987.4
 UA,2013,out,commercial,fdi-in-profits-out,4895953118
@@ -20042,8 +20044,6 @@ ID,2000,out,official,ssc-out,
 IR,2000,out,official,ssc-out,
 IQ,2000,out,official,ssc-out,
 JM,2000,out,official,ssc-out,
-JO,2000,out,official,ssc-out,
-KZ,2000,out,official,ssc-out,
 KE,2000,out,official,ssc-out,
 KI,2000,out,official,ssc-out,
 KP,2000,out,official,ssc-out,
@@ -20390,7 +20390,7 @@ SC,2002,out,official,ssc-out,
 SL,2002,out,official,ssc-out,
 SB,2002,out,official,ssc-out,
 SO,2002,out,official,ssc-out,
-ZA,2002,out,official,ssc-out,151365811
+ZA,2002,out,official,ssc-out,151253131
 SS,2002,out,official,ssc-out,
 LK,2002,out,official,ssc-out,
 KN,2002,out,official,ssc-out,
@@ -20538,7 +20538,7 @@ SC,2003,out,official,ssc-out,
 SL,2003,out,official,ssc-out,
 SB,2003,out,official,ssc-out,
 SO,2003,out,official,ssc-out,
-ZA,2003,out,official,ssc-out,128183273.6
+ZA,2003,out,official,ssc-out,127971411.8
 SS,2003,out,official,ssc-out,
 LK,2003,out,official,ssc-out,
 KN,2003,out,official,ssc-out,
@@ -20686,7 +20686,7 @@ SC,2004,out,official,ssc-out,
 SL,2004,out,official,ssc-out,
 SB,2004,out,official,ssc-out,
 SO,2004,out,official,ssc-out,
-ZA,2004,out,official,ssc-out,98515938.9
+ZA,2004,out,official,ssc-out,97121316.69
 SS,2004,out,official,ssc-out,
 LK,2004,out,official,ssc-out,
 KN,2004,out,official,ssc-out,
@@ -20834,7 +20834,7 @@ SC,2005,out,official,ssc-out,
 SL,2005,out,official,ssc-out,
 SB,2005,out,official,ssc-out,
 SO,2005,out,official,ssc-out,
-ZA,2005,out,official,ssc-out,101968561
+ZA,2005,out,official,ssc-out,98543499.51
 SS,2005,out,official,ssc-out,
 LK,2005,out,official,ssc-out,
 KN,2005,out,official,ssc-out,
@@ -20982,7 +20982,7 @@ SC,2006,out,official,ssc-out,
 SL,2006,out,official,ssc-out,
 SB,2006,out,official,ssc-out,
 SO,2006,out,official,ssc-out,
-ZA,2006,out,official,ssc-out,132383600.6
+ZA,2006,out,official,ssc-out,127493282.5
 SS,2006,out,official,ssc-out,
 LK,2006,out,official,ssc-out,
 KN,2006,out,official,ssc-out,
@@ -21130,7 +21130,7 @@ SC,2007,out,official,ssc-out,
 SL,2007,out,official,ssc-out,
 SB,2007,out,official,ssc-out,
 SO,2007,out,official,ssc-out,
-ZA,2007,out,official,ssc-out,200398021.8
+ZA,2007,out,official,ssc-out,138680355.4
 SS,2007,out,official,ssc-out,
 LK,2007,out,official,ssc-out,
 KN,2007,out,official,ssc-out,
@@ -21278,7 +21278,7 @@ SC,2008,out,official,ssc-out,
 SL,2008,out,official,ssc-out,
 SB,2008,out,official,ssc-out,
 SO,2008,out,official,ssc-out,
-ZA,2008,out,official,ssc-out,283408901.2
+ZA,2008,out,official,ssc-out,196053512.5
 SS,2008,out,official,ssc-out,
 LK,2008,out,official,ssc-out,
 KN,2008,out,official,ssc-out,
@@ -21426,7 +21426,7 @@ SC,2009,out,official,ssc-out,
 SL,2009,out,official,ssc-out,
 SB,2009,out,official,ssc-out,
 SO,2009,out,official,ssc-out,
-ZA,2009,out,official,ssc-out,359978252.3
+ZA,2009,out,official,ssc-out,270675860.6
 SS,2009,out,official,ssc-out,
 LK,2009,out,official,ssc-out,
 KN,2009,out,official,ssc-out,
@@ -21574,7 +21574,7 @@ SC,2010,out,official,ssc-out,
 SL,2010,out,official,ssc-out,
 SB,2010,out,official,ssc-out,
 SO,2010,out,official,ssc-out,
-ZA,2010,out,official,ssc-out,277603822.1
+ZA,2010,out,official,ssc-out,203496843.5
 SS,2010,out,official,ssc-out,
 LK,2010,out,official,ssc-out,
 KN,2010,out,official,ssc-out,
@@ -21722,7 +21722,7 @@ SC,2011,out,official,ssc-out,
 SL,2011,out,official,ssc-out,
 SB,2011,out,official,ssc-out,
 SO,2011,out,official,ssc-out,
-ZA,2011,out,official,ssc-out,264099533.2
+ZA,2011,out,official,ssc-out,194264063.1
 SS,2011,out,official,ssc-out,
 LK,2011,out,official,ssc-out,
 KN,2011,out,official,ssc-out,
@@ -21870,7 +21870,7 @@ SC,2012,out,official,ssc-out,
 SL,2012,out,official,ssc-out,
 SB,2012,out,official,ssc-out,
 SO,2012,out,official,ssc-out,
-ZA,2012,out,official,ssc-out,286094352.7
+ZA,2012,out,official,ssc-out,215915878.2
 SS,2012,out,official,ssc-out,
 LK,2012,out,official,ssc-out,
 KN,2012,out,official,ssc-out,
@@ -22018,7 +22018,7 @@ SC,2013,out,official,ssc-out,
 SL,2013,out,official,ssc-out,
 SB,2013,out,official,ssc-out,
 SO,2013,out,official,ssc-out,
-ZA,2013,out,official,ssc-out,304816594.2
+ZA,2013,out,official,ssc-out,228118887.8
 SS,2013,out,official,ssc-out,
 LK,2013,out,official,ssc-out,
 KN,2013,out,official,ssc-out,
@@ -22200,6 +22200,7 @@ YE,2014,out,official,ssc-out,
 ZM,2014,out,official,ssc-out,
 ZW,2014,out,official,ssc-out,
 AF,2000,in,official,long-debt-net-official-in,
+TJ,2000,in,private,remittances-in,
 AL,2000,in,official,long-debt-net-official-in,59571495.55
 DZ,2000,in,official,long-debt-net-official-in,579752064.3
 AO,2000,in,official,long-debt-net-official-in,0
@@ -22388,6 +22389,7 @@ DM,2001,in,official,long-debt-net-official-in,7512284.418
 DO,2001,in,official,long-debt-net-official-in,0
 EC,2001,in,official,long-debt-net-official-in,334635318.4
 EG,2001,in,official,long-debt-net-official-in,0
+MS,2004,in,private,remittances-in,
 SV,2001,in,official,long-debt-net-official-in,51951331.52
 GQ,2001,in,official,long-debt-net-official-in,0
 ER,2001,in,official,long-debt-net-official-in,3418181.916
@@ -22858,6 +22860,7 @@ KZ,2004,in,official,long-debt-net-official-in,225828257.8
 KE,2004,in,official,long-debt-net-official-in,40277035.53
 KI,2004,in,official,long-debt-net-official-in,0
 KP,2004,in,official,long-debt-net-official-in,
+ER,2008,in,private,remittances-in,
 XK,2004,in,official,long-debt-net-official-in,0
 KG,2004,in,official,long-debt-net-official-in,0
 LA,2004,in,official,long-debt-net-official-in,0
@@ -23233,6 +23236,7 @@ VE,2006,in,official,long-debt-net-official-in,0
 VN,2006,in,official,long-debt-net-official-in,0
 WF,2006,in,official,long-debt-net-official-in,
 PS,2006,in,official,long-debt-net-official-in,
+AI,2009,in,private,remittances-in,
 YE,2006,in,official,long-debt-net-official-in,133230748.3
 ZM,2006,in,official,long-debt-net-official-in,1527306.763
 ZW,2006,in,official,long-debt-net-official-in,0
@@ -23326,6 +23330,7 @@ MN,2007,in,official,long-debt-net-official-in,3307837.242
 ME,2007,in,official,long-debt-net-official-in,35152255.74
 MS,2007,in,official,long-debt-net-official-in,
 MA,2007,in,official,long-debt-net-official-in,300100702.5
+SO,2009,in,private,remittances-in,
 MZ,2007,in,official,long-debt-net-official-in,0
 MM,2007,in,official,long-debt-net-official-in,0
 NA,2007,in,official,long-debt-net-official-in,0
@@ -23607,6 +23612,7 @@ LS,2009,in,official,long-debt-net-official-in,419279.9266
 LR,2009,in,official,long-debt-net-official-in,0
 LY,2009,in,official,long-debt-net-official-in,0
 MK,2009,in,official,long-debt-net-official-in,0
+PW,2000,out,private,remittances-out,
 MG,2009,in,official,long-debt-net-official-in,50432078.86
 MW,2009,in,official,long-debt-net-official-in,2294091.344
 MY,2009,in,official,long-debt-net-official-in,0
@@ -24454,6 +24460,7 @@ CO,2000,in,commercial,long-debt-disbursement-in,7033643270
 KM,2000,in,commercial,long-debt-disbursement-in,0
 CD,2000,in,commercial,long-debt-disbursement-in,0
 CG,2000,in,commercial,long-debt-disbursement-in,0
+KI,2001,out,private,remittances-out,
 CK,2000,in,commercial,long-debt-disbursement-in,
 CR,2000,in,commercial,long-debt-disbursement-in,844342279.1
 CI,2000,in,commercial,long-debt-disbursement-in,0
@@ -24639,6 +24646,7 @@ KI,2001,in,commercial,long-debt-disbursement-in,0
 KP,2001,in,commercial,long-debt-disbursement-in,
 XK,2001,in,commercial,long-debt-disbursement-in,0
 KG,2001,in,commercial,long-debt-disbursement-in,33606168.82
+KP,2001,out,private,remittances-out,
 LA,2001,in,commercial,long-debt-disbursement-in,0
 LB,2001,in,commercial,long-debt-disbursement-in,4639673816
 LS,2001,in,commercial,long-debt-disbursement-in,4885590.834
@@ -25288,6 +25296,7 @@ VC,2005,in,commercial,long-debt-disbursement-in,35720863.1
 SD,2005,in,commercial,long-debt-disbursement-in,0
 SR,2005,in,commercial,long-debt-disbursement-in,0
 SZ,2005,in,commercial,long-debt-disbursement-in,751374.4178
+XK,2001,out,private,remittances-out,
 SY,2005,in,commercial,long-debt-disbursement-in,
 TJ,2005,in,commercial,long-debt-disbursement-in,4628096.311
 TZ,2005,in,commercial,long-debt-disbursement-in,28913646.6
@@ -25472,6 +25481,7 @@ AM,2007,in,commercial,long-debt-disbursement-in,596262569.8
 AZ,2007,in,commercial,long-debt-disbursement-in,410155303.7
 BD,2007,in,commercial,long-debt-disbursement-in,0
 BY,2007,in,commercial,long-debt-disbursement-in,2238268035
+TL,2005,out,private,remittances-out,
 BZ,2007,in,commercial,long-debt-disbursement-in,579648050.5
 BJ,2007,in,commercial,long-debt-disbursement-in,0
 BT,2007,in,commercial,long-debt-disbursement-in,0
@@ -25564,6 +25574,7 @@ PW,2007,in,commercial,long-debt-disbursement-in,0
 PA,2007,in,commercial,long-debt-disbursement-in,577367326.5
 PG,2007,in,commercial,long-debt-disbursement-in,958069367.8
 PY,2007,in,commercial,long-debt-disbursement-in,1818673186
+UZ,2010,out,private,remittances-out,
 PE,2007,in,commercial,long-debt-disbursement-in,8344673654
 PH,2007,in,commercial,long-debt-disbursement-in,2866516498
 RW,2007,in,commercial,long-debt-disbursement-in,0
@@ -25657,6 +25668,7 @@ ET,2008,in,commercial,long-debt-disbursement-in,0
 FJ,2008,in,commercial,long-debt-disbursement-in,164670.089
 GA,2008,in,commercial,long-debt-disbursement-in,42281205.36
 GM,2008,in,commercial,long-debt-disbursement-in,0
+PW,2011,out,private,remittances-out,
 GE,2008,in,commercial,long-debt-disbursement-in,709714395.7
 GH,2008,in,commercial,long-debt-disbursement-in,163204282.8
 GD,2008,in,commercial,long-debt-disbursement-in,0
@@ -25749,6 +25761,7 @@ TM,2008,in,commercial,long-debt-disbursement-in,345408.0646
 TV,2008,in,commercial,long-debt-disbursement-in,0
 UG,2008,in,commercial,long-debt-disbursement-in,0
 UA,2008,in,commercial,long-debt-disbursement-in,31647678418
+TO,2014,out,private,remittances-out,
 UY,2008,in,commercial,long-debt-disbursement-in,0
 UZ,2008,in,commercial,long-debt-disbursement-in,952170828
 VU,2008,in,commercial,long-debt-disbursement-in,0
@@ -25841,6 +25854,7 @@ MV,2009,in,commercial,long-debt-disbursement-in,50071441.97
 ML,2009,in,commercial,long-debt-disbursement-in,2713791.638
 MH,2009,in,commercial,long-debt-disbursement-in,0
 MR,2009,in,commercial,long-debt-disbursement-in,0
+TN,2014,out,private,remittances-out,
 MU,2009,in,commercial,long-debt-disbursement-in,91743730.04
 MX,2009,in,commercial,long-debt-disbursement-in,33220902351
 FM,2009,in,commercial,long-debt-disbursement-in,0
@@ -25933,6 +25947,7 @@ KH,2010,in,commercial,long-debt-disbursement-in,0
 CM,2010,in,commercial,long-debt-disbursement-in,6308367.389
 CF,2010,in,commercial,long-debt-disbursement-in,0
 TD,2010,in,commercial,long-debt-disbursement-in,0
+TR,2014,out,private,remittances-out,
 CL,2010,in,commercial,long-debt-disbursement-in,0
 CN,2010,in,commercial,long-debt-disbursement-in,45212278279
 CO,2010,in,commercial,long-debt-disbursement-in,12432365092
@@ -26117,6 +26132,7 @@ IN,2011,in,commercial,long-debt-disbursement-in,34266466251
 ID,2011,in,commercial,long-debt-disbursement-in,34614991712
 IR,2011,in,commercial,long-debt-disbursement-in,204811122.5
 IQ,2011,in,commercial,long-debt-disbursement-in,0
+TM,2014,out,private,remittances-out,
 JM,2011,in,commercial,long-debt-disbursement-in,813302345.7
 JO,2011,in,commercial,long-debt-disbursement-in,156974189.8
 KZ,2011,in,commercial,long-debt-disbursement-in,32798124927
@@ -26209,6 +26225,7 @@ AF,2012,in,commercial,long-debt-disbursement-in,0
 AL,2012,in,commercial,long-debt-disbursement-in,367898000
 DZ,2012,in,commercial,long-debt-disbursement-in,230000
 AO,2012,in,commercial,long-debt-disbursement-in,4111912000
+TV,2014,out,private,remittances-out,
 AI,2012,in,commercial,long-debt-disbursement-in,
 AG,2012,in,commercial,long-debt-disbursement-in,0
 AR,2012,in,commercial,long-debt-disbursement-in,0
@@ -26301,6 +26318,7 @@ NR,2012,in,commercial,long-debt-disbursement-in,
 NP,2012,in,commercial,long-debt-disbursement-in,0
 NI,2012,in,commercial,long-debt-disbursement-in,960688000
 NE,2012,in,commercial,long-debt-disbursement-in,0
+UG,2014,out,private,remittances-out,
 NG,2012,in,commercial,long-debt-disbursement-in,752466000
 NU,2012,in,commercial,long-debt-disbursement-in,
 PK,2012,in,commercial,long-debt-disbursement-in,0
@@ -26839,6 +26857,7 @@ DM,2001,out,commercial,long-debt-capital-payments-out,8606902.347
 DO,2001,out,commercial,long-debt-capital-payments-out,523242394.2
 EC,2001,out,commercial,long-debt-capital-payments-out,2331319828
 EG,2001,out,commercial,long-debt-capital-payments-out,
+UA,2014,out,private,remittances-out,
 SV,2001,out,commercial,long-debt-capital-payments-out,250651482.6
 GQ,2001,out,commercial,long-debt-capital-payments-out,
 ER,2001,out,commercial,long-debt-capital-payments-out,2275466.095
@@ -27603,6 +27622,7 @@ IR,2006,out,commercial,long-debt-capital-payments-out,3340084247
 IQ,2006,out,commercial,long-debt-capital-payments-out,
 JM,2006,out,commercial,long-debt-capital-payments-out,391478210.4
 JO,2006,out,commercial,long-debt-capital-payments-out,579214524.1
+UY,2014,out,private,remittances-out,
 KZ,2006,out,commercial,long-debt-capital-payments-out,22120370674
 KE,2006,out,commercial,long-debt-capital-payments-out,469519935.4
 KI,2006,out,commercial,long-debt-capital-payments-out,
@@ -27857,6 +27877,7 @@ BA,2008,out,commercial,long-debt-capital-payments-out,126053554.4
 BW,2008,out,commercial,long-debt-capital-payments-out,73384416.38
 BR,2008,out,commercial,long-debt-capital-payments-out,50613286870
 BF,2008,out,commercial,long-debt-capital-payments-out,28149052.65
+UZ,2014,out,private,remittances-out,
 BI,2008,out,commercial,long-debt-capital-payments-out,14877386.72
 CV,2008,out,commercial,long-debt-capital-payments-out,22262589.24
 KH,2008,out,commercial,long-debt-capital-payments-out,21668030.58
@@ -27941,6 +27962,7 @@ PW,2008,out,commercial,long-debt-capital-payments-out,
 PA,2008,out,commercial,long-debt-capital-payments-out,750594937.5
 PG,2008,out,commercial,long-debt-capital-payments-out,1311599303
 PY,2008,out,commercial,long-debt-capital-payments-out,356615007.6
+VU,2014,out,private,remittances-out,
 PE,2008,out,commercial,long-debt-capital-payments-out,4185930301
 PH,2008,out,commercial,long-debt-capital-payments-out,8369810466
 RW,2008,out,commercial,long-debt-capital-payments-out,9824070.781
@@ -28624,6 +28646,7 @@ EG,2013,out,commercial,long-debt-capital-payments-out,
 SV,2013,out,commercial,long-debt-capital-payments-out,557253767.3
 GQ,2013,out,commercial,long-debt-capital-payments-out,
 ER,2013,out,commercial,long-debt-capital-payments-out,73784697.25
+VE,2014,out,private,remittances-out,
 ET,2013,out,commercial,long-debt-capital-payments-out,501310594
 FJ,2013,out,commercial,long-debt-capital-payments-out,15053387.14
 GA,2013,out,commercial,long-debt-capital-payments-out,904423912.7
@@ -28793,6 +28816,7 @@ IQ,2014,out,commercial,long-debt-capital-payments-out,
 JM,2014,out,commercial,long-debt-capital-payments-out,537129810.1
 JO,2014,out,commercial,long-debt-capital-payments-out,833478818.5
 KZ,2014,out,commercial,long-debt-capital-payments-out,29009899799
+VN,2014,out,private,remittances-out,
 KE,2014,out,commercial,long-debt-capital-payments-out,876634115
 KI,2014,out,commercial,long-debt-capital-payments-out,
 KP,2014,out,commercial,long-debt-capital-payments-out,
@@ -29044,6 +29068,7 @@ BT,2001,out,commercial,long-debt-interest-payments-out,2854217.524
 BO,2001,out,commercial,long-debt-interest-payments-out,353596497.2
 BA,2001,out,commercial,long-debt-interest-payments-out,203706136.1
 BW,2001,out,commercial,long-debt-interest-payments-out,19227383.94
+WF,2014,out,private,remittances-out,
 BR,2001,out,commercial,long-debt-interest-payments-out,45261661860
 BF,2001,out,commercial,long-debt-interest-payments-out,20327542.88
 BI,2001,out,commercial,long-debt-interest-payments-out,8414862.947
@@ -29127,6 +29152,7 @@ NE,2001,out,commercial,long-debt-interest-payments-out,14672307.47
 NG,2001,out,commercial,long-debt-interest-payments-out,2664700535
 NU,2001,out,commercial,long-debt-interest-payments-out,
 PK,2001,out,commercial,long-debt-interest-payments-out,1418793536
+PS,2014,out,private,remittances-out,
 PW,2001,out,commercial,long-debt-interest-payments-out,
 PA,2001,out,commercial,long-debt-interest-payments-out,599787922.6
 PG,2001,out,commercial,long-debt-interest-payments-out,206191675.4
@@ -29210,6 +29236,7 @@ CG,2002,out,commercial,long-debt-interest-payments-out,
 CK,2002,out,commercial,long-debt-interest-payments-out,
 CR,2002,out,commercial,long-debt-interest-payments-out,393265040.7
 CI,2002,out,commercial,long-debt-interest-payments-out,
+YE,2014,out,private,remittances-out,
 CU,2002,out,commercial,long-debt-interest-payments-out,
 DJ,2002,out,commercial,long-debt-interest-payments-out,3484978.309
 DM,2002,out,commercial,long-debt-interest-payments-out,6901747.206
@@ -29625,6 +29652,7 @@ AL,2005,out,commercial,long-debt-interest-payments-out,27670301.88
 DZ,2005,out,commercial,long-debt-interest-payments-out,1506277095
 AO,2005,out,commercial,long-debt-interest-payments-out,537974549.9
 AI,2005,out,commercial,long-debt-interest-payments-out,
+ZM,2014,out,private,remittances-out,
 AG,2005,out,commercial,long-debt-interest-payments-out,
 AR,2005,out,commercial,long-debt-interest-payments-out,
 AM,2005,out,commercial,long-debt-interest-payments-out,37157235.34
@@ -30958,6 +30986,7 @@ DZ,2014,out,commercial,long-debt-interest-payments-out,38654185.93
 AO,2014,out,commercial,long-debt-interest-payments-out,1018889980
 AI,2014,out,commercial,long-debt-interest-payments-out,
 AG,2014,out,commercial,long-debt-interest-payments-out,
+ZW,2014,out,private,remittances-out,
 AR,2014,out,commercial,long-debt-interest-payments-out,
 AM,2014,out,commercial,long-debt-interest-payments-out,172299247.3
 AZ,2014,out,commercial,long-debt-interest-payments-out,261584880.3
@@ -37902,7 +37931,6 @@ SD,2000,in,private,remittances-in,1976446105
 SR,2000,in,private,remittances-in,
 SZ,2000,in,private,remittances-in,109958679.3
 SY,2000,in,private,remittances-in,
-TJ,2000,in,private,remittances-in,
 TZ,2000,in,private,remittances-in,12009027.44
 TH,2000,in,private,remittances-in,3154751563
 TL,2000,in,private,remittances-in,
@@ -38454,7 +38482,6 @@ FM,2004,in,private,remittances-in,
 MD,2004,in,private,remittances-in,1479406599
 MN,2004,in,private,remittances-in,573316521.4
 ME,2004,in,private,remittances-in,
-MS,2004,in,private,remittances-in,
 MA,2004,in,private,remittances-in,4864484125
 MZ,2004,in,private,remittances-in,72288359.93
 MM,2004,in,private,remittances-in,284203862.3
@@ -39002,7 +39029,6 @@ EC,2008,in,private,remittances-in,3708247575
 EG,2008,in,private,remittances-in,12259420588
 SV,2008,in,private,remittances-in,4080287218
 GQ,2008,in,private,remittances-in,
-ER,2008,in,private,remittances-in,
 ET,2008,in,private,remittances-in,421874402.6
 FJ,2008,in,private,remittances-in,150983650.6
 GA,2008,in,private,remittances-in,
@@ -39112,7 +39138,6 @@ AF,2009,in,private,remittances-in,194845393.5
 AL,2009,in,private,remittances-in,1245404746
 DZ,2009,in,private,remittances-in,2872115317
 AO,2009,in,private,remittances-in,219524.275
-AI,2009,in,private,remittances-in,
 AG,2009,in,private,remittances-in,22194348.06
 AR,2009,in,private,remittances-in,836781990.2
 AM,2009,in,private,remittances-in,1542225913
@@ -39222,7 +39247,6 @@ RS,2009,in,private,remittances-in,3724324373
 SC,2009,in,private,remittances-in,17713015.13
 SL,2009,in,private,remittances-in,43095330.5
 SB,2009,in,private,remittances-in,16978348.59
-SO,2009,in,private,remittances-in,
 ZA,2009,in,private,remittances-in,1060229524
 SS,2009,in,private,remittances-in,
 LK,2009,in,private,remittances-in,3790350152
@@ -40095,7 +40119,6 @@ NE,2000,out,private,remittances-out,25839479.75
 NG,2000,out,private,remittances-out,3166407.245
 NU,2000,out,private,remittances-out,
 PK,2000,out,private,remittances-out,3632296.447
-PW,2000,out,private,remittances-out,
 PA,2000,out,private,remittances-out,30000443.34
 PG,2000,out,private,remittances-out,45642373.23
 PY,2000,out,private,remittances-out,
@@ -40205,9 +40228,6 @@ JM,2001,out,private,remittances-out,327414420.6
 JO,2001,out,private,remittances-out,361112637.6
 KZ,2001,out,private,remittances-out,2030933827
 KE,2001,out,private,remittances-out,10964257.26
-KI,2001,out,private,remittances-out,
-KP,2001,out,private,remittances-out,
-XK,2001,out,private,remittances-out,
 KG,2001,out,private,remittances-out,159516460.8
 LA,2001,out,private,remittances-out,1253169.142
 LB,2001,out,private,remittances-out,
@@ -40861,7 +40881,6 @@ SY,2005,out,private,remittances-out,
 TJ,2005,out,private,remittances-out,300551467
 TZ,2005,out,private,remittances-out,50336615.47
 TH,2005,out,private,remittances-out,
-TL,2005,out,private,remittances-out,
 TG,2005,out,private,remittances-out,50463126.2
 TK,2005,out,private,remittances-out,
 TO,2005,out,private,remittances-out,18596014.45
@@ -41612,7 +41631,6 @@ TV,2010,out,private,remittances-out,2199418.682
 UG,2010,out,private,remittances-out,368587584.2
 UA,2010,out,private,remittances-out,859055365.6
 UY,2010,out,private,remittances-out,7807717.589
-UZ,2010,out,private,remittances-out,
 VU,2010,out,private,remittances-out,3332065.056
 VE,2010,out,private,remittances-out,802639352.7
 VN,2010,out,private,remittances-out,
@@ -41720,7 +41738,6 @@ NE,2011,out,private,remittances-out,108909954.7
 NG,2011,out,private,remittances-out,80763451.22
 NU,2011,out,private,remittances-out,
 PK,2011,out,private,remittances-out,28408617.86
-PW,2011,out,private,remittances-out,
 PA,2011,out,private,remittances-out,480126211.9
 PG,2011,out,private,remittances-out,610676392.2
 PY,2011,out,private,remittances-out,
@@ -42162,20 +42179,3 @@ TH,2014,out,private,remittances-out,
 TL,2014,out,private,remittances-out,
 TG,2014,out,private,remittances-out,
 TK,2014,out,private,remittances-out,
-TO,2014,out,private,remittances-out,
-TN,2014,out,private,remittances-out,
-TR,2014,out,private,remittances-out,
-TM,2014,out,private,remittances-out,
-TV,2014,out,private,remittances-out,
-UG,2014,out,private,remittances-out,
-UA,2014,out,private,remittances-out,
-UY,2014,out,private,remittances-out,
-UZ,2014,out,private,remittances-out,
-VU,2014,out,private,remittances-out,
-VE,2014,out,private,remittances-out,
-VN,2014,out,private,remittances-out,
-WF,2014,out,private,remittances-out,
-PS,2014,out,private,remittances-out,
-YE,2014,out,private,remittances-out,
-ZM,2014,out,private,remittances-out,
-ZW,2014,out,private,remittances-out,
