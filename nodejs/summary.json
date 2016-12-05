@@ -298,7 +298,7 @@
         "year",
         "value"
       ],
-      "csv_size": 188201,
+      "csv_size": 489678,
       "sql": "fact.\"in_oda_gross_2012\""
     },
     "country-year/in-oda-net.csv": {
@@ -977,7 +977,7 @@
         "year",
         "value"
       ],
-      "csv_size": 30211,
+      "csv_size": 27351,
       "sql": "data_series.\"poor_people_190\""
     },
     "country-year/poorest20pct.csv": {
@@ -986,7 +986,7 @@
         "year",
         "value"
       ],
-      "csv_size": 2205,
+      "csv_size": 1997,
       "sql": "data_series.\"2013_p20_population\""
     },
     "country-year/population-by-age.csv": {
