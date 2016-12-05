@@ -1860,7 +1860,7 @@
         "bundle",
         "total-bundle-value"
       ],
-      "csv_size": 266133,
+      "csv_size": 269553,
       "sql": "multilateral_profile.\"purpose_by_bundle_2012\""
     },
     "country-year/warehouse/multilateral_profile/purpose_trend.csv": {
