@@ -233,7 +233,7 @@ db.import=function(only)
 
 		for(var csv_name in datamap.csv){ var csv_sql=datamap.csv[csv_name];
 
-			if((!only)||(only==csv_name))
+			if((!only)||(csv_name.startsWith(only)))
 			{
 				process.stdout.write(argv.csvdir+csv_name+" <- "+csv_sql+" ");
 
