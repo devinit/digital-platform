@@ -1595,6 +1595,15 @@
       "csv_size": 11917,
       "sql": "donor_profile.donor_bundle_2012"
     },
+    "country-year/warehouse/donor_profile/gni_per_capita.csv": {
+      "csv_header": [
+        "id",
+        "year",
+        "value"
+      ],
+      "csv_size": 3305,
+      "sql": "donor_profile.gni_per_capita_2012"
+    },
     "country-year/warehouse/donor_profile/gni_per_capita_per_day_2012.csv": {
       "csv_header": [
         "id",
@@ -1614,6 +1623,15 @@
       ],
       "csv_size": 9234,
       "sql": "donor_profile.loans_grants_2012"
+    },
+    "country-year/warehouse/donor_profile/oda_per_capita.csv": {
+      "csv_header": [
+        "id",
+        "year",
+        "value"
+      ],
+      "csv_size": 888,
+      "sql": "donor_profile.oda_per_capita_2012"
     },
     "country-year/warehouse/donor_profile/oda_per_capita_per_day_2012.csv": {
       "csv_header": [
