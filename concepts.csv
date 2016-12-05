@@ -350,3 +350,4 @@ country-year,warehouse/multilateral_profile/recipient_by_sector_by_parent,simple
 country-year,warehouse/multilateral_profile/sector_by_purpose_by_di_id,simple,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,warehouse/multilateral_profile/sector_by_purpose_by_parent,simple,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,warehouse/multilateral_profile/sector_trend,simple,,,,,,,,,,,,,,,,,,,,,,,,
+reference,aggregated-crs-oda-flow-name,reference,,,,,,,,,,,,,,,,,,,,,,,,
