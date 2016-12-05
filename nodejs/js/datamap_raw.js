@@ -181,6 +181,8 @@ exports.csv=
  "country-year/warehouse/fact/out_debt_relief_2012.csv"					:"fact.out_debt_relief_2012",
  "country-year/warehouse/donor_profile/oda_per_capita_per_day_2012.csv"	:"donor_profile.oda_per_capita_per_day_2012",
  "country-year/warehouse/donor_profile/gni_per_capita_per_day_2012.csv"	:"donor_profile.gni_per_capita_per_day_2012",
+ "country-year/warehouse/donor_profile/oda_per_capita.csv"				:"donor_profile.oda_per_capita_2012",
+ "country-year/warehouse/donor_profile/gni_per_capita.csv"				:"donor_profile.gni_per_capita_2012",
  "country-year/warehouse/fact/dac_oda_percent_gni.csv"					:"fact.dac_oda_percent_gni",
  "country-year/warehouse/donor_profile/recipient_bundle_2012.csv"		:"donor_profile.recipient_bundle_2012",
  "country-year/warehouse/donor_profile/disbursement_by_region_2012.csv"	:"donor_profile.disbursement_by_region_2012",
@@ -211,6 +213,6 @@ exports.csv=
 "country-year/warehouse/multilateral_profile/sector_trend.csv": "multilateral_profile.\"sector_trend_2012\""
  // "country-year/displacement.csv" : "data_series.\"displacement\"",
  // "country-year/forgotten_crisis.csv" : "data_series.\"forgotten_crisis\"",
- // "country-year/number_of_un_appeals.csv" : "data_series.\"number_of_un_appeals\"",
+ // "country-year/number_of_un_appeals.csv" : "data_series.\"number_of_un_appeals\"", 
 }
 
