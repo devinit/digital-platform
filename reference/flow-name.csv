@@ -35,3 +35,13 @@ short-debt-net-flow-in,Short term debt,8,in,recipient,commercial,1,,Short-term d
 ssc-in,Development cooperation,3,in,recipient,official,1,,DC,grey-mid,,Development Initiatives calculations; OECD DAC,Inflows
 ssc-out,Development cooperation,3,out,recipient,official,,1,DC,grey-mid,Estimates of development cooperation,Development Initiatives calculations based on national sources,Outflows
 trade-mispricing-out,Trade mispricing,,out,recipient,illicit,,1,Trade mispricing,red-mid,,Global Financial Integrity program,Outflows
+oda-regions,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to regions,OECD DAC,Gross disbursements to regions
+oofs-regions,OOFs,,out,donor,official,,,Other official flows,lightblue-high,Other official flows to regions,OECD DAC,Gross disbursements to regions
+remittances-regions,Remittances,,out,donor,private,,,Remittances,blue-high,Remittances to regions,Development Initiatives calculations; World Bank Migration and Remittances data,Outflows to regions
+fdi-regions,FDI,,out,donor,commercial,,,Foreign direct investment,orange-high,Foreign direct investment in regions,Development Initiatives calculations; OECD,Investment in regions
+fdi-regions-new,FDI,,out,donor,commercial,,,Foreign direct investment (new),orange-high,Foreign direct investment in regions (new methodology),Development Initiatives calculations; OECD,Investment in regions (new)
+oda-individual-devcountries,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to individual developing countries,OECD DAC,Gross disbursements by developing country
+oofs-individual-devcountries,OOFs,,out,donor,official,,,Other official flows,lightblue-high,Other official flows to individual developing countries,OECD DAC,Gross disbursements by developing country
+remittances-individual-devcountries,Remittances,,out,donor,private,,,Remittances,blue-high,Remittances to individual developing countries,World Bank Migration and Remittances data,Outflows by developing country
+fdi-individual-devcountries,FDI,,out,donor,commercial,,,Foreign direct investment,orange-high,Foreign direct investment in individual developing countries,OECD,Investment by developing country
+fdi-individual-devcountries-new,FDI,,out,donor,commercial,,,Foreign direct investment (new),orange-high,Foreign direct investment in individual developing countries (new methodology),OECD,Investment by developing country (new)
