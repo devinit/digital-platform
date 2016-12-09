@@ -1574,6 +1574,37 @@
       "csv_size": 267687,
       "sql": "donor_profile.bubble_chart"
     },
+    "country-year/warehouse/donor_profile/d14_region": {
+      "csv_header": [
+        "id",
+        "region",
+        "flow",
+        "year",
+        "value"
+      ],
+      "csv_size": 67122,
+      "sql": "donor_profile.d14_region"
+    },
+    "country-year/warehouse/donor_profile/d15_depth_of_poverty": {
+      "csv_header": [
+        "id",
+        "year",
+        "value"
+      ],
+      "csv_size": 1802,
+      "sql": "donor_profile.d15_depth_of_poverty"
+    },
+    "country-year/warehouse/donor_profile/d15_flow": {
+      "csv_header": [
+        "id-from",
+        "id-to",
+        "flow",
+        "year",
+        "value"
+      ],
+      "csv_size": 1132232,
+      "sql": "donor_profile.d15_flow"
+    },
     "country-year/warehouse/donor_profile/disbursement_by_region_2012.csv": {
       "csv_header": [
         "id",
@@ -1621,7 +1652,7 @@
         "value",
         "percent-of-total-oda"
       ],
-      "csv_size": 9234,
+      "csv_size": 9372,
       "sql": "donor_profile.loans_grants_2012"
     },
     "country-year/warehouse/donor_profile/oda_per_capita_2012.csv": {
