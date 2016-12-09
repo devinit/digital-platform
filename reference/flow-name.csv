@@ -22,7 +22,7 @@ oda-in,ODA,1,in,recipient,official,1,,Official development assistance,red-high,,
 oda-individual-devcountries,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to individual developing countries,OECD DAC,Gross disbursements by developing country
 oda-interest,ODA,1,in,donor,official,2,,Interest payments on ODA loans,red-high,Receipt of interest payments on ODA loans,OECD DAC,Interest payments
 oda-interest-payments-out,ODA,1,out,recipient,official,,2,Interest payments on ODA loans,red-high,,OECD DAC,Interest payments
-oda-loans-equity-investments,ODA,,out,donor,official,,,ODA loans & equity investments,,Two types of ODA flows grouped together,OECD DAC,ODA loans & equity investments
+oda-loans-equity-investments,ODA,,out,donor,official,,,ODA loans & equity investments,red-high,Two types of ODA flows grouped together,OECD DAC,ODA loans & equity investments
 oda-out,ODA,1,out,donor,official,,1,Official development assistance,red-high,Official development assistance,OECD DAC,Gross disbursements
 oda-regions,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to regions,OECD DAC,Gross disbursements to regions
 oofs-capital-payments-out,OOFs,2,out,recipient,official,,1,Capital repayments on OOFs loans,lightblue-high,,OECD DAC,Capital repayments
