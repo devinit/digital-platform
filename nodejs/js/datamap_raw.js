@@ -190,9 +190,9 @@ exports.csv=
  "country-year/warehouse/donor_profile/donor_bundle_2012.csv"			:"donor_profile.donor_bundle_2012",
  "country-year/warehouse/donor_profile/loans_grants_2012.csv"			:"donor_profile.loans_grants_2012",
  "country-year/warehouse/donor_profile/sectors_over_time_2012.csv"		:"donor_profile.sectors_over_time_2012",
- "country-year/warehouse/donor_profile/d14_region"                      :"donor_profile.d14_region",
- "country-year/warehouse/donor_profile/d15_flow"                        :"donor_profile.d15_flow",
- "country-year/warehouse/donor_profile/d15_depth_of_poverty"            :"donor_profile.d15_depth_of_poverty",
+ "country-year/warehouse/donor_profile/d14_region.csv"                  :"donor_profile.d14_region",
+ "country-year/warehouse/donor_profile/d15_flow.csv"                    :"donor_profile.d15_flow",
+ "country-year/warehouse/donor_profile/d15_depth_of_poverty.csv"        :"donor_profile.d15_depth_of_poverty",
 // multilateral_profiles
 "country-year/warehouse/multilateral_profile/oda_oof_trend.csv" : "multilateral_profile.\"oda_oof_trend_2012\"",
 "country-year/warehouse/multilateral_profile/oda_oof_flow_type.csv" : "multilateral_profile.\"oda_oof_flow_type_2012\"",
