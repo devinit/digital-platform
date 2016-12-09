@@ -46,5 +46,5 @@ short-debt-interest-out,Short term debt,8,out,recipient,commercial,,1,Interest p
 short-debt-net-flow-in,Short term debt,8,in,recipient,commercial,1,,Short-term debt,yellow-high,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),World Bank International Debt Statistics,Net disbursements
 ssc-in,Development cooperation,3,in,recipient,official,1,,DC,grey-mid,,Development Initiatives calculations; OECD DAC,Inflows
 ssc-out,Development cooperation,3,out,recipient,official,,1,DC,grey-mid,Estimates of development cooperation,Development Initiatives calculations based on national sources,Outflows
-total-oda,ODA,,out,donor,official,,,Total ODA,,Total ODA,OECD DAC,Total ODA
+total-oda,ODA,,out,donor,official,,,Total ODA,red-low,Total ODA,OECD DAC,Total ODA
 trade-mispricing-out,Trade mispricing,,out,recipient,illicit,,1,Trade mispricing,red-mid,,Global Financial Integrity program,Outflows
