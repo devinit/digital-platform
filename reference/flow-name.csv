@@ -17,10 +17,12 @@ long-debt-net-official-in,Long term debt,4,in,recipient,official,1,,Long-term de
 net-portfolio-equity-in,Portfolio equity,6,in,recipient,commercial,1,,Portfolio equity,yellow-mid,,,Net inflows
 oda-capital-payments-out,ODA,1,out,recipient,official,,1,Capital repayments on ODA loans,red-high,,OECD DAC,Capital repayments
 oda-capital-repay,ODA,1,in,donor,official,1,,Capital repayments on ODA loans,red-high,Receipt of capital repayments on ODA loans,OECD DAC,Capital repayments
+oda-grants,ODA,,out,donor,official,,,ODA grants,,This is a type of ODA flow,OECD DAC,ODA grants
 oda-in,ODA,1,in,recipient,official,1,,Official development assistance,red-high,,OECD DAC,Gross disbursements
 oda-individual-devcountries,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to individual developing countries,OECD DAC,Gross disbursements by developing country
 oda-interest,ODA,1,in,donor,official,2,,Interest payments on ODA loans,red-high,Receipt of interest payments on ODA loans,OECD DAC,Interest payments
 oda-interest-payments-out,ODA,1,out,recipient,official,,2,Interest payments on ODA loans,red-high,,OECD DAC,Interest payments
+oda-loans-equity-investments,ODA,,out,donor,official,,,ODA loans & equity investments,,Two types of ODA flows grouped together,OECD DAC,ODA loans & equity investments
 oda-out,ODA,1,out,donor,official,,1,Official development assistance,red-high,Official development assistance,OECD DAC,Gross disbursements
 oda-regions,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to regions,OECD DAC,Gross disbursements to regions
 oofs-capital-payments-out,OOFs,2,out,recipient,official,,1,Capital repayments on OOFs loans,lightblue-high,,OECD DAC,Capital repayments
@@ -44,7 +46,5 @@ short-debt-interest-out,Short term debt,8,out,recipient,commercial,,1,Interest p
 short-debt-net-flow-in,Short term debt,8,in,recipient,commercial,1,,Short-term debt,yellow-high,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),World Bank International Debt Statistics,Net disbursements
 ssc-in,Development cooperation,3,in,recipient,official,1,,DC,grey-mid,,Development Initiatives calculations; OECD DAC,Inflows
 ssc-out,Development cooperation,3,out,recipient,official,,1,DC,grey-mid,Estimates of development cooperation,Development Initiatives calculations based on national sources,Outflows
-trade-mispricing-out,Trade mispricing,,out,recipient,illicit,,1,Trade mispricing,red-mid,,Global Financial Integrity program,Outflows
-oda-grants,ODA,,out,donor,official,,,ODA grants,,This is a type of ODA flow,OECD DAC,ODA grants
-oda-loans-equity-investments,ODA,,out,donor,official,,,ODA loans & equity investments,,Two types of ODA flows grouped together,OECD DAC,ODA loans & equity investments
 total-oda,ODA,,out,donor,official,,,Total ODA,,Total ODA,OECD DAC,Total ODA
+trade-mispricing-out,Trade mispricing,,out,recipient,illicit,,1,Trade mispricing,red-mid,,Global Financial Integrity program,Outflows
