@@ -1652,7 +1652,7 @@
         "value",
         "percent-of-total-oda"
       ],
-      "csv_size": 9372,
+      "csv_size": 9234,
       "sql": "donor_profile.loans_grants_2012"
     },
     "country-year/warehouse/donor_profile/oda_per_capita_2012.csv": {
