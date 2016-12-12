@@ -27,7 +27,7 @@ exports.csv=
  "country-year/human-hazard.csv": "data_series.\"human_hazard\"",
  "country-year/in-ha.csv": "data_series.\"in_ha\"",
  "country-year/in-oda-gross.csv": "fact.\"in_oda_gross_2012\"",
- "country-year/in-oda-net.csv": "data_series.\"in_oda_net\"",
+ "country-year/in-oda-net.csv": "fact.\"in_oda_net\"",
  "country-year/in-oof-gross.csv": "data_series.\"in_oof_gross\"",
  "country-year/intl-flows-donors.csv": "data_series.\"intl_flows_donors\"",
  "country-year/intl-flows-recipients.csv": "data_series.\"intl_flows_recipients\"",
