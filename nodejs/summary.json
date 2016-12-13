@@ -232,8 +232,8 @@
         "year",
         "value"
       ],
-      "csv_size": 198713,
-      "sql": "fact.\"gni_usd_current\""
+      "csv_size": 171708,
+      "sql": "fact.\"gni_usd_current_2012\""
     },
     "country-year/gov-revenue-pc-gdp.csv": {
       "csv_header": [

@@ -128,7 +128,7 @@ exports.csv=
  "country-year/uganda-water-source-comm-func.csv": "data_series.\"uganda_water_source_comm_func\"",
  "country-year/gdp-usd-current.csv": "fact.\"gdp_usd_current\"",
  "country-year/gni-pc-usd-current.csv": "fact.\"gni_pc_usd_current\"",
- "country-year/gni-usd-current.csv": "fact.\"gni_usd_current\"",
+ "country-year/gni-usd-current.csv": "fact.\"gni_usd_current_2012\"",
  "country-year/income-share-bottom-20pc.csv": "fact.\"income_share_bottom_20pc\"",
  "country-year/income-share-by-quintile.csv": "fact.\"income_share_by_quintile\"",
  "country-year/life-expectancy-at-birth.csv": "fact.\"life_expectancy_at_birth\"",
