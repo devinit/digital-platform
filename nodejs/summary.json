@@ -307,8 +307,8 @@
         "year",
         "value"
       ],
-      "csv_size": 184678,
-      "sql": "fact.\"in_oda_net\""
+      "csv_size": 187672,
+      "sql": "fact.\"in_oda_net_2012\""
     },
     "country-year/in-oof-gross.csv": {
       "csv_header": [
