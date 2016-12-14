@@ -79,6 +79,15 @@
       "csv_size": 23893,
       "sql": "data_series.\"depth_of_extreme_poverty_190\""
     },
+    "country-year/depth-of-extreme-poverty.csv": {
+      "csv_header": [
+        "id",
+        "year",
+        "value"
+      ],
+      "csv_size": 2096,
+      "sql": "data_series.\"depth_of_extreme_poverty\""
+    },
     "country-year/dev-coop-in-detail.csv": {
       "csv_header": [
         "id",

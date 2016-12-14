@@ -8,6 +8,7 @@ exports.csv=
  "country-year/climate-vulnerability.csv": "data_series.\"climate_vulnerability\"",
  "country-year/dac-oda-percent-gni.csv": "data_series.\"dac_oda_percent_gni\"",
  "country-year/dac-oda-to-ldcs-pc-gni.csv": "data_series.\"dac_oda_to_ldcs_pc_gni\"",
+ "country-year/depth-of-extreme-poverty.csv": "data_series.\"depth_of_extreme_poverty\"",
  "country-year/depth-of-extreme-poverty-190.csv": "data_series.\"depth_of_extreme_poverty_190\"",
  "country-year/dev-coop-in-detail.csv": "data_series.\"dev_coop_in_detail\"",
  "country-year/dfis-out.csv": "data_series.\"dfis_out\"",

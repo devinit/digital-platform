@@ -353,5 +353,6 @@ country-year,warehouse/multilateral_profile/recipient_by_sector_by_parent,simple
 country-year,warehouse/multilateral_profile/sector_by_purpose_by_di_id,simple,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,warehouse/multilateral_profile/sector_by_purpose_by_parent,simple,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,warehouse/multilateral_profile/sector_trend,simple,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,depth-of-extreme-poverty,simple,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,poverty-190,simple,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,poverty-200,simple,,,,,,,,,,,,,,,,,,,,,,,,
