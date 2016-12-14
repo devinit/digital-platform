@@ -989,6 +989,16 @@
       "csv_size": 27351,
       "sql": "data_series.\"poor_people_190\""
     },
+    "country-year/poor-people.csv": {
+      "csv_header": [
+        "id",
+        "year",
+        "value",
+        "original-value"
+      ],
+      "csv_size": 63565,
+      "sql": "data_series.\"poor_people\""
+    },
     "country-year/poorest20pct.csv": {
       "csv_header": [
         "id",

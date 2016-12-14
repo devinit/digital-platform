@@ -8,7 +8,6 @@ exports.csv=
  "country-year/climate-vulnerability.csv": "data_series.\"climate_vulnerability\"",
  "country-year/dac-oda-percent-gni.csv": "data_series.\"dac_oda_percent_gni\"",
  "country-year/dac-oda-to-ldcs-pc-gni.csv": "data_series.\"dac_oda_to_ldcs_pc_gni\"",
- "country-year/depth-of-extreme-poverty.csv": "data_series.\"depth_of_extreme_poverty\"",
  "country-year/depth-of-extreme-poverty-190.csv": "data_series.\"depth_of_extreme_poverty_190\"",
  "country-year/dev-coop-in-detail.csv": "data_series.\"dev_coop_in_detail\"",
  "country-year/dfis-out.csv": "data_series.\"dfis_out\"",
@@ -74,8 +73,6 @@ exports.csv=
  "country-year/out-ssc-net.csv": "data_series.\"out_ssc_net\"",
  "country-year/poorest20pct.csv": "data_series.\"2013_p20_population\"",
  "country-year/poor-people-190.csv": "data_series.\"poor_people_190\"",
- "country-year/poverty-125.csv": "data_series.\"poverty_125\"",
- "country-year/poverty-200.csv": "data_series.\"poverty_200\"",
  "country-year/poverty-190.csv": "data_series.\"poverty_190\"",
  "country-year/poverty-310.csv": "data_series.\"poverty_310\"",
  "country-year/profits-pct-fdi.csv": "data_series.\"profits_pct_fdi\"",
@@ -216,9 +213,16 @@ exports.csv=
 "country-year/warehouse/multilateral_profile/recipient_by_sector_by_parent.csv" : "multilateral_profile.\"recipient_by_sector_by_parent_2012\"",
 "country-year/warehouse/multilateral_profile/sector_by_purpose_by_di_id.csv": "multilateral_profile.\"sector_by_purpose_by_di_id_2012\"",
 "country-year/warehouse/multilateral_profile/sector_by_purpose_by_parent.csv": "multilateral_profile.\"sector_by_purpose_by_parent_2012\"",
-"country-year/warehouse/multilateral_profile/sector_trend.csv": "multilateral_profile.\"sector_trend_2012\""
+"country-year/warehouse/multilateral_profile/sector_trend.csv": "multilateral_profile.\"sector_trend_2012\"",
  // "country-year/displacement.csv" : "data_series.\"displacement\"",
  // "country-year/forgotten_crisis.csv" : "data_series.\"forgotten_crisis\"",
  // "country-year/number_of_un_appeals.csv" : "data_series.\"number_of_un_appeals\"", 
+
+// temporary include old poverty data, parts of site still use it.
+ "country-year/poor-people.csv": "data_series.\"poor_people\"",
+ "country-year/depth-of-extreme-poverty.csv": "data_series.\"depth_of_extreme_poverty\"",
+ "country-year/poverty-125.csv": "data_series.\"poverty_125\"",
+ "country-year/poverty-200.csv": "data_series.\"poverty_200\"",
+
 }
 
