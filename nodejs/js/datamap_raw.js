@@ -26,7 +26,7 @@ exports.csv=
  "country-year/health-mis.csv": "data_series.\"health_mis\"",
  "country-year/human-hazard.csv": "data_series.\"human_hazard\"",
  "country-year/in-ha.csv": "data_series.\"in_ha\"",
- "country-year/in-oda-gross.csv": "fact.\"in_oda_gross_2012\"",
+ "country-year/in-oda-gross.csv": "  ( SELECT * FROM fact.\"in_oda_gross_2012\" WHERE year<=2014 ) sq ",
  "country-year/in-oda-net.csv": "fact.\"in_oda_net_2012\"",
  "country-year/in-oof-gross.csv": "data_series.\"in_oof_gross\"",
  "country-year/intl-flows-donors.csv": "data_series.\"intl_flows_donors\"",

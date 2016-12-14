@@ -298,8 +298,8 @@
         "year",
         "value"
       ],
-      "csv_size": 489678,
-      "sql": "fact.\"in_oda_gross_2012\""
+      "csv_size": 481101,
+      "sql": "  ( SELECT * FROM fact.\"in_oda_gross_2012\" WHERE year<=2014 ) sq "
     },
     "country-year/in-oda-net.csv": {
       "csv_header": [
@@ -1037,6 +1037,16 @@
       "csv_size": 169236,
       "sql": "fact.\"population_urban\""
     },
+    "country-year/poverty-125.csv": {
+      "csv_header": [
+        "id",
+        "year",
+        "value",
+        "original-value"
+      ],
+      "csv_size": 51974,
+      "sql": "data_series.\"poverty_125\""
+    },
     "country-year/poverty-190.csv": {
       "csv_header": [
         "id",
@@ -1045,6 +1055,16 @@
       ],
       "csv_size": 24326,
       "sql": "data_series.\"poverty_190\""
+    },
+    "country-year/poverty-200.csv": {
+      "csv_header": [
+        "id",
+        "year",
+        "value",
+        "original-value"
+      ],
+      "csv_size": 52727,
+      "sql": "data_series.\"poverty_200\""
     },
     "country-year/poverty-310.csv": {
       "csv_header": [
