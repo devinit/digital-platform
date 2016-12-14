@@ -73,6 +73,8 @@ exports.csv=
  "country-year/out-ssc-net.csv": "data_series.\"out_ssc_net\"",
  "country-year/poorest20pct.csv": "data_series.\"2013_p20_population\"",
  "country-year/poor-people-190.csv": "data_series.\"poor_people_190\"",
+ "country-year/poverty-125.csv": "data_series.\"poverty_125\"",
+ "country-year/poverty-200.csv": "data_series.\"poverty_200\"",
  "country-year/poverty-190.csv": "data_series.\"poverty_190\"",
  "country-year/poverty-310.csv": "data_series.\"poverty_310\"",
  "country-year/profits-pct-fdi.csv": "data_series.\"profits_pct_fdi\"",
