@@ -1,4 +1,4 @@
-Donor,donor id,Channel,year,constant 2012 disbursement
+from_di_id,to_di_id,channel,year,value
 Bulgaria,BG,All Channels,2014,0.000 
 Bulgaria,BG,Public Sector,2014,0.000 
 Bulgaria,BG,NGOs & Civil Society,2014,0.000 
