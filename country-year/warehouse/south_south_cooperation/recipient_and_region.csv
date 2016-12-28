@@ -1,0 +1,1232 @@
+from_di_id,to_di_id,recipient_name,region,year,value
+AE,EG,Egypt,north-of-sahara,2014,3141601360.06
+AE,JO,Jordan,middle-east,2014,685232995.58
+AE,MA,Morocco,north-of-sahara,2014,487236073.06
+AE,PS,West Bank and Gaza Strip,middle-east,2014,93263009.08
+AE,PK,Pakistan,south-central-asia,2014,89340316.40
+AE,AF,Afghanistan,south-central-asia,2014,81158134.19
+AE,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,63387147.65
+AE,YE,Yemen,middle-east,2014,58414441.27
+AE,LY,Libya,north-of-sahara,2014,50420469.06
+AE,SY,Syrian Arab Republic,middle-east,2014,49865744.85
+AE,TN,Tunisia,north-of-sahara,2014,28905094.05
+AE,SO,Somalia,south-of-sahara,2014,23219170.82
+AE,IQ,Iraq,middle-east,2014,18692224.98
+AE,LB,Lebanon,middle-east,2014,15165763.88
+AE,africa,Africa regional,africa,2014,12233650.16
+AE,DZ,Algeria,north-of-sahara,2014,11114295.93
+AE,MY,Malaysia,far-east-asia,2014,9985035.92
+AE,PH,Philippines,far-east-asia,2014,9034080.12
+AE,LS,Lesotho,south-of-sahara,2014,8350580.63
+AE,AL,Albania,europe,2014,7855291.15
+AE,SD,Sudan,south-of-sahara,2014,5537336.39
+AE,WS,Samoa,oceania,2014,4814213.75
+AE,GN,Guinea,south-of-sahara,2014,3080700.57
+AE,SC,Seychelles,south-of-sahara,2014,2823150.04
+AE,BJ,Benin,south-of-sahara,2014,2813244.25
+AE,BA,Bosnia and Herzegovina,europe,2014,2575505.30
+AE,SL,Sierra Leone,south-of-sahara,2014,2436824.24
+AE,ET,Ethiopia,south-of-sahara,2014,2397201.08
+AE,BF,Burkina Faso,south-of-sahara,2014,2357577.92
+AE,KE,Kenya,south-of-sahara,2014,2278331.61
+AE,KM,Comoros,south-of-sahara,2014,2149556.34
+AE,IN,India,south-central-asia,2014,2100027.40
+AE,asia,Asia regional,asia,2014,2010875.29
+AE,MW,Malawi,south-of-sahara,2014,2000969.50
+AE,TJ,Tajikistan,south-central-asia,2014,1961346.34
+AE,TV,Tuvalu,oceania,2014,1852382.66
+AE,KG,Kyrgyzstan,south-central-asia,2014,1575020.55
+AE,TD,Chad,south-of-sahara,2014,1515585.81
+AE,RS,Serbia,europe,2014,1505680.02
+AE,MR,Mauritania,south-of-sahara,2014,1396716.33
+AE,GH,Ghana,south-of-sahara,2014,1386810.54
+AE,KZ,Kazakhstan,south-central-asia,2014,1386810.54
+AE,AM,Armenia,south-central-asia,2014,1267941.07
+AE,TZ,Tanzania,south-of-sahara,2014,1149071.59
+AE,LR,Liberia,south-of-sahara,2014,990578.96
+AE,SS,South Sudan,south-of-sahara,2014,980673.17
+AE,GM,Gambia,south-of-sahara,2014,960861.59
+AE,VU,Vanuatu,oceania,2014,891521.06
+AE,MV,Maldives,south-central-asia,2014,871709.48
+AE,KI,Kiribati,oceania,2014,861803.70
+AE,FJ,Fiji,oceania,2014,861803.70
+AE,VN,Viet Nam,far-east-asia,2014,812274.75
+AE,SN,Senegal,south-of-sahara,2014,772651.59
+AE,CI,Côte d'Ivoire,south-of-sahara,2014,693405.27
+AE,LA,Lao People's Democratic Republic,far-east-asia,2014,673593.69
+AE,DJ,Djibouti,south-of-sahara,2014,653782.11
+AE,LK,Sri Lanka,south-central-asia,2014,643876.32
+AE,NA,Namibia,south-of-sahara,2014,564630.01
+AE,ZA,South Africa,south-of-sahara,2014,554724.22
+AE,NE,Niger,south-of-sahara,2014,525006.85
+AE,RW,Rwanda,south-of-sahara,2014,445760.53
+AE,CG,Congo,south-of-sahara,2014,356608.43
+AE,UG,Uganda,south-of-sahara,2014,326891.06
+AE,MZ,Mozambique,south-of-sahara,2014,307079.48
+AE,TM,Turkmenistan,south-central-asia,2014,287267.90
+AE,TG,Togo,south-of-sahara,2014,237738.95
+AE,CM,Cameroon,south-of-sahara,2014,217927.37
+AE,NP,Nepal,south-central-asia,2014,208021.58
+AE,ML,Mali,south-of-sahara,2014,198115.79
+AE,ID,Indonesia,far-east-asia,2014,198115.79
+AE,BD,Bangladesh,south-central-asia,2014,178304.21
+AE,TH,Thailand,far-east-asia,2014,138681.05
+AE,NG,Nigeria,south-of-sahara,2014,138681.05
+AE,BI,Burundi,south-of-sahara,2014,99057.90
+AE,MG,Madagascar,south-of-sahara,2014,89152.11
+AE,TR,Turkey,europe,2014,69340.53
+AE,EC,Ecuador,south-america,2014,49528.95
+AE,XK,Kosovo,europe,2014,49528.95
+AE,ER,Eritrea,south-of-sahara,2014,39623.16
+AE,UA,Ukraine,europe,2014,39623.16
+AE,MX,Mexico,north-central-america,2014,39623.16
+AE,CF,Central African Republic,south-of-sahara,2014,39623.16
+AE,GT,Guatemala,north-central-america,2014,29717.37
+AE,UZ,Uzbekistan,south-central-asia,2014,29717.37
+AE,CD,Democratic Republic of the Congo,south-of-sahara,2014,29717.37
+AE,PE,Peru,south-america,2014,29717.37
+AE,BR,Brazil,south-america,2014,29717.37
+AE,CO,Colombia,south-america,2014,29717.37
+AE,IR,Iran,middle-east,2014,19811.58
+AE,HT,Haiti,north-central-america,2014,19811.58
+AE,CU,Cuba,north-central-america,2014,19811.58
+AE,BO,Bolivia,south-america,2014,19811.58
+AE,CN,China (People's Republic of),far-east-asia,2014,19811.58
+AE,MM,Myanmar,south-central-asia,2014,19811.58
+AE,ZW,Zimbabwe,south-of-sahara,2014,9905.79
+AE,AG,Antigua and Barbuda,north-central-america,2014,9905.79
+AE,TO,Tonga,oceania,2014,9905.79
+AE,BT,Bhutan,south-central-asia,2014,9905.79
+AE,ME,Montenegro,europe,2014,9905.79
+AE,ZM,Zambia,south-of-sahara,2014,9905.79
+AE,VE,Venezuela,south-america,2014,0.00
+AE,KH,Cambodia,far-east-asia,2014,0.00
+BG,MD,Moldova,europe,2015,342224.54
+BG,AL,Albania,europe,2015,187671.52
+BG,europe,Europe regional,europe,2015,154553.02
+BG,BA,Bosnia and Herzegovina,europe,2015,132474.01
+BG,UA,Ukraine,europe,2015,132474.01
+BG,MK,Former Yugoslav Republic of Macedonia,europe,2015,121434.51
+BG,SY,Syrian Arab Republic,middle-east,2015,121434.51
+BG,RS,Serbia,europe,2015,99355.51
+BG,GE,Georgia,south-central-asia,2015,99355.51
+BG,NP,Nepal,south-central-asia,2015,44158.00
+BG,AF,Afghanistan,south-central-asia,2015,33118.50
+BG,SO,Somalia,south-of-sahara,2015,33118.50
+BG,IQ,Iraq,middle-east,2015,33118.50
+BG,VN,Viet Nam,far-east-asia,2015,11039.50
+BG,SY,Syrian Arab Republic,middle-east,2014,267455.99
+BG,RS,Serbia,europe,2014,128775.10
+BG,BA,Bosnia and Herzegovina,europe,2014,118869.33
+BG,europe,Europe regional,europe,2014,89152.00
+BG,UA,Ukraine,europe,2014,69340.44
+BG,PS,West Bank and Gaza Strip,middle-east,2014,69340.44
+BG,AF,Afghanistan,south-central-asia,2014,69340.44
+BG,south-of-sahara,South of Sahara regional,south-of-sahara,2014,69340.44
+BG,MK,Former Yugoslav Republic of Macedonia,europe,2014,49528.89
+BG,XK,Kosovo,europe,2014,39623.11
+BG,GE,Georgia,south-central-asia,2014,9905.78
+EE,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,3408777.03
+EE,AF,Afghanistan,south-central-asia,2014,2165898.54
+EE,UA,Ukraine,europe,2014,1407377.11
+EE,MD,Moldova,europe,2014,1087518.68
+EE,GE,Georgia,south-central-asia,2014,1023546.99
+EE,SY,Syrian Arab Republic,middle-east,2014,493495.87
+EE,PS,West Bank and Gaza Strip,middle-east,2014,475218.24
+EE,KG,Kyrgyzstan,south-central-asia,2014,475218.24
+EE,south-of-sahara,South of Sahara regional,south-of-sahara,2014,402107.75
+EE,europe,Europe regional,europe,2014,383830.12
+EE,IQ,Iraq,middle-east,2014,328997.25
+EE,BY,Belarus,europe,2014,255886.75
+EE,SS,South Sudan,south-of-sahara,2014,246747.93
+EE,AM,Armenia,south-central-asia,2014,164498.62
+EE,JO,Jordan,middle-east,2014,127943.37
+EE,oceania,Oceania regional,oceania,2014,118804.56
+EE,TJ,Tajikistan,south-central-asia,2014,118804.56
+EE,CF,Central African Republic,south-of-sahara,2014,118804.56
+EE,XK,Kosovo,europe,2014,118804.56
+EE,TN,Tunisia,north-of-sahara,2014,109665.75
+EE,PH,Philippines,far-east-asia,2014,100526.94
+EE,SD,Sudan,south-of-sahara,2014,91388.12
+EE,BA,Bosnia and Herzegovina,europe,2014,82249.31
+EE,SL,Sierra Leone,south-of-sahara,2014,45694.06
+EE,AL,Albania,europe,2014,45694.06
+EE,UG,Uganda,south-of-sahara,2014,45694.06
+EE,SN,Senegal,south-of-sahara,2014,36555.25
+EE,UZ,Uzbekistan,south-central-asia,2014,36555.25
+EE,africa,Africa regional,africa,2014,27416.44
+EE,YE,Yemen,middle-east,2014,27416.44
+EE,ET,Ethiopia,south-of-sahara,2014,27416.44
+EE,EG,Egypt,north-of-sahara,2014,18277.62
+EE,NP,Nepal,south-central-asia,2014,18277.62
+EE,IN,India,south-central-asia,2014,18277.62
+EE,AZ,Azerbaijan,south-central-asia,2014,18277.62
+EE,ER,Eritrea,south-of-sahara,2014,9138.81
+EE,MK,Former Yugoslav Republic of Macedonia,europe,2014,9138.81
+EE,CU,Cuba,north-central-america,2014,9138.81
+EE,GN,Guinea,south-of-sahara,2014,9138.81
+EE,GH,Ghana,south-of-sahara,2014,0.00
+EE,DZ,Algeria,north-of-sahara,2014,0.00
+HR,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,29830686.39
+HU,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,18063406.69
+HU,JO,Jordan,middle-east,2014,1887076.41
+HU,UA,Ukraine,europe,2014,1566078.88
+HU,RS,Serbia,europe,2014,1439625.30
+HU,VN,Viet Nam,far-east-asia,2014,1332626.13
+HU,LK,Sri Lanka,south-central-asia,2014,1001901.39
+HU,europe,Europe regional,europe,2014,418269.51
+HU,ME,Montenegro,europe,2014,311270.34
+HU,LA,Lao People's Democratic Republic,far-east-asia,2014,282088.74
+HU,CN,China (People's Republic of),far-east-asia,2014,272361.54
+HU,DZ,Algeria,north-of-sahara,2014,243179.95
+HU,TR,Turkey,europe,2014,204271.16
+HU,NG,Nigeria,south-of-sahara,2014,184816.76
+HU,KZ,Kazakhstan,south-central-asia,2014,155635.17
+HU,YE,Yemen,middle-east,2014,145907.97
+HU,IQ,Iraq,middle-east,2014,145907.97
+HU,BA,Bosnia and Herzegovina,europe,2014,136180.77
+HU,PH,Philippines,far-east-asia,2014,126453.57
+HU,PS,West Bank and Gaza Strip,middle-east,2014,106999.18
+HU,TN,Tunisia,north-of-sahara,2014,106999.18
+HU,GE,Georgia,south-central-asia,2014,87544.78
+HU,EG,Egypt,north-of-sahara,2014,87544.78
+HU,SY,Syrian Arab Republic,middle-east,2014,87544.78
+HU,AF,Afghanistan,south-central-asia,2014,77817.58
+HU,MN,Mongolia,far-east-asia,2014,77817.58
+HU,MD,Moldova,europe,2014,68090.39
+HU,ex-yugoslavia,States Ex-Yugoslavia,europe,2014,68090.39
+HU,UG,Uganda,south-of-sahara,2014,48635.99
+HU,AO,Angola,south-of-sahara,2014,48635.99
+HU,south-of-sahara,South of Sahara regional,south-of-sahara,2014,38908.79
+HU,MA,Morocco,north-of-sahara,2014,38908.79
+HU,IN,India,south-central-asia,2014,38908.79
+HU,LB,Lebanon,middle-east,2014,29181.59
+HU,MK,Former Yugoslav Republic of Macedonia,europe,2014,29181.59
+HU,CD,Democratic Republic of the Congo,south-of-sahara,2014,29181.59
+HU,ET,Ethiopia,south-of-sahara,2014,29181.59
+HU,MM,Myanmar,south-central-asia,2014,19454.40
+HU,CO,Colombia,south-america,2014,19454.40
+HU,south-asia,South Asia regional,south-central-asia,2014,19454.40
+HU,KE,Kenya,south-of-sahara,2014,19454.40
+HU,AR,Argentina,south-america,2014,19454.40
+HU,central-asia,Central Asia regional,south-central-asia,2014,19454.40
+HU,XK,Kosovo,europe,2014,9727.20
+HU,AM,Armenia,south-central-asia,2014,9727.20
+HU,HT,Haiti,north-central-america,2014,9727.20
+HU,NA,Namibia,south-of-sahara,2014,9727.20
+HU,MX,Mexico,north-central-america,2014,9727.20
+HU,TZ,Tanzania,south-of-sahara,2014,9727.20
+HU,SD,Sudan,south-of-sahara,2014,9727.20
+HU,SO,Somalia,south-of-sahara,2014,9727.20
+HU,GM,Gambia,south-of-sahara,2014,9727.20
+HU,ID,Indonesia,far-east-asia,2014,9727.20
+HU,africa,Africa regional,africa,2014,9727.20
+HU,KH,Cambodia,far-east-asia,2014,9727.20
+HU,AL,Albania,europe,2014,9727.20
+HU,TH,Thailand,far-east-asia,2014,9727.20
+HU,BR,Brazil,south-america,2014,0.00
+HU,TJ,Tajikistan,south-central-asia,2014,0.00
+HU,BY,Belarus,europe,2014,0.00
+HU,KG,Kyrgyzstan,south-central-asia,2014,0.00
+HU,MY,Malaysia,far-east-asia,2014,0.00
+HU,UY,Uruguay,south-america,2014,0.00
+IL,bilateral-unspecified,Developing Countries unspecified,unspecified,2015,72019743.25
+IL,JO,Jordan,middle-east,2015,37471210.77
+IL,SY,Syrian Arab Republic,middle-east,2015,18107277.15
+IL,PS,West Bank and Gaza Strip,middle-east,2015,16117571.09
+IL,UA,Ukraine,europe,2015,8882276.33
+IL,AR,Argentina,south-america,2015,2694195.29
+IL,CN,China (People's Republic of),far-east-asia,2015,1808823.69
+IL,BR,Brazil,south-america,2015,1561300.45
+IL,BY,Belarus,europe,2015,1485139.45
+IL,MX,Mexico,north-central-america,2015,856811.22
+IL,MD,Moldova,europe,2015,752089.85
+IL,IN,India,south-central-asia,2015,733049.60
+IL,UY,Uruguay,south-america,2015,704489.23
+IL,GH,Ghana,south-of-sahara,2015,704489.23
+IL,GE,Georgia,south-central-asia,2015,533126.98
+IL,KE,Kenya,south-of-sahara,2015,418885.49
+IL,KZ,Kazakhstan,south-central-asia,2015,361764.74
+IL,UZ,Uzbekistan,south-central-asia,2015,333204.36
+IL,BF,Burkina Faso,south-of-sahara,2015,323684.24
+IL,ZA,South Africa,south-of-sahara,2015,314164.11
+IL,AZ,Azerbaijan,south-central-asia,2015,295123.87
+IL,CO,Colombia,south-america,2015,257043.37
+IL,VN,Viet Nam,far-east-asia,2015,228482.99
+IL,CL,Chile,south-america,2015,199922.62
+IL,PA,Panama,north-central-america,2015,161842.12
+IL,TM,Turkmenistan,south-central-asia,2015,161842.12
+IL,VE,Venezuela,south-america,2015,152321.99
+IL,PE,Peru,south-america,2015,133281.75
+IL,TJ,Tajikistan,south-central-asia,2015,133281.75
+IL,ET,Ethiopia,south-of-sahara,2015,123761.62
+IL,HN,Honduras,north-central-america,2015,123761.62
+IL,CR,Costa Rica,north-central-america,2015,114241.50
+IL,TH,Thailand,far-east-asia,2015,95201.25
+IL,DO,Dominican Republic,north-central-america,2015,95201.25
+IL,SN,Senegal,south-of-sahara,2015,95201.25
+IL,CM,Cameroon,south-of-sahara,2015,95201.25
+IL,BW,Botswana,south-of-sahara,2015,85681.12
+IL,EC,Ecuador,south-america,2015,76161.00
+IL,MA,Morocco,north-of-sahara,2015,76161.00
+IL,SV,El Salvador,north-central-america,2015,66640.87
+IL,MM,Myanmar,south-central-asia,2015,57120.75
+IL,NG,Nigeria,south-of-sahara,2015,57120.75
+IL,GT,Guatemala,north-central-america,2015,57120.75
+IL,SS,South Sudan,south-of-sahara,2015,47600.62
+IL,TR,Turkey,europe,2015,47600.62
+IL,NP,Nepal,south-central-asia,2015,47600.62
+IL,VC,Saint Vincent and the Grenadines,north-central-america,2015,28560.37
+IL,PH,Philippines,far-east-asia,2015,28560.37
+IL,PG,Papua New Guinea,oceania,2015,28560.37
+IL,MW,Malawi,south-of-sahara,2015,28560.37
+IL,PY,Paraguay,south-america,2015,28560.37
+IL,TZ,Tanzania,south-of-sahara,2015,28560.37
+IL,UG,Uganda,south-of-sahara,2015,28560.37
+IL,BZ,Belize,north-central-america,2015,28560.37
+IL,MG,Madagascar,south-of-sahara,2015,19040.25
+IL,RW,Rwanda,south-of-sahara,2015,19040.25
+IL,CI,Côte d'Ivoire,south-of-sahara,2015,19040.25
+IL,LR,Liberia,south-of-sahara,2015,19040.25
+IL,TG,Togo,south-of-sahara,2015,9520.12
+IL,SL,Sierra Leone,south-of-sahara,2015,9520.12
+IL,CG,Congo,south-of-sahara,2015,9520.12
+IL,ID,Indonesia,far-east-asia,2015,9520.12
+IL,RS,Serbia,europe,2015,9520.12
+IL,BI,Burundi,south-of-sahara,2015,9520.12
+IL,ZW,Zimbabwe,south-of-sahara,2015,9520.12
+IL,BJ,Benin,south-of-sahara,2015,9520.12
+IL,AO,Angola,south-of-sahara,2015,9520.12
+IL,KG,Kyrgyzstan,south-central-asia,2015,9520.12
+IL,AL,Albania,europe,2015,9520.12
+IL,AM,Armenia,south-central-asia,2015,9520.12
+IL,GY,Guyana,south-america,2015,9520.12
+IL,DM,Dominica,north-central-america,2015,9520.12
+IL,SR,Suriname,south-america,2015,0.00
+IL,FJ,Fiji,oceania,2015,0.00
+IL,LK,Sri Lanka,south-central-asia,2015,0.00
+IL,MN,Mongolia,far-east-asia,2015,0.00
+IL,TD,Chad,south-of-sahara,2015,0.00
+IL,CF,Central African Republic,south-of-sahara,2015,0.00
+IL,CV,Cabo Verde,south-of-sahara,2015,0.00
+IL,SC,Seychelles,south-of-sahara,2015,0.00
+IL,SZ,Swaziland,south-of-sahara,2015,0.00
+IL,HT,Haiti,north-central-america,2015,0.00
+IL,ML,Mali,south-of-sahara,2015,0.00
+IL,ZM,Zambia,south-of-sahara,2015,0.00
+IL,JM,Jamaica,north-central-america,2015,0.00
+IL,NI,Nicaragua,north-central-america,2015,0.00
+IL,DJ,Djibouti,south-of-sahara,2015,0.00
+IL,CD,Democratic Republic of the Congo,south-of-sahara,2015,0.00
+IL,ER,Eritrea,south-of-sahara,2015,0.00
+IL,LC,Saint Lucia,north-central-america,2015,0.00
+IL,GM,Gambia,south-of-sahara,2015,0.00
+IL,LA,Lao People's Democratic Republic,far-east-asia,2015,0.00
+IL,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,57664071.60
+IL,JO,Jordan,middle-east,2014,39762416.59
+IL,SY,Syrian Arab Republic,middle-east,2014,18632150.76
+IL,PS,West Bank and Gaza Strip,middle-east,2014,13527699.00
+IL,UA,Ukraine,europe,2014,8802022.82
+IL,AR,Argentina,south-america,2014,3309777.02
+IL,CN,China (People's Republic of),far-east-asia,2014,3210573.90
+IL,IN,India,south-central-asia,2014,1749582.40
+IL,BR,Brazil,south-america,2014,1253566.77
+IL,BY,Belarus,europe,2014,1199455.98
+IL,MD,Moldova,europe,2014,883809.67
+IL,UY,Uruguay,south-america,2014,721477.28
+IL,UZ,Uzbekistan,south-central-asia,2014,604237.22
+IL,MX,Mexico,north-central-america,2014,604237.22
+IL,GH,Ghana,south-of-sahara,2014,550126.43
+IL,KE,Kenya,south-of-sahara,2014,532089.49
+IL,GE,Georgia,south-central-asia,2014,351720.17
+IL,KZ,Kazakhstan,south-central-asia,2014,342701.71
+IL,ET,Ethiopia,south-of-sahara,2014,315646.31
+IL,VN,Viet Nam,far-east-asia,2014,270553.98
+IL,ZA,South Africa,south-of-sahara,2014,252517.05
+IL,DO,Dominican Republic,north-central-america,2014,252517.05
+IL,BA,Bosnia and Herzegovina,europe,2014,243498.58
+IL,SN,Senegal,south-of-sahara,2014,243498.58
+IL,AZ,Azerbaijan,south-central-asia,2014,216443.18
+IL,PE,Peru,south-america,2014,153313.92
+IL,CL,Chile,south-america,2014,144295.46
+IL,BF,Burkina Faso,south-of-sahara,2014,144295.46
+IL,TM,Turkmenistan,south-central-asia,2014,144295.46
+IL,SL,Sierra Leone,south-of-sahara,2014,126258.52
+IL,TR,Turkey,europe,2014,126258.52
+IL,GT,Guatemala,north-central-america,2014,117240.06
+IL,LR,Liberia,south-of-sahara,2014,117240.06
+IL,TJ,Tajikistan,south-central-asia,2014,117240.06
+IL,VE,Venezuela,south-america,2014,108221.59
+IL,MW,Malawi,south-of-sahara,2014,99203.13
+IL,BW,Botswana,south-of-sahara,2014,99203.13
+IL,RS,Serbia,europe,2014,90184.66
+IL,PA,Panama,north-central-america,2014,90184.66
+IL,PY,Paraguay,south-america,2014,90184.66
+IL,CM,Cameroon,south-of-sahara,2014,81166.19
+IL,NU,Niue,oceania,2014,72147.73
+IL,CO,Colombia,south-america,2014,72147.73
+IL,CR,Costa Rica,north-central-america,2014,72147.73
+IL,MA,Morocco,north-of-sahara,2014,63129.26
+IL,NG,Nigeria,south-of-sahara,2014,63129.26
+IL,SR,Suriname,south-america,2014,54110.80
+IL,HN,Honduras,north-central-america,2014,54110.80
+IL,TG,Togo,south-of-sahara,2014,54110.80
+IL,DM,Dominica,north-central-america,2014,45092.33
+IL,HT,Haiti,north-central-america,2014,45092.33
+IL,UG,Uganda,south-of-sahara,2014,36073.86
+IL,AG,Antigua and Barbuda,north-central-america,2014,36073.86
+IL,NP,Nepal,south-central-asia,2014,36073.86
+IL,PH,Philippines,far-east-asia,2014,36073.86
+IL,KG,Kyrgyzstan,south-central-asia,2014,36073.86
+IL,AM,Armenia,south-central-asia,2014,36073.86
+IL,GD,Grenada,north-central-america,2014,27055.40
+IL,CI,Côte d'Ivoire,south-of-sahara,2014,27055.40
+IL,PG,Papua New Guinea,oceania,2014,18036.93
+IL,EC,Ecuador,south-america,2014,18036.93
+IL,TZ,Tanzania,south-of-sahara,2014,18036.93
+IL,AO,Angola,south-of-sahara,2014,18036.93
+IL,RW,Rwanda,south-of-sahara,2014,18036.93
+IL,JM,Jamaica,north-central-america,2014,18036.93
+IL,CU,Cuba,north-central-america,2014,9018.47
+IL,CG,Congo,south-of-sahara,2014,9018.47
+IL,BJ,Benin,south-of-sahara,2014,9018.47
+IL,TH,Thailand,far-east-asia,2014,9018.47
+IL,SV,El Salvador,north-central-america,2014,9018.47
+IL,MM,Myanmar,south-central-asia,2014,9018.47
+IL,SC,Seychelles,south-of-sahara,2014,9018.47
+IL,GM,Gambia,south-of-sahara,2014,9018.47
+IL,SD,Sudan,south-of-sahara,2014,9018.47
+IL,BI,Burundi,south-of-sahara,2014,9018.47
+IL,CF,Central African Republic,south-of-sahara,2014,9018.47
+IL,ZM,Zambia,south-of-sahara,2014,9018.47
+KW,MA,Morocco,north-of-sahara,2015,117452679.01
+KW,JO,Jordan,middle-east,2015,95479300.12
+KW,SD,Sudan,south-of-sahara,2015,91382755.62
+KW,EG,Egypt,north-of-sahara,2015,76520359.65
+KW,PK,Pakistan,south-central-asia,2015,48981863.69
+KW,LB,Lebanon,middle-east,2015,30243761.19
+KW,RS,Serbia,europe,2015,24446764.25
+KW,DJ,Djibouti,south-of-sahara,2015,16838895.88
+KW,SN,Senegal,south-of-sahara,2015,13195069.23
+KW,ML,Mali,south-of-sahara,2015,13139859.74
+KW,MR,Mauritania,south-of-sahara,2015,12576722.89
+KW,TN,Tunisia,north-of-sahara,2015,12333801.11
+KW,LK,Sri Lanka,south-central-asia,2015,11108150.33
+KW,CN,China (People's Republic of),far-east-asia,2015,10699600.07
+KW,ET,Ethiopia,south-of-sahara,2015,10313133.61
+KW,TG,Togo,south-of-sahara,2015,9738954.86
+KW,GM,Gambia,south-of-sahara,2015,9297278.91
+KW,BD,Bangladesh,south-central-asia,2015,7707245.46
+KW,BJ,Benin,south-of-sahara,2015,7331820.90
+KW,GN,Guinea,south-of-sahara,2015,6845977.34
+KW,RW,Rwanda,south-of-sahara,2015,6823893.54
+KW,VN,Viet Nam,far-east-asia,2015,6404301.38
+KW,CU,Cuba,north-central-america,2015,4792184.14
+KW,TJ,Tajikistan,south-central-asia,2015,4626555.66
+KW,KP,Democratic People's Republic of Korea,far-east-asia,2015,4361550.08
+KW,BA,Bosnia and Herzegovina,europe,2015,4184879.70
+KW,LS,Lesotho,south-of-sahara,2015,3577575.26
+KW,IQ,Iraq,middle-east,2015,3411946.77
+KW,MN,Mongolia,far-east-asia,2015,3367779.18
+KW,AR,Argentina,south-america,2015,3334653.48
+KW,GD,Grenada,north-central-america,2015,3047564.11
+KW,UZ,Uzbekistan,south-central-asia,2015,2771516.63
+KW,LA,Lao People's Democratic Republic,far-east-asia,2015,2329840.68
+KW,KG,Kyrgyzstan,south-central-asia,2015,2252547.38
+KW,SL,Sierra Leone,south-of-sahara,2015,1954416.11
+KW,BF,Burkina Faso,south-of-sahara,2015,1777745.73
+KW,NE,Niger,south-of-sahara,2015,1722536.23
+KW,UG,Uganda,south-of-sahara,2015,1567949.65
+KW,SO,Somalia,south-of-sahara,2015,1192525.09
+KW,AL,Albania,europe,2015,894393.81
+KW,CV,Cabo Verde,south-of-sahara,2015,839184.32
+KW,BZ,Belize,north-central-america,2015,783974.82
+KW,CF,Central African Republic,south-of-sahara,2015,728765.33
+KW,HN,Honduras,north-central-america,2015,662513.94
+KW,UA,Ukraine,europe,2015,640430.14
+KW,KE,Kenya,south-of-sahara,2015,618346.34
+KW,bilateral-unspecified,Developing Countries unspecified,unspecified,2015,530011.15
+KW,SY,Syrian Arab Republic,middle-east,2015,530011.15
+KW,HT,Haiti,north-central-america,2015,408550.26
+KW,LR,Liberia,south-of-sahara,2015,331256.97
+KW,GA,Gabon,south-of-sahara,2015,309173.17
+KW,LC,Saint Lucia,north-central-america,2015,154586.59
+KW,MW,Malawi,south-of-sahara,2015,154586.59
+KW,NP,Nepal,south-central-asia,2015,143544.69
+KW,MZ,Mozambique,south-of-sahara,2015,143544.69
+KW,TZ,Tanzania,south-of-sahara,2015,143544.69
+KW,CI,Côte d'Ivoire,south-of-sahara,2015,121460.89
+KW,MV,Maldives,south-central-asia,2015,77293.29
+KW,SZ,Swaziland,south-of-sahara,2015,66251.39
+KW,africa,Africa regional,africa,2015,33125.70
+KW,AF,Afghanistan,south-central-asia,2015,33125.70
+KW,BT,Bhutan,south-central-asia,2015,33125.70
+KW,south-of-sahara,South of Sahara regional,south-of-sahara,2015,0.00
+KW,JO,Jordan,middle-east,2014,110469026.60
+KW,MA,Morocco,north-of-sahara,2014,101563749.08
+KW,EG,Egypt,north-of-sahara,2014,45180167.71
+KW,LB,Lebanon,middle-east,2014,26577151.93
+KW,CN,China (People's Republic of),far-east-asia,2014,22456356.11
+KW,MR,Mauritania,south-of-sahara,2014,21327099.56
+KW,TN,Tunisia,north-of-sahara,2014,19544062.90
+KW,PS,West Bank and Gaza Strip,middle-east,2014,17444041.95
+KW,DJ,Djibouti,south-of-sahara,2014,14630806.34
+KW,MN,Mongolia,far-east-asia,2014,13511455.55
+KW,TZ,Tanzania,south-of-sahara,2014,10906240.88
+KW,PK,Pakistan,south-central-asia,2014,9866136.16
+KW,VN,Viet Nam,far-east-asia,2014,8271308.93
+KW,SN,Senegal,south-of-sahara,2014,8023664.95
+KW,BJ,Benin,south-of-sahara,2014,7726492.18
+KW,LS,Lesotho,south-of-sahara,2014,6557612.59
+KW,ET,Ethiopia,south-of-sahara,2014,6537801.07
+KW,CU,Cuba,north-central-america,2014,6359497.41
+KW,ML,Mali,south-of-sahara,2014,6062324.63
+KW,BA,Bosnia and Herzegovina,europe,2014,5141089.02
+KW,TJ,Tajikistan,south-central-asia,2014,4744858.66
+KW,RW,Rwanda,south-of-sahara,2014,4507120.44
+KW,BF,Burkina Faso,south-of-sahara,2014,4487308.92
+KW,YE,Yemen,middle-east,2014,4229759.18
+KW,SL,Sierra Leone,south-of-sahara,2014,3883057.61
+KW,CI,Côte d'Ivoire,south-of-sahara,2014,3833528.81
+KW,MW,Malawi,south-of-sahara,2014,3615602.11
+KW,SD,Sudan,south-of-sahara,2014,3467015.72
+KW,IQ,Iraq,middle-east,2014,3437298.44
+KW,AL,Albania,europe,2014,3338240.85
+KW,RS,Serbia,europe,2014,3268900.54
+KW,GM,Gambia,south-of-sahara,2014,2595308.91
+KW,BD,Bangladesh,south-central-asia,2014,2575497.39
+KW,LK,Sri Lanka,south-central-asia,2014,2535874.36
+KW,SO,Somalia,south-of-sahara,2014,2179267.02
+KW,GD,Grenada,north-central-america,2014,2159455.51
+KW,MZ,Mozambique,south-of-sahara,2014,2129738.23
+KW,SZ,Swaziland,south-of-sahara,2014,1832565.45
+KW,BZ,Belize,north-central-america,2014,1812753.93
+KW,UG,Uganda,south-of-sahara,2014,1773130.90
+KW,KG,Kyrgyzstan,south-central-asia,2014,1674073.30
+KW,KE,Kenya,south-of-sahara,2014,1654261.79
+KW,CV,Cabo Verde,south-of-sahara,2014,1614638.75
+KW,KP,Democratic People's Republic of Korea,far-east-asia,2014,1545298.44
+KW,UZ,Uzbekistan,south-central-asia,2014,1545298.44
+KW,GN,Guinea,south-of-sahara,2014,1406617.81
+KW,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,901424.09
+KW,GA,Gabon,south-of-sahara,2014,891518.33
+KW,HT,Haiti,north-central-america,2014,653780.11
+KW,LR,Liberia,south-of-sahara,2014,584439.79
+KW,TG,Togo,south-of-sahara,2014,416041.89
+KW,GY,Guyana,south-america,2014,336795.81
+KW,MG,Madagascar,south-of-sahara,2014,316984.29
+KW,LA,Lao People's Democratic Republic,far-east-asia,2014,198115.18
+KW,HN,Honduras,north-central-america,2014,188209.42
+KW,NP,Nepal,south-central-asia,2014,99057.59
+KW,africa,Africa regional,africa,2014,59434.56
+KW,BT,Bhutan,south-central-asia,2014,49528.80
+KW,MV,Maldives,south-central-asia,2014,19811.52
+KW,NE,Niger,south-of-sahara,2014,9905.76
+KW,CM,Cameroon,south-of-sahara,2014,9905.76
+KW,TR,Turkey,europe,2014,9905.76
+KZ,AF,Afghanistan,south-central-asia,2014,13433701.38
+KZ,KG,Kyrgyzstan,south-central-asia,2014,6821801.48
+KZ,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,4145556.28
+KZ,TJ,Tajikistan,south-central-asia,2014,1679212.67
+KZ,asia,Asia regional,asia,2014,1039012.84
+KZ,UA,Ukraine,europe,2014,398813.01
+KZ,central-asia,Central Asia regional,south-central-asia,2014,304357.30
+KZ,RS,Serbia,europe,2014,209901.58
+KZ,BA,Bosnia and Herzegovina,europe,2014,104950.79
+KZ,PH,Philippines,far-east-asia,2014,104950.79
+KZ,CF,Central African Republic,south-of-sahara,2014,52475.40
+KZ,LC,Saint Lucia,north-central-america,2014,52475.40
+KZ,VC,Saint Vincent and the Grenadines,north-central-america,2014,52475.40
+KZ,PS,West Bank and Gaza Strip,middle-east,2014,10495.08
+KZ,europe,Europe regional,europe,2014,10495.08
+LI,bilateral-unspecified,Developing Countries unspecified,unspecified,2015,21037971.03
+LI,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,22953307.90
+LT,bilateral-unspecified,Developing Countries unspecified,unspecified,2015,5050532.83
+LT,UA,Ukraine,europe,2015,1889731.66
+LT,europe,Europe regional,europe,2015,1777247.63
+LT,BY,Belarus,europe,2015,1316063.12
+LT,GE,Georgia,south-central-asia,2015,202471.25
+LT,middle-east,Middle East regional,middle-east,2015,123732.43
+LT,SY,Syrian Arab Republic,middle-east,2015,112484.03
+LT,MD,Moldova,europe,2015,78738.82
+LT,MY,Malaysia,far-east-asia,2015,56242.01
+LT,XK,Kosovo,europe,2015,33745.21
+LT,CN,China (People's Republic of),far-east-asia,2015,33745.21
+LT,central-asia,Central Asia regional,south-central-asia,2015,33745.21
+LT,south-central-asia,South & Central Asia regional,south-central-asia,2015,33745.21
+LT,UY,Uruguay,south-america,2015,22496.81
+LT,NP,Nepal,south-central-asia,2015,22496.81
+LT,BR,Brazil,south-america,2015,22496.81
+LT,AZ,Azerbaijan,south-central-asia,2015,22496.81
+LT,KZ,Kazakhstan,south-central-asia,2015,22496.81
+LT,IN,India,south-central-asia,2015,22496.81
+LT,africa,Africa regional,africa,2015,11248.40
+LT,PS,West Bank and Gaza Strip,middle-east,2015,11248.40
+LT,PK,Pakistan,south-central-asia,2015,11248.40
+LT,UZ,Uzbekistan,south-central-asia,2015,11248.40
+LT,MK,Former Yugoslav Republic of Macedonia,europe,2015,11248.40
+LT,ET,Ethiopia,south-of-sahara,2015,11248.40
+LT,MW,Malawi,south-of-sahara,2015,11248.40
+LT,AM,Armenia,south-central-asia,2015,11248.40
+LT,TR,Turkey,europe,2015,11248.40
+LT,VU,Vanuatu,oceania,2015,11248.40
+LT,LB,Lebanon,middle-east,2015,11248.40
+LT,YE,Yemen,middle-east,2015,11248.40
+LT,LK,Sri Lanka,south-central-asia,2015,0.00
+LT,IQ,Iraq,middle-east,2015,0.00
+LT,AR,Argentina,south-america,2015,0.00
+LT,MN,Mongolia,far-east-asia,2015,0.00
+LT,TJ,Tajikistan,south-central-asia,2015,0.00
+LT,KG,Kyrgyzstan,south-central-asia,2015,0.00
+LT,BA,Bosnia and Herzegovina,europe,2015,0.00
+LT,MA,Morocco,north-of-sahara,2015,0.00
+LT,PH,Philippines,far-east-asia,2015,0.00
+LT,RS,Serbia,europe,2015,0.00
+LT,ME,Montenegro,europe,2015,0.00
+LT,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,2633115.94
+LT,BY,Belarus,europe,2014,1739737.32
+LT,UA,Ukraine,europe,2014,630067.03
+LT,europe,Europe regional,europe,2014,507815.22
+LT,GE,Georgia,south-central-asia,2014,112847.83
+LT,MD,Moldova,europe,2014,84635.87
+LT,AF,Afghanistan,south-central-asia,2014,65827.90
+LT,SY,Syrian Arab Republic,middle-east,2014,56423.91
+LT,PS,West Bank and Gaza Strip,middle-east,2014,37615.94
+LT,CN,China (People's Republic of),far-east-asia,2014,37615.94
+LT,IQ,Iraq,middle-east,2014,28211.96
+LT,CF,Central African Republic,south-of-sahara,2014,28211.96
+LT,south-central-asia,South & Central Asia regional,south-central-asia,2014,18807.97
+LT,africa,Africa regional,africa,2014,9403.99
+LT,KZ,Kazakhstan,south-central-asia,2014,9403.99
+LT,AZ,Azerbaijan,south-central-asia,2014,9403.99
+LT,AM,Armenia,south-central-asia,2014,9403.99
+LT,AR,Argentina,south-america,2014,9403.99
+LT,VE,Venezuela,south-america,2014,0.00
+LT,MX,Mexico,north-central-america,2014,0.00
+LT,KG,Kyrgyzstan,south-central-asia,2014,0.00
+LT,BR,Brazil,south-america,2014,0.00
+LT,UZ,Uzbekistan,south-central-asia,2014,0.00
+LT,TJ,Tajikistan,south-central-asia,2014,0.00
+LT,MK,Former Yugoslav Republic of Macedonia,europe,2014,0.00
+LT,XK,Kosovo,europe,2014,0.00
+LT,UY,Uruguay,south-america,2014,0.00
+LT,RS,Serbia,europe,2014,0.00
+LV,bilateral-unspecified,Developing Countries unspecified,unspecified,2015,658548.83
+LV,UA,Ukraine,europe,2015,647386.98
+LV,GE,Georgia,south-central-asia,2015,212075.05
+LV,SY,Syrian Arab Republic,middle-east,2015,189751.36
+LV,AF,Afghanistan,south-central-asia,2015,133942.13
+LV,MD,Moldova,europe,2015,133942.13
+LV,UZ,Uzbekistan,south-central-asia,2015,78132.91
+LV,BY,Belarus,europe,2015,78132.91
+LV,south-of-sahara,South of Sahara regional,south-of-sahara,2015,66971.07
+LV,AZ,Azerbaijan,south-central-asia,2015,44647.38
+LV,KZ,Kazakhstan,south-central-asia,2015,33485.53
+LV,central-asia,Central Asia regional,south-central-asia,2015,33485.53
+LV,CN,China (People's Republic of),far-east-asia,2015,22323.69
+LV,europe,Europe regional,europe,2015,22323.69
+LV,TR,Turkey,europe,2015,22323.69
+LV,TJ,Tajikistan,south-central-asia,2015,22323.69
+LV,NP,Nepal,south-central-asia,2015,22323.69
+LV,KG,Kyrgyzstan,south-central-asia,2015,22323.69
+LV,TM,Turkmenistan,south-central-asia,2015,11161.84
+LV,AM,Armenia,south-central-asia,2015,11161.84
+LV,EG,Egypt,north-of-sahara,2015,11161.84
+LV,UA,Ukraine,europe,2014,629168.15
+LV,europe,Europe regional,europe,2014,291107.65
+LV,AF,Afghanistan,south-central-asia,2014,206592.53
+LV,GE,Georgia,south-central-asia,2014,187811.39
+LV,MD,Moldova,europe,2014,178420.82
+LV,UZ,Uzbekistan,south-central-asia,2014,103296.26
+LV,BY,Belarus,europe,2014,75124.56
+LV,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,65733.99
+LV,AZ,Azerbaijan,south-central-asia,2014,37562.28
+LV,TR,Turkey,europe,2014,28171.71
+LV,KZ,Kazakhstan,south-central-asia,2014,28171.71
+LV,MX,Mexico,north-central-america,2014,18781.14
+LV,TJ,Tajikistan,south-central-asia,2014,18781.14
+LV,KG,Kyrgyzstan,south-central-asia,2014,18781.14
+LV,AM,Armenia,south-central-asia,2014,18781.14
+LV,CN,China (People's Republic of),far-east-asia,2014,18781.14
+LV,XK,Kosovo,europe,2014,9390.57
+LV,PE,Peru,south-america,2014,9390.57
+MT,bilateral-unspecified,Developing Countries unspecified,unspecified,2015,8423814.16
+MT,KE,Kenya,south-of-sahara,2015,66242.31
+MT,SS,South Sudan,south-of-sahara,2015,55201.93
+MT,TZ,Tanzania,south-of-sahara,2015,55201.93
+MT,ET,Ethiopia,south-of-sahara,2015,44161.54
+MT,UG,Uganda,south-of-sahara,2015,44161.54
+MT,PE,Peru,south-america,2015,33121.16
+MT,SO,Somalia,south-of-sahara,2015,33121.16
+MT,SY,Syrian Arab Republic,middle-east,2015,22080.77
+MT,MW,Malawi,south-of-sahara,2015,22080.77
+MT,MA,Morocco,north-of-sahara,2015,11040.39
+MT,GT,Guatemala,north-central-america,2015,11040.39
+MT,KH,Cambodia,far-east-asia,2015,11040.39
+MT,PS,West Bank and Gaza Strip,middle-east,2015,11040.39
+MT,EG,Egypt,north-of-sahara,2015,11040.39
+MT,PH,Philippines,far-east-asia,2015,0.00
+MT,ex-yugoslavia,States Ex-Yugoslavia,europe,2015,0.00
+MT,MK,Former Yugoslav Republic of Macedonia,europe,2015,0.00
+MT,AL,Albania,europe,2015,0.00
+MT,IN,India,south-central-asia,2015,0.00
+MT,MG,Madagascar,south-of-sahara,2015,0.00
+MT,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,11973997.90
+MT,PS,West Bank and Gaza Strip,middle-east,2014,128752.67
+MT,BA,Bosnia and Herzegovina,europe,2014,108944.56
+MT,IN,India,south-central-asia,2014,69328.36
+MT,SO,Somalia,south-of-sahara,2014,69328.36
+MT,UG,Uganda,south-of-sahara,2014,59424.31
+MT,ET,Ethiopia,south-of-sahara,2014,49520.26
+MT,KE,Kenya,south-of-sahara,2014,39616.20
+MT,MG,Madagascar,south-of-sahara,2014,29712.15
+MT,GT,Guatemala,north-central-america,2014,29712.15
+MT,TD,Chad,south-of-sahara,2014,29712.15
+MT,PE,Peru,south-america,2014,29712.15
+MT,CF,Central African Republic,south-of-sahara,2014,29712.15
+MT,TZ,Tanzania,south-of-sahara,2014,19808.10
+MT,PK,Pakistan,south-central-asia,2014,9904.05
+MT,PH,Philippines,far-east-asia,2014,9904.05
+MT,MA,Morocco,north-of-sahara,2014,9904.05
+MT,TG,Togo,south-of-sahara,2014,9904.05
+RO,MD,Moldova,europe,2015,20361704.80
+RO,RS,Serbia,europe,2015,1910290.09
+RO,TN,Tunisia,north-of-sahara,2015,1612152.33
+RO,bilateral-unspecified,Developing Countries unspecified,unspecified,2015,1269846.02
+RO,SY,Syrian Arab Republic,middle-east,2015,1148382.48
+RO,MA,Morocco,north-of-sahara,2015,938581.84
+RO,JO,Jordan,middle-east,2015,927539.70
+RO,AL,Albania,europe,2015,817118.31
+RO,TR,Turkey,europe,2015,673570.50
+RO,IQ,Iraq,middle-east,2015,640444.08
+RO,UA,Ukraine,europe,2015,629401.94
+RO,NG,Nigeria,south-of-sahara,2015,585233.38
+RO,PS,West Bank and Gaza Strip,middle-east,2015,485854.13
+RO,europe,Europe regional,europe,2015,452727.71
+RO,TM,Turkmenistan,south-central-asia,2015,353348.46
+RO,LB,Lebanon,middle-east,2015,342306.32
+RO,AF,Afghanistan,south-central-asia,2015,265011.34
+RO,AM,Armenia,south-central-asia,2015,231884.92
+RO,MK,Former Yugoslav Republic of Macedonia,europe,2015,231884.92
+RO,AO,Angola,south-of-sahara,2015,231884.92
+RO,EG,Egypt,north-of-sahara,2015,209800.65
+RO,IR,Iran,middle-east,2015,187716.37
+RO,middle-east,Middle East regional,middle-east,2015,154589.95
+RO,CN,China (People's Republic of),far-east-asia,2015,143547.81
+RO,PK,Pakistan,south-central-asia,2015,132505.67
+RO,IN,India,south-central-asia,2015,121463.53
+RO,GE,Georgia,south-central-asia,2015,121463.53
+RO,VN,Viet Nam,far-east-asia,2015,121463.53
+RO,MU,Mauritius,south-of-sahara,2015,121463.53
+RO,DZ,Algeria,north-of-sahara,2015,99379.25
+RO,AZ,Azerbaijan,south-central-asia,2015,77294.97
+RO,TH,Thailand,far-east-asia,2015,77294.97
+RO,NP,Nepal,south-central-asia,2015,66252.84
+RO,MX,Mexico,north-central-america,2015,55210.70
+RO,YE,Yemen,middle-east,2015,55210.70
+RO,KP,Democratic People's Republic of Korea,far-east-asia,2015,44168.56
+RO,UZ,Uzbekistan,south-central-asia,2015,44168.56
+RO,MN,Mongolia,far-east-asia,2015,44168.56
+RO,SD,Sudan,south-of-sahara,2015,44168.56
+RO,ZW,Zimbabwe,south-of-sahara,2015,44168.56
+RO,CM,Cameroon,south-of-sahara,2015,44168.56
+RO,KE,Kenya,south-of-sahara,2015,33126.42
+RO,LK,Sri Lanka,south-central-asia,2015,33126.42
+RO,MY,Malaysia,far-east-asia,2015,33126.42
+RO,CG,Congo,south-of-sahara,2015,22084.28
+RO,LY,Libya,north-of-sahara,2015,22084.28
+RO,CI,Côte d'Ivoire,south-of-sahara,2015,22084.28
+RO,KZ,Kazakhstan,south-central-asia,2015,22084.28
+RO,CU,Cuba,north-central-america,2015,22084.28
+RO,GH,Ghana,south-of-sahara,2015,22084.28
+RO,VE,Venezuela,south-america,2015,22084.28
+RO,BR,Brazil,south-america,2015,22084.28
+RO,CL,Chile,south-america,2015,22084.28
+RO,KG,Kyrgyzstan,south-central-asia,2015,22084.28
+RO,CO,Colombia,south-america,2015,22084.28
+RO,BA,Bosnia and Herzegovina,europe,2015,11042.14
+RO,TZ,Tanzania,south-of-sahara,2015,11042.14
+RO,BY,Belarus,europe,2015,11042.14
+RO,BI,Burundi,south-of-sahara,2015,11042.14
+RO,SO,Somalia,south-of-sahara,2015,11042.14
+RO,BD,Bangladesh,south-central-asia,2015,11042.14
+RO,EC,Ecuador,south-america,2015,11042.14
+RO,ID,Indonesia,far-east-asia,2015,11042.14
+RO,RW,Rwanda,south-of-sahara,2015,11042.14
+RO,GN,Guinea,south-of-sahara,2015,11042.14
+RO,ET,Ethiopia,south-of-sahara,2015,11042.14
+RO,FJ,Fiji,oceania,2015,11042.14
+RO,PE,Peru,south-america,2015,11042.14
+RO,MG,Madagascar,south-of-sahara,2015,0.00
+RO,AR,Argentina,south-america,2015,0.00
+RO,SN,Senegal,south-of-sahara,2015,0.00
+RO,DO,Dominican Republic,north-central-america,2015,0.00
+RO,ZM,Zambia,south-of-sahara,2015,0.00
+RO,DM,Dominica,north-central-america,2015,0.00
+RO,SC,Seychelles,south-of-sahara,2015,0.00
+RO,BJ,Benin,south-of-sahara,2015,0.00
+RO,UY,Uruguay,south-america,2015,0.00
+RO,PY,Paraguay,south-america,2015,0.00
+RO,PH,Philippines,far-east-asia,2015,0.00
+RO,NA,Namibia,south-of-sahara,2015,0.00
+RO,TJ,Tajikistan,south-central-asia,2015,0.00
+RO,GD,Grenada,north-central-america,2015,0.00
+RO,GA,Gabon,south-of-sahara,2015,0.00
+RO,GT,Guatemala,north-central-america,2015,0.00
+RO,BW,Botswana,south-of-sahara,2015,0.00
+RO,SR,Suriname,south-america,2015,0.00
+RO,CF,Central African Republic,south-of-sahara,2015,0.00
+RO,TD,Chad,south-of-sahara,2015,0.00
+RO,TG,Togo,south-of-sahara,2015,0.00
+RO,MV,Maldives,south-central-asia,2015,0.00
+RO,UG,Uganda,south-of-sahara,2015,0.00
+RO,MD,Moldova,europe,2014,61576277.20
+RO,RS,Serbia,europe,2014,1317510.44
+RO,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,1119388.57
+RO,UA,Ukraine,europe,2014,614177.80
+RO,AL,Albania,europe,2014,614177.80
+RO,SY,Syrian Arab Republic,middle-east,2014,465586.39
+RO,TM,Turkmenistan,south-central-asia,2014,326901.09
+RO,PS,West Bank and Gaza Strip,middle-east,2014,316994.99
+RO,JO,Jordan,middle-east,2014,297182.81
+RO,AF,Afghanistan,south-central-asia,2014,247652.34
+RO,MK,Former Yugoslav Republic of Macedonia,europe,2014,178309.68
+RO,GE,Georgia,south-central-asia,2014,158497.50
+RO,LB,Lebanon,middle-east,2014,138685.31
+RO,AO,Angola,south-of-sahara,2014,138685.31
+RO,MA,Morocco,north-of-sahara,2014,128779.22
+RO,AM,Armenia,south-central-asia,2014,108967.03
+RO,europe,Europe regional,europe,2014,99060.94
+RO,NG,Nigeria,south-of-sahara,2014,89154.84
+RO,CN,China (People's Republic of),far-east-asia,2014,89154.84
+RO,MX,Mexico,north-central-america,2014,89154.84
+RO,IQ,Iraq,middle-east,2014,89154.84
+RO,VN,Viet Nam,far-east-asia,2014,89154.84
+RO,PK,Pakistan,south-central-asia,2014,79248.75
+RO,EG,Egypt,north-of-sahara,2014,79248.75
+RO,TR,Turkey,europe,2014,79248.75
+RO,north-of-sahara,North of Sahara regional,north-of-sahara,2014,69342.65
+RO,IR,Iran,middle-east,2014,69342.65
+RO,MN,Mongolia,far-east-asia,2014,69342.65
+RO,BA,Bosnia and Herzegovina,europe,2014,49530.47
+RO,MU,Mauritius,south-of-sahara,2014,49530.47
+RO,IN,India,south-central-asia,2014,39624.37
+RO,KP,Democratic People's Republic of Korea,far-east-asia,2014,39624.37
+RO,AZ,Azerbaijan,south-central-asia,2014,39624.37
+RO,UZ,Uzbekistan,south-central-asia,2014,29718.28
+RO,KE,Kenya,south-of-sahara,2014,19812.19
+RO,KG,Kyrgyzstan,south-central-asia,2014,19812.19
+RO,TN,Tunisia,north-of-sahara,2014,19812.19
+RO,SD,Sudan,south-of-sahara,2014,19812.19
+RO,PE,Peru,south-america,2014,19812.19
+RO,ZW,Zimbabwe,south-of-sahara,2014,19812.19
+RO,TH,Thailand,far-east-asia,2014,9906.09
+RO,KZ,Kazakhstan,south-central-asia,2014,9906.09
+RO,LY,Libya,north-of-sahara,2014,9906.09
+RO,GH,Ghana,south-of-sahara,2014,9906.09
+RO,TZ,Tanzania,south-of-sahara,2014,9906.09
+RO,EC,Ecuador,south-america,2014,9906.09
+RO,LK,Sri Lanka,south-central-asia,2014,9906.09
+RO,CO,Colombia,south-america,2014,9906.09
+RO,CL,Chile,south-america,2014,9906.09
+RO,BR,Brazil,south-america,2014,9906.09
+RO,DZ,Algeria,north-of-sahara,2014,9906.09
+RO,SN,Senegal,south-of-sahara,2014,9906.09
+RO,CU,Cuba,north-central-america,2014,9906.09
+RO,CI,Côte d'Ivoire,south-of-sahara,2014,9906.09
+RO,CG,Congo,south-of-sahara,2014,9906.09
+RO,CM,Cameroon,south-of-sahara,2014,9906.09
+RO,BI,Burundi,south-of-sahara,2014,9906.09
+RO,VE,Venezuela,south-america,2014,9906.09
+RO,YE,Yemen,middle-east,2014,9906.09
+RO,UG,Uganda,south-of-sahara,2014,0.00
+RO,GN,Guinea,south-of-sahara,2014,0.00
+RO,GA,Gabon,south-of-sahara,2014,0.00
+RO,MY,Malaysia,far-east-asia,2014,0.00
+RO,GD,Grenada,north-central-america,2014,0.00
+RO,RW,Rwanda,south-of-sahara,2014,0.00
+RO,DO,Dominican Republic,north-central-america,2014,0.00
+RO,ET,Ethiopia,south-of-sahara,2014,0.00
+RO,SO,Somalia,south-of-sahara,2014,0.00
+RO,NP,Nepal,south-central-asia,2014,0.00
+RO,WS,Samoa,oceania,2014,0.00
+RO,TJ,Tajikistan,south-central-asia,2014,0.00
+RO,BW,Botswana,south-of-sahara,2014,0.00
+RO,BJ,Benin,south-of-sahara,2014,0.00
+RU,CU,Cuba,north-central-america,2015,575093604.58
+RU,KG,Kyrgyzstan,south-central-asia,2015,527448266.88
+RU,KP,Democratic People's Republic of Korea,far-east-asia,2015,97659870.86
+RU,AM,Armenia,south-central-asia,2015,61059885.79
+RU,SY,Syrian Arab Republic,middle-east,2015,35962753.18
+RU,TJ,Tajikistan,south-central-asia,2015,35554271.20
+RU,bilateral-unspecified,Developing Countries unspecified,unspecified,2015,28610077.61
+RU,RS,Serbia,europe,2015,18381688.93
+RU,MZ,Mozambique,south-of-sahara,2015,13071423.24
+RU,GN,Guinea,south-of-sahara,2015,10212049.40
+RU,JO,Jordan,middle-east,2015,8153300.24
+RU,NI,Nicaragua,north-central-america,2015,7450711.24
+RU,south-central-asia,South & Central Asia regional,south-central-asia,2015,5097855.06
+RU,BY,Belarus,europe,2015,4852765.88
+RU,VU,Vanuatu,oceania,2015,4248212.55
+RU,AF,Afghanistan,south-central-asia,2015,4182855.44
+RU,SL,Sierra Leone,south-of-sahara,2015,4052141.20
+RU,LR,Liberia,south-of-sahara,2015,4052141.20
+RU,YE,Yemen,middle-east,2015,3856069.85
+RU,middle-east,Middle East regional,middle-east,2015,3267855.81
+RU,SD,Sudan,south-of-sahara,2015,2516248.97
+RU,TZ,Tanzania,south-of-sahara,2015,2238481.23
+RU,IR,Iran,middle-east,2015,2124106.28
+RU,CG,Congo,south-of-sahara,2015,1977052.76
+RU,TN,Tunisia,north-of-sahara,2015,1829999.25
+RU,UG,Uganda,south-of-sahara,2015,1764642.14
+RU,EG,Egypt,north-of-sahara,2015,1274463.77
+RU,MD,Moldova,europe,2015,1111070.98
+RU,TM,Turkmenistan,south-central-asia,2015,1111070.98
+RU,MA,Morocco,north-of-sahara,2015,980356.74
+RU,KZ,Kazakhstan,south-central-asia,2015,931338.91
+RU,UZ,Uzbekistan,south-central-asia,2015,849642.51
+RU,africa,Africa regional,africa,2015,669910.44
+RU,america,America regional,america,2015,506517.65
+RU,MN,Mongolia,far-east-asia,2015,375803.42
+RU,ET,Ethiopia,south-of-sahara,2015,294107.02
+RU,VN,Viet Nam,far-east-asia,2015,261428.46
+RU,CM,Cameroon,south-of-sahara,2015,245089.19
+RU,BW,Botswana,south-of-sahara,2015,179732.07
+RU,BJ,Benin,south-of-sahara,2015,147053.51
+RU,MM,Myanmar,south-central-asia,2015,130714.23
+RU,NA,Namibia,south-of-sahara,2015,98035.67
+RU,AO,Angola,south-of-sahara,2015,98035.67
+RU,AZ,Azerbaijan,south-central-asia,2015,16339.28
+RU,KG,Kyrgyzstan,south-central-asia,2014,223912508.17
+RU,CU,Cuba,north-central-america,2014,195337091.22
+RU,KP,Democratic People's Republic of Korea,far-east-asia,2014,75516802.92
+RU,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,39127019.35
+RU,TJ,Tajikistan,south-central-asia,2014,21500545.47
+RU,NI,Nicaragua,north-central-america,2014,19028203.48
+RU,GN,Guinea,south-of-sahara,2014,18531527.64
+RU,RS,Serbia,europe,2014,17891367.66
+RU,middle-east,Middle East regional,middle-east,2014,10959980.31
+RU,central-asia,Central Asia regional,south-central-asia,2014,9370617.61
+RU,MZ,Mozambique,south-of-sahara,2014,8829792.80
+RU,SY,Syrian Arab Republic,middle-east,2014,8090297.65
+RU,AM,Armenia,south-central-asia,2014,7571547.33
+RU,UA,Ukraine,europe,2014,7527398.36
+RU,CM,Cameroon,south-of-sahara,2014,6975536.31
+RU,TN,Tunisia,north-of-sahara,2014,6236041.17
+RU,SS,South Sudan,south-of-sahara,2014,5529657.74
+RU,AF,Afghanistan,south-central-asia,2014,5463434.30
+RU,south-central-asia,South & Central Asia regional,south-central-asia,2014,5441359.81
+RU,GH,Ghana,south-of-sahara,2014,3355321.26
+RU,JO,Jordan,middle-east,2014,3311172.30
+RU,BY,Belarus,europe,2014,2759310.25
+RU,LR,Liberia,south-of-sahara,2014,2284708.89
+RU,KE,Kenya,south-of-sahara,2014,2207448.20
+RU,ML,Mali,south-of-sahara,2014,2207448.20
+RU,asia,Asia regional,asia,2014,2207448.20
+RU,UG,Uganda,south-of-sahara,2014,1732846.84
+RU,SL,Sierra Leone,south-of-sahara,2014,1655586.15
+RU,MA,Morocco,north-of-sahara,2014,1655586.15
+RU,america,America regional,america,2014,1611437.19
+RU,TZ,Tanzania,south-of-sahara,2014,1512102.02
+RU,IR,Iran,middle-east,2014,1434841.33
+RU,UZ,Uzbekistan,south-central-asia,2014,1269282.72
+RU,IQ,Iraq,middle-east,2014,1180984.79
+RU,SO,Somalia,south-of-sahara,2014,1103724.10
+RU,europe,Europe regional,europe,2014,993351.69
+RU,CN,China (People's Republic of),far-east-asia,2014,640159.98
+RU,KZ,Kazakhstan,south-central-asia,2014,607048.26
+RU,AZ,Azerbaijan,south-central-asia,2014,529787.57
+RU,YE,Yemen,middle-east,2014,397340.68
+RU,ex-yugoslavia,States Ex-Yugoslavia,europe,2014,375266.19
+RU,BA,Bosnia and Herzegovina,europe,2014,320079.99
+RU,BO,Bolivia,south-america,2014,220744.82
+RU,FJ,Fiji,oceania,2014,143484.13
+RU,MM,Myanmar,south-central-asia,2014,55186.21
+RU,SD,Sudan,south-of-sahara,2014,55186.21
+RU,TV,Tuvalu,oceania,2014,44148.96
+RU,VU,Vanuatu,oceania,2014,33111.72
+RU,NR,Nauru,oceania,2014,33111.72
+SA,middle-east,Middle East regional,middle-east,2014,11425128931.10
+SA,asia,Asia regional,asia,2014,1501660261.15
+SA,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,361965550.33
+SA,africa,Africa regional,africa,2014,7686852.22
+TH,LA,Lao People's Democratic Republic,far-east-asia,2015,45435209.72
+TH,MM,Myanmar,south-central-asia,2015,20415480.62
+TH,KH,Cambodia,far-east-asia,2015,4008014.85
+TH,PK,Pakistan,south-central-asia,2015,1380170.40
+TH,VN,Viet Nam,far-east-asia,2015,1181425.87
+TH,BT,Bhutan,south-central-asia,2015,927474.51
+TH,NP,Nepal,south-central-asia,2015,485819.98
+TH,ID,Indonesia,far-east-asia,2015,386447.71
+TH,PH,Philippines,far-east-asia,2015,253951.35
+TH,TL,Timor-Leste,far-east-asia,2015,242909.99
+TH,TZ,Tanzania,south-of-sahara,2015,198744.54
+TH,SV,El Salvador,north-central-america,2015,187703.18
+TH,MV,Maldives,south-central-asia,2015,187703.18
+TH,LK,Sri Lanka,south-central-asia,2015,165620.45
+TH,CN,China (People's Republic of),far-east-asia,2015,154579.09
+TH,UG,Uganda,south-of-sahara,2015,121455.00
+TH,BD,Bangladesh,south-central-asia,2015,121455.00
+TH,MZ,Mozambique,south-of-sahara,2015,121455.00
+TH,MW,Malawi,south-of-sahara,2015,121455.00
+TH,YE,Yemen,middle-east,2015,110413.63
+TH,SD,Sudan,south-of-sahara,2015,99372.27
+TH,TO,Tonga,oceania,2015,99372.27
+TH,FJ,Fiji,oceania,2015,99372.27
+TH,MY,Malaysia,far-east-asia,2015,88330.91
+TH,KE,Kenya,south-of-sahara,2015,88330.91
+TH,GM,Gambia,south-of-sahara,2015,88330.91
+TH,VU,Vanuatu,oceania,2015,88330.91
+TH,ER,Eritrea,south-of-sahara,2015,88330.91
+TH,AR,Argentina,south-america,2015,77289.54
+TH,ZW,Zimbabwe,south-of-sahara,2015,66248.18
+TH,MX,Mexico,north-central-america,2015,66248.18
+TH,CR,Costa Rica,north-central-america,2015,55206.82
+TH,MH,Marshall Islands,oceania,2015,55206.82
+TH,PY,Paraguay,south-america,2015,55206.82
+TH,CL,Chile,south-america,2015,44165.45
+TH,JO,Jordan,middle-east,2015,44165.45
+TH,MG,Madagascar,south-of-sahara,2015,44165.45
+TH,MU,Mauritius,south-of-sahara,2015,44165.45
+TH,TV,Tuvalu,oceania,2015,44165.45
+TH,EG,Egypt,north-of-sahara,2015,33124.09
+TH,MN,Mongolia,far-east-asia,2015,33124.09
+TH,GN,Guinea,south-of-sahara,2015,33124.09
+TH,ET,Ethiopia,south-of-sahara,2015,33124.09
+TH,BW,Botswana,south-of-sahara,2015,33124.09
+TH,IN,India,south-central-asia,2015,33124.09
+TH,PE,Peru,south-america,2015,33124.09
+TH,NG,Nigeria,south-of-sahara,2015,22082.73
+TH,MA,Morocco,north-of-sahara,2015,22082.73
+TH,LS,Lesotho,south-of-sahara,2015,22082.73
+TH,CO,Colombia,south-america,2015,22082.73
+TH,CU,Cuba,north-central-america,2015,22082.73
+TH,SZ,Swaziland,south-of-sahara,2015,22082.73
+TH,CG,Congo,south-of-sahara,2015,22082.73
+TH,CI,Côte d'Ivoire,south-of-sahara,2015,22082.73
+TH,AF,Afghanistan,south-central-asia,2015,22082.73
+TH,ZM,Zambia,south-of-sahara,2015,22082.73
+TH,TG,Togo,south-of-sahara,2015,22082.73
+TH,SN,Senegal,south-of-sahara,2015,11041.36
+TH,PA,Panama,north-central-america,2015,11041.36
+TH,GE,Georgia,south-central-asia,2015,11041.36
+TH,SB,Solomon Islands,oceania,2015,11041.36
+TH,WS,Samoa,oceania,2015,11041.36
+TH,UZ,Uzbekistan,south-central-asia,2015,11041.36
+TH,TJ,Tajikistan,south-central-asia,2015,11041.36
+TH,GH,Ghana,south-of-sahara,2015,11041.36
+TH,CM,Cameroon,south-of-sahara,2015,11041.36
+TH,JM,Jamaica,north-central-america,2015,11041.36
+TH,KM,Comoros,south-of-sahara,2015,11041.36
+TH,MR,Mauritania,south-of-sahara,2015,11041.36
+TH,DM,Dominica,north-central-america,2015,11041.36
+TH,KI,Kiribati,oceania,2015,11041.36
+TH,CK,Cook Islands,oceania,2015,11041.36
+TH,KZ,Kazakhstan,south-central-asia,2015,0.00
+TH,SC,Seychelles,south-of-sahara,2015,0.00
+TH,IR,Iran,middle-east,2015,0.00
+TH,SO,Somalia,south-of-sahara,2015,0.00
+TH,PW,Palau,oceania,2015,0.00
+TH,BR,Brazil,south-america,2015,0.00
+TH,KG,Kyrgyzstan,south-central-asia,2015,0.00
+TH,LA,Lao People's Democratic Republic,far-east-asia,2014,54924180.96
+TH,MM,Myanmar,south-central-asia,2014,12014974.12
+TH,KH,Cambodia,far-east-asia,2014,4338465.51
+TH,VN,Viet Nam,far-east-asia,2014,1327293.10
+TH,BT,Bhutan,south-central-asia,2014,881560.34
+TH,MY,Malaysia,far-east-asia,2014,673551.72
+TH,TL,Timor-Leste,far-east-asia,2014,277344.83
+TH,MN,Mongolia,far-east-asia,2014,257534.48
+TH,MZ,Mozambique,south-of-sahara,2014,217913.79
+TH,ID,Indonesia,far-east-asia,2014,208008.62
+TH,BD,Bangladesh,south-central-asia,2014,168387.93
+TH,LK,Sri Lanka,south-central-asia,2014,148577.59
+TH,CN,China (People's Republic of),far-east-asia,2014,138672.41
+TH,PK,Pakistan,south-central-asia,2014,99051.72
+TH,WS,Samoa,oceania,2014,89146.55
+TH,GM,Gambia,south-of-sahara,2014,89146.55
+TH,KE,Kenya,south-of-sahara,2014,79241.38
+TH,MW,Malawi,south-of-sahara,2014,79241.38
+TH,TZ,Tanzania,south-of-sahara,2014,79241.38
+TH,NP,Nepal,south-central-asia,2014,79241.38
+TH,SV,El Salvador,north-central-america,2014,69336.21
+TH,PH,Philippines,far-east-asia,2014,69336.21
+TH,MX,Mexico,north-central-america,2014,59431.03
+TH,JO,Jordan,middle-east,2014,49525.86
+TH,UG,Uganda,south-of-sahara,2014,49525.86
+TH,AR,Argentina,south-america,2014,49525.86
+TH,CL,Chile,south-america,2014,49525.86
+TH,MV,Maldives,south-central-asia,2014,49525.86
+TH,PE,Peru,south-america,2014,39620.69
+TH,SN,Senegal,south-of-sahara,2014,39620.69
+TH,ER,Eritrea,south-of-sahara,2014,39620.69
+TH,ET,Ethiopia,south-of-sahara,2014,39620.69
+TH,SC,Seychelles,south-of-sahara,2014,29715.52
+TH,FJ,Fiji,oceania,2014,29715.52
+TH,CR,Costa Rica,north-central-america,2014,29715.52
+TH,CU,Cuba,north-central-america,2014,19810.34
+TH,PY,Paraguay,south-america,2014,19810.34
+TH,EG,Egypt,north-of-sahara,2014,19810.34
+TH,CO,Colombia,south-america,2014,19810.34
+TH,MU,Mauritius,south-of-sahara,2014,19810.34
+TH,SD,Sudan,south-of-sahara,2014,19810.34
+TH,EC,Ecuador,south-america,2014,9905.17
+TH,CK,Cook Islands,oceania,2014,9905.17
+TH,SZ,Swaziland,south-of-sahara,2014,9905.17
+TH,GE,Georgia,south-central-asia,2014,9905.17
+TH,ZM,Zambia,south-of-sahara,2014,9905.17
+TH,IN,India,south-central-asia,2014,9905.17
+TH,GN,Guinea,south-of-sahara,2014,9905.17
+TH,UZ,Uzbekistan,south-central-asia,2014,9905.17
+TH,BW,Botswana,south-of-sahara,2014,9905.17
+TH,BI,Burundi,south-of-sahara,2014,9905.17
+TH,NG,Nigeria,south-of-sahara,2014,9905.17
+TH,BR,Brazil,south-america,2014,9905.17
+TH,MG,Madagascar,south-of-sahara,2014,9905.17
+TH,VU,Vanuatu,oceania,2014,9905.17
+TL,south-of-sahara,South of Sahara regional,south-of-sahara,2014,3552277.72
+TL,GW,Guinea-Bissau,south-of-sahara,2014,1243297.20
+TL,CV,Cabo Verde,south-of-sahara,2014,888069.43
+TL,KP,Democratic People's Republic of Korea,far-east-asia,2014,177613.89
+TR,SY,Syrian Arab Republic,middle-east,2014,2434211104.18
+TR,TN,Tunisia,north-of-sahara,2014,213198357.68
+TR,asia,Asia regional,asia,2014,107587093.50
+TR,KG,Kyrgyzstan,south-central-asia,2014,90048952.57
+TR,middle-east,Middle East regional,middle-east,2014,83739046.02
+TR,SO,Somalia,south-of-sahara,2014,78980059.26
+TR,PS,West Bank and Gaza Strip,middle-east,2014,70014468.14
+TR,AF,Afghanistan,south-central-asia,2014,69292121.93
+TR,south-central-asia,South & Central Asia regional,south-central-asia,2014,56321758.47
+TR,BA,Bosnia and Herzegovina,europe,2014,46166420.65
+TR,KZ,Kazakhstan,south-central-asia,2014,43064581.07
+TR,IQ,Iraq,middle-east,2014,41449924.85
+TR,AZ,Azerbaijan,south-central-asia,2014,39261640.76
+TR,PK,Pakistan,south-central-asia,2014,26365636.46
+TR,europe,Europe regional,europe,2014,22626432.58
+TR,XK,Kosovo,europe,2014,18834115.01
+TR,MK,Former Yugoslav Republic of Macedonia,europe,2014,15317988.63
+TR,LY,Libya,north-of-sahara,2014,13671464.19
+TR,AL,Albania,europe,2014,13597105.02
+TR,south-of-sahara,South of Sahara regional,south-of-sahara,2014,13533368.59
+TR,MN,Mongolia,far-east-asia,2014,13437763.95
+TR,TM,Turkmenistan,south-central-asia,2014,12534831.19
+TR,central-asia,Central Asia regional,south-central-asia,2014,11727503.08
+TR,YE,Yemen,middle-east,2014,10675851.99
+TR,SD,Sudan,south-of-sahara,2014,9942883.05
+TR,IR,Iran,middle-east,2014,8083903.85
+TR,RS,Serbia,europe,2014,7722730.74
+TR,GE,Georgia,south-central-asia,2014,6426756.67
+TR,ME,Montenegro,europe,2014,6288661.07
+TR,CN,China (People's Republic of),far-east-asia,2014,5863751.54
+TR,EG,Egypt,north-of-sahara,2014,5651296.78
+TR,JO,Jordan,middle-east,2014,5258255.46
+TR,UA,Ukraine,europe,2014,5109537.12
+TR,north-of-sahara,North of Sahara regional,north-of-sahara,2014,5098914.38
+TR,MR,Mauritania,south-of-sahara,2014,4758986.76
+TR,UZ,Uzbekistan,south-central-asia,2014,4599645.68
+TR,BF,Burkina Faso,south-of-sahara,2014,4408436.39
+TR,NE,Niger,south-of-sahara,2014,4387190.92
+TR,MM,Myanmar,south-central-asia,2014,4376568.18
+TR,MD,Moldova,europe,2014,4344699.96
+TR,ID,Indonesia,far-east-asia,2014,4015395.08
+TR,BD,Bangladesh,south-central-asia,2014,3941035.91
+TR,ET,Ethiopia,south-of-sahara,2014,3877299.48
+TR,KE,Kenya,south-of-sahara,2014,3526749.12
+TR,DZ,Algeria,north-of-sahara,2014,3494880.90
+TR,TJ,Tajikistan,south-central-asia,2014,3250557.92
+TR,GH,Ghana,south-of-sahara,2014,3197444.23
+TR,DJ,Djibouti,south-of-sahara,2014,3154953.28
+TR,SN,Senegal,south-of-sahara,2014,3027480.42
+TR,MA,Morocco,north-of-sahara,2014,2836271.13
+TR,LB,Lebanon,middle-east,2014,2698175.53
+TR,UG,Uganda,south-of-sahara,2014,2135170.40
+TR,CM,Cameroon,south-of-sahara,2014,2103302.18
+TR,GM,Gambia,south-of-sahara,2014,1943961.11
+TR,TZ,Tanzania,south-of-sahara,2014,1827110.99
+TR,ML,Mali,south-of-sahara,2014,1625278.96
+TR,SS,South Sudan,south-of-sahara,2014,1593410.75
+TR,CF,Central African Republic,south-of-sahara,2014,1582788.01
+TR,TD,Chad,south-of-sahara,2014,1487183.36
+TR,CD,Democratic Republic of the Congo,south-of-sahara,2014,1444692.41
+TR,BY,Belarus,europe,2014,1380955.98
+TR,CI,Côte d'Ivoire,south-of-sahara,2014,1274728.60
+TR,GW,Guinea-Bissau,south-of-sahara,2014,1242860.38
+TR,ZA,South Africa,south-of-sahara,2014,1157878.47
+TR,MY,Malaysia,far-east-asia,2014,1136633.00
+TR,IN,India,south-central-asia,2014,1126010.26
+TR,LK,Sri Lanka,south-central-asia,2014,1115387.52
+TR,TH,Thailand,far-east-asia,2014,1115387.52
+TR,NG,Nigeria,south-of-sahara,2014,1041028.35
+TR,CO,Colombia,south-america,2014,966669.19
+TR,GN,Guinea,south-of-sahara,2014,956046.45
+TR,PH,Philippines,far-east-asia,2014,828573.59
+TR,LR,Liberia,south-of-sahara,2014,817950.85
+TR,AM,Armenia,south-central-asia,2014,796705.37
+TR,MZ,Mozambique,south-of-sahara,2014,796705.37
+TR,BI,Burundi,south-of-sahara,2014,764837.16
+TR,ex-yugoslavia,States Ex-Yugoslavia,europe,2014,690477.99
+TR,MG,Madagascar,south-of-sahara,2014,669232.51
+TR,RW,Rwanda,south-of-sahara,2014,647987.04
+TR,BJ,Benin,south-of-sahara,2014,626741.56
+TR,ZM,Zambia,south-of-sahara,2014,563005.13
+TR,ZW,Zimbabwe,south-of-sahara,2014,541759.65
+TR,america,America regional,america,2014,478023.22
+TR,SL,Sierra Leone,south-of-sahara,2014,478023.22
+TR,KM,Comoros,south-of-sahara,2014,456777.75
+TR,GA,Gabon,south-of-sahara,2014,382418.58
+TR,MW,Malawi,south-of-sahara,2014,382418.58
+TR,HT,Haiti,north-central-america,2014,361173.10
+TR,NP,Nepal,south-central-asia,2014,350550.36
+TR,east-asia,Far East Asia regional,far-east-asia,2014,329304.89
+TR,TG,Togo,south-of-sahara,2014,318682.15
+TR,MV,Maldives,south-central-asia,2014,308059.41
+TR,CU,Cuba,north-central-america,2014,297436.67
+TR,MX,Mexico,north-central-america,2014,265568.46
+TR,CG,Congo,south-of-sahara,2014,265568.46
+TR,ST,Sao Tome and Principe,south-of-sahara,2014,254945.72
+TR,south-america,South America regional,south-america,2014,244322.98
+TR,north-central-america,North & Central America regional,north-central-america,2014,223077.50
+TR,BR,Brazil,south-america,2014,223077.50
+TR,VU,Vanuatu,oceania,2014,212454.77
+TR,MU,Mauritius,south-of-sahara,2014,201832.03
+TR,VC,Saint Vincent and the Grenadines,north-central-america,2014,191209.29
+TR,south-asia,South Asia regional,south-central-asia,2014,191209.29
+TR,EC,Ecuador,south-america,2014,191209.29
+TR,JM,Jamaica,north-central-america,2014,191209.29
+TR,NA,Namibia,south-of-sahara,2014,159341.07
+TR,SZ,Swaziland,south-of-sahara,2014,159341.07
+TR,PE,Peru,south-america,2014,148718.34
+TR,VN,Viet Nam,far-east-asia,2014,148718.34
+TR,GY,Guyana,south-america,2014,148718.34
+TR,KH,Cambodia,far-east-asia,2014,138095.60
+TR,ER,Eritrea,south-of-sahara,2014,127472.86
+TR,LS,Lesotho,south-of-sahara,2014,127472.86
+TR,KI,Kiribati,oceania,2014,116850.12
+TR,AR,Argentina,south-america,2014,106227.38
+TR,BZ,Belize,north-central-america,2014,106227.38
+TR,VE,Venezuela,south-america,2014,106227.38
+TR,CL,Chile,south-america,2014,95604.64
+TR,HN,Honduras,north-central-america,2014,95604.64
+TR,BO,Bolivia,south-america,2014,95604.64
+TR,CR,Costa Rica,north-central-america,2014,84981.91
+TR,UY,Uruguay,south-america,2014,84981.91
+TR,oceania,Oceania regional,oceania,2014,84981.91
+TR,BW,Botswana,south-of-sahara,2014,84981.91
+TR,AO,Angola,south-of-sahara,2014,63736.43
+TR,PW,Palau,oceania,2014,63736.43
+TR,LA,Lao People's Democratic Republic,far-east-asia,2014,53113.69
+TR,SC,Seychelles,south-of-sahara,2014,42490.95
+TR,CV,Cabo Verde,south-of-sahara,2014,42490.95
+TR,SB,Solomon Islands,oceania,2014,31868.21
+TR,PG,Papua New Guinea,oceania,2014,31868.21
+TR,PY,Paraguay,south-america,2014,21245.48
+TR,GQ,Equatorial Guinea,south-of-sahara,2014,21245.48
+TR,LC,Saint Lucia,north-central-america,2014,10622.74
+TR,GT,Guatemala,north-central-america,2014,10622.74
+TR,DO,Dominican Republic,north-central-america,2014,10622.74
+TR,FJ,Fiji,oceania,2014,10622.74
+TR,BT,Bhutan,south-central-asia,2014,10622.74
+TR,TO,Tonga,oceania,2014,10622.74
+TW,bilateral-unspecified,Developing Countries unspecified,unspecified,2015,240324817.35
+TW,north-central-america,North & Central America regional,north-central-america,2015,8159891.57
+TW,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,222619811.83

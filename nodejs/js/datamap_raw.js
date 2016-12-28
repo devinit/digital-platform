@@ -224,5 +224,9 @@ exports.csv=
  "country-year/poverty-125.csv": "data_series.\"poverty_125\"",
  "country-year/poverty-200.csv": "data_series.\"poverty_200\"",
 
+// need access to these, using temp fake data for now...
+// "country-year/warehouse/south_south_cooperation/recipient_and_region_2012.csv": "south_south_cooperation.\"recipient_and_region_2012\"",
+// "country-year/warehouse/south_south_cooperation/bundle_2012.csv": "south_south_cooperation.\"bundle_2012\"",
+
 }
 
