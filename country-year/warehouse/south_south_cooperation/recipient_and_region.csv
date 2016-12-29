@@ -13,7 +13,7 @@ AE,TN,Tunisia,north-of-sahara,2014,28905094.05
 AE,SO,Somalia,south-of-sahara,2014,23219170.82
 AE,IQ,Iraq,middle-east,2014,18692224.98
 AE,LB,Lebanon,middle-east,2014,15165763.88
-AE,africa,Africa regional,africa,2014,12233650.16
+AE,africa,Africa. regional,africa,2014,12233650.16
 AE,DZ,Algeria,north-of-sahara,2014,11114295.93
 AE,MY,Malaysia,far-east-asia,2014,9985035.92
 AE,PH,Philippines,far-east-asia,2014,9034080.12
@@ -31,7 +31,7 @@ AE,BF,Burkina Faso,south-of-sahara,2014,2357577.92
 AE,KE,Kenya,south-of-sahara,2014,2278331.61
 AE,KM,Comoros,south-of-sahara,2014,2149556.34
 AE,IN,India,south-central-asia,2014,2100027.40
-AE,asia,Asia regional,asia,2014,2010875.29
+AE,asia,Asia. regional,asia,2014,2010875.29
 AE,MW,Malawi,south-of-sahara,2014,2000969.50
 AE,TJ,Tajikistan,south-central-asia,2014,1961346.34
 AE,TV,Tuvalu,oceania,2014,1852382.66
@@ -103,7 +103,7 @@ AE,VE,Venezuela,south-america,2014,0.00
 AE,KH,Cambodia,far-east-asia,2014,0.00
 BG,MD,Moldova,europe,2015,342224.54
 BG,AL,Albania,europe,2015,187671.52
-BG,europe,Europe regional,europe,2015,154553.02
+BG,europe,Europe. regional,europe,2015,154553.02
 BG,BA,Bosnia and Herzegovina,europe,2015,132474.01
 BG,UA,Ukraine,europe,2015,132474.01
 BG,MK,Former Yugoslav Republic of Macedonia,europe,2015,121434.51
@@ -118,11 +118,11 @@ BG,VN,Viet Nam,far-east-asia,2015,11039.50
 BG,SY,Syrian Arab Republic,middle-east,2014,267455.99
 BG,RS,Serbia,europe,2014,128775.10
 BG,BA,Bosnia and Herzegovina,europe,2014,118869.33
-BG,europe,Europe regional,europe,2014,89152.00
+BG,europe,Europe. regional,europe,2014,89152.00
 BG,UA,Ukraine,europe,2014,69340.44
 BG,PS,West Bank and Gaza Strip,middle-east,2014,69340.44
 BG,AF,Afghanistan,south-central-asia,2014,69340.44
-BG,south-of-sahara,South of Sahara regional,south-of-sahara,2014,69340.44
+BG,south-of-sahara,South of Sahara. regional,south-of-sahara,2014,69340.44
 BG,MK,Former Yugoslav Republic of Macedonia,europe,2014,49528.89
 BG,XK,Kosovo,europe,2014,39623.11
 BG,GE,Georgia,south-central-asia,2014,9905.78
@@ -134,14 +134,14 @@ EE,GE,Georgia,south-central-asia,2014,1023546.99
 EE,SY,Syrian Arab Republic,middle-east,2014,493495.87
 EE,PS,West Bank and Gaza Strip,middle-east,2014,475218.24
 EE,KG,Kyrgyzstan,south-central-asia,2014,475218.24
-EE,south-of-sahara,South of Sahara regional,south-of-sahara,2014,402107.75
-EE,europe,Europe regional,europe,2014,383830.12
+EE,south-of-sahara,South of Sahara. regional,south-of-sahara,2014,402107.75
+EE,europe,Europe. regional,europe,2014,383830.12
 EE,IQ,Iraq,middle-east,2014,328997.25
 EE,BY,Belarus,europe,2014,255886.75
 EE,SS,South Sudan,south-of-sahara,2014,246747.93
 EE,AM,Armenia,south-central-asia,2014,164498.62
 EE,JO,Jordan,middle-east,2014,127943.37
-EE,oceania,Oceania regional,oceania,2014,118804.56
+EE,oceania,Oceania. regional,oceania,2014,118804.56
 EE,TJ,Tajikistan,south-central-asia,2014,118804.56
 EE,CF,Central African Republic,south-of-sahara,2014,118804.56
 EE,XK,Kosovo,europe,2014,118804.56
@@ -154,7 +154,7 @@ EE,AL,Albania,europe,2014,45694.06
 EE,UG,Uganda,south-of-sahara,2014,45694.06
 EE,SN,Senegal,south-of-sahara,2014,36555.25
 EE,UZ,Uzbekistan,south-central-asia,2014,36555.25
-EE,africa,Africa regional,africa,2014,27416.44
+EE,africa,Africa. regional,africa,2014,27416.44
 EE,YE,Yemen,middle-east,2014,27416.44
 EE,ET,Ethiopia,south-of-sahara,2014,27416.44
 EE,EG,Egypt,north-of-sahara,2014,18277.62
@@ -174,7 +174,7 @@ HU,UA,Ukraine,europe,2014,1566078.88
 HU,RS,Serbia,europe,2014,1439625.30
 HU,VN,Viet Nam,far-east-asia,2014,1332626.13
 HU,LK,Sri Lanka,south-central-asia,2014,1001901.39
-HU,europe,Europe regional,europe,2014,418269.51
+HU,europe,Europe. regional,europe,2014,418269.51
 HU,ME,Montenegro,europe,2014,311270.34
 HU,LA,Lao People's Democratic Republic,far-east-asia,2014,282088.74
 HU,CN,China (People's Republic of),far-east-asia,2014,272361.54
@@ -197,7 +197,7 @@ HU,MD,Moldova,europe,2014,68090.39
 HU,ex-yugoslavia,States Ex-Yugoslavia,europe,2014,68090.39
 HU,UG,Uganda,south-of-sahara,2014,48635.99
 HU,AO,Angola,south-of-sahara,2014,48635.99
-HU,south-of-sahara,South of Sahara regional,south-of-sahara,2014,38908.79
+HU,south-of-sahara,South of Sahara. regional,south-of-sahara,2014,38908.79
 HU,MA,Morocco,north-of-sahara,2014,38908.79
 HU,IN,India,south-central-asia,2014,38908.79
 HU,LB,Lebanon,middle-east,2014,29181.59
@@ -206,10 +206,10 @@ HU,CD,Democratic Republic of the Congo,south-of-sahara,2014,29181.59
 HU,ET,Ethiopia,south-of-sahara,2014,29181.59
 HU,MM,Myanmar,south-central-asia,2014,19454.40
 HU,CO,Colombia,south-america,2014,19454.40
-HU,south-asia,South Asia regional,south-central-asia,2014,19454.40
+HU,south-asia,South Asia. regional,south-central-asia,2014,19454.40
 HU,KE,Kenya,south-of-sahara,2014,19454.40
 HU,AR,Argentina,south-america,2014,19454.40
-HU,central-asia,Central Asia regional,south-central-asia,2014,19454.40
+HU,central-asia,Central Asia. regional,south-central-asia,2014,19454.40
 HU,XK,Kosovo,europe,2014,9727.20
 HU,AM,Armenia,south-central-asia,2014,9727.20
 HU,HT,Haiti,north-central-america,2014,9727.20
@@ -220,7 +220,7 @@ HU,SD,Sudan,south-of-sahara,2014,9727.20
 HU,SO,Somalia,south-of-sahara,2014,9727.20
 HU,GM,Gambia,south-of-sahara,2014,9727.20
 HU,ID,Indonesia,far-east-asia,2014,9727.20
-HU,africa,Africa regional,africa,2014,9727.20
+HU,africa,Africa. regional,africa,2014,9727.20
 HU,KH,Cambodia,far-east-asia,2014,9727.20
 HU,AL,Albania,europe,2014,9727.20
 HU,TH,Thailand,far-east-asia,2014,9727.20
@@ -458,10 +458,10 @@ KW,TZ,Tanzania,south-of-sahara,2015,143544.69
 KW,CI,Côte d'Ivoire,south-of-sahara,2015,121460.89
 KW,MV,Maldives,south-central-asia,2015,77293.29
 KW,SZ,Swaziland,south-of-sahara,2015,66251.39
-KW,africa,Africa regional,africa,2015,33125.70
+KW,africa,Africa. regional,africa,2015,33125.70
 KW,AF,Afghanistan,south-central-asia,2015,33125.70
 KW,BT,Bhutan,south-central-asia,2015,33125.70
-KW,south-of-sahara,South of Sahara regional,south-of-sahara,2015,0.00
+KW,south-of-sahara,South of Sahara. regional,south-of-sahara,2015,0.00
 KW,JO,Jordan,middle-east,2014,110469026.60
 KW,MA,Morocco,north-of-sahara,2014,101563749.08
 KW,EG,Egypt,north-of-sahara,2014,45180167.71
@@ -518,7 +518,7 @@ KW,MG,Madagascar,south-of-sahara,2014,316984.29
 KW,LA,Lao People's Democratic Republic,far-east-asia,2014,198115.18
 KW,HN,Honduras,north-central-america,2014,188209.42
 KW,NP,Nepal,south-central-asia,2014,99057.59
-KW,africa,Africa regional,africa,2014,59434.56
+KW,africa,Africa. regional,africa,2014,59434.56
 KW,BT,Bhutan,south-central-asia,2014,49528.80
 KW,MV,Maldives,south-central-asia,2014,19811.52
 KW,NE,Niger,south-of-sahara,2014,9905.76
@@ -528,9 +528,9 @@ KZ,AF,Afghanistan,south-central-asia,2014,13433701.38
 KZ,KG,Kyrgyzstan,south-central-asia,2014,6821801.48
 KZ,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,4145556.28
 KZ,TJ,Tajikistan,south-central-asia,2014,1679212.67
-KZ,asia,Asia regional,asia,2014,1039012.84
+KZ,asia,Asia. regional,asia,2014,1039012.84
 KZ,UA,Ukraine,europe,2014,398813.01
-KZ,central-asia,Central Asia regional,south-central-asia,2014,304357.30
+KZ,central-asia,Central Asia. regional,south-central-asia,2014,304357.30
 KZ,RS,Serbia,europe,2014,209901.58
 KZ,BA,Bosnia and Herzegovina,europe,2014,104950.79
 KZ,PH,Philippines,far-east-asia,2014,104950.79
@@ -538,29 +538,29 @@ KZ,CF,Central African Republic,south-of-sahara,2014,52475.40
 KZ,LC,Saint Lucia,north-central-america,2014,52475.40
 KZ,VC,Saint Vincent and the Grenadines,north-central-america,2014,52475.40
 KZ,PS,West Bank and Gaza Strip,middle-east,2014,10495.08
-KZ,europe,Europe regional,europe,2014,10495.08
+KZ,europe,Europe. regional,europe,2014,10495.08
 LI,bilateral-unspecified,Developing Countries unspecified,unspecified,2015,21037971.03
 LI,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,22953307.90
 LT,bilateral-unspecified,Developing Countries unspecified,unspecified,2015,5050532.83
 LT,UA,Ukraine,europe,2015,1889731.66
-LT,europe,Europe regional,europe,2015,1777247.63
+LT,europe,Europe. regional,europe,2015,1777247.63
 LT,BY,Belarus,europe,2015,1316063.12
 LT,GE,Georgia,south-central-asia,2015,202471.25
-LT,middle-east,Middle East regional,middle-east,2015,123732.43
+LT,middle-east,Middle East. regional,middle-east,2015,123732.43
 LT,SY,Syrian Arab Republic,middle-east,2015,112484.03
 LT,MD,Moldova,europe,2015,78738.82
 LT,MY,Malaysia,far-east-asia,2015,56242.01
 LT,XK,Kosovo,europe,2015,33745.21
 LT,CN,China (People's Republic of),far-east-asia,2015,33745.21
-LT,central-asia,Central Asia regional,south-central-asia,2015,33745.21
-LT,south-central-asia,South & Central Asia regional,south-central-asia,2015,33745.21
+LT,central-asia,Central Asia. regional,south-central-asia,2015,33745.21
+LT,south-central-asia,South & Central Asia. regional,south-central-asia,2015,33745.21
 LT,UY,Uruguay,south-america,2015,22496.81
 LT,NP,Nepal,south-central-asia,2015,22496.81
 LT,BR,Brazil,south-america,2015,22496.81
 LT,AZ,Azerbaijan,south-central-asia,2015,22496.81
 LT,KZ,Kazakhstan,south-central-asia,2015,22496.81
 LT,IN,India,south-central-asia,2015,22496.81
-LT,africa,Africa regional,africa,2015,11248.40
+LT,africa,Africa. regional,africa,2015,11248.40
 LT,PS,West Bank and Gaza Strip,middle-east,2015,11248.40
 LT,PK,Pakistan,south-central-asia,2015,11248.40
 LT,UZ,Uzbekistan,south-central-asia,2015,11248.40
@@ -586,7 +586,7 @@ LT,ME,Montenegro,europe,2015,0.00
 LT,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,2633115.94
 LT,BY,Belarus,europe,2014,1739737.32
 LT,UA,Ukraine,europe,2014,630067.03
-LT,europe,Europe regional,europe,2014,507815.22
+LT,europe,Europe. regional,europe,2014,507815.22
 LT,GE,Georgia,south-central-asia,2014,112847.83
 LT,MD,Moldova,europe,2014,84635.87
 LT,AF,Afghanistan,south-central-asia,2014,65827.90
@@ -595,8 +595,8 @@ LT,PS,West Bank and Gaza Strip,middle-east,2014,37615.94
 LT,CN,China (People's Republic of),far-east-asia,2014,37615.94
 LT,IQ,Iraq,middle-east,2014,28211.96
 LT,CF,Central African Republic,south-of-sahara,2014,28211.96
-LT,south-central-asia,South & Central Asia regional,south-central-asia,2014,18807.97
-LT,africa,Africa regional,africa,2014,9403.99
+LT,south-central-asia,South & Central Asia. regional,south-central-asia,2014,18807.97
+LT,africa,Africa. regional,africa,2014,9403.99
 LT,KZ,Kazakhstan,south-central-asia,2014,9403.99
 LT,AZ,Azerbaijan,south-central-asia,2014,9403.99
 LT,AM,Armenia,south-central-asia,2014,9403.99
@@ -619,12 +619,12 @@ LV,AF,Afghanistan,south-central-asia,2015,133942.13
 LV,MD,Moldova,europe,2015,133942.13
 LV,UZ,Uzbekistan,south-central-asia,2015,78132.91
 LV,BY,Belarus,europe,2015,78132.91
-LV,south-of-sahara,South of Sahara regional,south-of-sahara,2015,66971.07
+LV,south-of-sahara,South of Sahara. regional,south-of-sahara,2015,66971.07
 LV,AZ,Azerbaijan,south-central-asia,2015,44647.38
 LV,KZ,Kazakhstan,south-central-asia,2015,33485.53
-LV,central-asia,Central Asia regional,south-central-asia,2015,33485.53
+LV,central-asia,Central Asia. regional,south-central-asia,2015,33485.53
 LV,CN,China (People's Republic of),far-east-asia,2015,22323.69
-LV,europe,Europe regional,europe,2015,22323.69
+LV,europe,Europe. regional,europe,2015,22323.69
 LV,TR,Turkey,europe,2015,22323.69
 LV,TJ,Tajikistan,south-central-asia,2015,22323.69
 LV,NP,Nepal,south-central-asia,2015,22323.69
@@ -633,7 +633,7 @@ LV,TM,Turkmenistan,south-central-asia,2015,11161.84
 LV,AM,Armenia,south-central-asia,2015,11161.84
 LV,EG,Egypt,north-of-sahara,2015,11161.84
 LV,UA,Ukraine,europe,2014,629168.15
-LV,europe,Europe regional,europe,2014,291107.65
+LV,europe,Europe. regional,europe,2014,291107.65
 LV,AF,Afghanistan,south-central-asia,2014,206592.53
 LV,GE,Georgia,south-central-asia,2014,187811.39
 LV,MD,Moldova,europe,2014,178420.82
@@ -702,7 +702,7 @@ RO,IQ,Iraq,middle-east,2015,640444.08
 RO,UA,Ukraine,europe,2015,629401.94
 RO,NG,Nigeria,south-of-sahara,2015,585233.38
 RO,PS,West Bank and Gaza Strip,middle-east,2015,485854.13
-RO,europe,Europe regional,europe,2015,452727.71
+RO,europe,Europe. regional,europe,2015,452727.71
 RO,TM,Turkmenistan,south-central-asia,2015,353348.46
 RO,LB,Lebanon,middle-east,2015,342306.32
 RO,AF,Afghanistan,south-central-asia,2015,265011.34
@@ -711,7 +711,7 @@ RO,MK,Former Yugoslav Republic of Macedonia,europe,2015,231884.92
 RO,AO,Angola,south-of-sahara,2015,231884.92
 RO,EG,Egypt,north-of-sahara,2015,209800.65
 RO,IR,Iran,middle-east,2015,187716.37
-RO,middle-east,Middle East regional,middle-east,2015,154589.95
+RO,middle-east,Middle East. regional,middle-east,2015,154589.95
 RO,CN,China (People's Republic of),far-east-asia,2015,143547.81
 RO,PK,Pakistan,south-central-asia,2015,132505.67
 RO,IN,India,south-central-asia,2015,121463.53
@@ -796,7 +796,7 @@ RO,LB,Lebanon,middle-east,2014,138685.31
 RO,AO,Angola,south-of-sahara,2014,138685.31
 RO,MA,Morocco,north-of-sahara,2014,128779.22
 RO,AM,Armenia,south-central-asia,2014,108967.03
-RO,europe,Europe regional,europe,2014,99060.94
+RO,europe,Europe. regional,europe,2014,99060.94
 RO,NG,Nigeria,south-of-sahara,2014,89154.84
 RO,CN,China (People's Republic of),far-east-asia,2014,89154.84
 RO,MX,Mexico,north-central-america,2014,89154.84
@@ -805,7 +805,7 @@ RO,VN,Viet Nam,far-east-asia,2014,89154.84
 RO,PK,Pakistan,south-central-asia,2014,79248.75
 RO,EG,Egypt,north-of-sahara,2014,79248.75
 RO,TR,Turkey,europe,2014,79248.75
-RO,north-of-sahara,North of Sahara regional,north-of-sahara,2014,69342.65
+RO,north-of-sahara,North of Sahara. regional,north-of-sahara,2014,69342.65
 RO,IR,Iran,middle-east,2014,69342.65
 RO,MN,Mongolia,far-east-asia,2014,69342.65
 RO,BA,Bosnia and Herzegovina,europe,2014,49530.47
@@ -865,14 +865,14 @@ RU,MZ,Mozambique,south-of-sahara,2015,13071423.24
 RU,GN,Guinea,south-of-sahara,2015,10212049.40
 RU,JO,Jordan,middle-east,2015,8153300.24
 RU,NI,Nicaragua,north-central-america,2015,7450711.24
-RU,south-central-asia,South & Central Asia regional,south-central-asia,2015,5097855.06
+RU,south-central-asia,South & Central Asia. regional,south-central-asia,2015,5097855.06
 RU,BY,Belarus,europe,2015,4852765.88
 RU,VU,Vanuatu,oceania,2015,4248212.55
 RU,AF,Afghanistan,south-central-asia,2015,4182855.44
 RU,SL,Sierra Leone,south-of-sahara,2015,4052141.20
 RU,LR,Liberia,south-of-sahara,2015,4052141.20
 RU,YE,Yemen,middle-east,2015,3856069.85
-RU,middle-east,Middle East regional,middle-east,2015,3267855.81
+RU,middle-east,Middle East. regional,middle-east,2015,3267855.81
 RU,SD,Sudan,south-of-sahara,2015,2516248.97
 RU,TZ,Tanzania,south-of-sahara,2015,2238481.23
 RU,IR,Iran,middle-east,2015,2124106.28
@@ -885,8 +885,8 @@ RU,TM,Turkmenistan,south-central-asia,2015,1111070.98
 RU,MA,Morocco,north-of-sahara,2015,980356.74
 RU,KZ,Kazakhstan,south-central-asia,2015,931338.91
 RU,UZ,Uzbekistan,south-central-asia,2015,849642.51
-RU,africa,Africa regional,africa,2015,669910.44
-RU,america,America regional,america,2015,506517.65
+RU,africa,Africa. regional,africa,2015,669910.44
+RU,america,America. regional,america,2015,506517.65
 RU,MN,Mongolia,far-east-asia,2015,375803.42
 RU,ET,Ethiopia,south-of-sahara,2015,294107.02
 RU,VN,Viet Nam,far-east-asia,2015,261428.46
@@ -905,8 +905,8 @@ RU,TJ,Tajikistan,south-central-asia,2014,21500545.47
 RU,NI,Nicaragua,north-central-america,2014,19028203.48
 RU,GN,Guinea,south-of-sahara,2014,18531527.64
 RU,RS,Serbia,europe,2014,17891367.66
-RU,middle-east,Middle East regional,middle-east,2014,10959980.31
-RU,central-asia,Central Asia regional,south-central-asia,2014,9370617.61
+RU,middle-east,Middle East. regional,middle-east,2014,10959980.31
+RU,central-asia,Central Asia. regional,south-central-asia,2014,9370617.61
 RU,MZ,Mozambique,south-of-sahara,2014,8829792.80
 RU,SY,Syrian Arab Republic,middle-east,2014,8090297.65
 RU,AM,Armenia,south-central-asia,2014,7571547.33
@@ -915,24 +915,24 @@ RU,CM,Cameroon,south-of-sahara,2014,6975536.31
 RU,TN,Tunisia,north-of-sahara,2014,6236041.17
 RU,SS,South Sudan,south-of-sahara,2014,5529657.74
 RU,AF,Afghanistan,south-central-asia,2014,5463434.30
-RU,south-central-asia,South & Central Asia regional,south-central-asia,2014,5441359.81
+RU,south-central-asia,South & Central Asia. regional,south-central-asia,2014,5441359.81
 RU,GH,Ghana,south-of-sahara,2014,3355321.26
 RU,JO,Jordan,middle-east,2014,3311172.30
 RU,BY,Belarus,europe,2014,2759310.25
 RU,LR,Liberia,south-of-sahara,2014,2284708.89
 RU,KE,Kenya,south-of-sahara,2014,2207448.20
 RU,ML,Mali,south-of-sahara,2014,2207448.20
-RU,asia,Asia regional,asia,2014,2207448.20
+RU,asia,Asia. regional,asia,2014,2207448.20
 RU,UG,Uganda,south-of-sahara,2014,1732846.84
 RU,SL,Sierra Leone,south-of-sahara,2014,1655586.15
 RU,MA,Morocco,north-of-sahara,2014,1655586.15
-RU,america,America regional,america,2014,1611437.19
+RU,america,America. regional,america,2014,1611437.19
 RU,TZ,Tanzania,south-of-sahara,2014,1512102.02
 RU,IR,Iran,middle-east,2014,1434841.33
 RU,UZ,Uzbekistan,south-central-asia,2014,1269282.72
 RU,IQ,Iraq,middle-east,2014,1180984.79
 RU,SO,Somalia,south-of-sahara,2014,1103724.10
-RU,europe,Europe regional,europe,2014,993351.69
+RU,europe,Europe. regional,europe,2014,993351.69
 RU,CN,China (People's Republic of),far-east-asia,2014,640159.98
 RU,KZ,Kazakhstan,south-central-asia,2014,607048.26
 RU,AZ,Azerbaijan,south-central-asia,2014,529787.57
@@ -946,10 +946,10 @@ RU,SD,Sudan,south-of-sahara,2014,55186.21
 RU,TV,Tuvalu,oceania,2014,44148.96
 RU,VU,Vanuatu,oceania,2014,33111.72
 RU,NR,Nauru,oceania,2014,33111.72
-SA,middle-east,Middle East regional,middle-east,2014,11425128931.10
-SA,asia,Asia regional,asia,2014,1501660261.15
+SA,middle-east,Middle East. regional,middle-east,2014,11425128931.10
+SA,asia,Asia. regional,asia,2014,1501660261.15
 SA,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,361965550.33
-SA,africa,Africa regional,africa,2014,7686852.22
+SA,africa,Africa. regional,africa,2014,7686852.22
 TH,LA,Lao People's Democratic Republic,far-east-asia,2015,45435209.72
 TH,MM,Myanmar,south-central-asia,2015,20415480.62
 TH,KH,Cambodia,far-east-asia,2015,4008014.85
@@ -1084,33 +1084,33 @@ TH,NG,Nigeria,south-of-sahara,2014,9905.17
 TH,BR,Brazil,south-america,2014,9905.17
 TH,MG,Madagascar,south-of-sahara,2014,9905.17
 TH,VU,Vanuatu,oceania,2014,9905.17
-TL,south-of-sahara,South of Sahara regional,south-of-sahara,2014,3552277.72
+TL,south-of-sahara,South of Sahara. regional,south-of-sahara,2014,3552277.72
 TL,GW,Guinea-Bissau,south-of-sahara,2014,1243297.20
 TL,CV,Cabo Verde,south-of-sahara,2014,888069.43
 TL,KP,Democratic People's Republic of Korea,far-east-asia,2014,177613.89
 TR,SY,Syrian Arab Republic,middle-east,2014,2434211104.18
 TR,TN,Tunisia,north-of-sahara,2014,213198357.68
-TR,asia,Asia regional,asia,2014,107587093.50
+TR,asia,Asia. regional,asia,2014,107587093.50
 TR,KG,Kyrgyzstan,south-central-asia,2014,90048952.57
-TR,middle-east,Middle East regional,middle-east,2014,83739046.02
+TR,middle-east,Middle East. regional,middle-east,2014,83739046.02
 TR,SO,Somalia,south-of-sahara,2014,78980059.26
 TR,PS,West Bank and Gaza Strip,middle-east,2014,70014468.14
 TR,AF,Afghanistan,south-central-asia,2014,69292121.93
-TR,south-central-asia,South & Central Asia regional,south-central-asia,2014,56321758.47
+TR,south-central-asia,South & Central Asia. regional,south-central-asia,2014,56321758.47
 TR,BA,Bosnia and Herzegovina,europe,2014,46166420.65
 TR,KZ,Kazakhstan,south-central-asia,2014,43064581.07
 TR,IQ,Iraq,middle-east,2014,41449924.85
 TR,AZ,Azerbaijan,south-central-asia,2014,39261640.76
 TR,PK,Pakistan,south-central-asia,2014,26365636.46
-TR,europe,Europe regional,europe,2014,22626432.58
+TR,europe,Europe. regional,europe,2014,22626432.58
 TR,XK,Kosovo,europe,2014,18834115.01
 TR,MK,Former Yugoslav Republic of Macedonia,europe,2014,15317988.63
 TR,LY,Libya,north-of-sahara,2014,13671464.19
 TR,AL,Albania,europe,2014,13597105.02
-TR,south-of-sahara,South of Sahara regional,south-of-sahara,2014,13533368.59
+TR,south-of-sahara,South of Sahara. regional,south-of-sahara,2014,13533368.59
 TR,MN,Mongolia,far-east-asia,2014,13437763.95
 TR,TM,Turkmenistan,south-central-asia,2014,12534831.19
-TR,central-asia,Central Asia regional,south-central-asia,2014,11727503.08
+TR,central-asia,Central Asia. regional,south-central-asia,2014,11727503.08
 TR,YE,Yemen,middle-east,2014,10675851.99
 TR,SD,Sudan,south-of-sahara,2014,9942883.05
 TR,IR,Iran,middle-east,2014,8083903.85
@@ -1121,7 +1121,7 @@ TR,CN,China (People's Republic of),far-east-asia,2014,5863751.54
 TR,EG,Egypt,north-of-sahara,2014,5651296.78
 TR,JO,Jordan,middle-east,2014,5258255.46
 TR,UA,Ukraine,europe,2014,5109537.12
-TR,north-of-sahara,North of Sahara regional,north-of-sahara,2014,5098914.38
+TR,north-of-sahara,North of Sahara. regional,north-of-sahara,2014,5098914.38
 TR,MR,Mauritania,south-of-sahara,2014,4758986.76
 TR,UZ,Uzbekistan,south-central-asia,2014,4599645.68
 TR,BF,Burkina Faso,south-of-sahara,2014,4408436.39
@@ -1170,27 +1170,27 @@ TR,RW,Rwanda,south-of-sahara,2014,647987.04
 TR,BJ,Benin,south-of-sahara,2014,626741.56
 TR,ZM,Zambia,south-of-sahara,2014,563005.13
 TR,ZW,Zimbabwe,south-of-sahara,2014,541759.65
-TR,america,America regional,america,2014,478023.22
+TR,america,America. regional,america,2014,478023.22
 TR,SL,Sierra Leone,south-of-sahara,2014,478023.22
 TR,KM,Comoros,south-of-sahara,2014,456777.75
 TR,GA,Gabon,south-of-sahara,2014,382418.58
 TR,MW,Malawi,south-of-sahara,2014,382418.58
 TR,HT,Haiti,north-central-america,2014,361173.10
 TR,NP,Nepal,south-central-asia,2014,350550.36
-TR,east-asia,Far East Asia regional,far-east-asia,2014,329304.89
+TR,east-asia,Far East Asia. regional,far-east-asia,2014,329304.89
 TR,TG,Togo,south-of-sahara,2014,318682.15
 TR,MV,Maldives,south-central-asia,2014,308059.41
 TR,CU,Cuba,north-central-america,2014,297436.67
 TR,MX,Mexico,north-central-america,2014,265568.46
 TR,CG,Congo,south-of-sahara,2014,265568.46
 TR,ST,Sao Tome and Principe,south-of-sahara,2014,254945.72
-TR,south-america,South America regional,south-america,2014,244322.98
-TR,north-central-america,North & Central America regional,north-central-america,2014,223077.50
+TR,south-america,South America. regional,south-america,2014,244322.98
+TR,north-central-america,North & Central America. regional,north-central-america,2014,223077.50
 TR,BR,Brazil,south-america,2014,223077.50
 TR,VU,Vanuatu,oceania,2014,212454.77
 TR,MU,Mauritius,south-of-sahara,2014,201832.03
 TR,VC,Saint Vincent and the Grenadines,north-central-america,2014,191209.29
-TR,south-asia,South Asia regional,south-central-asia,2014,191209.29
+TR,south-asia,South Asia. regional,south-central-asia,2014,191209.29
 TR,EC,Ecuador,south-america,2014,191209.29
 TR,JM,Jamaica,north-central-america,2014,191209.29
 TR,NA,Namibia,south-of-sahara,2014,159341.07
@@ -1210,7 +1210,7 @@ TR,HN,Honduras,north-central-america,2014,95604.64
 TR,BO,Bolivia,south-america,2014,95604.64
 TR,CR,Costa Rica,north-central-america,2014,84981.91
 TR,UY,Uruguay,south-america,2014,84981.91
-TR,oceania,Oceania regional,oceania,2014,84981.91
+TR,oceania,Oceania. regional,oceania,2014,84981.91
 TR,BW,Botswana,south-of-sahara,2014,84981.91
 TR,AO,Angola,south-of-sahara,2014,63736.43
 TR,PW,Palau,oceania,2014,63736.43
@@ -1228,5 +1228,5 @@ TR,FJ,Fiji,oceania,2014,10622.74
 TR,BT,Bhutan,south-central-asia,2014,10622.74
 TR,TO,Tonga,oceania,2014,10622.74
 TW,bilateral-unspecified,Developing Countries unspecified,unspecified,2015,240324817.35
-TW,north-central-america,North & Central America regional,north-central-america,2015,8159891.57
+TW,north-central-america,North & Central America. regional,north-central-america,2015,8159891.57
 TW,bilateral-unspecified,Developing Countries unspecified,unspecified,2014,222619811.83

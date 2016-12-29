@@ -1,113 +1,73 @@
-from_di_id,to_di_id,channel,year,value
-Bulgaria,BG,All Channels,2014,0.000 
-Bulgaria,BG,Public Sector,2014,0.000 
-Bulgaria,BG,NGOs & Civil Society,2014,0.000 
-Bulgaria,BG,Public-Private Partnerships (PPP),2014,0.000 
-Bulgaria,BG,Multilateral Organisations,2014,0.000 
-Bulgaria,BG,Other,2014,0.000 
-Bulgaria,BG,To be defined,2014,0.000 
-Estonia,EE,All Channels,2014,13.710 
-Estonia,EE,Public Sector,2014,2.344 
-Estonia,EE,NGOs & Civil Society,2014,5.065 
-Estonia,EE,Public-Private Partnerships (PPP),2014,0.016 
-Estonia,EE,Multilateral Organisations,2014,4.445 
-Estonia,EE,Other,2014,1.841 
-Estonia,EE,To be defined,2014,0.000 
-Hungary,HU,All Channels,2014,29.277 
-Hungary,HU,Public Sector,2014,0.020 
-Hungary,HU,NGOs & Civil Society,2014,0.042 
-Hungary,HU,Public-Private Partnerships (PPP),2014,0.063 
-Hungary,HU,Multilateral Organisations,2014,6.523 
-Hungary,HU,Other,2014,0.000 
-Hungary,HU,To be defined,2014,22.629 
-Israel,IL,All Channels,2014,0.000 
-Israel,IL,Public Sector,2014,0.000 
-Israel,IL,NGOs & Civil Society,2014,0.000 
-Israel,IL,Public-Private Partnerships (PPP),2014,0.000 
-Israel,IL,Multilateral Organisations,2014,0.000 
-Israel,IL,Other,2014,0.000 
-Israel,IL,To be defined,2014,0.000 
-Kazakhstan,KZ,All Channels,2014,28.424 
-Kazakhstan,KZ,Public Sector,2014,22.917 
-Kazakhstan,KZ,NGOs & Civil Society,2014,0.059 
-Kazakhstan,KZ,Public-Private Partnerships (PPP),2014,0.000 
-Kazakhstan,KZ,Multilateral Organisations,2014,5.448 
-Kazakhstan,KZ,Other,2014,0.000 
-Kazakhstan,KZ,To be defined,2014,0.000 
-Kuwait [KFAED],KW,All Channels,2014,544.737 
-Kuwait [KFAED],KW,Public Sector,2014,443.734 
-Kuwait [KFAED],KW,NGOs & Civil Society,2014,0.000 
-Kuwait [KFAED],KW,Public-Private Partnerships (PPP),2014,0.098 
-Kuwait [KFAED],KW,Multilateral Organisations,2014,0.005 
-Kuwait [KFAED],KW,Other,2014,100.900 
-Kuwait [KFAED],KW,To be defined,2014,0.000 
-Latvia,LV,All Channels,2014,0.000 
-Latvia,LV,Public Sector,2014,0.000 
-Latvia,LV,NGOs & Civil Society,2014,0.000 
-Latvia,LV,Public-Private Partnerships (PPP),2014,0.000 
-Latvia,LV,Multilateral Organisations,2014,0.000 
-Latvia,LV,Other,2014,0.000 
-Latvia,LV,To be defined,2014,0.000 
-Liechtenstein,LI,All Channels,2014,0.000 
-Liechtenstein,LI,Public Sector,2014,0.000 
-Liechtenstein,LI,NGOs & Civil Society,2014,0.000 
-Liechtenstein,LI,Public-Private Partnerships (PPP),2014,0.000 
-Liechtenstein,LI,Multilateral Organisations,2014,0.000 
-Liechtenstein,LI,Other,2014,0.000 
-Liechtenstein,LI,To be defined,2014,0.000 
-Lithuania,LT,All Channels,2014,6.059 
-Lithuania,LT,Public Sector,2014,3.229 
-Lithuania,LT,NGOs & Civil Society,2014,0.463 
-Lithuania,LT,Public-Private Partnerships (PPP),2014,0.163 
-Lithuania,LT,Multilateral Organisations,2014,0.726 
-Lithuania,LT,Other,2014,1.479 
-Lithuania,LT,To be defined,2014,0.000 
-Malta,MT,All Channels,2014,0.000 
-Malta,MT,Public Sector,2014,0.000 
-Malta,MT,NGOs & Civil Society,2014,0.000 
-Malta,MT,Public-Private Partnerships (PPP),2014,0.000 
-Malta,MT,Multilateral Organisations,2014,0.000 
-Malta,MT,Other,2014,0.000 
-Malta,MT,To be defined,2014,0.000 
-Romania,RO,All Channels,2014,69.335 
-Romania,RO,Public Sector,2014,67.651 
-Romania,RO,NGOs & Civil Society,2014,0.187 
-Romania,RO,Public-Private Partnerships (PPP),2014,0.047 
-Romania,RO,Multilateral Organisations,2014,1.450 
-Romania,RO,Other,2014,0.000 
-Romania,RO,To be defined,2014,0.000 
-Russia,RU,All Channels,2014,0.000 
-Russia,RU,Public Sector,2014,0.000 
-Russia,RU,NGOs & Civil Society,2014,0.000 
-Russia,RU,Public-Private Partnerships (PPP),2014,0.000 
-Russia,RU,Multilateral Organisations,2014,0.000 
-Russia,RU,Other,2014,0.000 
-Russia,RU,To be defined,2014,0.000 
-Chinese Taipei,TW,All Channels,2014,0.000 
-Chinese Taipei,TW,Public Sector,2014,0.000 
-Chinese Taipei,TW,NGOs & Civil Society,2014,0.000 
-Chinese Taipei,TW,Public-Private Partnerships (PPP),2014,0.000 
-Chinese Taipei,TW,Multilateral Organisations,2014,0.000 
-Chinese Taipei,TW,Other,2014,0.000 
-Chinese Taipei,TW,To be defined,2014,0.000 
-Thailand,TH,All Channels,2014,0.000 
-Thailand,TH,Public Sector,2014,0.000 
-Thailand,TH,NGOs & Civil Society,2014,0.000 
-Thailand,TH,Public-Private Partnerships (PPP),2014,0.000 
-Thailand,TH,Multilateral Organisations,2014,0.000 
-Thailand,TH,Other,2014,0.000 
-Thailand,TH,To be defined,2014,0.000 
-Timor Leste,TL,All Channels,2014,5.861 
-Timor Leste,TL,Public Sector,2014,0.000 
-Timor Leste,TL,NGOs & Civil Society,2014,0.178 
-Timor Leste,TL,Public-Private Partnerships (PPP),2014,0.000 
-Timor Leste,TL,Multilateral Organisations,2014,0.000 
-Timor Leste,TL,Other,2014,0.000 
-Timor Leste,TL,To be defined,2014,5.684 
-United Arab Emirates,AE,All Channels,2014,"5,015.272 "
-United Arab Emirates,AE,Public Sector,2014,"4,632.702 "
-United Arab Emirates,AE,NGOs & Civil Society,2014,282.340 
-United Arab Emirates,AE,Public-Private Partnerships (PPP),2014,1.757 
-United Arab Emirates,AE,Multilateral Organisations,2014,96.281 
-United Arab Emirates,AE,Other,2014,2.192 
-United Arab Emirates,AE,To be defined,2014,0.000 
+di_id,oda_aid_bundle,year,value
+AE,mixed-project-aid,2014,2394672907.77
+AE,commodities-food,2014,2068590094.06
+AE,cash-grant,2014,348423182.50
+AE,cash-loan-equity,2014,109026864.73
+AE,non-transfer,2014,75365733.63
+AE,technical-ooperation,2014,17005536.46
+AE,gpgs-nngos,2014,2192091.80
+BG,mixed-project-aid,2015,1545530.16
+EE,mixed-project-aid,2014,5114437.93
+EE,cash-grant,2014,2941589.41
+EE,technical-ooperation,2014,2194672.39
+EE,non-transfer,2014,2047958.88
+EE,gpgs-nngos,2014,1314378.39
+EE,commodities-food,2014,97002.19
+HU,non-transfer,2014,19209191.41
+HU,cash-grant,2014,6135497.81
+HU,mixed-project-aid,2014,3385222.84
+HU,technical-ooperation,2014,508022.44
+HU,commodities-food,2014,38838.66
+IL,mixed-project-aid,2015,169609464.59
+IL,cash-grant,2015,104721.37
+KW,cash-loan-equity,2015,520767092.89
+KW,mixed-project-aid,2015,169159209.78
+KW,technical-ooperation,2015,5361090.49
+KW,commodities-food,2015,1608594.88
+KW,cash-grant,2015,637150.69
+KW,non-transfer,2015,0.00
+KW,cash-loan-equity,2014,357738882.45
+KW,mixed-project-aid,2014,180760436.47
+KW,technical-ooperation,2014,3831292.76
+KW,commodities-food,2014,1443080.91
+KW,cash-grant,2014,963767.96
+KZ,mixed-project-aid,2014,18366388.60
+KZ,cash-grant,2014,6086997.64
+KZ,commodities-food,2014,3970414.40
+LI,mixed-project-aid,2015,21039185.82
+LT,non-transfer,2015,6665650.73
+LT,technical-ooperation,2015,1805472.67
+LT,mixed-project-aid,2015,1459089.98
+LT,cash-grant,2015,1093766.74
+LT,gpgs-nngos,2015,8300.62
+LT,non-transfer,2014,3111826.69
+LT,cash-grant,2014,1032370.68
+LT,gpgs-nngos,2014,785922.16
+LT,technical-ooperation,2014,584136.43
+LT,mixed-project-aid,2014,511356.68
+LT,commodities-food,2014,33562.64
+LV,mixed-project-aid,2015,1749634.75
+LV,non-transfer,2015,631399.87
+LV,cash-grant,2015,84193.79
+MT,non-transfer,2015,5728828.87
+MT,mixed-project-aid,2015,3037192.04
+MT,cash-grant,2015,67356.73
+MT,commodities-food,2015,16334.58
+RO,non-transfer,2015,33138930.77
+RO,mixed-project-aid,2015,1796761.60
+RO,technical-ooperation,2015,1272742.96
+RO,cash-grant,2015,276211.83
+RO,commodities-food,2015,124066.16
+RO,cash-grant,2014,41616726.22
+RO,non-transfer,2014,23279164.70
+RO,mixed-project-aid,2014,2412396.03
+RO,technical-ooperation,2014,2026659.45
+RU,mixed-project-aid,2015,790962121.97
+RU,non-transfer,2015,679787093.91
+RU,cash-grant,2015,3286057.77
+TH,mixed-project-aid,2015,39918448.15
+TH,cash-loan-equity,2015,38238449.16
+TL,mixed-project-aid,2014,5683644.35
+TL,cash-grant,2014,177613.89
+TW,mixed-project-aid,2015,235223504.89
+TW,cash-loan-equity,2015,13261204.03
