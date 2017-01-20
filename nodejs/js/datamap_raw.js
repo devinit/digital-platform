@@ -133,7 +133,9 @@ exports.csv=
  "country-year/income-share-by-quintile.csv": "fact.\"income_share_by_quintile\"",
  "country-year/life-expectancy-at-birth.csv": "fact.\"life_expectancy_at_birth\"",
  "country-year/maternal-mortality.csv": "fact.\"maternal_mortality\"",
-
+ 
+ // added new file for the data where year = 2015
+ "country-year/oda.2015.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2015 ) sq ",
  "country-year/oda.2014.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2012\" WHERE year=2014 ) sq ",
  "country-year/oda.2013.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2012\" WHERE year=2013 ) sq ",
  "country-year/oda.2012.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2012\" WHERE year=2012 ) sq ",
