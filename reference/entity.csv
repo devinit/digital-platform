@@ -313,7 +313,7 @@ imf-concessional-trust-funds,organisation,IMF (Concessional Trust Funds),,,,,,im
 idb-sp-fund,organisation,IDB Sp.Fund,,,,,,idb-sp-fund,17,multilateral,,IDB Sp.Fund
 adaptation-fund,organisation,Adaptation Fund,,,,,,adaptation-fund,,,,Adaptation Fund
 all-donors-total,,"All Donors, Total",,,,,,all-donors-total,,,,"All Donors, Total"
-ANHH,,Netherlands Antilles,,,,,,netherlands-antilles,,,,Netherlands Antilles
+ANHH,country,Netherlands Antilles,,,,,,netherlands-antilles,,,,Netherlands Antilles
 bmgf,organisation,Bill & Melinda Gates Foundation,,,,,,bmgf,,,,Bill & Melinda Gates Foundation
 ceb,organisation,Council of Europe Development Bank [CEB],,,,,,ceb,,multilateral,,Council of Europe Development Bank [CEB]
 cif,organisation,Climate Investment Funds [CIF],,,,,,cif,,multilateral,,Climate Investment Funds [CIF]
