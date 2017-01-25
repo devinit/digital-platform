@@ -191,7 +191,7 @@ RO,country,Romania,europe,RO,ROU,"MD,HU,UA,BG,RS",,romania,RO,donor,,Romania
 RS,country,Serbia,europe,RS,SRB,"AL,HU,MK,RO,HR,BA,BG,ME,XK",umics,serbia,RS,recipient,1,Serbia
 RU,country,Russian Federation,europe,RU,RUS,"GE,CN,BY,UA,KZ,LV,PL,EE,LT,FI,MN,NO,AZ,KP",,russian-federation,RU,donor,,Russian Federation
 RW,country,Rwanda,south-of-sahara,RW,RWA,"TZ,CD,BI,UG",ldcs,rwanda,RW,recipient,1,Rwanda
-SA,country,Saudi Arabia,middle-east,SA,SAU,"QA,OM,IQ,YE,JO,AE,KW",,saudi-arabia,SA,crossover,,Saudi Arabia
+SA,country,Saudi Arabia,middle-east,SA,SAU,"QA,OM,IQ,YE,JO,AE,KW",,saudi-arabia,SA,donor,,Saudi Arabia
 SB,country,Solomon Islands,oceania,SB,SLB,,ldcs,solomon-islands,SB,recipient,1,Solomon Islands
 SC,country,Seychelles,south-of-sahara,SC,SYC,,umics,seychelles,SC,recipient,1,Seychelles
 SD,country,Sudan,south-of-sahara,SD,SDN,"SS,TD,EG,ET,ER,LY,CF",ldcs,sudan,SD,recipient,1,Sudan
