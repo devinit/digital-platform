@@ -311,21 +311,21 @@ region-unspecified,region,"Region, unspecified",unspecified,,,,,region-unspecifi
 arab-fund,organisation,Arab Fund (AFESD),,,,,,arab-fund,4,multilateral,,Arab Fund
 imf-concessional-trust-funds,organisation,IMF (Concessional Trust Funds),,,,,,imf-concessional-trust-funds,21,multilateral,,IMF (CTF)
 idb-sp-fund,organisation,IDB Sp.Fund,,,,,,idb-sp-fund,17,multilateral,,IDB Sp.Fund
-adaptation-fund,,Adaptation Fund,,,,,,adaptation-fund,,,,Adaptation Fund
+adaptation-fund,organisation,Adaptation Fund,,,,,,adaptation-fund,,,,Adaptation Fund
 all-donors-total,,"All Donors, Total",,,,,,all-donors-total,,,,"All Donors, Total"
 ANHH,,Netherlands Antilles,,,,,,netherlands-antilles,,,,Netherlands Antilles
-bmgf,,Bill & Melinda Gates Foundation,,,,,,bmgf,,,,Bill & Melinda Gates Foundation
-ceb,,Council of Europe Development Bank [CEB],,,,,,ceb,,multilateral,,Council of Europe Development Bank [CEB]
-cif,,Climate Investment Funds [CIF],,,,,,cif,,multilateral,,Climate Investment Funds [CIF]
+bmgf,organisation,Bill & Melinda Gates Foundation,,,,,,bmgf,,,,Bill & Melinda Gates Foundation
+ceb,organisation,Council of Europe Development Bank [CEB],,,,,,ceb,,multilateral,,Council of Europe Development Bank [CEB]
+cif,organisation,Climate Investment Funds [CIF],,,,,,cif,,multilateral,,Climate Investment Funds [CIF]
 dac-countries-total,,"DAC Countries, Total",,,,,,dac-countries-total,,,,"DAC Countries, Total"
 dac-eu-members-and-ec-total,,"DAC EU Members + EC, Total",,,,,,dac-eu-members-and-ec-total,,,,"DAC EU Members + EC, Total"
 dac-eu-members-total,,"DAC EU Members, Total",,,,,,dac-eu-members-total,,,,"DAC EU Members, Total"
 developing-countries-unspecified,,Developing Countries unspecified,,,,,,developing-countries-unspecified,,,,Developing Countries unspecified
 eac,,East African Community,,,,,,eac,,,,East African Community
-fao,,Food and Agriculture Organisation [FAO],,,,,,fao,,multilateral,,Food and Agriculture Organisation [FAO]
+fao,organisation,Food and Agriculture Organisation [FAO],,,,,,fao,,multilateral,,Food and Agriculture Organisation [FAO]
 g7-countries-total,,"G7 Countries, Total",,,,,,g7-countries-total,,,,"G7 Countries, Total"
-gggi,,Global Green Growth Institute [GGGI],,,,,,gggi,,multilateral,,Global Green Growth Institute [GGGI]
-international-labour-organisation,,International Labour Organisation,,,,,,international-labour-organisation,,multilateral,,International Labour Organisation
+gggi,organisation,Global Green Growth Institute [GGGI],,,,,,gggi,,multilateral,,Global Green Growth Institute [GGGI]
+international-labour-organisation,organisation,International Labour Organisation,,,,,,international-labour-organisation,,multilateral,,International Labour Organisation
 multilateral-total,,"Multilateral, Total",,,,,,multilateral-total,,,,"Multilateral, Total"
 non-dac-countries-total,,"Non-DAC Countries, Total",,,,,,non-dac-countries-total,,,,"Non-DAC Countries, Total"
 other-donor-countries,,Other donor countries,,,,,,other-donor-countries,,,,Other donor countries
