@@ -123,7 +123,7 @@ KP,country,"Korea, Democratic People's Republic of",far-east-asia,KP,PRK,"CN,KR,
 KR,country,"Korea, Republic of",far-east-asia,KR,KOR,KP,,south-korea,KR,donor,,South Korea
 KW,country,Kuwait,middle-east,KW,KWT,"SA,IQ",,kuwait,KW,donor,,Kuwait
 KY,country,Cayman Islands,north-central-america,KY,CYM,,,cayman-islands,KY,,,Cayman Islands
-KZ,country,Kazakhstan,south-central-asia,KZ,KAZ,"TM,CN,KG,UZ,RU",umics,kazakhstan,KZ,recipient,1,Kazakhstan
+KZ,country,Kazakhstan,south-central-asia,KZ,KAZ,"TM,CN,KG,UZ,RU",umics,kazakhstan,KZ,crossover,1,Kazakhstan
 LA,country,Lao People's Democratic Republic,far-east-asia,LA,LAO,"CN,MM,KH,TH,VN",ldcs,lao,LA,recipient,1,Lao
 LB,country,Lebanon,middle-east,LB,LBN,"SY,IL",umics,lebanon,LB,recipient,1,Lebanon
 LC,country,Saint Lucia,north-central-america,LC,LCA,,umics,saint-lucia,LC,recipient,1,Saint Lucia
