@@ -151,7 +151,7 @@ MP,country,Northern Mariana Islands,oceania,MP,MNP,,,northern-mariana-islands,MP
 MQ,country,Martinique,north-central-america,MQ,MTQ,,,martinique,MQ,,,Martinique
 MR,country,Mauritania,south-of-sahara,MR,MRT,"SN,DZ,EH,ML",ldcs,mauritania,MR,recipient,1,Mauritania
 MS,country,Montserrat,north-central-america,MS,MSR,,umics,montserrat,MS,recipient,,Montserrat
-MT,country,Malta,europe,MT,MLT,,,malta,MT,crossover,,Malta
+MT,country,Malta,europe,MT,MLT,,,malta,MT,donor,,Malta
 MU,country,Mauritius,south-of-sahara,MU,MUS,,umics,mauritius,MU,recipient,1,Mauritius
 MV,country,Maldives,south-central-asia,MV,MDV,,umics,maldives,MV,recipient,1,Maldives
 MW,country,Malawi,south-of-sahara,MW,MWI,"TZ,MZ,ZM",ldcs,malawi,MW,recipient,1,Malawi
