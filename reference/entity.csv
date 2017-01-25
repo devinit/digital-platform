@@ -96,7 +96,7 @@ GY,country,Guyana,south-america,GY,GUY,"SR,BR,VE",lmics,guyana,GY,recipient,1,Gu
 HK,country,Hong Kong,south-central-asia,HK,HKG,,,hong-kong,HK,,,Hong Kong
 HM,country,Heard Island and McDonald Islands,unspecified,HM,HMD,,,heard-island-and-mcdonald-islands,HM,,,Heard Island & McDonald Islands
 HN,country,Honduras,north-central-america,HN,HND,"GT,NI,SV",lmics,honduras,HN,recipient,1,Honduras
-HR,country,Croatia,europe,HR,HRV,"HU,SI,BA,ME,RS",,croatia,HR,crossover,,Croatia
+HR,country,Croatia,europe,HR,HRV,"HU,SI,BA,ME,RS",,croatia,HR,donor,,Croatia
 HT,country,Haiti,north-central-america,HT,HTI,DO,ldcs,haiti,HT,recipient,1,Haiti
 HU,country,Hungary,europe,HU,HUN,"SK,SI,RO,UA,HR,AT,RS",,hungary,HU,donor,,Hungary
 ID,country,Indonesia,far-east-asia,ID,IDN,"PG,TL,MY",lmics,indonesia,ID,recipient,1,Indonesia
