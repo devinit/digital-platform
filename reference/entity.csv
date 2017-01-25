@@ -186,7 +186,7 @@ PT,country,Portugal,europe,PT,PRT,ES,,portugal,PT,donor,,Portugal
 PW,country,Palau,oceania,PW,PLW,,umics,palau,PW,recipient,1,Palau
 PY,country,Paraguay,south-america,PY,PRY,"BO,BR,AR",lmics,paraguay,PY,recipient,1,Paraguay
 QA,country,Qatar,middle-east,QA,QAT,SA,,qatar,QA,donor,,Qatar
-RE,country,Réunion,south-of-sahara,RE,REU,,,r�union,RE,,,Reunion
+RE,country,Réunion,south-of-sahara,RE,REU,,,réunion,RE,,,Reunion
 RO,country,Romania,europe,RO,ROU,"MD,HU,UA,BG,RS",,romania,RO,donor,,Romania
 RS,country,Serbia,europe,RS,SRB,"AL,HU,MK,RO,HR,BA,BG,ME,XK",umics,serbia,RS,recipient,1,Serbia
 RU,country,Russian Federation,europe,RU,RUS,"GE,CN,BY,UA,KZ,LV,PL,EE,LT,FI,MN,NO,AZ,KP",,russian-federation,RU,donor,,Russian Federation
