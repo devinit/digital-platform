@@ -1,4 +1,4 @@
-id,old-code,name
-oof-loan,A,OOF Loan
-oof-export-credit,B,OOF Export Credit
-oof-grant,C,OOF Grant
+id,name,old-code,color-id
+oof-loan,OOF Loan,A,orange-high
+oof-export-credit,OOF Export Credit,B,lightblue-mid
+oof-grant,OOF Grant,C,yellow-high
