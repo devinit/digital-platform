@@ -1,11 +1,11 @@
 id,name,old-code
-public-sector-unknown,Public-sector (unknown country),A
-public-sector-donor,Public-sector (Donor government),B
-public-sector-recipient,Public-sector (Recipient government),C
+public-sector-unknown,Public sector (unknown country),A
+public-sector-donor,Public sector (donor government),B
+public-sector-recipient,Public sector (recipient government),C
 ngo-unknown,NGO (unknown country),D
-ngo-donor,NGO (Donor-country-based),E
-ngo-recipient,NGO (Recipient-country-based),F
-public-private-partnership,Public-private partnership,G
+ngo-donor,NGO (donor-country based),E
+ngo-recipient,NGO (recipient-country based),F
+public-private-partnership,Public private partnership,G
 multilateral,Multilateral,H
-other,"Other (Private sector, think-tank, etc)",I
+other,"Other (private sector, think-tank, etc)",I
 unspecified,Unspecified,J
