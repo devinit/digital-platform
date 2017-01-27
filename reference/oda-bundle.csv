@@ -2,7 +2,7 @@ id,name,old-code,color-id
 cash-loan-equity,Cash (loans/equity),A,red-high
 cash-grant,Cash grants,B,red-mid
 commodities-food,Commodities and food,C,purple-high
-gpgs-nngos,Global public goods and northern non-governmental organisations,D,lightblue-mid
+gpgs-nngos,Global initiatives and northern non-governmental organisations,D,lightblue-mid
 mixed-project-aid,Mixed project aid,E,yellow-high
 non-transfer,Non-transfer,F,orange-high
 technical-ooperation,Technical cooperation,G,darkblue-mid
