@@ -71,7 +71,7 @@ CG,country,Congo,south-of-sahara,CG,COG,"CF,GA,CD,CM,AO",lmics,congo,CG,recipien
 CD,country,"Congo, the Democratic Republic of the",south-of-sahara,CD,COD,"TZ,CF,SS,RW,ZM,BI,UG,CG,AO",ldcs,drc,CD,recipient,1,DRC
 CK,country,Cook Islands,oceania,CK,COK,,umics,cook-islands,CK,recipient,,Cook Islands
 CR,country,Costa Rica,north-central-america,CR,CRI,"PA,NI",umics,costa-rica,CR,recipient,1,Costa Rica
-CI,country,Côte d'Ivoire,south-of-sahara,CI,CIV,"LR,GH,GN,BF,ML",lmics,cote-divoire,CI,recipient,1,Cote d'Ivoire
+CI,country,Côte d'Ivoire,south-of-sahara,CI,CIV,"LR,GH,GN,BF,ML",lmics,cote-divoire,CI,recipient,1,Côte d'Ivoire
 ceb,organisation,Council of Europe Development Bank (CEB),,,,,,ceb,,multilateral,,Council of Europe Development Bank (CEB)
 country-unspecified,country,"Country, unspecified",unspecified,,,,,country-unspecified,,crossover,,Country not specified
 HR,country,Croatia,europe,HR,HRV,"HU,SI,BA,ME,RS",,croatia,HR,donor,,Croatia
