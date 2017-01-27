@@ -291,7 +291,7 @@ TW,country,"Taiwan, Province of China",far-east-asia,TW,TWN,,,taiwan,TW,donor,,T
 TJ,country,Tajikistan,south-central-asia,TJ,TJK,"CN,AF,KG,UZ",other-lics,tajikistan,TJ,recipient,1,Tajikistan
 TZ,country,"Tanzania, United Republic of",south-of-sahara,TZ,TZA,"MZ,KE,CD,RW,ZM,BI,UG,MW",ldcs,tanzania,TZ,recipient,1,Tanzania
 TH,country,Thailand,far-east-asia,TH,THA,"LA,MM,KH,MY",umics,thailand,TH,crossover,1,Thailand
-TL,country,Timor-Leste,far-east-asia,TL,TLS,ID,ldcs,timor-leste,TL,recipient,1,Timor-Leste
+TL,country,Timor-Leste,far-east-asia,TL,TLS,ID,ldcs,timor-leste,TL,crossover,1,Timor-Leste
 TG,country,Togo,south-of-sahara,TG,TGO,"BJ,GH,BF",ldcs,togo,TG,recipient,1,Togo
 TK,country,Tokelau,oceania,TK,TKL,,lmics,tokelau,TK,recipient,,Tokelau
 TO,country,Tonga,oceania,TO,TON,,lmics,tonga,TO,recipient,1,Tonga
