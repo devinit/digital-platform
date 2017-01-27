@@ -251,44 +251,44 @@ ZM,country,Zambia,south-of-sahara,ZM,ZMB,"ZW,TZ,MZ,CD,NA,MW,AO",ldcs,zambia,ZM,r
 ZW,country,Zimbabwe,south-of-sahara,ZW,ZWE,"ZA,MZ,BW,ZM",other-lics,zimbabwe,ZW,recipient,1,Zimbabwe
 EU,organisation,European Union,europe,,,,,european-union,EU,multilateral,,European Union
 country-unspecified,country,"Country, unspecified",unspecified,,,,,country-unspecified,,crossover,,Country not specified
-afdb,organisation,AfDB,,,,,,afdb,1,multilateral,,AfDB
-afdf,organisation,AfDF,,,,,,afdf,2,multilateral,,AfDF
-afesd,organisation,AFESD,,,,,,afesd,3,multilateral,,AFESD
-arab-fund-afesd,organisation,Arab Fund (AFESD),,,,,,arab-fund,4,multilateral,,Arab Fund
-asdb,organisation,AsDB,,,,,,asdb,5,multilateral,,AsDB
+afdb,organisation,African Development Bank (AfDB),,,,,,afdb,1,multilateral,,African Development Bank (AfDB)
+afdf,organisation,African Development Fund (AfDF),,,,,,afdf,2,multilateral,,African Development Fund (AfDF)
+afesd,organisation,Arab Fund (AFESD),,,,,,afesd,3,multilateral,,Arab Fund (AFESD)
+arab-fund-afesd,organisation,Arab Fund (AFESD),,,,,,arab-fund,4,multilateral,,Arab Fund (AFESD)
+asdb,organisation,Asian Development Bank (AsDB),,,,,,asdb,5,multilateral,,Asian Development Bank (AsDB)
 asdb-special-funds,organisation,AsDB Special Funds,,,,,,asdb-special-funds,6,multilateral,,AsDB Special Funds
-badea,organisation,BADEA,,,,,,badea,7,multilateral,,BADEA
-cardb,organisation,CarDB,,,,,,cardb,8,multilateral,,CarDB
-ebrd,organisation,EBRD,,,,,,ebrd,9,multilateral,,EBRD
-gavi,organisation,GAVI,,,,,,gavi,10,multilateral,,GAVI
-gef,organisation,GEF,,,,,,gef,11,multilateral,,GEF
+badea,organisation,Arab Bank for Economic Development in Africa (BADEA),,,,,,badea,7,multilateral,,Arab Bank for Economic Development in Africa (BADEA)
+cardb,organisation,Caribbean Development Bank (CarDB),,,,,,cardb,8,multilateral,,Caribbean Development Bank (CarDB)
+ebrd,organisation,European Bank for Reconstruction and Development (EBRD),,,,,,ebrd,9,multilateral,,European Bank for Reconstruction and Development (EBRD)
+gavi,organisation,Global Alliance for Vaccines and Immunization (GAVI),,,,,,gavi,10,multilateral,,Global Alliance for Vaccines and Immunization (GAVI)
+gef,organisation,Global Environment Facility (GEF),,,,,,gef,11,multilateral,,Global Environment Facility (GEF)
 global-fund,organisation,Global Fund,,,,,,global-fund,12,multilateral,,Global Fund
-iaea,organisation,IAEA,,,,,,iaea,13,multilateral,,IAEA
-ibrd,organisation,IBRD,,,,,,ibrd,14,multilateral,,IBRD
-ida,organisation,IDA,,,,,,ida,15,multilateral,,IDA
-idb,organisation,IDB,,,,,,idb,16,multilateral,,IDB
+iaea,organisation,International Atomic Energy Agency (IAEA),,,,,,iaea,13,multilateral,,International Atomic Energy Agency (IAEA)
+ibrd,organisation,International Bank for Reconstruction and Development (IBRD),,,,,,ibrd,14,multilateral,,International Bank for Reconstruction and Development (IBRD)
+ida,organisation,International Development Association (IDA),,,,,,ida,15,multilateral,,International Development Association (IDA)
+idb,organisation,Inter-American Development Bank (IDB),,,,,,idb,16,multilateral,,Inter-American Development Bank (IDB)
 idb-special-fund,organisation,IDB Sp.Fund,,,,,,idb-special-fund,17,multilateral,,IDB Sp.Fund
-ifad,organisation,IFAD,,,,,,ifad,18,multilateral,,IFAD
-ifc,organisation,IFC,,,,,,ifc,19,multilateral,,IFC
-imf,organisation,IMF,,,,,,imf,20,multilateral,,IMF
-imf-concessional-trust-funds,organisation,IMF (Concessional Trust Funds),,,,,,imf-concessional-trust-funds,21,multilateral,,IMF (CTF)
-islamic-dev-bank,organisation,Isl.Dev Bank,,,,,,islamic-dev-bank,22,multilateral,,Islamic Dev Bank
+ifad,organisation,International Fund for Agricultural Development (IFAD),,,,,,ifad,18,multilateral,,International Fund for Agricultural Development (IFAD)
+ifc,organisation,International Finance Corporation (IFC),,,,,,ifc,19,multilateral,,International Finance Corporation (IFC)
+imf,organisation,International Monetary Fund (IMF),,,,,,imf,20,multilateral,,International Monetary Fund (IMF)
+imf-concessional-trust-funds,organisation,IMF (Concessional Trust Funds),,,,,,imf-concessional-trust-funds,21,multilateral,,IMF (Concessional Trust Funds)
+islamic-dev-bank,organisation,Islamic Development Bank (IsDB),,,,,,islamic-dev-bank,22,multilateral,,Islamic Development Bank (IsDB)
 montreal-protocol,organisation,Montreal Protocol,,,,,,montreal-protocol,23,multilateral,,Montreal Protocol
-nordic-dev-fund,organisation,Nordic Dev.Fund,,,,,,nordic-dev-fund,24,multilateral,,Nordic Dev.Fund
-ofid,organisation,OFID,,,,,,ofid,25,multilateral,,OFID
-osce,organisation,OSCE,,,,,,osce,26,multilateral,,OSCE
-unaids,organisation,UNAIDS,,,,,,unaids,27,multilateral,,UNAIDS
-undp,organisation,UNDP,,,,,,undp,28,multilateral,,UNDP
-unece,organisation,UNECE,,,,,,unece,29,multilateral,,UNECE
-unep,organisation,UNEP,,,,,,unep,30,multilateral,,UNEP
-unfpa,organisation,UNFPA,,,,,,unfpa,31,multilateral,,UNFPA
-unhcr,organisation,UNHCR,,,,,,unhcr,32,multilateral,,UNHCR
-unicef,organisation,UNICEF,,,,,,unicef,33,multilateral,,UNICEF
-unpbf,organisation,UNPBF,,,,,,unpbf,34,multilateral,,UNPBF
-unrwa,organisation,UNRWA,,,,,,unrwa,35,multilateral,,UNRWA
+nordic-dev-fund,organisation,Nordic Development Fund (NDF),,,,,,nordic-dev-fund,24,multilateral,,Nordic Development Fund (NDF)
+ofid,organisation,OPEC Fund for International Development (OFID),,,,,,ofid,25,multilateral,,OPEC Fund for International Development (OFID)
+osce,organisation,Organization for Security and Co-operation in Europe (OSCE),,,,,,osce,26,multilateral,,Organization for Security and Co-operation in Europe (OSCE)
+unaids,organisation,Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,,,unaids,27,multilateral,,Joint United Nations Programme on HIV/AIDS (UNAIDS)
+undp,organisation,United Nations Development Programme (UNDP),,,,,,undp,28,multilateral,,United Nations Development Programme (UNDP)
+unece,organisation,United Nations Economic Commission for Europe (UNECE),,,,,,unece,29,multilateral,,United Nations Economic Commission for Europe (UNECE)
+unep,organisation,United Nations Environment Programme (UNEP),,,,,,unep,30,multilateral,,United Nations Environment Programme (UNEP)
+unfpa,organisation,United Nations Population Fund (UNFPA),,,,,,unfpa,31,multilateral,,United Nations Population Fund (UNFPA)
+unhcr,organisation,United Nations High Commissioner for Refugees (UNHCR),,,,,,unhcr,32,multilateral,,United Nations High Commissioner for Refugees (UNHCR)
+unicef,organisation,United Nations Children's Fund (UNICEF),,,,,,unicef,33,multilateral,,United Nations Children's Fund (UNICEF)
+unpbf,organisation,United Nations Peacebuilding Fund (UNPBF),,,,,,unpbf,34,multilateral,,United Nations Peacebuilding Fund (UNPBF)
+unrwa,organisation,United Nations Relief and Works Agency (UNRWA),,,,,,unrwa,35,multilateral,,United Nations Relief and Works Agency (UNRWA)
 unta,organisation,UNTA,,,,,,unta,36,multilateral,,UNTA
-wfp,organisation,WFP,,,,,,wfp,37,multilateral,,WFP
-who,organisation,WHO,,,,,,who,38,multilateral,,WHO
+wfp,organisation,World Food Programme (WFP),,,,,,wfp,37,multilateral,,World Food Programme (WFP)
+who,organisation,World Health Organization (WHO),,,,,,who,38,multilateral,,World Health Organization (WHO)
 organisation-unspecified,organisation,"Organisation, unspecified",unspecified,,,,,organisation-unspecified,,multilateral,,Organisation unspecified
 africa,region,"Africa, regional",,,,,,africa-regional,51,region,,"Africa, regional"
 america,region,"America, regional",,,,,,america-regional,52,region,,"America, regional"
@@ -308,23 +308,23 @@ south-of-sahara,region,"South of Sahara, regional",south-of-sahara,,,,,south-of-
 ex-yugoslavia,region,States Ex-Yugoslavia unspecified,europe,,,,,states-ex-yugoslavia-unspecified,66,region,,States Ex-Yugoslavia unspecified
 west-indies,region,"West Indies, regional",,,,,,west-indies-regional,67,region,,"West Indies, regional"
 region-unspecified,region,"Region, unspecified",unspecified,,,,,region-unspecified,,region,,"Region, unspecified"
-arab-fund,organisation,Arab Fund (AFESD),,,,,,arab-fund,4,multilateral,,Arab Fund
-imf-concessional-trust-funds,organisation,IMF (Concessional Trust Funds),,,,,,imf-concessional-trust-funds,21,multilateral,,IMF (CTF)
-idb-sp-fund,organisation,IDB Sp.Fund,,,,,,idb-sp-fund,17,multilateral,,IDB Sp.Fund
+arab-fund,organisation,Arab Fund (AFESD),,,,,,arab-fund,4,multilateral,,Arab Fund (AFESD)
+imf-concessional-trust-funds,organisation,IMF (Concessional Trust Funds),,,,,,imf-concessional-trust-funds,21,multilateral,,IMF (Concessional Trust Funds)
+idb-sp-fund,organisation,IDB Special Fund,,,,,,idb-sp-fund,17,multilateral,,IDB Special Fund
 adaptation-fund,organisation,Adaptation Fund,,,,,,adaptation-fund,,,,Adaptation Fund
 all-donors-total,,"All Donors, Total",,,,,,all-donors-total,,,,"All Donors, Total"
 ANHH,country,Netherlands Antilles,,,,,,netherlands-antilles,,,,Netherlands Antilles
 bmgf,organisation,Bill & Melinda Gates Foundation,,,,,,bmgf,,,,Bill & Melinda Gates Foundation
-ceb,organisation,Council of Europe Development Bank [CEB],,,,,,ceb,,multilateral,,Council of Europe Development Bank [CEB]
-cif,organisation,Climate Investment Funds [CIF],,,,,,cif,,multilateral,,Climate Investment Funds [CIF]
+ceb,organisation,Council of Europe Development Bank (CEB),,,,,,ceb,,multilateral,,Council of Europe Development Bank (CEB)
+cif,organisation,Climate Investment Funds (CIF),,,,,,cif,,multilateral,,Climate Investment Funds (CIF)
 dac-countries-total,,"DAC Countries, Total",,,,,,dac-countries-total,,,,"DAC Countries, Total"
 dac-eu-members-and-ec-total,,"DAC EU Members + EC, Total",,,,,,dac-eu-members-and-ec-total,,,,"DAC EU Members + EC, Total"
 dac-eu-members-total,,"DAC EU Members, Total",,,,,,dac-eu-members-total,,,,"DAC EU Members, Total"
 developing-countries-unspecified,,Developing Countries unspecified,,,,,,developing-countries-unspecified,,,,Developing Countries unspecified
 eac,,East African Community,,,,,,eac,,,,East African Community
-fao,organisation,Food and Agriculture Organisation [FAO],,,,,,fao,,multilateral,,Food and Agriculture Organisation [FAO]
+fao,organisation,Food and Agriculture Organisation (FAO),,,,,,fao,,multilateral,,Food and Agriculture Organisation (FAO)
 g7-countries-total,,"G7 Countries, Total",,,,,,g7-countries-total,,,,"G7 Countries, Total"
-gggi,organisation,Global Green Growth Institute [GGGI],,,,,,gggi,,multilateral,,Global Green Growth Institute [GGGI]
+gggi,organisation,Global Green Growth Institute (GGGI),,,,,,gggi,,multilateral,,Global Green Growth Institute (GGGI)
 international-labour-organisation,organisation,International Labour Organisation,,,,,,international-labour-organisation,,multilateral,,International Labour Organisation
 multilateral-total,,"Multilateral, Total",,,,,,multilateral-total,,,,"Multilateral, Total"
 non-dac-countries-total,,"Non-DAC Countries, Total",,,,,,non-dac-countries-total,,,,"Non-DAC Countries, Total"
