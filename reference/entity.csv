@@ -1,5 +1,5 @@
 id,type,long-name,region,iso-alpha-2,iso-alpha-3,neighbors,income-group,slug,dac-id,donor-recipient-type,has-domestic-data,name
-adaptation-fund,organisation,Adaptation Fund,,,,,,adaptation-fund,,,,Adaptation Fund
+adaptation-fund,organisation,Adaptation Fund,,,,,,adaptation-fund,,multilateral,,Adaptation Fund
 AF,country,Afghanistan,south-central-asia,AF,AFG,"TM,CN,IR,TJ,PK,UZ",ldcs,afghanistan,AF,recipient,1,Afghanistan
 africa,region,"Africa, regional",,,,,,africa-regional,51,region,,"Africa, regional"
 afdb,organisation,African Development Bank (AfDB),,,,,,afdb,1,multilateral,,African Development Bank (AfDB)
