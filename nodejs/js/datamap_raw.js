@@ -30,8 +30,7 @@ exports.csv=
  "country-year/in-oda-gross.csv": "  ( SELECT * FROM fact.\"in_oda_gross_2015\" WHERE year<=2015 ) sq ",
  // changed the source of data, now presented in 2015 constant prices
  "country-year/in-oda-net.csv": "fact.\"in_oda_net_2015\"",
- // changed the source of data, now automated and can be taken from `fact` schema
- "country-year/in-oof-gross.csv": "fact.\"in_oof_gross_2015\"",
+ "country-year/in-oof-gross.csv": "data_series.\"in_oof_gross\"",
  "country-year/intl-flows-donors.csv": "data_series.\"intl_flows_donors\"",
  "country-year/intl-flows-recipients.csv": "data_series.\"intl_flows_recipients\"",
  "country-year/intlresources-total.csv": "data_series.\"intlresources_total\"",
