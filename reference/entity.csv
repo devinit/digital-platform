@@ -45,7 +45,7 @@ BQ,country,"Bonaire, Sint Eustatius and Saba",north-central-america,BQ,BES,,,bes
 BA,country,Bosnia and Herzegovina,europe,BA,BIH,"HR,ME,RS",umics,bosnia-and-herzegovina,BA,recipient,1,Bosnia & Herzegovina
 BW,country,Botswana,south-of-sahara,BW,BWA,"ZW,ZA,NA",umics,botswana,BW,recipient,1,Botswana
 BV,country,Bouvet Island,unspecified,BV,BVT,,,bouvet-island,BV,,,Bouvet Island
-BR,country,Brazil,south-america,BR,BRA,"SR,PE,BO,UY,GY,PY,GF,VE,CO,AR",umics,brazil,BR,crossover,1,Brazil
+BR,country,Brazil,south-america,BR,BRA,"SR,PE,BO,UY,GY,PY,GF,VE,CO,AR",umics,brazil,BR,recipient,1,Brazil
 IO,country,British Indian Ocean Territory,south-central-asia,IO,IOT,,,british-indian-ocean-territory,IO,,,British Indian Ocean Territory
 BN,country,Brunei Darussalam,south-central-asia,BN,BRN,MY,,brunei,BN,,,Brunei
 BG,country,Bulgaria,europe,BG,BGR,"MK,GR,RO,TR,RS",,bulgaria,BG,donor,,Bulgaria
@@ -61,7 +61,7 @@ CF,country,Central African Republic,south-of-sahara,CF,CAF,"TD,SD,CD,SS,CM,CG",l
 central-asia,region,"Central Asia, regional",south-central-asia,,,,,central-asia-regional,54,region,,"Central Asia, regional"
 TD,country,Chad,south-of-sahara,TD,TCD,"NE,LY,CF,SD,CM,NG",ldcs,chad,TD,recipient,1,Chad
 CL,country,Chile,south-america,CL,CHL,"PE,BO,AR",umics,chile,CL,recipient,1,Chile
-CN,country,China,far-east-asia,CN,CHN,"LA,BT,TJ,KZ,MN,AF,NP,MM,KG,PK,KP,RU,VN,IN",umics,china,CN,crossover,1,China
+CN,country,China,far-east-asia,CN,CHN,"LA,BT,TJ,KZ,MN,AF,NP,MM,KG,PK,KP,RU,VN,IN",umics,china,CN,recipient,1,China
 CX,country,Christmas Island,oceania,CX,CXR,,,christmas-island,CX,,,Christmas Island
 cif,organisation,Climate Investment Funds (CIF),,,,,,cif,,multilateral,,Climate Investment Funds (CIF)
 CC,country,Cocos (Keeling) Islands,oceania,CC,CCK,,,cocos-keeling-islands,CC,,,Cocos (Keeling) Islands
@@ -140,7 +140,7 @@ IS,country,Iceland,europe,IS,ISL,,,iceland,IS,donor,,Iceland
 idb-special-fund,organisation,IDB Special Fund,,,,,,idb-special-fund,17,multilateral,,IDB Special Fund
 idb-sp-fund,organisation,IDB Special Fund,,,,,,idb-sp-fund,17,multilateral,,IDB Special Fund
 imf-concessional-trust-funds,organisation,IMF Concessional Trust Funds,,,,,,imf-concessional-trust-funds,21,multilateral,,IMF Concessional Trust Funds
-IN,country,India,south-central-asia,IN,IND,"CN,NP,MM,BT,PK,BD",lmics,india,IN,crossover,1,India
+IN,country,India,south-central-asia,IN,IND,"CN,NP,MM,BT,PK,BD",lmics,india,IN,recipient,1,India
 ID,country,Indonesia,far-east-asia,ID,IDN,"PG,TL,MY",lmics,indonesia,ID,recipient,1,Indonesia
 idb,organisation,Inter-American Development Bank (IDB),,,,,,idb,16,multilateral,,Inter-American Development Bank (IDB)
 iaea,organisation,International Atomic Energy Agency (IAEA),,,,,,iaea,13,multilateral,,International Atomic Energy Agency (IAEA)
@@ -243,7 +243,7 @@ PN,country,Pitcairn,oceania,PN,PCN,,,pitcairn,PN,,,Pitcairn
 PL,country,Poland,europe,PL,POL,"DE,LT,SK,CZ,BY,UA,RU",,poland,PL,donor,,Poland
 PT,country,Portugal,europe,PT,PRT,ES,,portugal,PT,donor,,Portugal
 PR,country,Puerto Rico,north-central-america,PR,PRI,,,puerto-rico,PR,,,Puerto Rico
-QA,country,Qatar,middle-east,QA,QAT,SA,,qatar,QA,donor,,Qatar
+QA,country,Qatar,middle-east,QA,QAT,SA,,qatar,QA,,,Qatar
 region-unspecified,region,"Region, unspecified",unspecified,,,,,region-unspecified,,region,,"Region, unspecified"
 RE,country,Réunion,south-of-sahara,RE,REU,,,réunion,RE,,,Reunion
 RO,country,Romania,europe,RO,ROU,"MD,HU,UA,BG,RS",,romania,RO,donor,,Romania
@@ -271,7 +271,7 @@ SI,country,Slovenia,europe,SI,SVN,"HU,IT,HR,AT",,slovenia,SI,donor,,Slovenia
 SB,country,Solomon Islands,oceania,SB,SLB,,ldcs,solomon-islands,SB,recipient,1,Solomon Islands
 SO,country,Somalia,south-of-sahara,SO,SOM,"ET,KE,DJ",ldcs,somalia,SO,recipient,,Somalia
 south-central-asia,region,"South & Central Asia, regional",south-central-asia,,,,,south-central-asia-regional,62,region,,"South & Central Asia, regional"
-ZA,country,South Africa,south-of-sahara,ZA,ZAF,"ZW,SZ,MZ,BW,NA,LS",umics,south-africa,ZA,crossover,1,South Africa
+ZA,country,South Africa,south-of-sahara,ZA,ZAF,"ZW,SZ,MZ,BW,NA,LS",umics,south-africa,ZA,recipient,1,South Africa
 south-america,region,"South America, regional",south-america,,,,,south-america-regional,63,region,,"South America, regional"
 south-asia,region,"South Asia, regional",south-central-asia,,,,,south-asia-regional,64,region,,"South Asia, regional"
 GS,country,South Georgia and the South Sandwich Islands,unspecified,GS,SGS,,,south-georgia-and-the-south-sandwich-islands,GS,,,South Georgia & the South Sandwich Islands
