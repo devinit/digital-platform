@@ -20,6 +20,8 @@ exports.csv=
  "country-year/evi.csv": "data_series.\"evi\"",
  "country-year/fdi-out.csv": "data_series.\"fdi_out\"",
  "country-year/fdi-pp.csv": "data_series.\"fdi_pp\"",
+ // added new file
+ "country-year/fdi-percent-gdp.csv": "data_series.\"fdi_percent_gdp\"",
  "country-year/fragile-states.csv": "data_series.\"fragile_states\"",
  "country-year/general-gov-health-exp.csv": "data_series.\"general_gov_health_exp\"",
  "country-year/gov-revenue-pc-gdp.csv": "data_series.\"gov_revenue_pc_gdp\"",
