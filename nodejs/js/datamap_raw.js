@@ -40,6 +40,8 @@ exports.csv=
  "country-year/intlresources-total.csv": "data_series.\"intlresources_total\"",
  // added new file intl-resources-total-percent-gdp.csv
  "country-year/intl-resources-total-percent-gdp.csv": "data_series.\"intlresources_total\"",
+ // added new file oda-percent-intl-resources.csv
+ "country-year/oda-percent-intl-resources.csv": "data_series.\"oda_percent_intl_resources\"",
  "country-year/kenya-births-pc-skilled.csv": "data_series.\"kenya_births_pc_skilled\"",
  "country-year/kenya-electricity.csv": "data_series.\"kenya_electricity\"",
  "country-year/kenya-fertility-rate.csv": "data_series.\"kenya_fertility_rate\"",
