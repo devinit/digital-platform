@@ -182,16 +182,18 @@ exports.csv=
 // not sure if fact.dac_oda_percent_gni and data_series.dac_oda_percent_gni are the same data...
 // also bubble chart seems like a useless table name, so moving this all into sub dirs by schema
 
- "country-year/warehouse/data_series/intl_flows_donors.csv"				:"data_series.intl_flows_donors",
- "country-year/warehouse/fact/out_oda_net_2012.csv"						:"fact.out_oda_net_2012",
- "country-year/warehouse/fact/out_debt_relief_2012.csv"					:"fact.out_debt_relief_2012",
- "country-year/warehouse/donor_profile/oda_per_capita_per_day_2012.csv"	:"donor_profile.oda_per_capita_per_day_2012",
- "country-year/warehouse/donor_profile/gni_per_capita_per_day_2012.csv"	:"donor_profile.gni_per_capita_per_day_2012",
- "country-year/warehouse/donor_profile/oda_per_capita_2012.csv"			:"donor_profile.oda_per_capita_2012",
- "country-year/warehouse/donor_profile/gni_per_capita_2012.csv"			:"donor_profile.gni_per_capita_2012",
- // Changed file name 
+ "country-year/warehouse/data_series/intl_flows_donors.csv": "data_series.intl_flows_donors",
+ "country-year/warehouse/fact/out_oda_net_2012.csv": "fact.out_oda_net_2012",
+ "country-year/warehouse/fact/out_debt_relief_2012.csv": "fact.out_debt_relief_2012",
+ "country-year/warehouse/donor_profile/oda_per_capita_per_day_2012.csv": "donor_profile.oda_per_capita_per_day_2012",
+ "country-year/warehouse/donor_profile/gni_per_capita_per_day_2012.csv": "donor_profile.gni_per_capita_per_day_2012",
+ "country-year/warehouse/donor_profile/oda_per_capita_2012.csv": "donor_profile.oda_per_capita_2012",
+ "country-year/warehouse/donor_profile/gni_per_capita_2012.csv": "donor_profile.gni_per_capita_2012",
+ // changed file name 
  //"country-year/warehouse/fact/dac_oda_percent_gni.csv"					:"fact.dac_oda_percent_gni",
  "country-year/warehouse/fact/oda_percent_gni.csv"					:"fact.oda_percent_gni",
+ // added a new file, to be used in conjunction with oda_percent_gni.csv for the global picture visualisations
+ "country-year/warehouse/fact/gni.csv"					:"fact.gni_2015",
  "country-year/warehouse/donor_profile/recipient_bundle_2012.csv"		:"donor_profile.recipient_bundle_2012",
  "country-year/warehouse/donor_profile/disbursement_by_region_2012.csv"	:"donor_profile.disbursement_by_region_2012",
  "country-year/warehouse/donor_profile/bubble_chart.csv"				:"donor_profile.bubble_chart",
