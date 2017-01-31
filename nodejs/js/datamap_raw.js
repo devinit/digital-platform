@@ -163,6 +163,8 @@ exports.csv=
  "country-year/warehouse/oda_per_percent_gdp.csv": "fact.\"oda_per_percent_gdp\"",
  "country-year/warehouse/oda_per_percent_gdp_excl_non_transfer.csv": "fact.\"oda_per_percent_gdp_excl_non_transfer\"",
  "country-year/warehouse/oda_per_poor_person_2012.csv": "fact.\"oda_per_poor_person_2012\"",
+ // added new file for the updated data, in 2015 constant prices
+ "country-year/warehouse/oda_per_poor_person_2015.csv": "fact.\"oda_per_poor_person_2015\"",
  "country-year/warehouse/oda_per_poor_person_excl_non_transfer_2012.csv": "fact.\"oda_per_poor_person_excl_non_transfer_2012\"",
  "country-year/warehouse/oda_per_capita_2012.csv": "fact.\"oda_per_capita_2012\"",
  "country-year/warehouse/oda_per_capita_excl_non_transfer_2012.csv": "fact.\"oda_per_capita_excl_non_transfer_2012\"",
