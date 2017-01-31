@@ -63,7 +63,8 @@ exports.csv=
  "country-year/poor-people-190.csv": "data_series.\"poor_people_190\"",
  "country-year/poverty-190.csv": "data_series.\"poverty_190\"",
  "country-year/poverty-310.csv": "data_series.\"poverty_310\"",
- "country-year/profits-pct-fdi.csv": "data_series.\"profits_pct_fdi\"",
+ // We are no longer to use profits-pct-fdi.csv, contact @cecilia-caio/@timstrawson for details
+ //"country-year/profits-pct-fdi.csv": "data_series.\"profits_pct_fdi\"",
  "country-year/remittances.csv": "data_series.\"remittances\"",
  "country-year/rems-pp.csv": "data_series.\"rems_pp\"",
  "country-year/ssc-out.csv": "data_series.\"ssc_out\"",
