@@ -58,4 +58,20 @@ to make sure that the data import sends the data to the right file in the right 
 (40 rows)
 ```
 
+If a table ends in a year, e.g., 2015, this means that the table contain monetary values presented in constant prices from that year, so 2015 = 2015 constant prices.
+
 Also, each table here needs to be mapped to the location on the DH where it is being used.
+
+# Issues
+
+There are a few naming issues that need to be resolved here:
+
+1) `gdp_pc_usd_current` → `gdp_pc`: 'usd' & 'current' superfluous, data in current prices & US$ is standard
+
+2) `gdp_usd_current` → `gdp`: same as 1)
+
+3) `gni_pc_usd_current` `gni_pc_wb`: same as 1) + clarify source
+
+3) `gni_usd_current` `gni_wb`: same as 1) + clarify source
+
+3) `gni` → `gni_oecd`: clarify source
