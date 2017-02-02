@@ -37,6 +37,8 @@ exports.csv=
  "country-year/warehouse/fact/in_oda_gross_2015.csv": " ( SELECT * FROM fact.\"in_oda_gross_2015\" WHERE year<=2015 ) sq ",
  // Changed the source of data, now presented in 2015 constant prices
  "country-year/in-oda-net.csv": "fact.\"in_oda_net_2015\"",
+ // Moving file into the fact subfolder
+ "country-year/warehouse/fact/in_oda_net_2015.csv": " ( SELECT * FROM fact.\"in_oda_net_2015\" WHERE year<=2015 ) sq ",
  "country-year/in-oof-gross.csv": "data_series.\"in_oof_gross\"",
  "country-year/intl-flows-donors.csv": "data_series.\"intl_flows_donors\"",
  "country-year/intl-flows-recipients.csv": "data_series.\"intl_flows_recipients\"",
