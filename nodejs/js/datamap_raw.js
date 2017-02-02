@@ -151,9 +151,10 @@ exports.csv=
  "country-year/warehouse/donor_profile/oda_per_capita_2012.csv": "donor_profile.oda_per_capita_2012",
  "country-year/warehouse/donor_profile/gni_per_capita_2012.csv": "donor_profile.gni_per_capita_2012",
  // Renamed dac_oda_percent_gni.csv to oda_percent_gni.csv
+ // dac_oda_percent_gni.csv can be removed
  //"country-year/warehouse/fact/dac_oda_percent_gni.csv": "fact.dac_oda_percent_gni",
  "country-year/warehouse/fact/oda_percent_gni.csv": "fact.oda_percent_gni",
- // added a new file, to be used in conjunction with oda_percent_gni.csv for the global picture visualisations
+ // Added a new file, to be used in conjunction with oda_percent_gni.csv for the global picture visualisations
  "country-year/warehouse/fact/gni.csv": "fact.gni_2015",
  "country-year/warehouse/donor_profile/recipient_bundle_2012.csv": "donor_profile.recipient_bundle_2012",
  "country-year/warehouse/donor_profile/disbursement_by_region_2012.csv": "donor_profile.disbursement_by_region_2012",
