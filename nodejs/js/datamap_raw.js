@@ -149,6 +149,8 @@ exports.csv=
 
  "country-year/warehouse/data_series/intl_flows_donors.csv": "data_series.intl_flows_donors",
  "country-year/warehouse/fact/out_oda_net_2012.csv": "fact.out_oda_net_2012",
+ // 2015 data now available
+ "country-year/warehouse/fact/out_oda_net_2015.csv": "fact.out_oda_net_2015",
  "country-year/warehouse/fact/out_debt_relief_2012.csv": "fact.out_debt_relief_2012",
  "country-year/warehouse/donor_profile/oda_per_capita_per_day_2012.csv": "donor_profile.oda_per_capita_per_day_2012",
  "country-year/warehouse/donor_profile/gni_per_capita_per_day_2012.csv": "donor_profile.gni_per_capita_per_day_2012",
