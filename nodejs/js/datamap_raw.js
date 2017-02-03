@@ -332,6 +332,61 @@ exports.csv=
 
  ///////////////////////////////////////////////////////////////////////////////
  
+ // Spotlight on Uganda (http://data.devinit.org/#!/spotlight-on-uganda)
+ // These have not been updated for quite a while & are not maintained at the moment
+ // In terms of updates, they are low priority as of January 2017 so have moved them to the end
+ // Until they are updated, there really is no need to reimport this data as it has not changed
+  
+ ///////////////////////////////////////////////////////////////////////////////
+ 
+ "country-year/spotlight-on-uganda/uganda-agri-percent.csv": "data_series.\"uganda_agri_percent\"",
+ "country-year/spotlight-on-uganda/uganda-anc4-coverage.csv": "data_series.\"uganda_anc4_coverage\"",
+ "country-year/spotlight-on-uganda/uganda-avg-house-size.csv": "data_series.\"uganda_avg_house_size\"",
+ "country-year/spotlight-on-uganda/uganda-central-resources.csv": "data_series.\"uganda_central_resources\"",
+ "country-year/spotlight-on-uganda/uganda-dependency-ratio.csv": "data_series.\"uganda_dependency_ratio\"",
+ "country-year/spotlight-on-uganda/uganda-deprivation-living.csv": "data_series.\"uganda_deprivation_living\"",
+ "country-year/spotlight-on-uganda/uganda-donor-educ-spend.csv": "data_series.\"uganda_donor_educ_spend\"",
+ "country-year/spotlight-on-uganda/uganda-donor-percent.csv": "data_series.\"uganda_donor_percent\"",
+ "country-year/spotlight-on-uganda/uganda-donor-resources.csv": "data_series.\"uganda_donor_resources\"",
+ "country-year/spotlight-on-uganda/uganda-dpt3-coverage.csv": "data_series.\"uganda_dpt3_coverage\"",
+ "country-year/spotlight-on-uganda/uganda-educ-percent.csv": "data_series.\"uganda_educ_percent\"",
+ "country-year/spotlight-on-uganda/uganda-finance.csv": "data_series.\"uganda_finance\"",
+ "country-year/spotlight-on-uganda/uganda-gov-spend-pp.csv": "data_series.\"uganda_gov_spend_pp\"",
+ "country-year/spotlight-on-uganda/uganda-health-funding.csv": "data_series.\"uganda_health_funding\"",
+ "country-year/spotlight-on-uganda/uganda-health-percent.csv": "data_series.\"uganda_health_percent\"",
+ "country-year/spotlight-on-uganda/uganda-health-posts.csv": "data_series.\"uganda_health_posts\"",
+ "country-year/spotlight-on-uganda/uganda-hmis.csv": "data_series.\"uganda_hmis\"",
+ "country-year/spotlight-on-uganda/uganda-household-san-cov.csv": "data_series.\"uganda_household_san_cov\"",
+ "country-year/spotlight-on-uganda/uganda-igf-resources.csv": "data_series.\"uganda_igf_resources\"",
+ "country-year/spotlight-on-uganda/uganda-ipt2-coverage.csv": "data_series.\"uganda_ipt2_coverage\"",
+ "country-year/spotlight-on-uganda/uganda-leaving-exam-perf-rate.csv": "data_series.\"uganda_leaving_exam_perf_rate\"",
+ "country-year/spotlight-on-uganda/uganda-life-expectancy.csv": "data_series.\"uganda_life_expectancy\"",
+ "country-year/spotlight-on-uganda/uganda-local-percent.csv": "data_series.\"uganda_local_percent\"",
+ "country-year/spotlight-on-uganda/uganda-overall-health.csv": "data_series.\"uganda_overall_health\"",
+ "country-year/spotlight-on-uganda/uganda-pop-dens.csv": "data_series.\"uganda_pop_dens\"",
+ "country-year/spotlight-on-uganda/uganda-poverty-headcount.csv": "data_series.\"uganda_poverty_headcount\"",
+ "country-year/spotlight-on-uganda/uganda-primary-educ-funding.csv": "data_series.\"uganda_primary_educ_funding\"",
+ "country-year/spotlight-on-uganda/uganda-primary-enrol.csv": "data_series.\"uganda_primary_enrol\"",
+ "country-year/spotlight-on-uganda/uganda-primary-sit-write.csv": "data_series.\"uganda_primary_sit_write\"",
+ "country-year/spotlight-on-uganda/uganda-primary-sit-write-gov.csv": "data_series.\"uganda_primary_sit_write_gov\"",
+ "country-year/spotlight-on-uganda/uganda-primary-stu-teach-ratio.csv": "data_series.\"uganda_primary_stu_teach_ratio\"",
+ "country-year/spotlight-on-uganda/spotlight-on-uganda/uganda-primary-stu-teach-ratio-gov.csv": "data_series.\"uganda_primary_stu_teach_ratio_gov\"",
+ "country-year/spotlight-on-uganda/uganda-rural-safe-water.csv": "data_series.\"uganda_rural_safe_water\"",
+ "country-year/spotlight-on-uganda/uganda-rural-water-func.csv": "data_series.\"uganda_rural_water_func\"",
+ "country-year/spotlight-on-uganda/uganda-secondary-enrol.csv": "data_series.\"uganda_secondary_enrol\"",
+ "country-year/spotlight-on-uganda/uganda-secondary-sit-write.csv": "data_series.\"uganda_secondary_sit_write\"",
+ "country-year/spotlight-on-uganda/uganda-secondary-sit-write-gov.csv": "data_series.\"uganda_secondary_sit_write_gov\"",
+ "country-year/spotlight-on-uganda/uganda-secondary-stu-teach-ratio.csv": "data_series.\"uganda_secondary_stu_teach_ratio\"",
+ "country-year/spotlight-on-uganda/uganda-secondary-stu-teach-ratio-gov.csv": "data_series.\"uganda_secondary_stu_teach_ratio_gov\"",
+ "country-year/spotlight-on-uganda/uganda-tb-success.csv": "data_series.\"uganda_tb_success\"",
+ "country-year/spotlight-on-uganda/uganda-total-pop.csv": "data_series.\"uganda_total_pop\"",
+ "country-year/spotlight-on-uganda/uganda-urban-pop.csv": "data_series.\"uganda_urban_pop\"",
+ "country-year/spotlight-on-uganda/uganda-urban-rural-pop.csv": "data_series.\"uganda_urban_rural_pop\"",
+ "country-year/spotlight-on-uganda/uganda-wash-perf-score.csv": "data_series.\"uganda_wash_perf_score\"",
+ "country-year/spotlight-on-uganda/uganda-water-source-comm-func.csv": "data_series.\"uganda_water_source_comm_func\"",
+ 
+ ///////////////////////////////////////////////////////////////////////////////
+ 
  // Spotlight on Kenya
  // These have not been updated for quite a while & are not maintained at the moment
  // In terms of updates, they are low priority as of January 2017 so have moved them to the end
@@ -366,64 +421,6 @@ exports.csv=
  "country-year/kenya-treat-child-respir.csv": "data_series.\"kenya_treat_child_respir\"",
  "country-year/kenya-urban-pop.csv": "data_series.\"kenya_urban_pop\"",
  "country-year/kenya-weight-below-3sd.csv": "data_series.\"kenya_weight_below_3sd\"",
- */
- 
- ///////////////////////////////////////////////////////////////////////////////
- 
- // Spotlight on Uganda
- // These have not been updated for quite a while & are not maintained at the moment
- // In terms of updates, they are low priority as of January 2017 so have moved them to the end
- // Until they are updated, there really is no need to reimport this data as it has not changed
- // It would be good to break these out into a separate subfolder, especially because they are not maintained
- 
- ///////////////////////////////////////////////////////////////////////////////
- 
- /*
- "country-year/uganda-agri-percent.csv": "data_series.\"uganda_agri_percent\"",
- "country-year/uganda-anc4-coverage.csv": "data_series.\"uganda_anc4_coverage\"",
- "country-year/uganda-avg-house-size.csv": "data_series.\"uganda_avg_house_size\"",
- "country-year/uganda-central-resources.csv": "data_series.\"uganda_central_resources\"",
- "country-year/uganda-dependency-ratio.csv": "data_series.\"uganda_dependency_ratio\"",
- "country-year/uganda-deprivation-living.csv": "data_series.\"uganda_deprivation_living\"",
- "country-year/uganda-donor-educ-spend.csv": "data_series.\"uganda_donor_educ_spend\"",
- "country-year/uganda-donor-percent.csv": "data_series.\"uganda_donor_percent\"",
- "country-year/uganda-donor-resources.csv": "data_series.\"uganda_donor_resources\"",
- "country-year/uganda-dpt3-coverage.csv": "data_series.\"uganda_dpt3_coverage\"",
- "country-year/uganda-educ-percent.csv": "data_series.\"uganda_educ_percent\"",
- "country-year/uganda-finance.csv": "data_series.\"uganda_finance\"",
- "country-year/uganda-gov-spend-pp.csv": "data_series.\"uganda_gov_spend_pp\"",
- "country-year/uganda-health-funding.csv": "data_series.\"uganda_health_funding\"",
- "country-year/uganda-health-percent.csv": "data_series.\"uganda_health_percent\"",
- "country-year/uganda-health-posts.csv": "data_series.\"uganda_health_posts\"",
- "country-year/uganda-hmis.csv": "data_series.\"uganda_hmis\"",
- "country-year/uganda-household-san-cov.csv": "data_series.\"uganda_household_san_cov\"",
- "country-year/uganda-igf-resources.csv": "data_series.\"uganda_igf_resources\"",
- "country-year/uganda-ipt2-coverage.csv": "data_series.\"uganda_ipt2_coverage\"",
- "country-year/uganda-leaving-exam-perf-rate.csv": "data_series.\"uganda_leaving_exam_perf_rate\"",
- "country-year/uganda-life-expectancy.csv": "data_series.\"uganda_life_expectancy\"",
- "country-year/uganda-local-percent.csv": "data_series.\"uganda_local_percent\"",
- "country-year/uganda-overall-health.csv": "data_series.\"uganda_overall_health\"",
- "country-year/uganda-pop-dens.csv": "data_series.\"uganda_pop_dens\"",
- "country-year/uganda-poverty-headcount.csv": "data_series.\"uganda_poverty_headcount\"",
- "country-year/uganda-primary-educ-funding.csv": "data_series.\"uganda_primary_educ_funding\"",
- "country-year/uganda-primary-enrol.csv": "data_series.\"uganda_primary_enrol\"",
- "country-year/uganda-primary-sit-write.csv": "data_series.\"uganda_primary_sit_write\"",
- "country-year/uganda-primary-sit-write-gov.csv": "data_series.\"uganda_primary_sit_write_gov\"",
- "country-year/uganda-primary-stu-teach-ratio.csv": "data_series.\"uganda_primary_stu_teach_ratio\"",
- "country-year/uganda-primary-stu-teach-ratio-gov.csv": "data_series.\"uganda_primary_stu_teach_ratio_gov\"",
- "country-year/uganda-rural-safe-water.csv": "data_series.\"uganda_rural_safe_water\"",
- "country-year/uganda-rural-water-func.csv": "data_series.\"uganda_rural_water_func\"",
- "country-year/uganda-secondary-enrol.csv": "data_series.\"uganda_secondary_enrol\"",
- "country-year/uganda-secondary-sit-write.csv": "data_series.\"uganda_secondary_sit_write\"",
- "country-year/uganda-secondary-sit-write-gov.csv": "data_series.\"uganda_secondary_sit_write_gov\"",
- "country-year/uganda-secondary-stu-teach-ratio.csv": "data_series.\"uganda_secondary_stu_teach_ratio\"",
- "country-year/uganda-secondary-stu-teach-ratio-gov.csv": "data_series.\"uganda_secondary_stu_teach_ratio_gov\"",
- "country-year/uganda-tb-success.csv": "data_series.\"uganda_tb_success\"",
- "country-year/uganda-total-pop.csv": "data_series.\"uganda_total_pop\"",
- "country-year/uganda-urban-pop.csv": "data_series.\"uganda_urban_pop\"",
- "country-year/uganda-urban-rural-pop.csv": "data_series.\"uganda_urban_rural_pop\"",
- "country-year/uganda-wash-perf-score.csv": "data_series.\"uganda_wash_perf_score\"",
- "country-year/uganda-water-source-comm-func.csv": "data_series.\"uganda_water_source_comm_func\"", 
  */
  
 }
