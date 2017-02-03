@@ -1,6 +1,42 @@
 
 exports.csv=
 {
+ // Start with the tables from the `fact` schema
+ // They are automated & maintained (updated 4 times a year) & used in several locations on the DH site
+ // Where relevant, fetch the data from the constant price tables are the current price versions are not being used
+ // The full list of all the table in the `fact` schema is here:
+ // https://github.com/devinit/digital-platform/blob/development/country-year/warehouse/fact/README.md
+  
+ "country-year/warehouse/fact/gdp_pc_usd_current_2015.csv": "fact.gdp_pc_usd_current_2015",
+ "country-year/warehouse/fact/gdp_usd_current_2015.csv": "fact.gdp_usd_current_2015",
+ "country-year/warehouse/fact/gni_2015.csv": "fact.gni_2015",
+ "country-year/warehouse/fact/gni_pc_usd_current_2015.csv": "fact.gni_pc_usd_current_2015",
+ "country-year/warehouse/fact/gni_usd_current_2015.csv": "fact.gni_usd_current_2015",
+ "country-year/warehouse/fact/in_oda_gross_2015.csv": "fact.in_oda_gross_2015",
+ "country-year/warehouse/fact/in_oda_net_2015.csv": "fact.in_oda_net_2015",
+ "country-year/warehouse/fact/income_share_bottom_20pc.csv": "fact.income_share_bottom_20pc",
+ "country-year/warehouse/fact/income_share_by_quintile.csv": "fact.income_share_by_quintile",
+ "country-year/warehouse/fact/income_share_by_quintile_2nd.csv": "fact.income_share_by_quintile_2nd",
+ "country-year/warehouse/fact/income_share_by_quintile_3rd.csv": "fact.income_share_by_quintile_3rd",
+ "country-year/warehouse/fact/income_share_by_quintile_4th.csv": "fact.income_share_by_quintile_4th",
+ "country-year/warehouse/fact/income_share_by_quintile_5th.csv": "fact.income_share_by_quintile_5th",
+ "country-year/warehouse/fact/life_expectancy_at_birth.csv": "fact.life_expectancy_at_birth",
+ "country-year/warehouse/fact/maternal_mortality.csv": "fact.maternal_mortality",
+ "country-year/warehouse/fact/oda_2015.csv": "fact.oda_2015",
+ "country-year/warehouse/fact/oda_percent_gni.csv": "fact.oda_percent_gni",
+ "country-year/warehouse/fact/oda_to_ldcs_percent_gni.csv": "fact.oda_to_ldcs_percent_gni",
+ "country-year/warehouse/fact/out_debt_relief_2015.csv": "fact.out_debt_relief_2015",
+ "country-year/warehouse/fact/out_oda_gross_2015.csv": "fact.out_oda_gross_2015",
+ "country-year/warehouse/fact/out_oda_net_2015.csv": "fact.out_oda_net_2015",
+ "country-year/warehouse/fact/population_by_age.csv": "fact.population_by_age",
+ "country-year/warehouse/fact/population_by_age_0_14.csv": "fact.population_by_age_0_14",
+ "country-year/warehouse/fact/population_by_age_15_64.csv": "fact.population_by_age_15_64",
+ "country-year/warehouse/fact/population_by_age_65_and_above.csv": "fact.population_by_age_65_and_above",
+ "country-year/warehouse/fact/population_rural.csv": "fact.population_rural",
+ "country-year/warehouse/fact/population_rural_urban.csv": "fact.population_rural_urban",
+ "country-year/warehouse/fact/population_total.csv": "fact.population_total",
+ "country-year/warehouse/fact/population_urban.csv": "fact.population_urban",
+ 
  // data_series = manual, fact = automated
  "country-year/agricultural-census.csv": "data_series.\"agricultural_census\"",
  "country-year/avg-income-of-extreme-poor.csv": "data_series.\"avg_income_of_extreme_poor\"",
