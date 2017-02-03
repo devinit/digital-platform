@@ -37,6 +37,20 @@ exports.csv=
  "country-year/warehouse/fact/population_total.csv": "fact.population_total",
  "country-year/warehouse/fact/population_urban.csv": "fact.population_urban",
  
+ // Then use the tables from the `recipient_profile` schema
+ // They are automated & maintained (updated 4 times a year) & used mostly for the recipient profiles on the DH site
+ // Where relevant, fetch the data from the constant price tables are the current price versions are not being used
+ // That's a total of 5 at the moment
+ // The full list of all the table in the `recipient_profile` schema is here:
+ // https://github.com/devinit/digital-platform/blob/development/country-year/warehouse/recipient_profile/README.md
+ 
+ "country-year/warehouse/recipient_profile/oda_per_capita_2015.csv": "recipient_profile.oda_per_capita_2015",
+ "country-year/warehouse/recipient_profile/oda_per_capita_excl_non_transfer_2015.csv": "recipient_profile.oda_per_capita_excl_non_transfer_2015",
+ "country-year/warehouse/recipient_profile/oda_per_percent_gdp.csv": "recipient_profile.oda_per_percent_gdp",
+ "country-year/warehouse/recipient_profile/oda_per_percent_gdp_excl_non_transfer.csv": "recipient_profile.oda_per_percent_gdp_excl_non_transfer",
+ "country-year/warehouse/recipient_profile/oda_per_poor_person_2015.csv": "recipient_profile.oda_per_poor_person_2015",
+ "country-year/warehouse/recipient_profile/oda_per_poor_person_excl_non_transfer_2015.csv": "recipient_profile.oda_per_poor_person_excl_non_transfer_2015",
+ 
  // data_series = manual, fact = automated
  "country-year/agricultural-census.csv": "data_series.\"agricultural_census\"",
  "country-year/avg-income-of-extreme-poor.csv": "data_series.\"avg_income_of_extreme_poor\"",
