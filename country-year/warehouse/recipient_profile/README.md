@@ -28,8 +28,6 @@ to make sure that the data import sends the data to the right file in the right 
 (10 rows)
 ```
 
----
-
 # Conventions
 
 If a table ends in a year, e.g., 2015, this means that the table contain monetary values presented in constant prices from that year, so 2015 = 2015 constant prices.
@@ -37,3 +35,5 @@ If a table ends in a year, e.g., 2015, this means that the table contain monetar
 # Issues
 
 Each table needs to be mapped to the location on the DH where it is being used.
+
+In other locations in this repository & other file names, `per_capita` is shortened to `pc`. Do we shorten here, or expand elsewhere?
