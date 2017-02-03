@@ -1,7 +1,7 @@
 
 exports.csv=
 {
- // Start with the tables from the `fact` schema
+ // Start with the data in the tables in the `fact` schema
  // They are automated & maintained (updated 4 times a year) & used in several locations on the DH site
  // Where relevant, fetch the data from the constant price tables are the current price versions are not being used
  // The full list of all the table in the `fact` schema is here:
@@ -22,7 +22,6 @@ exports.csv=
  "country-year/warehouse/fact/income_share_by_quintile_5th.csv": "fact.income_share_by_quintile_5th",
  "country-year/warehouse/fact/life_expectancy_at_birth.csv": "fact.life_expectancy_at_birth",
  "country-year/warehouse/fact/maternal_mortality.csv": "fact.maternal_mortality",
- "country-year/warehouse/fact/oda_2015.csv": "fact.oda_2015",
  "country-year/warehouse/fact/oda_percent_gni.csv": "fact.oda_percent_gni",
  "country-year/warehouse/fact/oda_to_ldcs_percent_gni.csv": "fact.oda_to_ldcs_percent_gni",
  "country-year/warehouse/fact/out_debt_relief_2015.csv": "fact.out_debt_relief_2015",
@@ -36,8 +35,27 @@ exports.csv=
  "country-year/warehouse/fact/population_rural_urban.csv": "fact.population_rural_urban",
  "country-year/warehouse/fact/population_total.csv": "fact.population_total",
  "country-year/warehouse/fact/population_urban.csv": "fact.population_urban",
+ // Break the data from the `fact.oda_2015` table up into several files as the table contains 3,000,000+ rows
+ //"country-year/warehouse/fact/oda_2015.csv": "fact.oda_2015",
+ "country-year/warehouse/fact/oda.2015.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2015 ) sq ",
+ "country-year/warehouse/fact/oda.2014.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2014 ) sq ",
+ "country-year/warehouse/fact/oda.2013.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2013 ) sq ",
+ "country-year/warehouse/fact/oda.2012.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2012 ) sq ",
+ "country-year/warehouse/fact/oda.2011.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2011 ) sq ",
+ "country-year/warehouse/fact/oda.2010.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2010 ) sq ",
+ "country-year/warehouse/fact/oda.2009.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2009 ) sq ",
+ "country-year/warehouse/fact/oda.2008.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2008 ) sq ",
+ "country-year/warehouse/fact/oda.2007.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2007 ) sq ",
+ "country-year/warehouse/fact/oda.2006.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2006 ) sq ",
+ "country-year/warehouse/fact/oda.2005.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2005 ) sq ",
+ "country-year/warehouse/fact/oda.2004.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2004 ) sq ",
+ "country-year/warehouse/fact/oda.2003.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2003 ) sq ",
+ "country-year/warehouse/fact/oda.2002.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2002 ) sq ",
+ "country-year/warehouse/fact/oda.2001.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2001 ) sq ",
+ "country-year/warehouse/fact/oda.2000.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2000 ) sq ",
+ "country-year/warehouse/fact/oda.1999_1973.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year<=1999 ) sq ",
  
- // Then use the tables from the `recipient_profile` schema
+ // Then get the data from the tables in the `recipient_profile` schema
  // They are automated & maintained (updated 4 times a year) & used mostly for the recipient profiles on the DH site
  // Where relevant, fetch the data from the constant price tables are the current price versions are not being used
  // That's a total of 6 at the moment
@@ -128,40 +146,40 @@ exports.csv=
  "country-year/stat-capacity.csv": "data_series.\"stat_capacity\"",
  
  // Automated WB WDI data series
- "country-year/gdp-usd-current.csv": "fact.\"gdp_usd_current\"",
- "country-year/gni-pc-usd-current.csv": "fact.\"gni_pc_usd_current\"",
+ //"country-year/gdp-usd-current.csv": "fact.\"gdp_usd_current\"",
+ //"country-year/gni-pc-usd-current.csv": "fact.\"gni_pc_usd_current\"",
  // Changed the source of data, now presented in 2015 constant prices
- "country-year/gni-usd-current.csv": "fact.\"gni_usd_current_2015\"",
- "country-year/income-share-bottom-20pc.csv": "fact.\"income_share_bottom_20pc\"",
- "country-year/income-share-by-quintile.csv": "fact.\"income_share_by_quintile\"",
- "country-year/life-expectancy-at-birth.csv": "fact.\"life_expectancy_at_birth\"",
- "country-year/maternal-mortality.csv": "fact.\"maternal_mortality\"",
- "country-year/population-total.csv": "fact.\"population_total\"",
- "country-year/population-rural.csv": "fact.\"population_rural\"",
- "country-year/population-urban.csv": "fact.\"population_urban\"",
- "country-year/population-rural-urban.csv": "fact.\"population_rural_urban\"",
- "country-year/population-by-age.csv": "fact.\"population_by_age\"",
+ //"country-year/gni-usd-current.csv": "fact.\"gni_usd_current_2015\"",
+ //"country-year/income-share-bottom-20pc.csv": "fact.\"income_share_bottom_20pc\"",
+ //"country-year/income-share-by-quintile.csv": "fact.\"income_share_by_quintile\"",
+ //"country-year/life-expectancy-at-birth.csv": "fact.\"life_expectancy_at_birth\"",
+ //"country-year/maternal-mortality.csv": "fact.\"maternal_mortality\"",
+ //"country-year/population-total.csv": "fact.\"population_total\"",
+ //"country-year/population-rural.csv": "fact.\"population_rural\"",
+ //"country-year/population-urban.csv": "fact.\"population_urban\"",
+ //"country-year/population-rural-urban.csv": "fact.\"population_rural_urban\"",
+ //"country-year/population-by-age.csv": "fact.\"population_by_age\"",
  
  // This section is for all things ODA related i.e., `fact.oda`/the unbundling ODA visualisation data/oda*.csv
  // Added new file for the data where year = 2015
- "country-year/oda.2015.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2015 ) sq ",
+ //"country-year/oda.2015.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2015 ) sq ",
  // Changed the source of data prior to 2015 as should now be taken from `fact.oda_2015` (2015 constant prices)
- "country-year/oda.2014.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2014 ) sq ",
- "country-year/oda.2013.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2013 ) sq ",
- "country-year/oda.2012.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2012 ) sq ",
- "country-year/oda.2011.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2011 ) sq ",
- "country-year/oda.2010.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2010 ) sq ",
- "country-year/oda.2009.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2009 ) sq ",
- "country-year/oda.2008.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2008 ) sq ",
- "country-year/oda.2007.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2007 ) sq ",
- "country-year/oda.2006.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2006 ) sq ",
- "country-year/oda.2005.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2005 ) sq ",
- "country-year/oda.2004.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2004 ) sq ",
- "country-year/oda.2003.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2003 ) sq ",
- "country-year/oda.2002.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2002 ) sq ",
- "country-year/oda.2001.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2001 ) sq ",
- "country-year/oda.2000.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2000 ) sq ",
- "country-year/oda.csv"     : " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year<=1999 ) sq ",
+ //"country-year/oda.2014.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2014 ) sq ",
+ //"country-year/oda.2013.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2013 ) sq ",
+ //"country-year/oda.2012.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2012 ) sq ",
+ //"country-year/oda.2011.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2011 ) sq ",
+ //"country-year/oda.2010.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2010 ) sq ",
+ //"country-year/oda.2009.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2009 ) sq ",
+ //"country-year/oda.2008.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2008 ) sq ",
+ //"country-year/oda.2007.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2007 ) sq ",
+ //"country-year/oda.2006.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2006 ) sq ",
+ //"country-year/oda.2005.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2005 ) sq ",
+ //"country-year/oda.2004.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2004 ) sq ",
+ //"country-year/oda.2003.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2003 ) sq ",
+ //"country-year/oda.2002.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2002 ) sq ",
+ //"country-year/oda.2001.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2001 ) sq ",
+ //"country-year/oda.2000.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2000 ) sq ",
+ //"country-year/oda.csv"     : " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year<=1999 ) sq ",
 
  // These tables are used with the recipient profiles & have been moved to the `recipient_profile` schema
  // Where needed, added new file for the updated data, in 2015 constant prices
