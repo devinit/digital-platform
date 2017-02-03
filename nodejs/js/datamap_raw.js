@@ -40,7 +40,7 @@ exports.csv=
  // Then use the tables from the `recipient_profile` schema
  // They are automated & maintained (updated 4 times a year) & used mostly for the recipient profiles on the DH site
  // Where relevant, fetch the data from the constant price tables are the current price versions are not being used
- // That's a total of 5 at the moment
+ // That's a total of 6 at the moment
  // The full list of all the table in the `recipient_profile` schema is here:
  // https://github.com/devinit/digital-platform/blob/development/country-year/warehouse/recipient_profile/README.md
  
