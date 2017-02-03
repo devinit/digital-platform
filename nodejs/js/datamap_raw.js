@@ -330,9 +330,17 @@ exports.csv=
  // "country-year/warehouse/south_south_cooperation/recipient_and_region_2012.csv": "south_south_cooperation.\"recipient_and_region_2012\"",
  // "country-year/warehouse/south_south_cooperation/bundle_2012.csv": "south_south_cooperation.\"bundle_2012\"",
 
- // These are low priority at the moment (January 2017) and so have moved them to the end
+ ///////////////////////////////////////////////////////////////////////////////
  
  // Spotlight on Kenya
+ // These have not been updated for quite a while & are not maintained at the moment
+ // In terms of updates, they are low priority as of January 2017 so have moved them to the end
+ // Until they are updated, there really is no need to reimport this data as it has not changed
+ // It would be good to break these out into a separate subfolder, especially because they are not maintained
+ 
+ ///////////////////////////////////////////////////////////////////////////////
+ 
+ /*
  "country-year/kenya-births-pc-skilled.csv": "data_series.\"kenya_births_pc_skilled\"",
  "country-year/kenya-electricity.csv": "data_series.\"kenya_electricity\"",
  "country-year/kenya-fertility-rate.csv": "data_series.\"kenya_fertility_rate\"",
@@ -358,8 +366,19 @@ exports.csv=
  "country-year/kenya-treat-child-respir.csv": "data_series.\"kenya_treat_child_respir\"",
  "country-year/kenya-urban-pop.csv": "data_series.\"kenya_urban_pop\"",
  "country-year/kenya-weight-below-3sd.csv": "data_series.\"kenya_weight_below_3sd\"",
+ */
+ 
+ ///////////////////////////////////////////////////////////////////////////////
  
  // Spotlight on Uganda
+ // These have not been updated for quite a while & are not maintained at the moment
+ // In terms of updates, they are low priority as of January 2017 so have moved them to the end
+ // Until they are updated, there really is no need to reimport this data as it has not changed
+ // It would be good to break these out into a separate subfolder, especially because they are not maintained
+ 
+ ///////////////////////////////////////////////////////////////////////////////
+ 
+ /*
  "country-year/uganda-agri-percent.csv": "data_series.\"uganda_agri_percent\"",
  "country-year/uganda-anc4-coverage.csv": "data_series.\"uganda_anc4_coverage\"",
  "country-year/uganda-avg-house-size.csv": "data_series.\"uganda_avg_house_size\"",
@@ -405,5 +424,6 @@ exports.csv=
  "country-year/uganda-urban-rural-pop.csv": "data_series.\"uganda_urban_rural_pop\"",
  "country-year/uganda-wash-perf-score.csv": "data_series.\"uganda_wash_perf_score\"",
  "country-year/uganda-water-source-comm-func.csv": "data_series.\"uganda_water_source_comm_func\"", 
+ */
  
 }
