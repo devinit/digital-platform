@@ -28,6 +28,12 @@ to make sure that the data import sends the data to the right file in the right 
 (10 rows)
 ```
 
+---
+
+# Conventions
+
 If a table ends in a year, e.g., 2015, this means that the table contain monetary values presented in constant prices from that year, so 2015 = 2015 constant prices.
 
-Also, each table here needs to be mapped to the location on the DH where it is being used.
+# Issues
+
+Each table needs to be mapped to the location on the DH where it is being used.
