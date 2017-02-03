@@ -1,12 +1,17 @@
 
 exports.csv=
 {
+ 
+ ///////////////////////////////////////////////////////////////////////////////
+ 
  // Start with the data in the tables in the `fact` schema
  // They are automated & maintained (updated 4 times a year) & used in several locations on the DH site
  // Where relevant, fetch the data from the constant price tables are the current price versions are not being used
  // The full list of all the table in the `fact` schema is here:
  // https://github.com/devinit/digital-platform/blob/development/country-year/warehouse/fact/README.md
   
+ ///////////////////////////////////////////////////////////////////////////////
+ 
  "country-year/warehouse/fact/gdp_pc_usd_current_2015.csv": "fact.gdp_pc_usd_current_2015",
  "country-year/warehouse/fact/gdp_usd_current_2015.csv": "fact.gdp_usd_current_2015",
  "country-year/warehouse/fact/gni_2015.csv": "fact.gni_2015",
@@ -54,13 +59,17 @@ exports.csv=
  "country-year/warehouse/fact/oda.2001.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2001 ) sq ",
  "country-year/warehouse/fact/oda.2000.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2000 ) sq ",
  "country-year/warehouse/fact/oda.1999_1973.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year<=1999 ) sq ",
+  
+ ///////////////////////////////////////////////////////////////////////////////
  
  // Then get the data from the tables in the `recipient_profile` schema
- // They are automated & maintained (updated 4 times a year) & used mostly for the recipient profiles on the DH site
+ // They are automated & maintained (updated 4 times a year) & used mostly for the country profiles on the DH site where a country is a recipient
  // Where relevant, fetch the data from the constant price tables are the current price versions are not being used
  // That's a total of 6 at the moment
  // The full list of all the table in the `recipient_profile` schema is here:
  // https://github.com/devinit/digital-platform/blob/development/country-year/warehouse/recipient_profile/README.md
+ 
+ ///////////////////////////////////////////////////////////////////////////////
  
  "country-year/warehouse/recipient_profile/oda_per_capita_2015.csv": "recipient_profile.oda_per_capita_2015",
  "country-year/warehouse/recipient_profile/oda_per_capita_excl_non_transfer_2015.csv": "recipient_profile.oda_per_capita_excl_non_transfer_2015",
@@ -69,7 +78,51 @@ exports.csv=
  "country-year/warehouse/recipient_profile/oda_per_poor_person_2015.csv": "recipient_profile.oda_per_poor_person_2015",
  "country-year/warehouse/recipient_profile/oda_per_poor_person_excl_non_transfer_2015.csv": "recipient_profile.oda_per_poor_person_excl_non_transfer_2015",
  
- // data_series = manual, fact = automated
+ ///////////////////////////////////////////////////////////////////////////////
+ 
+ // Then get the data from the tables in the `donor_profile` schema
+ // They are automated & maintained (updated 4 times a year) & used mostly for the country profiles on the DH site where a country is a donor
+ // Where relevant, fetch the data from the constant price tables are the current price versions are not being used
+ // The full list of all the table in the `donor_profile` schema is here:
+ // https://github.com/devinit/digital-platform/blob/development/country-year/warehouse/donor_profile/README.md
+ 
+ ///////////////////////////////////////////////////////////////////////////////
+ 
+ //[Coming soon...]
+ 
+ ///////////////////////////////////////////////////////////////////////////////
+ 
+ // Then get the data from the tables in the `multilateral_profile` schema
+ // They are automated & maintained (updated 4 times a year) & used for the multilateral profiles that are under development for the DH site
+ // Where relevant, fetch the data from the constant price tables are the current price versions are not being used
+ // The full list of all the table in the `donor_profile` schema is here:
+ // https://github.com/devinit/digital-platform/blob/development/country-year/warehouse/multilateral_profile/README.md
+ 
+ /////////////////////////////////////////////////////////////////////////////// 
+ 
+ //[Coming soon...]
+ 
+ ///////////////////////////////////////////////////////////////////////////////
+ 
+ // Then get the data from the tables in the `south_south_cooperation` schema
+ // They are automated & maintained (updated 4 times a year) & used mostly for the country profiles on the DH where a country is classified as a SSC country
+ // Please contact @Duncan-Knox for a list of the SSC countries
+ // Where relevant, fetch the data from the constant price tables are the current price versions are not being used
+ // The full list of all the table in the `donor_profile` schema is here:
+ // https://github.com/devinit/digital-platform/blob/development/country-year/warehouse/south_south_cooperation/README.md
+ 
+ ///////////////////////////////////////////////////////////////////////////////
+ 
+ //[Coming soon...]
+ 
+ ///////////////////////////////////////////////////////////////////////////////
+ 
+ // Then get the data from the tables in the `data_series` schema
+ // Most of these have not been updated in over 2 years & are not maintained
+ // They are manually put together by the analysts to support the various visualisation displayed by the DH
+ 
+ ///////////////////////////////////////////////////////////////////////////////
+ 
  "country-year/agricultural-census.csv": "data_series.\"agricultural_census\"",
  "country-year/avg-income-of-extreme-poor.csv": "data_series.\"avg_income_of_extreme_poor\"",
  "country-year/civil-reg-births.csv": "data_series.\"civil_reg_births\"",
