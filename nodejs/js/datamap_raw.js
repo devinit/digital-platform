@@ -184,16 +184,16 @@ exports.csv=
  // These tables are used with the recipient profiles & have been moved to the `recipient_profile` schema
  // Where needed, added new file for the updated data, in 2015 constant prices
  // This is new data coming from the warehouse, so lets keep the names the same
- "country-year/warehouse/oda_per_percent_gdp.csv": "recipient_profile.\"oda_per_percent_gdp\"",
- "country-year/warehouse/oda_per_percent_gdp_excl_non_transfer.csv": "recipient_profile.\"oda_per_percent_gdp_excl_non_transfer\"",
- "country-year/warehouse/oda_per_poor_person_2012.csv": "recipient_profile.\"oda_per_poor_person_2012\"",
- "country-year/warehouse/oda_per_poor_person_2015.csv": "recipient_profile.\"oda_per_poor_person_2015\"",
- "country-year/warehouse/oda_per_poor_person_excl_non_transfer_2012.csv": "recipient_profile.\"oda_per_poor_person_excl_non_transfer_2012\"",
- "country-year/warehouse/oda_per_poor_person_excl_non_transfer_2015.csv": "recipient_profile.\"oda_per_poor_person_excl_non_transfer_2015\"",
- "country-year/warehouse/oda_per_capita_2012.csv": "recipient_profile.\"oda_per_capita_2012\"",
- "country-year/warehouse/oda_per_capita_2015.csv": "recipient_profile.\"oda_per_capita_2015\"",
- "country-year/warehouse/oda_per_capita_excl_non_transfer_2012.csv": "recipient_profile.\"oda_per_capita_excl_non_transfer_2012\"",
- "country-year/warehouse/oda_per_capita_excl_non_transfer_2015.csv": "recipient_profile.\"oda_per_capita_excl_non_transfer_2015\"",
+ //"country-year/warehouse/oda_per_percent_gdp.csv": "recipient_profile.\"oda_per_percent_gdp\"",
+ //"country-year/warehouse/oda_per_percent_gdp_excl_non_transfer.csv": "recipient_profile.\"oda_per_percent_gdp_excl_non_transfer\"",
+ //"country-year/warehouse/oda_per_poor_person_2012.csv": "recipient_profile.\"oda_per_poor_person_2012\"",
+ //"country-year/warehouse/oda_per_poor_person_2015.csv": "recipient_profile.\"oda_per_poor_person_2015\"",
+ //"country-year/warehouse/oda_per_poor_person_excl_non_transfer_2012.csv": "recipient_profile.\"oda_per_poor_person_excl_non_transfer_2012\"",
+ //"country-year/warehouse/oda_per_poor_person_excl_non_transfer_2015.csv": "recipient_profile.\"oda_per_poor_person_excl_non_transfer_2015\"",
+ //"country-year/warehouse/oda_per_capita_2012.csv": "recipient_profile.\"oda_per_capita_2012\"",
+ //"country-year/warehouse/oda_per_capita_2015.csv": "recipient_profile.\"oda_per_capita_2015\"",
+ //"country-year/warehouse/oda_per_capita_excl_non_transfer_2012.csv": "recipient_profile.\"oda_per_capita_excl_non_transfer_2012\"",
+ //"country-year/warehouse/oda_per_capita_excl_non_transfer_2015.csv": "recipient_profile.\"oda_per_capita_excl_non_transfer_2015\"",
  
  // New data print profile
  "country-year/warehouse/gdp_pc_usd_current_2012.csv": "fact.\"gdp_pc_usd_current_2012\"",
