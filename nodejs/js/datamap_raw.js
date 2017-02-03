@@ -45,10 +45,10 @@ exports.csv=
  "country-year/climate-vulnerability.csv": "data_series.\"climate_vulnerability\"",
  "country-year/dac-oda-percent-gni.csv": "data_series.\"dac_oda_percent_gni\"",
  // Renamed dac-oda-to-ldcs-pc-gni.csv to oda-to-ldcs-percent-gni.csv & changed the source of data as now automated
- //"country-year/dac-oda-to-ldcs-pc-gni.csv": "data_series.\"dac_oda_to_ldcs_pc_gni\"",
- "country-year/oda-to-ldcs-percent-gni.csv": "fact.\"oda_to_ldcs_percent_gni\"",
+ "country-year/dac-oda-to-ldcs-pc-gni.csv": "data_series.\"dac_oda_to_ldcs_pc_gni\"",
+ //"country-year/oda-to-ldcs-percent-gni.csv": "fact.\"oda_to_ldcs_percent_gni\"",
  // Moving file to fact subfolder
- "country-year/warehouse/fact/oda_to_ldcs_percent_gni.csv": "fact.oda_to_ldcs_percent_gni",
+ //"country-year/warehouse/fact/oda_to_ldcs_percent_gni.csv": "fact.oda_to_ldcs_percent_gni",
  "country-year/depth-of-extreme-poverty-190.csv": "data_series.\"depth_of_extreme_poverty_190\"",
  "country-year/dev-coop-in-detail.csv": "data_series.\"dev_coop_in_detail\"",
  "country-year/dfis-out.csv": "data_series.\"dfis_out\"",
@@ -72,11 +72,11 @@ exports.csv=
  // Changed the source of data, now presented in 2015 constant prices & 2015 to be included
  "country-year/in-oda-gross.csv": " ( SELECT * FROM fact.\"in_oda_gross_2015\" WHERE year<=2015 ) sq ",
  // Moving file into the fact subfolder
- "country-year/warehouse/fact/in_oda_gross_2015.csv": " ( SELECT * FROM fact.\"in_oda_gross_2015\" WHERE year<=2015 ) sq ",
+ //"country-year/warehouse/fact/in_oda_gross_2015.csv": " ( SELECT * FROM fact.\"in_oda_gross_2015\" WHERE year<=2015 ) sq ",
  // Changed the source of data, now presented in 2015 constant prices
  "country-year/in-oda-net.csv": "fact.\"in_oda_net_2015\"",
  // Moving file into the fact subfolder
- "country-year/warehouse/fact/in_oda_net_2015.csv": " ( SELECT * FROM fact.\"in_oda_net_2015\" WHERE year<=2015 ) sq ",
+ //"country-year/warehouse/fact/in_oda_net_2015.csv": " ( SELECT * FROM fact.\"in_oda_net_2015\" WHERE year<=2015 ) sq ",
  "country-year/in-oof-gross.csv": "data_series.\"in_oof_gross\"",
  "country-year/intl-flows-donors.csv": "data_series.\"intl_flows_donors\"",
  "country-year/intl-flows-recipients.csv": "data_series.\"intl_flows_recipients\"",
@@ -186,10 +186,10 @@ exports.csv=
  // Will change name & update as necessary
 
  "country-year/warehouse/data_series/intl_flows_donors.csv": "data_series.intl_flows_donors",
- "country-year/warehouse/fact/out_oda_net_2012.csv": "fact.out_oda_net_2012",
+ //"country-year/warehouse/fact/out_oda_net_2012.csv": "fact.out_oda_net_2012",
  // 2015 data now available
- "country-year/warehouse/fact/out_oda_net_2015.csv": "fact.out_oda_net_2015",
- "country-year/warehouse/fact/out_debt_relief_2012.csv": "fact.out_debt_relief_2012",
+ //"country-year/warehouse/fact/out_oda_net_2015.csv": "fact.out_oda_net_2015",
+ //"country-year/warehouse/fact/out_debt_relief_2012.csv": "fact.out_debt_relief_2012",
  "country-year/warehouse/donor_profile/oda_per_capita_per_day_2012.csv": "donor_profile.oda_per_capita_per_day_2012",
  "country-year/warehouse/donor_profile/gni_per_capita_per_day_2012.csv": "donor_profile.gni_per_capita_per_day_2012",
  "country-year/warehouse/donor_profile/oda_per_capita_2012.csv": "donor_profile.oda_per_capita_2012",
@@ -197,9 +197,9 @@ exports.csv=
  // Renamed dac_oda_percent_gni.csv to oda_percent_gni.csv
  // dac_oda_percent_gni.csv can be removed
  //"country-year/warehouse/fact/dac_oda_percent_gni.csv": "fact.dac_oda_percent_gni",
- "country-year/warehouse/fact/oda_percent_gni.csv": "fact.oda_percent_gni",
+ //"country-year/warehouse/fact/oda_percent_gni.csv": "fact.oda_percent_gni",
  // Added a new file, to be used in conjunction with oda_percent_gni.csv for the global picture visualisations
- "country-year/warehouse/fact/gni.csv": "fact.gni_2015",
+ //"country-year/warehouse/fact/gni.csv": "fact.gni_2015",
  "country-year/warehouse/donor_profile/recipient_bundle_2012.csv": "donor_profile.recipient_bundle_2012",
  "country-year/warehouse/donor_profile/disbursement_by_region_2012.csv": "donor_profile.disbursement_by_region_2012",
  "country-year/warehouse/donor_profile/bubble_chart.csv": "donor_profile.bubble_chart",
