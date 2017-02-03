@@ -1,6 +1,6 @@
 # Spotlight on Uganda 
 
-These files are used with the "Spotlight on Uganda" (http://data.devinit.org/#!/spotlight-on-uganda) visualisations on the DH
+These files are used with the "Spotlight on Uganda" (http://data.devinit.org/#!/spotlight-on-uganda) visualisations on the DH.
 
 We are breaking them out of the `country-year` repository.
 
