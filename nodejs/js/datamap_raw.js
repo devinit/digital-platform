@@ -388,39 +388,37 @@ exports.csv=
  ///////////////////////////////////////////////////////////////////////////////
  
  // Spotlight on Kenya
+ // As far as I know, these are not even being used (???)
  // These have not been updated for quite a while & are not maintained at the moment
  // In terms of updates, they are low priority as of January 2017 so have moved them to the end
  // Until they are updated, there really is no need to reimport this data as it has not changed
- // It would be good to break these out into a separate subfolder, especially because they are not maintained
  
  ///////////////////////////////////////////////////////////////////////////////
  
- /*
- "country-year/kenya-births-pc-skilled.csv": "data_series.\"kenya_births_pc_skilled\"",
- "country-year/kenya-electricity.csv": "data_series.\"kenya_electricity\"",
- "country-year/kenya-fertility-rate.csv": "data_series.\"kenya_fertility_rate\"",
- "country-year/kenya-improved-sani.csv": "data_series.\"kenya_improved_sani\"",
- "country-year/kenya-improved-water.csv": "data_series.\"kenya_improved_water\"",
- "country-year/kenya-paved-roads.csv": "data_series.\"kenya_paved_roads\"",
- "country-year/kenya-pc-female-know-hiv.csv": "data_series.\"kenya_pc_female_know_hiv\"",
- "country-year/kenya-pc-female-tested-hiv.csv": "data_series.\"kenya_pc_female_tested_hiv\"",
- "country-year/kenya-pc-house-malaria-nets.csv": "data_series.\"kenya_pc_house_malaria_nets\"",
- "country-year/kenya-pc-male-know-hiv.csv": "data_series.\"kenya_pc_male_know_hiv\"",
- "country-year/kenya-pc-male-tested-hiv.csv": "data_series.\"kenya_pc_male_tested_hiv\"",
- "country-year/kenya-pc-modern-contra.csv": "data_series.\"kenya_pc_modern_contra\"",
- "country-year/kenya-pc-no-contra.csv": "data_series.\"kenya_pc_no_contra\"",
- "country-year/kenya-pc-trad-contra.csv": "data_series.\"kenya_pc_trad_contra\"",
- "country-year/kenya-pop-female.csv": "data_series.\"kenya_pop_female\"",
- "country-year/kenya-pop-male.csv": "data_series.\"kenya_pop_male\"",
- "country-year/kenya-pop-pc-female.csv": "data_series.\"kenya_pop_pc_female\"",
- "country-year/kenya-pop-pc-male.csv": "data_series.\"kenya_pop_pc_male\"",
- "country-year/kenya-pop-total.csv": "data_series.\"kenya_pop_total\"",
- "country-year/kenya-pov-gap.csv": "data_series.\"kenya_pov_gap\"",
- "country-year/kenya-rural-pop.csv": "data_series.\"kenya_rural_pop\"",
- "country-year/kenya-treat-child-diarr.csv": "data_series.\"kenya_treat_child_diarr\"",
- "country-year/kenya-treat-child-respir.csv": "data_series.\"kenya_treat_child_respir\"",
- "country-year/kenya-urban-pop.csv": "data_series.\"kenya_urban_pop\"",
- "country-year/kenya-weight-below-3sd.csv": "data_series.\"kenya_weight_below_3sd\"",
- */
+ "country-year/spotlight-on-kenya/kenya-births-pc-skilled.csv": "data_series.\"kenya_births_pc_skilled\"",
+ "country-year/spotlight-on-kenya/kenya-electricity.csv": "data_series.\"kenya_electricity\"",
+ "country-year/spotlight-on-kenya/kenya-fertility-rate.csv": "data_series.\"kenya_fertility_rate\"",
+ "country-year/spotlight-on-kenya/kenya-improved-sani.csv": "data_series.\"kenya_improved_sani\"",
+ "country-year/spotlight-on-kenya/kenya-improved-water.csv": "data_series.\"kenya_improved_water\"",
+ "country-year/spotlight-on-kenya/kenya-paved-roads.csv": "data_series.\"kenya_paved_roads\"",
+ "country-year/spotlight-on-kenya/kenya-pc-female-know-hiv.csv": "data_series.\"kenya_pc_female_know_hiv\"",
+ "country-year/spotlight-on-kenya/kenya-pc-female-tested-hiv.csv": "data_series.\"kenya_pc_female_tested_hiv\"",
+ "country-year/spotlight-on-kenya/kenya-pc-house-malaria-nets.csv": "data_series.\"kenya_pc_house_malaria_nets\"",
+ "country-year/spotlight-on-kenya/kenya-pc-male-know-hiv.csv": "data_series.\"kenya_pc_male_know_hiv\"",
+ "country-year/spotlight-on-kenya/kenya-pc-male-tested-hiv.csv": "data_series.\"kenya_pc_male_tested_hiv\"",
+ "country-year/spotlight-on-kenya/kenya-pc-modern-contra.csv": "data_series.\"kenya_pc_modern_contra\"",
+ "country-year/spotlight-on-kenya/kenya-pc-no-contra.csv": "data_series.\"kenya_pc_no_contra\"",
+ "country-year/spotlight-on-kenya/kenya-pc-trad-contra.csv": "data_series.\"kenya_pc_trad_contra\"",
+ "country-year/spotlight-on-kenya/kenya-pop-female.csv": "data_series.\"kenya_pop_female\"",
+ "country-year/spotlight-on-kenya/kenya-pop-male.csv": "data_series.\"kenya_pop_male\"",
+ "country-year/spotlight-on-kenya/kenya-pop-pc-female.csv": "data_series.\"kenya_pop_pc_female\"",
+ "country-year/spotlight-on-kenya/kenya-pop-pc-male.csv": "data_series.\"kenya_pop_pc_male\"",
+ "country-year/spotlight-on-kenya/kenya-pop-total.csv": "data_series.\"kenya_pop_total\"",
+ "country-year/spotlight-on-kenya/kenya-pov-gap.csv": "data_series.\"kenya_pov_gap\"",
+ "country-year/spotlight-on-kenya/kenya-rural-pop.csv": "data_series.\"kenya_rural_pop\"",
+ "country-year/spotlight-on-kenya/kenya-treat-child-diarr.csv": "data_series.\"kenya_treat_child_diarr\"",
+ "country-year/spotlight-on-kenya/kenya-treat-child-respir.csv": "data_series.\"kenya_treat_child_respir\"",
+ "country-year/spotlight-on-kenya/kenya-urban-pop.csv": "data_series.\"kenya_urban_pop\"",
+ "country-year/spotlight-on-kenya/kenya-weight-below-3sd.csv": "data_series.\"kenya_weight_below_3sd\"",
  
 }
