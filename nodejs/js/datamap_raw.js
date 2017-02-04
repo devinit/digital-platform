@@ -151,9 +151,11 @@ exports.csv=
  "country-year/forgotten_crisis.csv": "data_series.\"forgotten_crisis\"",
  "country-year/fragile-states.csv": "data_series.\"fragile_states\"",
  "country-year/general-gov-health-exp.csv": "data_series.\"general_gov_health_exp\"",
- "country-year/gov-revenue-pc-gdp.csv": "data_series.\"gov_revenue_pc_gdp\"",
+ //"country-year/gov-revenue-pc-gdp.csv": "data_series.\"gov_revenue_pc_gdp\"",
+ "country-year/govt-revenue-pc-gdp.csv": "data_series.\"govt_revenue_pc_gdp\"",
  "country-year/govtspend-pc.csv": "data_series.\"govtspend_pc\"",
- "country-year/grants-pct-totalrevenue.csv": "data_series.\"grants_pct_totalrevenue\"",
+ //"country-year/grants-pct-totalrevenue.csv": "data_series.\"grants_pct_totalrevenue\"",
+ "country-year/grants-percent-total-revenue.csv": "data_series.\"grants_percent_total_revenue\"",
  "country-year/health-mis.csv": "data_series.\"health_mis\"",
  "country-year/human-hazard.csv": "data_series.\"human_hazard\"",
  "country-year/in-ha.csv": "data_series.\"in_ha\"",
@@ -202,8 +204,10 @@ exports.csv=
  "country-year/ssc-out.csv": "data_series.\"ssc_out\"",
  "country-year/ssc-percent-gni.csv": "data_series.\"ssc_percent_gni\"",
  "country-year/stat-capacity.csv": "data_series.\"stat_capacity\"",
- "country-year/total-revenue-pct-gdp.csv": "data_series.\"total_revenue_pct_gdp\"",
- "country-year/total-revenue-ppp-capita.csv": "data_series.\"total_revenue_ppp_capita\"",
+ //"country-year/total-revenue-pct-gdp.csv": "data_series.\"total_revenue_pct_gdp\"",
+ "country-year/total-revenue-percent-gdp.csv": "data_series.\"total_revenue_percent_gdp\"",
+ //"country-year/total-revenue-ppp-capita.csv": "data_series.\"total_revenue_ppp_capita\"",
+ "country-year/total-revenue-ppp-pc.csv": "data_series.\"total_revenue_ppp_pc\"",
  
  ///////////////////////////////////////////////////////////////////////////////
  //
