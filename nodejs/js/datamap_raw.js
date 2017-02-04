@@ -123,7 +123,6 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
  
- "country-year/2013-p20-population.csv": "data_series.\"2013_p20_population\"",
  "country-year/agricultural-census.csv": "data_series.\"agricultural_census\"",
  "country-year/avg-income-of-extreme-poor.csv": "data_series.\"avg_income_of_extreme_poor\"",
  "country-year/civil-reg-births.csv": "data_series.\"civil_reg_births\"",
