@@ -12,11 +12,16 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
  
- "country-year/warehouse/fact/gdp_pc_usd_current_2015.csv": "fact.\"gdp_pc_usd_current_2015\"",
- "country-year/warehouse/fact/gdp_usd_current_2015.csv": "fact.\"gdp_usd_current_2015\"",
- "country-year/warehouse/fact/gni_2015.csv": "fact.\"gni_2015\"",
- "country-year/warehouse/fact/gni_pc_usd_current_2015.csv": "fact.\"gni_pc_usd_current_2015\"",
- "country-year/warehouse/fact/gni_usd_current_2015.csv": "fact.\"gni_usd_current_2015\"",
+ "country-year/warehouse/fact/gdp_usd_current.csv": "fact.\"gdp_usd_current\"", // WB
+ "country-year/warehouse/fact/gdp_usd_2015.csv": "fact.\"gdp_usd_2015\"", // WB
+ "country-year/warehouse/fact/gdp_pc_usd_current.csv": "fact.\"gdp_pc_usd_current\"", // WB
+ "country-year/warehouse/fact/gdp_pc_usd_2015.csv": "fact.\"gdp_pc_usd_2015\"", // WB
+ "country-year/warehouse/fact/gni_usd_current.csv": "fact.\"gni_usd_current\"", // WB
+ "country-year/warehouse/fact/gni_usd_2015.csv": "fact.\"gni_usd_2015\"", // WB
+ "country-year/warehouse/fact/gni_pc_usd_current.csv": "fact.\"gni_pc_usd_current\"", // WB
+ "country-year/warehouse/fact/gni_pc_usd_2015.csv": "fact.\"gni_pc_usd_2015\"", // WB
+ "country-year/warehouse/fact/gni.csv": "fact.\"gni\"", // OECD
+ "country-year/warehouse/fact/gni_2015.csv": "fact.\"gni_2015\"", // OECD
  "country-year/warehouse/fact/in_oda_gross_2015.csv": "fact.\"in_oda_gross_2015\"",
  "country-year/warehouse/fact/in_oda_net_2015.csv": "fact.\"in_oda_net_2015\"",
  "country-year/warehouse/fact/income_share_bottom_20pc.csv": "fact.\"income_share_bottom_20pc\"",
