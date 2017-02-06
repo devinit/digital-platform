@@ -171,8 +171,8 @@ exports.csv=
  "country-year/general-gov-health-exp.csv": "data_series.\"general_gov_health_exp\"",
  //Ranamed: "country-year/gov-revenue-pc-gdp.csv": "data_series.\"gov_revenue_pc_gdp\"",
  "country-year/govt-revenue-pc-gdp.csv": "data_series.\"govt_revenue_pc_gdp\"",
- // We are no longer to use govtspend-pc.csv, contact @elmetodo for details
- //"country-year/govtspend-pc.csv": "data_series.\"govtspend_pc\"",
+ //Renamed: "country-year/govtspend-pc.csv": "data_series.\"govtspend_pc\"",
+ "country-year/govt-spend-pc.csv": "data_series.\"govt_spend_pc\"",
  //Ranamed: "country-year/grants-pct-totalrevenue.csv": "data_series.\"grants_pct_totalrevenue\"",
  "country-year/grants-percent-total-revenue.csv": "data_series.\"grants_percent_total_revenue\"",
  "country-year/health-mis.csv": "data_series.\"health_mis\"",
