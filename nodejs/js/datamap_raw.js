@@ -93,8 +93,22 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
  
- //[Coming soon...]
+ "country-year/warehouse/donor_profile/disbursement_by_region_2015.csv": "donor_profile.\"disbursement_by_region_2015\"", 
+ "country-year/warehouse/donor_profile/donor_bundle_2015.csv": " donor_profile.\"donor_bundle_2015\"",
+ "country-year/warehouse/donor_profile/gni_per_capita_2015.csv": " donor_profile.\"gni_per_capita_2015\"",
+ "country-year/warehouse/donor_profile/loans_grants_2015.csv": " donor_profile.\"loans_grants_2015\"",
+ "country-year/warehouse/donor_profile/oda_per_capita_2015.csv": " donor_profile.\"oda_per_capita_2015\"",
+ "country-year/warehouse/donor_profile/recipient_bundle_2015.csv": " donor_profile.\"recipient_bundle_2015\"",
+ "country-year/warehouse/donor_profile/sectors_over_time_2015.csv": " donor_profile.\"sectors_over_time_2015\"",
  
+ // There are not ready yet
+ 
+ /*
+ "country-year/warehouse/donor_profile/oda_revenue_poverty_2015.csv": " donor_profile.\"oda_revenue_poverty_2015\"", // Formerly `bubble_chart_201x`
+ "country-year/warehouse/donor_profile/intl_resource_mix_by_region_2015.csv": " donor_profile.\"intl_resource_mix_by_region_2015\"", // Formerly `d14_region`
+ "country-year/warehouse/donor_profile/intl_resource_flows_targeting_2015.csv": " donor_profile.\"intl_resource_flows_targeting_2015\"", // Formerly `d15_flow`
+ */
+
  ///////////////////////////////////////////////////////////////////////////////
  //
  // Then get the data from the tables in the `multilateral_profile` schema
