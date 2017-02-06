@@ -221,7 +221,7 @@ exports.csv=
  //"country-year/profits-pct-fdi.csv": "data_series.\"profits_pct_fdi\"",
  "country-year/remittances.csv": "data_series.\"remittances\"",
  // Renamed: "country-year/rems-pp.csv": "data_series.\"rems_pp\"",
- "country-year/remittances-pp.csv": "data_series.\"rems_pp\"",
+ "country-year/remittances-pp.csv": "data_series.\"remittances_pp\"",
  "country-year/ssc-out.csv": "data_series.\"ssc_out\"",
  "country-year/ssc-percent-gni.csv": "data_series.\"ssc_percent_gni\"",
  "country-year/stat-capacity.csv": "data_series.\"stat_capacity\"",
