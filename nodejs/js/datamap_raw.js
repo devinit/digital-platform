@@ -221,7 +221,7 @@ exports.csv=
  //"country-year/profits-pct-fdi.csv": "data_series.\"profits_pct_fdi\"",
  "country-year/remittances.csv": "data_series.\"remittances\"",
  // Renamed: "country-year/rems-pp.csv": "data_series.\"rems_pp\"",
- "country-year/remittances-pp.csv": "data_series.\"rems_pp\"",
+// "country-year/remittances-pp.csv": "data_series.\"rems_pp\"", --missing table
  "country-year/ssc-out.csv": "data_series.\"ssc_out\"",
  "country-year/ssc-percent-gni.csv": "data_series.\"ssc_percent_gni\"",
  "country-year/stat-capacity.csv": "data_series.\"stat_capacity\"",
@@ -270,7 +270,7 @@ exports.csv=
  "country-year/spotlight-on-uganda/uganda-primary-sit-write.csv": "data_series.\"uganda_primary_sit_write\"",
  "country-year/spotlight-on-uganda/uganda-primary-sit-write-gov.csv": "data_series.\"uganda_primary_sit_write_gov\"",
  "country-year/spotlight-on-uganda/uganda-primary-stu-teach-ratio.csv": "data_series.\"uganda_primary_stu_teach_ratio\"",
- "country-year/spotlight-on-uganda/spotlight-on-uganda/uganda-primary-stu-teach-ratio-gov.csv": "data_series.\"uganda_primary_stu_teach_ratio_gov\"",
+ "country-year/spotlight-on-uganda/uganda-primary-stu-teach-ratio-gov.csv": "data_series.\"uganda_primary_stu_teach_ratio_gov\"",
  "country-year/spotlight-on-uganda/uganda-rural-safe-water.csv": "data_series.\"uganda_rural_safe_water\"",
  "country-year/spotlight-on-uganda/uganda-rural-water-func.csv": "data_series.\"uganda_rural_water_func\"",
  "country-year/spotlight-on-uganda/uganda-secondary-enrol.csv": "data_series.\"uganda_secondary_enrol\"",
