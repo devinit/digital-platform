@@ -32,12 +32,12 @@ to make sure that the data import sends the data to the right file in the right 
  ```
  ```
                       List of relations
-    Schema     |            Name               | Type  | Notes  
----------------+-------------------------------+-------+--------
- donor_profile | oda_revenue_poverty           | table | formerly `bubble_chart`, not ready
- donor_profile | oda_revenue_poverty_2015      | table | formerly `bubble_chart_201x`, not ready
- donor_profile | intl_resource_mix_by_region   | table | formerly `d14_region`, not ready
- donor_profile | intl_resource_flows_targeting | table | formerly `d15_flow`, not ready
+    Schema     |            Name                    | Type  | Notes  
+---------------+------------------------------------+-------+--------
+ donor_profile | oda_revenue_poverty                | table | formerly `bubble_chart`, not ready
+ donor_profile | oda_revenue_poverty_2015           | table | formerly `bubble_chart_201x`, not ready
+ donor_profile | intl_resource_mix_by_region_2015   | table | formerly `d14_region`, not ready
+ donor_profile | intl_resource_flows_targeting_2015 | table | formerly `d15_flow`, not ready
  ```
  ```
                        List of relations
