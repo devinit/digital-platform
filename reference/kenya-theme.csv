@@ -1,5 +1,5 @@
 id,name,default
-kenya-health,Health,kenya-pc-no-contra
-kenya-pop,Population,kenya-pop-pc-female
-kenya-infra,Infrastructure,kenya-electricity
-kenya-pov,Poverty,kenya-pov-gap
+kenya-health,Health,spotlight-on-kenya/kenya-pc-no-contra
+kenya-pop,Population,spotlight-on-kenya/kenya-pop-pc-female
+kenya-infra,Infrastructure,spotlight-on-kenya/kenya-electricity
+kenya-pov,Poverty,spotlight-on-kenya/kenya-pov-gap
