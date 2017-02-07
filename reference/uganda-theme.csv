@@ -1,7 +1,7 @@
 id,name,default
-uganda-poverty,Poverty,uganda-poverty-headcount
-uganda-pop,Population,uganda-urban-pop
-uganda-education,Education,uganda-primary-educ-funding
-uganda-health,Health,uganda-overall-health
-uganda-wash,Water and sanitation,uganda-rural-safe-water
-uganda-dist-resource,District public resources,uganda-local-percent
+uganda-poverty,Poverty,spotlight-on-uganda/uganda-poverty-headcount
+uganda-pop,Population,spotlight-on-uganda/uganda-urban-pop
+uganda-education,Education,spotlight-on-uganda/uganda-primary-educ-funding
+uganda-health,Health,spotlight-on-uganda/uganda-overall-health
+uganda-wash,Water and sanitation,spotlight-on-uganda/uganda-rural-safe-water
+uganda-dist-resource,District public resources,spotlight-on-uganda/uganda-local-percent
