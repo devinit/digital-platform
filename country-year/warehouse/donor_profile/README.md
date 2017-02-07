@@ -41,6 +41,7 @@ Automated:
  donor_profile | intl_resource_mix_by_region        | table | formerly `d14_region`, not ready
  donor_profile | intl_resource_flows_targeting      | table | formerly `d15_flow`, not ready
  ```
+ Reference and/or obsolete:
  ```
                        List of relations
     Schema     |            Name               | Type  | Notes  
