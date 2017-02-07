@@ -11,6 +11,8 @@ I will slowly try and clean up:
 
 to make sure that the data import sends the data to the right file in the right subfolder.
 
+Automated:
+
 ```
                       List of relations
     Schema     |            Name               | Type  | Notes  
@@ -30,13 +32,14 @@ to make sure that the data import sends the data to the right file in the right 
  donor_profile | sectors_over_time             | table | 
  donor_profile | sectors_over_time_2015        | table | 
  ```
+ By hand:
  ```
                       List of relations
     Schema     |            Name                    | Type  | Notes  
 ---------------+------------------------------------+-------+--------
  donor_profile | oda_revenue_poverty                | table | formerly `bubble_chart`, not ready
- donor_profile | intl_resource_mix_by_region_2015   | table | formerly `d14_region`, not ready
- donor_profile | intl_resource_flows_targeting_2015 | table | formerly `d15_flow`, not ready
+ donor_profile | intl_resource_mix_by_region        | table | formerly `d14_region`, not ready
+ donor_profile | intl_resource_flows_targeting      | table | formerly `d15_flow`, not ready
  ```
  ```
                        List of relations
