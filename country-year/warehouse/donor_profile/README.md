@@ -32,7 +32,7 @@ Automated:
  donor_profile | sectors_over_time             | table | 
  donor_profile | sectors_over_time_2015        | table | 
  ```
- By hand:
+ Manual:
  ```
                       List of relations
     Schema     |            Name                    | Type  | Notes  
