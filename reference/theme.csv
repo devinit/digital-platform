@@ -1,6 +1,6 @@
 id,name,default
 poorest20pct,Poverty,poorest-20-percent
-vulnerability,Vulnerability,climate-vulnerability
+vulnerability,Vulnerability,fragile-states
 dpf,Government finance,non-grant-revenue-ppp-pc
 intlmix,International finance,largest-intl-flow
 official,International official finance,warehouse/fact/in_oda_gross_2015
