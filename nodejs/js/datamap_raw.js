@@ -12,7 +12,6 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
- /*
  "country-year/warehouse/fact/gdp_usd_current.csv": "fact.\"gdp_usd_current\"", // WB
  "country-year/warehouse/fact/gdp_usd_2015.csv": "fact.\"gdp_usd_2015\"", // WB
  "country-year/warehouse/fact/gdp_pc_usd_current.csv": "fact.\"gdp_pc_usd_current\"", // WB
@@ -47,7 +46,7 @@ exports.csv=
  "country-year/warehouse/fact/population_total.csv": "fact.\"population_total\"",
  "country-year/warehouse/fact/population_urban.csv": "fact.\"population_urban\"",
  // Break the data from the `fact.oda_2015` table up into several files as the table contains 3,000,000+ rows
- //"country-year/warehouse/fact/oda_2015.csv": "fact.\"oda_2015\"",
+ //"country-year/warehouse/fact/oda_2015.csv": "fact.\"oda_2015\"", // This will dump all 3,000,000+ rows in one file!
  "country-year/warehouse/fact/oda.2015.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2015 ) sq ",
  "country-year/warehouse/fact/oda.2014.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2014 ) sq ",
  "country-year/warehouse/fact/oda.2013.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2013 ) sq ",
@@ -65,7 +64,6 @@ exports.csv=
  "country-year/warehouse/fact/oda.2001.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2001 ) sq ",
  "country-year/warehouse/fact/oda.2000.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2000 ) sq ",
  "country-year/warehouse/fact/oda.1999_1973.csv": " ( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year<=1999 ) sq ",
- */
 
  ///////////////////////////////////////////////////////////////////////////////
  //
@@ -78,14 +76,12 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
- /*
  "country-year/warehouse/recipient_profile/oda_per_capita_2015.csv": "recipient_profile.\"oda_per_capita_2015\"",
  "country-year/warehouse/recipient_profile/oda_per_capita_excl_non_transfer_2015.csv": "recipient_profile.\"oda_per_capita_excl_non_transfer_2015\"",
  "country-year/warehouse/recipient_profile/oda_per_percent_gdp.csv": "recipient_profile.\"oda_per_percent_gdp\"",
  "country-year/warehouse/recipient_profile/oda_per_percent_gdp_excl_non_transfer.csv": "recipient_profile.\"oda_per_percent_gdp_excl_non_transfer\"",
  "country-year/warehouse/recipient_profile/oda_per_poor_person_2015.csv": "recipient_profile.\"oda_per_poor_person_2015\"",
  "country-year/warehouse/recipient_profile/oda_per_poor_person_excl_non_transfer_2015.csv": "recipient_profile.\"oda_per_poor_person_excl_non_transfer_2015\"",
- */
 
  ///////////////////////////////////////////////////////////////////////////////
  //
@@ -98,7 +94,7 @@ exports.csv=
  ///////////////////////////////////////////////////////////////////////////////
 
  // Automated
- /*
+
  "country-year/warehouse/donor_profile/disbursement_by_region_2015.csv": "donor_profile.\"disbursement_by_region_2015\"",
  "country-year/warehouse/donor_profile/donor_bundle_2015.csv": " donor_profile.\"donor_bundle_2015\"",
  "country-year/warehouse/donor_profile/gni_per_capita_2015.csv": " donor_profile.\"gni_per_capita_2015\"",
@@ -106,7 +102,7 @@ exports.csv=
  "country-year/warehouse/donor_profile/oda_per_capita_2015.csv": " donor_profile.\"oda_per_capita_2015\"",
  "country-year/warehouse/donor_profile/recipient_bundle_2015.csv": " donor_profile.\"recipient_bundle_2015\"",
  "country-year/warehouse/donor_profile/sectors_over_time_2015.csv": " donor_profile.\"sectors_over_time_2015\"",
- */
+
  // Manual
 
  "country-year/warehouse/donor_profile/oda_revenue_poverty.csv": " donor_profile.\"oda_revenue_poverty\"", // Formerly `bubble_chart_201x`
@@ -146,94 +142,94 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
- // "country-year/agricultural-census.csv": "data_series.\"agricultural_census\"",
- // "country-year/avg-income-of-extreme-poor.csv": "data_series.\"avg_income_of_extreme_poor\"",
- // "country-year/civil-reg-births.csv": "data_series.\"civil_reg_births\"",
- // "country-year/civil-reg-deaths.csv": "data_series.\"civil_reg_deaths\"",
- // "country-year/climate-vulnerability.csv": "data_series.\"climate_vulnerability\"",
- // "country-year/dac-oda-percent-gni.csv": "data_series.\"dac_oda_percent_gni\"",
- // // Automated version: "country-year/fact/oda-percent-gni.csv": "fact.\"oda_percent_gni\"",
- // "country-year/dac-oda-to-ldcs-pc-gni.csv": "data_series.\"dac_oda_to_ldcs_pc_gni\"",
- // // Automated version: "country-year/fact/oda-to-ldcs-percent-gni.csv": "fact.\"oda_to_ldcs_percent_gni\"",
- // "country-year/depth-of-extreme-poverty.csv": "data_series.\"depth_of_extreme_poverty\"",
+ "country-year/agricultural-census.csv": "data_series.\"agricultural_census\"",
+ "country-year/avg-income-of-extreme-poor.csv": "data_series.\"avg_income_of_extreme_poor\"",
+ "country-year/civil-reg-births.csv": "data_series.\"civil_reg_births\"",
+ "country-year/civil-reg-deaths.csv": "data_series.\"civil_reg_deaths\"",
+ "country-year/climate-vulnerability.csv": "data_series.\"climate_vulnerability\"",
+ "country-year/dac-oda-percent-gni.csv": "data_series.\"dac_oda_percent_gni\"",
+ // Automated version: "country-year/fact/oda-percent-gni.csv": "fact.\"oda_percent_gni\"",
+ "country-year/dac-oda-to-ldcs-pc-gni.csv": "data_series.\"dac_oda_to_ldcs_pc_gni\"",
+ // Automated version: "country-year/fact/oda-to-ldcs-percent-gni.csv": "fact.\"oda_to_ldcs_percent_gni\"",
+ "country-year/depth-of-extreme-poverty.csv": "data_series.\"depth_of_extreme_poverty\"",
  "country-year/depth-of-extreme-poverty-190.csv": "data_series.\"depth_of_extreme_poverty_190\"",
- // "country-year/dev-coop-in-detail.csv": "data_series.\"dev_coop_in_detail\"",
- // "country-year/dfis-out.csv": "data_series.\"dfis_out\"",
- // "country-year/dfis-out-dev.csv": "data_series.\"dfis_out_dev\"",
- // "country-year/disbursement_by_region.csv": "data_series.\"disbursement_by_region\"",
- // "country-year/disbursement_by_region_2012.csv": "data_series.\"disbursement_by_region_2012\"",
- // "country-year/displacement.csv": "data_series.\"displacement\"",
+ "country-year/dev-coop-in-detail.csv": "data_series.\"dev_coop_in_detail\"",
+ "country-year/dfis-out.csv": "data_series.\"dfis_out\"",
+ "country-year/dfis-out-dev.csv": "data_series.\"dfis_out_dev\"",
+ "country-year/disbursement_by_region.csv": "data_series.\"disbursement_by_region\"",
+ "country-year/disbursement_by_region_2012.csv": "data_series.\"disbursement_by_region_2012\"",
+ "country-year/displacement.csv": "data_series.\"displacement\"",
  "country-year/domestic.csv": "data_series.\"domestic\"",
- // "country-year/domestic-sectors.csv": "data_series.\"domestic_sectors\"",
- // "country-year/educ-mis.csv": "data_series.\"educ_mis\"",
- // "country-year/evi.csv": "data_series.\"evi\"",
- // "country-year/fdi-out.csv": "data_series.\"fdi_out\"",
- // "country-year/fdi-percent-gdp.csv": "data_series.\"fdi_percent_gdp\"",
- // "country-year/fdi-pp.csv": "data_series.\"fdi_pp\"",
- // "country-year/forgotten_crisis.csv": "data_series.\"forgotten_crisis\"",
- // "country-year/fragile-states.csv": "data_series.\"fragile_states\"",
- // "country-year/general-gov-health-exp.csv": "data_series.\"general_gov_health_exp\"",
- // //Ranamed: "country-year/gov-revenue-pc-gdp.csv": "data_series.\"gov_revenue_pc_gdp\"",
- // "country-year/govt-revenue-pc-gdp.csv": "data_series.\"govt_revenue_pc_gdp\"",
- // //Renamed: "country-year/govtspend-pc.csv": "data_series.\"govtspend_pc\"",
+ "country-year/domestic-sectors.csv": "data_series.\"domestic_sectors\"",
+ "country-year/educ-mis.csv": "data_series.\"educ_mis\"",
+ "country-year/evi.csv": "data_series.\"evi\"",
+ "country-year/fdi-out.csv": "data_series.\"fdi_out\"",
+ "country-year/fdi-percent-gdp.csv": "data_series.\"fdi_percent_gdp\"",
+ "country-year/fdi-pp.csv": "data_series.\"fdi_pp\"",
+ "country-year/forgotten_crisis.csv": "data_series.\"forgotten_crisis\"",
+ "country-year/fragile-states.csv": "data_series.\"fragile_states\"",
+ "country-year/general-gov-health-exp.csv": "data_series.\"general_gov_health_exp\"",
+ //Ranamed: "country-year/gov-revenue-pc-gdp.csv": "data_series.\"gov_revenue_pc_gdp\"",
+ "country-year/govt-revenue-pc-gdp.csv": "data_series.\"govt_revenue_pc_gdp\"",
+ //Renamed: "country-year/govtspend-pc.csv": "data_series.\"govtspend_pc\"",
  "country-year/govt-spend-pc.csv": "data_series.\"govt_spend_pc\"",
- // //Ranamed: "country-year/grants-pct-totalrevenue.csv": "data_series.\"grants_pct_totalrevenue\"",
- // "country-year/grants-percent-total-revenue.csv": "data_series.\"grants_percent_total_revenue\"",
- // "country-year/health-mis.csv": "data_series.\"health_mis\"",
- // "country-year/human-hazard.csv": "data_series.\"human_hazard\"",
- // "country-year/in-ha.csv": "data_series.\"in_ha\"",
- // "country-year/in-oda-gross.csv": "data_series.\"in_oda_gross\"",
- // // Automated version: "country-year/fact/in-oda-gross.csv": "fact.\"in_oda_gross_2015\"",
- // "country-year/in-oda-net.csv": "data_series.\"in_oda_net\"",
- // // Automated version: "country-year/fact/in-oda-net.csv": "fact.\"in_oda_net_2015\"",
- // "country-year/in-oof-gross.csv": "data_series.\"in_oof_gross\"",
+ //Ranamed: "country-year/grants-pct-totalrevenue.csv": "data_series.\"grants_pct_totalrevenue\"",
+ "country-year/grants-percent-total-revenue.csv": "data_series.\"grants_percent_total_revenue\"",
+ "country-year/health-mis.csv": "data_series.\"health_mis\"",
+ "country-year/human-hazard.csv": "data_series.\"human_hazard\"",
+ "country-year/in-ha.csv": "data_series.\"in_ha\"",
+ "country-year/in-oda-gross.csv": "data_series.\"in_oda_gross\"",
+ // Automated version: "country-year/fact/in-oda-gross.csv": "fact.\"in_oda_gross_2015\"",
+ "country-year/in-oda-net.csv": "data_series.\"in_oda_net\"",
+ // Automated version: "country-year/fact/in-oda-net.csv": "fact.\"in_oda_net_2015\"",
+ "country-year/in-oof-gross.csv": "data_series.\"in_oof_gross\"",
  "country-year/intl-flows-donors.csv": "data_series.\"intl_flows_donors\"",
  "country-year/intl-flows-recipients.csv": "data_series.\"intl_flows_recipients\"",
- // "country-year/intl-outflows-donors.csv": "data_series.\"intl_outflows_donors\"",
- // "country-year/intl-resources-total-percent-gdp.csv": "data_series.\"intl_resources_total_percent_gdp\"",
- // "country-year/intlresources-total.csv": "data_series.\"intlresources_total\"",
- // "country-year/largest-intl-flow.csv": "data_series.\"largest_intl_flow\"",
- // "country-year/latest-census.csv": "data_series.\"latest_census\"",
- // "country-year/latest-hh-survey.csv": "data_series.\"latest_hh_survey\"",
- // "country-year/long-debt-disbursement-in.csv": "data_series.\"long_debt_disbursement_in\"",
- // "country-year/long-debt-net-official-in.csv": "data_series.\"long_debt_net_official_in\"",
- // "country-year/natural-hazard.csv": "data_series.\"natural_hazard\"",
- // //Renamed: "country-year/non-grant-revenue-ppp-capita.csv": "data_series.\"non_grant_revenue_ppp_capita\"",
- // "country-year/non-grant-revenue-ppp-pc.csv": "data_series.\"non_grant_revenue_ppp_pc\"",
- // "country-year/number-of-surveys.csv": "data_series.\"number_of_surveys\"",
- // "country-year/number-of-un-appeals.csv": "data_series.\"number_of_un_appeals\"",
- // "country-year/oda-capital-repayments.csv": "data_series.\"oda_capital_repayments\"",
- // "country-year/oda-interest-payments.csv": "data_series.\"oda_interest_payments\"",
- // "country-year/oda-per-poor-person.csv": "data_series.\"oda_per_poor_person\"",
- // // Automated version: "country-year/fact/oda_per_poor_person_2015.csv": "fact.\"oda_per_poor_person_2015\"",
- // "country-year/oda-percent-intl-resources.csv": "data_series.\"oda_percent_intl_resources\"",
- // "country-year/oof.csv": "data_series.\"oof\"",
- // "country-year/out-dac-oda-net.csv": "data_series.\"out_dac_oda_net\"",
- // // Automated version: "country-year/fact/out_oda_net_2015.csv": "fact.\"out_oda_net_2015\"",
- // "country-year/out-debt-relief.csv": "data_series.\"out_debt_relief\"",
- // // Automated version: "country-year/fact/out_debt_relief_2015.csv": "fact.\"out_debt_relief_2015\"",
- // "country-year/out-oof-net.csv": "data_series.\"out_oof_net\"",
- // "country-year/out-ssc-net.csv": "data_series.\"out_ssc_net\"",
- // "country-year/poor-people.csv": "data_series.\"poor_people\"",
- // "country-year/poor-people-190.csv": "data_series.\"poor_people_190\"",
- // // Renamed: "country-year/poorest20pct.csv": "data_series.\"2013_p20_population\"",
+ "country-year/intl-outflows-donors.csv": "data_series.\"intl_outflows_donors\"",
+ "country-year/intl-resources-total-percent-gdp.csv": "data_series.\"intl_resources_total_percent_gdp\"",
+ "country-year/intlresources-total.csv": "data_series.\"intlresources_total\"",
+ "country-year/largest-intl-flow.csv": "data_series.\"largest_intl_flow\"",
+ "country-year/latest-census.csv": "data_series.\"latest_census\"",
+ "country-year/latest-hh-survey.csv": "data_series.\"latest_hh_survey\"",
+ "country-year/long-debt-disbursement-in.csv": "data_series.\"long_debt_disbursement_in\"",
+ "country-year/long-debt-net-official-in.csv": "data_series.\"long_debt_net_official_in\"",
+ "country-year/natural-hazard.csv": "data_series.\"natural_hazard\"",
+ //Renamed: "country-year/non-grant-revenue-ppp-capita.csv": "data_series.\"non_grant_revenue_ppp_capita\"",
+ "country-year/non-grant-revenue-ppp-pc.csv": "data_series.\"non_grant_revenue_ppp_pc\"",
+ "country-year/number-of-surveys.csv": "data_series.\"number_of_surveys\"",
+ "country-year/number-of-un-appeals.csv": "data_series.\"number_of_un_appeals\"",
+ "country-year/oda-capital-repayments.csv": "data_series.\"oda_capital_repayments\"",
+ "country-year/oda-interest-payments.csv": "data_series.\"oda_interest_payments\"",
+ "country-year/oda-per-poor-person.csv": "data_series.\"oda_per_poor_person\"",
+ // Automated version: "country-year/fact/oda_per_poor_person_2015.csv": "fact.\"oda_per_poor_person_2015\"",
+ "country-year/oda-percent-intl-resources.csv": "data_series.\"oda_percent_intl_resources\"",
+ "country-year/oof.csv": "data_series.\"oof\"",
+ "country-year/out-dac-oda-net.csv": "data_series.\"out_dac_oda_net\"",
+ // Automated version: "country-year/fact/out_oda_net_2015.csv": "fact.\"out_oda_net_2015\"",
+ "country-year/out-debt-relief.csv": "data_series.\"out_debt_relief\"",
+ // Automated version: "country-year/fact/out_debt_relief_2015.csv": "fact.\"out_debt_relief_2015\"",
+ "country-year/out-oof-net.csv": "data_series.\"out_oof_net\"",
+ "country-year/out-ssc-net.csv": "data_series.\"out_ssc_net\"",
+ "country-year/poor-people.csv": "data_series.\"poor_people\"",
+ "country-year/poor-people-190.csv": "data_series.\"poor_people_190\"",
+ // Renamed: "country-year/poorest20pct.csv": "data_series.\"2013_p20_population\"",
  "country-year/poorest-20-percent.csv": "data_series.\"poorest_20_percent\"",
  // "country-year/poverty-125.csv": "data_series.\"poverty_125\"",
  "country-year/poverty-190.csv": "data_series.\"poverty_190\"",
- // "country-year/poverty-200.csv": "data_series.\"poverty_200\"",
- // "country-year/poverty-310.csv": "data_series.\"poverty_310\"",
- // // We are no longer to use profits-pct-fdi.csv, contact @cecilia-caio/@timstrawson for details
- // //"country-year/profits-pct-fdi.csv": "data_series.\"profits_pct_fdi\"",
- // "country-year/remittances.csv": "data_series.\"remittances\"",
- // // Renamed: "country-year/rems-pp.csv": "data_series.\"rems_pp\"",
- // "country-year/remittances-pp.csv": "data_series.\"remittances_pp\"",
- // "country-year/ssc-out.csv": "data_series.\"ssc_out\"",
- // "country-year/ssc-percent-gni.csv": "data_series.\"ssc_percent_gni\"",
- // "country-year/stat-capacity.csv": "data_series.\"stat_capacity\"",
- // //Ranamed: "country-year/total-revenue-pct-gdp.csv": "data_series.\"total_revenue_pct_gdp\"",
- // "country-year/total-revenue-percent-gdp.csv": "data_series.\"total_revenue_percent_gdp\"",
- // //Ranamed: "country-year/total-revenue-ppp-capita.csv": "data_series.\"total_revenue_ppp_capita\"",
- // "country-year/total-revenue-ppp-pc.csv": "data_series.\"total_revenue_ppp_pc\"",
+ "country-year/poverty-200.csv": "data_series.\"poverty_200\"",
+ "country-year/poverty-310.csv": "data_series.\"poverty_310\"",
+ // We are no longer to use profits-pct-fdi.csv, contact @cecilia-caio/@timstrawson for details
+ //"country-year/profits-pct-fdi.csv": "data_series.\"profits_pct_fdi\"",
+ "country-year/remittances.csv": "data_series.\"remittances\"",
+ // Renamed: "country-year/rems-pp.csv": "data_series.\"rems_pp\"",
+ "country-year/remittances-pp.csv": "data_series.\"remittances_pp\"",
+ "country-year/ssc-out.csv": "data_series.\"ssc_out\"",
+ "country-year/ssc-percent-gni.csv": "data_series.\"ssc_percent_gni\"",
+ "country-year/stat-capacity.csv": "data_series.\"stat_capacity\"",
+ //Ranamed: "country-year/total-revenue-pct-gdp.csv": "data_series.\"total_revenue_pct_gdp\"",
+ "country-year/total-revenue-percent-gdp.csv": "data_series.\"total_revenue_percent_gdp\"",
+ //Ranamed: "country-year/total-revenue-ppp-capita.csv": "data_series.\"total_revenue_ppp_capita\"",
+ "country-year/total-revenue-ppp-pc.csv": "data_series.\"total_revenue_ppp_pc\"",
 
  ///////////////////////////////////////////////////////////////////////////////
  //
