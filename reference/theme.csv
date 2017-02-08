@@ -2,7 +2,7 @@ id,name,default
 poorest20pct,Poverty,poorest_20_percent
 vulnerability,Vulnerability,climate-vulnerability
 dpf,Government finance,non-grant-revenue-ppp-pc
-intlmix,International resources,largest-intl-flow
+intlmix,International finance,largest-intl-flow
 official,International official finance,warehouse/fact/in_oda_gross_2015
 ha,Humanitarian finance,in-ha
 data-revolution,Data revolution,latest-census
