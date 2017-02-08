@@ -1,5 +1,5 @@
 id,name,default
-poorest20pct,Poverty,poorest_20_percent
+poorest20pct,Poverty,poorest-20-percent
 vulnerability,Vulnerability,climate-vulnerability
 dpf,Government finance,non-grant-revenue-ppp-pc
 intlmix,International finance,largest-intl-flow
