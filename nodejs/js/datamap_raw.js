@@ -168,7 +168,7 @@ exports.csv=
  "country-year/fdi-out.csv": "data_series.\"fdi_out\"",
  "country-year/fdi-percent-gdp.csv": "data_series.\"fdi_percent_gdp\"",
  "country-year/fdi-pp.csv": "data_series.\"fdi_pp\"",
- "country-year/forgotten_crisis.csv": "data_series.\"forgotten_crisis\"",
+ "country-year/forgotten-crisis.csv": "data_series.\"forgotten_crisis\"",
  "country-year/fragile-states.csv": "data_series.\"fragile_states\"",
  "country-year/general-gov-health-exp.csv": "data_series.\"general_gov_health_exp\"",
  //Ranamed: "country-year/gov-revenue-pc-gdp.csv": "data_series.\"gov_revenue_pc_gdp\"",
