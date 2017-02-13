@@ -1,7 +1,6 @@
 
 exports.csv=
 {
- /*
  ///////////////////////////////////////////////////////////////////////////////
  //
  // Start with the data in the tables in the `fact` schema
@@ -159,9 +158,7 @@ exports.csv=
  "country-year/disbursement_by_region.csv": "data_series.\"disbursement_by_region\"",
  "country-year/disbursement_by_region_2012.csv": "data_series.\"disbursement_by_region_2012\"",
  "country-year/displacement.csv": "data_series.\"displacement\"",
- */
  "country-year/domestic.csv": "data_series.\"domestic\"",
- /*
  "country-year/domestic-sectors.csv": "data_series.\"domestic_sectors\"",
  "country-year/educ-mis.csv": "data_series.\"educ_mis\"",
  "country-year/evi.csv": "data_series.\"evi\"",
@@ -323,7 +320,7 @@ exports.csv=
  "country-year/spotlight-on-kenya/kenya-treat-child-respir.csv": "data_series.\"kenya_treat_child_respir\"",
  "country-year/spotlight-on-kenya/kenya-urban-pop.csv": "data_series.\"kenya_urban_pop\"",
  "country-year/spotlight-on-kenya/kenya-weight-below-3sd.csv": "data_series.\"kenya_weight_below_3sd\"",
- */ 
+ 
  ///////////////////////////////////////////////////////////////////////////////
  //
  // And now all of these need sorting out...
