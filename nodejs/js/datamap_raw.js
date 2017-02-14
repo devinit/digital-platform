@@ -108,7 +108,8 @@ exports.csv=
  "country-year/warehouse/donor_profile/oda_revenue_poverty.csv": " donor_profile.\"oda_revenue_poverty\"", // Formerly `bubble_chart_201x`
  "country-year/warehouse/donor_profile/intl_resource_mix_by_region.csv": " donor_profile.\"intl_resource_mix_by_region\"", // Formerly `d14_region`
  "country-year/warehouse/donor_profile/intl_resource_flows_targeting.csv": " donor_profile.\"intl_resource_flows_targeting\"", // Formerly `d15_flow`
-
+ */
+ 
  ///////////////////////////////////////////////////////////////////////////////
  //
  // Then get the data from the tables in the `multilateral_profile` schema
@@ -118,9 +119,50 @@ exports.csv=
  // https://github.com/devinit/digital-platform/blob/development/country-year/warehouse/multilateral_profile/README.md
  //
  ///////////////////////////////////////////////////////////////////////////////
+ 
+ ///////////////////////////////////////////////////////////////////////////////
+ // You can run this query to get all the Java Script calls for the all tables in the schema `multilateral_profile`
+ /*
+ SELECT 
+     '"country-year/warehouse/multilateral_profile/' || 
+     table_name || 
+     '.csv": "' || 
+     table_schema || 
+     '.\"' || 
+     table_name || 
+     '\"",' 
+     AS "js_query"
+ FROM (
+     SELECT
+         table_schema
+         , table_name
+     FROM information_schema.tables
+     WHERE table_schema = 'multilateral_profile'
+     AND table_name LIKE '%_2012'
+ ) AS "multilateral_profile_files";
+ */
+ ///////////////////////////////////////////////////////////////////////////////
 
- //[Coming soon...]
+ "country-year/warehouse/multilateral_profile/earmarked_oda_by_donor_2012.csv": "multilateral_profile.\"earmarked_oda_by_donor_2012\"",
+ "country-year/warehouse/multilateral_profile/purpose_by_bundle_2012.csv": "multilateral_profile.\"purpose_by_bundle_2012\"",
+ "country-year/warehouse/multilateral_profile/oda_oof_trend_2012.csv": "multilateral_profile.\"oda_oof_trend_2012\"",
+ "country-year/warehouse/multilateral_profile/recipient_by_sector_by_parent_2012.csv": "multilateral_profile.\"recipient_by_sector_by_parent_2012\"",
+ "country-year/warehouse/multilateral_profile/oda_oof_flow_type_2012.csv": "multilateral_profile.\"oda_oof_flow_type_2012\"",
+ "country-year/warehouse/multilateral_profile/bundle_2012.csv": "multilateral_profile.\"bundle_2012\"",
+ "country-year/warehouse/multilateral_profile/oda_regional_2012.csv": "multilateral_profile.\"oda_regional_2012\"",
+ "country-year/warehouse/multilateral_profile/core_earmarked_oda_received_2012.csv": "multilateral_profile.\"core_earmarked_oda_received_2012\"",
+ "country-year/warehouse/multilateral_profile/core_oda_by_donor_2012.csv": "multilateral_profile.\"core_oda_by_donor_2012\"",
+ "country-year/warehouse/multilateral_profile/recipient_by_purpose_by_di_id_2012.csv": "multilateral_profile.\"recipient_by_purpose_by_di_id_2012\"",
+ "country-year/warehouse/multilateral_profile/sector_trend_2012.csv": "multilateral_profile.\"sector_trend_2012\"",
+ "country-year/warehouse/multilateral_profile/purpose_trend_2012.csv": "multilateral_profile.\"purpose_trend_2012\"",
+ "country-year/warehouse/multilateral_profile/sector_by_purpose_by_di_id_2012.csv": "multilateral_profile.\"sector_by_purpose_by_di_id_2012\"",
+ "country-year/warehouse/multilateral_profile/recipient_by_purpose_by_parent_2012.csv": "multilateral_profile.\"recipient_by_purpose_by_parent_2012\"",
+ "country-year/warehouse/multilateral_profile/sector_by_purpose_by_parent_2012.csv": "multilateral_profile.\"sector_by_purpose_by_parent_2012\"",
+ "country-year/warehouse/multilateral_profile/oda_revenue_poverty_2012.csv": "multilateral_profile.\"oda_revenue_poverty_2012\"",
+ "country-year/warehouse/multilateral_profile/recipient_by_sector_by_di_id_2012.csv": "multilateral_profile.\"recipient_by_sector_by_di_id_2012\"",
+ "country-year/warehouse/multilateral_profile/channel_2012.csv": "multilateral_profile.\"channel_2012\"",
 
+ /*
  ///////////////////////////////////////////////////////////////////////////////
  //
  // Then get the data from the tables in the `south_south_cooperation` schema
