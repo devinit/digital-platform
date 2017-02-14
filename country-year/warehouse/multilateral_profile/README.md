@@ -11,9 +11,44 @@ I will slowly try and clean up:
 
 to make sure that the data import sends the data to the right file in the right subfolder.
 
+Used with the .pdfs:
+
 ```
-[Coming soon...]
+                              List of relations
+        Schema        |                Name                 | Type  | Owner  
+----------------------+-------------------------------------+-------+--------
+ multilateral_profile | oda_oof_trend_2012                  | table | donata
+ multilateral_profile | oda_oof_flow_type_2012              | table | donata
+ multilateral_profile | bundle_2012                         | table | donata
+ multilateral_profile | oda_regional_2012                   | table | donata
+ multilateral_profile | core_oda_by_donor_2012              | table | donata
+ multilateral_profile | earmarked_oda_by_donor_2012         | table | donata
+ multilateral_profile | core_earmarked_oda_received_2012    | table | donata
+ multilateral_profile | sector_trend_2012                   | table | donata
+ multilateral_profile | sector_by_purpose_by_parent_2012    | table | donata
+ multilateral_profile | recipient_by_sector_by_parent_2012  | table | donata
+(10 rows)
 ```
+Chart under development in the .pdf:
+```
+                              List of relations
+        Schema        |                Name                 | Type  | Owner  
+----------------------+-------------------------------------+-------+--------
+ multilateral_profile | channel_2012                        | table | donata
+ multilateral_profile | oda_revenue_poverty_2012            | table | donata
+```
+Not used with the .pdfs & not under development:
+```
+                              List of relations
+        Schema        |                Name                 | Type  | Owner  
+----------------------+-------------------------------------+-------+--------
+ multilateral_profile | purpose_trend_2012                  | table | donata
+ multilateral_profile | purpose_by_bundle_2012              | table | donata
+ multilateral_profile | recipient_by_purpose_by_parent_2012 | table | donata
+ multilateral_profile | sector_by_purpose_by_di_id_2012     | table | donata
+ multilateral_profile | recipient_by_sector_by_di_id_2012   | table | donata
+ multilateral_profile | recipient_by_purpose_by_di_id_2012  | table | donata
+ ```
 
 # Conventions
 
