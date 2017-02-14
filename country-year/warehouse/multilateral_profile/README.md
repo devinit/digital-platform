@@ -36,6 +36,7 @@ Chart under development in the .pdf:
 ----------------------+-------------------------------------+-------+--------
  multilateral_profile | channel_2015                        | table | donata
  multilateral_profile | oda_revenue_poverty_2015            | table | donata
+(2 rows)
 ```
 Not used with the .pdfs & not under development:
 ```
@@ -48,6 +49,7 @@ Not used with the .pdfs & not under development:
  multilateral_profile | sector_by_purpose_by_di_id_2015     | table | donata
  multilateral_profile | recipient_by_sector_by_di_id_2015   | table | donata
  multilateral_profile | recipient_by_purpose_by_di_id_2015  | table | donata
+(6 rows)
  ```
 
 # Conventions
