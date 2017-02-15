@@ -67,9 +67,9 @@ Not used with the .pdfs & not under development:
  multilateral_profile | purpose_trend_2015                  | table | donata
  multilateral_profile | purpose_by_bundle_2015              | table | donata
  multilateral_profile | recipient_by_purpose_by_parent_2015 | table | donata
- multilateral_profile | sector_by_purpose_by_di_id_2015     | table | donata
- multilateral_profile | recipient_by_sector_by_di_id_2015   | table | donata
  multilateral_profile | recipient_by_purpose_by_di_id_2015  | table | donata
+ multilateral_profile | recipient_by_sector_by_di_id_2015   | table | donata
+ multilateral_profile | sector_by_purpose_by_di_id_2015     | table | donata
 (6 rows)
  ```
 
