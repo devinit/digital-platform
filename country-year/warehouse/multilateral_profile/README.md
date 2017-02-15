@@ -11,9 +11,7 @@ I will slowly try and clean up:
 
 to make sure that the data import sends the data to the right file in the right subfolder.
 
-You can run the query below to get all the Java Script calls for the all tables in the schema `multilateral_profile`.
-The Java Script calls go in the [datamap_raw.js](https://github.com/devinit/digital-platform/blob/development/nodejs/js/datamap_raw.js).
-
+You can run the query below to get all the Java Script calls for all the files that draw data from tables in the schema `multilateral_profile`. The Java Script calls go in the [datamap_raw.js](https://github.com/devinit/digital-platform/blob/development/nodejs/js/datamap_raw.js) file.
 ```
 SELECT
     '"country-year/warehouse/multilateral_profile/' ||
