@@ -28,7 +28,7 @@ FROM (
         , table_name
     FROM information_schema.tables
     WHERE table_schema = 'multilateral_profile'
-    AND table_name LIKE '%_2012'
+    AND table_name LIKE '%_2015'
 ) AS "multilateral_profile_files";
 ```
 
