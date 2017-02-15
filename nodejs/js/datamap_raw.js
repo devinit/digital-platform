@@ -1,7 +1,6 @@
-
 exports.csv=
 {
- /*
+
  ///////////////////////////////////////////////////////////////////////////////
  //
  // Start with the data in the tables in the `fact` schema
@@ -12,6 +11,7 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
+ /*
  "country-year/warehouse/fact/gdp_usd_current.csv": "fact.\"gdp_usd_current\"", // WB
  "country-year/warehouse/fact/gdp_usd_2015.csv": "fact.\"gdp_usd_2015\"", // WB
  "country-year/warehouse/fact/gdp_pc_usd_current.csv": "fact.\"gdp_pc_usd_current\"", // WB
@@ -47,23 +47,24 @@ exports.csv=
  "country-year/warehouse/fact/population_urban.csv": "fact.\"population_urban\"",
  // Break the data from the `fact.oda_2015` table up into several files as the table contains 3,000,000+ rows
  //"country-year/warehouse/fact/oda_2015.csv": "fact.\"oda_2015\"", // This will dump all 3,000,000+ rows in one file!
- "country-year/warehouse/fact/oda.2015.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2015 ) sq ",
- "country-year/warehouse/fact/oda.2014.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2014 ) sq ",
- "country-year/warehouse/fact/oda.2013.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2013 ) sq ",
- "country-year/warehouse/fact/oda.2012.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2012 ) sq ",
- "country-year/warehouse/fact/oda.2011.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2011 ) sq ",
- "country-year/warehouse/fact/oda.2010.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2010 ) sq ",
- "country-year/warehouse/fact/oda.2009.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2009 ) sq ",
- "country-year/warehouse/fact/oda.2008.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2008 ) sq ",
- "country-year/warehouse/fact/oda.2007.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2007 ) sq ",
- "country-year/warehouse/fact/oda.2006.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2006 ) sq ",
- "country-year/warehouse/fact/oda.2005.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2005 ) sq ",
- "country-year/warehouse/fact/oda.2004.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2004 ) sq ",
- "country-year/warehouse/fact/oda.2003.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2003 ) sq ",
- "country-year/warehouse/fact/oda.2002.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2002 ) sq ",
- "country-year/warehouse/fact/oda.2001.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2001 ) sq ",
- "country-year/warehouse/fact/oda.2000.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2000 ) sq ",
- "country-year/warehouse/fact/oda.1999_1973.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year<=1999 ) sq ",
+ "country-year/warehouse/fact/oda.2015.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2015 ) sq ",
+ "country-year/warehouse/fact/oda.2014.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2014 ) sq ",
+ "country-year/warehouse/fact/oda.2013.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2013 ) sq ",
+ "country-year/warehouse/fact/oda.2012.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2012 ) sq ",
+ "country-year/warehouse/fact/oda.2011.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2011 ) sq ",
+ "country-year/warehouse/fact/oda.2010.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2010 ) sq ",
+ "country-year/warehouse/fact/oda.2009.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2009 ) sq ",
+ "country-year/warehouse/fact/oda.2008.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2008 ) sq ",
+ "country-year/warehouse/fact/oda.2007.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2007 ) sq ",
+ "country-year/warehouse/fact/oda.2006.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2006 ) sq ",
+ "country-year/warehouse/fact/oda.2005.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2005 ) sq ",
+ "country-year/warehouse/fact/oda.2004.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2004 ) sq ",
+ "country-year/warehouse/fact/oda.2003.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2003 ) sq ",
+ "country-year/warehouse/fact/oda.2002.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2002 ) sq ",
+ "country-year/warehouse/fact/oda.2001.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2001 ) sq ",
+ "country-year/warehouse/fact/oda.2000.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2000 ) sq ",
+ "country-year/warehouse/fact/oda.1999_1973.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year<=1999 ) sq ",
+ */
 
  ///////////////////////////////////////////////////////////////////////////////
  //
@@ -76,12 +77,14 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
+ /*
  "country-year/warehouse/recipient_profile/oda_per_capita_2015.csv": "recipient_profile.\"oda_per_capita_2015\"",
  "country-year/warehouse/recipient_profile/oda_per_capita_excl_non_transfer_2015.csv": "recipient_profile.\"oda_per_capita_excl_non_transfer_2015\"",
  "country-year/warehouse/recipient_profile/oda_per_percent_gdp.csv": "recipient_profile.\"oda_per_percent_gdp\"",
  "country-year/warehouse/recipient_profile/oda_per_percent_gdp_excl_non_transfer.csv": "recipient_profile.\"oda_per_percent_gdp_excl_non_transfer\"",
  "country-year/warehouse/recipient_profile/oda_per_poor_person_2015.csv": "recipient_profile.\"oda_per_poor_person_2015\"",
  "country-year/warehouse/recipient_profile/oda_per_poor_person_excl_non_transfer_2015.csv": "recipient_profile.\"oda_per_poor_person_excl_non_transfer_2015\"",
+ */
 
  ///////////////////////////////////////////////////////////////////////////////
  //
@@ -93,6 +96,7 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
+ /*
  // Automated
 
  "country-year/warehouse/donor_profile/disbursement_by_region_2015.csv": "donor_profile.\"disbursement_by_region_2015\"",
@@ -120,49 +124,35 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
- ///////////////////////////////////////////////////////////////////////////////
- // You can run this query to get all the Java Script calls for the all tables in the schema `multilateral_profile`
  /*
- SELECT
-     '"country-year/warehouse/multilateral_profile/' ||
-     table_name ||
-     '.csv": "' ||
-     table_schema ||
-     '.\"' ||
-     table_name ||
-     '\"",'
-     AS "js_query"
- FROM (
-     SELECT
-         table_schema
-         , table_name
-     FROM information_schema.tables
-     WHERE table_schema = 'multilateral_profile'
-     AND table_name LIKE '%_2012'
- ) AS "multilateral_profile_files";
+ // Currently in use with the .pdf profile
+
+ "country-year/warehouse/multilateral_profile/oda_oof_trend_2015.csv": "multilateral_profile.\"oda_oof_trend_2015\"",
+ "country-year/warehouse/multilateral_profile/oda_oof_flow_type_2015.csv": "multilateral_profile.\"oda_oof_flow_type_2015\"",
+ "country-year/warehouse/multilateral_profile/bundle_2015.csv": "multilateral_profile.\"bundle_2015\"",
+ "country-year/warehouse/multilateral_profile/oda_regional_2015.csv": "multilateral_profile.\"oda_regional_2015\"",
+ "country-year/warehouse/multilateral_profile/core_oda_by_donor_2015.csv": "multilateral_profile.\"core_oda_by_donor_2015\"",
+ "country-year/warehouse/multilateral_profile/earmarked_oda_by_donor_2015.csv": "multilateral_profile.\"earmarked_oda_by_donor_2015\"",
+ "country-year/warehouse/multilateral_profile/core_earmarked_oda_received_2015.csv": "multilateral_profile.\"core_earmarked_oda_received_2015\"",
+ "country-year/warehouse/multilateral_profile/sector_trend_2015.csv": "multilateral_profile.\"sector_trend_2015\"",
+ "country-year/warehouse/multilateral_profile/sector_by_purpose_by_parent_2015.csv": "multilateral_profile.\"sector_by_purpose_by_parent_2015\"",
+ "country-year/warehouse/multilateral_profile/recipient_by_sector_by_parent_2015.csv": "multilateral_profile.\"recipient_by_sector_by_parent_2015\"",
+
+ // The .pdf profile charts that will use these are under development
+
+ "country-year/warehouse/multilateral_profile/channel_2015.csv": "multilateral_profile.\"channel_2015\"", // Automated
+ "country-year/warehouse/multilateral_profile/oda_revenue_poverty_2015.csv": "multilateral_profile.\"oda_revenue_poverty_2015\"", // Manual
+
+ // The .pdf profile charts that will use these are under development
+
+ "country-year/warehouse/multilateral_profile/purpose_trend_2015.csv": "multilateral_profile.\"purpose_trend_2015\"",
+ "country-year/warehouse/multilateral_profile/purpose_by_bundle_2015.csv": "multilateral_profile.\"purpose_by_bundle_2015\"",
+ "country-year/warehouse/multilateral_profile/recipient_by_purpose_by_parent_2015.csv": "multilateral_profile.\"recipient_by_purpose_by_parent_2015\"",
+ "country-year/warehouse/multilateral_profile/recipient_by_purpose_by_di_id_2015.csv": "multilateral_profile.\"recipient_by_purpose_by_di_id_2015\"",
+ "country-year/warehouse/multilateral_profile/recipient_by_sector_by_di_id_2015.csv": "multilateral_profile.\"recipient_by_sector_by_di_id_2015\"",
+ "country-year/warehouse/multilateral_profile/sector_by_purpose_by_di_id_2015.csv": "multilateral_profile.\"sector_by_purpose_by_di_id_2015\"",
  */
- ///////////////////////////////////////////////////////////////////////////////
- /*
- "country-year/warehouse/multilateral_profile/earmarked_oda_by_donor_2012.csv": "multilateral_profile.\"earmarked_oda_by_donor_2012\"",
- "country-year/warehouse/multilateral_profile/purpose_by_bundle_2012.csv": "multilateral_profile.\"purpose_by_bundle_2012\"",
- "country-year/warehouse/multilateral_profile/oda_oof_trend_2012.csv": "multilateral_profile.\"oda_oof_trend_2012\"",
- "country-year/warehouse/multilateral_profile/recipient_by_sector_by_parent_2012.csv": "multilateral_profile.\"recipient_by_sector_by_parent_2012\"",
- "country-year/warehouse/multilateral_profile/oda_oof_flow_type_2012.csv": "multilateral_profile.\"oda_oof_flow_type_2012\"",
- "country-year/warehouse/multilateral_profile/bundle_2012.csv": "multilateral_profile.\"bundle_2012\"",
- "country-year/warehouse/multilateral_profile/oda_regional_2012.csv": "multilateral_profile.\"oda_regional_2012\"",
- "country-year/warehouse/multilateral_profile/core_earmarked_oda_received_2012.csv": "multilateral_profile.\"core_earmarked_oda_received_2012\"",
- "country-year/warehouse/multilateral_profile/core_oda_by_donor_2012.csv": "multilateral_profile.\"core_oda_by_donor_2012\"",
- "country-year/warehouse/multilateral_profile/recipient_by_purpose_by_di_id_2012.csv": "multilateral_profile.\"recipient_by_purpose_by_di_id_2012\"",
- "country-year/warehouse/multilateral_profile/sector_trend_2012.csv": "multilateral_profile.\"sector_trend_2012\"",
- "country-year/warehouse/multilateral_profile/purpose_trend_2012.csv": "multilateral_profile.\"purpose_trend_2012\"",
- "country-year/warehouse/multilateral_profile/sector_by_purpose_by_di_id_2012.csv": "multilateral_profile.\"sector_by_purpose_by_di_id_2012\"",
- "country-year/warehouse/multilateral_profile/recipient_by_purpose_by_parent_2012.csv": "multilateral_profile.\"recipient_by_purpose_by_parent_2012\"",
- "country-year/warehouse/multilateral_profile/sector_by_purpose_by_parent_2012.csv": "multilateral_profile.\"sector_by_purpose_by_parent_2012\"",
- "country-year/warehouse/multilateral_profile/oda_revenue_poverty_2012.csv": "multilateral_profile.\"oda_revenue_poverty_2012\"",
- "country-year/warehouse/multilateral_profile/recipient_by_sector_by_di_id_2012.csv": "multilateral_profile.\"recipient_by_sector_by_di_id_2012\"",
- "country-year/warehouse/multilateral_profile/channel_2012.csv": "multilateral_profile.\"channel_2012\"",
- */
- /*
+
  ///////////////////////////////////////////////////////////////////////////////
  //
  // Then get the data from the tables in the `south_south_cooperation` schema
@@ -184,6 +174,7 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
+ /*
  "country-year/agricultural-census.csv": "data_series.\"agricultural_census\"",
  "country-year/avg-income-of-extreme-poor.csv": "data_series.\"avg_income_of_extreme_poor\"",
  "country-year/civil-reg-births.csv": "data_series.\"civil_reg_births\"",
@@ -283,94 +274,94 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
- "country-year/oda-donor/oda-adaptation-fund.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'adaptation-fund' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-AE.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'AE' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-afdb.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'afdb' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-afdf.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'afdf' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-arab-fund-afesd.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'arab-fund-afesd' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-asdb.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'asdb' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-asdb-special-funds.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'asdb-special-funds' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-AT.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'AT' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-AU.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'AU' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-badea.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'badea' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-BE.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'BE' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-BG.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'BG' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-CA.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'CA' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-cardb.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'cardb' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-ceb.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'ceb' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-CH.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'CH' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-cif.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'cif' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-CY.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'CY' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-CZ.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'CZ' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-DE.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'DE' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-DK.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'DK' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-EE.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'EE' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-ES.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'ES' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-EU.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'EU' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-fao.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'fao' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-FI.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'FI' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-FR.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'FR' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-gavi.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'gavi' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-GB.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'GB' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-gef.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'gef' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-gggi.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'gggi' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-global-fund.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'global-fund' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-GR.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'GR' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-HR.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'HR' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-HU.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'HU' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-iaea.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'iaea' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-ibrd.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'ibrd' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-ida.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'ida' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-idb.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'idb' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-idb-special-fund.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'idb-special-fund' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-IE.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'IE' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-ifad.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'ifad' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-IL.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'IL' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-imf-concessional-trust-funds.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'imf-concessional-trust-funds' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-international-labour-organisation.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'international-labour-organisation' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-IS.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'IS' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-islamic-dev-bank.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'islamic-dev-bank' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-IT.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'IT' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-JP.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'JP' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-KR.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'KR' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-KW.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'KW' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-KZ.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'KZ' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-LI.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'LI' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-LT.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'LT' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-LU.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'LU' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-LV.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'LV' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-montreal-protocol.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'montreal-protocol' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-MT.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'MT' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-NL.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'NL' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-NO.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'NO' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-nordic-dev-fund.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'nordic-dev-fund' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-NZ.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'NZ' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-ofid.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'ofid' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-osce.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'osce' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-PL.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'PL' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-PT.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'PT' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-RO.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'RO' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-RU.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'RU' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-SA.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'SA' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-SE.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'SE' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-SI.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'SI' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-SK.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'SK' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-TH.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'TH' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-TL.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'TL' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-TR.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'TR' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-TW.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'TW' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-unaids.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unaids' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-undp.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'undp' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-unece.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unece' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-unep.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unep' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-unfpa.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unfpa' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-unhcr.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unhcr' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-unicef.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unicef' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-unpbf.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unpbf' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-unrwa.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unrwa' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-US.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'US' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-wfp.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'wfp' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
- "country-year/oda-donor/oda-who.csv": "( SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'who' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-adaptation-fund.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'adaptation-fund' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-AE.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'AE' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-afdb.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'afdb' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-afdf.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'afdf' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-arab-fund-afesd.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'arab-fund-afesd' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-asdb.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'asdb' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-asdb-special-funds.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'asdb-special-funds' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-AT.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'AT' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-AU.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'AU' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-badea.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'badea' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-BE.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'BE' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-BG.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'BG' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-CA.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'CA' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-cardb.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'cardb' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-ceb.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'ceb' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-CH.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'CH' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-cif.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'cif' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-CY.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'CY' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-CZ.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'CZ' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-DE.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'DE' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-DK.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'DK' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-EE.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'EE' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-ES.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'ES' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-EU.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'EU' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-fao.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'fao' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-FI.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'FI' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-FR.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'FR' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-gavi.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'gavi' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-GB.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'GB' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-gef.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'gef' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-gggi.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'gggi' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-global-fund.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'global-fund' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-GR.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'GR' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-HR.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'HR' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-HU.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'HU' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-iaea.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'iaea' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-ibrd.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'ibrd' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-ida.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'ida' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-idb.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'idb' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-idb-special-fund.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'idb-special-fund' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-IE.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'IE' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-ifad.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'ifad' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-IL.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'IL' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-imf-concessional-trust-funds.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'imf-concessional-trust-funds' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-international-labour-organisation.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'international-labour-organisation' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-IS.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'IS' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-islamic-dev-bank.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'islamic-dev-bank' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-IT.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'IT' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-JP.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'JP' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-KR.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'KR' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-KW.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'KW' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-KZ.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'KZ' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-LI.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'LI' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-LT.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'LT' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-LU.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'LU' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-LV.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'LV' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-montreal-protocol.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'montreal-protocol' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-MT.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'MT' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-NL.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'NL' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-NO.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'NO' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-nordic-dev-fund.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'nordic-dev-fund' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-NZ.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'NZ' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-ofid.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'ofid' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-osce.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'osce' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-PL.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'PL' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-PT.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'PT' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-RO.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'RO' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-RU.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'RU' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-SA.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'SA' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-SE.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'SE' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-SI.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'SI' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-SK.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'SK' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-TH.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'TH' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-TL.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'TL' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-TR.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'TR' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-TW.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'TW' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-unaids.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unaids' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-undp.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'undp' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-unece.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unece' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-unep.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unep' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-unfpa.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unfpa' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-unhcr.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unhcr' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-unicef.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unicef' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-unpbf.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unpbf' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-unrwa.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'unrwa' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-US.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'US' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-wfp.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'wfp' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
+ "country-year/oda-donor/oda-who.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'who' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
 
  /*
  ///////////////////////////////////////////////////////////////////////////////
@@ -491,24 +482,24 @@ exports.csv=
  /*
  // This section is for all things ODA related i.e., `fact.oda`/the unbundling ODA visualisation data/oda*.csv
  // Added new file for the data where year = 2015
- "country-year/oda.2015.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2015 ) sq ",
+ "country-year/oda.2015.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2015 ) sq ",
  // Changed the source of data prior to 2015 as should now be taken from `fact.oda_2015` (2015 constant prices)
- "country-year/oda.2014.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2014 ) sq ",
- "country-year/oda.2013.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2013 ) sq ",
- "country-year/oda.2012.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2012 ) sq ",
- "country-year/oda.2011.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2011 ) sq ",
- "country-year/oda.2010.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2010 ) sq ",
- "country-year/oda.2009.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2009 ) sq ",
- "country-year/oda.2008.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2008 ) sq ",
- "country-year/oda.2007.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2007 ) sq ",
- "country-year/oda.2006.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2006 ) sq ",
- "country-year/oda.2005.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2005 ) sq ",
- "country-year/oda.2004.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2004 ) sq ",
- "country-year/oda.2003.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2003 ) sq ",
- "country-year/oda.2002.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2002 ) sq ",
- "country-year/oda.2001.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2001 ) sq ",
- "country-year/oda.2000.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year=2000 ) sq ",
- "country-year/oda.csv": "( SELECT from_di_id,to_di_id,year,sector,bundle,channel_web_id,value FROM fact.\"oda_2015\" WHERE year<=1999 ) sq ",
+ "country-year/oda.2014.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2014 ) sq ",
+ "country-year/oda.2013.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2013 ) sq ",
+ "country-year/oda.2012.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2012 ) sq ",
+ "country-year/oda.2011.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2011 ) sq ",
+ "country-year/oda.2010.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2010 ) sq ",
+ "country-year/oda.2009.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2009 ) sq ",
+ "country-year/oda.2008.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2008 ) sq ",
+ "country-year/oda.2007.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2007 ) sq ",
+ "country-year/oda.2006.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2006 ) sq ",
+ "country-year/oda.2005.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2005 ) sq ",
+ "country-year/oda.2004.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2004 ) sq ",
+ "country-year/oda.2003.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2003 ) sq ",
+ "country-year/oda.2002.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2002 ) sq ",
+ "country-year/oda.2001.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2001 ) sq ",
+ "country-year/oda.2000.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year=2000 ) sq ",
+ "country-year/oda.csv": "(SELECT from_di_id, to_di_id, year, sector, bundle, channel_web_id, value FROM fact.\"oda_2015\" WHERE year<=1999 ) sq ",
  */
 
  // These tables are used with the recipient profiles & have been moved to the `recipient_profile` schema
