@@ -11,6 +11,27 @@ I will slowly try and clean up:
 
 to make sure that the data import sends the data to the right file in the right subfolder.
 
+You can run this query to get all the Java Script calls for the all tables in the schema `multilateral_profile`:
+```
+SELECT
+    '"country-year/warehouse/multilateral_profile/' ||
+    table_name ||
+    '.csv": "' ||
+    table_schema ||
+    '.\"' ||
+    table_name ||
+    '\"",'
+    AS "js_query"
+FROM (
+    SELECT
+        table_schema
+        , table_name
+    FROM information_schema.tables
+    WHERE table_schema = 'multilateral_profile'
+    AND table_name LIKE '%_2012'
+) AS "multilateral_profile_files";
+```
+
 Used with the .pdfs:
 
 ```
