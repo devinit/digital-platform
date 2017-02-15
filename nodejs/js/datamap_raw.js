@@ -363,7 +363,6 @@ exports.csv=
  "country-year/oda-donor/oda-wfp.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'wfp' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
  "country-year/oda-donor/oda-who.csv": "(SELECT to_di_id, year, ROUND(SUM(value), 2) FROM fact.\"oda_2015\" WHERE from_di_id = 'who' GROUP BY to_di_id, year ODER BY year DESC, to_di_id ) sq",
 
- /*
  ///////////////////////////////////////////////////////////////////////////////
  //
  // Spotlight on Uganda (http://data.devinit.org/#!/spotlight-on-uganda)
@@ -373,6 +372,7 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
+ /*
  "country-year/spotlight-on-uganda/uganda-agri-percent.csv": "data_series.\"uganda_agri_percent\"",
  "country-year/spotlight-on-uganda/uganda-anc4-coverage.csv": "data_series.\"uganda_anc4_coverage\"",
  "country-year/spotlight-on-uganda/uganda-avg-house-size.csv": "data_series.\"uganda_avg_house_size\"",
@@ -418,7 +418,8 @@ exports.csv=
  "country-year/spotlight-on-uganda/uganda-urban-rural-pop.csv": "data_series.\"uganda_urban_rural_pop\"",
  "country-year/spotlight-on-uganda/uganda-wash-perf-score.csv": "data_series.\"uganda_wash_perf_score\"",
  "country-year/spotlight-on-uganda/uganda-water-source-comm-func.csv": "data_series.\"uganda_water_source_comm_func\"",
-
+ */
+ 
  ///////////////////////////////////////////////////////////////////////////////
  //
  // Spotlight on Kenya
@@ -428,7 +429,8 @@ exports.csv=
  // Until they are updated, there really is no need to reimport this data as it has not changed
  //
  ///////////////////////////////////////////////////////////////////////////////
-
+ 
+ /*
  "country-year/spotlight-on-kenya/kenya-births-pc-skilled.csv": "data_series.\"kenya_births_pc_skilled\"",
  "country-year/spotlight-on-kenya/kenya-electricity.csv": "data_series.\"kenya_electricity\"",
  "country-year/spotlight-on-kenya/kenya-fertility-rate.csv": "data_series.\"kenya_fertility_rate\"",
