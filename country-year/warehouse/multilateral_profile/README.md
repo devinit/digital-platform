@@ -56,7 +56,7 @@ Chart under development in the .pdf:
         Schema        |                Name                 | Type  | Owner  
 ----------------------+-------------------------------------+-------+--------
  multilateral_profile | channel_2015                        | table | donata
- multilateral_profile | oda_revenue_poverty_2015            | table | donata
+ multilateral_profile | oda_revenue_poverty                 | table | donata ← Manual
 (2 rows)
 ```
 Not used with the .pdfs & not under development:
