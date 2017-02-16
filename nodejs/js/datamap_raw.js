@@ -124,7 +124,7 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
- /*
+ 
  // Currently in use with the .pdf profile
 
  "country-year/warehouse/multilateral_profile/oda_oof_trend_2015.csv": "multilateral_profile.\"oda_oof_trend_2015\"",
@@ -141,8 +141,9 @@ exports.csv=
  // The .pdf profile charts that will use these are under development
 
  "country-year/warehouse/multilateral_profile/channel_2015.csv": "multilateral_profile.\"channel_2015\"", // Automated
- "country-year/warehouse/multilateral_profile/oda_revenue_poverty_2015.csv": "multilateral_profile.\"oda_revenue_poverty_2015\"", // Manual
+ "country-year/warehouse/multilateral_profile/oda_revenue_poverty.csv": "multilateral_profile.\"oda_revenue_poverty\"", // Manual
 
+ /*
  // The .pdf profile charts that will use these are under development
 
  "country-year/warehouse/multilateral_profile/purpose_trend_2015.csv": "multilateral_profile.\"purpose_trend_2015\"",
