@@ -15,7 +15,7 @@ long-debt-comm-amt-out,Long term debt,,out,recipient,commercial,,1,Capital repay
 long-debt-comm-int-out,Long term debt,,out,recipient,commercial,,2,Interest payments on long-term debt (commercial sources),darklightblue-high,Interest payments on long-term debt from commercial sources,World Bank International Debt Statistics,Interest payments
 long-debt-disbursement-in,Long term debt,7,in,recipient,commercial,1,,Long-term debt (commercial sources),darklightblue-high,Disbursments of long-term debt from commercial creditors,World Bank International Debt Statistics,Disbursements
 long-debt-interest-payments-out,Long term debt,7,out,recipient,commercial,,2,Interest payments on long-term debt,darklightblue-high,Interest payments on long-term debt,World Bank International Debt Statistics,Interest payments
-long-debt-net-official-in,Long term debt,4,in,recipient,official,1,,Long-term debt (official sources),darklightblue-mid,"Disbursments of long-term debt from official creditors, excluding disbursements reported as ODA or OOFs",World Bank International Debt Statistics,Disbursements
+long-debt-net-official-in,Long term debt,4,in,recipient,official,1,,Long-term debt (official sources),darklightblue-low,"Disbursments of long-term debt from official creditors, excluding disbursements reported as ODA or OOFs",World Bank International Debt Statistics,Disbursements
 long-debt-off-amt-out,Long term debt,,out,recipient,official,,1,Capital repayments on long-term debt (official sources),darklightblue-mid,Capital repayments on long-term debt from official sources,World Bank International Debt Statistics; OECD DAC Table 2a; OECD DAC Table 2b,Capital repayments
 long-debt-off-int-out,Long term debt,,out,recipient,official,,2,Interest payments on long-term debt (official sources),darklightblue-mid,Interest payments on long-term debt from official sources,World Bank International Debt Statistics; OECD DAC Table 2a; OECD DAC Table 2b,Interest payments
 net-portfolio-equity-in,Portfolio equity,6,in,recipient,commercial,1,,Portfolio equity,yellow-mid,,,Net inflows
@@ -31,7 +31,7 @@ oda-out,ODA,1,out,donor,official,,1,Official development assistance,red-high,Off
 oda-regions,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to regions,OECD DAC,Gross disbursements to regions
 oofs-capital-payments-out,OOFs,2,out,recipient,official,,1,Capital repayments on OOFs loans,lightblue-high,,OECD DAC,Capital repayments
 oofs-capital-repay,OOFs,2,in,donor,official,1,,Capital repayments on OOFs loans,lightblue-high,Receipt of capital repayments on OOF loans,OECD DAC,Capital repayments
-oofs-in,OOFs,2,in,recipient,official,1,,Other official flows,lightblue-high,,OECD DAC,Gross disbursements
+oofs-in,OOFs,2,in,recipient,official,1,,Other official flows,lightblue-low,,OECD DAC,Gross disbursements
 oofs-individual-devcountries,OOFs,,out,donor,official,,,Other official flows,lightblue-high,Other official flows to individual developing countries,OECD DAC,Gross disbursements by developing country
 oofs-interest,OOFs,2,in,donor,official,2,,Interest payments on OOFs loans,lightblue-high,Receipt of interest payments on OOF loans,OECD DAC,Interest payments
 oofs-interest-payments-out,OOFs,2,out,recipient,official,,2,Interest payments on OOFs loans,lightblue-high,,OECD DAC,Interest payments
