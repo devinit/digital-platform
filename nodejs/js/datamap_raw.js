@@ -68,6 +68,41 @@ exports.csv=
 
  ///////////////////////////////////////////////////////////////////////////////
  //
+ // The get the data from the tables in the `dimension` schema
+ // These reference tables are automated & maintained (updated 4 times a year)
+ // The full list of all the table in the `dimension` schema is here:
+ // https://github.com/devinit/digital-platform/blob/development/country-year/warehouse/fact/README.md
+ //
+ ///////////////////////////////////////////////////////////////////////////////
+
+ "country-year/warehouse/dimension/iso_3166_1.csv": "dimension.\"iso_3166_1\"",
+ "country-year/warehouse/dimension/di_id.csv": "dimension.\"di_id\"",
+ "country-year/warehouse/dimension/di_id_to_iso_3166_1_map.csv": "dimension.\"di_id_to_iso_3166_1_map\"",
+ "country-year/warehouse/dimension/oecd_donor.csv": "dimension.\"oecd_donor\"",
+ "country-year/warehouse/dimension/oecd_loc_donor.csv": "dimension.\"oecd_loc_donor\"",
+ "country-year/warehouse/dimension/oecd_crs_donor.csv": "dimension.\"oecd_crs_donor\"",
+ "country-year/warehouse/dimension/oecd_dac_1_donor.csv": "dimension.\"oecd_dac_1_donor\"",
+ "country-year/warehouse/dimension/oecd_dac_2a_donor .csv": "dimension.\"oecd_dac_2a_donor\"",
+ "country-year/warehouse/dimension/oecd_dac_2b_donor .csv": "dimension.\"oecd_dac_2b_donor\"",
+ "country-year/warehouse/dimension/oecd_donor_to_di_id_map .csv": "dimension.\"oecd_donor_to_di_id_map\"",
+ "country-year/warehouse/dimension/oecd_donor_to_iso_3166_1_map.csv": "dimension.\"oecd_donor_to_iso_3166_1_map\"",
+ "country-year/warehouse/dimension/oecd_donor_type .csv": "dimension.\"oecd_donor_type\"",
+ "country-year/warehouse/dimension/oecd_recipient.csv": "dimension.\"recipient\"",
+ "country-year/warehouse/dimension/oecd_loc_recipient.csv": "dimension.\"oecd_loc_recipient\"",
+ "country-year/warehouse/dimension/oecd_crs_recipient.csv": "dimension.\"oecd_crs_recipient\"",
+ "country-year/warehouse/dimension/oecd_dac_2a_recipient .csv": "dimension.\"oecd_dac_2a_recipient\"",
+ "country-year/warehouse/dimension/oecd_dac_2b_recipient .csv": "dimension.\"oecd_dac_2b_recipient\"",
+ "country-year/warehouse/dimension/oecd_recipient_to_di_id_map .csv": "dimension.\"oecd_recipient_to_di_id_map\"",
+ "country-year/warehouse/dimension/oecd_recipient_to_iso_3166_1_map.csv": "dimension.\"oecd_recipient_to_iso_3166_1_map\"",
+ "country-year/warehouse/dimension/oecd_recipient_income_group .csv": "dimension.\"oecd_recipient_income_group\"",
+ "country-year/warehouse/dimension/imf_weo_country .csv": "dimension.\"imf_weo_country\"",
+ "country-year/warehouse/dimension/imf_weo_country_to_di_id_map.csv": "dimension.\"imf_weo_country_to_di_id_map\"",
+ "country-year/warehouse/dimension/wb_wdi_country.csv": "dimension.\"wb_wdi_country\"",
+ "country-year/warehouse/dimension/wb_wdi_country_to_di_id_map .csv": "dimension.\"wb_wdi_country_to_di_id_map\"",
+ "country-year/warehouse/dimension/wb_wdi_country_to_imf_weo_country_map .csv": "dimension.\"wb_wdi_country_to_imf_weo_country_map\"",
+
+ ///////////////////////////////////////////////////////////////////////////////
+ //
  // Then get the data from the tables in the `recipient_profile` schema
  // They are automated & maintained (updated 4 times a year) & used mostly for the country profiles on the DH site where a country is a recipient
  // Where relevant, fetch the data from the constant price tables as the current price versions are not being used
