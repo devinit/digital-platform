@@ -80,7 +80,7 @@ All of these tables are stored in the `dimension` shema in the ddw DB on 213.168
 
 # Conventions
 
-None of note so far.
+[Coming soon...]
 
 # Issues
 
