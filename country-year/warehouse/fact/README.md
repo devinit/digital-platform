@@ -1,7 +1,7 @@
 # `fact`
 
 
-This folder has been cleaned and contains no obsolete files. However, not all files in this folder may be in use with the DH web app.
+This folder has been cleaned and contains no obsolete files. However, not all files in this folder may be in usein the DH.
 
 ---
 
