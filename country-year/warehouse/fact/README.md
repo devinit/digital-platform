@@ -1,5 +1,10 @@
 # `fact`
 
+
+This folder has been cleaned and contains no obsolete files. However, not all files in this folder may be in use with the DH web app.
+
+---
+
 Here is a list of all the tables that were developed to support the various visualisation displayed by the DH.
 All of these tables are stored in the `fact` shema in the ddw DB on 213.168.251.124.
 
