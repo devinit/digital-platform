@@ -163,7 +163,11 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
-
+ // Reference table
+ 
+ "country-year/warehouse/multilateral_profile/master_multilateral_donor.csv": "multilateral_profile.\"master_multilateral_donor\"",
+ "country-year/warehouse/multilateral_profile/mums_multilateral_donor.csv": "multilateral_profile.\"mums_multilateral_donor\"",
+ 
  // Currently in use with the .pdf profile
 
  "country-year/warehouse/multilateral_profile/oda_oof_trend_2015.csv": "multilateral_profile.\"oda_oof_trend_2015\"",
