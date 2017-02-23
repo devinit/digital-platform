@@ -1,6 +1,6 @@
 # digital-platform
 
-This repositry feeds the Development Data Hub web app: http://data.devinit.org/#!/.
+This repository feeds the Development Data Hub web app: http://data.devinit.org/#!/.
 
 ---
 
