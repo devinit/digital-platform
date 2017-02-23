@@ -4,6 +4,8 @@ This repository feeds the MongoDB DB that feeds the Development Data Hub web app
 
 ---
 
+# Strucutre of the repository
+
 - [country-year](https://github.com/devinit/digital-platform/tree/development/country-year): contains raw data .csv files for the visualisations & charts. **Only files that the Development Data Hub web app uses/needs should be stored here**. A raw data .csv files found in this folder is either created by an analyst ('manual'), or is 'automated' i.e., populated from a table in a DB. The DB is maintained and updated 4 times a year. Not all manual files are maintained and if they are, then only once a year.
 - [reference](https://github.com/devinit/digital-platform/tree/development/reference): contains reference files. 
 - [nodejs](https://github.com/devinit/digital-platform/tree/development/nodejs): contains a small node app to import data from a PostgreSQL DB to the local .csv files in country-year.
