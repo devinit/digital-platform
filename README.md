@@ -24,6 +24,6 @@ This repository feeds the MongoDB DB that feeds the Development Data Hub web app
 
 3) Development Data Hub site map that shows the location where each .csv from [country-year](https://github.com/devinit/digital-platform/tree/development/country-year) is used is missing. This document should also state who the analyst responsible for each manually created file is. All .csv files populated from the PostgreSQL DB are looked after by @dw8547.
 
----
+# Staging
 
 Staging data is currently auto deployed on a server at http://data.devinit.org:8888/#!/.
