@@ -73,12 +73,12 @@ Each table needs to be mapped to the location on the DH where it is being used.
 
 There are a few naming issues that need to be resolved here:
 
-1) `gdp_pc_usd_current` → `gdp_pc`: 'usd' & 'current' superfluous, data in current prices & US$ is standard
+1) `gdp_pc_usd_current` → `gdp_pc`: 'usd' & 'current' superfluous, data in current prices & US$ is standard + clarify source (WB WDI)
 
 2) `gdp_usd_current` → `gdp`: same as 1)
 
-3) `gni_pc_usd_current` `gni_pc_wb`: same as 1) + clarify source
+3) `gni_pc_usd_current` `gni_pc_wb`: same as 1) + clarify source (WB WDI)
 
-3) `gni_usd_current` `gni_wb`: same as 1) + clarify source
+3) `gni_usd_current` `gni_wb`: same as 1) + clarify source (WB WDI)
 
-3) `gni` → `gni_oecd`: clarify source
+3) `gni` → `gni_oecd`: clarify source (OECD)
