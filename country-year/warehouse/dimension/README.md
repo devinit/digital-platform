@@ -84,4 +84,4 @@ All of these tables are stored in the `dimension` shema in the ddw DB on 213.168
 
 # Issues
 
-None of note so far.
+1) Import of these tables fails: https://github.com/devinit/digital-platform/issues/255.
