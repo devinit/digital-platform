@@ -23,8 +23,7 @@ cmd.defaults=function(argv)
 
 // how/where to connect to postgres
 	argv.database	=	argv.database||
-						process.env.warehouse_database||
-						"postgres://readonly:test123@213.168.251.124:5433/ddw";
+						process.env.warehouse_database;
 
 // where to store the csv output files
 	argv.csvdir		=	argv.cache||
