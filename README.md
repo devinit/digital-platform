@@ -16,13 +16,13 @@ The Development Data Hub web app repository (staging branch) is here: https://gi
  - [spotlight-on-kenya](https://github.com/devinit/digital-platform/tree/development/country-year/spotlight-on-kenya): NOT IN USE AT THE MOMENT
  - [spotlight-on-uganda](https://github.com/devinit/digital-platform/tree/development/country-year/spotlight-on-uganda): http://data.devinit.org:8888/#!/ → Spotlight on Uganda or http://data.devinit.org:8888/#!/spotlight-on-uganda
  - [warehouse](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse): http://data.devinit.org:8888/#!/ → Global Picture + Country Profiles + Unbundling Aid
-   - [data_series](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/data_series): manual raw data files that support more or less all visualisations/chart on the DH
-   - [dimension](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/dimension): automated reference files
-   - [donor_profile](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/donor_profile): automated raw data files used with a country profile if a country is a donor
-   - [fact](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/fact): automated raw data files
-   - [multilateral_profile](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/multilateral_profile): automated raw data files used with a multilateral profile
-   - [recipient_profile](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/recipient_profile): automated raw data files used with a country profile if a country is a recipient
-   - [south_south_cooperation](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/south_south_cooperation): automated raw data files used with a south-south cooperation profile
+    - [data_series](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/data_series): manual raw data files that support more or less all visualisations/chart on the DH
+    - [dimension](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/dimension): automated reference files
+    - [donor_profile](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/donor_profile): automated raw data files used with a country profile if a country is a donor
+    - [fact](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/fact): automated raw data files
+    - [multilateral_profile](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/multilateral_profile): automated raw data files used with a multilateral profile
+    - [recipient_profile](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/recipient_profile): automated raw data files used with a country profile if a country is a recipient
+    - [south_south_cooperation](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/south_south_cooperation): automated raw data files used with a south-south cooperation profile
 - [reference](https://github.com/devinit/digital-platform/tree/development/reference): contains reference files. 
 - [nodejs](https://github.com/devinit/digital-platform/tree/development/nodejs): contains a small node app to import data from a PostgreSQL DB to the local .csv files in country-year.
 - [user-daya](https://github.com/devinit/digital-platform/tree/development/user-data): contains raw data .csv & .xlsx files that are linked to http://data.devinit.org:8888/#!/data/methodology/. This is where the users can download the data from. This folder is populated using @akmiller01's [user-data2.R](https://github.com/akmiller01/alexm-util/blob/master/DevInit/R/user-data2.R). **As of Janury 2017, this folder is out of date & requires maintenance**.
