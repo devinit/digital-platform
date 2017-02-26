@@ -78,8 +78,8 @@ exports.csv=
  "country-year/warehouse/dimension/iso_3166_1.csv": "dimension.\"iso_3166_1\"",
  // This table trips the import up. Can't see an obvious reason why.
  // Anything to do with the fact that it is called "di_id"?
-/*  "country-year/warehouse/dimension/di_id.csv": "dimension.\"di_id\"",
- "country-year/warehouse/dimension/di_id_to_iso_3166_1_map.csv": "dimension.\"di_id_to_iso_3166_1_map\"",
+ "country-year/warehouse/dimension/di_id.csv": "(SELECT * FROM dimension.\"di_id\") sq",
+ "country-year/warehouse/dimension/di_id_to_iso_3166_1_map.csv": "(SELECT * FROM dimension.\"di_id_to_iso_3166_1_map\") sq",
  "country-year/warehouse/dimension/oecd_donor.csv": "dimension.\"oecd_donor\"",
  "country-year/warehouse/dimension/oecd_loc_donor.csv": "dimension.\"oecd_loc_donor\"",
  "country-year/warehouse/dimension/oecd_crs_donor.csv": "dimension.\"oecd_crs_donor\"",
@@ -102,7 +102,7 @@ exports.csv=
  "country-year/warehouse/dimension/wb_wdi_country.csv": "dimension.\"wb_wdi_country\"",
  "country-year/warehouse/dimension/wb_wdi_country_to_di_id_map.csv": "dimension.\"wb_wdi_country_to_di_id_map\"",
  "country-year/warehouse/dimension/wb_wdi_country_to_imf_weo_country_map.csv": "dimension.\"wb_wdi_country_to_imf_weo_country_map\""
-*/
+
  ///////////////////////////////////////////////////////////////////////////////
  //
  // Then get the data from the tables in the `recipient_profile` schema
@@ -162,9 +162,10 @@ exports.csv=
  ///////////////////////////////////////////////////////////////////////////////
 
  // Reference table
-
+ /*
  "country-year/warehouse/multilateral_profile/master_multilateral_donor.csv": "multilateral_profile.\"master_multilateral_donor\"",
  "country-year/warehouse/multilateral_profile/mums_multilateral_donor.csv": "multilateral_profile.\"mums_multilateral_donor\"",
+ */
 
  // Currently in use with the .pdf profile
  /*
@@ -181,15 +182,13 @@ exports.csv=
  */
 
  // The .pdf profile charts that will use these are under development
-
  /*
  "country-year/warehouse/multilateral_profile/channel_2015.csv": "multilateral_profile.\"channel_2015\"", // Automated
  "country-year/warehouse/multilateral_profile/oda_revenue_poverty.csv": "multilateral_profile.\"oda_revenue_poverty\"", // Manual
  */
 
- /*
  // The .pdf profile charts that will use these are under development
-
+ /*
  "country-year/warehouse/multilateral_profile/purpose_trend_2015.csv": "multilateral_profile.\"purpose_trend_2015\"",
  "country-year/warehouse/multilateral_profile/purpose_by_bundle_2015.csv": "multilateral_profile.\"purpose_by_bundle_2015\"",
  "country-year/warehouse/multilateral_profile/recipient_by_purpose_by_parent_2015.csv": "multilateral_profile.\"recipient_by_purpose_by_parent_2015\"",
@@ -323,6 +322,7 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
+ /*
  "country-year/oda-donor/oda-adaptation-fund.csv": "(SELECT to_di_id, year, ROUND\(SUM\(value\), 2\) FROM fact.\"oda_2015\" WHERE from_di_id = 'adaptation-fund' GROUP BY to_di_id, year ORDER BY year DESC, to_di_id) sq",
  "country-year/oda-donor/oda-AE.csv": "(SELECT to_di_id, year, ROUND\(SUM\(value\), 2\) FROM fact.\"oda_2015\" WHERE from_di_id = 'AE' GROUP BY to_di_id, year ORDER BY year DESC, to_di_id) sq",
  "country-year/oda-donor/oda-afdb.csv": "(SELECT to_di_id, year, ROUND\(SUM\(value\), 2\) FROM fact.\"oda_2015\" WHERE from_di_id = 'afdb' GROUP BY to_di_id, year ORDER BY year DESC, to_di_id) sq",
@@ -411,6 +411,7 @@ exports.csv=
  "country-year/oda-donor/oda-US.csv": "(SELECT to_di_id, year, ROUND\(SUM\(value\), 2\) FROM fact.\"oda_2015\" WHERE from_di_id = 'US' GROUP BY to_di_id, year ORDER BY year DESC, to_di_id) sq",
  "country-year/oda-donor/oda-wfp.csv": "(SELECT to_di_id, year, ROUND\(SUM\(value\), 2\) FROM fact.\"oda_2015\" WHERE from_di_id = 'wfp' GROUP BY to_di_id, year ORDER BY year DESC, to_di_id) sq",
  "country-year/oda-donor/oda-who.csv": "(SELECT to_di_id, year, ROUND\(SUM\(value\), 2\) FROM fact.\"oda_2015\" WHERE from_di_id = 'who' GROUP BY to_di_id, year ORDER BY year DESC, to_di_id) sq",
+ */
 
  ///////////////////////////////////////////////////////////////////////////////
  //
