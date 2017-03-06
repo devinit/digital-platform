@@ -31,7 +31,7 @@ oda-out,ODA,1,out,donor,official,,1,Official development assistance,red-high,Off
 oda-regions,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to regions,OECD DAC,Gross disbursements to regions
 oofs-capital-payments-out,OOFs,2,out,recipient,official,,1,Capital repayments on OOFs loans,lightblue-high,,OECD DAC,Capital repayments
 oofs-capital-repay,OOFs,2,in,donor,official,1,,Capital repayments on OOFs loans,lightblue-high,Receipt of capital repayments on OOF loans,OECD DAC,Capital repayments
-oofs-in,OOFs,2,in,recipient,official,1,,Other official flows,lightblue-low,,OECD DAC,Gross disbursements
+oofs-in,OOFs,2,in,recipient,official,1,,Other official flows,lightblue-high,,OECD DAC,Gross disbursements
 oofs-individual-devcountries,OOFs,,out,donor,official,,,Other official flows,lightblue-high,Other official flows to individual developing countries,OECD DAC,Gross disbursements by developing country
 oofs-interest,OOFs,2,in,donor,official,2,,Interest payments on OOFs loans,lightblue-high,Receipt of interest payments on OOF loans,OECD DAC,Interest payments
 oofs-interest-payments-out,OOFs,2,out,recipient,official,,2,Interest payments on OOFs loans,lightblue-high,,OECD DAC,Interest payments
