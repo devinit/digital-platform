@@ -75,9 +75,10 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
- "country-year/warehouse/dimension/iso_3166_1.csv": "dimension.\"iso_3166_1\"",
+ // "country-year/warehouse/dimension/iso_3166_1.csv": "dimension.\"iso_3166_1\"",
  // This table trips the import up. Can't see an obvious reason why.
  // Anything to do with the fact that it is called "di_id"?
+ /*
  "country-year/warehouse/dimension/di_id.csv": "(SELECT * FROM dimension.\"di_id\") sq",
  "country-year/warehouse/dimension/di_id_to_iso_3166_1_map.csv": "(SELECT * FROM dimension.\"di_id_to_iso_3166_1_map\") sq",
  "country-year/warehouse/dimension/oecd_donor.csv": "dimension.\"oecd_donor\"",
@@ -102,6 +103,7 @@ exports.csv=
  "country-year/warehouse/dimension/wb_wdi_country.csv": "dimension.\"wb_wdi_country\"",
  "country-year/warehouse/dimension/wb_wdi_country_to_di_id_map.csv": "dimension.\"wb_wdi_country_to_di_id_map\"",
  "country-year/warehouse/dimension/wb_wdi_country_to_imf_weo_country_map.csv": "dimension.\"wb_wdi_country_to_imf_weo_country_map\""
+ */
 
  ///////////////////////////////////////////////////////////////////////////////
  //
@@ -659,4 +661,5 @@ exports.csv=
  // "country-year/warehouse/south_south_cooperation/recipient_and_region_2012.csv": "south_south_cooperation.\"recipient_and_region_2012\"",
  // "country-year/warehouse/south_south_cooperation/bundle_2012.csv": "south_south_cooperation.\"bundle_2012\"",
  */
-}
+};
+
