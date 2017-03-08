@@ -75,10 +75,10 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
- // "country-year/warehouse/dimension/iso_3166_1.csv": "dimension.\"iso_3166_1\"",
+ /*
+ "country-year/warehouse/dimension/iso_3166_1.csv": "dimension.\"iso_3166_1\"",
  // This table trips the import up. Can't see an obvious reason why.
  // Anything to do with the fact that it is called "di_id"?
- /*
  "country-year/warehouse/dimension/di_id.csv": "(SELECT * FROM dimension.\"di_id\") sq",
  "country-year/warehouse/dimension/di_id_to_iso_3166_1_map.csv": "(SELECT * FROM dimension.\"di_id_to_iso_3166_1_map\") sq",
  "country-year/warehouse/dimension/oecd_donor.csv": "dimension.\"oecd_donor\"",
@@ -220,8 +220,6 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
- "country-year/domestic.csv": "data_series.\"domestic\"",
-
  /*
  "country-year/agricultural-census.csv": "data_series.\"agricultural_census\"",
  "country-year/avg-income-of-extreme-poor.csv": "data_series.\"avg_income_of_extreme_poor\"",
@@ -240,9 +238,7 @@ exports.csv=
  "country-year/disbursement_by_region.csv": "data_series.\"disbursement_by_region\"",
  "country-year/disbursement_by_region_2012.csv": "data_series.\"disbursement_by_region_2012\"",
  "country-year/displacement.csv": "data_series.\"displacement\"",
-
-  // domestic.csv place holder
-
+ "country-year/domestic.csv": "data_series.\"domestic\"",
  "country-year/domestic-sectors.csv": "data_series.\"domestic_sectors\"",
  "country-year/educ-mis.csv": "data_series.\"educ_mis\"",
  "country-year/evi.csv": "data_series.\"evi\"",
@@ -662,4 +658,3 @@ exports.csv=
  // "country-year/warehouse/south_south_cooperation/bundle_2012.csv": "south_south_cooperation.\"bundle_2012\"",
  */
 };
-
