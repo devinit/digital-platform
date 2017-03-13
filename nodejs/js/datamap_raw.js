@@ -219,6 +219,8 @@ exports.csv=
  // They are manually put together by the analysts to support the various visualisation displayed by the DH
  //
  ///////////////////////////////////////////////////////////////////////////////
+ 
+ "country-year/domestic.csv": "data_series.\"domestic\"",
 
  /*
  "country-year/agricultural-census.csv": "data_series.\"agricultural_census\"",
@@ -238,7 +240,9 @@ exports.csv=
  "country-year/disbursement_by_region.csv": "data_series.\"disbursement_by_region\"",
  "country-year/disbursement_by_region_2012.csv": "data_series.\"disbursement_by_region_2012\"",
  "country-year/displacement.csv": "data_series.\"displacement\"",
- "country-year/domestic.csv": "data_series.\"domestic\"",
+ 
+ // Place holder for domestic.csv
+ 
  "country-year/domestic-sectors.csv": "data_series.\"domestic_sectors\"",
  "country-year/educ-mis.csv": "data_series.\"educ_mis\"",
  "country-year/evi.csv": "data_series.\"evi\"",
