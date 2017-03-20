@@ -55,7 +55,7 @@ The Development Data Hub web app repository (staging branch) is here: https://gi
 - remittances
 - ssc-out
 
-If they are used somewhere, they are out of data. If not, remove. Clear up with @epicallan.
+If they are used somewhere, they are out of date. If not, remove. Clear up with @epicallan.
 
 # Staging
 
