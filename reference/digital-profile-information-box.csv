@@ -1,5 +1,5 @@
 id,profile,tab_or_category,chart,data_file,description,source,notes
-dpt1c1,donor,overview,What is the average income per person per year?,warehouse/fact/gni_pc_usd_2015,GNI per capita, 2015 US$.,"Development Initiatives based on World Bank World Development Indicators, series code NY.GNP.PCAP.CD.",
+dpt1c1,donor,overview,What is the average income per person per year?,warehouse/fact/gni_pc_usd_2015,"GNI per capita, 2015 US$.","Development Initiatives based on World Bank World Development Indicators, series code NY.GNP.PCAP.CD.",
 dpt1c2,donor,overview,How much does the government spend per person?,govt-spend-pc,"Government spending per person, 2015 PPP$. Data is for 2015 or most recent year prior.",Development Initiatives based on IMF Article IV publications and World Economic Outlook.,
 dpt1c3,donor,overview,How is income distributed?,warehouse/fact/income_share_by_quintile,Percentage of income received by each quintile of the population. Data is for 2014 or most recent year prior.,"World Bank World Development Indicators, series code SI.DST.FRST.20, SI.DST.02ND.20, SI.DST.03RD.20, SI.DST.04TH.20 and SI.DST.05TH.20.",
 dpt2c1,donor,population,What is the population in year = x?,warehouse/fact/population_total,Total population. Data is for 2015.,"World Bank World Development Indicators, series code SP.POP.TOTL.",
