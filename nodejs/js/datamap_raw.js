@@ -140,7 +140,9 @@ exports.csv=
  "country-year/warehouse/donor_profile/disbursement_by_region_2015.csv": "donor_profile.\"disbursement_by_region_2015\"",
  "country-year/warehouse/donor_profile/donor_bundle_2015.csv": "donor_profile.\"donor_bundle_2015\"",
  "country-year/warehouse/donor_profile/gni_per_capita_2015.csv": "donor_profile.\"gni_per_capita_2015\"",
+ */
  "country-year/warehouse/donor_profile/loans_grants_2015.csv": "donor_profile.\"loans_grants_2015\"",
+ /*
  "country-year/warehouse/donor_profile/oda_per_capita_2015.csv": "donor_profile.\"oda_per_capita_2015\"",
  "country-year/warehouse/donor_profile/recipient_bundle_2015.csv": "donor_profile.\"recipient_bundle_2015\"",
  "country-year/warehouse/donor_profile/sectors_over_time_2015.csv": "donor_profile.\"sectors_over_time_2015\"",
