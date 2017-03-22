@@ -22,9 +22,9 @@ arab-fund,organisation,Arab Fund (AFESD),,,,,,arab-fund,4,multilateral,,Arab Fun
 AR,country,Argentina,south-america,AR,ARG,"CL,BO,UY,PY,BR",umics,argentina,AR,recipient,,Argentina
 AM,country,Armenia,south-central-asia,AM,ARM,"GE,IR,AZ,TR",lmics,armenia,AM,recipient,1,Armenia
 AW,country,Aruba,north-central-america,AW,ABW,,,aruba,AW,,,Aruba
-asdb-special-funds,organisation,AsDB Special Funds,,,,,,asdb-special-funds,6,multilateral,,AsDB Special Funds
+asdb-special-funds,organisation,AsDB Special Funds,,,,,,asdb-special-funds,6,multilateral,,ADB Special Funds
 asia,region,"Asia, regional",,,,,,asia-regional,53,region,,"Asia, regional"
-asdb,organisation,Asian Development Bank (AsDB),,,,,,asdb,5,multilateral,,Asian Development Bank (AsDB)
+asdb,organisation,Asian Development Bank (AsDB),,,,,,asdb,5,multilateral,,Asian Development Bank (ADB)
 AU,country,Australia,oceania,AU,AUS,,,australia,AU,donor,,Australia
 AT,country,Austria,europe,AT,AUT,"CH,DE,HU,SK,CZ,IT,SI,LI",,austria,AT,donor,,Austria
 AZ,country,Azerbaijan,south-central-asia,AZ,AZE,"GE,IR,AM,TR,RU",umics,azerbaijan,AZ,recipient,1,Azerbaijan
