@@ -295,7 +295,7 @@ TL,country,Timor-Leste,far-east-asia,TL,TLS,ID,ldcs,timor-leste,TL,crossover,1,T
 TG,country,Togo,south-of-sahara,TG,TGO,"BJ,GH,BF",ldcs,togo,TG,recipient,1,Togo
 TK,country,Tokelau,oceania,TK,TKL,,lmics,tokelau,TK,recipient,,Tokelau
 TO,country,Tonga,oceania,TO,TON,,lmics,tonga,TO,recipient,1,Tonga
-TT,country,Trinidad and Tobago,europe,TT,TTO,,,trinidad-and-tobago,TT,recipient,,Trinidad & Tobago
+TT,country,Trinidad and Tobago,north-central-america,TT,TTO,,,trinidad-and-tobago,TT,recipient,,Trinidad & Tobago
 TN,country,Tunisia,north-of-sahara,TN,TUN,"DZ,LY",umics,tunisia,TN,recipient,1,Tunisia
 TR,country,Turkey,europe,TR,TUR,"SY,GE,IQ,IR,GR,AM,AZ,BG",umics,turkey,TR,crossover,1,Turkey
 TM,country,Turkmenistan,south-central-asia,TM,TKM,"AF,IR,UZ,KZ",lmics,turkmenistan,TM,recipient,,Turkmenistan
