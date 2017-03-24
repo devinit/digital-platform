@@ -140,9 +140,7 @@ exports.csv=
  "country-year/warehouse/donor_profile/disbursement_by_region_2015.csv": "donor_profile.\"disbursement_by_region_2015\"",
  "country-year/warehouse/donor_profile/donor_bundle_2015.csv": "donor_profile.\"donor_bundle_2015\"",
  "country-year/warehouse/donor_profile/gni_per_capita_2015.csv": "donor_profile.\"gni_per_capita_2015\"",
- */
  "country-year/warehouse/donor_profile/loans_grants_2015.csv": "donor_profile.\"loans_grants_2015\"",
- /*
  "country-year/warehouse/donor_profile/oda_per_capita_2015.csv": "donor_profile.\"oda_per_capita_2015\"",
  "country-year/warehouse/donor_profile/recipient_bundle_2015.csv": "donor_profile.\"recipient_bundle_2015\"",
  "country-year/warehouse/donor_profile/sectors_over_time_2015.csv": "donor_profile.\"sectors_over_time_2015\"",
@@ -240,7 +238,9 @@ exports.csv=
  "country-year/disbursement_by_region.csv": "data_series.\"disbursement_by_region\"",
  "country-year/disbursement_by_region_2012.csv": "data_series.\"disbursement_by_region_2012\"",
  "country-year/displacement.csv": "data_series.\"displacement\"",
+ */
  "country-year/domestic.csv": "data_series.\"domestic\"",
+ /*
  "country-year/domestic-sectors.csv": "data_series.\"domestic_sectors\"",
  "country-year/educ-mis.csv": "data_series.\"educ_mis\"",
  "country-year/evi.csv": "data_series.\"evi\"",
@@ -296,7 +296,9 @@ exports.csv=
  // Renamed: "country-year/poorest20pct.csv": "data_series.\"2013_p20_population\"",
  "country-year/poorest-20-percent.csv": "data_series.\"poorest_20_percent\"",
  // "country-year/poverty-125.csv": "data_series.\"poverty_125\"",
+ */
  "country-year/poverty-190.csv": "data_series.\"poverty_190\"",
+ /*
  "country-year/poverty-200.csv": "data_series.\"poverty_200\"",
  "country-year/poverty-310.csv": "data_series.\"poverty_310\"",
  // We are no longer to use profits-pct-fdi.csv, contact @cecilia-caio/@timstrawson for details
@@ -313,6 +315,16 @@ exports.csv=
  "country-year/total-revenue-ppp-pc.csv": "data_series.\"total_revenue_ppp_pc\"",
  */
 
+ ///////////////////////////////////////////////////////////////////////////////
+ //
+ // Then get the data from the tables in the `reference` schema
+ // Most of these have not been updated in over 2 years & are not maintained
+ // They are manually put together by the analysts to support the various visualisation displayed by the DH
+ //
+ ///////////////////////////////////////////////////////////////////////////////
+
+ "reference/domestic-budget-level.csv": "reference.\"di_domestic_budget_level\"",
+ 
  ///////////////////////////////////////////////////////////////////////////////
  //
  // ODA by donor files
