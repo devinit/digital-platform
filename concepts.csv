@@ -225,7 +225,7 @@ country-year,oda-donor/oda-HU,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-iaea,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-ibrd,simple,,Official development assistance from the International Bank for Reconstruction and Development,"id, year, value",Gross official development assistance from the International Bank for Reconstruction and Development,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-ida,simple,,Official development assistance from the International Development Association,"id, year, value",Gross official development assistance from the International Development Association,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-idb-special-fund
+country-year,oda-donor/oda-idb-special-fund,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-idb,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-IE,simple,,Official development assistance from Ireland,"id, year, value",Gross official development assistance from Ireland,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-ifad,simple,,Official development assistance from the International Fund for Agricultural Development,"id, year, value",Gross official development assistance from the International Fund for Agricultural Development,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
