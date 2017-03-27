@@ -186,50 +186,50 @@ country-year,iati/iati-budgets-ca,simple,,"Canada, Global Affairs planned budget
 country-year,iati/iati-budgets-dk,simple,,"Denmark, DANIDA and Foreign Affairs planned budgets","id, year, value",The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by Denmark for existing or committed projects spanning multiple years. Budget data is displayed for DANIDA and the Ministry of Foreign Affairs. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded.,lin,forward-looking-oda,forward-looking-oda,3,darkpurple,US$,US$,Development Initaitives based on Denmark Ministry of Foreign Affairs data downloaded via the IATI Registry on 15 December 2016.,,,lowisbetter,"1000000, 5000000, 10000000, 20000000, 50000000",,,NA,Denmark DANIDA and Foreign Affairs forward-looking budgets for each country based on activities reported through IATI.,Denmark Forward-looking Budgets,,,2016,
 country-year,iati/iati-budgets-gb,simple,,"UK, DFID planned budgets","id, year, value",The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by the UK for existing or committed projects spanning multiple years. Budget data is displayed for the Department for International Development only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded.,lin,forward-looking-oda,forward-looking-oda,1,darkpurple,US$,US$,Development Initaitives based on UK DFID data downloaded via the IATI Registry on 15 December 2016.,,,lowisbetter,"10000000, 20000000, 50000000, 100000000, 250000000",,,NA,UK DFID forward-looking budgets for each country based on activities reported through IATI.,UK Forward-looking Budgets,,,2016,
 country-year,iati/iati-budgets-nl,simple,,"Netherlands, Foreign Affairs planned budgets","id, year, value",The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by the Netherlands for existing or committed projects spanning multiple years. Budget data is displayed for the Ministry of Foreign Affairs only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded.,lin,forward-looking-oda,forward-looking-oda,4,darkpurple,US$,US$,Development Initaitives based on Netherlands Ministry of Foreign Affairs data downloaded via the IATI Registry on 15 December 2016.,,,lowisbetter,"1000000, 5000000, 10000000, 20000000, 50000000",,,NA,Netherlands Foreign Affairs forward-looking budgets for each country based on activities reported through IATI.,Netherlands Forward-looking Budgets,,,2016,
-country-year,oda-donor/oda-adaptation-fund
+country-year,oda-donor/oda-adaptation-fund,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-AE,simple,,Official development assistance from United Arab Emirates,"id, year, value",Gross official development assistance from United Arab Emirates,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-afdb,simple,,Official development assistance from the African Development Bank,"id, year, value",Gross official development assistance from the African Development Bank,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-afdf,simple,,Official development assistance from the African Development Fund,"id, year, value",Gross official development assistance from the African Development Fund,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-afesd,simple,,Official development assistance from the Arab Fund for Economic and Social Development,"id, year, value",Gross official development assistance from the Arab Fund for Economic and Social Development,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-arab-fund-afesd,simple,,Official development assistance from the Arab Fund AFESD,"id, year, value",Gross official development assistance from the Arab Fund AFESD,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-asdb-special-funds,simple,,Official development assistance from Asian Development Bank Special Funds,"id, year, value",Gross official development assistance from Asian Development Bank Special Funds,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-asdb
+country-year,oda-donor/oda-asdb,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-AT,simple,,Official development assistance from Austria,"id, year, value",Gross official development assistance from Austria,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-AU,simple,,Official development assistance from Australia,"id, year, value",Gross official development assistance from Australia,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-badea,simple,,Official development assistance from the Arab Bank for Economic Development in Africa,"id, year, value",Gross official development assistance from the Arab Bank for Economic Development in Africa,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-BE,simple,,Official development assistance from Belgium,"id, year, value",Gross official development assistance from Belgium,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-BG
+country-year,oda-donor/oda-BG,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-CA,simple,,Official development assistance from Canada,"id, year, value",Gross official development assistance from Canada,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-cardb
-country-year,oda-donor/oda-ceb
+country-year,oda-donor/oda-cardb,,,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,oda-donor/oda-ceb,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-CH,simple,,Official development assistance from Switzerland,"id, year, value",Gross official development assistance from Switzerland,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-cif
-country-year,oda-donor/oda-CY
+country-year,oda-donor/oda-cif,,,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,oda-donor/oda-CY,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-CZ,simple,,Official development assistance from Czech Republic,"id, year, value",Gross official development assistance from Czech Republic,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-DE,simple,,Official development assistance from Germany,"id, year, value",Gross official development assistance from Germany,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-DK,simple,,Official development assistance from Denmark,"id, year, value",Gross official development assistance from Denmark,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-EE,simple,,Official development assistance from Estonia,"id, year, value",Gross official development assistance from Estonia,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-ES,simple,,Official development assistance from Spain,"id, year, value",Gross official development assistance from Spain,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-EU,simple,,Official development assistance from the EU,"id, year, value",Gross official development assistance from the EU,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-fao
+country-year,oda-donor/oda-fao,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-FI,simple,,Official development assistance from Finland,"id, year, value",Gross official development assistance from Finland,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-FR,simple,,Official development assistance from France,"id, year, value",Gross official development assistance from France,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-gavi,simple,,Official development assistance from the GAVI Alliance,"id, year, value",Gross official development assistance from the GAVI Alliance,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-GB,simple,,Official development assistance from the United Kingdom,"id, year, value",Gross official development assistance from the United Kingdom,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-gef,simple,,Official development assistance from the Global Environment Facility,"id, year, value",Gross official development assistance from the Global Environment Facility,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-gggi
+country-year,oda-donor/oda-gggi,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-global-fund,simple,,Official development assistance from the Global Fund,"id, year, value",Gross official development assistance from the Global Fund,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-GR,simple,,Official development assistance from Greece,"id, year, value",Gross official development assistance from Greece,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-HR
-country-year,oda-donor/oda-HU
-country-year,oda-donor/oda-iaea
+country-year,oda-donor/oda-HR,,,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,oda-donor/oda-HU,,,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,oda-donor/oda-iaea,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-ibrd,simple,,Official development assistance from the International Bank for Reconstruction and Development,"id, year, value",Gross official development assistance from the International Bank for Reconstruction and Development,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-ida,simple,,Official development assistance from the International Development Association,"id, year, value",Gross official development assistance from the International Development Association,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-idb-special-fund
-country-year,oda-donor/oda-idb
+country-year,oda-donor/oda-idb,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-IE,simple,,Official development assistance from Ireland,"id, year, value",Gross official development assistance from Ireland,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-ifad,simple,,Official development assistance from the International Fund for Agricultural Development,"id, year, value",Gross official development assistance from the International Fund for Agricultural Development,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-IL
+country-year,oda-donor/oda-IL,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-imf-concessional-trust-funds,simple,,Official development assistance from International Monetary Fund Concessional Trust Funds,"id, year, value",Gross official development assistance from International Monetary Fund Concessional Trust Funds,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-interational-labour-organisation
 country-year,oda-donor/oda-IS,simple,,Official development assistance from Iceland,"id, year, value",Gross official development assistance from Iceland,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
@@ -238,12 +238,12 @@ country-year,oda-donor/oda-IT,simple,,Official development assistance from Italy
 country-year,oda-donor/oda-JP,simple,,Official development assistance from Japan,"id, year, value",Gross official development assistance from Japan,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-KR,simple,,Official development assistance from Korea,"id, year, value",Gross official development assistance from Korea,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-KW,simple,,Official development assistance from Kuwait,"id, year, value",Gross official development assistance from Kuwait,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-LI
-country-year,oda-donor/oda-LT
+country-year,oda-donor/oda-LI,,,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,oda-donor/oda-LT,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-LU,simple,,Official development assistance from Luxembourg,"id, year, value",Gross official development assistance from Luxembourg,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-LV
+country-year,oda-donor/oda-LV,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-montreal-protocol
-country-year,oda-donor/oda-MT
+country-year,oda-donor/oda-MT,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-NL,simple,,Official development assistance from the Netherlands,"id, year, value",Gross official development assistance from the Netherlands,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-NO,simple,,Official development assistance from Norway,"id, year, value",Gross official development assistance from Norway,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-nordic-dev-fund,simple,,Official development assistance from the Nordic Development Fund,"id, year, value",Gross official development assistance from the Nordic Development Fund,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
@@ -252,20 +252,20 @@ country-year,oda-donor/oda-ofid,simple,,Official development assistance from the
 country-year,oda-donor/oda-osce,simple,,Official development assistance from the Organization for Security and Co-operation in Europe,"id, year, value",Gross official development assistance from the Organization for Security and Co-operation in Europe,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-PL,simple,,Official development assistance from Poland,"id, year, value",Gross official development assistance from Poland,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-PT,simple,,Official development assistance from Portugal,"id, year, value",Gross official development assistance from Portugal,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-RO
-country-year,oda-donor/oda-RU
-country-year,oda-donor/oda-SA
+country-year,oda-donor/oda-RO,,,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,oda-donor/oda-RU,,,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,oda-donor/oda-SA,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-SE,simple,,Official development assistance from Sweden,"id, year, value",Gross official development assistance from Sweden,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-SI,simple,,Official development assistance from Slovenia,"id, year, value",Gross official development assistance from Slovenia,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-SK,simple,,Official development assistance from Slovakia,"id, year, value",Gross official development assistance from Slovakia,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-TH
-country-year,oda-donor/oda-TL
-country-year,oda-donor/oda-TR
-country-year,oda-donor/oda-TW
+country-year,oda-donor/oda-TH,,,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,oda-donor/oda-TL,,,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,oda-donor/oda-TR,,,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,oda-donor/oda-TW,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-unaids,simple,,Official development assistance from UNAIDS,"id, year, value",Gross official development assistance from UNAIDS,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-undp,simple,,Official development assistance from the United Nations Development Programme,"id, year, value",Gross official development assistance from the United Nations Development Programme,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-unece,simple,,Official development assistance from the United Nations Economic Commission for Europe,"id, year, value",Gross official development assistance from the United Nations Economic Commission for Europe,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
-country-year,oda-donor/oda-unep
+country-year,oda-donor/oda-unep,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,oda-donor/oda-unfpa,simple,,Official development assistance from the United Nations Population Fund,"id, year, value",Gross official development assistance from the United Nations Population Fund,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-unhcr,simple,,Official development assistance from the United Nations High Commissioner for Refugees,"id, year, value",Gross official development assistance from the United Nations High Commissioner for Refugees,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
 country-year,oda-donor/oda-unicef,simple,,Official development assistance from UNICEF,"id, year, value",Gross official development assistance from UNICEF,lin,,,,,,,Development Initiatives based on OECD-DAC data,,,,,,,,,,,,,
