@@ -89,7 +89,7 @@ DJ,country,Djibouti,south-of-sahara,DJ,DJI,"ER,ET,SO",ldcs,djibouti,DJ,recipient
 DM,country,Dominica,north-central-america,DM,DMA,,umics,dominica,DM,recipient,1,Dominica
 DO,country,Dominican Republic,north-central-america,DO,DOM,HT,umics,dominican-republic,DO,recipient,1,Dominican Republic
 eac,,East African Community,,,,,,eac,,,,East African Community
-EC,country,Ecuador,south-america,EC,ECU,"PE,CO",umics,ecuador,EC,recipient,,Ecuador
+EC,country,Ecuador,south-america,EC,ECU,"PE,CO",umics,ecuador,EC,recipient,1,Ecuador
 EG,country,Egypt,north-of-sahara,EG,EGY,"LY,SD,IL,PS",lmics,egypt,EG,recipient,1,Egypt
 SV,country,El Salvador,north-central-america,SV,SLV,"GT,HN",lmics,el-salvador,SV,recipient,1,El Salvador
 GQ,country,Equatorial Guinea,south-of-sahara,GQ,GNQ,"GA,CM",ldcs,equatorial-guinea,GQ,recipient,1,Equatorial Guinea
