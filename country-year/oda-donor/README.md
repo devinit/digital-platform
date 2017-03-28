@@ -13,7 +13,7 @@ The Java Script calls go in the [datamap_raw.js](https://github.com/devinit/digi
 SELECT
     '"country-year/oda-donor/oda-' ||
     from_di_id ||
-    '.csv": "(SELECT to_di_id, year, ROUND\(SUM\(value\), 2\) FROM fact.\"oda_2015\" WHERE from_di_id = ' ||
+    '.csv": "(SELECT to_di_id, year, ROUND\(SUM\(value\), 2\) AS \"value\" FROM fact.\"oda_2015\" WHERE from_di_id = ' ||
     '''' ||
     from_di_id ||
     '''' ||
