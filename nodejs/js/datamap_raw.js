@@ -238,9 +238,7 @@ exports.csv=
  "country-year/disbursement_by_region.csv": "data_series.\"disbursement_by_region\"",
  "country-year/disbursement_by_region_2012.csv": "data_series.\"disbursement_by_region_2012\"",
  "country-year/displacement.csv": "data_series.\"displacement\"",
- */
  "country-year/domestic.csv": "data_series.\"domestic\"",
- /*
  "country-year/domestic-sectors.csv": "data_series.\"domestic_sectors\"",
  "country-year/educ-mis.csv": "data_series.\"educ_mis\"",
  "country-year/evi.csv": "data_series.\"evi\"",
@@ -323,7 +321,7 @@ exports.csv=
  //
  ///////////////////////////////////////////////////////////////////////////////
 
- "reference/domestic-budget-level.csv": "reference.\"di_domestic_budget_level\"",
+ // "reference/domestic-budget-level.csv": "reference.\"di_domestic_budget_level\"",
  
  ///////////////////////////////////////////////////////////////////////////////
  //
