@@ -40,7 +40,7 @@ BM,country,Bermuda,north-central-america,BM,BMU,,,bermuda,BM,,,Bermuda
 BT,country,Bhutan,south-central-asia,BT,BTN,"CN,IN",ldcs,bhutan,BT,recipient,1,Bhutan
 bilateral-unspecified,region,"Bilateral, unspecified",,,,,,bilateral-unspecified,55,region,,"Bilateral, unspecified"
 bmgf,organisation,Bill & Melinda Gates Foundation,,,,,,bmgf,,,,Bill & Melinda Gates Foundation
-BO,country,"Bolivia, Plurinational State of",south-america,BO,BOL,"PE,CL,PY,BR,AR",lmics,bolivia,BO,recipient,1,Bolivia 
+BO,country,"Bolivia, Plurinational State of",south-america,BO,BOL,"PE,CL,PY,BR,AR",lmics,bolivia,BO,recipient,1,Bolivia
 BQ,country,"Bonaire, Sint Eustatius and Saba",north-central-america,BQ,BES,,,bes-islands,BQ,,,BES Islands
 BA,country,Bosnia and Herzegovina,europe,BA,BIH,"HR,ME,RS",umics,bosnia-and-herzegovina,BA,recipient,1,Bosnia & Herzegovina
 BW,country,Botswana,south-of-sahara,BW,BWA,"ZW,ZA,NA",umics,botswana,BW,recipient,1,Botswana
@@ -99,7 +99,7 @@ ET,country,Ethiopia,south-of-sahara,ET,ETH,"ER,KE,SD,SS,SO,DJ",ldcs,ethiopia,ET,
 europe,region,"Europe, regional",europe,,,,,europe-regional,56,region,,"Europe, regional"
 ebrd,organisation,European Bank for Reconstruction and Development (EBRD),,,,,,ebrd,9,multilateral,,European Bank for Reconstruction and Development (EBRD)
 EU,organisation,European Union,europe,,,,,european-union,EU,multilateral,,European Union
-FK,country,Falkland Islands (Malvinas),south-america,FK,FLK,,,falkland-islands,FK,,,Falkland Islands 
+FK,country,Falkland Islands (Malvinas),south-america,FK,FLK,,,falkland-islands,FK,,,Falkland Islands
 east-asia,region,"Far East Asia, regional",far-east-asia,,,,,far-east-asia-regional,57,region,,"Far East Asia, regional"
 FO,country,Faroe Islands,europe,FO,FRO,,,faroe-islands,FO,,,Faroe Islands
 FJ,country,Fiji,oceania,FJ,FJI,,lmics,fiji,FJ,recipient,1,Fiji
@@ -247,19 +247,19 @@ QA,country,Qatar,middle-east,QA,QAT,SA,,qatar,QA,,,Qatar
 region-unspecified,region,"Region, unspecified",unspecified,,,,,region-unspecified,,region,,"Region, unspecified"
 RE,country,Réunion,south-of-sahara,RE,REU,,,réunion,RE,,,Reunion
 RO,country,Romania,europe,RO,ROU,"MD,HU,UA,BG,RS",,romania,RO,donor,,Romania
-RU,country,Russian Federation,europe,RU,RUS,"GE,CN,BY,UA,KZ,LV,PL,EE,LT,FI,MN,NO,AZ,KP",,russian-federation,RU,donor,,Russian Federation
+RU,country,Russian Federation,europe,RU,RUS,"GE,CN,BY,UA,KZ,LV,PL,EE,LT,FI,MN,NO,AZ,KP",,russian-federation,RU,donor,1,Russian Federation
 RW,country,Rwanda,south-of-sahara,RW,RWA,"TZ,CD,BI,UG",ldcs,rwanda,RW,recipient,1,Rwanda
 BL,country,Saint Barthélemy,north-central-america,BL,BLM,,,saint-barthelemy,BL,,,Saint Barthelemy
 SH,country,"Saint Helena, Ascension and Tristan da Cunha",south-of-sahara,SH,SHN,,umics,saint-helena-ascension-and-tristan-da-cunha,SH,recipient,,"Saint Helena, Ascension & Tristan da Cunha"
 KN,country,Saint Kitts and Nevis,north-central-america,KN,KNA,,umics,saint-kitts-and-nevis,KN,recipient,1,Saint Kitts and Nevis
 LC,country,Saint Lucia,north-central-america,LC,LCA,,umics,saint-lucia,LC,recipient,1,Saint Lucia
-MF,country,Saint Martin (French part),north-central-america,MF,MAF,SX,,saint-martin,MF,,,Saint Martin 
+MF,country,Saint Martin (French part),north-central-america,MF,MAF,SX,,saint-martin,MF,,,Saint Martin
 PM,country,Saint Pierre and Miquelon,north-central-america,PM,SPM,,,saint-pierre-and-miquelon,PM,,,Saint Pierre & Miquelon
 VC,country,Saint Vincent and the Grenadines,north-central-america,VC,VCT,,umics,saint-vincent-and-the-grenadines,VC,recipient,1,Saint Vincent & the Grenadines
 WS,country,Samoa,oceania,WS,WSM,,ldcs,samoa,WS,recipient,1,Samoa
 SM,country,San Marino,europe,SM,SMR,IT,,san-marino,SM,,,San Marino
 ST,country,Sao Tome and Principe,south-of-sahara,ST,STP,,ldcs,sao-tome-and-principe,ST,recipient,1,Sao Tome & Principe
-SA,country,Saudi Arabia,middle-east,SA,SAU,"QA,OM,IQ,YE,JO,AE,KW",,saudi-arabia,SA,donor,,Saudi Arabia
+SA,country,Saudi Arabia,middle-east,SA,SAU,"QA,OM,IQ,YE,JO,AE,KW",,saudi-arabia,SA,donor,1,Saudi Arabia
 SN,country,Senegal,south-of-sahara,SN,SEN,"GN,MR,GW,GM,ML",ldcs,senegal,SN,recipient,1,Senegal
 RS,country,Serbia,europe,RS,SRB,"AL,HU,MK,RO,HR,BA,BG,ME,XK",umics,serbia,RS,recipient,1,Serbia
 SC,country,Seychelles,south-of-sahara,SC,SYC,,umics,seychelles,SC,recipient,1,Seychelles
@@ -269,7 +269,7 @@ SX,country,Sint Maarten (Dutch part),north-central-america,SX,SXM,MF,,sint-maart
 SK,country,Slovakia,europe,SK,SVK,"PL,HU,CZ,UA,AT",,slovakia,SK,donor,,Slovakia
 SI,country,Slovenia,europe,SI,SVN,"HU,IT,HR,AT",,slovenia,SI,donor,,Slovenia
 SB,country,Solomon Islands,oceania,SB,SLB,,ldcs,solomon-islands,SB,recipient,1,Solomon Islands
-SO,country,Somalia,south-of-sahara,SO,SOM,"ET,KE,DJ",ldcs,somalia,SO,recipient,,Somalia
+SO,country,Somalia,south-of-sahara,SO,SOM,"ET,KE,DJ",ldcs,somalia,SO,recipient,1,Somalia
 south-central-asia,region,"South & Central Asia, regional",south-central-asia,,,,,south-central-asia-regional,62,region,,"South & Central Asia, regional"
 ZA,country,South Africa,south-of-sahara,ZA,ZAF,"ZW,SZ,MZ,BW,NA,LS",umics,south-africa,ZA,recipient,1,South Africa
 south-america,region,"South America, regional",south-america,,,,,south-america-regional,63,region,,"South America, regional"
@@ -305,7 +305,7 @@ UG,country,Uganda,south-of-sahara,UG,UGA,"TZ,KE,SS,CD,RW",ldcs,uganda,UG,recipie
 GB,country,UK,europe,GB,GBR,IE,,united-kingdom,GB,donor,,UK
 UA,country,Ukraine,europe,UA,UKR,"PL,MD,HU,SK,BY,RO,RU",lmics,ukraine,UA,recipient,1,Ukraine
 un-agencies,,UN Agencies,,,,,,un-agencies,,multilateral,,UN Agencies
-AE,country,United Arab Emirates,middle-east,AE,ARE,"SA,OM",,uae,AE,donor,,UAE
+AE,country,United Arab Emirates,middle-east,AE,ARE,"SA,OM",,uae,AE,donor,1,UAE
 unicef,organisation,United Nations Children's Fund (UNICEF),,,,,,unicef,33,multilateral,,United Nations Children's Fund (UNICEF)
 undp,organisation,United Nations Development Programme (UNDP),,,,,,undp,28,multilateral,,United Nations Development Programme (UNDP)
 unece,organisation,United Nations Economic Commission for Europe (UNECE),,,,,,unece,29,multilateral,,United Nations Economic Commission for Europe (UNECE)
