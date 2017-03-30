@@ -269,7 +269,7 @@ SX,country,Sint Maarten (Dutch part),north-central-america,SX,SXM,MF,,sint-maart
 SK,country,Slovakia,europe,SK,SVK,"PL,HU,CZ,UA,AT",,slovakia,SK,donor,,Slovakia
 SI,country,Slovenia,europe,SI,SVN,"HU,IT,HR,AT",,slovenia,SI,donor,,Slovenia
 SB,country,Solomon Islands,oceania,SB,SLB,,ldcs,solomon-islands,SB,recipient,1,Solomon Islands
-SO,country,Somalia,south-of-sahara,SO,SOM,"ET,KE,DJ",ldcs,somalia,SO,recipient,1,Somalia
+SO,country,Somalia,south-of-sahara,SO,SOM,"ET,KE,DJ",ldcs,somalia,SO,recipient,,Somalia
 south-central-asia,region,"South & Central Asia, regional",south-central-asia,,,,,south-central-asia-regional,62,region,,"South & Central Asia, regional"
 ZA,country,South Africa,south-of-sahara,ZA,ZAF,"ZW,SZ,MZ,BW,NA,LS",umics,south-africa,ZA,recipient,1,South Africa
 south-america,region,"South America, regional",south-america,,,,,south-america-regional,63,region,,"South America, regional"
