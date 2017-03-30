@@ -247,7 +247,7 @@ QA,country,Qatar,middle-east,QA,QAT,SA,,qatar,QA,,,Qatar
 region-unspecified,region,"Region, unspecified",unspecified,,,,,region-unspecified,,region,,"Region, unspecified"
 RE,country,Réunion,south-of-sahara,RE,REU,,,réunion,RE,,,Reunion
 RO,country,Romania,europe,RO,ROU,"MD,HU,UA,BG,RS",,romania,RO,donor,,Romania
-RU,country,Russian Federation,europe,RU,RUS,"GE,CN,BY,UA,KZ,LV,PL,EE,LT,FI,MN,NO,AZ,KP",,russian-federation,RU,donor,1,Russian Federation
+RU,country,Russian Federation,europe,RU,RUS,"GE,CN,BY,UA,KZ,LV,PL,EE,LT,FI,MN,NO,AZ,KP",,russian-federation,RU,donor,,Russian Federation
 RW,country,Rwanda,south-of-sahara,RW,RWA,"TZ,CD,BI,UG",ldcs,rwanda,RW,recipient,1,Rwanda
 BL,country,Saint Barthélemy,north-central-america,BL,BLM,,,saint-barthelemy,BL,,,Saint Barthelemy
 SH,country,"Saint Helena, Ascension and Tristan da Cunha",south-of-sahara,SH,SHN,,umics,saint-helena-ascension-and-tristan-da-cunha,SH,recipient,,"Saint Helena, Ascension & Tristan da Cunha"
@@ -259,7 +259,7 @@ VC,country,Saint Vincent and the Grenadines,north-central-america,VC,VCT,,umics,
 WS,country,Samoa,oceania,WS,WSM,,ldcs,samoa,WS,recipient,1,Samoa
 SM,country,San Marino,europe,SM,SMR,IT,,san-marino,SM,,,San Marino
 ST,country,Sao Tome and Principe,south-of-sahara,ST,STP,,ldcs,sao-tome-and-principe,ST,recipient,1,Sao Tome & Principe
-SA,country,Saudi Arabia,middle-east,SA,SAU,"QA,OM,IQ,YE,JO,AE,KW",,saudi-arabia,SA,donor,1,Saudi Arabia
+SA,country,Saudi Arabia,middle-east,SA,SAU,"QA,OM,IQ,YE,JO,AE,KW",,saudi-arabia,SA,donor,,Saudi Arabia
 SN,country,Senegal,south-of-sahara,SN,SEN,"GN,MR,GW,GM,ML",ldcs,senegal,SN,recipient,1,Senegal
 RS,country,Serbia,europe,RS,SRB,"AL,HU,MK,RO,HR,BA,BG,ME,XK",umics,serbia,RS,recipient,1,Serbia
 SC,country,Seychelles,south-of-sahara,SC,SYC,,umics,seychelles,SC,recipient,1,Seychelles
@@ -305,7 +305,7 @@ UG,country,Uganda,south-of-sahara,UG,UGA,"TZ,KE,SS,CD,RW",ldcs,uganda,UG,recipie
 GB,country,United Kingdom,europe,GB,GBR,IE,,united-kingdom,GB,donor,,United Kingdom
 UA,country,Ukraine,europe,UA,UKR,"PL,MD,HU,SK,BY,RO,RU",lmics,ukraine,UA,recipient,1,Ukraine
 un-agencies,,UN Agencies,,,,,,un-agencies,,multilateral,,UN Agencies
-AE,country,United Arab Emirates,middle-east,AE,ARE,"SA,OM",,uae,AE,donor,1,UAE
+AE,country,United Arab Emirates,middle-east,AE,ARE,"SA,OM",,uae,AE,donor,,UAE
 unicef,organisation,United Nations Children's Fund (UNICEF),,,,,,unicef,33,multilateral,,United Nations Children's Fund (UNICEF)
 undp,organisation,United Nations Development Programme (UNDP),,,,,,undp,28,multilateral,,United Nations Development Programme (UNDP)
 unece,organisation,United Nations Economic Commission for Europe (UNECE),,,,,,unece,29,multilateral,,United Nations Economic Commission for Europe (UNECE)
