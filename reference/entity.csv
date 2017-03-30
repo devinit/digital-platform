@@ -302,7 +302,7 @@ TM,country,Turkmenistan,south-central-asia,TM,TKM,"AF,IR,UZ,KZ",lmics,turkmenist
 TC,country,Turks and Caicos Islands,north-central-america,TC,TCA,,,turks-and-caicos-islands,TC,recipient,,Turks & Caicos Islands
 TV,country,Tuvalu,oceania,TV,TUV,,ldcs,tuvalu,TV,recipient,1,Tuvalu
 UG,country,Uganda,south-of-sahara,UG,UGA,"TZ,KE,SS,CD,RW",ldcs,uganda,UG,recipient,1,Uganda
-GB,country,UK,europe,GB,GBR,IE,,united-kingdom,GB,donor,,UK
+GB,country,United Kingdom,europe,GB,GBR,IE,,united-kingdom,GB,donor,,United Kingdom
 UA,country,Ukraine,europe,UA,UKR,"PL,MD,HU,SK,BY,RO,RU",lmics,ukraine,UA,recipient,1,Ukraine
 un-agencies,,UN Agencies,,,,,,un-agencies,,multilateral,,UN Agencies
 AE,country,United Arab Emirates,middle-east,AE,ARE,"SA,OM",,uae,AE,donor,1,UAE
