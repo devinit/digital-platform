@@ -166,7 +166,7 @@ KZ,country,Kazakhstan,south-central-asia,KZ,KAZ,"TM,CN,KG,UZ,RU",umics,kazakhsta
 KE,country,Kenya,south-of-sahara,KE,KEN,"ET,TZ,SS,SO,UG",other-lics,kenya,KE,recipient,1,Kenya
 KI,country,Kiribati,oceania,KI,KIR,,ldcs,kiribati,KI,recipient,1,Kiribati
 KP,country,"Korea, Democratic People's Republic of",far-east-asia,KP,PRK,"CN,KR,RU",other-lics,north-korea,KP,recipient,,North Korea
-KR,country,"Korea, Republic of",far-east-asia,KR,KOR,KP,,south-korea,KR,donor,,South Korea
+KR,country,Korea,far-east-asia,KR,KOR,KP,,south-korea,KR,donor,,Korea
 XK,country,Kosovo,europe,XK,XKS,,lmics,kosovo,XK,recipient,1,Kosovo
 KW,country,Kuwait,middle-east,KW,KWT,"SA,IQ",,kuwait,KW,donor,,Kuwait
 KG,country,Kyrgyzstan,south-central-asia,KG,KGZ,"CN,TJ,UZ,KZ",other-lics,kyrgyzstan,KG,recipient,1,Kyrgyzstan
@@ -266,7 +266,7 @@ SC,country,Seychelles,south-of-sahara,SC,SYC,,umics,seychelles,SC,recipient,1,Se
 SL,country,Sierra Leone,south-of-sahara,SL,SLE,"LR,GN",ldcs,sierra-leone,SL,recipient,1,Sierra Leone
 SG,country,Singapore,south-central-asia,SG,SGP,,,singapore,SG,,,Singapore
 SX,country,Sint Maarten (Dutch part),north-central-america,SX,SXM,MF,,sint-maarten-dutch-part,SX,,,Sint Maarten (Dutch part)
-SK,country,Slovakia,europe,SK,SVK,"PL,HU,CZ,UA,AT",,slovakia,SK,donor,,Slovakia
+SK,country,Slovak Republic,europe,SK,SVK,"PL,HU,CZ,UA,AT",,slovakia,SK,donor,,Slovak Republic
 SI,country,Slovenia,europe,SI,SVN,"HU,IT,HR,AT",,slovenia,SI,donor,,Slovenia
 SB,country,Solomon Islands,oceania,SB,SLB,,ldcs,solomon-islands,SB,recipient,1,Solomon Islands
 SO,country,Somalia,south-of-sahara,SO,SOM,"ET,KE,DJ",ldcs,somalia,SO,recipient,,Somalia
@@ -315,7 +315,7 @@ unpbf,organisation,United Nations Peacebuilding Fund (UNPBF),,,,,,unpbf,34,multi
 unfpa,organisation,United Nations Population Fund (UNFPA),,,,,,unfpa,31,multilateral,,United Nations Population Fund (UNFPA)
 unta,organisation,United Nations Regular Programme for Technical Assistance (UNTA),,,,,,unta,36,multilateral,,United Nations Regular Programme for Technical Assistance (UNTA)
 unrwa,organisation,United Nations Relief and Works Agency (UNRWA),,,,,,unrwa,35,multilateral,,United Nations Relief and Works Agency (UNRWA)
-US,country,United States,north-central-america,US,USA,"CA,MX,CU",,usa,US,donor,,USA
+US,country,United States,north-central-america,US,USA,"CA,MX,CU",,usa,US,donor,,United States
 UM,country,United States Minor Outlying Islands,oceania,UM,UMI,,,united-states-minor-outlying-islands,UM,,,United States Minor Outlying Islands
 UY,country,Uruguay,south-america,UY,URY,"BR,AR",umics,uruguay,UY,recipient,1,Uruguay
 UZ,country,Uzbekistan,south-central-asia,UZ,UZB,"TM,AF,KG,TJ,KZ",lmics,uzbekistan,UZ,recipient,1,Uzbekistan
