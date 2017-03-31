@@ -1,12 +1,12 @@
 id,name,default
-poorest20pct,Poverty,poorest20pct
-vulnerability,Vulnerability,climate-vulnerability
-dpf,Domestic resources,govtspend-pc
-intlmix,International resources,largest-intl-flow
-official,International official finance,in-oda-gross
+poorest20pct,Poverty,poorest-20-percent
+vulnerability,Vulnerability,fragile-states
+dpf,Government finance,non-grant-revenue-ppp-pc
+intlmix,International finance,largest-intl-flow
+official,International official finance,warehouse/fact/in_oda_gross_2015
 ha,Humanitarian finance,in-ha
+data-revolution,Data revolution,latest-census
+forward-looking-oda,Forward looking ODA,iati/iati-budgets-gb
 health,Health,life-expectancy-at-birth
 education,Education,primary-school-enrolment
 employment,Employment,total-unemployment
-data-revolution,Data revolution,latest-census
-forward-looking-oda,Forward looking ODA,iati-budgets-gb

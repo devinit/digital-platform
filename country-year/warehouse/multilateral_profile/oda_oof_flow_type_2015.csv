@@ -1,0 +1,62 @@
+id,parent,oda-oof-flow,aid-type,year,value
+afdb,African Development Bank and Fund,oda,oda-grants,2015,123730000.00
+afdb,African Development Bank and Fund,oof,oof-long-term-loans,2015,2376120000.00
+afdf,African Development Bank and Fund,oda,oda-grants,2015,658480000.00
+afdf,African Development Bank and Fund,oda,oda-gross-loans,2015,1500080000.00
+arab-fund-afesd,Arab Fund,oda,oda-grants,2015,24130000.00
+arab-fund-afesd,Arab Fund,oda,oda-gross-loans,2015,594250000.00
+asdb,Asian Development Bank,oof,oof-long-term-loans,2015,9784580000.00
+asdb-special-funds,Asian Development Bank,oda,oda-grants,2015,647270000.00
+asdb-special-funds,Asian Development Bank,oda,oda-gross-loans,2015,2052270000.00
+badea,Arab Bank for Economic Development in Africa,oda,oda-grants,2015,6140000.00
+badea,Arab Bank for Economic Development in Africa,oda,oda-gross-loans,2015,119430000.00
+cardb,Caribbean Development Bank,oda,oda-grants,2015,17380000.00
+cardb,Caribbean Development Bank,oda,oda-gross-loans,2015,39770000.00
+cardb,Caribbean Development Bank,oof,oof-long-term-loans,2015,85360000.00
+ceb,Council of Europe Development Bank,oda,oda-grants,2015,5530000.00
+ceb,Council of Europe Development Bank,oda,oda-gross-loans,2015,48610000.00
+ceb,Council of Europe Development Bank,oof,oof-long-term-loans,2015,251720000.00
+cif,Climate Investment Funds,oda,oda-grants,2015,50310000.00
+cif,Climate Investment Funds,oda,oda-gross-loans,2015,197130000.00
+ebrd,European Bank for Reconstruction and Development,oof,oof-long-term-loans,2015,5025510000.00
+EU,EU Institutions,oda,oda-grants,2015,11240890000.00
+EU,EU Institutions,oda,oda-gross-loans,2015,4314240000.00
+EU,EU Institutions,oof,oof-grants,2015,87830000.00
+EU,EU Institutions,oof,oof-long-term-loans,2015,631560000.00
+gavi,Global Alliance for Vaccines and Immunization,oda,oda-grants,2015,1725190000.00
+gef,Global Environment Facility,oda,oda-grants,2015,813070000.00
+gggi,Global Green Growth Institute,oda,oda-grants,2015,9070000.00
+global-fund,Global Fund,oda,oda-grants,2015,3239200000.00
+iaea,International Atomic Energy Agency,oda,oda-grants,2015,63680000.00
+ibrd,World Bank Group,oof,oof-long-term-loans,2015,19233610000.00
+ida,World Bank Group,oda,oda-grants,2015,1871400000.00
+ida,World Bank Group,oda,oda-gross-loans,2015,11503290000.00
+idb,Inter-American Development Bank,oof,oof-long-term-loans,2015,8938010000.00
+idb-special-fund,Inter-American Development Bank,oda,oda-grants,2015,1036730000.00
+idb-special-fund,Inter-American Development Bank,oda,oda-gross-loans,2015,970030000.00
+ifad,International Fund for Agricultural Development,oda,oda-grants,2015,165860000.00
+ifad,International Fund for Agricultural Development,oda,oda-gross-loans,2015,380210000.00
+ifad,International Fund for Agricultural Development,oof,oof-long-term-loans,2015,110200000.00
+imf-concessional-trust-funds,International Monetary Fund,oda,oda-grants,2015,107000000.00
+imf-concessional-trust-funds,International Monetary Fund,oda,oda-gross-loans,2015,1364760000.00
+international-labour-organisation,International Labour Organisation,oda,oda-grants,2015,285740000.00
+islamic-dev-bank,Islamic Development Bank,oda,oda-gross-loans,2015,194860000.00
+islamic-dev-bank,Islamic Development Bank,oof,oof-long-term-loans,2015,1833170000.00
+montreal-protocol,Montreal Protocol,oda,oda-grants,2015,45300000.00
+nordic-dev-fund,Nordic Development Fund,oda,oda-grants,2015,36600000.00
+nordic-dev-fund,Nordic Development Fund,oda,oda-gross-loans,2015,2580000.00
+ofid,OPEC Fund for International Development,oda,oda-grants,2015,23550000.00
+ofid,OPEC Fund for International Development,oda,oda-gross-loans,2015,371920000.00
+ofid,OPEC Fund for International Development,oof,oof-long-term-loans,2015,633020000.00
+osce,Organization for Security and Co-operation in Europe,oda,oda-grants,2015,114980000.00
+unaids,The Joint United Nations Programme on HIV/AIDS,oda,oda-grants,2015,241320000.00
+undp,United Nations Development Programme,oda,oda-grants,2015,420350000.00
+unece,United Nations Economic Commission for Europe,oda,oda-grants,2015,13760000.00
+unep,United Nations Environment Programme,oda,oda-grants,2015,125180000.00
+unfpa,United Nations Population Fund,oda,oda-grants,2015,313270000.00
+unhcr,United Nations High Commissioner for Refugees,oda,oda-grants,2015,460720000.00
+unicef,United Nations Children's Fund,oda,oda-grants,2015,1401930000.00
+unpbf,United Nations Peacebuilding Fund,oda,oda-grants,2015,71750000.00
+unrwa,United Nations Relief and Works Agency for Palestine Refugees in the Near East,oda,oda-grants,2015,771380000.00
+wfp,World Food Programme,oda,oda-grants,2015,286570000.00
+who,World Health Organisation,oda,oda-grants,2015,663960000.00

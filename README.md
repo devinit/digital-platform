@@ -1,22 +1,62 @@
-DI Digital Platform Datamart
-============================
+# digital-platform
 
-This is a repository for storing (and working with) the data that will be used in the first iteration of the new DI "country profiles" (NB. that there is ingoing discussion as to what this 'thing' should be called: we might first work on country-based data but it's bigger than that).
+This repository feeds the MongoDB DB that feeds the Development Data Hub web app: http://data.devinit.org/#!/.
 
-All data and related indexes are being stored in csv format.
+---
 
-There are currently three data workspaces:
+The Development Data Hub web app repository (staging branch) is here: https://github.com/devinit/datahub-angular/tree/staging
 
-reference-data:
-- an index of reference datasets
-- reference datasets (named r000.csv) - with no fixed format
+---
 
-country-data:
-- an index of datasets
-- an index of dimensions
-- country datasets (named c0000.csv)  - all in the normalised format of country-id, year, dimension, value
+# Structure of the repository
 
-work-in-progress:
-- various wip data 
+- [country-year](https://github.com/devinit/digital-platform/tree/development/country-year): contains raw data .csv files for the visualisations & charts. **Only files that the Development Data Hub web app uses/needs should be stored here**. A raw data .csv files found in this folder is either created by an analyst ('manual'), or is 'automated' i.e., populated from a table in a DB. The DB is maintained and updated 4 times a year. Not all manual files are maintained and if they are, then only once a year.
+ - [iati](https://github.com/devinit/digital-platform/tree/development/country-year/iati): http://data.devinit.org:8888/#!/ → Global Picture → Forward looking ODA
+ - [oda-donor](https://github.com/devinit/digital-platform/tree/development/country-year/oda-donor): http://data.devinit.org:8888/#!/ → Other Visualisations → Different providers, different priorities or  http://data.devinit.org:8888/#!/post/oda-donor
+ - [spotlight-on-kenya](https://github.com/devinit/digital-platform/tree/development/country-year/spotlight-on-kenya): NOT IN USE AT THE MOMENT
+ - [spotlight-on-uganda](https://github.com/devinit/digital-platform/tree/development/country-year/spotlight-on-uganda): http://data.devinit.org:8888/#!/ → Spotlight on Uganda or http://data.devinit.org:8888/#!/spotlight-on-uganda
+ - [warehouse](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse): http://data.devinit.org:8888/#!/ → Global Picture + Country Profiles + Unbundling Aid
+    - [data_series](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/data_series): manual raw data files that support a large number of visualisations/charts on the DH in all locations
+    - [dimension](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/dimension): automated reference files
+    - [donor_profile](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/donor_profile): automated raw data files used with a country profile if a country is a donor
+    - [fact](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/fact): automated raw data files that support a large number of visualisations/charts on the DH in all locations
+    - [multilateral_profile](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/multilateral_profile): automated raw data files used with a multilateral profile
+    - [recipient_profile](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/recipient_profile): automated raw data files used with a country profile if a country is a recipient
+    - [south_south_cooperation](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/south_south_cooperation): automated raw data files used with a south-south cooperation profile
+- [reference](https://github.com/devinit/digital-platform/tree/development/reference): contains manual reference files. 
+- [nodejs](https://github.com/devinit/digital-platform/tree/development/nodejs): contains a small node app to import data from a PostgreSQL DB to the local .csv files in country-year.
+- [user-daya](https://github.com/devinit/digital-platform/tree/development/user-data): contains raw data .csv & .xlsx files that are linked to http://data.devinit.org:8888/#!/data/methodology/. This is where the users can download the data from. This folder is populated using @akmiller01's [user-data2.R](https://github.com/akmiller01/alexm-util/blob/master/DevInit/R/user-data2.R). **As of Janury 2017, this folder is out of date & requires maintenance**.
+- [graveyard](https://github.com/devinit/digital-platform/tree/development/graveyard): is a temporary folder for unused & unwanted .csv files and other junk littering this repository. Once we have cleaned up the repository & tested the web app to make sure that we haven't removed anything that it relies on, **this folder will be permanently deleted**.
 
-Staging data is currently auto deployed on a server at data.devinit.org:8000
+# Conventions
+
+[Coming soon...]
+
+# Issues
+
+1) country-year → raw-data?
+
+2) user-data needs updating, will likely require a rewrite of [user-data2.R](https://github.com/akmiller01/alexm-util/blob/master/DevInit/R/user-data2.R).
+
+3) Development Data Hub site map that shows the location where each .csv from [country-year](https://github.com/devinit/digital-platform/tree/development/country-year) is used is missing. This document should also state who the analyst responsible for each manually created file is. All .csv files populated from the PostgreSQL DB are looked after by @dw8547.
+
+4) Not sure if these concepts (and the corresponding .csv data files, if exist) are needed:
+
+- dfis-out
+- dfis-out-dev
+- ethiopia-nigeria-r3
+- ethiopia-nigeria-r7
+- fdi-out
+- in-oof-net
+- long-debt-disbursement-in
+- long-debt-net-official-in
+- oda-capital-repayments
+- oda-interest-payments
+- remittances
+- ssc-out
+
+If they are used somewhere, they are out of date. If not, remove. Clear up with @epicallan.
+
+# Staging
+
+Staging data is currently auto deployed on a server at http://data.devinit.org:8888/#!/.

@@ -1,0 +1,109 @@
+donor-code,donor-name,donor-type
+1,Austria,DAC
+2,Belgium,DAC
+3,Denmark,DAC
+4,France,DAC
+5,Germany,DAC
+6,Italy,DAC
+7,Netherlands,DAC
+8,Norway,DAC
+9,Portugal,DAC
+10,Sweden,DAC
+11,Switzerland,DAC
+12,United Kingdom,DAC
+18,Finland,DAC
+20,Iceland,DAC
+21,Ireland,DAC
+22,Luxembourg,DAC
+30,Cyprus,Non DAC
+40,Greece,DAC
+45,Malta,Non DAC
+50,Spain,DAC
+55,Turkey,Non DAC
+61,Slovenia,DAC
+62,Croatia,Non DAC
+68,Czech Republic,DAC
+69,Slovak Republic,DAC
+70,Liechtenstein,Non DAC
+72,Bulgaria,Non DAC
+75,Hungary,Non DAC
+76,Poland,DAC
+77,Romania,Non DAC
+82,Estonia,Non DAC
+83,Latvia,Non DAC
+84,Lithuania,Non DAC
+87,Russia,Non DAC
+104,Nordic Development Fund [NDF],Multilateral
+130,Algeria,Non DAC
+133,Libya,Non DAC
+301,Canada,DAC
+302,United States,DAC
+543,Iraq,Non DAC
+546,Israel,Non DAC
+552,Kuwait [KFAED],Non DAC
+561,Qatar,Non DAC
+566,Saudi Arabia,Non DAC
+576,United Arab Emirates,Non DAC
+613,Kazakhstan,Non DAC
+701,Japan,DAC
+732,Chinese Taipei,Non DAC
+742,Korea,DAC
+764,Thailand,Non DAC
+765,Timor Leste,Non DAC
+801,Australia,DAC
+807,UNEP,Multilateral
+811,Global Environment Facility [GEF],Multilateral
+812,Montreal Protocol,Multilateral
+820,New Zealand,DAC
+901,International Bank for Reconstruction and Development [IBRD],Multilateral
+903,International Finance Corporation [IFC],Multilateral
+905,International Development Association [IDA],Multilateral
+906,Caribbean Development Bank [CarDB],Multilateral
+907,IMF,Multilateral
+909,Inter-American Development Bank [IDB],Multilateral
+912,IDB Special Fund,Multilateral
+913,African Development Bank [AfDB],Multilateral
+914,African Development Fund [AfDF],Multilateral
+915,Asian Development Bank [AsDB],Multilateral
+916,AsDB Special Funds,Multilateral
+918,EU Institutions,DAC
+921,Arab Fund [AFESD],Multilateral
+923,UN Peacebuilding Fund [UNPBF],Multilateral
+928,World Health Organisation [WHO],Multilateral
+932,Food and Agriculture Organisation [FAO],Multilateral
+940,International Labour Organisation,Multilateral
+944,International Atomic Energy Agency [IAEA],Multilateral
+948,UNECE,Multilateral
+951,OPEC Fund for International Development [OFID],Multilateral
+953,Arab Bank for Economic Development in Africa [BADEA],Multilateral
+958,IMF (Concessional Trust Funds),Multilateral
+959,UNDP,Multilateral
+960,UNTA,Multilateral
+963,UNICEF,Multilateral
+964,UNRWA,Multilateral
+966,WFP,Multilateral
+967,UNHCR,Multilateral
+971,UNAIDS,Multilateral
+974,UNFPA,Multilateral
+976,Islamic Development Bank [IsDB],Multilateral
+978,OSCE,Multilateral
+988,IFAD,Multilateral
+990,European Bank for Reconstruction and Development [EBRD],Multilateral
+992,UN Agencies,Multilateral
+1011,Climate Investment Funds [CIF],Multilateral
+1012,Adaptation Fund,Multilateral
+1013,Council of Europe Development Bank [CEB],Multilateral
+1311,Global Alliance for Vaccines and Immunization [GAVI],Multilateral
+1312,Global Fund,Multilateral
+1313,Global Green Growth Institute [GGGI],Multilateral
+1601,Bill & Melinda Gates Foundation,Private
+20001,"DAC Countries, Total",
+20002,"Multilateral, Total",
+20003,"G7 Countries, Total",
+20004,"DAC EU Members + EC, Total",
+20005,"All Donors, Total",
+20006,"Non-DAC Countries, Total",
+20007,Other donor countries,
+20011,"DAC EU Members, Total",
+20018,Other Multilaterals,
+21600,"Memo: Private Donors, Total",
