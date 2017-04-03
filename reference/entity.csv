@@ -40,7 +40,7 @@ BM,country,Bermuda,north-central-america,BM,BMU,,,bermuda,BM,,,Bermuda
 BT,country,Bhutan,south-central-asia,BT,BTN,"CN,IN",ldcs,bhutan,BT,recipient,1,Bhutan
 bilateral-unspecified,region,"Bilateral, unspecified",,,,,,bilateral-unspecified,55,region,,"Bilateral, unspecified"
 bmgf,organisation,Bill & Melinda Gates Foundation,,,,,,bmgf,,,,Bill & Melinda Gates Foundation
-BO,country,"Bolivia, Plurinational State of",south-america,BO,BOL,"PE,CL,PY,BR,AR",lmics,bolivia,BO,recipient,1,Bolivia 
+BO,country,"Bolivia, Plurinational State of",south-america,BO,BOL,"PE,CL,PY,BR,AR",lmics,bolivia,BO,recipient,1,Bolivia
 BQ,country,"Bonaire, Sint Eustatius and Saba",north-central-america,BQ,BES,,,bes-islands,BQ,,,BES Islands
 BA,country,Bosnia and Herzegovina,europe,BA,BIH,"HR,ME,RS",umics,bosnia-and-herzegovina,BA,recipient,1,Bosnia & Herzegovina
 BW,country,Botswana,south-of-sahara,BW,BWA,"ZW,ZA,NA",umics,botswana,BW,recipient,1,Botswana
@@ -99,7 +99,7 @@ ET,country,Ethiopia,south-of-sahara,ET,ETH,"ER,KE,SD,SS,SO,DJ",ldcs,ethiopia,ET,
 europe,region,"Europe, regional",europe,,,,,europe-regional,56,region,,"Europe, regional"
 ebrd,organisation,European Bank for Reconstruction and Development (EBRD),,,,,,ebrd,9,multilateral,,European Bank for Reconstruction and Development (EBRD)
 EU,organisation,European Union,europe,,,,,european-union,EU,multilateral,,European Union
-FK,country,Falkland Islands (Malvinas),south-america,FK,FLK,,,falkland-islands,FK,,,Falkland Islands 
+FK,country,Falkland Islands (Malvinas),south-america,FK,FLK,,,falkland-islands,FK,,,Falkland Islands
 east-asia,region,"Far East Asia, regional",far-east-asia,,,,,far-east-asia-regional,57,region,,"Far East Asia, regional"
 FO,country,Faroe Islands,europe,FO,FRO,,,faroe-islands,FO,,,Faroe Islands
 FJ,country,Fiji,oceania,FJ,FJI,,lmics,fiji,FJ,recipient,1,Fiji
@@ -166,7 +166,7 @@ KZ,country,Kazakhstan,south-central-asia,KZ,KAZ,"TM,CN,KG,UZ,RU",umics,kazakhsta
 KE,country,Kenya,south-of-sahara,KE,KEN,"ET,TZ,SS,SO,UG",other-lics,kenya,KE,recipient,1,Kenya
 KI,country,Kiribati,oceania,KI,KIR,,ldcs,kiribati,KI,recipient,1,Kiribati
 KP,country,"Korea, Democratic People's Republic of",far-east-asia,KP,PRK,"CN,KR,RU",other-lics,north-korea,KP,recipient,,North Korea
-KR,country,"Korea, Republic of",far-east-asia,KR,KOR,KP,,south-korea,KR,donor,,South Korea
+KR,country,Korea,far-east-asia,KR,KOR,KP,,south-korea,KR,donor,,Korea
 XK,country,Kosovo,europe,XK,XKS,,lmics,kosovo,XK,recipient,1,Kosovo
 KW,country,Kuwait,middle-east,KW,KWT,"SA,IQ",,kuwait,KW,donor,,Kuwait
 KG,country,Kyrgyzstan,south-central-asia,KG,KGZ,"CN,TJ,UZ,KZ",other-lics,kyrgyzstan,KG,recipient,1,Kyrgyzstan
@@ -253,7 +253,7 @@ BL,country,Saint Barthélemy,north-central-america,BL,BLM,,,saint-barthelemy,BL,
 SH,country,"Saint Helena, Ascension and Tristan da Cunha",south-of-sahara,SH,SHN,,umics,saint-helena-ascension-and-tristan-da-cunha,SH,recipient,,"Saint Helena, Ascension & Tristan da Cunha"
 KN,country,Saint Kitts and Nevis,north-central-america,KN,KNA,,umics,saint-kitts-and-nevis,KN,recipient,1,Saint Kitts and Nevis
 LC,country,Saint Lucia,north-central-america,LC,LCA,,umics,saint-lucia,LC,recipient,1,Saint Lucia
-MF,country,Saint Martin (French part),north-central-america,MF,MAF,SX,,saint-martin,MF,,,Saint Martin 
+MF,country,Saint Martin (French part),north-central-america,MF,MAF,SX,,saint-martin,MF,,,Saint Martin
 PM,country,Saint Pierre and Miquelon,north-central-america,PM,SPM,,,saint-pierre-and-miquelon,PM,,,Saint Pierre & Miquelon
 VC,country,Saint Vincent and the Grenadines,north-central-america,VC,VCT,,umics,saint-vincent-and-the-grenadines,VC,recipient,1,Saint Vincent & the Grenadines
 WS,country,Samoa,oceania,WS,WSM,,ldcs,samoa,WS,recipient,1,Samoa
@@ -266,7 +266,7 @@ SC,country,Seychelles,south-of-sahara,SC,SYC,,umics,seychelles,SC,recipient,1,Se
 SL,country,Sierra Leone,south-of-sahara,SL,SLE,"LR,GN",ldcs,sierra-leone,SL,recipient,1,Sierra Leone
 SG,country,Singapore,south-central-asia,SG,SGP,,,singapore,SG,,,Singapore
 SX,country,Sint Maarten (Dutch part),north-central-america,SX,SXM,MF,,sint-maarten-dutch-part,SX,,,Sint Maarten (Dutch part)
-SK,country,Slovakia,europe,SK,SVK,"PL,HU,CZ,UA,AT",,slovakia,SK,donor,,Slovakia
+SK,country,Slovak Republic,europe,SK,SVK,"PL,HU,CZ,UA,AT",,slovakia,SK,donor,,Slovak Republic
 SI,country,Slovenia,europe,SI,SVN,"HU,IT,HR,AT",,slovenia,SI,donor,,Slovenia
 SB,country,Solomon Islands,oceania,SB,SLB,,ldcs,solomon-islands,SB,recipient,1,Solomon Islands
 SO,country,Somalia,south-of-sahara,SO,SOM,"ET,KE,DJ",ldcs,somalia,SO,recipient,,Somalia
@@ -302,7 +302,7 @@ TM,country,Turkmenistan,south-central-asia,TM,TKM,"AF,IR,UZ,KZ",lmics,turkmenist
 TC,country,Turks and Caicos Islands,north-central-america,TC,TCA,,,turks-and-caicos-islands,TC,recipient,,Turks & Caicos Islands
 TV,country,Tuvalu,oceania,TV,TUV,,ldcs,tuvalu,TV,recipient,1,Tuvalu
 UG,country,Uganda,south-of-sahara,UG,UGA,"TZ,KE,SS,CD,RW",ldcs,uganda,UG,recipient,1,Uganda
-GB,country,UK,europe,GB,GBR,IE,,united-kingdom,GB,donor,,UK
+GB,country,United Kingdom,europe,GB,GBR,IE,,united-kingdom,GB,donor,,United Kingdom
 UA,country,Ukraine,europe,UA,UKR,"PL,MD,HU,SK,BY,RO,RU",lmics,ukraine,UA,recipient,1,Ukraine
 un-agencies,,UN Agencies,,,,,,un-agencies,,multilateral,,UN Agencies
 AE,country,United Arab Emirates,middle-east,AE,ARE,"SA,OM",,uae,AE,donor,,UAE
@@ -315,7 +315,7 @@ unpbf,organisation,United Nations Peacebuilding Fund (UNPBF),,,,,,unpbf,34,multi
 unfpa,organisation,United Nations Population Fund (UNFPA),,,,,,unfpa,31,multilateral,,United Nations Population Fund (UNFPA)
 unta,organisation,United Nations Regular Programme for Technical Assistance (UNTA),,,,,,unta,36,multilateral,,United Nations Regular Programme for Technical Assistance (UNTA)
 unrwa,organisation,United Nations Relief and Works Agency (UNRWA),,,,,,unrwa,35,multilateral,,United Nations Relief and Works Agency (UNRWA)
-US,country,United States,north-central-america,US,USA,"CA,MX,CU",,usa,US,donor,,USA
+US,country,United States,north-central-america,US,USA,"CA,MX,CU",,usa,US,donor,,United States
 UM,country,United States Minor Outlying Islands,oceania,UM,UMI,,,united-states-minor-outlying-islands,UM,,,United States Minor Outlying Islands
 UY,country,Uruguay,south-america,UY,URY,"BR,AR",umics,uruguay,UY,recipient,1,Uruguay
 UZ,country,Uzbekistan,south-central-asia,UZ,UZB,"TM,AF,KG,TJ,KZ",lmics,uzbekistan,UZ,recipient,1,Uzbekistan
