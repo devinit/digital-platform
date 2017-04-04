@@ -286,7 +286,7 @@ SJ,country,Svalbard and Jan Mayen,europe,SJ,SJM,,,svalbard-and-jan-mayen,SJ,,,Sv
 SZ,country,Swaziland,south-of-sahara,SZ,SWZ,"ZA,MZ",lmics,swaziland,SZ,recipient,1,Swaziland
 SE,country,Sweden,europe,SE,SWE,"NO,FI",,sweden,SE,donor,,Sweden
 CH,country,Switzerland,europe,CH,CHE,"DE,IT,LI,FR,AT",,switzerland,CH,donor,,Switzerland
-SY,country,Syrian Arab Republic,middle-east,SY,SYR,"IQ,JO,IL,TR,LB",lmics,syria,SY,recipient,1,Syria
+SY,country,Syrian Arab Republic,middle-east,SY,SYR,"IQ,JO,IL,TR,LB",lmics,syria,SY,recipient,,Syria
 TW,country,"Taiwan, Province of China",far-east-asia,TW,TWN,,,taiwan,TW,donor,,Taiwan
 TJ,country,Tajikistan,south-central-asia,TJ,TJK,"CN,AF,KG,UZ",other-lics,tajikistan,TJ,recipient,1,Tajikistan
 TZ,country,"Tanzania, United Republic of",south-of-sahara,TZ,TZA,"MZ,KE,CD,RW,ZM,BI,UG,MW",ldcs,tanzania,TZ,recipient,1,Tanzania
