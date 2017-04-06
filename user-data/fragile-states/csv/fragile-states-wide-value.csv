@@ -1,251 +1,251 @@
-"id","entity-name","2014"
-"AF","Afghanistan",4
-"AX","Aland Islands",
-"AL","Albania",1
-"DZ","Algeria",2
-"AS","American Samoa",1
-"AD","Andorra",1
-"AO","Angola",4
-"AI","Anguilla",
-"AQ","Antarctica",
-"AG","Antigua & Barbuda",1
-"AR","Argentina",1
-"AM","Armenia",1
-"AW","Aruba",1
-"AU","Australia",1
-"AT","Austria",1
-"AZ","Azerbaijan",2
-"BS","Bahamas",1
-"BH","Bahrain",1
-"BD","Bangladesh",4
-"BB","Barbados",1
-"BY","Belarus",2
-"BE","Belgium",1
-"BZ","Belize",1
-"BJ","Benin",1
-"BM","Bermuda",1
-"BQ","BES Islands",
-"BT","Bhutan",4
-"BO","Bolivia ",1
-"BA","Bosnia & Herzegovina",2
-"BW","Botswana",1
-"BV","Bouvet Island",
-"BR","Brazil",1
-"IO","British Indian Ocean Territory",
-"BN","Brunei",1
-"BG","Bulgaria",1
-"BF","Burkina Faso",3
-"BI","Burundi",4
-"KH","Cambodia",3
-"CM","Cameroon",4
-"CA","Canada",1
-"CV","Cape Verde",1
-"CF","CAR",4
-"KY","Cayman Islands",1
-"TD","Chad",5
-"CL","Chile",1
-"CN","China",1
-"CX","Christmas Island",
-"CC","Cocos (Keeling) Islands",
-"CO","Colombia",4
-"KM","Comoros",3
-"CG","Congo",3
-"CK","Cook Islands",
-"CR","Costa Rica",1
-"CI","Cote d'Ivoire",4
-"HR","Croatia",1
-"CU","Cuba",2
-"CW","Curacao",1
-"CY","Cyprus",1
-"CZ","Czech Republic",1
-"DK","Denmark",1
-"DJ","Djibouti",3
-"DM","Dominica",1
-"DO","Dominican Republic",2
-"CD","DRC",5
-"EC","Ecuador",1
-"EG","Egypt",4
-"SV","El Salvador",1
-"GQ","Equatorial Guinea",4
-"ER","Eritrea",4
-"EE","Estonia",1
-"ET","Ethiopia",4
-"FK","Falkland Islands ",
-"FO","Faroe Islands",1
-"FJ","Fiji",1
-"FI","Finland",1
-"FR","France",1
-"GF","French Guiana",
-"PF","French Polynesia",1
-"TF","French Southern Territories",
-"GA","Gabon",1
-"GM","Gambia",3
-"GE","Georgia",3
-"DE","Germany",1
-"GH","Ghana",1
-"GI","Gibraltar",
-"GR","Greece",1
-"GL","Greenland",1
-"GD","Grenada",1
-"GP","Guadeloupe",
-"GU","Guam",1
-"GT","Guatemala",3
-"GG","Guernsey",
-"GN","Guinea",4
-"GW","Guinea-Bissau",3
-"GY","Guyana",1
-"HT","Haiti",4
-"HM","Heard Island & McDonald Islands",
-"VA","Holy See (Vatican City State)",
-"HN","Honduras",1
-"HK","Hong Kong",1
-"HU","Hungary",1
-"IS","Iceland",1
-"IN","India",1
-"ID","Indonesia",1
-"IR","Iran",4
-"IQ","Iraq",5
-"IE","Ireland",1
-"IM","Isle of Man",1
-"IL","Israel",1
-"IT","Italy",1
-"JM","Jamaica",1
-"JP","Japan",1
-"JE","Jersey",
-"JO","Jordan",1
-"KZ","Kazakhstan",1
-"KE","Kenya",4
-"KI","Kiribati",1
-"XK","Kosovo",1
-"KW","Kuwait",1
-"KG","Kyrgyzstan",4
-"LA","Lao",4
-"LV","Latvia",1
-"LB","Lebanon",4
-"LS","Lesotho",2
-"LR","Liberia",4
-"LY","Libya",3
-"LI","Liechtenstein",1
-"LT","Lithuania",1
-"LU","Luxembourg",1
-"MO","Macao",1
-"MK","Macedonia",1
-"MG","Madagascar",3
-"MW","Malawi",3
-"MY","Malaysia",1
-"MV","Maldives",1
-"ML","Mali",3
-"MT","Malta",1
-"MH","Marshall Islands",1
-"MQ","Martinique",
-"MR","Mauritania",3
-"MU","Mauritius",1
-"YT","Mayotte",
-"MX","Mexico",1
-"FM","Micronesia",1
-"MD","Moldova",2
-"MC","Monaco",1
-"MN","Mongolia",1
-"ME","Montenegro",1
-"MS","Montserrat",
-"MA","Morocco",1
-"MZ","Mozambique",3
-"MM","Myanmar",4
-"NA","Namibia",1
-"NR","Nauru",
-"NP","Nepal",4
-"NL","Netherlands",1
-"NC","New Caledonia",1
-"NZ","New Zealand",1
-"NI","Nicaragua",2
-"NE","Niger",3
-"NG","Nigeria",4
-"NU","Niue",
-"NF","Norfolk Island",
-"KP","North Korea",3
-"MP","Northern Mariana Islands",1
-"NO","Norway",1
-"OM","Oman",1
-"PK","Pakistan",4
-"PW","Palau",1
-"PS","Palestine",4
-"PA","Panama",1
-"PG","Papua New Guinea",3
-"PY","Paraguay",1
-"PE","Peru",1
-"PH","Philippines",3
-"PN","Pitcairn",
-"PL","Poland",1
-"PT","Portugal",1
-"PR","Puerto Rico",1
-"QA","Qatar",1
-"RE","Reunion",
-"RO","Romania",1
-"RU","Russian Federation",2
-"RW","Rwanda",4
-"BL","Saint Barthelemy",
-"SH","Saint Helena, Ascension & Tristan da Cunha",
-"KN","Saint Kitts and Nevis",1
-"LC","Saint Lucia",1
-"MF","Saint Martin ",1
-"PM","Saint Pierre & Miquelon",
-"VC","Saint Vincent & the Grenadines",1
-"WS","Samoa",1
-"SM","San Marino",1
-"ST","Sao Tome & Principe",1
-"SA","Saudi Arabia",1
-"SN","Senegal",3
-"RS","Serbia",2
-"SC","Seychelles",1
-"SL","Sierra Leone",4
-"SG","Singapore",1
-"SX","Sint Maarten (Dutch part)",1
-"SK","Slovakia",1
-"SI","Slovenia",1
-"SB","Solomon Islands",3
-"SO","Somalia",5
-"ZA","South Africa",1
-"GS","South Georgia & the South Sandwich Islands",
-"KR","South Korea",1
-"SS","South Sudan",5
-"ES","Spain",1
-"LK","Sri Lanka",3
-"SD","Sudan",5
-"SR","Suriname",1
-"SJ","Svalbard & Jan Mayen",
-"SZ","Swaziland",3
-"SE","Sweden",1
-"CH","Switzerland",1
-"SY","Syria",4
-"TW","Taiwan",1
-"TJ","Tajikistan",4
-"TZ","Tanzania",3
-"TH","Thailand",1
-"TL","Timor-Leste",3
-"TG","Togo",4
-"TK","Tokelau",
-"TO","Tonga",1
-"TT","Trinidad & Tobago",1
-"TN","Tunisia",1
-"TR","Turkey",1
-"TM","Turkmenistan",2
-"TC","Turks & Caicos Islands",1
-"TV","Tuvalu",1
-"AE","UAE",1
-"UG","Uganda",4
-"GB","UK",1
-"UA","Ukraine",1
-"UM","United States Minor Outlying Islands",
-"UY","Uruguay",1
-"US","USA",1
-"UZ","Uzbekistan",4
-"VU","Vanuatu",1
-"VE","Venezuela",1
-"VN","Viet Nam",1
-"VG","Virgin Islands (GB)",
-"VI","Virgin Islands (US)",1
-"WF","Wallis & Futuna",
-"EH","Western Sahara",
-"YE","Yemen",4
-"ZM","Zambia",3
-"ZW","Zimbabwe",5
+"id","2007","2008","2009","2010","2011","2012","2013","2014","2015"
+"AD",,,,,,,,,
+"AE",5,5,5,5,5,4,4,4,4
+"AF",10,10,10,10,10,10,10,10,10
+"AG",6,6,6,6,5,5,5,5,5
+"AI",,,,,,,,,
+"AL",7,6,6,6,6,6,6,6,6
+"AM",7,7,7,7,7,7,7,7,6
+"AO",8,8,8,8,8,8,8,8,8
+"AQ",,,,,,,,,
+"AR",4,4,4,4,4,4,4,4,4
+"AS",,,,,,,,,
+"AT",2,2,2,2,2,2,2,2,2
+"AU",2,2,2,2,2,2,2,2,2
+"AW",,,,,,,,,
+"AX",,,,,,,,,
+"AZ",8,8,8,8,8,7,7,7,7
+"BA",8,8,8,8,8,7,7,7,7
+"BB",5,5,5,5,5,5,5,5,4
+"BD",9,10,9,9,9,9,9,9,9
+"BE",2,2,3,3,3,3,3,3,3
+"BF",8,8,9,9,8,8,9,8,8
+"BG",6,5,6,6,5,5,5,5,5
+"BH",5,5,5,5,5,6,6,6,6
+"BI",9,9,9,9,9,9,9,9,9
+"BJ",7,7,7,7,7,7,7,7,7
+"BL",,,,,,,,,
+"BM",,,,,,,,,
+"BN",7,6,6,6,6,6,6,6,6
+"BO",8,8,8,8,8,8,8,7,7
+"BQ",,,,,,,,,
+"BR",6,6,6,6,6,6,6,6,6
+"BS",6,6,6,5,5,5,5,5,5
+"BT",8,8,8,8,8,8,8,8,7
+"BV",,,,,,,,,
+"BW",6,6,6,6,6,6,6,6,6
+"BY",8,8,8,7,7,7,7,7,7
+"BZ",6,7,6,6,6,6,6,6,6
+"CA",2,2,2,2,2,2,2,2,2
+"CC",,,,,,,,,
+"CD",10,10,10,10,10,11,11,11,10
+"CF",10,10,10,10,10,10,10,11,11
+"CG",9,9,9,9,9,9,8,8,9
+"CH",2,2,2,2,2,2,2,2,2
+"CI",10,10,10,10,10,10,10,10,9
+"CK",,,,,,,,,
+"CL",3,3,3,3,4,4,4,4,4
+"CM",8,9,9,9,9,9,9,9,9
+"CN",8,8,8,8,8,7,8,7,7
+"CO",8,8,8,8,8,8,8,8,8
+"CR",5,5,5,5,5,4,4,4,4
+"CU",7,7,8,7,7,7,7,7,6
+"CV",8,8,7,7,7,7,7,7,7
+"CW",,,,,,,,,
+"CX",,,,,,,,,
+"CY",7,6,6,6,6,6,6,6,6
+"CZ",4,4,4,4,4,3,3,3,3
+"DE",3,3,3,3,3,3,2,3,2
+"DJ",8,7,8,8,8,8,8,8,8
+"DK",2,2,2,2,2,2,2,2,2
+"DM",,,,,,,,,
+"DO",8,7,7,7,7,7,7,7,7
+"DZ",7,7,8,8,7,7,7,7,7
+"EC",7,8,8,8,8,8,7,7,7
+"EE",5,5,5,5,4,4,4,4,4
+"EG",8,8,8,8,8,9,9,9,8
+"EH",,,,,,,,,
+"ER",8,8,9,9,9,9,9,9,9
+"ES",3,4,4,4,4,4,4,4,4
+"ET",9,9,9,9,9,9,9,9,9
+"FI",1,1,1,1,1,1,1,1,1
+"FJ",7,7,7,8,8,8,8,7,7
+"FK",,,,,,,,,
+"FM",7,7,7,7,7,7,7,7,7
+"FO",,,,,,,,,
+"FR",3,3,3,3,3,3,3,3,3
+"GA",7,7,7,7,7,7,7,7,7
+"GB",3,3,3,3,3,3,3,3,3
+"GD",7,6,6,6,6,6,6,6,6
+"GE",8,8,9,9,8,8,8,8,7
+"GF",,,,,,,,,
+"GG",,,,,,,,,
+"GH",6,6,6,6,6,6,6,7,7
+"GI",,,,,,,,,
+"GL",,,,,,,,,
+"GM",7,7,7,8,8,8,8,8,8
+"GN",10,10,10,10,10,10,10,10,10
+"GP",,,,,,,,,
+"GQ",8,8,8,8,8,8,8,8,8
+"GR",4,4,4,4,4,5,5,5,5
+"GS",,,,,,,,,
+"GT",8,8,8,8,8,7,8,8,8
+"GU",,,,,,,,,
+"GW",8,9,9,9,9,9,10,10,9
+"GY",7,7,7,7,7,7,7,7,7
+"HK",,,,,,,,,
+"HM",,,,,,,,,
+"HN",7,7,7,7,7,7,7,7,7
+"HR",6,5,6,5,5,5,5,5,5
+"HT",10,9,10,10,10,10,10,10,10
+"HU",5,5,5,5,4,4,4,4,4
+"ID",8,8,8,8,8,8,7,7,7
+"IE",1,1,2,2,2,2,2,2,2
+"IL",7,,,,,,,,
+"IM",,,,,,,,,
+"IN",7,7,7,7,7,7,7,7,7
+"IO",,,,,,,,,
+"IQ",11,11,10,10,10,10,10,10,10
+"IR",8,8,8,9,9,8,8,8,8
+"IS",2,2,2,2,3,2,2,2,2
+"IT",3,3,4,4,4,4,4,4,4
+"JE",,,,,,,,,
+"JM",6,6,6,6,6,6,6,6,6
+"JO",7,7,7,7,7,7,7,7,7
+"JP",2,2,3,3,3,4,3,3,3
+"KE",9,9,10,10,9,9,9,9,9
+"KG",8,8,8,8,9,8,8,8,8
+"KH",8,8,8,8,8,8,8,8,8
+"KI",,,,,,,,,
+"KM",7,7,8,8,8,8,8,8,8
+"KN",,,,,,,,,
+"KP",9,9,9,9,9,9,9,9,9
+"KR",3,4,4,4,3,3,3,3,3
+"KW",6,6,6,6,5,5,5,5,5
+"KY",,,,,,,,,
+"KZ",7,7,7,7,7,7,6,6,6
+"LA",8,8,8,8,8,8,8,8,8
+"LB",9,9,9,9,8,8,8,8,8
+"LC",,,,,,,,,
+"LI",,,,,,,,,
+"LK",9,9,9,9,9,9,9,9,9
+"LR",9,9,9,9,9,9,9,9,9
+"LS",8,8,8,8,8,7,7,7,7
+"LT",4,4,4,4,4,4,4,4,4
+"LU",2,2,2,2,2,2,2,2,2
+"LV",5,5,5,5,5,5,4,4,4
+"LY",6,6,6,6,6,8,8,8,9
+"MA",7,7,7,7,7,7,7,7,7
+"MC",,,,,,,,,
+"MD",8,8,8,8,8,7,7,7,7
+"ME",5,5,5,5,5,5,5,5,5
+"MF",,,,,,,,,
+"MG",7,7,8,8,8,8,8,8,8
+"MH",,,,,,,,,
+"MK",7,7,7,7,7,6,6,6,6
+"ML",7,7,7,7,7,7,8,8,9
+"MM",9,10,10,9,9,9,9,9,9
+"MN",5,5,6,6,5,5,5,5,5
+"MO",,,,,,,,,
+"MP",,,,,,,,,
+"MQ",,,,,,,,,
+"MR",8,8,8,8,8,8,9,9,9
+"MS",,,,,,,,,
+"MT",4,4,4,4,4,4,4,4,4
+"MU",4,4,4,4,4,4,4,4,4
+"MV",8,8,7,7,7,7,7,7,7
+"MW",9,9,9,9,9,8,8,8,8
+"MX",7,7,7,7,7,7,7,7,7
+"MY",6,6,6,6,6,6,6,6,6
+"MZ",7,7,8,8,8,8,8,8,8
+"NA",7,7,7,7,7,7,7,7,7
+"NC",,,,,,,,,
+"NE",9,9,9,9,9,9,9,9,9
+"NF",,,,,,,,,
+"NG",9,9,9,10,9,10,10,9,10
+"NI",7,8,8,8,8,7,7,7,7
+"NL",2,2,2,2,2,2,2,2,2
+"NO",1,1,1,1,2,2,2,2,2
+"NP",9,9,9,9,9,9,9,9,9
+"NR",,,,,,,,,
+"NU",,,,,,,,,
+"NZ",2,2,2,2,2,2,2,2,2
+"OM",4,4,4,4,4,5,5,5,5
+"PA",5,5,5,5,5,5,5,5,5
+"PE",7,7,7,7,7,7,7,7,7
+"PF",,,,,,,,,
+"PG",8,8,8,8,8,8,8,8,8
+"PH",8,8,8,8,8,8,8,8,8
+"PK",10,10,10,10,10,10,10,10,10
+"PL",4,4,4,4,4,4,4,4,3
+"PM",,,,,,,,,
+"PN",,,,,,,,,
+"PR",,,,,,,,,
+"PS",,8,8,8,8,8,8,7,7
+"PT",3,3,3,3,3,3,3,3,2
+"PW",,,,,,,,,
+"PY",7,7,7,7,7,7,7,7,7
+"QA",5,5,5,5,4,4,4,4,4
+"RE",,,,,,,,,
+"RO",6,5,6,6,5,5,5,5,5
+"RS",8,8,7,7,7,7,7,7,7
+"RU",8,7,8,7,7,7,7,7,7
+"RW",8,8,8,8,9,8,8,9,9
+"SA",7,7,7,7,7,7,7,7,7
+"SB",9,9,8,8,8,8,8,8,8
+"SC",7,6,6,6,6,6,6,6,6
+"SD",11,11,11,11,10,10,11,11,11
+"SE",1,1,2,2,2,2,1,2,2
+"SG",3,3,3,3,3,3,3,3,3
+"SH",,,,,,,,,
+"SI",3,3,3,3,3,3,3,3,3
+"SJ",,,,,,,,,
+"SK",4,4,4,4,4,4,4,4,4
+"SL",9,9,9,9,9,9,9,8,9
+"SM",,,,,,,,,
+"SN",6,7,7,7,7,7,8,8,8
+"SO",11,11,11,11,11,11,11,11,11
+"SR",7,7,7,7,7,7,7,7,6
+"SS",,,,,,10,11,11,11
+"ST",7,7,7,7,7,7,7,7,7
+"SV",7,7,7,7,7,7,7,7,7
+"SX",,,,,,,,,
+"SY",8,9,8,8,8,9,9,10,10
+"SZ",8,7,8,8,8,8,8,8,8
+"TC",,,,,,,,,
+"TD",10,11,11,11,11,10,10,10,10
+"TF",,,,,,,,,
+"TG",8,8,8,8,8,8,8,8,8
+"TH",7,7,7,7,7,7,7,7,7
+"TJ",8,8,9,8,8,8,8,8,8
+"TK",,,,,,,,,
+"TL",9,9,9,9,9,9,9,9,9
+"TM",8,8,8,8,7,7,7,7,7
+"TN",6,6,6,6,7,7,7,7,7
+"TO",,,,,,,,,
+"TR",7,7,7,7,7,7,7,7,7
+"TT",6,6,6,6,6,6,6,6,5
+"TV",,,,,,,,,
+"TW",,,,,,,,,
+"TZ",7,7,8,8,8,8,8,8,8
+"UA",7,7,6,6,6,6,6,6,7
+"UG",9,9,9,9,9,9,9,9,9
+"UM",,,,,,,,,
+"US",3,3,3,3,3,3,3,3,3
+"UY",4,4,4,4,4,4,3,3,3
+"UZ",9,9,9,9,8,8,8,8,8
+"VA",,,,,,,,,
+"VC",,,,,,,,,
+"VE",7,7,7,7,7,7,7,7,7
+"VG",,,,,,,,,
+"VI",,,,,,,,,
+"VN",7,7,7,7,7,7,7,7,7
+"VU",,,,,,,,,
+"WF",,,,,,,,,
+"WS",7,7,7,7,6,6,6,6,6
+"XK",,,,,,,,,
+"YE",9,9,9,9,10,10,10,10,10
+"YT",,,,,,,,,
+"ZA",5,6,6,6,6,6,6,6,6
+"ZM",8,8,8,8,8,8,8,8,8
+"ZW",11,11,11,11,10,10,10,10,9

@@ -1,4 +1,17 @@
 "id","entity-name","year","value"
+"AE","UAE",2009,0.37
+"AE","UAE",2010,0.14
+"AE","UAE",2011,0.21
+"AE","UAE",2012,0.2
+"AE","UAE",2013,1.34
+"AE","UAE",2014,1.26
+"AE","UAE",2015,1.18
+"BG","Bulgaria",2010,0.09
+"BG","Bulgaria",2011,0.09
+"BG","Bulgaria",2012,0.08
+"BG","Bulgaria",2013,0.1
+"BG","Bulgaria",2014,0.09
+"BG","Bulgaria",2015,0.09
 "BR","Brazil",2000,
 "BR","Brazil",2001,
 "BR","Brazil",2002,
@@ -13,20 +26,6 @@
 "BR","Brazil",2011,
 "BR","Brazil",2012,
 "BR","Brazil",2013,
-"BG","Bulgaria",2000,
-"BG","Bulgaria",2001,
-"BG","Bulgaria",2002,
-"BG","Bulgaria",2003,
-"BG","Bulgaria",2004,
-"BG","Bulgaria",2005,
-"BG","Bulgaria",2006,
-"BG","Bulgaria",2007,
-"BG","Bulgaria",2008,
-"BG","Bulgaria",2009,
-"BG","Bulgaria",2010,0.000494611
-"BG","Bulgaria",2011,0.013108222
-"BG","Bulgaria",2012,0.000321558
-"BG","Bulgaria",2013,0.000684449
 "CN","China",2000,
 "CN","China",2001,0.058029769
 "CN","China",2002,0.05648851
@@ -41,62 +40,61 @@
 "CN","China",2011,0.069949687
 "CN","China",2012,0.075652369
 "CN","China",2013,0.081611315
-"HR","Croatia",2000,
-"HR","Croatia",2001,
-"HR","Croatia",2002,
-"HR","Croatia",2003,
-"HR","Croatia",2004,
-"HR","Croatia",2005,
-"HR","Croatia",2006,
-"HR","Croatia",2007,
-"HR","Croatia",2008,
-"HR","Croatia",2009,
-"HR","Croatia",2010,
-"HR","Croatia",2011,
-"HR","Croatia",2012,0.026839187
-"HR","Croatia",2013,0.043305962
-"CY","Cyprus",2000,
-"CY","Cyprus",2001,
-"CY","Cyprus",2002,
-"CY","Cyprus",2003,
-"CY","Cyprus",2004,
-"CY","Cyprus",2005,0.026659476
-"CY","Cyprus",2006,0.079231162
-"CY","Cyprus",2007,0.102202662
-"CY","Cyprus",2008,0.095870177
-"CY","Cyprus",2009,0.100278484
-"CY","Cyprus",2010,0.134918878
-"CY","Cyprus",2011,0.075669063
-"CY","Cyprus",2012,0.042012945
-"CY","Cyprus",2013,0.015792167
-"EE","Estonia",2000,
-"EE","Estonia",2001,
-"EE","Estonia",2002,
-"EE","Estonia",2003,
-"EE","Estonia",2004,0.005614235
-"EE","Estonia",2005,0.015302465
-"EE","Estonia",2006,0.012250259
-"EE","Estonia",2007,0.013015898
-"EE","Estonia",2008,0.027054928
-"EE","Estonia",2009,0.019466636
-"EE","Estonia",2010,0.026777237
-"EE","Estonia",2011,0.034494588
-"EE","Estonia",2012,0.039361808
-"EE","Estonia",2013,0.047171581
-"HU","Hungary",2000,
-"HU","Hungary",2001,
-"HU","Hungary",2002,
-"HU","Hungary",2003,0.017545634
-"HU","Hungary",2004,0.037313119
-"HU","Hungary",2005,0.04235498
-"HU","Hungary",2006,0.073393416
-"HU","Hungary",2007,0.024596809
-"HU","Hungary",2008,0.010856073
-"HU","Hungary",2009,0.024108381
-"HU","Hungary",2010,0.022898842
-"HU","Hungary",2011,0.025559004
-"HU","Hungary",2012,0.018241574
-"HU","Hungary",2013,0.027553938
+"CY","Cyprus",2005,0.09
+"CY","Cyprus",2006,0.14
+"CY","Cyprus",2007,0.17
+"CY","Cyprus",2008,0.17
+"CY","Cyprus",2009,0.2
+"CY","Cyprus",2010,0.23
+"CY","Cyprus",2011,0.16
+"CY","Cyprus",2012,0.11
+"CY","Cyprus",2013,0.1
+"CY","Cyprus",2014,0.09
+"CY","Cyprus",2015,0.09
+"EE","Estonia",2004,0.05
+"EE","Estonia",2005,0.08
+"EE","Estonia",2006,0.09
+"EE","Estonia",2007,0.08
+"EE","Estonia",2008,0.1
+"EE","Estonia",2009,0.1
+"EE","Estonia",2010,0.1
+"EE","Estonia",2011,0.12
+"EE","Estonia",2012,0.11
+"EE","Estonia",2013,0.13
+"EE","Estonia",2014,0.14
+"EE","Estonia",2015,0.15
+"HR","Croatia",2012,0.04
+"HR","Croatia",2013,0.08
+"HR","Croatia",2014,0.13
+"HR","Croatia",2015,0.09
+"HU","Hungary",2003,0.03
+"HU","Hungary",2004,0.07
+"HU","Hungary",2005,0.11
+"HU","Hungary",2006,0.13
+"HU","Hungary",2007,0.08
+"HU","Hungary",2008,0.08
+"HU","Hungary",2009,0.1
+"HU","Hungary",2010,0.09
+"HU","Hungary",2011,0.11
+"HU","Hungary",2012,0.1
+"HU","Hungary",2013,0.1
+"HU","Hungary",2014,0.11
+"HU","Hungary",2015,0.13
+"IL","Israel",2001,0.08
+"IL","Israel",2002,0.12
+"IL","Israel",2003,0.1
+"IL","Israel",2004,0.07
+"IL","Israel",2005,0.08
+"IL","Israel",2006,0.06
+"IL","Israel",2007,0.07
+"IL","Israel",2008,0.07
+"IL","Israel",2009,0.07
+"IL","Israel",2010,0.07
+"IL","Israel",2011,0.09
+"IL","Israel",2012,0.07
+"IL","Israel",2013,0.07
+"IL","Israel",2014,0.07
+"IL","Israel",2015,0.07
 "IN","India",2000,
 "IN","India",2001,
 "IN","India",2002,
@@ -111,90 +109,51 @@
 "IN","India",2011,0.048467455
 "IN","India",2012,0.055832166
 "IN","India",2013,0.064116771
-"IL","Israel",2000,
-"IL","Israel",2001,0.075046097
-"IL","Israel",2002,0.118145904
-"IL","Israel",2003,0.092959925
-"IL","Israel",2004,0.063062563
-"IL","Israel",2005,0.062645159
-"IL","Israel",2006,0.053205189
-"IL","Israel",2007,0.059363018
-"IL","Israel",2008,0.05968132
-"IL","Israel",2009,0.056352878
-"IL","Israel",2010,0.060653508
-"IL","Israel",2011,0.079489023
-"IL","Israel",2012,0.062621404
-"IL","Israel",2013,0.065117076
-"KW","Kuwait",2000,
-"KW","Kuwait",2001,
-"KW","Kuwait",2002,
 "KW","Kuwait",2003,
-"KW","Kuwait",2004,
-"KW","Kuwait",2005,
-"KW","Kuwait",2006,
-"KW","Kuwait",2007,
-"KW","Kuwait",2008,
-"KW","Kuwait",2009,
-"KW","Kuwait",2010,
-"KW","Kuwait",2011,
-"KW","Kuwait",2012,
-"KW","Kuwait",2013,
-"LV","Latvia",2000,
-"LV","Latvia",2001,
-"LV","Latvia",2002,
-"LV","Latvia",2003,0.000726399
-"LV","Latvia",2004,0.001566206
-"LV","Latvia",2005,0.005803443
-"LV","Latvia",2006,0.004655922
-"LV","Latvia",2007,0.005541849
-"LV","Latvia",2008,0.012826239
-"LV","Latvia",2009,0.007101541
-"LV","Latvia",2010,0.00652119
-"LV","Latvia",2011,0.004496658
-"LV","Latvia",2012,0.004103332
-"LV","Latvia",2013,0.004671301
-"LI","Liechtenstein",2000,
-"LI","Liechtenstein",2001,
-"LI","Liechtenstein",2002,
-"LI","Liechtenstein",2003,
-"LI","Liechtenstein",2004,
-"LI","Liechtenstein",2005,
-"LI","Liechtenstein",2006,
-"LI","Liechtenstein",2007,0.404380996
-"LI","Liechtenstein",2008,0.462216156
-"LI","Liechtenstein",2009,0.543254377
-"LI","Liechtenstein",2010,0.508514112
-"LI","Liechtenstein",2011,0.568878113
-"LI","Liechtenstein",2012,0.624020888
-"LI","Liechtenstein",2013,
-"LT","Lithuania",2000,
-"LT","Lithuania",2001,
-"LT","Lithuania",2002,
-"LT","Lithuania",2003,0.003779556
-"LT","Lithuania",2004,0.003682582
-"LT","Lithuania",2005,0.004998195
-"LT","Lithuania",2006,0.025244188
-"LT","Lithuania",2007,0.056005295
-"LT","Lithuania",2008,0.03419029
-"LT","Lithuania",2009,0.024287173
-"LT","Lithuania",2010,0.046726109
-"LT","Lithuania",2011,0.049712031
-"LT","Lithuania",2012,0.054041342
-"LT","Lithuania",2013,0.039995393
-"MT","Malta",2000,
-"MT","Malta",2001,
-"MT","Malta",2002,
-"MT","Malta",2003,
-"MT","Malta",2004,
-"MT","Malta",2005,
-"MT","Malta",2006,
-"MT","Malta",2007,
-"MT","Malta",2008,
-"MT","Malta",2009,0.100534054
-"MT","Malta",2010,0.109344816
-"MT","Malta",2011,0.164919921
-"MT","Malta",2012,0.148198973
-"MT","Malta",2013,0.133797433
+"KZ","Kazakhstan",2013,0
+"KZ","Kazakhstan",2014,0.02
+"KZ","Kazakhstan",2015,0.03
+"LI","Liechtenstein",2007,0.44
+"LI","Liechtenstein",2008,0.53
+"LI","Liechtenstein",2009,0.68
+"LI","Liechtenstein",2010,0.62
+"LI","Liechtenstein",2011,0.69
+"LI","Liechtenstein",2012,0.75
+"LI","Liechtenstein",2013,0.64
+"LI","Liechtenstein",2014,0.5
+"LT","Lithuania",2003,0.01
+"LT","Lithuania",2004,0.04
+"LT","Lithuania",2005,0.06
+"LT","Lithuania",2006,0.08
+"LT","Lithuania",2007,0.11
+"LT","Lithuania",2008,0.11
+"LT","Lithuania",2009,0.11
+"LT","Lithuania",2010,0.11
+"LT","Lithuania",2011,0.13
+"LT","Lithuania",2012,0.13
+"LT","Lithuania",2013,0.11
+"LT","Lithuania",2014,0.1
+"LT","Lithuania",2015,0.14
+"LV","Latvia",2003,0.01
+"LV","Latvia",2004,0.06
+"LV","Latvia",2005,0.07
+"LV","Latvia",2006,0.06
+"LV","Latvia",2007,0.06
+"LV","Latvia",2008,0.07
+"LV","Latvia",2009,0.07
+"LV","Latvia",2010,0.06
+"LV","Latvia",2011,0.07
+"LV","Latvia",2012,0.08
+"LV","Latvia",2013,0.08
+"LV","Latvia",2014,0.08
+"LV","Latvia",2015,0.09
+"MT","Malta",2009,0.18
+"MT","Malta",2010,0.18
+"MT","Malta",2011,0.25
+"MT","Malta",2012,0.23
+"MT","Malta",2013,0.2
+"MT","Malta",2014,0.2
+"MT","Malta",2015,0.17
 "MX","Mexico",2000,
 "MX","Mexico",2001,
 "MX","Mexico",2002,
@@ -209,115 +168,78 @@
 "MX","Mexico",2011,0.025101776
 "MX","Mexico",2012,0.023662193
 "MX","Mexico",2013,
-"RO","Romania",2000,
-"RO","Romania",2001,
-"RO","Romania",2002,
-"RO","Romania",2003,
-"RO","Romania",2004,
-"RO","Romania",2005,
-"RO","Romania",2006,
-"RO","Romania",2007,
-"RO","Romania",2008,0.019474453
-"RO","Romania",2009,0.016885
-"RO","Romania",2010,0.016664969
-"RO","Romania",2011,0.015226386
-"RO","Romania",2012,0.019797168
-"RO","Romania",2013,0.011142077
-"RU","Russian Federation",2000,
-"RU","Russian Federation",2001,
-"RU","Russian Federation",2002,
-"RU","Russian Federation",2003,
-"RU","Russian Federation",2004,
-"RU","Russian Federation",2005,
-"RU","Russian Federation",2006,
-"RU","Russian Federation",2007,
-"RU","Russian Federation",2008,
-"RU","Russian Federation",2009,
-"RU","Russian Federation",2010,0.021102598
-"RU","Russian Federation",2011,0.014654263
-"RU","Russian Federation",2012,0.011011732
-"RU","Russian Federation",2013,0.017257438
-"SA","Saudi Arabia",2000,
-"SA","Saudi Arabia",2001,
-"SA","Saudi Arabia",2002,
-"SA","Saudi Arabia",2003,
+"RO","Romania",2008,0.09
+"RO","Romania",2009,0.08
+"RO","Romania",2010,0.07
+"RO","Romania",2011,0.09
+"RO","Romania",2012,0.09
+"RO","Romania",2013,0.07
+"RO","Romania",2014,0.11
+"RO","Romania",2015,0.09
+"RU","Russian Federation",2010,0.03
+"RU","Russian Federation",2011,0.03
+"RU","Russian Federation",2012,0.02
+"RU","Russian Federation",2013,0.03
+"RU","Russian Federation",2014,0.05
+"RU","Russian Federation",2015,0.09
 "SA","Saudi Arabia",2004,
-"SA","Saudi Arabia",2005,
-"SA","Saudi Arabia",2006,
-"SA","Saudi Arabia",2007,
-"SA","Saudi Arabia",2008,
-"SA","Saudi Arabia",2009,
-"SA","Saudi Arabia",2010,
-"SA","Saudi Arabia",2011,
-"SA","Saudi Arabia",2012,
-"SA","Saudi Arabia",2013,
-"ZA","South Africa",2000,0.020365649
-"ZA","South Africa",2001,0.031545949
-"ZA","South Africa",2002,0.050440323
-"ZA","South Africa",2003,0.056604485
-"ZA","South Africa",2004,0.042076361
-"ZA","South Africa",2005,0.034323649
-"ZA","South Africa",2006,0.039084059
-"ZA","South Africa",2007,0.057635594
-"ZA","South Africa",2008,0.073392856
-"ZA","South Africa",2009,0.099601616
-"ZA","South Africa",2010,0.088754831
-"ZA","South Africa",2011,0.078778441
-"ZA","South Africa",2012,0.071504753
-"ZA","South Africa",2013,0.06969659
-"TW","Taiwan",2000,
-"TW","Taiwan",2001,
-"TW","Taiwan",2002,
-"TW","Taiwan",2003,
-"TW","Taiwan",2004,
-"TW","Taiwan",2005,0.133552762
-"TW","Taiwan",2006,0.13888108
-"TW","Taiwan",2007,0.129140654
-"TW","Taiwan",2008,0.103915317
-"TW","Taiwan",2009,0.12757109
-"TW","Taiwan",2010,0.086106973
-"TW","Taiwan",2011,0.081312607
-"TW","Taiwan",2012,0.049344749
-"TW","Taiwan",2013,0.046080294
-"TH","Thailand",2000,
-"TH","Thailand",2001,
-"TH","Thailand",2002,
-"TH","Thailand",2003,
-"TH","Thailand",2004,
-"TH","Thailand",2005,
-"TH","Thailand",2006,0.03200421
-"TH","Thailand",2007,0.032263214
-"TH","Thailand",2008,0.084584171
-"TH","Thailand",2009,0.016947382
-"TH","Thailand",2010,-0.001292051
-"TH","Thailand",2011,0.004074703
-"TH","Thailand",2012,0.001331321
-"TH","Thailand",2013,0.007264609
-"TR","Turkey",2000,0.012807069
-"TR","Turkey",2001,0.012769461
-"TR","Turkey",2002,0.014830626
-"TR","Turkey",2003,0.01525101
-"TR","Turkey",2004,0.097007732
-"TR","Turkey",2005,0.14730683
-"TR","Turkey",2006,0.160808961
-"TR","Turkey",2007,0.082733999
-"TR","Turkey",2008,0.099184138
-"TR","Turkey",2009,0.107723146
-"TR","Turkey",2010,0.124809848
-"TR","Turkey",2011,0.158774204
-"TR","Turkey",2012,0.308091259
-"TR","Turkey",2013,0.384959756
-"AE","UAE",2000,
-"AE","UAE",2001,
-"AE","UAE",2002,
-"AE","UAE",2003,
-"AE","UAE",2004,
-"AE","UAE",2005,
-"AE","UAE",2006,
-"AE","UAE",2007,
-"AE","UAE",2008,
-"AE","UAE",2009,0.369594568
-"AE","UAE",2010,0.133394798
-"AE","UAE",2011,0.189757765
-"AE","UAE",2012,0.186640577
-"AE","UAE",2013,1.336540611
+"TH","Thailand",2006,0.04
+"TH","Thailand",2007,0.04
+"TH","Thailand",2008,0.09
+"TH","Thailand",2009,0.02
+"TH","Thailand",2010,0
+"TH","Thailand",2011,0.01
+"TH","Thailand",2012,0
+"TH","Thailand",2013,0.01
+"TH","Thailand",2014,0.02
+"TH","Thailand",2015,0.02
+"TR","Turkey",1991,0.08
+"TR","Turkey",1992,0.05
+"TR","Turkey",1993,0.04
+"TR","Turkey",1994,0.04
+"TR","Turkey",1995,0.06
+"TR","Turkey",1996,0.05
+"TR","Turkey",1997,0.04
+"TR","Turkey",1998,0.03
+"TR","Turkey",1999,0.07
+"TR","Turkey",2000,0.04
+"TR","Turkey",2001,0.04
+"TR","Turkey",2002,0.04
+"TR","Turkey",2003,0.04
+"TR","Turkey",2004,0.11
+"TR","Turkey",2005,0.17
+"TR","Turkey",2006,0.18
+"TR","Turkey",2007,0.09
+"TR","Turkey",2008,0.11
+"TR","Turkey",2009,0.12
+"TR","Turkey",2010,0.13
+"TR","Turkey",2011,0.17
+"TR","Turkey",2012,0.32
+"TR","Turkey",2013,0.4
+"TR","Turkey",2014,0.45
+"TR","Turkey",2015,0.5
+"TW","Taiwan",2005,0.14
+"TW","Taiwan",2006,0.14
+"TW","Taiwan",2007,0.13
+"TW","Taiwan",2008,0.11
+"TW","Taiwan",2009,0.13
+"TW","Taiwan",2010,0.1
+"TW","Taiwan",2011,0.09
+"TW","Taiwan",2012,0.06
+"TW","Taiwan",2013,0.05
+"TW","Taiwan",2014,0.05
+"TW","Taiwan",2015,0.05
+"ZA","South Africa",2000,0.0203656488
+"ZA","South Africa",2001,0.0315459487
+"ZA","South Africa",2002,0.0504027739
+"ZA","South Africa",2003,0.0565109286
+"ZA","South Africa",2004,0.0414807152
+"ZA","South Africa",2005,0.0331706921
+"ZA","South Africa",2006,0.0376402187
+"ZA","South Africa",2007,0.0398851891
+"ZA","South Africa",2008,0.0507709082
+"ZA","South Africa",2009,0.0748927276
+"ZA","South Africa",2010,0.0650615327
+"ZA","South Africa",2011,0.05792696
+"ZA","South Africa",2012,0.0540147394
+"ZA","South Africa",2013,0.0520883376

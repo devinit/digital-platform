@@ -1,56 +1,56 @@
 "id","entity-name","colour","detail","source-title","source-link"
-"DZ","Algeria","Orange","2015","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca-2010/countryinfo/en/"
 "AO","Angola","Orange","2015","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
-"BJ","Benin","Red","1992","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
-"BW","Botswana","Orange","2015","Statistics Botswana press release","http://www.cso.gov.bw/images/agri_census.pdf"
 "BF","Burkina Faso","Orange","2010 (planned for 2016)","FAO Country information","http://www.fao.org/economic/ess/ess-wca/en/"
 "BI","Burundi","Grey","No information",,
+"BJ","Benin","Red","1992","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
+"BW","Botswana","Orange","2015","Statistics Botswana press release","http://www.cso.gov.bw/images/agri_census.pdf"
+"CD","DRC","Red","1990","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
+"CF","CAR","Grey","No information",,
+"CG","Congo","Green","2014-2015","World Programme for the Census of Agriculture","http://www.fao.org/economic/ess/ess-capacity/countrystathome/congo-launch/en/ and http://www.fao.org/economic/ess/ess-wca/en/"
+"CI","Côte d'Ivoire","Green","2014","Government press release and World Bank metadata","http://www.agriculture.gouv.ci/index.php?option=com_content&view=article&id=455:lancement-du-recensement-des-exploitants-et-exploitations-agricoles&catid=65:dernieres-actualites&Itemid=90 and http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS#"
 "CM","Cameroon","Green","2013","Statistics Cameroon","http://www.statistics-cameroon.org/news.php?id=125"
 "CV","Cape Verde","Green","2014","World Programme for the Census of Agriculture","http://www.fao.org/economic/ess/ess-wca/en/"
-"CF","CAR","Grey","No information",,
-"TD","Chad","Orange","2011 (planned for 2014-15)","World Programme for the Census of Agriculture","http://www.fao.org/economic/ess/ess-wca/en/"
-"KM","Comoros","Red","2004","World Programme for the Census of Agriculture","http://www.fao.org/fileadmin/templates/ess/ess_test_folder/World_Census_Agriculture/Country_info_2000/Keydata/Comoros_Keydata.pdf"
-"CG","Congo","Green","2014-2015","World Programme for the Census of Agriculture","http://www.fao.org/economic/ess/ess-capacity/countrystathome/congo-launch/en/ and http://www.fao.org/economic/ess/ess-wca/en/"
-"CI","Cote d'Ivoire","Green","2014","Government press release and World Bank metadata","http://www.agriculture.gouv.ci/index.php?option=com_content&view=article&id=455:lancement-du-recensement-des-exploitants-et-exploitations-agricoles&catid=65:dernieres-actualites&Itemid=90 and http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS#"
 "DJ","Djibouti","Red","1995","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
-"CD","DRC","Red","1990","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
+"DZ","Algeria","Orange","2015","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca-2010/countryinfo/en/"
 "EG","Egypt","Orange","2010","World Bank metadata and World Programme for the Census of Agriculture","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/en/"
-"GQ","Equatorial Guinea","Grey","No information",,
+"EH","Western Sahara","Red","No recent census",,
 "ER","Eritrea","Red","No recent census",,
 "ET","Ethiopia","Red","2002","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "GA","Gabon","Red","1982","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
-"GM","Gambia","Green","2012","World Programme for the Census of Agriculture","http://www.fao.org/economic/ess/ess-wca/en/"
 "GH","Ghana","Green","2014","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
+"GM","Gambia","Green","2012","World Programme for the Census of Agriculture","http://www.fao.org/economic/ess/ess-wca/en/"
 "GN","Guinea","Red","2001","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
+"GQ","Equatorial Guinea","Grey","No information",,
 "GW","Guinea-Bissau","Red","1988","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "KE","Kenya","Red","1979","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
-"LS","Lesotho","Orange","2010","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
+"KM","Comoros","Red","2004","World Programme for the Census of Agriculture","http://www.fao.org/fileadmin/templates/ess/ess_test_folder/World_Census_Agriculture/Country_info_2000/Keydata/Comoros_Keydata.pdf"
 "LR","Liberia","Red","No recent census",,
+"LS","Lesotho","Orange","2010","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "LY","Libya","Green","2013-2014","World Bank metadata","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS#"
+"MA","Morocco","Orange","2015",,
 "MG","Madagascar","Red","2004","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
-"MW","Malawi","Red","2007","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "ML","Mali","Orange","2015","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "MR","Mauritania","Red","1985","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "MU","Mauritius","Green","2014","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
-"MA","Morocco","Orange","2015",,
+"MW","Malawi","Red","2007","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "MZ","Mozambique","Orange","2010","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "NA","Namibia","Green","2014","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "NE","Niger","Red","2008","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "NG","Nigeria","Green","2013","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "RW","Rwanda","Green","2013","World Programme for the Census of Agriculture and government press release","http://www.fao.org/economic/ess/ess-wca/en/ and http://www.statistics.gov.rw/about-us/news/rwanda-national-agriculture-survey-started-november-2012"
-"ST","Sao Tome & Principe","Green","2012","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
-"SN","Senegal","Green","2013","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "SC","Seychelles","Orange","2011","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
-"SL","Sierra Leone","Red","1985","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
-"SO","Somalia","Red","No recent census",,
-"ZA","South Africa","Green","2013",,
-"SS","South Sudan","Red","No recent census",,
 "SD","Sudan","Orange","2015","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
+"SL","Sierra Leone","Red","1985","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
+"SN","Senegal","Green","2013","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
+"SO","Somalia","Red","No recent census",,
+"SS","South Sudan","Red","No recent census",,
+"ST","Sao Tome & Principe","Green","2012","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "SZ","Swaziland","Red","2003","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
-"TZ","Tanzania","Red","2008","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
+"TD","Chad","Orange","2011 (planned for 2014-15)","World Programme for the Census of Agriculture","http://www.fao.org/economic/ess/ess-wca/en/"
 "TG","Togo","Green","2012","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "TN","Tunisia","Green","2014-2015","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
+"TZ","Tanzania","Red","2008","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "UG","Uganda","Orange","2008-2009","World Bank metadata and FAO Country Information","http://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=AG.LND.IRIG.AG.ZS# and http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
-"EH","Western Sahara","Red","No recent census",,
+"ZA","South Africa","Green","2013",,
 "ZM","Zambia","Red","2000","FAO Country information","http://www.fao.org/economic/ess/ess-wca/wca90-country0/en/"
 "ZW","Zimbabwe","Red","No recent census",,
