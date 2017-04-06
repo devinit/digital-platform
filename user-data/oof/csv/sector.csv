@@ -1,0 +1,16 @@
+id,name,old-code,color-id
+agriculture-and-food-security,Agriculture and food security,H,red-high
+banking-and-business,Banking and business,G,red-mid
+debt-relief,Debt relief,M,darkred-high
+education,Education,A,black-high
+environment,Environment,J,lightblue-high
+general-budget-support,General budget support,L,purple-mid
+governance-and-security,Governance and security,D,orange-high
+health,Health,B,purple-high
+humanitarian,Humanitarian,N,blue-low
+industry-and-trade,Industry and trade,I,darkyellow-high
+infrastructure,Infrastructure,F,orange-mid
+other,Other,K,grey-low
+other-social-services,Other social services,E,darkblue-mid
+water-and-sanitation,Water and sanitation,C,yellow-high
+other-sectors-grouped,Other sectors (grouped),X,grey-mid
