@@ -1,128 +1,128 @@
 "id-to","entity-to-name","year","value"
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+"AF","Afghanistan",2013,2068684.16
+"AF","Afghanistan",2014,1999057.82
+"AF","Afghanistan",2015,1652800.79
+"africa","Africa, regional",2013,51346.28
+"africa","Africa, regional",2014,27951.08
+"africa","Africa, regional",2015,199666.8
+"AL","Albania",2013,55910.43
+"AL","Albania",2014,45839.71
+"AL","Albania",2015,8874.09
+"DZ","Algeria",2014,2236.09
+"america","America, regional",2015,103161
+"AM","Armenia",2013,104974.6
+"AM","Armenia",2014,153171.77
+"AM","Armenia",2015,38824.21
+"asia","Asia, regional",2015,39933.4
+"AZ","Azerbaijan",2013,51346.26
+"AZ","Azerbaijan",2014,15652.58
+"AZ","Azerbaijan",2015,24403.8
+"BY","Belarus",2013,268141.62
+"BY","Belarus",2014,235906.77
+"BY","Belarus",2015,266223.05
+"bilateral-unspecified","Bilateral, unspecified",2013,2015056.1
+"bilateral-unspecified","Bilateral, unspecified",2014,3146170.66
+"bilateral-unspecified","Bilateral, unspecified",2015,4480310.5
+"BA","Bosnia & Herzegovina",2014,72672.68
+"BR","Brazil",2015,9983.36
+"CF","CAR",2013,148333.23
+"CF","CAR",2014,111804.18
+"central-asia","Central Asia, regional",2013,125513.5
+"central-asia","Central Asia, regional",2015,1109.26
+"TD","Chad",2013,79871.98
+"CI","Côte d'Ivoire",2013,5705.14
+"CI","Côte d'Ivoire",2015,5546.31
+"CU","Cuba",2013,10269.24
+"CU","Cuba",2014,8944.33
+"EG","Egypt",2014,13416.54
+"ER","Eritrea",2014,4472.17
+"ET","Ethiopia",2013,7987.2
+"ET","Ethiopia",2014,22360.81
+"ET","Ethiopia",2015,98724.42
+"europe","Europe, regional",2013,356001.2
+"europe","Europe, regional",2014,352182.82
+"europe","Europe, regional",2015,646700
+"GE","Georgia",2013,863758.5
+"GE","Georgia",2014,943627.11
+"GE","Georgia",2015,1095950.97
+"GH","Ghana",2013,47923.21
+"GH","Ghana",2014,2236.09
+"GH","Ghana",2015,19966.7
+"GN","Guinea",2013,15974.43
+"GN","Guinea",2014,6708.25
+"IN","India",2014,19006.75
+"IN","India",2015,4437.05
+"IQ","Iraq",2013,142628.9
+"IQ","Iraq",2014,301871.58
+"JO","Jordan",2013,289820.9
+"JO","Jordan",2014,118512.6
+"JO","Jordan",2015,268441.3
+"KZ","Kazakhstan",2015,3327.79
+"KE","Kenya",2013,25102.61
+"KE","Kenya",2014,0
+"KE","Kenya",2015,32168.6
+"XK","Kosovo",2013,158602.81
+"XK","Kosovo",2014,111804.15
+"XK","Kosovo",2015,67664.96
+"KG","Kyrgyzstan",2013,96987.38
+"KG","Kyrgyzstan",2014,439390.41
+"KG","Kyrgyzstan",2015,546866.8
+"LB","Lebanon",2013,148333.83
+"LB","Lebanon",2015,171935.7
+"LY","Libya",2013,7987.2
+"MK","Macedonia",2013,58192.46
+"MK","Macedonia",2014,8944.34
+"MK","Macedonia",2015,37714.9
+"MD","Moldova",2013,810130.02
+"MD","Moldova",2014,1001765.25
+"MD","Moldova",2015,986134.38
+"MN","Mongolia",2013,4564.11
+"MM","Myanmar",2013,85577.08
+"NP","Nepal",2014,13416.54
+"NP","Nepal",2015,61009.41
+"NG","Nigeria",2014,0
+"oceania","Oceania, regional",2014,111804.35
+"PK","Pakistan",2013,15974.43
+"PK","Pakistan",2014,0
+"PS","Palestine",2013,110679.33
+"PS","Palestine",2014,439390.44
+"PS","Palestine",2015,321686.42
+"PH","Philippines",2013,362847.24
+"PH","Philippines",2014,92797.48
+"PH","Philippines",2015,39933.46
+"ST","Sao Tome & Principe",2015,14420.4
+"SN","Senegal",2013,37653.96
+"SN","Senegal",2014,30187.15
+"SL","Sierra Leone",2014,42485.55
+"SL","Sierra Leone",2015,28840.8
+"SO","Somalia",2013,57051.39
+"south-of-sahara","South of Sahara, regional",2013,46782.15
+"south-of-sahara","South of Sahara, regional",2014,368953.6
+"SS","South Sudan",2013,57051.39
+"SS","South Sudan",2014,223608.36
+"SD","Sudan",2013,3423.09
+"SD","Sudan",2014,86089.49
+"SY","Syria",2013,134641.43
+"SY","Syria",2014,455043.52
+"SY","Syria",2015,277316
+"TJ","Tajikistan",2013,10269.26
+"TJ","Tajikistan",2014,110686.16
+"TJ","Tajikistan",2015,150859.65
+"TN","Tunisia",2013,93564.48
+"TN","Tunisia",2014,100623.7
+"TR","Turkey",2013,144910.96
+"TR","Turkey",2015,221852
+"TV","Tuvalu",2015,11092.6
+"UG","Uganda",2013,51346.28
+"UG","Uganda",2014,39131.48
+"UG","Uganda",2015,87631.7
+"UA","Ukraine",2013,502052.27
+"UA","Ukraine",2014,1301400.47
+"UA","Ukraine",2015,2844147.03
+"UZ","Uzbekistan",2014,33541.22
+"UZ","Uzbekistan",2015,105379.9
+"VU","Vanuatu",2015,55463.1
+"VN","Viet Nam",2013,3423.09
+"YE","Yemen",2013,91282.27
+"YE","Yemen",2014,26832.99
+"YE","Yemen",2015,12201.88

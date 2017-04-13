@@ -1,67 +1,4 @@
 "id","entity-name","year","value"
-"AE","UAE",2009,0.37
-"AE","UAE",2010,0.14
-"AE","UAE",2011,0.21
-"AE","UAE",2012,0.2
-"AE","UAE",2013,1.34
-"AE","UAE",2014,1.26
-"AE","UAE",2015,1.18
-"AT","Austria",1960,0
-"AT","Austria",1961,0.04
-"AT","Austria",1962,0.03
-"AT","Austria",1963,0.05
-"AT","Austria",1964,0.08
-"AT","Austria",1965,0.11
-"AT","Austria",1966,0.12
-"AT","Austria",1967,0.14
-"AT","Austria",1968,0.14
-"AT","Austria",1969,0.11
-"AT","Austria",1970,0.07
-"AT","Austria",1971,0.07
-"AT","Austria",1972,0.09
-"AT","Austria",1973,0.15
-"AT","Austria",1974,0.18
-"AT","Austria",1975,0.21
-"AT","Austria",1976,0.12
-"AT","Austria",1977,0.23
-"AT","Austria",1978,0.27
-"AT","Austria",1979,0.19
-"AT","Austria",1980,0.23
-"AT","Austria",1981,0.33
-"AT","Austria",1982,0.36
-"AT","Austria",1983,0.24
-"AT","Austria",1984,0.28
-"AT","Austria",1985,0.38
-"AT","Austria",1986,0.21
-"AT","Austria",1987,0.17
-"AT","Austria",1988,0.24
-"AT","Austria",1989,0.23
-"AT","Austria",1990,0.11
-"AT","Austria",1991,0.18
-"AT","Austria",1992,0.11
-"AT","Austria",1993,0.11
-"AT","Austria",1994,0.17
-"AT","Austria",1995,0.27
-"AT","Austria",1996,0.23
-"AT","Austria",1997,0.24
-"AT","Austria",1998,0.22
-"AT","Austria",1999,0.24
-"AT","Austria",2000,0.23
-"AT","Austria",2001,0.34
-"AT","Austria",2002,0.26
-"AT","Austria",2003,0.2
-"AT","Austria",2004,0.23
-"AT","Austria",2005,0.52
-"AT","Austria",2006,0.47
-"AT","Austria",2007,0.5
-"AT","Austria",2008,0.43
-"AT","Austria",2009,0.3
-"AT","Austria",2010,0.32
-"AT","Austria",2011,0.27
-"AT","Austria",2012,0.28
-"AT","Austria",2013,0.27
-"AT","Austria",2014,0.28
-"AT","Austria",2015,0.35
 "AU","Australia",1960,0.37
 "AU","Australia",1961,0.44
 "AU","Australia",1962,0.43
@@ -118,6 +55,62 @@
 "AU","Australia",2013,0.33
 "AU","Australia",2014,0.31
 "AU","Australia",2015,0.29
+"AT","Austria",1960,0
+"AT","Austria",1961,0.04
+"AT","Austria",1962,0.03
+"AT","Austria",1963,0.05
+"AT","Austria",1964,0.08
+"AT","Austria",1965,0.11
+"AT","Austria",1966,0.12
+"AT","Austria",1967,0.14
+"AT","Austria",1968,0.14
+"AT","Austria",1969,0.11
+"AT","Austria",1970,0.07
+"AT","Austria",1971,0.07
+"AT","Austria",1972,0.09
+"AT","Austria",1973,0.15
+"AT","Austria",1974,0.18
+"AT","Austria",1975,0.21
+"AT","Austria",1976,0.12
+"AT","Austria",1977,0.23
+"AT","Austria",1978,0.27
+"AT","Austria",1979,0.19
+"AT","Austria",1980,0.23
+"AT","Austria",1981,0.33
+"AT","Austria",1982,0.36
+"AT","Austria",1983,0.24
+"AT","Austria",1984,0.28
+"AT","Austria",1985,0.38
+"AT","Austria",1986,0.21
+"AT","Austria",1987,0.17
+"AT","Austria",1988,0.24
+"AT","Austria",1989,0.23
+"AT","Austria",1990,0.11
+"AT","Austria",1991,0.18
+"AT","Austria",1992,0.11
+"AT","Austria",1993,0.11
+"AT","Austria",1994,0.17
+"AT","Austria",1995,0.27
+"AT","Austria",1996,0.23
+"AT","Austria",1997,0.24
+"AT","Austria",1998,0.22
+"AT","Austria",1999,0.24
+"AT","Austria",2000,0.23
+"AT","Austria",2001,0.34
+"AT","Austria",2002,0.26
+"AT","Austria",2003,0.2
+"AT","Austria",2004,0.23
+"AT","Austria",2005,0.52
+"AT","Austria",2006,0.47
+"AT","Austria",2007,0.5
+"AT","Austria",2008,0.43
+"AT","Austria",2009,0.3
+"AT","Austria",2010,0.32
+"AT","Austria",2011,0.27
+"AT","Austria",2012,0.28
+"AT","Austria",2013,0.27
+"AT","Austria",2014,0.28
+"AT","Austria",2015,0.35
 "BE","Belgium",1960,0.88
 "BE","Belgium",1961,0.76
 "BE","Belgium",1962,0.54
@@ -236,62 +229,10 @@
 "CA","Canada",2013,0.28
 "CA","Canada",2014,0.24
 "CA","Canada",2015,0.28
-"CH","Switzerland",1960,0.04
-"CH","Switzerland",1961,0.08
-"CH","Switzerland",1962,0.05
-"CH","Switzerland",1963,0.05
-"CH","Switzerland",1964,0.07
-"CH","Switzerland",1965,0.09
-"CH","Switzerland",1966,0.09
-"CH","Switzerland",1967,0.08
-"CH","Switzerland",1968,0.14
-"CH","Switzerland",1969,0.16
-"CH","Switzerland",1970,0.14
-"CH","Switzerland",1971,0.11
-"CH","Switzerland",1972,0.21
-"CH","Switzerland",1973,0.15
-"CH","Switzerland",1974,0.14
-"CH","Switzerland",1975,0.19
-"CH","Switzerland",1976,0.19
-"CH","Switzerland",1977,0.19
-"CH","Switzerland",1978,0.2
-"CH","Switzerland",1979,0.21
-"CH","Switzerland",1980,0.24
-"CH","Switzerland",1981,0.24
-"CH","Switzerland",1982,0.25
-"CH","Switzerland",1983,0.31
-"CH","Switzerland",1984,0.3
-"CH","Switzerland",1985,0.31
-"CH","Switzerland",1986,0.3
-"CH","Switzerland",1987,0.31
-"CH","Switzerland",1988,0.32
-"CH","Switzerland",1989,0.3
-"CH","Switzerland",1990,0.3
-"CH","Switzerland",1991,0.34
-"CH","Switzerland",1992,0.43
-"CH","Switzerland",1993,0.31
-"CH","Switzerland",1994,0.35
-"CH","Switzerland",1995,0.33
-"CH","Switzerland",1996,0.32
-"CH","Switzerland",1997,0.32
-"CH","Switzerland",1998,0.31
-"CH","Switzerland",1999,0.34
-"CH","Switzerland",2000,0.32
-"CH","Switzerland",2001,0.33
-"CH","Switzerland",2002,0.32
-"CH","Switzerland",2003,0.36
-"CH","Switzerland",2004,0.39
-"CH","Switzerland",2005,0.42
-"CH","Switzerland",2006,0.38
-"CH","Switzerland",2007,0.37
-"CH","Switzerland",2008,0.42
-"CH","Switzerland",2009,0.44
-"CH","Switzerland",2010,0.39
-"CH","Switzerland",2011,0.46
-"CH","Switzerland",2012,0.47
-"CH","Switzerland",2013,0.46
-"CH","Switzerland",2014,0.51
-"CH","Switzerland",2015,0.52
+"HR","Croatia",2012,0.04
+"HR","Croatia",2013,0.08
+"HR","Croatia",2014,0.13
+"HR","Croatia",2015,0.09
 "CY","Cyprus",2005,0.09
 "CY","Cyprus",2006,0.14
 "CY","Cyprus",2007,0.17
@@ -377,62 +318,6 @@
 "dac-countries-total","DAC Countries, Total",2013,0.3
 "dac-countries-total","DAC Countries, Total",2014,0.3
 "dac-countries-total","DAC Countries, Total",2015,0.3
-"DE","Germany",1960,0.31
-"DE","Germany",1961,0.45
-"DE","Germany",1962,0.45
-"DE","Germany",1963,0.41
-"DE","Germany",1964,0.44
-"DE","Germany",1965,0.4
-"DE","Germany",1966,0.34
-"DE","Germany",1967,0.41
-"DE","Germany",1968,0.42
-"DE","Germany",1969,0.38
-"DE","Germany",1970,0.32
-"DE","Germany",1971,0.34
-"DE","Germany",1972,0.32
-"DE","Germany",1973,0.32
-"DE","Germany",1974,0.38
-"DE","Germany",1975,0.4
-"DE","Germany",1976,0.36
-"DE","Germany",1977,0.33
-"DE","Germany",1978,0.37
-"DE","Germany",1979,0.45
-"DE","Germany",1980,0.44
-"DE","Germany",1981,0.47
-"DE","Germany",1982,0.48
-"DE","Germany",1983,0.48
-"DE","Germany",1984,0.45
-"DE","Germany",1985,0.47
-"DE","Germany",1986,0.43
-"DE","Germany",1987,0.39
-"DE","Germany",1988,0.39
-"DE","Germany",1989,0.41
-"DE","Germany",1990,0.42
-"DE","Germany",1991,0.39
-"DE","Germany",1992,0.37
-"DE","Germany",1993,0.35
-"DE","Germany",1994,0.33
-"DE","Germany",1995,0.31
-"DE","Germany",1996,0.32
-"DE","Germany",1997,0.28
-"DE","Germany",1998,0.26
-"DE","Germany",1999,0.26
-"DE","Germany",2000,0.27
-"DE","Germany",2001,0.27
-"DE","Germany",2002,0.27
-"DE","Germany",2003,0.28
-"DE","Germany",2004,0.28
-"DE","Germany",2005,0.36
-"DE","Germany",2006,0.36
-"DE","Germany",2007,0.37
-"DE","Germany",2008,0.38
-"DE","Germany",2009,0.36
-"DE","Germany",2010,0.39
-"DE","Germany",2011,0.39
-"DE","Germany",2012,0.37
-"DE","Germany",2013,0.38
-"DE","Germany",2014,0.42
-"DE","Germany",2015,0.52
 "DK","Denmark",1960,0.09
 "DK","Denmark",1961,0.12
 "DK","Denmark",1962,0.1
@@ -501,42 +386,6 @@
 "EE","Estonia",2013,0.13
 "EE","Estonia",2014,0.14
 "EE","Estonia",2015,0.15
-"ES","Spain",1980,0.08
-"ES","Spain",1981,0.13
-"ES","Spain",1982,0.13
-"ES","Spain",1983,0.04
-"ES","Spain",1984,0.09
-"ES","Spain",1985,0.1
-"ES","Spain",1986,0.09
-"ES","Spain",1987,0.08
-"ES","Spain",1988,0.07
-"ES","Spain",1989,0.14
-"ES","Spain",1990,0.2
-"ES","Spain",1991,0.24
-"ES","Spain",1992,0.27
-"ES","Spain",1993,0.28
-"ES","Spain",1994,0.28
-"ES","Spain",1995,0.24
-"ES","Spain",1996,0.22
-"ES","Spain",1997,0.24
-"ES","Spain",1998,0.24
-"ES","Spain",1999,0.23
-"ES","Spain",2000,0.22
-"ES","Spain",2001,0.3
-"ES","Spain",2002,0.26
-"ES","Spain",2003,0.23
-"ES","Spain",2004,0.24
-"ES","Spain",2005,0.27
-"ES","Spain",2006,0.32
-"ES","Spain",2007,0.37
-"ES","Spain",2008,0.45
-"ES","Spain",2009,0.46
-"ES","Spain",2010,0.43
-"ES","Spain",2011,0.29
-"ES","Spain",2012,0.16
-"ES","Spain",2013,0.17
-"ES","Spain",2014,0.13
-"ES","Spain",2015,0.12
 "EU","European Union",1968,
 "FI","Finland",1961,0.04
 "FI","Finland",1962,0.04
@@ -649,62 +498,62 @@
 "FR","France",2013,0.41
 "FR","France",2014,0.37
 "FR","France",2015,0.37
-"GB","United Kingdom",1960,0.56
-"GB","United Kingdom",1961,0.59
-"GB","United Kingdom",1962,0.52
-"GB","United Kingdom",1963,0.48
-"GB","United Kingdom",1964,0.53
-"GB","United Kingdom",1965,0.47
-"GB","United Kingdom",1966,0.45
-"GB","United Kingdom",1967,0.44
-"GB","United Kingdom",1968,0.4
-"GB","United Kingdom",1969,0.43
-"GB","United Kingdom",1970,0.39
-"GB","United Kingdom",1971,0.44
-"GB","United Kingdom",1972,0.42
-"GB","United Kingdom",1973,0.36
-"GB","United Kingdom",1974,0.4
-"GB","United Kingdom",1975,0.38
-"GB","United Kingdom",1976,0.39
-"GB","United Kingdom",1977,0.44
-"GB","United Kingdom",1978,0.46
-"GB","United Kingdom",1979,0.52
-"GB","United Kingdom",1980,0.35
-"GB","United Kingdom",1981,0.43
-"GB","United Kingdom",1982,0.37
-"GB","United Kingdom",1983,0.35
-"GB","United Kingdom",1984,0.33
-"GB","United Kingdom",1985,0.33
-"GB","United Kingdom",1986,0.31
-"GB","United Kingdom",1987,0.28
-"GB","United Kingdom",1988,0.32
-"GB","United Kingdom",1989,0.31
-"GB","United Kingdom",1990,0.27
-"GB","United Kingdom",1991,0.32
-"GB","United Kingdom",1992,0.31
-"GB","United Kingdom",1993,0.31
-"GB","United Kingdom",1994,0.31
-"GB","United Kingdom",1995,0.29
-"GB","United Kingdom",1996,0.27
-"GB","United Kingdom",1997,0.26
-"GB","United Kingdom",1998,0.27
-"GB","United Kingdom",1999,0.24
-"GB","United Kingdom",2000,0.32
-"GB","United Kingdom",2001,0.32
-"GB","United Kingdom",2002,0.31
-"GB","United Kingdom",2003,0.34
-"GB","United Kingdom",2004,0.36
-"GB","United Kingdom",2005,0.47
-"GB","United Kingdom",2006,0.51
-"GB","United Kingdom",2007,0.36
-"GB","United Kingdom",2008,0.43
-"GB","United Kingdom",2009,0.51
-"GB","United Kingdom",2010,0.57
-"GB","United Kingdom",2011,0.56
-"GB","United Kingdom",2012,0.56
-"GB","United Kingdom",2013,0.71
-"GB","United Kingdom",2014,0.7
-"GB","United Kingdom",2015,0.7
+"DE","Germany",1960,0.31
+"DE","Germany",1961,0.45
+"DE","Germany",1962,0.45
+"DE","Germany",1963,0.41
+"DE","Germany",1964,0.44
+"DE","Germany",1965,0.4
+"DE","Germany",1966,0.34
+"DE","Germany",1967,0.41
+"DE","Germany",1968,0.42
+"DE","Germany",1969,0.38
+"DE","Germany",1970,0.32
+"DE","Germany",1971,0.34
+"DE","Germany",1972,0.32
+"DE","Germany",1973,0.32
+"DE","Germany",1974,0.38
+"DE","Germany",1975,0.4
+"DE","Germany",1976,0.36
+"DE","Germany",1977,0.33
+"DE","Germany",1978,0.37
+"DE","Germany",1979,0.45
+"DE","Germany",1980,0.44
+"DE","Germany",1981,0.47
+"DE","Germany",1982,0.48
+"DE","Germany",1983,0.48
+"DE","Germany",1984,0.45
+"DE","Germany",1985,0.47
+"DE","Germany",1986,0.43
+"DE","Germany",1987,0.39
+"DE","Germany",1988,0.39
+"DE","Germany",1989,0.41
+"DE","Germany",1990,0.42
+"DE","Germany",1991,0.39
+"DE","Germany",1992,0.37
+"DE","Germany",1993,0.35
+"DE","Germany",1994,0.33
+"DE","Germany",1995,0.31
+"DE","Germany",1996,0.32
+"DE","Germany",1997,0.28
+"DE","Germany",1998,0.26
+"DE","Germany",1999,0.26
+"DE","Germany",2000,0.27
+"DE","Germany",2001,0.27
+"DE","Germany",2002,0.27
+"DE","Germany",2003,0.28
+"DE","Germany",2004,0.28
+"DE","Germany",2005,0.36
+"DE","Germany",2006,0.36
+"DE","Germany",2007,0.37
+"DE","Germany",2008,0.38
+"DE","Germany",2009,0.36
+"DE","Germany",2010,0.39
+"DE","Germany",2011,0.39
+"DE","Germany",2012,0.37
+"DE","Germany",2013,0.38
+"DE","Germany",2014,0.42
+"DE","Germany",2015,0.52
 "GR","Greece",1996,0.15
 "GR","Greece",1997,0.14
 "GR","Greece",1998,0.15
@@ -725,10 +574,6 @@
 "GR","Greece",2013,0.1
 "GR","Greece",2014,0.11
 "GR","Greece",2015,0.12
-"HR","Croatia",2012,0.04
-"HR","Croatia",2013,0.08
-"HR","Croatia",2014,0.13
-"HR","Croatia",2015,0.09
 "HU","Hungary",2003,0.03
 "HU","Hungary",2004,0.07
 "HU","Hungary",2005,0.11
@@ -742,6 +587,25 @@
 "HU","Hungary",2013,0.1
 "HU","Hungary",2014,0.11
 "HU","Hungary",2015,0.13
+"IS","Iceland",1997,0
+"IS","Iceland",1998,0
+"IS","Iceland",1999,0.09
+"IS","Iceland",2000,0.1
+"IS","Iceland",2001,0.13
+"IS","Iceland",2002,0.15
+"IS","Iceland",2003,0.17
+"IS","Iceland",2004,0.18
+"IS","Iceland",2005,0.18
+"IS","Iceland",2006,0.27
+"IS","Iceland",2007,0.27
+"IS","Iceland",2008,0.47
+"IS","Iceland",2009,0.35
+"IS","Iceland",2010,0.29
+"IS","Iceland",2011,0.21
+"IS","Iceland",2012,0.22
+"IS","Iceland",2013,0.25
+"IS","Iceland",2014,0.22
+"IS","Iceland",2015,0.24
 "IE","Ireland",1968,
 "IE","Ireland",1974,0.09
 "IE","Ireland",1975,0.09
@@ -800,25 +664,6 @@
 "IL","Israel",2013,0.07
 "IL","Israel",2014,0.07
 "IL","Israel",2015,0.07
-"IS","Iceland",1997,0
-"IS","Iceland",1998,0
-"IS","Iceland",1999,0.09
-"IS","Iceland",2000,0.1
-"IS","Iceland",2001,0.13
-"IS","Iceland",2002,0.15
-"IS","Iceland",2003,0.17
-"IS","Iceland",2004,0.18
-"IS","Iceland",2005,0.18
-"IS","Iceland",2006,0.27
-"IS","Iceland",2007,0.27
-"IS","Iceland",2008,0.47
-"IS","Iceland",2009,0.35
-"IS","Iceland",2010,0.29
-"IS","Iceland",2011,0.21
-"IS","Iceland",2012,0.22
-"IS","Iceland",2013,0.25
-"IS","Iceland",2014,0.22
-"IS","Iceland",2015,0.24
 "IT","Italy",1960,0.22
 "IT","Italy",1961,0.15
 "IT","Italy",1962,0.18
@@ -931,6 +776,9 @@
 "JP","Japan",2013,0.23
 "JP","Japan",2014,0.2
 "JP","Japan",2015,0.21
+"KZ","Kazakhstan",2013,0
+"KZ","Kazakhstan",2014,0.02
+"KZ","Kazakhstan",2015,0.03
 "KR","Korea",1987,0.02
 "KR","Korea",1988,0.02
 "KR","Korea",1989,0.02
@@ -961,9 +809,19 @@
 "KR","Korea",2014,0.13
 "KR","Korea",2015,0.14
 "KW","Kuwait",2003,
-"KZ","Kazakhstan",2013,0
-"KZ","Kazakhstan",2014,0.02
-"KZ","Kazakhstan",2015,0.03
+"LV","Latvia",2003,0.01
+"LV","Latvia",2004,0.06
+"LV","Latvia",2005,0.07
+"LV","Latvia",2006,0.06
+"LV","Latvia",2007,0.06
+"LV","Latvia",2008,0.07
+"LV","Latvia",2009,0.07
+"LV","Latvia",2010,0.06
+"LV","Latvia",2011,0.07
+"LV","Latvia",2012,0.08
+"LV","Latvia",2013,0.08
+"LV","Latvia",2014,0.08
+"LV","Latvia",2015,0.09
 "LI","Liechtenstein",2007,0.44
 "LI","Liechtenstein",2008,0.53
 "LI","Liechtenstein",2009,0.68
@@ -1021,19 +879,6 @@
 "LU","Luxembourg",2013,1
 "LU","Luxembourg",2014,1.06
 "LU","Luxembourg",2015,0.95
-"LV","Latvia",2003,0.01
-"LV","Latvia",2004,0.06
-"LV","Latvia",2005,0.07
-"LV","Latvia",2006,0.06
-"LV","Latvia",2007,0.06
-"LV","Latvia",2008,0.07
-"LV","Latvia",2009,0.07
-"LV","Latvia",2010,0.06
-"LV","Latvia",2011,0.07
-"LV","Latvia",2012,0.08
-"LV","Latvia",2013,0.08
-"LV","Latvia",2014,0.08
-"LV","Latvia",2015,0.09
 "MT","Malta",2009,0.18
 "MT","Malta",2010,0.18
 "MT","Malta",2011,0.25
@@ -1097,6 +942,61 @@
 "NL","Netherlands",2013,0.67
 "NL","Netherlands",2014,0.64
 "NL","Netherlands",2015,0.75
+"NZ","New Zealand",1961,0.23
+"NZ","New Zealand",1962,0.18
+"NZ","New Zealand",1963,0.18
+"NZ","New Zealand",1964,0.19
+"NZ","New Zealand",1965,0.18
+"NZ","New Zealand",1966,0.17
+"NZ","New Zealand",1967,0.17
+"NZ","New Zealand",1968,0.21
+"NZ","New Zealand",1969,0.22
+"NZ","New Zealand",1970,0.23
+"NZ","New Zealand",1971,0.23
+"NZ","New Zealand",1972,0.25
+"NZ","New Zealand",1973,0.22
+"NZ","New Zealand",1974,0.32
+"NZ","New Zealand",1975,0.52
+"NZ","New Zealand",1976,0.41
+"NZ","New Zealand",1977,0.39
+"NZ","New Zealand",1978,0.34
+"NZ","New Zealand",1979,0.34
+"NZ","New Zealand",1980,0.33
+"NZ","New Zealand",1981,0.29
+"NZ","New Zealand",1982,0.28
+"NZ","New Zealand",1983,0.28
+"NZ","New Zealand",1984,0.25
+"NZ","New Zealand",1985,0.25
+"NZ","New Zealand",1986,0.3
+"NZ","New Zealand",1987,0.26
+"NZ","New Zealand",1988,0.27
+"NZ","New Zealand",1989,0.22
+"NZ","New Zealand",1990,0.23
+"NZ","New Zealand",1991,0.25
+"NZ","New Zealand",1992,0.26
+"NZ","New Zealand",1993,0.25
+"NZ","New Zealand",1994,0.24
+"NZ","New Zealand",1995,0.23
+"NZ","New Zealand",1996,0.21
+"NZ","New Zealand",1997,0.26
+"NZ","New Zealand",1998,0.27
+"NZ","New Zealand",1999,0.27
+"NZ","New Zealand",2000,0.25
+"NZ","New Zealand",2001,0.25
+"NZ","New Zealand",2002,0.22
+"NZ","New Zealand",2003,0.23
+"NZ","New Zealand",2004,0.23
+"NZ","New Zealand",2005,0.27
+"NZ","New Zealand",2006,0.27
+"NZ","New Zealand",2007,0.27
+"NZ","New Zealand",2008,0.3
+"NZ","New Zealand",2009,0.28
+"NZ","New Zealand",2010,0.26
+"NZ","New Zealand",2011,0.28
+"NZ","New Zealand",2012,0.28
+"NZ","New Zealand",2013,0.26
+"NZ","New Zealand",2014,0.27
+"NZ","New Zealand",2015,0.27
 "NO","Norway",1960,0.12
 "NO","Norway",1961,0.14
 "NO","Norway",1962,0.14
@@ -1153,61 +1053,6 @@
 "NO","Norway",2013,1.07
 "NO","Norway",2014,1
 "NO","Norway",2015,1.05
-"NZ","New Zealand",1961,0.23
-"NZ","New Zealand",1962,0.18
-"NZ","New Zealand",1963,0.18
-"NZ","New Zealand",1964,0.19
-"NZ","New Zealand",1965,0.18
-"NZ","New Zealand",1966,0.17
-"NZ","New Zealand",1967,0.17
-"NZ","New Zealand",1968,0.21
-"NZ","New Zealand",1969,0.22
-"NZ","New Zealand",1970,0.23
-"NZ","New Zealand",1971,0.23
-"NZ","New Zealand",1972,0.25
-"NZ","New Zealand",1973,0.22
-"NZ","New Zealand",1974,0.32
-"NZ","New Zealand",1975,0.52
-"NZ","New Zealand",1976,0.41
-"NZ","New Zealand",1977,0.39
-"NZ","New Zealand",1978,0.34
-"NZ","New Zealand",1979,0.34
-"NZ","New Zealand",1980,0.33
-"NZ","New Zealand",1981,0.29
-"NZ","New Zealand",1982,0.28
-"NZ","New Zealand",1983,0.28
-"NZ","New Zealand",1984,0.25
-"NZ","New Zealand",1985,0.25
-"NZ","New Zealand",1986,0.3
-"NZ","New Zealand",1987,0.26
-"NZ","New Zealand",1988,0.27
-"NZ","New Zealand",1989,0.22
-"NZ","New Zealand",1990,0.23
-"NZ","New Zealand",1991,0.25
-"NZ","New Zealand",1992,0.26
-"NZ","New Zealand",1993,0.25
-"NZ","New Zealand",1994,0.24
-"NZ","New Zealand",1995,0.23
-"NZ","New Zealand",1996,0.21
-"NZ","New Zealand",1997,0.26
-"NZ","New Zealand",1998,0.27
-"NZ","New Zealand",1999,0.27
-"NZ","New Zealand",2000,0.25
-"NZ","New Zealand",2001,0.25
-"NZ","New Zealand",2002,0.22
-"NZ","New Zealand",2003,0.23
-"NZ","New Zealand",2004,0.23
-"NZ","New Zealand",2005,0.27
-"NZ","New Zealand",2006,0.27
-"NZ","New Zealand",2007,0.27
-"NZ","New Zealand",2008,0.3
-"NZ","New Zealand",2009,0.28
-"NZ","New Zealand",2010,0.26
-"NZ","New Zealand",2011,0.28
-"NZ","New Zealand",2012,0.28
-"NZ","New Zealand",2013,0.26
-"NZ","New Zealand",2014,0.27
-"NZ","New Zealand",2015,0.27
 "PL","Poland",1998,0.01
 "PL","Poland",1999,0.01
 "PL","Poland",2000,0.02
@@ -1276,6 +1121,69 @@
 "RU","Russian Federation",2014,0.05
 "RU","Russian Federation",2015,0.09
 "SA","Saudi Arabia",2004,
+"SK","Slovak Republic",1999,0.04
+"SK","Slovak Republic",2000,0.03
+"SK","Slovak Republic",2001,0.04
+"SK","Slovak Republic",2002,0.02
+"SK","Slovak Republic",2003,0.05
+"SK","Slovak Republic",2004,0.07
+"SK","Slovak Republic",2006,0.1
+"SK","Slovak Republic",2007,0.09
+"SK","Slovak Republic",2008,0.1
+"SK","Slovak Republic",2009,0.09
+"SK","Slovak Republic",2010,0.09
+"SK","Slovak Republic",2011,0.09
+"SK","Slovak Republic",2012,0.09
+"SK","Slovak Republic",2013,0.09
+"SK","Slovak Republic",2014,0.09
+"SK","Slovak Republic",2015,0.1
+"SI","Slovenia",2005,0.11
+"SI","Slovenia",2006,0.12
+"SI","Slovenia",2007,0.12
+"SI","Slovenia",2008,0.13
+"SI","Slovenia",2009,0.15
+"SI","Slovenia",2010,0.13
+"SI","Slovenia",2011,0.13
+"SI","Slovenia",2012,0.13
+"SI","Slovenia",2013,0.13
+"SI","Slovenia",2014,0.13
+"SI","Slovenia",2015,0.15
+"ES","Spain",1980,0.08
+"ES","Spain",1981,0.13
+"ES","Spain",1982,0.13
+"ES","Spain",1983,0.04
+"ES","Spain",1984,0.09
+"ES","Spain",1985,0.1
+"ES","Spain",1986,0.09
+"ES","Spain",1987,0.08
+"ES","Spain",1988,0.07
+"ES","Spain",1989,0.14
+"ES","Spain",1990,0.2
+"ES","Spain",1991,0.24
+"ES","Spain",1992,0.27
+"ES","Spain",1993,0.28
+"ES","Spain",1994,0.28
+"ES","Spain",1995,0.24
+"ES","Spain",1996,0.22
+"ES","Spain",1997,0.24
+"ES","Spain",1998,0.24
+"ES","Spain",1999,0.23
+"ES","Spain",2000,0.22
+"ES","Spain",2001,0.3
+"ES","Spain",2002,0.26
+"ES","Spain",2003,0.23
+"ES","Spain",2004,0.24
+"ES","Spain",2005,0.27
+"ES","Spain",2006,0.32
+"ES","Spain",2007,0.37
+"ES","Spain",2008,0.45
+"ES","Spain",2009,0.46
+"ES","Spain",2010,0.43
+"ES","Spain",2011,0.29
+"ES","Spain",2012,0.16
+"ES","Spain",2013,0.17
+"ES","Spain",2014,0.13
+"ES","Spain",2015,0.12
 "SE","Sweden",1960,0.05
 "SE","Sweden",1961,0.06
 "SE","Sweden",1962,0.12
@@ -1332,33 +1240,73 @@
 "SE","Sweden",2013,1.01
 "SE","Sweden",2014,1.09
 "SE","Sweden",2015,1.41
-"SI","Slovenia",2005,0.11
-"SI","Slovenia",2006,0.12
-"SI","Slovenia",2007,0.12
-"SI","Slovenia",2008,0.13
-"SI","Slovenia",2009,0.15
-"SI","Slovenia",2010,0.13
-"SI","Slovenia",2011,0.13
-"SI","Slovenia",2012,0.13
-"SI","Slovenia",2013,0.13
-"SI","Slovenia",2014,0.13
-"SI","Slovenia",2015,0.15
-"SK","Slovak Republic",1999,0.04
-"SK","Slovak Republic",2000,0.03
-"SK","Slovak Republic",2001,0.04
-"SK","Slovak Republic",2002,0.02
-"SK","Slovak Republic",2003,0.05
-"SK","Slovak Republic",2004,0.07
-"SK","Slovak Republic",2006,0.1
-"SK","Slovak Republic",2007,0.09
-"SK","Slovak Republic",2008,0.1
-"SK","Slovak Republic",2009,0.09
-"SK","Slovak Republic",2010,0.09
-"SK","Slovak Republic",2011,0.09
-"SK","Slovak Republic",2012,0.09
-"SK","Slovak Republic",2013,0.09
-"SK","Slovak Republic",2014,0.09
-"SK","Slovak Republic",2015,0.1
+"CH","Switzerland",1960,0.04
+"CH","Switzerland",1961,0.08
+"CH","Switzerland",1962,0.05
+"CH","Switzerland",1963,0.05
+"CH","Switzerland",1964,0.07
+"CH","Switzerland",1965,0.09
+"CH","Switzerland",1966,0.09
+"CH","Switzerland",1967,0.08
+"CH","Switzerland",1968,0.14
+"CH","Switzerland",1969,0.16
+"CH","Switzerland",1970,0.14
+"CH","Switzerland",1971,0.11
+"CH","Switzerland",1972,0.21
+"CH","Switzerland",1973,0.15
+"CH","Switzerland",1974,0.14
+"CH","Switzerland",1975,0.19
+"CH","Switzerland",1976,0.19
+"CH","Switzerland",1977,0.19
+"CH","Switzerland",1978,0.2
+"CH","Switzerland",1979,0.21
+"CH","Switzerland",1980,0.24
+"CH","Switzerland",1981,0.24
+"CH","Switzerland",1982,0.25
+"CH","Switzerland",1983,0.31
+"CH","Switzerland",1984,0.3
+"CH","Switzerland",1985,0.31
+"CH","Switzerland",1986,0.3
+"CH","Switzerland",1987,0.31
+"CH","Switzerland",1988,0.32
+"CH","Switzerland",1989,0.3
+"CH","Switzerland",1990,0.3
+"CH","Switzerland",1991,0.34
+"CH","Switzerland",1992,0.43
+"CH","Switzerland",1993,0.31
+"CH","Switzerland",1994,0.35
+"CH","Switzerland",1995,0.33
+"CH","Switzerland",1996,0.32
+"CH","Switzerland",1997,0.32
+"CH","Switzerland",1998,0.31
+"CH","Switzerland",1999,0.34
+"CH","Switzerland",2000,0.32
+"CH","Switzerland",2001,0.33
+"CH","Switzerland",2002,0.32
+"CH","Switzerland",2003,0.36
+"CH","Switzerland",2004,0.39
+"CH","Switzerland",2005,0.42
+"CH","Switzerland",2006,0.38
+"CH","Switzerland",2007,0.37
+"CH","Switzerland",2008,0.42
+"CH","Switzerland",2009,0.44
+"CH","Switzerland",2010,0.39
+"CH","Switzerland",2011,0.46
+"CH","Switzerland",2012,0.47
+"CH","Switzerland",2013,0.46
+"CH","Switzerland",2014,0.51
+"CH","Switzerland",2015,0.52
+"TW","Taiwan",2005,0.14
+"TW","Taiwan",2006,0.14
+"TW","Taiwan",2007,0.13
+"TW","Taiwan",2008,0.11
+"TW","Taiwan",2009,0.13
+"TW","Taiwan",2010,0.1
+"TW","Taiwan",2011,0.09
+"TW","Taiwan",2012,0.06
+"TW","Taiwan",2013,0.05
+"TW","Taiwan",2014,0.05
+"TW","Taiwan",2015,0.05
 "TH","Thailand",2006,0.04
 "TH","Thailand",2007,0.04
 "TH","Thailand",2008,0.09
@@ -1394,17 +1342,69 @@
 "TR","Turkey",2013,0.4
 "TR","Turkey",2014,0.45
 "TR","Turkey",2015,0.5
-"TW","Taiwan",2005,0.14
-"TW","Taiwan",2006,0.14
-"TW","Taiwan",2007,0.13
-"TW","Taiwan",2008,0.11
-"TW","Taiwan",2009,0.13
-"TW","Taiwan",2010,0.1
-"TW","Taiwan",2011,0.09
-"TW","Taiwan",2012,0.06
-"TW","Taiwan",2013,0.05
-"TW","Taiwan",2014,0.05
-"TW","Taiwan",2015,0.05
+"AE","UAE",2009,0.37
+"AE","UAE",2010,0.14
+"AE","UAE",2011,0.21
+"AE","UAE",2012,0.2
+"AE","UAE",2013,1.34
+"AE","UAE",2014,1.26
+"AE","UAE",2015,1.18
+"GB","United Kingdom",1960,0.56
+"GB","United Kingdom",1961,0.59
+"GB","United Kingdom",1962,0.52
+"GB","United Kingdom",1963,0.48
+"GB","United Kingdom",1964,0.53
+"GB","United Kingdom",1965,0.47
+"GB","United Kingdom",1966,0.45
+"GB","United Kingdom",1967,0.44
+"GB","United Kingdom",1968,0.4
+"GB","United Kingdom",1969,0.43
+"GB","United Kingdom",1970,0.39
+"GB","United Kingdom",1971,0.44
+"GB","United Kingdom",1972,0.42
+"GB","United Kingdom",1973,0.36
+"GB","United Kingdom",1974,0.4
+"GB","United Kingdom",1975,0.38
+"GB","United Kingdom",1976,0.39
+"GB","United Kingdom",1977,0.44
+"GB","United Kingdom",1978,0.46
+"GB","United Kingdom",1979,0.52
+"GB","United Kingdom",1980,0.35
+"GB","United Kingdom",1981,0.43
+"GB","United Kingdom",1982,0.37
+"GB","United Kingdom",1983,0.35
+"GB","United Kingdom",1984,0.33
+"GB","United Kingdom",1985,0.33
+"GB","United Kingdom",1986,0.31
+"GB","United Kingdom",1987,0.28
+"GB","United Kingdom",1988,0.32
+"GB","United Kingdom",1989,0.31
+"GB","United Kingdom",1990,0.27
+"GB","United Kingdom",1991,0.32
+"GB","United Kingdom",1992,0.31
+"GB","United Kingdom",1993,0.31
+"GB","United Kingdom",1994,0.31
+"GB","United Kingdom",1995,0.29
+"GB","United Kingdom",1996,0.27
+"GB","United Kingdom",1997,0.26
+"GB","United Kingdom",1998,0.27
+"GB","United Kingdom",1999,0.24
+"GB","United Kingdom",2000,0.32
+"GB","United Kingdom",2001,0.32
+"GB","United Kingdom",2002,0.31
+"GB","United Kingdom",2003,0.34
+"GB","United Kingdom",2004,0.36
+"GB","United Kingdom",2005,0.47
+"GB","United Kingdom",2006,0.51
+"GB","United Kingdom",2007,0.36
+"GB","United Kingdom",2008,0.43
+"GB","United Kingdom",2009,0.51
+"GB","United Kingdom",2010,0.57
+"GB","United Kingdom",2011,0.56
+"GB","United Kingdom",2012,0.56
+"GB","United Kingdom",2013,0.71
+"GB","United Kingdom",2014,0.7
+"GB","United Kingdom",2015,0.7
 "US","United States",1960,0.54
 "US","United States",1961,0.57
 "US","United States",1962,0.58

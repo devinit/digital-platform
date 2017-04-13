@@ -1,16 +1,13 @@
 "id","entity-name","year","value"
 "AF","Afghanistan",2016,1254962
 "AF","Afghanistan",2017,65118
+"DZ","Algeria",2016,7051887
+"DZ","Algeria",2017,5944542
+"DZ","Algeria",2018,7427489
+"DZ","Algeria",2019,5057703
+"DZ","Algeria",2020,212311
 "BD","Bangladesh",2016,1320404
 "BD","Bangladesh",2017,4874
-"BF","Burkina Faso",2016,6883173
-"BF","Burkina Faso",2017,646807
-"BF","Burkina Faso",2018,82596
-"BI","Burundi",2016,29940243
-"BI","Burundi",2017,23028162
-"BI","Burundi",2018,21076625
-"BI","Burundi",2019,15529851
-"BI","Burundi",2020,11082111
 "BJ","Benin",2016,18232097
 "BJ","Benin",2017,13865264
 "BJ","Benin",2018,12725587
@@ -21,21 +18,25 @@
 "BO","Bolivia",2018,3198366
 "BO","Bolivia",2019,1660319
 "BR","Brazil",2016,1749981
-"CD","DRC",2016,86604646
-"CD","DRC",2017,49498835
-"CD","DRC",2018,50151615
-"CD","DRC",2019,44349411
-"CD","DRC",2020,29525784
-"CF","CAR",2016,2161942
-"CF","CAR",2017,78142
-"CI","Côte d'Ivoire",2016,172992
+"BF","Burkina Faso",2016,6883173
+"BF","Burkina Faso",2017,646807
+"BF","Burkina Faso",2018,82596
+"BI","Burundi",2016,29940243
+"BI","Burundi",2017,23028162
+"BI","Burundi",2018,21076625
+"BI","Burundi",2019,15529851
+"BI","Burundi",2020,11082111
+"KH","Cambodia",2016,3092803
 "CM","Cameroon",2016,2615982
 "CM","Cameroon",2017,1035691
 "CM","Cameroon",2018,833559
 "CM","Cameroon",2019,655834
 "CM","Cameroon",2020,499644
+"CF","CAR",2016,2161942
+"CF","CAR",2017,78142
 "CN","China",2016,345174
 "CO","Colombia",2016,1921600
+"CI","Côte d'Ivoire",2016,172992
 "CU","Cuba",2016,2309624
 "CU","Cuba",2017,570742
 "CU","Cuba",2018,329104
@@ -44,37 +45,38 @@
 "DO","Dominican Republic",2017,130286
 "DO","Dominican Republic",2018,72645
 "DO","Dominican Republic",2019,14211
-"DZ","Algeria",2016,7051887
-"DZ","Algeria",2017,5944542
-"DZ","Algeria",2018,7427489
-"DZ","Algeria",2019,5057703
-"DZ","Algeria",2020,212311
+"CD","DRC",2016,86604646
+"CD","DRC",2017,49498835
+"CD","DRC",2018,50151615
+"CD","DRC",2019,44349411
+"CD","DRC",2020,29525784
 "EC","Ecuador",2016,8544222
 "EC","Ecuador",2017,423629
 "EC","Ecuador",2018,183205
 "EC","Ecuador",2019,56216
+"SV","El Salvador",2016,1745313
 "ET","Ethiopia",2016,1393270
 "ET","Ethiopia",2017,478458
 "ET","Ethiopia",2018,226849
+"GM","Gambia",2016,84890
 "GH","Ghana",2016,2681895
 "GH","Ghana",2017,2219406
 "GH","Ghana",2018,1748204
 "GH","Ghana",2019,1362043
 "GH","Ghana",2020,982394
-"GM","Gambia",2016,84890
-"GN","Guinea",2016,3070647
 "GT","Guatemala",2016,2873522
+"GN","Guinea",2016,3070647
 "GW","Guinea-Bissau",2016,335486
+"HT","Haiti",2016,4234702
+"HT","Haiti",2017,116122
+"HT","Haiti",2018,34786
 "HN","Honduras",2016,1456966
 "HN","Honduras",2017,704132
 "HN","Honduras",2018,623072
 "HN","Honduras",2019,545030
 "HN","Honduras",2020,469288
-"HT","Haiti",2016,4234702
-"HT","Haiti",2017,116122
-"HT","Haiti",2018,34786
-"ID","Indonesia",2016,1855044
 "IN","India",2016,1443265
+"ID","Indonesia",2016,1855044
 "IQ","Iraq",2017,78142
 "JO","Jordan",2016,5469975
 "KE","Kenya",2016,4476984
@@ -82,15 +84,9 @@
 "KE","Kenya",2018,1521102
 "KE","Kenya",2019,1309074
 "KE","Kenya",2020,988208
-"KH","Cambodia",2016,3092803
 "LA","Lao",2016,1155479
 "LB","Lebanon",2016,5990925
 "LR","Liberia",2016,1354470
-"MA","Morocco",2016,15806228
-"MA","Morocco",2017,13936721
-"MA","Morocco",2018,9668197
-"MA","Morocco",2019,4961956
-"MA","Morocco",2020,4167600
 "MG","Madagascar",2016,2044892
 "ML","Mali",2016,12988111
 "ML","Mali",2017,10996680
@@ -98,22 +94,32 @@
 "ML","Mali",2019,968122
 "ML","Mali",2020,367003
 "MR","Mauritania",2016,280832
+"MA","Morocco",2016,15806228
+"MA","Morocco",2017,13936721
+"MA","Morocco",2018,9668197
+"MA","Morocco",2019,4961956
+"MA","Morocco",2020,4167600
 "MZ","Mozambique",2016,14518119
 "MZ","Mozambique",2017,8472634
 "MZ","Mozambique",2018,9845955
 "MZ","Mozambique",2019,9350829
 "MZ","Mozambique",2020,8504370
 "NA","Namibia",2016,33935
-"NE","Niger",2016,15510558
-"NE","Niger",2017,8252587
-"NE","Niger",2018,4319295
-"NE","Niger",2019,208380
+"NP","Nepal",2016,904498
 "NI","Nicaragua",2016,2069195
 "NI","Nicaragua",2017,131372
 "NI","Nicaragua",2018,96925
 "NI","Nicaragua",2019,61706
 "NI","Nicaragua",2020,26535
-"NP","Nepal",2016,904498
+"NE","Niger",2016,15510558
+"NE","Niger",2017,8252587
+"NE","Niger",2018,4319295
+"NE","Niger",2019,208380
+"PS","Palestine",2016,25463628
+"PS","Palestine",2017,21378714
+"PS","Palestine",2018,11186090
+"PS","Palestine",2019,9624515
+"PS","Palestine",2020,2816426
 "PE","Peru",2016,15001154
 "PE","Peru",2017,6535521
 "PE","Peru",2018,4781725
@@ -122,36 +128,34 @@
 "PH","Philippines",2018,338891
 "PH","Philippines",2019,206377
 "PH","Philippines",2020,152519
-"PS","Palestine",2016,25463628
-"PS","Palestine",2017,21378714
-"PS","Palestine",2018,11186090
-"PS","Palestine",2019,9624515
-"PS","Palestine",2020,2816426
 "RW","Rwanda",2016,25129236
 "RW","Rwanda",2017,23532902
 "RW","Rwanda",2018,28738035
 "RW","Rwanda",2019,29877593
 "RW","Rwanda",2020,15495137
-"SL","Sierra Leone",2016,1354470
 "SN","Senegal",2016,14392923
 "SN","Senegal",2017,12340034
 "SN","Senegal",2018,4719204
 "SN","Senegal",2019,2759789
-"SR","Suriname",2016,1315929
-"SR","Suriname",2017,38465
+"SL","Sierra Leone",2016,1354470
+"ZA","South Africa",2016,10277735
+"ZA","South Africa",2017,4739090
+"ZA","South Africa",2018,2648177
+"ZA","South Africa",2019,474428
 "SS","South Sudan",2016,2083800
 "SS","South Sudan",2017,78142
-"SV","El Salvador",2016,1745313
+"SR","Suriname",2016,1315929
+"SR","Suriname",2017,38465
 "SY","Syria",2016,9116625
-"TG","Togo",2016,473082
-"TN","Tunisia",2016,18958
-"TN","Tunisia",2017,8068
-"TR","Turkey",2016,5339737
 "TZ","Tanzania",2016,11534964
 "TZ","Tanzania",2017,8888186
 "TZ","Tanzania",2018,7880193
 "TZ","Tanzania",2019,6675178
 "TZ","Tanzania",2020,5660139
+"TG","Togo",2016,473082
+"TN","Tunisia",2016,18958
+"TN","Tunisia",2017,8068
+"TR","Turkey",2016,5339737
 "UG","Uganda",2016,19704117
 "UG","Uganda",2017,18387406
 "UG","Uganda",2018,17314707
@@ -162,9 +166,5 @@
 "VN","Viet Nam",2018,14598697
 "VN","Viet Nam",2019,7640548
 "VN","Viet Nam",2020,212334
-"ZA","South Africa",2016,10277735
-"ZA","South Africa",2017,4739090
-"ZA","South Africa",2018,2648177
-"ZA","South Africa",2019,474428
 "ZM","Zambia",2016,1026147
 "ZW","Zimbabwe",2016,2520478

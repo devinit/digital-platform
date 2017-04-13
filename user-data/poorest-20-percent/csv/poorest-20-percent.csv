@@ -1,131 +1,131 @@
 "id","entity-name","year","value"
 "AL","Albania",2013,92510
-"AM","Armenia",2013,264316
 "AO","Angola",2013,9727060
+"AM","Armenia",2013,264316
 "AZ","Azerbaijan",2013,80070
-"BA","Bosnia & Herzegovina",2013,10314
 "BD","Bangladesh",2013,49772572
-"BF","Burkina Faso",2013,11160072
-"BG","Bulgaria",2013,220281
-"BI","Burundi",2013,9071208
-"BJ","Benin",2013,6798816
-"BO","Bolivia",2013,1104480
-"BR","Brazil",2013,14032662
-"BT","Bhutan",2013,36150
-"BW","Botswana",2013,472188
 "BY","Belarus",2013,0
 "BZ","Belize",2013,62628
-"CD","DRC",2013,62030250
-"CF","CAR",2013,4125489
-"CG","Congo",2013,2199829
-"CI","Côte d'Ivoire",2013,9022026
-"CL","Chile",2013,249636
+"BJ","Benin",2013,6798816
+"BT","Bhutan",2013,36150
+"BO","Bolivia",2013,1104480
+"BA","Bosnia & Herzegovina",2013,10314
+"BW","Botswana",2013,472188
+"BR","Brazil",2013,14032662
+"BG","Bulgaria",2013,220281
+"BF","Burkina Faso",2013,11160072
+"BI","Burundi",2013,9071208
+"KH","Cambodia",2013,1256164
 "CM","Cameroon",2013,8555292
+"CV","Cape Verde",2013,76398
+"CF","CAR",2013,4125489
+"TD","Chad",2013,6494785
+"CL","Chile",2013,249636
 "CN","China",2013,83750346
 "CO","Colombia",2013,4776606
+"KM","Comoros",2013,185325
+"CG","Congo",2013,2199829
 "CR","Costa Rica",2013,137061
-"CV","Cape Verde",2013,76398
+"CI","Côte d'Ivoire",2013,9022026
+"HR","Croatia",2013,57084
 "CZ","Czech Republic",2013,15765
 "DJ","Djibouti",2013,284144
 "DO","Dominican Republic",2013,581848
+"CD","DRC",2013,62030250
 "EC","Ecuador",2013,1202688
+"SV","El Salvador",2013,436044
 "EE","Estonia",2013,16632
 "ET","Ethiopia",2013,40528416
 "FJ","Fiji",2013,90024
-"FM","Micronesia",2013,29080
 "GA","Gabon",2013,237765
+"GM","Gambia",2013,1107414
 "GE","Georgia",2013,786618
 "GH","Ghana",2013,5757816
-"GM","Gambia",2013,1107414
-"GN","Guinea",2013,6703950
 "GT","Guatemala",2013,2857149
+"GN","Guinea",2013,6703950
 "GW","Guinea-Bissau",2013,1382832
 "GY","Guyana",2013,93480
-"HN","Honduras",2013,2220765
-"HR","Croatia",2013,57084
 "HT","Haiti",2013,6600104
+"HN","Honduras",2013,2220765
 "HU","Hungary",2013,33626
-"ID","Indonesia",2013,67842900
 "IN","India",2013,490048500
+"ID","Indonesia",2013,67842900
 "IR","Iran",2013,200590
 "JM","Jamaica",2013,132790
-"KE","Kenya",2013,17406096
-"KG","Kyrgyzstan",2013,710424
-"KH","Cambodia",2013,1256164
-"KI","Kiribati",2013,26422
-"KM","Comoros",2013,185325
 "KZ","Kazakhstan",2013,15336
+"KE","Kenya",2013,17406096
+"KI","Kiribati",2013,26422
+"XK","Kosovo",2013,34398
+"KG","Kyrgyzstan",2013,710424
 "LA","Lao",2013,2104942
-"LC","Saint Lucia",2013,78444
-"LK","Sri Lanka",2013,1461180
-"LR","Liberia",2013,3123120
-"LS","Lesotho",2013,1415856
-"LT","Lithuania",2013,33448
 "LV","Latvia",2013,35577
-"MA","Morocco",2013,1501905
-"MD","Moldova",2013,16732
-"ME","Montenegro",2013,11966
-"MG","Madagascar",2013,19851012
+"LS","Lesotho",2013,1415856
+"LR","Liberia",2013,3123120
+"LT","Lithuania",2013,33448
 "MK","Macedonia",2013,97704
+"MG","Madagascar",2013,19851012
+"MW","Malawi",2013,13264467
+"MY","Malaysia",2013,111986
+"MV","Maldives",2013,47775
 "ML","Mali",2013,11598069
-"MN","Mongolia",2013,37180
 "MR","Mauritania",2013,609525
 "MU","Mauritius",2013,18900
-"MV","Maldives",2013,47775
-"MW","Malawi",2013,13264467
 "MX","Mexico",2013,7894612
-"MY","Malaysia",2013,111986
+"FM","Micronesia",2013,29080
+"MD","Moldova",2013,16732
+"MN","Mongolia",2013,37180
+"ME","Montenegro",2013,11966
+"MA","Morocco",2013,1501905
 "MZ","Mozambique",2013,19791619
 "NA","Namibia",2013,752705
+"NP","Nepal",2013,6940802
+"NI","Nicaragua",2013,759220
 "NE","Niger",2013,12281004
 "NG","Nigeria",2013,112955152
-"NI","Nicaragua",2013,759220
-"NP","Nepal",2013,6940802
-"PA","Panama",2013,216027
-"PE","Peru",2013,2103216
-"PG","Papua New Guinea",2013,3364793
-"PH","Philippines",2013,24733995
 "PK","Pakistan",2013,44192241
-"PL","Poland",2013,15216
 "PS","Palestine",2013,21267
+"PA","Panama",2013,216027
+"PG","Papua New Guinea",2013,3364793
 "PY","Paraguay",2013,280151
+"PE","Peru",2013,2103216
+"PH","Philippines",2013,24733995
+"PL","Poland",2013,15216
 "RO","Romania",2013,417582
-"RS","Serbia",2013,53700
 "RU","Russian Federation",2013,258318
 "RW","Rwanda",2013,8206956
-"SB","Solomon Islands",2013,272944
-"SC","Seychelles",2013,1368
-"SD","Sudan",2013,7519104
-"SI","Slovenia",2013,618
-"SK","Slovak Republic",2013,16771
-"SL","Sierra Leone",2013,3290850
-"SN","Senegal",2013,7697286
-"SR","Suriname",2013,111989
-"SS","South Sudan",2013,9366100
+"LC","Saint Lucia",2013,78444
+"WS","Samoa",2013,8987
 "ST","Sao Tome & Principe",2013,89928
-"SV","El Salvador",2013,436044
+"SN","Senegal",2013,7697286
+"RS","Serbia",2013,53700
+"SC","Seychelles",2013,1368
+"SL","Sierra Leone",2013,3290850
+"SK","Slovak Republic",2013,16771
+"SI","Slovenia",2013,618
+"SB","Solomon Islands",2013,272944
+"ZA","South Africa",2013,14159178
+"SS","South Sudan",2013,9366100
+"LK","Sri Lanka",2013,1461180
+"SD","Sudan",2013,7519104
+"SR","Suriname",2013,111989
 "SZ","Swaziland",2013,683375
-"TD","Chad",2013,6494785
-"TG","Togo",2013,4499649
-"TH","Thailand",2013,175370
 "TJ","Tajikistan",2013,3637335
-"TL","Timor-Leste",2013,551768
-"TM","Turkmenistan",2013,398240
-"TN","Tunisia",2013,309276
-"TO","Tonga",2013,4400
-"TR","Turkey",2013,1036592
-"TT","Trinidad & Tobago",2013,7560
-"TV","Tuvalu",2013,640
 "TZ","Tanzania",2013,32144442
-"UA","Ukraine",2013,18196
+"TH","Thailand",2013,175370
+"TL","Timor-Leste",2013,551768
+"TG","Togo",2013,4499649
+"TO","Tonga",2013,4400
+"TT","Trinidad & Tobago",2013,7560
+"TN","Tunisia",2013,309276
+"TR","Turkey",2013,1036592
+"TM","Turkmenistan",2013,398240
+"TV","Tuvalu",2013,640
 "UG","Uganda",2013,19597863
+"UA","Ukraine",2013,18196
 "UY","Uruguay",2013,27962
 "UZ","Uzbekistan",2013,13375152
+"VU","Vanuatu",2013,67900
 "VE","Venezuela",2013,2967440
 "VN","Viet Nam",2013,6974352
-"VU","Vanuatu",2013,67900
-"WS","Samoa",2013,8987
-"XK","Kosovo",2013,34398
-"ZA","South Africa",2013,14159178
 "ZM","Zambia",2013,10841225
 "ZW","Zimbabwe",2013,4540030
