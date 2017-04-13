@@ -11,11 +11,11 @@ The Development Data Hub web app repository (staging branch) is here: https://gi
 # Structure of the repository
 
 - [country-year](https://github.com/devinit/digital-platform/tree/development/country-year): contains raw data .csv files for the visualisations & charts. **Only files that the Development Data Hub web app uses/needs should be stored here**. A raw data .csv files found in this folder is either created by an analyst ('manual'), or is 'automated' i.e., populated from a table in a DB. The DB is maintained and updated 4 times a year. Not all manual files are maintained and if they are, then only once a year.
- - [iati](https://github.com/devinit/digital-platform/tree/development/country-year/iati): http://data.devinit.org:8888/#!/ → Global Picture → Forward looking ODA
- - [oda-donor](https://github.com/devinit/digital-platform/tree/development/country-year/oda-donor): http://data.devinit.org:8888/#!/ → Other Visualisations → Different providers, different priorities or  http://data.devinit.org:8888/#!/post/oda-donor
- - [spotlight-on-kenya](https://github.com/devinit/digital-platform/tree/development/country-year/spotlight-on-kenya): NOT IN USE AT THE MOMENT
- - [spotlight-on-uganda](https://github.com/devinit/digital-platform/tree/development/country-year/spotlight-on-uganda): http://data.devinit.org:8888/#!/ → Spotlight on Uganda or http://data.devinit.org:8888/#!/spotlight-on-uganda
- - [warehouse](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse): http://data.devinit.org:8888/#!/ → Global Picture + Country Profiles + Unbundling Aid
+  - [iati](https://github.com/devinit/digital-platform/tree/development/country-year/iati): http://data.devinit.org:8888/#!/ → Global Picture → Forward looking ODA
+  - [oda-donor](https://github.com/devinit/digital-platform/tree/development/country-year/oda-donor): http://data.devinit.org:8888/#!/ → Other Visualisations → Different providers, different priorities or  http://data.devinit.org:8888/#!/post/oda-donor
+  - [spotlight-on-kenya](https://github.com/devinit/digital-platform/tree/development/country-year/spotlight-on-kenya): NOT IN USE AT THE MOMENT
+  - [spotlight-on-uganda](https://github.com/devinit/digital-platform/tree/development/country-year/spotlight-on-uganda): http://data.devinit.org:8888/#!/ → Spotlight on Uganda or http://data.devinit.org:8888/#!/spotlight-on-uganda
+  - [warehouse](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse): http://data.devinit.org:8888/#!/ → Global Picture + Country Profiles + Unbundling Aid
     - [data_series](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/data_series): manual raw data files that support a large number of visualisations/charts on the DH in all locations
     - [dimension](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/dimension): automated reference files
     - [donor_profile](https://github.com/devinit/digital-platform/tree/development/country-year/warehouse/donor_profile): automated raw data files used with a country profile if a country is a donor
@@ -55,7 +55,7 @@ The Development Data Hub web app repository (staging branch) is here: https://gi
 - remittances
 - ssc-out
 
-If they are used somewhere, they are out of date. If not, remove. Clear up with @epicallan.
+If they are used somewhere, they are out of date. If not, remove. Clear up with @epicallan. See: https://github.com/devinit/digital-platform/issues/256.
 
 # Staging
 
