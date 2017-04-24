@@ -127,6 +127,8 @@ country-year,warehouse/multilateral_profile/channel_2015,simple,,,,,,,,,,,,,,,,,
 country-year,warehouse/multilateral_profile/oda_revenue_poverty,simple,,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,warehouse/south_south_cooperation/bundle_2015,simple,,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,warehouse/south_south_cooperation/recipient_and_region_2015,simple,,,,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,warehouse/poverty_map/national,simple,,,,,,,,,,,,,,,,,,,,,,,,,,,
+country-year,warehouse/poverty_map/region,simple,,,,,,,,,,,,,,,,,,,,,,,,,,,
 country-year,spotlight-on-uganda/uganda-agri-percent,simple,,Agriculture allocation as a % of total expenditure,"id, year, budget-type,value",The proportion of total local government expenditure that is allocated to the agriculture sector.,,uganda-dist-resource,uganda-dist-resource,,purple,percent,%,"Local government budgets, Ministry of Finance, Planning and Economic Development.",,,highisbetter,"3, 4, 5, 6",,NA,NA,"The proportion of total local government expenditure that is allocated to the agriculture sector, by district.",Agriculture allocation as a % of total revenue,http://www.budget.go.ug/,,,,,1
 country-year,spotlight-on-uganda/uganda-anc4-coverage,simple,,Antenatal care coverage rate,"id, year, value",Antenatal care coverage rate.,lin,uganda-health,uganda-health,7,red,unit,,"Annual health sector performance reports 2010-2014, Ministry of Health.",,,highisbetter,"20, 25, 35, 45",,NA,NA,"The percentage rate of antenatal care coverage, by district.",Antenatal care coverage rate,http://library.health.go.ug/,,,,,1
 country-year,spotlight-on-uganda/uganda-avg-house-size,simple,,Average household size,"id, year, value",Average household size.,lin,uganda-pop,uganda-pop,1,orange,unit,,"National Population and Housing Census 2014: provisional results, Uganda Bureau of Statistics.",,,lowisbetter,"4.3, 4.6, 4.9, 5.2",,NA,NA,"The number of people who normally live and eat together, by district.",Average household size,http://www.ubos.org/onlinefiles/uploads/ubos/NPHC/NPHC%202014%20PROVISIONAL%20RESULTS%20REPORT.pdf,,,,,1
@@ -293,5 +295,3 @@ reference,uganda-budget-level,reference,,Uganda budget-level reference,"id, leve
 reference,uganda-district-entity,reference,,Ugandan entity reference,"id, name",,,,,,,,,,,,,,,,,,,,,,,,
 reference,uganda-theme,reference,,Uganda map theme reference,"id, name, default",,,,,,,,,,,,,,,,,,,,,,,,
 reference,digital-profile-information-box,reference,,,,,,,,,,,,,,,,,,,,,,,,,,,
-country-year,warehouse/poverty_map/national,simple,,,,,,,,,,,,,,,,,,,,,,,,,,,
-country-year,warehouse/poverty_map/region,simple,,,,,,,,,,,,,,,,,,,,,,,,,,,
