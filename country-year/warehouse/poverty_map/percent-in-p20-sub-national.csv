@@ -1,8 +1,8 @@
 di_id,dhs_id,di_region_id,region_name,year,value
 TG,TG,1,Centrale,2013,0.8281111
-TG,TG,2,Greater Lomé area,2013,0.140333246
+TG,TG,2,Greater LomÃ© area,2013,0.140333246
 TG,TG,3,Kara,2013,0.798832424
-TG,TG,4,Maritime (excluding Greater Lomé area),2013,0.870360531
+TG,TG,4,Maritime (excluding Greater LomÃ© area),2013,0.870360531
 TG,TG,5,Plateaux,2013,0.844685173
 TG,TG,6,Savanes,2013,0.910451351
 CF,CF,7,Region 1,1994,0.926800472
