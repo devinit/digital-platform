@@ -262,7 +262,9 @@ exports.csv=
  // Automated version: "country-year/fact/in-oda-net.csv": "fact.\"in_oda_net_2015\"",
  "country-year/in-oof-gross.csv": "data_series.\"in_oof_gross\"",
  "country-year/intl-flows-donors.csv": "data_series.\"intl_flows_donors\"",
+ */
  "country-year/intl-flows-recipients.csv": "data_series.\"intl_flows_recipients\"",
+ /*
  "country-year/intl-outflows-donors.csv": "data_series.\"intl_outflows_donors\"",
  "country-year/intl-resources-total-percent-gdp.csv": "data_series.\"intl_resources_total_percent_gdp\"",
  "country-year/intlresources-total.csv": "data_series.\"intlresources_total\"",
@@ -293,9 +295,7 @@ exports.csv=
  // Renamed: "country-year/poorest20pct.csv": "data_series.\"2013_p20_population\"",
  "country-year/poorest-20-percent.csv": "data_series.\"poorest_20_percent\"",
  // "country-year/poverty-125.csv": "data_series.\"poverty_125\"",
- */
  "country-year/poverty-190.csv": "data_series.\"poverty_190\"",
- /*
  "country-year/poverty-200.csv": "data_series.\"poverty_200\"",
  "country-year/poverty-310.csv": "data_series.\"poverty_310\"",
  // We are no longer to use profits-pct-fdi.csv, contact @cecilia-caio/@timstrawson for details
@@ -330,7 +330,7 @@ exports.csv=
  // Each file contains the total ODA flow from each individual donor to all the recipients it provides ODA to
  //
  ///////////////////////////////////////////////////////////////////////////////
-
+ /*
  "country-year/oda-donor/oda-adaptation-fund.csv": "(SELECT to_di_id, year, ROUND\(SUM\(value\), 2\) AS \"value\" FROM fact.\"oda_2015\" WHERE from_di_id = 'adaptation-fund' GROUP BY to_di_id, year ORDER BY year DESC, to_di_id) sq",
  "country-year/oda-donor/oda-AE.csv": "(SELECT to_di_id, year, ROUND\(SUM\(value\), 2\) AS \"value\" FROM fact.\"oda_2015\" WHERE from_di_id = 'AE' GROUP BY to_di_id, year ORDER BY year DESC, to_di_id) sq",
  "country-year/oda-donor/oda-afdb.csv": "(SELECT to_di_id, year, ROUND\(SUM\(value\), 2\) AS \"value\" FROM fact.\"oda_2015\" WHERE from_di_id = 'afdb' GROUP BY to_di_id, year ORDER BY year DESC, to_di_id) sq",
