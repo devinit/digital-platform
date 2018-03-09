@@ -1,17 +1,4 @@
 "id","entity-name","year","value"
-"AE","UAE",2009,0.37
-"AE","UAE",2010,0.14
-"AE","UAE",2011,0.21
-"AE","UAE",2012,0.2
-"AE","UAE",2013,1.34
-"AE","UAE",2014,1.26
-"AE","UAE",2015,1.18
-"BG","Bulgaria",2010,0.09
-"BG","Bulgaria",2011,0.09
-"BG","Bulgaria",2012,0.08
-"BG","Bulgaria",2013,0.1
-"BG","Bulgaria",2014,0.09
-"BG","Bulgaria",2015,0.09
 "BR","Brazil",2000,
 "BR","Brazil",2001,
 "BR","Brazil",2002,
@@ -26,6 +13,12 @@
 "BR","Brazil",2011,
 "BR","Brazil",2012,
 "BR","Brazil",2013,
+"BG","Bulgaria",2010,0.09
+"BG","Bulgaria",2011,0.09
+"BG","Bulgaria",2012,0.08
+"BG","Bulgaria",2013,0.1
+"BG","Bulgaria",2014,0.09
+"BG","Bulgaria",2015,0.09
 "CN","China",2000,
 "CN","China",2001,0.058029769
 "CN","China",2002,0.05648851
@@ -40,6 +33,10 @@
 "CN","China",2011,0.069949687
 "CN","China",2012,0.075652369
 "CN","China",2013,0.081611315
+"HR","Croatia",2012,0.04
+"HR","Croatia",2013,0.08
+"HR","Croatia",2014,0.13
+"HR","Croatia",2015,0.09
 "CY","Cyprus",2005,0.09
 "CY","Cyprus",2006,0.14
 "CY","Cyprus",2007,0.17
@@ -63,10 +60,6 @@
 "EE","Estonia",2013,0.13
 "EE","Estonia",2014,0.14
 "EE","Estonia",2015,0.15
-"HR","Croatia",2012,0.04
-"HR","Croatia",2013,0.08
-"HR","Croatia",2014,0.13
-"HR","Croatia",2015,0.09
 "HU","Hungary",2003,0.03
 "HU","Hungary",2004,0.07
 "HU","Hungary",2005,0.11
@@ -80,6 +73,20 @@
 "HU","Hungary",2013,0.1
 "HU","Hungary",2014,0.11
 "HU","Hungary",2015,0.13
+"IN","India",2000,
+"IN","India",2001,
+"IN","India",2002,
+"IN","India",2003,
+"IN","India",2004,
+"IN","India",2005,
+"IN","India",2006,
+"IN","India",2007,
+"IN","India",2008,0.064289413
+"IN","India",2009,0.050924275
+"IN","India",2010,0.049786431
+"IN","India",2011,0.048467455
+"IN","India",2012,0.055832166
+"IN","India",2013,0.064116771
 "IL","Israel",2001,0.08
 "IL","Israel",2002,0.12
 "IL","Israel",2003,0.1
@@ -95,24 +102,23 @@
 "IL","Israel",2013,0.07
 "IL","Israel",2014,0.07
 "IL","Israel",2015,0.07
-"IN","India",2000,
-"IN","India",2001,
-"IN","India",2002,
-"IN","India",2003,
-"IN","India",2004,
-"IN","India",2005,
-"IN","India",2006,
-"IN","India",2007,
-"IN","India",2008,0.064289413
-"IN","India",2009,0.050924275
-"IN","India",2010,0.049786431
-"IN","India",2011,0.048467455
-"IN","India",2012,0.055832166
-"IN","India",2013,0.064116771
-"KW","Kuwait",2003,
 "KZ","Kazakhstan",2013,0
 "KZ","Kazakhstan",2014,0.02
 "KZ","Kazakhstan",2015,0.03
+"KW","Kuwait",2003,
+"LV","Latvia",2003,0.01
+"LV","Latvia",2004,0.06
+"LV","Latvia",2005,0.07
+"LV","Latvia",2006,0.06
+"LV","Latvia",2007,0.06
+"LV","Latvia",2008,0.07
+"LV","Latvia",2009,0.07
+"LV","Latvia",2010,0.06
+"LV","Latvia",2011,0.07
+"LV","Latvia",2012,0.08
+"LV","Latvia",2013,0.08
+"LV","Latvia",2014,0.08
+"LV","Latvia",2015,0.09
 "LI","Liechtenstein",2007,0.44
 "LI","Liechtenstein",2008,0.53
 "LI","Liechtenstein",2009,0.68
@@ -134,19 +140,6 @@
 "LT","Lithuania",2013,0.11
 "LT","Lithuania",2014,0.1
 "LT","Lithuania",2015,0.14
-"LV","Latvia",2003,0.01
-"LV","Latvia",2004,0.06
-"LV","Latvia",2005,0.07
-"LV","Latvia",2006,0.06
-"LV","Latvia",2007,0.06
-"LV","Latvia",2008,0.07
-"LV","Latvia",2009,0.07
-"LV","Latvia",2010,0.06
-"LV","Latvia",2011,0.07
-"LV","Latvia",2012,0.08
-"LV","Latvia",2013,0.08
-"LV","Latvia",2014,0.08
-"LV","Latvia",2015,0.09
 "MT","Malta",2009,0.18
 "MT","Malta",2010,0.18
 "MT","Malta",2011,0.25
@@ -183,6 +176,31 @@
 "RU","Russian Federation",2014,0.05
 "RU","Russian Federation",2015,0.09
 "SA","Saudi Arabia",2004,
+"ZA","South Africa",2000,0.0203656488
+"ZA","South Africa",2001,0.0315459487
+"ZA","South Africa",2002,0.0504027739
+"ZA","South Africa",2003,0.0565109286
+"ZA","South Africa",2004,0.0414807152
+"ZA","South Africa",2005,0.0331706921
+"ZA","South Africa",2006,0.0376402187
+"ZA","South Africa",2007,0.0398851891
+"ZA","South Africa",2008,0.0507709082
+"ZA","South Africa",2009,0.0748927276
+"ZA","South Africa",2010,0.0650615327
+"ZA","South Africa",2011,0.05792696
+"ZA","South Africa",2012,0.0540147394
+"ZA","South Africa",2013,0.0520883376
+"TW","Taiwan",2005,0.14
+"TW","Taiwan",2006,0.14
+"TW","Taiwan",2007,0.13
+"TW","Taiwan",2008,0.11
+"TW","Taiwan",2009,0.13
+"TW","Taiwan",2010,0.1
+"TW","Taiwan",2011,0.09
+"TW","Taiwan",2012,0.06
+"TW","Taiwan",2013,0.05
+"TW","Taiwan",2014,0.05
+"TW","Taiwan",2015,0.05
 "TH","Thailand",2006,0.04
 "TH","Thailand",2007,0.04
 "TH","Thailand",2008,0.09
@@ -218,28 +236,10 @@
 "TR","Turkey",2013,0.4
 "TR","Turkey",2014,0.45
 "TR","Turkey",2015,0.5
-"TW","Taiwan",2005,0.14
-"TW","Taiwan",2006,0.14
-"TW","Taiwan",2007,0.13
-"TW","Taiwan",2008,0.11
-"TW","Taiwan",2009,0.13
-"TW","Taiwan",2010,0.1
-"TW","Taiwan",2011,0.09
-"TW","Taiwan",2012,0.06
-"TW","Taiwan",2013,0.05
-"TW","Taiwan",2014,0.05
-"TW","Taiwan",2015,0.05
-"ZA","South Africa",2000,0.0203656488
-"ZA","South Africa",2001,0.0315459487
-"ZA","South Africa",2002,0.0504027739
-"ZA","South Africa",2003,0.0565109286
-"ZA","South Africa",2004,0.0414807152
-"ZA","South Africa",2005,0.0331706921
-"ZA","South Africa",2006,0.0376402187
-"ZA","South Africa",2007,0.0398851891
-"ZA","South Africa",2008,0.0507709082
-"ZA","South Africa",2009,0.0748927276
-"ZA","South Africa",2010,0.0650615327
-"ZA","South Africa",2011,0.05792696
-"ZA","South Africa",2012,0.0540147394
-"ZA","South Africa",2013,0.0520883376
+"AE","UAE",2009,0.37
+"AE","UAE",2010,0.14
+"AE","UAE",2011,0.21
+"AE","UAE",2012,0.2
+"AE","UAE",2013,1.34
+"AE","UAE",2014,1.26
+"AE","UAE",2015,1.18

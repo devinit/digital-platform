@@ -1,0 +1,1331 @@
+"id","entity-name","year","value"
+"AU","Australia",1965,956973890
+"AU","Australia",1966,973537723
+"AU","Australia",1967,1168000282
+"AU","Australia",1968,1261434450
+"AU","Australia",1969,1401208800
+"AU","Australia",1970,1527395556
+"AU","Australia",1971,1434537411
+"AU","Australia",1972,1653335895
+"AU","Australia",1973,1349712663
+"AU","Australia",1974,1616802796
+"AU","Australia",1975,1967444591
+"AU","Australia",1976,1293728504
+"AU","Australia",1977,1362190839
+"AU","Australia",1978,1795056228
+"AU","Australia",1979,1782068231
+"AU","Australia",1980,1684919177
+"AU","Australia",1981,1465567969
+"AU","Australia",1982,2044588405
+"AU","Australia",1983,1784306270
+"AU","Australia",1984,1799326163
+"AU","Australia",1985,2078131706
+"AU","Australia",1986,2030369594
+"AU","Australia",1987,1508984000
+"AU","Australia",1988,2205594812
+"AU","Australia",1989,1853248949
+"AU","Australia",1990,1663405046
+"AU","Australia",1991,1814089156
+"AU","Australia",1992,1850010671
+"AU","Australia",1993,1859061333
+"AU","Australia",1994,1950054010
+"AU","Australia",1995,2048655309
+"AU","Australia",1996,1707118923
+"AU","Australia",1997,1760881175
+"AU","Australia",1998,1858305208
+"AU","Australia",1999,1838795243
+"AU","Australia",2000,1972064315
+"AU","Australia",2001,1888519243
+"AU","Australia",2002,1983888213
+"AU","Australia",2003,1979029069
+"AU","Australia",2004,2016424664
+"AU","Australia",2005,2143723991
+"AU","Australia",2006,2604802615
+"AU","Australia",2007,2819689309
+"AU","Australia",2008,2981621145
+"AU","Australia",2009,2942894899
+"AU","Australia",2010,3284446998
+"AU","Australia",2011,3643565527
+"AU","Australia",2012,3952893082
+"AU","Australia",2013,3755700590
+"AU","Australia",2014,3624218248
+"AU","Australia",2015,3493610000
+"AT","Austria",1960,0
+"AT","Austria",1961,5494596
+"AT","Austria",1962,62901516
+"AT","Austria",1963,5092922
+"AT","Austria",1964,108568997
+"AT","Austria",1965,328414978
+"AT","Austria",1966,304452701
+"AT","Austria",1967,305235934
+"AT","Austria",1968,153536997
+"AT","Austria",1969,130220075
+"AT","Austria",1970,91011755
+"AT","Austria",1971,94965531
+"AT","Austria",1972,119646388
+"AT","Austria",1973,212479602
+"AT","Austria",1974,275931396
+"AT","Austria",1975,318964523
+"AT","Austria",1976,195746813
+"AT","Austria",1977,354970493
+"AT","Austria",1978,437127710
+"AT","Austria",1979,326097295
+"AT","Austria",1980,405068266
+"AT","Austria",1981,579753039
+"AT","Austria",1982,633757896
+"AT","Austria",1983,434591762
+"AT","Austria",1984,530031791
+"AT","Austria",1985,729846252
+"AT","Austria",1986,416601925
+"AT","Austria",1987,342223168
+"AT","Austria",1988,493239758
+"AT","Austria",1989,481553854
+"AT","Austria",1990,238828593
+"AT","Austria",1991,414379310
+"AT","Austria",1992,261892929
+"AT","Austria",1993,272146132
+"AT","Austria",1994,409163004
+"AT","Austria",1995,679627683
+"AT","Austria",1996,599897391
+"AT","Austria",1997,642642948
+"AT","Austria",1998,602682959
+"AT","Austria",1999,672078076
+"AT","Austria",2000,684805507
+"AT","Austria",2001,995720282
+"AT","Austria",2002,767561055
+"AT","Austria",2003,614183960
+"AT","Austria",2004,736412701
+"AT","Austria",2005,1666357543
+"AT","Austria",2006,1542834148
+"AT","Austria",2007,1669714298
+"AT","Austria",2008,1475170735
+"AT","Austria",2009,998583914
+"AT","Austria",2010,1100072941
+"AT","Austria",2011,945780075
+"AT","Austria",2012,998399710
+"AT","Austria",2013,1008463651
+"AT","Austria",2014,1046563713
+"AT","Austria",2015,1323510000
+"BE","Belgium",1960,742977211
+"BE","Belgium",1961,630582796
+"BE","Belgium",1962,565780769
+"BE","Belgium",1963,643231021
+"BE","Belgium",1964,663259497
+"BE","Belgium",1965,820803668
+"BE","Belgium",1966,500912421
+"BE","Belgium",1967,535215111
+"BE","Belgium",1968,620413560
+"BE","Belgium",1969,788959098
+"BE","Belgium",1970,768624614
+"BE","Belgium",1971,870477799
+"BE","Belgium",1972,981645425
+"BE","Belgium",1973,986000671
+"BE","Belgium",1974,1010282755
+"BE","Belgium",1975,1184713969
+"BE","Belgium",1976,1040011399
+"BE","Belgium",1977,980502275
+"BE","Belgium",1978,1191527232
+"BE","Belgium",1979,1268414455
+"BE","Belgium",1980,1128170983
+"BE","Belgium",1981,1316058644
+"BE","Belgium",1982,1306014956
+"BE","Belgium",1983,1330456170
+"BE","Belgium",1984,1327056078
+"BE","Belgium",1985,1288134959
+"BE","Belgium",1986,1170580898
+"BE","Belgium",1987,1209124937
+"BE","Belgium",1988,1018441550
+"BE","Belgium",1989,1218983743
+"BE","Belgium",1990,1271301213
+"BE","Belgium",1991,1181473143
+"BE","Belgium",1992,1125139085
+"BE","Belgium",1993,1082351107
+"BE","Belgium",1994,921954591
+"BE","Belgium",1995,1141202820
+"BE","Belgium",1996,1054192739
+"BE","Belgium",1997,1008289241
+"BE","Belgium",1998,1162728807
+"BE","Belgium",1999,1038552300
+"BE","Belgium",2000,1269060361
+"BE","Belgium",2001,1354268311
+"BE","Belgium",2002,1562599957
+"BE","Belgium",2003,2210867262
+"BE","Belgium",2004,1557674617
+"BE","Belgium",2005,2043356200
+"BE","Belgium",2006,1991341361
+"BE","Belgium",2007,1765842642
+"BE","Belgium",2008,2009600965
+"BE","Belgium",2009,2259754943
+"BE","Belgium",2010,2682931021
+"BE","Belgium",2011,2341601151
+"BE","Belgium",2012,2046377397
+"BE","Belgium",2013,1942424989
+"BE","Belgium",2014,2054782607
+"BE","Belgium",2015,1905140000
+"CA","Canada",1960,321511123
+"CA","Canada",1961,312269265
+"CA","Canada",1962,302098244
+"CA","Canada",1963,641587850
+"CA","Canada",1964,773924591
+"CA","Canada",1965,642916931
+"CA","Canada",1966,1152585412
+"CA","Canada",1967,1018430772
+"CA","Canada",1968,1018771493
+"CA","Canada",1969,1193742351
+"CA","Canada",1970,1744436096
+"CA","Canada",1971,1858502024
+"CA","Canada",1972,2068291874
+"CA","Canada",1973,2095670749
+"CA","Canada",1974,2471787681
+"CA","Canada",1975,2862844352
+"CA","Canada",1976,2516269417
+"CA","Canada",1977,2882644328
+"CA","Canada",1978,3095155629
+"CA","Canada",1979,2881169382
+"CA","Canada",1980,2662815545
+"CA","Canada",1981,2724238784
+"CA","Canada",1982,2591621157
+"CA","Canada",1983,2924584044
+"CA","Canada",1984,3379292116
+"CA","Canada",1985,3464274571
+"CA","Canada",1986,3549801657
+"CA","Canada",1987,3596728133
+"CA","Canada",1988,3980871873
+"CA","Canada",1989,3616464896
+"CA","Canada",1990,3668460498
+"CA","Canada",1991,3650351228
+"CA","Canada",1992,3699614692
+"CA","Canada",1993,3715298448
+"CA","Canada",1994,3637848430
+"CA","Canada",1995,3283340346
+"CA","Canada",1996,2786882074
+"CA","Canada",1997,3186028301
+"CA","Canada",1998,2852164430
+"CA","Canada",1999,2805378074
+"CA","Canada",2000,2748687987
+"CA","Canada",2001,2477615702
+"CA","Canada",2002,3246724444
+"CA","Canada",2003,2837260305
+"CA","Canada",2004,3267849062
+"CA","Canada",2005,4262896976
+"CA","Canada",2006,3807872133
+"CA","Canada",2007,3870860388
+"CA","Canada",2008,4382676424
+"CA","Canada",2009,3963672649
+"CA","Canada",2010,4544251817
+"CA","Canada",2011,4419313562
+"CA","Canada",2012,4553099767
+"CA","Canada",2013,4055297308
+"CA","Canada",2014,3660977144
+"CA","Canada",2015,4277230000
+"CZ","Czech Republic",1993,51699187
+"CZ","Czech Republic",1994,58044293
+"CZ","Czech Republic",1998,28733485
+"CZ","Czech Republic",1999,27392945
+"CZ","Czech Republic",2000,32881110
+"CZ","Czech Republic",2001,50572249
+"CZ","Czech Republic",2002,72725257
+"CZ","Czech Republic",2003,123309028
+"CZ","Czech Republic",2004,129467930
+"CZ","Czech Republic",2005,150489956
+"CZ","Czech Republic",2006,167625227
+"CZ","Czech Republic",2007,161738885
+"CZ","Czech Republic",2008,188761589
+"CZ","Czech Republic",2009,173460104
+"CZ","Czech Republic",2010,187492105
+"CZ","Czech Republic",2011,191491350
+"CZ","Czech Republic",2012,183104163
+"CZ","Czech Republic",2013,173597573
+"CZ","Czech Republic",2014,180942970
+"CZ","Czech Republic",2015,1.99e+08
+"dac-countries-total","DAC Countries, Total",1960,31058672852
+"dac-countries-total","DAC Countries, Total",1961,37658052550
+"dac-countries-total","DAC Countries, Total",1962,36993516927
+"dac-countries-total","DAC Countries, Total",1963,37490800158
+"dac-countries-total","DAC Countries, Total",1964,35182111420
+"dac-countries-total","DAC Countries, Total",1965,36411872644
+"dac-countries-total","DAC Countries, Total",1966,34702410388
+"dac-countries-total","DAC Countries, Total",1967,36981173934
+"dac-countries-total","DAC Countries, Total",1968,36908123327
+"dac-countries-total","DAC Countries, Total",1969,39681249612
+"dac-countries-total","DAC Countries, Total",1970,38201530906
+"dac-countries-total","DAC Countries, Total",1971,39222189936
+"dac-countries-total","DAC Countries, Total",1972,42623508908
+"dac-countries-total","DAC Countries, Total",1973,37458762266
+"dac-countries-total","DAC Countries, Total",1974,43405898391
+"dac-countries-total","DAC Countries, Total",1975,45549718341
+"dac-countries-total","DAC Countries, Total",1976,43947556104
+"dac-countries-total","DAC Countries, Total",1977,45794724641
+"dac-countries-total","DAC Countries, Total",1978,51142762661
+"dac-countries-total","DAC Countries, Total",1979,52125533926
+"dac-countries-total","DAC Countries, Total",1980,56826483466
+"dac-countries-total","DAC Countries, Total",1981,55580391761
+"dac-countries-total","DAC Countries, Total",1982,61955211474
+"dac-countries-total","DAC Countries, Total",1983,61490362740
+"dac-countries-total","DAC Countries, Total",1984,66021258569
+"dac-countries-total","DAC Countries, Total",1985,67235663049
+"dac-countries-total","DAC Countries, Total",1986,68963443851
+"dac-countries-total","DAC Countries, Total",1987,67703727209
+"dac-countries-total","DAC Countries, Total",1988,72978964982
+"dac-countries-total","DAC Countries, Total",1989,71581771926
+"dac-countries-total","DAC Countries, Total",1990,76260763771
+"dac-countries-total","DAC Countries, Total",1991,79220187060
+"dac-countries-total","DAC Countries, Total",1992,80339977124
+"dac-countries-total","DAC Countries, Total",1993,74487258525
+"dac-countries-total","DAC Countries, Total",1994,74630808882
+"dac-countries-total","DAC Countries, Total",1995,67181834134
+"dac-countries-total","DAC Countries, Total",1996,67024393511
+"dac-countries-total","DAC Countries, Total",1997,62893468822
+"dac-countries-total","DAC Countries, Total",1998,68525661365
+"dac-countries-total","DAC Countries, Total",1999,69048694798
+"dac-countries-total","DAC Countries, Total",2000,72080594305
+"dac-countries-total","DAC Countries, Total",2001,74170106710
+"dac-countries-total","DAC Countries, Total",2002,79559308823
+"dac-countries-total","DAC Countries, Total",2003,83071557361
+"dac-countries-total","DAC Countries, Total",2004,87753910296
+"dac-countries-total","DAC Countries, Total",2005,115092732314
+"dac-countries-total","DAC Countries, Total",2006,109543008738
+"dac-countries-total","DAC Countries, Total",2007,101228014133
+"dac-countries-total","DAC Countries, Total",2008,112814537571
+"dac-countries-total","DAC Countries, Total",2009,114473421608
+"dac-countries-total","DAC Countries, Total",2010,120660076025
+"dac-countries-total","DAC Countries, Total",2011,119468826920
+"dac-countries-total","DAC Countries, Total",2012,114936891165
+"dac-countries-total","DAC Countries, Total",2013,121303882630
+"dac-countries-total","DAC Countries, Total",2014,123298782226
+"dac-countries-total","DAC Countries, Total",2015,131433570000
+"DK","Denmark",1960,10258334
+"DK","Denmark",1961,31204474
+"DK","Denmark",1962,6389422
+"DK","Denmark",1963,6678740
+"DK","Denmark",1964,30716123
+"DK","Denmark",1965,39126360
+"DK","Denmark",1966,98633235
+"DK","Denmark",1967,113744873
+"DK","Denmark",1968,265696220
+"DK","Denmark",1969,475068824
+"DK","Denmark",1970,471381447
+"DK","Denmark",1971,545200839
+"DK","Denmark",1972,600284805
+"DK","Denmark",1973,642440127
+"DK","Denmark",1974,731460331
+"DK","Denmark",1975,745656456
+"DK","Denmark",1976,747173814
+"DK","Denmark",1977,821102254
+"DK","Denmark",1978,1038976391
+"DK","Denmark",1979,1099559360
+"DK","Denmark",1980,1135195866
+"DK","Denmark",1981,1088772069
+"DK","Denmark",1982,1187043063
+"DK","Denmark",1983,1155995180
+"DK","Denmark",1984,1405556684
+"DK","Denmark",1985,1352020221
+"DK","Denmark",1986,1588894513
+"DK","Denmark",1987,1584759007
+"DK","Denmark",1988,1610300773
+"DK","Denmark",1989,1692825947
+"DK","Denmark",1990,1741876539
+"DK","Denmark",1991,1795897445
+"DK","Denmark",1992,1936256480
+"DK","Denmark",1993,1986316378
+"DK","Denmark",1994,2073878973
+"DK","Denmark",1995,2024271359
+"DK","Denmark",1996,2240870063
+"DK","Denmark",1997,2312486668
+"DK","Denmark",1998,2409402024
+"DK","Denmark",1999,2514254590
+"DK","Denmark",2000,2715692418
+"DK","Denmark",2001,2676211276
+"DK","Denmark",2002,2491071979
+"DK","Denmark",2003,2176442433
+"DK","Denmark",2004,2263367241
+"DK","Denmark",2005,2280097269
+"DK","Denmark",2006,2345793359
+"DK","Denmark",2007,2400436425
+"DK","Denmark",2008,2395226557
+"DK","Denmark",2009,2471213311
+"DK","Denmark",2010,2572667948
+"DK","Denmark",2011,2484528410
+"DK","Denmark",2012,2405567990
+"DK","Denmark",2013,2498554568
+"DK","Denmark",2014,2544672533
+"DK","Denmark",2015,2565570000
+"EU","European Union",1960,346171
+"EU","European Union",1961,1634081
+"EU","European Union",1962,4999458
+"EU","European Union",1963,5728132
+"EU","European Union",1964,7464976
+"EU","European Union",1965,8790593
+"EU","European Union",1966,10645053
+"EU","European Union",1967,10335833
+"EU","European Union",1968,13077529
+"EU","European Union",1969,9000398
+"EU","European Union",1970,1159423331
+"EU","European Union",1971,1366543688
+"EU","European Union",1972,1296408174
+"EU","European Union",1973,1723859925
+"EU","European Union",1974,2492093661
+"EU","European Union",1975,2557403616
+"EU","European Union",1976,1966989705
+"EU","European Union",1977,1998074643
+"EU","European Union",1978,2396616332
+"EU","European Union",1979,3000078909
+"EU","European Union",1980,2410835104
+"EU","European Union",1981,3723507549
+"EU","European Union",1982,3017044357
+"EU","European Union",1983,3119379787
+"EU","European Union",1984,3647376774
+"EU","European Union",1985,3827068744
+"EU","European Union",1986,3150124366
+"EU","European Union",1987,2998108464
+"EU","European Union",1988,4183360988
+"EU","European Union",1989,4487019415
+"EU","European Union",1990,4001010793
+"EU","European Union",1991,5200685219
+"EU","European Union",1992,5798520786
+"EU","European Union",1993,5761457334
+"EU","European Union",1994,6650584727
+"EU","European Union",1995,6272760613
+"EU","European Union",1996,6408806871
+"EU","European Union",1997,6827069252
+"EU","European Union",1998,6648141289
+"EU","European Union",1999,6636629115
+"EU","European Union",2000,7523770243
+"EU","European Union",2001,9172507939
+"EU","European Union",2002,7772453605
+"EU","European Union",2003,8352175720
+"EU","European Union",2004,9041565231
+"EU","European Union",2005,9570071367
+"EU","European Union",2006,10150724221
+"EU","European Union",2007,10325651516
+"EU","European Union",2008,10910614257
+"EU","European Union",2009,11511629087
+"EU","European Union",2010,11279135655
+"EU","European Union",2011,14512064491
+"EU","European Union",2012,15591319313
+"EU","European Union",2013,13528782339
+"EU","European Union",2014,13913596432
+"EU","European Union",2015,13669600000
+"FI","Finland",1970,47950971
+"FI","Finland",1971,87483924
+"FI","Finland",1972,122383222
+"FI","Finland",1973,134422035
+"FI","Finland",1974,146962180
+"FI","Finland",1975,160364515
+"FI","Finland",1976,157216423
+"FI","Finland",1977,139187555
+"FI","Finland",1978,147240437
+"FI","Finland",1979,202391011
+"FI","Finland",1980,227851625
+"FI","Finland",1981,295616848
+"FI","Finland",1982,324463745
+"FI","Finland",1983,367397957
+"FI","Finland",1984,423120215
+"FI","Finland",1985,492891763
+"FI","Finland",1986,571025532
+"FI","Finland",1987,654313156
+"FI","Finland",1988,809713590
+"FI","Finland",1989,909460211
+"FI","Finland",1990,924165782
+"FI","Finland",1991,1056692871
+"FI","Finland",1992,804829509
+"FI","Finland",1993,555708560
+"FI","Finland",1994,406848228
+"FI","Finland",1995,437176037
+"FI","Finland",1996,483812411
+"FI","Finland",1997,496704324
+"FI","Finland",1998,519546759
+"FI","Finland",1999,564537909
+"FI","Finland",2000,571571314
+"FI","Finland",2001,596921930
+"FI","Finland",2002,668082202
+"FI","Finland",2003,671823488
+"FI","Finland",2004,738819428
+"FI","Finland",2005,971280649
+"FI","Finland",2006,882110101
+"FI","Finland",2007,925103074
+"FI","Finland",2008,1011989966
+"FI","Finland",2009,1138064758
+"FI","Finland",2010,1232463103
+"FI","Finland",2011,1206989057
+"FI","Finland",2012,1190686770
+"FI","Finland",2013,1221364258
+"FI","Finland",2014,1370307581
+"FI","Finland",2015,1.288e+09
+"FR","France",1960,6536646786
+"FR","France",1961,7055778991
+"FR","France",1962,6603740793
+"FR","France",1963,5983756592
+"FR","France",1964,5665809208
+"FR","France",1965,4529659789
+"FR","France",1966,3343549763
+"FR","France",1967,4855430517
+"FR","France",1968,3969758178
+"FR","France",1969,4371393612
+"FR","France",1970,4466914984
+"FR","France",1971,4630142220
+"FR","France",1972,4716755805
+"FR","France",1973,4280409234
+"FR","France",1974,4556455855
+"FR","France",1975,4520716313
+"FR","France",1976,4351572055
+"FR","France",1977,4208126442
+"FR","France",1978,4407320538
+"FR","France",1979,5037588499
+"FR","France",1980,5368236857
+"FR","France",1981,6344785286
+"FR","France",1982,7034490369
+"FR","France",1983,7091211835
+"FR","France",1984,7915110645
+"FR","France",1985,7980260962
+"FR","France",1986,7561341469
+"FR","France",1987,8302799246
+"FR","France",1988,8252639523
+"FR","France",1989,9144727393
+"FR","France",1990,9388515043
+"FR","France",1991,9773498753
+"FR","France",1992,10071691121
+"FR","France",1993,10137641120
+"FR","France",1994,10537877105
+"FR","France",1995,9340548679
+"FR","France",1996,8334569681
+"FR","France",1997,7979029030
+"FR","France",1998,7271156931
+"FR","France",1999,7434929361
+"FR","France",2000,6167063293
+"FR","France",2001,6361443848
+"FR","France",2002,7737083518
+"FR","France",2003,8378387399
+"FR","France",2004,8752912098
+"FR","France",2005,10163089402
+"FR","France",2006,10413626635
+"FR","France",2007,8681032547
+"FR","France",2008,8880974145
+"FR","France",2009,10616464994
+"FR","France",2010,11313874277
+"FR","France",2011,10749178367
+"FR","France",2012,10634644519
+"FR","France",2013,9629927257
+"FR","France",2014,8973522314
+"FR","France",2015,9039300000
+"DE","Germany",1960,2591922136
+"DE","Germany",1961,3249831159
+"DE","Germany",1962,3284382097
+"DE","Germany",1963,3648243143
+"DE","Germany",1964,3657120429
+"DE","Germany",1965,3704566535
+"DE","Germany",1966,3099814688
+"DE","Germany",1967,3552922091
+"DE","Germany",1968,4439367742
+"DE","Germany",1969,4358937646
+"DE","Germany",1970,3886503374
+"DE","Germany",1971,4241533442
+"DE","Germany",1972,4062989500
+"DE","Germany",1973,4351796848
+"DE","Germany",1974,5109509692
+"DE","Germany",1975,5429630425
+"DE","Germany",1976,5052212249
+"DE","Germany",1977,4843313761
+"DE","Germany",1978,5498367875
+"DE","Germany",1979,6997357065
+"DE","Germany",1980,6960551987
+"DE","Germany",1981,7403100863
+"DE","Germany",1982,7518606167
+"DE","Germany",1983,7722230936
+"DE","Germany",1984,7389953266
+"DE","Germany",1985,7911171004
+"DE","Germany",1986,7362129741
+"DE","Germany",1987,6859404115
+"DE","Germany",1988,7114633239
+"DE","Germany",1989,7783706792
+"DE","Germany",1990,8278217058
+"DE","Germany",1991,9265190013
+"DE","Germany",1992,8954697983
+"DE","Germany",1993,8338675561
+"DE","Germany",1994,7858799667
+"DE","Germany",1995,7510317192
+"DE","Germany",1996,7913504626
+"DE","Germany",1997,7011552218
+"DE","Germany",1998,6740748257
+"DE","Germany",1999,6927501569
+"DE","Germany",2000,7337093119
+"DE","Germany",2001,7390253546
+"DE","Germany",2002,7396597531
+"DE","Germany",2003,7768564957
+"DE","Germany",2004,7762369068
+"DE","Germany",2005,10317785683
+"DE","Germany",2006,10540504770
+"DE","Germany",2007,11195205153
+"DE","Germany",2008,11987112850
+"DE","Germany",2009,10543355038
+"DE","Germany",2010,11821259512
+"DE","Germany",2011,12088221152
+"DE","Germany",2012,11830775305
+"DE","Germany",2013,12341820742
+"DE","Germany",2014,14123034550
+"DE","Germany",2015,17940210000
+"GR","Greece",1996,213767103
+"GR","Greece",1997,214913521
+"GR","Greece",1998,229639777
+"GR","Greece",1999,247869295
+"GR","Greece",2000,339415055
+"GR","Greece",2001,304899072
+"GR","Greece",2002,384127928
+"GR","Greece",2003,406933611
+"GR","Greece",2004,317762997
+"GR","Greece",2005,373000542
+"GR","Greece",2006,394046368
+"GR","Greece",2007,412827015
+"GR","Greece",2008,527345014
+"GR","Greece",2009,459370883
+"GR","Greece",2010,400174548
+"GR","Greece",2011,317021665
+"GR","Greece",2012,264320250
+"GR","Greece",2013,191225199
+"GR","Greece",2014,203420996
+"GR","Greece",2015,238690000
+"IS","Iceland",1990,2504998
+"IS","Iceland",1991,9956608
+"IS","Iceland",1992,5775053
+"IS","Iceland",1993,9062985
+"IS","Iceland",1994,8185025
+"IS","Iceland",1997,9956504
+"IS","Iceland",1998,8722882
+"IS","Iceland",1999,9111594
+"IS","Iceland",2000,10866999
+"IS","Iceland",2001,13996575
+"IS","Iceland",2002,16153683
+"IS","Iceland",2003,18803198
+"IS","Iceland",2004,20203728
+"IS","Iceland",2005,22416220
+"IS","Iceland",2006,34869528
+"IS","Iceland",2007,35687201
+"IS","Iceland",2008,45625224
+"IS","Iceland",2009,40680057
+"IS","Iceland",2010,31874999
+"IS","Iceland",2011,26146063
+"IS","Iceland",2012,27891649
+"IS","Iceland",2013,35728282
+"IS","Iceland",2014,35101268
+"IS","Iceland",2015,39880000
+"IE","Ireland",1974,29293025
+"IE","Ireland",1975,32417987
+"IE","Ireland",1976,36567182
+"IE","Ireland",1977,33641119
+"IE","Ireland",1978,82622759
+"IE","Ireland",1979,78823784
+"IE","Ireland",1980,70172827
+"IE","Ireland",1981,70885180
+"IE","Ireland",1982,115699689
+"IE","Ireland",1983,84149214
+"IE","Ireland",1984,95777599
+"IE","Ireland",1985,105855917
+"IE","Ireland",1986,124733152
+"IE","Ireland",1987,90440564
+"IE","Ireland",1988,94296351
+"IE","Ireland",1989,82615752
+"IE","Ireland",1990,83875565
+"IE","Ireland",1991,107097068
+"IE","Ireland",1992,95722675
+"IE","Ireland",1993,121905035
+"IE","Ireland",1994,160360066
+"IE","Ireland",1995,201135455
+"IE","Ireland",1996,234543061
+"IE","Ireland",1997,250251307
+"IE","Ireland",1998,265728634
+"IE","Ireland",1999,331738582
+"IE","Ireland",2000,344600924
+"IE","Ireland",2001,408702955
+"IE","Ireland",2002,512250913
+"IE","Ireland",2003,523770300
+"IE","Ireland",2004,559699277
+"IE","Ireland",2005,647318549
+"IE","Ireland",2006,890001581
+"IE","Ireland",2007,943242843
+"IE","Ireland",2008,1024145988
+"IE","Ireland",2009,839352628
+"IE","Ireland",2010,804089939
+"IE","Ireland",2011,765783711
+"IE","Ireland",2012,730805966
+"IE","Ireland",2013,731456579
+"IE","Ireland",2014,705208328
+"IE","Ireland",2015,718370000
+"IT","Italy",1960,954199809
+"IT","Italy",1961,801817206
+"IT","Italy",1962,836970056
+"IT","Italy",1963,1078665319
+"IT","Italy",1964,548181525
+"IT","Italy",1965,470621401
+"IT","Italy",1966,443831498
+"IT","Italy",1967,953382725
+"IT","Italy",1968,1197572829
+"IT","Italy",1969,1045793562
+"IT","Italy",1970,1094859123
+"IT","Italy",1971,1265815369
+"IT","Italy",1972,630800771
+"IT","Italy",1973,1039807080
+"IT","Italy",1974,1090453627
+"IT","Italy",1975,791025752
+"IT","Italy",1976,1064748814
+"IT","Italy",1977,832723573
+"IT","Italy",1978,1342314809
+"IT","Italy",1979,821696168
+"IT","Italy",1980,1743861180
+"IT","Italy",1981,1875972499
+"IT","Italy",1982,2344413062
+"IT","Italy",1983,2349865564
+"IT","Italy",1984,3334935857
+"IT","Italy",1985,3219048235
+"IT","Italy",1986,5125146865
+"IT","Italy",1987,4570383722
+"IT","Italy",1988,5249100031
+"IT","Italy",1989,5902442461
+"IT","Italy",1990,4467012517
+"IT","Italy",1991,4236389795
+"IT","Italy",1992,4963376733
+"IT","Italy",1993,4500342216
+"IT","Italy",1994,3968003534
+"IT","Italy",1995,2291001157
+"IT","Italy",1996,3084624067
+"IT","Italy",1997,1738447111
+"IT","Italy",1998,3112208186
+"IT","Italy",1999,2541785912
+"IT","Italy",2000,2194788353
+"IT","Italy",2001,2594926851
+"IT","Italy",2002,3418309690
+"IT","Italy",2003,2882689119
+"IT","Italy",2004,2587377885
+"IT","Italy",2005,5249583860
+"IT","Italy",2006,3649837619
+"IT","Italy",2007,3561480295
+"IT","Italy",2008,4036228784
+"IT","Italy",2009,2782108577
+"IT","Italy",2010,2649994226
+"IT","Italy",2011,3590320348
+"IT","Italy",2012,2424131905
+"IT","Italy",2013,2904323745
+"IT","Italy",2014,3367825181
+"IT","Italy",2015,4003980000
+"JP","Japan",1960,884666971
+"JP","Japan",1961,1030640807
+"JP","Japan",1962,820857479
+"JP","Japan",1963,1235626828
+"JP","Japan",1964,970277442
+"JP","Japan",1965,1960060886
+"JP","Japan",1966,1933163166
+"JP","Japan",1967,2698532005
+"JP","Japan",1968,2591298762
+"JP","Japan",1969,3029131471
+"JP","Japan",1970,2982642126
+"JP","Japan",1971,3068195053
+"JP","Japan",1972,3071926273
+"JP","Japan",1973,3973853566
+"JP","Japan",1974,3940494571
+"JP","Japan",1975,3809957997
+"JP","Japan",1976,3384317712
+"JP","Japan",1977,3702276924
+"JP","Japan",1978,4317811981
+"JP","Japan",1979,5313341048
+"JP","Japan",1980,6504867052
+"JP","Japan",1981,5794229467
+"JP","Japan",1982,6117728091
+"JP","Japan",1983,7229055496
+"JP","Japan",1984,8161058448
+"JP","Japan",1985,7132355692
+"JP","Japan",1986,7349001634
+"JP","Japan",1987,8225512934
+"JP","Japan",1988,9010632464
+"JP","Japan",1989,9345082790
+"JP","Japan",1990,9694388411
+"JP","Japan",1991,10604615051
+"JP","Japan",1992,10017632009
+"JP","Japan",1993,8834108806
+"JP","Japan",1994,9529406404
+"JP","Japan",1995,9672789746
+"JP","Japan",1996,7332469053
+"JP","Japan",1997,8033147134
+"JP","Japan",1998,9889983143
+"JP","Japan",1999,9963666650
+"JP","Japan",2000,10599899710
+"JP","Japan",2001,8815624499
+"JP","Japan",2002,8703368118
+"JP","Japan",2003,7834419824
+"JP","Japan",2004,7443862972
+"JP","Japan",2005,11297925376
+"JP","Japan",2006,10246455892
+"JP","Japan",2007,7233498052
+"JP","Japan",2008,8033717385
+"JP","Japan",2009,7185582304
+"JP","Japan",2010,8054039309
+"JP","Japan",2011,7476584279
+"JP","Japan",2012,7231751821
+"JP","Japan",2013,9616050652
+"JP","Japan",2014,8483906507
+"JP","Japan",2015,9202810000
+"KR","Korea",1987,48320619
+"KR","Korea",1988,57658216
+"KR","Korea",1989,49774578
+"KR","Korea",1990,86411959
+"KR","Korea",1991,76890354
+"KR","Korea",1992,101314642
+"KR","Korea",1993,142650026
+"KR","Korea",1994,166143458
+"KR","Korea",1995,123092475
+"KR","Korea",1996,168957713
+"KR","Korea",1997,224037434
+"KR","Korea",1998,310221565
+"KR","Korea",1999,462751571
+"KR","Korea",2000,291043780
+"KR","Korea",2001,400089817
+"KR","Korea",2002,396203858
+"KR","Korea",2003,478770001
+"KR","Korea",2004,517715644
+"KR","Korea",2005,814464715
+"KR","Korea",2006,458515255
+"KR","Korea",2007,668803106
+"KR","Korea",2008,894110730
+"KR","Korea",2009,1008041563
+"KR","Korea",2010,1274300210
+"KR","Korea",2011,1356395545
+"KR","Korea",2012,1647198908
+"KR","Korea",2013,1744429159
+"KR","Korea",2014,1764837870
+"KR","Korea",2015,1915390000
+"LU","Luxembourg",1990,45164683
+"LU","Luxembourg",1991,74277252
+"LU","Luxembourg",1992,58916541
+"LU","Luxembourg",1993,81526017
+"LU","Luxembourg",1994,62029719
+"LU","Luxembourg",1995,90456973
+"LU","Luxembourg",1996,110951666
+"LU","Luxembourg",1997,149958020
+"LU","Luxembourg",1998,180807094
+"LU","Luxembourg",1999,190071541
+"LU","Luxembourg",2000,223275565
+"LU","Luxembourg",2001,261649287
+"LU","Luxembourg",2002,258554527
+"LU","Luxembourg",2003,276595740
+"LU","Luxembourg",2004,298247114
+"LU","Luxembourg",2005,311870949
+"LU","Luxembourg",2006,327379520
+"LU","Luxembourg",2007,381908551
+"LU","Luxembourg",2008,387419279
+"LU","Luxembourg",2009,394461572
+"LU","Luxembourg",2010,390598633
+"LU","Luxembourg",2011,362829175
+"LU","Luxembourg",2012,367895364
+"LU","Luxembourg",2013,373883311
+"LU","Luxembourg",2014,365849308
+"LU","Luxembourg",2015,362880000
+"NL","Netherlands",1960,314430763
+"NL","Netherlands",1961,368409850
+"NL","Netherlands",1962,540359450
+"NL","Netherlands",1963,197519463
+"NL","Netherlands",1964,335314557
+"NL","Netherlands",1965,447780197
+"NL","Netherlands",1967,659456407
+"NL","Netherlands",1968,1040271730
+"NL","Netherlands",1969,1109993294
+"NL","Netherlands",1970,1453891994
+"NL","Netherlands",1971,1390378405
+"NL","Netherlands",1972,1707895583
+"NL","Netherlands",1973,1429281733
+"NL","Netherlands",1974,1699999258
+"NL","Netherlands",1975,2031346617
+"NL","Netherlands",1976,2336531250
+"NL","Netherlands",1977,2532335378
+"NL","Netherlands",1978,2509829601
+"NL","Netherlands",1979,3064943069
+"NL","Netherlands",1980,3186019149
+"NL","Netherlands",1981,3501687096
+"NL","Netherlands",1982,3478945844
+"NL","Netherlands",1983,2954447776
+"NL","Netherlands",1984,3477580504
+"NL","Netherlands",1985,3169171934
+"NL","Netherlands",1986,3574471373
+"NL","Netherlands",1987,3585634795
+"NL","Netherlands",1988,3674191701
+"NL","Netherlands",1989,3652779853
+"NL","Netherlands",1990,3742775831
+"NL","Netherlands",1991,3696633882
+"NL","Netherlands",1992,3713725078
+"NL","Netherlands",1993,3540076235
+"NL","Netherlands",1994,3384704949
+"NL","Netherlands",1995,3748191341
+"NL","Netherlands",1996,3907628505
+"NL","Netherlands",1997,4005776181
+"NL","Netherlands",1998,4118303352
+"NL","Netherlands",1999,4354631664
+"NL","Netherlands",2000,4861188537
+"NL","Netherlands",2001,4864027667
+"NL","Netherlands",2002,4690441960
+"NL","Netherlands",2003,4561624538
+"NL","Netherlands",2004,4327056686
+"NL","Netherlands",2005,5159662780
+"NL","Netherlands",2006,5313009208
+"NL","Netherlands",2007,5446506233
+"NL","Netherlands",2008,5666180786
+"NL","Netherlands",2009,5377054342
+"NL","Netherlands",2010,5542521527
+"NL","Netherlands",2011,5258065867
+"NL","Netherlands",2012,4883533121
+"NL","Netherlands",2013,4589798191
+"NL","Netherlands",2014,4672753443
+"NL","Netherlands",2015,5725510000
+"NZ","New Zealand",1970,121490593
+"NZ","New Zealand",1971,128611811
+"NZ","New Zealand",1972,135711888
+"NZ","New Zealand",1973,137556352
+"NZ","New Zealand",1974,198894974
+"NZ","New Zealand",1975,342091226
+"NZ","New Zealand",1976,280183781
+"NZ","New Zealand",1977,242888521
+"NZ","New Zealand",1978,206019314
+"NZ","New Zealand",1979,225489006
+"NZ","New Zealand",1980,215446954
+"NZ","New Zealand",1981,195472862
+"NZ","New Zealand",1982,195461126
+"NZ","New Zealand",1983,191814928
+"NZ","New Zealand",1984,190606185
+"NZ","New Zealand",1985,187501449
+"NZ","New Zealand",1986,213922448
+"NZ","New Zealand",1987,192799251
+"NZ","New Zealand",1988,193078945
+"NZ","New Zealand",1989,169682287
+"NZ","New Zealand",1990,180432851
+"NZ","New Zealand",1991,194772726
+"NZ","New Zealand",1992,199654328
+"NZ","New Zealand",1993,195689861
+"NZ","New Zealand",1994,199164722
+"NZ","New Zealand",1995,197340019
+"NZ","New Zealand",1996,182208032
+"NZ","New Zealand",1997,238867822
+"NZ","New Zealand",1998,246275031
+"NZ","New Zealand",1999,255703801
+"NZ","New Zealand",2000,246081552
+"NZ","New Zealand",2001,251033610
+"NZ","New Zealand",2002,247057846
+"NZ","New Zealand",2003,263854728
+"NZ","New Zealand",2004,286274729
+"NZ","New Zealand",2005,339450881
+"NZ","New Zealand",2006,339975313
+"NZ","New Zealand",2007,355851552
+"NZ","New Zealand",2008,396409880
+"NZ","New Zealand",2009,386884747
+"NZ","New Zealand",2010,360700543
+"NZ","New Zealand",2011,396444404
+"NZ","New Zealand",2012,410942652
+"NZ","New Zealand",2013,402054401
+"NZ","New Zealand",2014,430558695
+"NZ","New Zealand",2015,441760000
+"NO","Norway",1960,15329776
+"NO","Norway",1961,16573699
+"NO","Norway",1962,15402149
+"NO","Norway",1963,28476365
+"NO","Norway",1964,31521470
+"NO","Norway",1965,39808313
+"NO","Norway",1966,53434876
+"NO","Norway",1967,42087034
+"NO","Norway",1968,255779122
+"NO","Norway",1969,272549837
+"NO","Norway",1970,302689193
+"NO","Norway",1971,322878178
+"NO","Norway",1972,426421222
+"NO","Norway",1973,471078498
+"NO","Norway",1974,617132832
+"NO","Norway",1975,746101707
+"NO","Norway",1976,859337163
+"NO","Norway",1977,1041791833
+"NO","Norway",1978,1172241755
+"NO","Norway",1979,1293408352
+"NO","Norway",1980,1261341426
+"NO","Norway",1981,1248359844
+"NO","Norway",1982,1520332504
+"NO","Norway",1983,1680935407
+"NO","Norway",1984,1638824787
+"NO","Norway",1985,1742718551
+"NO","Norway",1986,2093884749
+"NO","Norway",1987,1989732432
+"NO","Norway",1988,2006123402
+"NO","Norway",1989,1881929190
+"NO","Norway",1990,2171769315
+"NO","Norway",1991,2155049411
+"NO","Norway",1992,2241973321
+"NO","Norway",1993,1995394219
+"NO","Norway",1994,2229522663
+"NO","Norway",1995,2126411297
+"NO","Norway",1996,2190069150
+"NO","Norway",1997,2322758658
+"NO","Norway",1998,2527368503
+"NO","Norway",1999,2534747908
+"NO","Norway",2000,2286879178
+"NO","Norway",2001,2450472665
+"NO","Norway",2002,2791036730
+"NO","Norway",2003,2896812089
+"NO","Norway",2004,2802328686
+"NO","Norway",2005,3128281640
+"NO","Norway",2006,3019298114
+"NO","Norway",2007,3393983264
+"NO","Norway",2008,3212131464
+"NO","Norway",2009,3798037252
+"NO","Norway",2010,3696194676
+"NO","Norway",2011,3493080565
+"NO","Norway",2012,3502622818
+"NO","Norway",2013,4048399809
+"NO","Norway",2014,3935929066
+"NO","Norway",2015,4277660000
+"PL","Poland",1975,103203554
+"PL","Poland",1976,96739549
+"PL","Poland",1977,60190979
+"PL","Poland",1978,67935233
+"PL","Poland",1979,67203857
+"PL","Poland",1980,83392612
+"PL","Poland",1981,12955052
+"PL","Poland",1982,6446306
+"PL","Poland",1983,4083531
+"PL","Poland",1984,9001798
+"PL","Poland",1985,41036895
+"PL","Poland",1986,30020511
+"PL","Poland",1987,18201206
+"PL","Poland",1988,15651811
+"PL","Poland",1989,9199955
+"PL","Poland",1990,3277942
+"PL","Poland",1991,1265785
+"PL","Poland",1998,28014668
+"PL","Poland",1999,32568945
+"PL","Poland",2000,47161980
+"PL","Poland",2001,52912853
+"PL","Poland",2002,20713036
+"PL","Poland",2003,37274624
+"PL","Poland",2004,145196507
+"PL","Poland",2005,218659494
+"PL","Poland",2006,301462937
+"PL","Poland",2007,313065012
+"PL","Poland",2008,274111269
+"PL","Poland",2009,337959623
+"PL","Poland",2010,323246576
+"PL","Poland",2011,339431509
+"PL","Poland",2012,366943916
+"PL","Poland",2013,410905274
+"PL","Poland",2014,378761795
+"PL","Poland",2015,440890000
+"PT","Portugal",1960,11881422
+"PT","Portugal",1961,416184696
+"PT","Portugal",1966,190109554
+"PT","Portugal",1967,427276230
+"PT","Portugal",1987,101149741
+"PT","Portugal",1988,195503354
+"PT","Portugal",1989,253675233
+"PT","Portugal",1990,261780929
+"PT","Portugal",1991,347800090
+"PT","Portugal",1992,415988321
+"PT","Portugal",1993,370587867
+"PT","Portugal",1994,459937652
+"PT","Portugal",1995,340825814
+"PT","Portugal",1996,290060879
+"PT","Portugal",1997,364685580
+"PT","Portugal",1998,372952896
+"PT","Portugal",1999,401871076
+"PT","Portugal",2000,440227594
+"PT","Portugal",2001,433638571
+"PT","Portugal",2002,474953108
+"PT","Portugal",2003,379309595
+"PT","Portugal",2004,1087564574
+"PT","Portugal",2005,384562332
+"PT","Portugal",2006,387879652
+"PT","Portugal",2007,410010500
+"PT","Portugal",2008,504550584
+"PT","Portugal",2009,427250345
+"PT","Portugal",2010,564615180
+"PT","Portugal",2011,588377539
+"PT","Portugal",2012,524356216
+"PT","Portugal",2013,417198390
+"PT","Portugal",2014,364592790
+"PT","Portugal",2015,308030000
+"SK","Slovak Republic",1999,16781496
+"SK","Slovak Republic",2000,13666194
+"SK","Slovak Republic",2001,19186388
+"SK","Slovak Republic",2002,13968255
+"SK","Slovak Republic",2003,24272408
+"SK","Slovak Republic",2004,37645575
+"SK","Slovak Republic",2005,71302242
+"SK","Slovak Republic",2006,64211420
+"SK","Slovak Republic",2007,64462411
+"SK","Slovak Republic",2008,75188234
+"SK","Slovak Republic",2009,62354498
+"SK","Slovak Republic",2010,63768758
+"SK","Slovak Republic",2011,69773418
+"SK","Slovak Republic",2012,69031632
+"SK","Slovak Republic",2013,71747200
+"SK","Slovak Republic",2014,69567806
+"SK","Slovak Republic",2015,84910000
+"SI","Slovenia",2005,36396761
+"SI","Slovenia",2006,44750643
+"SI","Slovenia",2007,48468709
+"SI","Slovenia",2008,54967745
+"SI","Slovenia",2009,58039285
+"SI","Slovenia",2010,50696638
+"SI","Slovenia",2011,51166445
+"SI","Slovenia",2012,51379094
+"SI","Slovenia",2013,52020523
+"SI","Slovenia",2014,51550387
+"SI","Slovenia",2015,63290000
+"ES","Spain",1980,313716255
+"ES","Spain",1981,560745284
+"ES","Spain",1982,467692230
+"ES","Spain",1983,190417283
+"ES","Spain",1984,370669695
+"ES","Spain",1985,554874835
+"ES","Spain",1986,495644027
+"ES","Spain",1987,470334633
+"ES","Spain",1988,449585743
+"ES","Spain",1989,923524578
+"ES","Spain",1990,1361615404
+"ES","Spain",1991,1658457605
+"ES","Spain",1992,1844408676
+"ES","Spain",1993,1875210498
+"ES","Spain",1994,1908324419
+"ES","Spain",1995,1747655897
+"ES","Spain",1996,1594183061
+"ES","Spain",1997,1771071782
+"ES","Spain",1998,1969406620
+"ES","Spain",1999,1986373735
+"ES","Spain",2000,1947835679
+"ES","Spain",2001,2801224021
+"ES","Spain",2002,2519927655
+"ES","Spain",2003,2318509742
+"ES","Spain",2004,2520552946
+"ES","Spain",2005,2993548762
+"ES","Spain",2006,3602414177
+"ES","Spain",2007,4310057193
+"ES","Spain",2008,5349851073
+"ES","Spain",2009,5302486051
+"ES","Spain",2010,5027500549
+"ES","Spain",2011,3359217063
+"ES","Spain",2012,1772314794
+"ES","Spain",2013,1967696226
+"ES","Spain",2014,1580087599
+"ES","Spain",2015,1396740000
+"SE","Sweden",1960,7825289
+"SE","Sweden",1961,11602085
+"SE","Sweden",1962,22995733
+"SE","Sweden",1963,51422241
+"SE","Sweden",1964,93867043
+"SE","Sweden",1965,110207385
+"SE","Sweden",1967,151046602
+"SE","Sweden",1968,402443960
+"SE","Sweden",1969,656505809
+"SE","Sweden",1970,607205207
+"SE","Sweden",1971,761887975
+"SE","Sweden",1972,826687597
+"SE","Sweden",1973,980590739
+"SE","Sweden",1974,1331388857
+"SE","Sweden",1975,1529713987
+"SE","Sweden",1976,1522979873
+"SE","Sweden",1977,1823958264
+"SE","Sweden",1978,1690336532
+"SE","Sweden",1979,1877992550
+"SE","Sweden",1980,1615773561
+"SE","Sweden",1981,1704574111
+"SE","Sweden",1982,2106371592
+"SE","Sweden",1983,1785715543
+"SE","Sweden",1984,1760051877
+"SE","Sweden",1985,1948548589
+"SE","Sweden",1986,1971288677
+"SE","Sweden",1987,2113268063
+"SE","Sweden",1988,2101816209
+"SE","Sweden",1989,2417333208
+"SE","Sweden",1990,2287352554
+"SE","Sweden",1991,2275743193
+"SE","Sweden",1992,2505229878
+"SE","Sweden",1993,2372301114
+"SE","Sweden",1994,2354754598
+"SE","Sweden",1995,1965668901
+"SE","Sweden",1996,2145321810
+"SE","Sweden",1997,2083775739
+"SE","Sweden",1998,1955892905
+"SE","Sweden",1999,2085918763
+"SE","Sweden",2000,2514020502
+"SE","Sweden",2001,2565551659
+"SE","Sweden",2002,2866752183
+"SE","Sweden",2003,2795707276
+"SE","Sweden",2004,2866287551
+"SE","Sweden",2005,3571227983
+"SE","Sweden",2006,4074013152
+"SE","Sweden",2007,3985880025
+"SE","Sweden",2008,4156709538
+"SE","Sweden",2009,4458815225
+"SE","Sweden",2010,4149923840
+"SE","Sweden",2011,4568557086
+"SE","Sweden",2012,4410705730
+"SE","Sweden",2013,4671971451
+"SE","Sweden",2014,5183989880
+"SE","Sweden",2015,7089300000
+"CH","Switzerland",1960,34424185
+"CH","Switzerland",1961,126494470
+"CH","Switzerland",1962,40501999
+"CH","Switzerland",1963,52292526
+"CH","Switzerland",1964,96757721
+"CH","Switzerland",1965,112047013
+"CH","Switzerland",1966,167297397
+"CH","Switzerland",1967,95162704
+"CH","Switzerland",1968,343091257
+"CH","Switzerland",1969,408683256
+"CH","Switzerland",1970,398013147
+"CH","Switzerland",1971,327297730
+"CH","Switzerland",1972,631921907
+"CH","Switzerland",1973,489037649
+"CH","Switzerland",1974,446126922
+"CH","Switzerland",1975,551730946
+"CH","Switzerland",1976,543481296
+"CH","Switzerland",1977,573000508
+"CH","Switzerland",1978,590919760
+"CH","Switzerland",1979,659732649
+"CH","Switzerland",1980,767688046
+"CH","Switzerland",1981,785206912
+"CH","Switzerland",1982,821123507
+"CH","Switzerland",1983,1058238709
+"CH","Switzerland",1984,1027318966
+"CH","Switzerland",1985,1113422222
+"CH","Switzerland",1986,1101519494
+"CH","Switzerland",1987,1157789582
+"CH","Switzerland",1988,1247674952
+"CH","Switzerland",1989,1219116188
+"CH","Switzerland",1990,1331306075
+"CH","Switzerland",1991,1499042965
+"CH","Switzerland",1992,1902135323
+"CH","Switzerland",1993,1360405990
+"CH","Switzerland",1994,1539575223
+"CH","Switzerland",1995,1458685875
+"CH","Switzerland",1996,1441657350
+"CH","Switzerland",1997,1503516085
+"CH","Switzerland",1998,1483479307
+"CH","Switzerland",1999,1656476072
+"CH","Switzerland",2000,1687090504
+"CH","Switzerland",2001,1701717332
+"CH","Switzerland",2002,1630028105
+"CH","Switzerland",2003,1930085164
+"CH","Switzerland",2004,2111765874
+"CH","Switzerland",2005,2411447568
+"CH","Switzerland",2006,2211703872
+"CH","Switzerland",2007,2120114551
+"CH","Switzerland",2008,2298620891
+"CH","Switzerland",2009,2565442158
+"CH","Switzerland",2010,2449744545
+"CH","Switzerland",2011,2759482615
+"CH","Switzerland",2012,2922951469
+"CH","Switzerland",2013,3029651030
+"CH","Switzerland",2014,3315073262
+"CH","Switzerland",2015,3561500000
+"GB","United Kingdom",1960,3293456294
+"GB","United Kingdom",1961,4254512141
+"GB","United Kingdom",1962,3810003955
+"GB","United Kingdom",1963,3649174357
+"GB","United Kingdom",1964,4282585139
+"GB","United Kingdom",1965,3831374464
+"GB","United Kingdom",1966,4022743561
+"GB","United Kingdom",1967,3735779557
+"GB","United Kingdom",1968,3914783344
+"GB","United Kingdom",1969,4212897643
+"GB","United Kingdom",1970,3885691417
+"GB","United Kingdom",1971,4587012110
+"GB","United Kingdom",1972,4498338258
+"GB","United Kingdom",1973,4081334716
+"GB","United Kingdom",1974,4531568203
+"GB","United Kingdom",1975,4365686437
+"GB","United Kingdom",1976,4551150615
+"GB","United Kingdom",1977,5213105255
+"GB","United Kingdom",1978,5591269163
+"GB","United Kingdom",1979,6518732788
+"GB","United Kingdom",1980,4256348838
+"GB","United Kingdom",1981,5231094836
+"GB","United Kingdom",1982,4601097733
+"GB","United Kingdom",1983,4516511577
+"GB","United Kingdom",1984,4348703572
+"GB","United Kingdom",1985,4560216620
+"GB","United Kingdom",1986,4346487448
+"GB","United Kingdom",1987,3987155734
+"GB","United Kingdom",1988,4883427761
+"GB","United Kingdom",1989,4809685157
+"GB","United Kingdom",1990,4183677085
+"GB","United Kingdom",1991,4791250983
+"GB","United Kingdom",1992,4685431291
+"GB","United Kingdom",1993,4847766415
+"GB","United Kingdom",1994,5142095585
+"GB","United Kingdom",1995,4875295127
+"GB","United Kingdom",1996,4733274012
+"GB","United Kingdom",1997,4731262899
+"GB","United Kingdom",1998,5183935535
+"GB","United Kingdom",1999,4656101500
+"GB","United Kingdom",2000,6388553983
+"GB","United Kingdom",2001,6739017489
+"GB","United Kingdom",2002,6811761131
+"GB","United Kingdom",2003,7740628804
+"GB","United Kingdom",2004,8462228973
+"GB","United Kingdom",2005,11292604622
+"GB","United Kingdom",2006,12530021317
+"GB","United Kingdom",2007,8862471025
+"GB","United Kingdom",2008,11121247703
+"GB","United Kingdom",2009,12381764872
+"GB","United Kingdom",2010,14052046461
+"GB","United Kingdom",2011,14054402690
+"GB","United Kingdom",2012,14051181581
+"GB","United Kingdom",2013,17961040046
+"GB","United Kingdom",2014,18123723190
+"GB","United Kingdom",2015,18544860000
+"US","United States",1960,16187657245
+"US","United States",1961,19999728498
+"US","United States",1962,20843598252
+"US","United States",1963,21577823237
+"US","United States",1964,19298543464
+"US","United States",1965,20328677266
+"US","United States",1966,19734091554
+"US","United States",1967,17552750458
+"US","United States",1968,17269887706
+"US","United States",1969,17161333546
+"US","United States",1970,15184184278
+"US","United States",1971,14296511050
+"US","United States",1972,17385292910
+"US","United States",1973,11094392539
+"US","United States",1974,14054017425
+"US","United States",1975,14549898556
+"US","United States",1976,14463745069
+"US","United States",1977,14646882289
+"US","United States",1978,16538625258
+"US","United States",1979,12636442422
+"US","United States",1980,17652081227
+"US","United States",1981,13089971276
+"US","United States",1982,17486982561
+"US","United States",1983,16553988750
+"US","United States",1984,17233654028
+"US","United States",1985,18049814813
+"US","United States",1986,17983510348
+"US","United States",1987,16708297171
+"US","United States",1988,17959384111
+"US","United States",1989,13089046684
+"US","United States",1990,18728461123
+"US","United States",1991,17921269622
+"US","United States",1992,18235198393
+"US","United States",1993,15394811741
+"US","United States",1994,14769439153
+"US","United States",1995,10740860620
+"US","United States",1996,13423658388
+"US","United States",1997,9683515392
+"US","United States",1998,12226877100
+"US","United States",1999,12536199235
+"US","United States",2000,13346116362
+"US","United States",2001,14975449171
+"US","United States",2002,17167643473
+"US","United States",2003,20667652719
+"US","United States",2004,24282818573
+"US","United States",2005,33339504888
+"US","United States",2006,27255580159
+"US","United States",2007,24585890114
+"US","United States",2008,29261866034
+"US","United States",2009,31656822501
+"US","United States",2010,32176651453
+"US","United States",2011,32914861915
+"US","United States",2012,31992745464
+"US","United States",2013,32114887638
+"US","United States",2014,33430473829
+"US","United States",2015,30985540000

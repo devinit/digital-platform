@@ -1,108 +1,108 @@
 "id-to","entity-to-name","year","value"
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+"AF","Afghanistan",2011,1337291.93
+"AF","Afghanistan",2012,969292.45
+"AF","Afghanistan",2013,763386.79
+"AF","Afghanistan",2014,681709.32
+"AF","Afghanistan",2015,626385
+"BY","Belarus",2013,117295.41
+"BY","Belarus",2014,186144.57
+"BY","Belarus",2015,175138
+"bilateral-unspecified","Bilateral, unspecified",2011,6552193.85
+"bilateral-unspecified","Bilateral, unspecified",2012,8291150.76
+"bilateral-unspecified","Bilateral, unspecified",2013,10023385.1
+"bilateral-unspecified","Bilateral, unspecified",2014,11576966.57
+"bilateral-unspecified","Bilateral, unspecified",2015,13249625
+"BA","Bosnia & Herzegovina",2011,18331.68
+"BA","Bosnia & Herzegovina",2012,23367.18
+"CI","Côte d'Ivoire",2011,102476.62
+"CF","CAR",2014,104756.55
+"ET","Ethiopia",2011,193755.62
+"ET","Ethiopia",2012,187688.49
+"ET","Ethiopia",2013,199402.91
+"ET","Ethiopia",2014,391240.45
+"ET","Ethiopia",2015,423222
+"europe","Europe, regional",2011,534030.16
+"europe","Europe, regional",2012,161198.36
+"europe","Europe, regional",2013,326758.83
+"europe","Europe, regional",2014,150179.34
+"europe","Europe, regional",2015,132292
+"GM","Gambia",2015,30327
+"GW","Guinea-Bissau",2012,110753.22
+"GW","Guinea-Bissau",2013,123946.74
+"GW","Guinea-Bissau",2014,87759.56
+"GW","Guinea-Bissau",2015,119421
+"HT","Haiti",2012,101522.4
+"HT","Haiti",2013,69204.49
+"IN","India",2013,20945.72
+"JO","Jordan",2015,31288
+"KE","Kenya",2012,233757.21
+"LB","Lebanon",2015,1136061
+"LR","Liberia",2011,1318.91
+"LY","Libya",2011,150010.64
+"MW","Malawi",2011,2402719.69
+"MW","Malawi",2012,3605762.27
+"MW","Malawi",2013,5795337.07
+"MW","Malawi",2014,4972495.23
+"MW","Malawi",2015,4589126
+"ML","Mali",2013,100539.24
+"MZ","Mozambique",2011,2340212.71
+"MZ","Mozambique",2012,2466482.12
+"MZ","Mozambique",2013,2944306.02
+"MZ","Mozambique",2014,2582848.18
+"MZ","Mozambique",2015,3219560
+"NA","Namibia",2011,532747
+"NA","Namibia",2013,24213.05
+"NA","Namibia",2014,71541.14
+"NP","Nepal",2015,303080
+"NI","Nicaragua",2011,700131.89
+"NI","Nicaragua",2012,593033.25
+"NI","Nicaragua",2013,84198.59
+"PK","Pakistan",2011,58626.77
+"PK","Pakistan",2013,148056.94
+"PS","Palestine",2011,813868.9
+"PS","Palestine",2012,1253059.82
+"PS","Palestine",2013,1811574.15
+"PS","Palestine",2014,1702165.35
+"PS","Palestine",2015,728633
+"PH","Philippines",2013,411830.73
+"PH","Philippines",2015,37909
+"RS","Serbia",2014,64465.69
+"RS","Serbia",2015,113726
+"SL","Sierra Leone",2011,88070.53
+"SL","Sierra Leone",2012,118627.57
+"SL","Sierra Leone",2014,201455.7
+"SO","Somalia",2011,262315.13
+"SO","Somalia",2012,43172.6
+"SO","Somalia",2013,257083.26
+"SO","Somalia",2015,128791
+"south-central-asia","South & Central Asia, regional",2013,46834.55
+"ZA","South Africa",2012,40097.05
+"ZA","South Africa",2013,115654.83
+"ZA","South Africa",2014,52378.37
+"ZA","South Africa",2015,56105
+"south-america","South America, regional",2012,330261.46
+"south-america","South America, regional",2013,97512.11
+"south-of-sahara","South of Sahara, regional",2011,858668.71
+"south-of-sahara","South of Sahara, regional",2012,672917.15
+"south-of-sahara","South of Sahara, regional",2013,1652972.63
+"south-of-sahara","South of Sahara, regional",2014,2228222.55
+"south-of-sahara","South of Sahara, regional",2015,1173552
+"SS","South Sudan",2012,54702.64
+"SS","South Sudan",2014,97645.09
+"SD","Sudan",2011,61649.41
+"SY","Syria",2012,209400.32
+"SY","Syria",2013,602990.55
+"SY","Syria",2014,568741.44
+"SY","Syria",2015,997049
+"TG","Togo",2013,98825.8
+"TG","Togo",2015,6824
+"UG","Uganda",2011,3395594.37
+"UG","Uganda",2012,3170897.51
+"UG","Uganda",2013,4264063.12
+"UG","Uganda",2014,3135730.48
+"UG","Uganda",2015,3382806
+"UA","Ukraine",2014,234991.57
+"UA","Ukraine",2015,304799
+"west-indies","West Indies, regional",2011,73793.02
+"YE","Yemen",2011,17234.32
+"YE","Yemen",2015,76923

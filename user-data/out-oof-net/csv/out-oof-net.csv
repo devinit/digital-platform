@@ -1,20 +1,4 @@
 "id","entity-name","year","round"
-"AE","UAE",2000,0
-"AE","UAE",2001,0
-"AE","UAE",2002,0
-"AE","UAE",2003,0
-"AE","UAE",2004,0
-"AE","UAE",2005,0
-"AE","UAE",2006,0
-"AE","UAE",2007,0
-"AE","UAE",2008,0
-"AE","UAE",2009,8858601
-"AE","UAE",2010,-1691875
-"AE","UAE",2011,21730329
-"AE","UAE",2012,54855039
-"AE","UAE",2013,6663118
-"AE","UAE",2014,449580141
-"AE","UAE",2015,3836180000
 "afdb","African Development Bank (AfDB)",2000,-405143629
 "afdb","African Development Bank (AfDB)",2001,-106233350
 "afdb","African Development Bank (AfDB)",2002,-1050451599
@@ -47,6 +31,22 @@
 "all-donors-total","All Donors, Total",2013,
 "all-donors-total","All Donors, Total",2014,
 "all-donors-total","All Donors, Total",2015,
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2000,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2001,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2002,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2003,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2004,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2005,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2006,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2007,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2008,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2009,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2010,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2011,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2012,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2013,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2014,0
+"badea","Arab Bank for Economic Development in Africa (BADEA)",2015,0
 "arab-fund-afesd","Arab Fund (AFESD)",2000,0
 "arab-fund-afesd","Arab Fund (AFESD)",2001,0
 "arab-fund-afesd","Arab Fund (AFESD)",2002,0
@@ -79,22 +79,6 @@
 "asdb","Asian Development Bank (ADB)",2013,1423872941
 "asdb","Asian Development Bank (ADB)",2014,3475092740
 "asdb","Asian Development Bank (ADB)",2015,6306270000
-"AT","Austria",2000,113049137
-"AT","Austria",2001,-208691520
-"AT","Austria",2002,-53715845
-"AT","Austria",2003,54006230
-"AT","Austria",2004,-249097228
-"AT","Austria",2005,328499079
-"AT","Austria",2006,-460837337
-"AT","Austria",2007,-576591323
-"AT","Austria",2008,88270735
-"AT","Austria",2009,-38194140
-"AT","Austria",2010,-140504185
-"AT","Austria",2011,25726307
-"AT","Austria",2012,43771403
-"AT","Austria",2013,390381634
-"AT","Austria",2014,105476993
-"AT","Austria",2015,-1090000
 "AU","Australia",2000,1002593305
 "AU","Australia",2001,-57725023
 "AU","Australia",2002,-69401177
@@ -111,22 +95,22 @@
 "AU","Australia",2013,359355168
 "AU","Australia",2014,120211016
 "AU","Australia",2015,275480000
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2000,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2001,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2002,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2003,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2004,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2005,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2006,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2007,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2008,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2009,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2010,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2011,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2012,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2013,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2014,0
-"badea","Arab Bank for Economic Development in Africa (BADEA)",2015,0
+"AT","Austria",2000,113049137
+"AT","Austria",2001,-208691520
+"AT","Austria",2002,-53715845
+"AT","Austria",2003,54006230
+"AT","Austria",2004,-249097228
+"AT","Austria",2005,328499079
+"AT","Austria",2006,-460837337
+"AT","Austria",2007,-576591323
+"AT","Austria",2008,88270735
+"AT","Austria",2009,-38194140
+"AT","Austria",2010,-140504185
+"AT","Austria",2011,25726307
+"AT","Austria",2012,43771403
+"AT","Austria",2013,390381634
+"AT","Austria",2014,105476993
+"AT","Austria",2015,-1090000
 "BE","Belgium",2000,-13484995
 "BE","Belgium",2001,10898727
 "BE","Belgium",2002,153910649
@@ -175,38 +159,6 @@
 "cardb","Caribbean Development Bank (CarDB)",2013,-8959196
 "cardb","Caribbean Development Bank (CarDB)",2014,-1157279
 "cardb","Caribbean Development Bank (CarDB)",2015,34940000
-"ceb","Council of Europe Development Bank (CEB)",2000,0
-"ceb","Council of Europe Development Bank (CEB)",2001,0
-"ceb","Council of Europe Development Bank (CEB)",2002,0
-"ceb","Council of Europe Development Bank (CEB)",2003,0
-"ceb","Council of Europe Development Bank (CEB)",2004,0
-"ceb","Council of Europe Development Bank (CEB)",2005,0
-"ceb","Council of Europe Development Bank (CEB)",2006,0
-"ceb","Council of Europe Development Bank (CEB)",2007,0
-"ceb","Council of Europe Development Bank (CEB)",2008,0
-"ceb","Council of Europe Development Bank (CEB)",2009,0
-"ceb","Council of Europe Development Bank (CEB)",2010,-85478102
-"ceb","Council of Europe Development Bank (CEB)",2011,215965714
-"ceb","Council of Europe Development Bank (CEB)",2012,-14472307
-"ceb","Council of Europe Development Bank (CEB)",2013,98488132
-"ceb","Council of Europe Development Bank (CEB)",2014,98503260
-"ceb","Council of Europe Development Bank (CEB)",2015,71190000
-"CH","Switzerland",2000,14248403
-"CH","Switzerland",2001,12037932
-"CH","Switzerland",2002,5572953
-"CH","Switzerland",2003,89120
-"CH","Switzerland",2004,0
-"CH","Switzerland",2005,0
-"CH","Switzerland",2006,23158359
-"CH","Switzerland",2007,0
-"CH","Switzerland",2008,0
-"CH","Switzerland",2009,0
-"CH","Switzerland",2010,0
-"CH","Switzerland",2011,0
-"CH","Switzerland",2012,0
-"CH","Switzerland",2013,0
-"CH","Switzerland",2014,0
-"CH","Switzerland",2015,0
 "cif","Climate Investment Funds (CIF)",2000,0
 "cif","Climate Investment Funds (CIF)",2001,0
 "cif","Climate Investment Funds (CIF)",2002,0
@@ -223,6 +175,22 @@
 "cif","Climate Investment Funds (CIF)",2013,61894992
 "cif","Climate Investment Funds (CIF)",2014,49269572
 "cif","Climate Investment Funds (CIF)",2015,0
+"ceb","Council of Europe Development Bank (CEB)",2000,0
+"ceb","Council of Europe Development Bank (CEB)",2001,0
+"ceb","Council of Europe Development Bank (CEB)",2002,0
+"ceb","Council of Europe Development Bank (CEB)",2003,0
+"ceb","Council of Europe Development Bank (CEB)",2004,0
+"ceb","Council of Europe Development Bank (CEB)",2005,0
+"ceb","Council of Europe Development Bank (CEB)",2006,0
+"ceb","Council of Europe Development Bank (CEB)",2007,0
+"ceb","Council of Europe Development Bank (CEB)",2008,0
+"ceb","Council of Europe Development Bank (CEB)",2009,0
+"ceb","Council of Europe Development Bank (CEB)",2010,-85478102
+"ceb","Council of Europe Development Bank (CEB)",2011,215965714
+"ceb","Council of Europe Development Bank (CEB)",2012,-14472307
+"ceb","Council of Europe Development Bank (CEB)",2013,98488132
+"ceb","Council of Europe Development Bank (CEB)",2014,98503260
+"ceb","Council of Europe Development Bank (CEB)",2015,71190000
 "CZ","Czech Republic",2000,0
 "CZ","Czech Republic",2001,0
 "CZ","Czech Republic",2002,0
@@ -255,22 +223,6 @@
 "dac-countries-total","DAC Countries, Total",2013,5672675076
 "dac-countries-total","DAC Countries, Total",2014,3026759368
 "dac-countries-total","DAC Countries, Total",2015,5199440000
-"DE","Germany",2000,-665039297
-"DE","Germany",2001,-981593148
-"DE","Germany",2002,5153811786
-"DE","Germany",2003,-4080911887
-"DE","Germany",2004,-1082874717
-"DE","Germany",2005,7219482186
-"DE","Germany",2006,-5786096473
-"DE","Germany",2007,-2300362785
-"DE","Germany",2008,-395978805
-"DE","Germany",2009,163178348
-"DE","Germany",2010,-371169922
-"DE","Germany",2011,-351404321
-"DE","Germany",2012,-773254842
-"DE","Germany",2013,-317587029
-"DE","Germany",2014,264793044
-"DE","Germany",2015,1516360000
 "DK","Denmark",2000,-4259231
 "DK","Denmark",2001,-6467759
 "DK","Denmark",2002,-4987480
@@ -303,22 +255,6 @@
 "ebrd","European Bank for Reconstruction and Development (EBRD)",2013,1511826138
 "ebrd","European Bank for Reconstruction and Development (EBRD)",2014,1574222044
 "ebrd","European Bank for Reconstruction and Development (EBRD)",2015,2246700000
-"ES","Spain",2000,5347032
-"ES","Spain",2001,235959091
-"ES","Spain",2002,80029005
-"ES","Spain",2003,86261717
-"ES","Spain",2004,25857660
-"ES","Spain",2005,66221802
-"ES","Spain",2006,0
-"ES","Spain",2007,5274626
-"ES","Spain",2008,0
-"ES","Spain",2009,2794533
-"ES","Spain",2010,0
-"ES","Spain",2011,3292293
-"ES","Spain",2012,2157360
-"ES","Spain",2013,12125685
-"ES","Spain",2014,3157094
-"ES","Spain",2015,5800000
 "EU","European Union",2000,653362514
 "EU","European Union",2001,509891513
 "EU","European Union",2002,1260356625
@@ -367,22 +303,22 @@
 "FR","France",2013,569659176
 "FR","France",2014,572360046
 "FR","France",2015,392990000
-"GB","United Kingdom",2000,-101988872
-"GB","United Kingdom",2001,33427959
-"GB","United Kingdom",2002,-5306617
-"GB","United Kingdom",2003,61413253
-"GB","United Kingdom",2004,-165974547
-"GB","United Kingdom",2005,-103683053
-"GB","United Kingdom",2006,-188025295
-"GB","United Kingdom",2007,-38775881
-"GB","United Kingdom",2008,-21710817
-"GB","United Kingdom",2009,-14277336
-"GB","United Kingdom",2010,-20486481
-"GB","United Kingdom",2011,-40367762
-"GB","United Kingdom",2012,36444188
-"GB","United Kingdom",2013,187516380
-"GB","United Kingdom",2014,38527357
-"GB","United Kingdom",2015,0
+"DE","Germany",2000,-665039297
+"DE","Germany",2001,-981593148
+"DE","Germany",2002,5153811786
+"DE","Germany",2003,-4080911887
+"DE","Germany",2004,-1082874717
+"DE","Germany",2005,7219482186
+"DE","Germany",2006,-5786096473
+"DE","Germany",2007,-2300362785
+"DE","Germany",2008,-395978805
+"DE","Germany",2009,163178348
+"DE","Germany",2010,-371169922
+"DE","Germany",2011,-351404321
+"DE","Germany",2012,-773254842
+"DE","Germany",2013,-317587029
+"DE","Germany",2014,264793044
+"DE","Germany",2015,1516360000
 "GR","Greece",2000,3784628
 "GR","Greece",2001,0
 "GR","Greece",2002,0
@@ -399,22 +335,6 @@
 "GR","Greece",2013,0
 "GR","Greece",2014,0
 "GR","Greece",2015,0
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2000,3545233586
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2001,2533576851
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2002,-4801932698
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2003,-8320843804
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2004,-3813511455
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2005,-2733971273
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2006,-5043170999
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2007,82669912
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2008,3478599788
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2009,10937501927
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2010,17120895282
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2011,1602522423
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2012,6995911547
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2013,7226379830
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2014,7025121520
-"ibrd","International Bank for Reconstruction and Development (IBRD)",2015,11588320000
 "idb","Inter-American Development Bank (IDB)",2000,5818142185
 "idb","Inter-American Development Bank (IDB)",2001,5768479350
 "idb","Inter-American Development Bank (IDB)",2002,1917032462
@@ -431,22 +351,22 @@
 "idb","Inter-American Development Bank (IDB)",2013,1277707477
 "idb","Inter-American Development Bank (IDB)",2014,3267868076
 "idb","Inter-American Development Bank (IDB)",2015,3945510000
-"ifad","International Fund for Agricultural Development (IFAD)",2000,6284503
-"ifad","International Fund for Agricultural Development (IFAD)",2001,8236669
-"ifad","International Fund for Agricultural Development (IFAD)",2002,-6455888
-"ifad","International Fund for Agricultural Development (IFAD)",2003,-9192232
-"ifad","International Fund for Agricultural Development (IFAD)",2004,-10578638
-"ifad","International Fund for Agricultural Development (IFAD)",2005,541995
-"ifad","International Fund for Agricultural Development (IFAD)",2006,11784081
-"ifad","International Fund for Agricultural Development (IFAD)",2007,7159322
-"ifad","International Fund for Agricultural Development (IFAD)",2008,20488997
-"ifad","International Fund for Agricultural Development (IFAD)",2009,5506972
-"ifad","International Fund for Agricultural Development (IFAD)",2010,10536722
-"ifad","International Fund for Agricultural Development (IFAD)",2011,10019804
-"ifad","International Fund for Agricultural Development (IFAD)",2012,25177105
-"ifad","International Fund for Agricultural Development (IFAD)",2013,23870181
-"ifad","International Fund for Agricultural Development (IFAD)",2014,58805908
-"ifad","International Fund for Agricultural Development (IFAD)",2015,82360000
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2000,3545233586
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2001,2533576851
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2002,-4801932698
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2003,-8320843804
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2004,-3813511455
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2005,-2733971273
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2006,-5043170999
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2007,82669912
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2008,3478599788
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2009,10937501927
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2010,17120895282
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2011,1602522423
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2012,6995911547
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2013,7226379830
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2014,7025121520
+"ibrd","International Bank for Reconstruction and Development (IBRD)",2015,11588320000
 "ifc","International Finance Corporation (IFC)",2000,305418841
 "ifc","International Finance Corporation (IFC)",2001,30529087
 "ifc","International Finance Corporation (IFC)",2002,42994042
@@ -463,6 +383,22 @@
 "ifc","International Finance Corporation (IFC)",2013,1812945182
 "ifc","International Finance Corporation (IFC)",2014,0
 "ifc","International Finance Corporation (IFC)",2015,0
+"ifad","International Fund for Agricultural Development (IFAD)",2000,6284503
+"ifad","International Fund for Agricultural Development (IFAD)",2001,8236669
+"ifad","International Fund for Agricultural Development (IFAD)",2002,-6455888
+"ifad","International Fund for Agricultural Development (IFAD)",2003,-9192232
+"ifad","International Fund for Agricultural Development (IFAD)",2004,-10578638
+"ifad","International Fund for Agricultural Development (IFAD)",2005,541995
+"ifad","International Fund for Agricultural Development (IFAD)",2006,11784081
+"ifad","International Fund for Agricultural Development (IFAD)",2007,7159322
+"ifad","International Fund for Agricultural Development (IFAD)",2008,20488997
+"ifad","International Fund for Agricultural Development (IFAD)",2009,5506972
+"ifad","International Fund for Agricultural Development (IFAD)",2010,10536722
+"ifad","International Fund for Agricultural Development (IFAD)",2011,10019804
+"ifad","International Fund for Agricultural Development (IFAD)",2012,25177105
+"ifad","International Fund for Agricultural Development (IFAD)",2013,23870181
+"ifad","International Fund for Agricultural Development (IFAD)",2014,58805908
+"ifad","International Fund for Agricultural Development (IFAD)",2015,82360000
 "islamic-dev-bank","Islamic Development Bank (IsDB)",2000,0
 "islamic-dev-bank","Islamic Development Bank (IsDB)",2001,0
 "islamic-dev-bank","Islamic Development Bank (IsDB)",2002,0
@@ -591,22 +527,22 @@
 "NL","Netherlands",2013,0
 "NL","Netherlands",2014,0
 "NL","Netherlands",2015,0
-"NO","Norway",2000,0
-"NO","Norway",2001,0
-"NO","Norway",2002,0
-"NO","Norway",2003,325977
-"NO","Norway",2004,344182
-"NO","Norway",2005,5151038
-"NO","Norway",2006,5043816
-"NO","Norway",2007,4570978
-"NO","Norway",2008,-80188
-"NO","Norway",2009,111673
-"NO","Norway",2010,558034
-"NO","Norway",2011,0
-"NO","Norway",2012,0
-"NO","Norway",2013,159575
-"NO","Norway",2014,-35281385
-"NO","Norway",2015,284100000
+"NZ","New Zealand",2000,0
+"NZ","New Zealand",2001,0
+"NZ","New Zealand",2002,4482005
+"NZ","New Zealand",2003,4705710
+"NZ","New Zealand",2004,7086676
+"NZ","New Zealand",2005,8737283
+"NZ","New Zealand",2006,9712454
+"NZ","New Zealand",2007,9125255
+"NZ","New Zealand",2008,9420159
+"NZ","New Zealand",2009,9470388
+"NZ","New Zealand",2010,8770065
+"NZ","New Zealand",2011,9010950
+"NZ","New Zealand",2012,10311537
+"NZ","New Zealand",2013,9758175
+"NZ","New Zealand",2014,13967192
+"NZ","New Zealand",2015,15860000
 "non-dac-countries-total","Non-DAC Countries, Total",2000,0
 "non-dac-countries-total","Non-DAC Countries, Total",2001,0
 "non-dac-countries-total","Non-DAC Countries, Total",2002,0
@@ -639,22 +575,22 @@
 "nordic-dev-fund","Nordic Development Fund (NDF)",2013,0
 "nordic-dev-fund","Nordic Development Fund (NDF)",2014,0
 "nordic-dev-fund","Nordic Development Fund (NDF)",2015,0
-"NZ","New Zealand",2000,0
-"NZ","New Zealand",2001,0
-"NZ","New Zealand",2002,4482005
-"NZ","New Zealand",2003,4705710
-"NZ","New Zealand",2004,7086676
-"NZ","New Zealand",2005,8737283
-"NZ","New Zealand",2006,9712454
-"NZ","New Zealand",2007,9125255
-"NZ","New Zealand",2008,9420159
-"NZ","New Zealand",2009,9470388
-"NZ","New Zealand",2010,8770065
-"NZ","New Zealand",2011,9010950
-"NZ","New Zealand",2012,10311537
-"NZ","New Zealand",2013,9758175
-"NZ","New Zealand",2014,13967192
-"NZ","New Zealand",2015,15860000
+"NO","Norway",2000,0
+"NO","Norway",2001,0
+"NO","Norway",2002,0
+"NO","Norway",2003,325977
+"NO","Norway",2004,344182
+"NO","Norway",2005,5151038
+"NO","Norway",2006,5043816
+"NO","Norway",2007,4570978
+"NO","Norway",2008,-80188
+"NO","Norway",2009,111673
+"NO","Norway",2010,558034
+"NO","Norway",2011,0
+"NO","Norway",2012,0
+"NO","Norway",2013,159575
+"NO","Norway",2014,-35281385
+"NO","Norway",2015,284100000
 "ofid","OPEC Fund for International Development (OFID)",2000,0
 "ofid","OPEC Fund for International Development (OFID)",2001,0
 "ofid","OPEC Fund for International Development (OFID)",2002,0
@@ -735,6 +671,22 @@
 "SA","Saudi Arabia",2013,0
 "SA","Saudi Arabia",2014,0
 "SA","Saudi Arabia",2015,0
+"ES","Spain",2000,5347032
+"ES","Spain",2001,235959091
+"ES","Spain",2002,80029005
+"ES","Spain",2003,86261717
+"ES","Spain",2004,25857660
+"ES","Spain",2005,66221802
+"ES","Spain",2006,0
+"ES","Spain",2007,5274626
+"ES","Spain",2008,0
+"ES","Spain",2009,2794533
+"ES","Spain",2010,0
+"ES","Spain",2011,3292293
+"ES","Spain",2012,2157360
+"ES","Spain",2013,12125685
+"ES","Spain",2014,3157094
+"ES","Spain",2015,5800000
 "SE","Sweden",2000,181669
 "SE","Sweden",2001,1802117
 "SE","Sweden",2002,2551633
@@ -751,6 +703,22 @@
 "SE","Sweden",2013,-18720629
 "SE","Sweden",2014,-24278431
 "SE","Sweden",2015,46030000
+"CH","Switzerland",2000,14248403
+"CH","Switzerland",2001,12037932
+"CH","Switzerland",2002,5572953
+"CH","Switzerland",2003,89120
+"CH","Switzerland",2004,0
+"CH","Switzerland",2005,0
+"CH","Switzerland",2006,23158359
+"CH","Switzerland",2007,0
+"CH","Switzerland",2008,0
+"CH","Switzerland",2009,0
+"CH","Switzerland",2010,0
+"CH","Switzerland",2011,0
+"CH","Switzerland",2012,0
+"CH","Switzerland",2013,0
+"CH","Switzerland",2014,0
+"CH","Switzerland",2015,0
 "TR","Turkey",2000,0
 "TR","Turkey",2001,0
 "TR","Turkey",2002,0
@@ -767,6 +735,38 @@
 "TR","Turkey",2013,-10623685
 "TR","Turkey",2014,62564992
 "TR","Turkey",2015,112780000
+"AE","UAE",2000,0
+"AE","UAE",2001,0
+"AE","UAE",2002,0
+"AE","UAE",2003,0
+"AE","UAE",2004,0
+"AE","UAE",2005,0
+"AE","UAE",2006,0
+"AE","UAE",2007,0
+"AE","UAE",2008,0
+"AE","UAE",2009,8858601
+"AE","UAE",2010,-1691875
+"AE","UAE",2011,21730329
+"AE","UAE",2012,54855039
+"AE","UAE",2013,6663118
+"AE","UAE",2014,449580141
+"AE","UAE",2015,3836180000
+"GB","United Kingdom",2000,-101988872
+"GB","United Kingdom",2001,33427959
+"GB","United Kingdom",2002,-5306617
+"GB","United Kingdom",2003,61413253
+"GB","United Kingdom",2004,-165974547
+"GB","United Kingdom",2005,-103683053
+"GB","United Kingdom",2006,-188025295
+"GB","United Kingdom",2007,-38775881
+"GB","United Kingdom",2008,-21710817
+"GB","United Kingdom",2009,-14277336
+"GB","United Kingdom",2010,-20486481
+"GB","United Kingdom",2011,-40367762
+"GB","United Kingdom",2012,36444188
+"GB","United Kingdom",2013,187516380
+"GB","United Kingdom",2014,38527357
+"GB","United Kingdom",2015,0
 "US","United States",2000,753691874
 "US","United States",2001,989850939
 "US","United States",2002,292688049
