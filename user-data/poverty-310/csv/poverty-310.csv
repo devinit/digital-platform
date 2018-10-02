@@ -1,1818 +1,2220 @@
-"id","entity-name","year","value"
-"AL","Albania",1981,0.06
-"AL","Albania",1984,0.17
-"AL","Albania",1987,0.51
-"AL","Albania",1990,2.09
-"AL","Albania",1993,5.27
-"AL","Albania",1996,12.36
-"AL","Albania",1999,19.94
-"AL","Albania",2002,16.61
-"AL","Albania",2005,9.79
-"AL","Albania",2008,6.11
-"AL","Albania",2010,6.29
-"AL","Albania",2011,6.32
-"AL","Albania",2012,6.79
-"AL","Albania",2013,6.37
-"AO","Angola",1981,72.58
-"AO","Angola",1984,71.91
-"AO","Angola",1987,71.37
-"AO","Angola",1990,70.99
-"AO","Angola",1993,70.31
-"AO","Angola",1996,69.61
-"AO","Angola",1999,68.86
-"AO","Angola",2002,68.23
-"AO","Angola",2005,67.65
-"AO","Angola",2008,54.38
-"AO","Angola",2010,54.62
-"AO","Angola",2011,54.52
-"AO","Angola",2012,53.81
-"AO","Angola",2013,51.76
-"AM","Armenia",1981,17
-"AM","Armenia",1984,20.9
-"AM","Armenia",1987,25.19
-"AM","Armenia",1990,29.82
-"AM","Armenia",1993,53.63
-"AM","Armenia",1996,40.42
-"AM","Armenia",1999,50.02
-"AM","Armenia",2002,49.45
-"AM","Armenia",2005,24.7
-"AM","Armenia",2008,12.92
-"AM","Armenia",2010,21.65
-"AM","Armenia",2011,19.03
-"AM","Armenia",2012,17.4
-"AM","Armenia",2013,16.97
-"AZ","Azerbaijan",1981,1.31
-"AZ","Azerbaijan",1984,1.59
-"AZ","Azerbaijan",1987,1.88
-"AZ","Azerbaijan",1990,2.29
-"AZ","Azerbaijan",1993,10.52
-"AZ","Azerbaijan",1996,24.23
-"AZ","Azerbaijan",1999,18.78
-"AZ","Azerbaijan",2002,0.24
+"di_id","entity_name","year","value"
+"AL","Albania",1981,25.2051
+"AL","Albania",1984,23.7268
+"AL","Albania",1987,24.4163
+"AL","Albania",1990,24.3846
+"AL","Albania",1993,23.7268
+"AL","Albania",1996,13.8519
+"AL","Albania",1999,27.9023
+"AL","Albania",2002,16.9807
+"AL","Albania",2005,10.8801
+"AL","Albania",2008,6.54595
+"AL","Albania",2010,7.27463
+"AL","Albania",2011,7.15985
+"AL","Albania",2012,7.67166
+"AL","Albania",2013,7.266
+"DZ","Algeria",1981,17.2929
+"DZ","Algeria",1984,15.8175
+"DZ","Algeria",1987,19.574
+"DZ","Algeria",1990,22.2288
+"DZ","Algeria",1993,24.591
+"DZ","Algeria",1996,25.6292
+"DZ","Algeria",1999,25.1709
+"DZ","Algeria",2002,18.4595
+"DZ","Algeria",2005,12.8344
+"DZ","Algeria",2008,8.10062
+"DZ","Algeria",2010,5.27259
+"DZ","Algeria",2011,4.06155
+"DZ","Algeria",2012,3.47834
+"DZ","Algeria",2013,3.04752
+"AO","Angola",1981,71.3512
+"AO","Angola",1984,71.5467
+"AO","Angola",1987,69.4906
+"AO","Angola",1990,70.7252
+"AO","Angola",1993,87.1384
+"AO","Angola",1996,82.526
+"AO","Angola",1999,78.7992
+"AO","Angola",2002,82.7514
+"AO","Angola",2005,74.8051
+"AO","Angola",2008,55.488
+"AO","Angola",2010,56.3826
+"AO","Angola",2011,56.1543
+"AO","Angola",2012,55.3479
+"AO","Angola",2013,54.1801
+"AM","Armenia",1981,29.1249
+"AM","Armenia",1984,26.7553
+"AM","Armenia",1987,28.2986
+"AM","Armenia",1990,31.3349
+"AM","Armenia",1993,55.3216
+"AM","Armenia",1996,42.0893
+"AM","Armenia",1999,52.4736
+"AM","Armenia",2002,52.2647
+"AM","Armenia",2005,26.8728
+"AM","Armenia",2008,13.6026
+"AM","Armenia",2010,20.4584
+"AM","Armenia",2011,18.8266
+"AM","Armenia",2012,17.1012
+"AM","Armenia",2013,16.2355
+"AU","Australia",1981,1.33603
+"AU","Australia",1984,1.33675
+"AU","Australia",1987,1.17001
+"AU","Australia",1990,1.05935
+"AU","Australia",1993,1.00299
+"AU","Australia",1996,1.00331
+"AU","Australia",1999,1.00432
+"AU","Australia",2002,1.17103
+"AU","Australia",2005,0.879016
+"AU","Australia",2008,0.66898
+"AU","Australia",2010,0.676953
+"AU","Australia",2011,0.676953
+"AU","Australia",2012,0.676953
+"AU","Australia",2013,0.676953
+"AT","Austria",1981,0.482906
+"AT","Austria",1984,0.482906
+"AT","Austria",1987,0.482906
+"AT","Austria",1990,0.482906
+"AT","Austria",1993,0.482906
+"AT","Austria",1996,0.482906
+"AT","Austria",1999,0.482906
+"AT","Austria",2002,0.482906
+"AT","Austria",2005,0.237068
+"AT","Austria",2008,0.49297
+"AT","Austria",2010,0.495263
+"AT","Austria",2011,0.494211
+"AT","Austria",2012,0.747463
+"AT","Austria",2013,0.474267
+"AZ","Azerbaijan",1981,1.12965
+"AZ","Azerbaijan",1984,0.98908
+"AZ","Azerbaijan",1987,1.12965
+"AZ","Azerbaijan",1990,1.36466
+"AZ","Azerbaijan",1993,11.4073
+"AZ","Azerbaijan",1996,25.4973
+"AZ","Azerbaijan",1999,20.6326
+"AZ","Azerbaijan",2002,0.25955
 "AZ","Azerbaijan",2005,0
-"AZ","Azerbaijan",2008,2.51
-"AZ","Azerbaijan",2010,3.82
-"AZ","Azerbaijan",2011,2.02
-"AZ","Azerbaijan",2012,2.02
-"AZ","Azerbaijan",2013,2.02
-"BD","Bangladesh",1981,78.88
-"BD","Bangladesh",1984,78.94
-"BD","Bangladesh",1987,79.21
-"BD","Bangladesh",1990,80.35
-"BD","Bangladesh",1993,76.61
-"BD","Bangladesh",1996,73.59
-"BD","Bangladesh",1999,72.08
-"BD","Bangladesh",2002,69.21
-"BD","Bangladesh",2005,62.96
-"BD","Bangladesh",2008,58.58
-"BD","Bangladesh",2010,56.8
-"BD","Bangladesh",2011,52.41
-"BD","Bangladesh",2012,50.37
-"BD","Bangladesh",2013,47.39
-"BY","Belarus",1981,0.17
-"BY","Belarus",1984,0.27
-"BY","Belarus",1987,0.5
-"BY","Belarus",1990,0.94
-"BY","Belarus",1993,2.7
-"BY","Belarus",1996,2.2
-"BY","Belarus",1999,31.61
-"BY","Belarus",2002,10.01
-"BY","Belarus",2005,2.22
-"BY","Belarus",2008,0.47
-"BY","Belarus",2010,0.17
-"BY","Belarus",2011,0.04
-"BY","Belarus",2012,0.07
-"BY","Belarus",2013,0
-"BZ","Belize",1981,31.76
-"BZ","Belize",1984,41.5
-"BZ","Belize",1987,40.95
-"BZ","Belize",1990,30.5
-"BZ","Belize",1993,24.3
-"BZ","Belize",1996,28.56
-"BZ","Belize",1999,27.2
-"BZ","Belize",2002,22.49
-"BZ","Belize",2005,24.51
-"BZ","Belize",2008,28.23
-"BZ","Belize",2010,25.96
-"BZ","Belize",2011,24.63
-"BZ","Belize",2012,24.51
-"BZ","Belize",2013,22.82
-"BJ","Benin",1981,81.17
-"BJ","Benin",1984,82.17
-"BJ","Benin",1987,82.71
-"BJ","Benin",1990,82.79
-"BJ","Benin",1993,82.06
-"BJ","Benin",1996,81.3
-"BJ","Benin",1999,79.43
-"BJ","Benin",2002,77.22
-"BJ","Benin",2005,77.31
-"BJ","Benin",2008,75.33
-"BJ","Benin",2010,75.91
-"BJ","Benin",2011,75.91
-"BJ","Benin",2012,75.17
-"BJ","Benin",2013,73.73
-"BT","Bhutan",1981,99.04
-"BT","Bhutan",1984,98.08
-"BT","Bhutan",1987,96.58
-"BT","Bhutan",1990,94.79
-"BT","Bhutan",1993,91.34
-"BT","Bhutan",1996,85.44
-"BT","Bhutan",1999,76.92
-"BT","Bhutan",2002,65.69
-"BT","Bhutan",2005,42.98
-"BT","Bhutan",2008,20.71
-"BT","Bhutan",2010,21.71
-"BT","Bhutan",2011,18.07
-"BT","Bhutan",2012,13.33
-"BT","Bhutan",2013,9.39
-"BO","Bolivia",1981,21.36
-"BO","Bolivia",1984,27.62
-"BO","Bolivia",1987,25.15
-"BO","Bolivia",1990,25.11
-"BO","Bolivia",1993,26.96
-"BO","Bolivia",1996,31.63
-"BO","Bolivia",1999,37.43
-"BO","Bolivia",2002,36.85
-"BO","Bolivia",2005,32.24
-"BO","Bolivia",2008,20.73
-"BO","Bolivia",2010,17.13
-"BO","Bolivia",2011,14.63
-"BO","Bolivia",2012,15.77
-"BO","Bolivia",2013,13.35
-"BA","Bosnia & Herzegovina",1981,1.37
-"BA","Bosnia & Herzegovina",1984,0.93
-"BA","Bosnia & Herzegovina",1987,0.77
-"BA","Bosnia & Herzegovina",1990,0.77
-"BA","Bosnia & Herzegovina",1993,1.25
-"BA","Bosnia & Herzegovina",1996,7.94
-"BA","Bosnia & Herzegovina",1999,1.37
-"BA","Bosnia & Herzegovina",2002,0.93
-"BA","Bosnia & Herzegovina",2005,0.55
-"BA","Bosnia & Herzegovina",2008,0.39
-"BA","Bosnia & Herzegovina",2010,0.46
-"BA","Bosnia & Herzegovina",2011,0.45
-"BA","Bosnia & Herzegovina",2012,0.46
-"BA","Bosnia & Herzegovina",2013,0.4
-"BW","Botswana",1981,72.81
-"BW","Botswana",1984,64.94
-"BW","Botswana",1987,60.35
-"BW","Botswana",1990,53.28
-"BW","Botswana",1993,54.5
-"BW","Botswana",1996,51.73
-"BW","Botswana",1999,48.3
-"BW","Botswana",2002,49.12
-"BW","Botswana",2005,44.21
-"BW","Botswana",2008,34.01
-"BW","Botswana",2010,33.99
-"BW","Botswana",2011,32.46
-"BW","Botswana",2012,31.27
-"BW","Botswana",2013,28
-"BR","Brazil",1981,41.44
-"BR","Brazil",1984,48.58
-"BR","Brazil",1987,32.93
-"BR","Brazil",1990,35.79
-"BR","Brazil",1993,34.84
-"BR","Brazil",1996,26.57
-"BR","Brazil",1999,25.61
-"BR","Brazil",2002,24.47
-"BR","Brazil",2005,21.19
-"BR","Brazil",2008,14.21
-"BR","Brazil",2010,12.22
-"BR","Brazil",2011,11.37
-"BR","Brazil",2012,9.28
-"BR","Brazil",2013,9.06
-"BG","Bulgaria",1981,0.12
-"BG","Bulgaria",1984,0.1
-"BG","Bulgaria",1987,0.09
-"BG","Bulgaria",1990,0.12
-"BG","Bulgaria",1993,0.4
-"BG","Bulgaria",1996,2.35
-"BG","Bulgaria",1999,7.54
-"BG","Bulgaria",2002,5.38
-"BG","Bulgaria",2005,3.1
-"BG","Bulgaria",2008,2.82
-"BG","Bulgaria",2010,3.8
-"BG","Bulgaria",2011,4.66
-"BG","Bulgaria",2012,4.7
-"BG","Bulgaria",2013,4.78
-"BF","Burkina Faso",1981,93.52
-"BF","Burkina Faso",1984,93.51
-"BF","Burkina Faso",1987,92.77
-"BF","Burkina Faso",1990,92.86
-"BF","Burkina Faso",1993,92.33
-"BF","Burkina Faso",1996,91.51
-"BF","Burkina Faso",1999,88.32
-"BF","Burkina Faso",2002,83.85
-"BF","Burkina Faso",2005,79.74
-"BF","Burkina Faso",2008,79.26
-"BF","Burkina Faso",2010,78.31
-"BF","Burkina Faso",2011,76.86
-"BF","Burkina Faso",2012,75.4
-"BF","Burkina Faso",2013,75.15
-"BI","Burundi",1981,95.08
-"BI","Burundi",1984,95.79
-"BI","Burundi",1987,94.57
-"BI","Burundi",1990,94.53
-"BI","Burundi",1993,94.66
-"BI","Burundi",1996,95.17
-"BI","Burundi",1999,94.92
-"BI","Burundi",2002,93.43
-"BI","Burundi",2005,93.02
-"BI","Burundi",2008,91.59
-"BI","Burundi",2010,91.54
-"BI","Burundi",2011,91.4
-"BI","Burundi",2012,91.28
-"BI","Burundi",2013,91.15
-"CI","Côte d'Ivoire",1981,13.05
-"CI","Côte d'Ivoire",1984,18.28
-"CI","Côte d'Ivoire",1987,22.69
-"CI","Côte d'Ivoire",1990,37.57
-"CI","Côte d'Ivoire",1993,48.3
-"CI","Côte d'Ivoire",1996,49.77
-"CI","Côte d'Ivoire",1999,52.62
-"CI","Côte d'Ivoire",2002,54.79
-"CI","Côte d'Ivoire",2005,55.79
-"CI","Côte d'Ivoire",2008,55.14
-"CI","Côte d'Ivoire",2010,54.77
-"CI","Côte d'Ivoire",2011,58.72
-"CI","Côte d'Ivoire",2012,54.26
-"CI","Côte d'Ivoire",2013,51.24
-"KH","Cambodia",1981,76.26
-"KH","Cambodia",1984,74.29
-"KH","Cambodia",1987,72.16
-"KH","Cambodia",1990,70.26
-"KH","Cambodia",1993,68.12
-"KH","Cambodia",1996,64.36
-"KH","Cambodia",1999,61.8
-"KH","Cambodia",2002,58.23
-"KH","Cambodia",2005,48.99
-"KH","Cambodia",2008,37.71
-"KH","Cambodia",2010,25.54
-"KH","Cambodia",2011,25.61
-"KH","Cambodia",2012,21.58
-"KH","Cambodia",2013,18.47
-"CM","Cameroon",1981,57.78
-"CM","Cameroon",1984,51.17
-"CM","Cameroon",1987,49.63
-"CM","Cameroon",1990,63.6
-"CM","Cameroon",1993,73.21
-"CM","Cameroon",1996,72.27
-"CM","Cameroon",1999,59.5
-"CM","Cameroon",2002,51.14
-"CM","Cameroon",2005,52.77
-"CM","Cameroon",2008,53.84
-"CM","Cameroon",2010,54.01
-"CM","Cameroon",2011,52.29
-"CM","Cameroon",2012,50.37
-"CM","Cameroon",2013,46.86
-"CV","Cape Verde",1981,82.28
-"CV","Cape Verde",1984,79.59
-"CV","Cape Verde",1987,76.66
-"CV","Cape Verde",1990,74.31
-"CV","Cape Verde",1993,69.27
-"CV","Cape Verde",1996,54.4
-"CV","Cape Verde",1999,42.34
-"CV","Cape Verde",2002,35.49
-"CV","Cape Verde",2005,30.33
-"CV","Cape Verde",2008,23.45
-"CV","Cape Verde",2010,24.01
-"CV","Cape Verde",2011,22.52
-"CV","Cape Verde",2012,22.57
-"CV","Cape Verde",2013,22.63
-"CF","CAR",1981,88.61
-"CF","CAR",1984,88.75
-"CF","CAR",1987,89.49
-"CF","CAR",1990,90.21
-"CF","CAR",1993,91.63
-"CF","CAR",1996,89.3
-"CF","CAR",1999,85.42
-"CF","CAR",2002,82.76
-"CF","CAR",2005,82.65
-"CF","CAR",2008,82.27
-"CF","CAR",2010,82.04
-"CF","CAR",2011,81.83
-"CF","CAR",2012,81.36
-"CF","CAR",2013,90.63
-"TD","Chad",1981,93.15
-"TD","Chad",1984,90.19
-"TD","Chad",1987,89.24
-"TD","Chad",1990,87.82
-"TD","Chad",1993,90.45
-"TD","Chad",1996,89.8
-"TD","Chad",1999,89.57
-"TD","Chad",2002,87.77
-"TD","Chad",2005,66.4
-"TD","Chad",2008,68.23
-"TD","Chad",2010,63.7
-"TD","Chad",2011,64.82
-"TD","Chad",2012,62.57
-"TD","Chad",2013,61.35
-"CL","Chile",1981,15.77
-"CL","Chile",1984,24.44
-"CL","Chile",1987,21.98
-"CL","Chile",1990,20.89
-"CL","Chile",1993,14.98
-"CL","Chile",1996,11.33
-"CL","Chile",1999,10.91
-"CL","Chile",2002,8.57
-"CL","Chile",2005,5.9
-"CL","Chile",2008,4.02
-"CL","Chile",2010,3.52
-"CL","Chile",2011,2.91
-"CL","Chile",2012,2.46
-"CL","Chile",2013,2.05
-"CN","China",1981,99.14
-"CN","China",1984,95.87
-"CN","China",1987,89.15
-"CN","China",1990,89.2
-"CN","China",1993,82.31
-"CN","China",1996,71.5
-"CN","China",1999,67.18
-"CN","China",2002,56.4
-"CN","China",2005,41.76
-"CN","China",2008,32.96
-"CN","China",2010,27.24
-"CN","China",2011,22.24
-"CN","China",2012,19.05
-"CN","China",2013,11.09
-"CO","Colombia",1981,21.86
-"CO","Colombia",1984,22.26
-"CO","Colombia",1987,21.28
-"CO","Colombia",1990,20.2
-"CO","Colombia",1993,19.33
-"CO","Colombia",1996,28.22
-"CO","Colombia",1999,33.12
-"CO","Colombia",2002,28.27
-"CO","Colombia",2005,22.86
-"CO","Colombia",2008,22.76
-"CO","Colombia",2010,17.6
-"CO","Colombia",2011,15.31
-"CO","Colombia",2012,16.2
-"CO","Colombia",2013,13.79
-"KM","Comoros",1981,27.64
-"KM","Comoros",1984,24.88
-"KM","Comoros",1987,26.37
-"KM","Comoros",1990,28.07
-"KM","Comoros",1993,30.02
-"KM","Comoros",1996,34.84
-"KM","Comoros",1999,35.16
-"KM","Comoros",2002,31.94
-"KM","Comoros",2005,32.04
-"KM","Comoros",2008,33.7
-"KM","Comoros",2010,34.21
-"KM","Comoros",2011,34.21
-"KM","Comoros",2012,33.82
-"KM","Comoros",2013,33.47
-"CG","Congo",1981,72.42
-"CG","Congo",1984,62.4
-"CG","Congo",1987,68.85
-"CG","Congo",1990,69.9
-"CG","Congo",1993,71.7
-"CG","Congo",1996,73.72
-"CG","Congo",1999,76.15
-"CG","Congo",2002,73.46
-"CG","Congo",2005,71.76
-"CG","Congo",2008,70.63
-"CG","Congo",2010,60.66
-"CG","Congo",2011,59.62
-"CG","Congo",2012,59.03
-"CG","Congo",2013,58.57
-"CR","Costa Rica",1981,55.5
-"CR","Costa Rica",1984,36.63
-"CR","Costa Rica",1987,23.83
-"CR","Costa Rica",1990,18.22
-"CR","Costa Rica",1993,15.78
-"CR","Costa Rica",1996,16.03
-"CR","Costa Rica",1999,12.63
-"CR","Costa Rica",2002,11.97
-"CR","Costa Rica",2005,9.01
-"CR","Costa Rica",2008,5.88
-"CR","Costa Rica",2010,3.92
-"CR","Costa Rica",2011,4.07
-"CR","Costa Rica",2012,4.07
-"CR","Costa Rica",2013,3.95
-"HR","Croatia",1981,0.2
-"HR","Croatia",1984,0.13
-"HR","Croatia",1987,0.09
-"HR","Croatia",1990,0.65
-"HR","Croatia",1993,1.09
-"HR","Croatia",1996,1.25
-"HR","Croatia",1999,0.51
-"HR","Croatia",2002,0.15
-"HR","Croatia",2005,0.14
-"HR","Croatia",2008,0.12
-"HR","Croatia",2010,0.05
-"HR","Croatia",2011,2
-"HR","Croatia",2012,2.24
-"HR","Croatia",2013,2.37
-"CZ","Czech Republic",1981,0
-"CZ","Czech Republic",1984,0
-"CZ","Czech Republic",1987,0
-"CZ","Czech Republic",1990,0.01
-"CZ","Czech Republic",1993,0.03
-"CZ","Czech Republic",1996,0.26
-"CZ","Czech Republic",1999,0.16
-"CZ","Czech Republic",2002,0.08
-"CZ","Czech Republic",2005,0.06
-"CZ","Czech Republic",2008,0.13
-"CZ","Czech Republic",2010,0.13
-"CZ","Czech Republic",2011,0.11
-"CZ","Czech Republic",2012,0.3
-"CZ","Czech Republic",2013,0.17
-"DJ","Djibouti",1981,4.54
-"DJ","Djibouti",1984,8.79
-"DJ","Djibouti",1987,15.77
-"DJ","Djibouti",1990,25.77
-"DJ","Djibouti",1993,35.91
-"DJ","Djibouti",1996,43.93
-"DJ","Djibouti",1999,46.23
-"DJ","Djibouti",2002,46.12
-"DJ","Djibouti",2005,44.74
-"DJ","Djibouti",2008,40.86
-"DJ","Djibouti",2010,38.9
-"DJ","Djibouti",2011,37.88
-"DJ","Djibouti",2012,36.98
-"DJ","Djibouti",2013,43.05
-"DO","Dominican Republic",1981,61.24
-"DO","Dominican Republic",1984,60.02
-"DO","Dominican Republic",1987,58.95
-"DO","Dominican Republic",1990,49.53
-"DO","Dominican Republic",1993,15.25
-"DO","Dominican Republic",1996,12.7
-"DO","Dominican Republic",1999,12.11
-"DO","Dominican Republic",2002,13.62
-"DO","Dominican Republic",2005,15.94
-"DO","Dominican Republic",2008,13.3
-"DO","Dominican Republic",2010,11.5
-"DO","Dominican Republic",2011,10
-"DO","Dominican Republic",2012,10.22
-"DO","Dominican Republic",2013,9.12
-"CD","DRC",1981,81.71
-"CD","DRC",1984,82.13
-"CD","DRC",1987,82.25
-"CD","DRC",1990,87.21
-"CD","DRC",1993,95.12
-"CD","DRC",1996,96.51
-"CD","DRC",1999,97.96
-"CD","DRC",2002,98.71
-"CD","DRC",2005,98.33
-"CD","DRC",2008,96.16
-"CD","DRC",2010,95.07
-"CD","DRC",2011,93.85
-"CD","DRC",2012,91.78
-"CD","DRC",2013,90.11
-"EC","Ecuador",1981,38.48
-"EC","Ecuador",1984,41.1
-"EC","Ecuador",1987,39.89
-"EC","Ecuador",1990,38.68
-"EC","Ecuador",1993,35.4
-"EC","Ecuador",1996,36.86
-"EC","Ecuador",1999,39.06
-"EC","Ecuador",2002,34.31
-"EC","Ecuador",2005,26.99
-"EC","Ecuador",2008,20.47
-"EC","Ecuador",2010,16.91
-"EC","Ecuador",2011,14.54
-"EC","Ecuador",2012,13.97
-"EC","Ecuador",2013,11.64
-"SV","El Salvador",1981,28.06
-"SV","El Salvador",1984,31.04
-"SV","El Salvador",1987,31.73
-"SV","El Salvador",1990,33.03
-"SV","El Salvador",1993,38.25
-"SV","El Salvador",1996,40.94
-"SV","El Salvador",1999,27.82
-"SV","El Salvador",2002,23.93
-"SV","El Salvador",2005,20.88
-"SV","El Salvador",2008,18.58
-"SV","El Salvador",2010,18.55
-"SV","El Salvador",2011,15.04
-"SV","El Salvador",2012,13.61
-"SV","El Salvador",2013,11.53
-"EE","Estonia",1981,0.26
-"EE","Estonia",1984,0.2
-"EE","Estonia",1987,0.16
-"EE","Estonia",1990,3.12
-"EE","Estonia",1993,5.77
-"EE","Estonia",1996,4.2
-"EE","Estonia",1999,4.44
-"EE","Estonia",2002,4.96
-"EE","Estonia",2005,1.94
-"EE","Estonia",2008,0.92
-"EE","Estonia",2010,1.82
-"EE","Estonia",2011,1.82
-"EE","Estonia",2012,1.61
-"EE","Estonia",2013,1.54
-"ET","Ethiopia",1981,79.85
-"ET","Ethiopia",1984,81.14
-"ET","Ethiopia",1987,80.77
-"ET","Ethiopia",1990,83.19
-"ET","Ethiopia",1993,87.83
-"ET","Ethiopia",1996,84.92
-"ET","Ethiopia",1999,87.32
-"ET","Ethiopia",2002,83.74
-"ET","Ethiopia",2005,75.67
-"ET","Ethiopia",2008,73.27
-"ET","Ethiopia",2010,71.69
-"ET","Ethiopia",2011,68.9
-"ET","Ethiopia",2012,64.52
-"ET","Ethiopia",2013,58.85
-"FJ","Fiji",1981,28.31
-"FJ","Fiji",1984,33.71
-"FJ","Fiji",1987,38.1
-"FJ","Fiji",1990,30.19
-"FJ","Fiji",1993,29.18
-"FJ","Fiji",1996,25.18
-"FJ","Fiji",1999,22.92
-"FJ","Fiji",2002,22.01
-"FJ","Fiji",2005,18.61
-"FJ","Fiji",2008,18
-"FJ","Fiji",2010,18.18
-"FJ","Fiji",2011,19.54
-"FJ","Fiji",2012,19.39
-"FJ","Fiji",2013,17.37
-"GA","Gabon",1981,15.23
-"GA","Gabon",1984,14.61
-"GA","Gabon",1987,26.75
-"GA","Gabon",1990,19.11
-"GA","Gabon",1993,19.82
-"GA","Gabon",1996,17.97
-"GA","Gabon",1999,21.17
-"GA","Gabon",2002,24.46
-"GA","Gabon",2005,24.43
-"GA","Gabon",2008,27.89
-"GA","Gabon",2010,26.23
-"GA","Gabon",2011,24.3
-"GA","Gabon",2012,22.88
-"GA","Gabon",2013,21.37
-"GM","Gambia",1981,83.73
-"GM","Gambia",1984,83.18
-"GM","Gambia",1987,85.31
-"GM","Gambia",1990,85.03
-"GM","Gambia",1993,85.14
-"GM","Gambia",1996,86.58
-"GM","Gambia",1999,77.64
-"GM","Gambia",2002,81.23
-"GM","Gambia",2005,68.91
-"GM","Gambia",2008,68.49
-"GM","Gambia",2010,65.92
-"GM","Gambia",2011,69.21
-"GM","Gambia",2012,68.17
-"GM","Gambia",2013,67.57
-"GE","Georgia",1981,10.84
-"GE","Georgia",1984,8.41
-"GE","Georgia",1987,9.31
-"GE","Georgia",1990,23.26
-"GE","Georgia",1993,78.87
-"GE","Georgia",1996,17.15
-"GE","Georgia",1999,42.12
-"GE","Georgia",2002,39.75
-"GE","Georgia",2005,36.54
-"GE","Georgia",2008,35.11
-"GE","Georgia",2010,38.61
-"GE","Georgia",2011,36.84
-"GE","Georgia",2012,34.56
-"GE","Georgia",2013,28.58
-"GH","Ghana",1981,67.59
-"GH","Ghana",1984,75.4
-"GH","Ghana",1987,72.34
-"GH","Ghana",1990,72.92
-"GH","Ghana",1993,71.56
-"GH","Ghana",1996,65.74
-"GH","Ghana",1999,59.49
-"GH","Ghana",2002,56.68
-"GH","Ghana",2005,51
-"GH","Ghana",2008,44.15
-"GH","Ghana",2010,40.45
-"GH","Ghana",2011,34.93
-"GH","Ghana",2012,31.51
-"GH","Ghana",2013,29.31
-"GT","Guatemala",1981,64.11
-"GT","Guatemala",1984,68.28
-"GT","Guatemala",1987,65.58
-"GT","Guatemala",1990,52.63
-"GT","Guatemala",1993,43.18
-"GT","Guatemala",1996,33.09
-"GT","Guatemala",1999,24.65
-"GT","Guatemala",2002,22.75
-"GT","Guatemala",2005,23.45
-"GT","Guatemala",2008,23.92
-"GT","Guatemala",2010,26.22
-"GT","Guatemala",2011,26.47
-"GT","Guatemala",2012,25.77
-"GT","Guatemala",2013,24.91
-"GN","Guinea",1981,98.67
-"GN","Guinea",1984,98.58
-"GN","Guinea",1987,98.49
-"GN","Guinea",1990,98.26
-"GN","Guinea",1993,80.64
-"GN","Guinea",1996,74.55
-"GN","Guinea",1999,78.27
-"GN","Guinea",2002,82.5
-"GN","Guinea",2005,81.76
-"GN","Guinea",2008,77.91
-"GN","Guinea",2010,74.58
-"GN","Guinea",2011,71.66
-"GN","Guinea",2012,68.65
-"GN","Guinea",2013,68.9
-"GW","Guinea-Bissau",1981,66.71
-"GW","Guinea-Bissau",1984,65.6
-"GW","Guinea-Bissau",1987,65.78
-"GW","Guinea-Bissau",1990,62.12
-"GW","Guinea-Bissau",1993,85.01
-"GW","Guinea-Bissau",1996,75.53
-"GW","Guinea-Bissau",1999,83.91
-"GW","Guinea-Bissau",2002,80.93
-"GW","Guinea-Bissau",2005,81.92
-"GW","Guinea-Bissau",2008,82.92
-"GW","Guinea-Bissau",2010,83.59
-"GW","Guinea-Bissau",2011,82.2
-"GW","Guinea-Bissau",2012,83.11
-"GW","Guinea-Bissau",2013,83.66
-"GY","Guyana",1981,53.44
-"GY","Guyana",1984,66.76
-"GY","Guyana",1987,63.54
-"GY","Guyana",1990,68.03
-"GY","Guyana",1993,53.91
-"GY","Guyana",1996,32.79
-"GY","Guyana",1999,27.31
-"GY","Guyana",2002,26.76
-"GY","Guyana",2005,26.64
-"GY","Guyana",2008,22.22
-"GY","Guyana",2010,20.16
-"GY","Guyana",2011,18.77
-"GY","Guyana",2012,17.61
-"GY","Guyana",2013,16.42
-"HT","Haiti",1981,76.99
-"HT","Haiti",1984,76.31
-"HT","Haiti",1987,75.47
-"HT","Haiti",1990,74.77
-"HT","Haiti",1993,74
-"HT","Haiti",1996,73.16
-"HT","Haiti",1999,72.29
-"HT","Haiti",2002,73.59
-"HT","Haiti",2005,74.16
-"HT","Haiti",2008,72.41
-"HT","Haiti",2010,73.39
-"HT","Haiti",2011,71.66
-"HT","Haiti",2012,70.99
-"HT","Haiti",2013,69.88
-"HN","Honduras",1981,56.45
-"HN","Honduras",1984,57.05
-"HN","Honduras",1987,57.61
-"HN","Honduras",1990,63.09
-"HN","Honduras",1993,45.17
-"HN","Honduras",1996,49.82
-"HN","Honduras",1999,42.09
-"HN","Honduras",2002,43.37
-"HN","Honduras",2005,42.58
-"HN","Honduras",2008,29.35
-"HN","Honduras",2010,29.11
-"HN","Honduras",2011,32.67
-"HN","Honduras",2012,37.26
-"HN","Honduras",2013,34.55
-"HU","Hungary",1981,0.11
-"HU","Hungary",1984,0.1
-"HU","Hungary",1987,0.1
-"HU","Hungary",1990,0.42
-"HU","Hungary",1993,0.37
-"HU","Hungary",1996,0.73
-"HU","Hungary",1999,0.27
-"HU","Hungary",2002,0.07
-"HU","Hungary",2005,0.13
-"HU","Hungary",2008,0.17
-"HU","Hungary",2010,0.26
-"HU","Hungary",2011,0.3
-"HU","Hungary",2012,0.52
-"HU","Hungary",2013,0.52
-"IN","India",1981,79.77
-"IN","India",1984,78.39
-"IN","India",1987,75.72
-"IN","India",1990,72.9
-"IN","India",1993,74.81
-"IN","India",1996,72.95
-"IN","India",1999,71.54
-"IN","India",2002,70.55
-"IN","India",2005,67.89
-"IN","India",2008,64.59
-"IN","India",2010,60.53
-"IN","India",2011,55.14
-"IN","India",2012,56.45
-"IN","India",2013,52.99
-"ID","Indonesia",1981,93.11
-"ID","Indonesia",1984,90.58
-"ID","Indonesia",1987,91.58
-"ID","Indonesia",1990,85.32
-"ID","Indonesia",1993,84.91
-"ID","Indonesia",1996,77.55
-"ID","Indonesia",1999,77.52
-"ID","Indonesia",2002,63.39
-"ID","Indonesia",2005,59.5
-"ID","Indonesia",2008,54.75
-"ID","Indonesia",2010,46.36
-"ID","Indonesia",2011,43.33
-"ID","Indonesia",2012,41.67
-"ID","Indonesia",2013,39.4
-"IR","Iran",1981,26.32
-"IR","Iran",1984,18.57
-"IR","Iran",1987,24.9
-"IR","Iran",1990,18.46
-"IR","Iran",1993,12.15
-"IR","Iran",1996,14.35
-"IR","Iran",1999,13.77
-"IR","Iran",2002,12.7
-"IR","Iran",2005,11.18
-"IR","Iran",2008,4.02
-"IR","Iran",2010,2.13
-"IR","Iran",2011,1.18
-"IR","Iran",2012,0.84
-"IR","Iran",2013,0.66
-"JM","Jamaica",1981,98.84
-"JM","Jamaica",1984,98.91
-"JM","Jamaica",1987,98.83
-"JM","Jamaica",1990,18.96
-"JM","Jamaica",1993,99.79
-"JM","Jamaica",1996,12.87
-"JM","Jamaica",1999,9.51
-"JM","Jamaica",2002,10.45
-"JM","Jamaica",2005,8.12
-"JM","Jamaica",2008,7.57
-"JM","Jamaica",2010,9.16
-"JM","Jamaica",2011,8.69
-"JM","Jamaica",2012,8.96
-"JM","Jamaica",2013,8.88
-"KZ","Kazakhstan",1981,0.03
-"KZ","Kazakhstan",1984,0.05
-"KZ","Kazakhstan",1987,0.09
-"KZ","Kazakhstan",1990,1.65
-"KZ","Kazakhstan",1993,23.1
-"KZ","Kazakhstan",1996,22.9
-"KZ","Kazakhstan",1999,29.02
-"KZ","Kazakhstan",2002,26.18
-"KZ","Kazakhstan",2005,2.86
-"KZ","Kazakhstan",2008,1.94
-"KZ","Kazakhstan",2010,1.61
-"KZ","Kazakhstan",2011,0.71
-"KZ","Kazakhstan",2012,0.44
-"KZ","Kazakhstan",2013,0.26
-"KE","Kenya",1981,41.75
-"KE","Kenya",1984,44.79
-"KE","Kenya",1987,42.16
-"KE","Kenya",1990,40.25
-"KE","Kenya",1993,46.5
-"KE","Kenya",1996,42.91
-"KE","Kenya",1999,49.13
-"KE","Kenya",2002,56.32
-"KE","Kenya",2005,59
-"KE","Kenya",2008,56.98
-"KE","Kenya",2010,53.7
-"KE","Kenya",2011,51.93
-"KE","Kenya",2012,51.1
-"KE","Kenya",2013,49.84
-"KI","Kiribati",1981,42.95
-"KI","Kiribati",1984,36.51
-"KI","Kiribati",1987,45.95
-"KI","Kiribati",1990,43.19
-"KI","Kiribati",1993,45.61
-"KI","Kiribati",1996,41.68
-"KI","Kiribati",1999,34.44
-"KI","Kiribati",2002,32.2
-"KI","Kiribati",2005,31.86
-"KI","Kiribati",2008,32.11
-"KI","Kiribati",2010,34.44
-"KI","Kiribati",2011,34.29
-"KI","Kiribati",2012,34.17
-"KI","Kiribati",2013,33.18
-"XK","Kosovo",1981,17.81
-"XK","Kosovo",1984,15.62
-"XK","Kosovo",1987,13.3
-"XK","Kosovo",1990,13.17
-"XK","Kosovo",1993,20.13
-"XK","Kosovo",1996,20.95
-"XK","Kosovo",1999,17.96
-"XK","Kosovo",2002,16.67
-"XK","Kosovo",2005,16.22
-"XK","Kosovo",2008,12.78
-"XK","Kosovo",2010,12.34
-"XK","Kosovo",2011,8.58
-"XK","Kosovo",2012,5.01
-"XK","Kosovo",2013,3.52
-"KG","Kyrgyzstan",1981,0
-"KG","Kyrgyzstan",1984,0
-"KG","Kyrgyzstan",1987,24.48
-"KG","Kyrgyzstan",1990,72.95
-"KG","Kyrgyzstan",1993,63.85
-"KG","Kyrgyzstan",1996,62.7
-"KG","Kyrgyzstan",1999,50.24
-"KG","Kyrgyzstan",2002,69.69
-"KG","Kyrgyzstan",2005,49.76
-"KG","Kyrgyzstan",2008,22.74
-"KG","Kyrgyzstan",2010,21.38
-"KG","Kyrgyzstan",2011,19.25
-"KG","Kyrgyzstan",2012,19.88
-"KG","Kyrgyzstan",2013,24.01
-"LA","Lao",1981,81.7
-"LA","Lao",1984,76.53
-"LA","Lao",1987,71.02
-"LA","Lao",1990,64.88
-"LA","Lao",1993,60.06
-"LA","Lao",1996,65.29
-"LA","Lao",1999,63.32
-"LA","Lao",2002,62.8
-"LA","Lao",2005,53.8
-"LA","Lao",2008,53.58
-"LA","Lao",2010,50.46
-"LA","Lao",2011,47.59
-"LA","Lao",2012,47.17
-"LA","Lao",2013,44.88
-"LV","Latvia",1981,0.13
-"LV","Latvia",1984,0.09
-"LV","Latvia",1987,0.06
-"LV","Latvia",1990,3.34
-"LV","Latvia",1993,2.1
-"LV","Latvia",1996,6.64
-"LV","Latvia",1999,5.48
-"LV","Latvia",2002,3.16
-"LV","Latvia",2005,4.87
-"LV","Latvia",2008,0.6
-"LV","Latvia",2010,3.75
-"LV","Latvia",2011,2.88
-"LV","Latvia",2012,2.59
-"LV","Latvia",2013,2.47
-"LS","Lesotho",1981,88.36
-"LS","Lesotho",1984,87.88
-"LS","Lesotho",1987,87.35
-"LS","Lesotho",1990,84.06
-"LS","Lesotho",1993,81.76
-"LS","Lesotho",1996,80.63
-"LS","Lesotho",1999,80.23
-"LS","Lesotho",2002,79.31
-"LS","Lesotho",2005,78.81
-"LS","Lesotho",2008,77.83
-"LS","Lesotho",2010,77.28
-"LS","Lesotho",2011,76.67
-"LS","Lesotho",2012,75.54
-"LS","Lesotho",2013,74.53
-"LR","Liberia",1981,12.94
-"LR","Liberia",1984,17.94
-"LR","Liberia",1987,19.48
-"LR","Liberia",1990,78.99
-"LR","Liberia",1993,97.83
-"LR","Liberia",1996,99.25
-"LR","Liberia",1999,88.56
-"LR","Liberia",2002,80.27
-"LR","Liberia",2005,91.39
-"LR","Liberia",2008,88.99
-"LR","Liberia",2010,88.23
-"LR","Liberia",2011,86.02
-"LR","Liberia",2012,84.11
-"LR","Liberia",2013,81.5
-"LT","Lithuania",1981,1.72
-"LT","Lithuania",1984,0.66
-"LT","Lithuania",1987,0.31
-"LT","Lithuania",1990,17.44
-"LT","Lithuania",1993,28.7
-"LT","Lithuania",1996,4.34
-"LT","Lithuania",1999,3.73
-"LT","Lithuania",2002,4.23
-"LT","Lithuania",2005,4.25
-"LT","Lithuania",2008,1.09
-"LT","Lithuania",2010,3.14
-"LT","Lithuania",2011,1.69
-"LT","Lithuania",2012,2.03
-"LT","Lithuania",2013,1.67
-"MK","Macedonia",1981,0
-"MK","Macedonia",1984,1.48
-"MK","Macedonia",1987,4.35
-"MK","Macedonia",1990,8.73
-"MK","Macedonia",1993,10.93
-"MK","Macedonia",1996,8.83
-"MK","Macedonia",1999,14.03
-"MK","Macedonia",2002,6.21
-"MK","Macedonia",2005,6.41
-"MK","Macedonia",2008,8.71
-"MK","Macedonia",2010,8.71
-"MK","Macedonia",2011,9.88
-"MK","Macedonia",2012,9.78
-"MK","Macedonia",2013,9.27
-"MG","Madagascar",1981,75.99
-"MG","Madagascar",1984,79.69
-"MG","Madagascar",1987,82.11
-"MG","Madagascar",1990,81.84
-"MG","Madagascar",1993,87.27
-"MG","Madagascar",1996,86.83
-"MG","Madagascar",1999,85.19
-"MG","Madagascar",2002,88.83
-"MG","Madagascar",2005,89.86
-"MG","Madagascar",2008,89.87
-"MG","Madagascar",2010,92.91
-"MG","Madagascar",2011,91.78
-"MG","Madagascar",2012,90.47
-"MG","Madagascar",2013,90.58
-"MW","Malawi",1981,85.46
-"MW","Malawi",1984,84.67
-"MW","Malawi",1987,87.34
-"MW","Malawi",1990,88.26
-"MW","Malawi",1993,86.75
-"MW","Malawi",1996,84.62
-"MW","Malawi",1999,84.97
-"MW","Malawi",2002,89.47
-"MW","Malawi",2005,89.95
-"MW","Malawi",2008,88.7
-"MW","Malawi",2010,87.68
-"MW","Malawi",2011,87.45
-"MW","Malawi",2012,87.7
-"MW","Malawi",2013,87.24
-"MY","Malaysia",1981,13.33
-"MY","Malaysia",1984,12.01
-"MY","Malaysia",1987,11.61
-"MY","Malaysia",1990,10.33
-"MY","Malaysia",1993,11
-"MY","Malaysia",1996,7.44
-"MY","Malaysia",1999,8.22
-"MY","Malaysia",2002,4.41
-"MY","Malaysia",2005,2.77
-"MY","Malaysia",2008,2.53
-"MY","Malaysia",2010,2.27
-"MY","Malaysia",2011,1.79
-"MY","Malaysia",2012,1.27
-"MY","Malaysia",2013,0.99
-"MV","Maldives",1981,85.64
-"MV","Maldives",1984,81.44
-"MV","Maldives",1987,77.43
-"MV","Maldives",1990,72.05
-"MV","Maldives",1993,63.92
-"MV","Maldives",1996,57.13
-"MV","Maldives",1999,48.34
-"MV","Maldives",2002,40.16
-"MV","Maldives",2005,33.76
-"MV","Maldives",2008,20.89
-"MV","Maldives",2010,22.51
-"MV","Maldives",2011,20.48
-"MV","Maldives",2012,20.17
-"MV","Maldives",2013,19.07
-"ML","Mali",1981,94.34
-"ML","Mali",1984,95.48
-"ML","Mali",1987,93.93
-"ML","Mali",1990,93.49
-"ML","Mali",1993,93.09
-"ML","Mali",1996,91.96
-"ML","Mali",1999,82.55
-"ML","Mali",2002,79.08
-"ML","Mali",2005,76.85
-"ML","Mali",2008,77.01
-"ML","Mali",2010,77.63
-"ML","Mali",2011,77.79
-"ML","Mali",2012,78.97
-"ML","Mali",2013,79.6
-"MR","Mauritania",1981,60.03
-"MR","Mauritania",1984,65.26
-"MR","Mauritania",1987,64.18
-"MR","Mauritania",1990,67.25
-"MR","Mauritania",1993,68.16
-"MR","Mauritania",1996,46.28
-"MR","Mauritania",1999,43.18
-"MR","Mauritania",2002,45.01
-"MR","Mauritania",2005,38.26
-"MR","Mauritania",2008,32.46
-"MR","Mauritania",2010,31.76
-"MR","Mauritania",2011,29.47
-"MR","Mauritania",2012,26.9
-"MR","Mauritania",2013,24.62
-"MU","Mauritius",1981,50.98
-"MU","Mauritius",1984,46.53
-"MU","Mauritius",1987,30.45
-"MU","Mauritius",1990,20.83
-"MU","Mauritius",1993,14.63
-"MU","Mauritius",1996,10.8
-"MU","Mauritius",1999,7.46
-"MU","Mauritius",2002,4.93
-"MU","Mauritius",2005,3.75
-"MU","Mauritius",2008,2.93
-"MU","Mauritius",2010,2.89
-"MU","Mauritius",2011,2.91
-"MU","Mauritius",2012,2.96
-"MU","Mauritius",2013,2.74
-"MX","Mexico",1981,16.72
-"MX","Mexico",1984,20.99
-"MX","Mexico",1987,25.54
-"MX","Mexico",1990,24.24
-"MX","Mexico",1993,23.16
-"MX","Mexico",1996,31.3
-"MX","Mexico",1999,27.68
-"MX","Mexico",2002,22.9
-"MX","Mexico",2005,18.11
-"MX","Mexico",2008,12.03
-"MX","Mexico",2010,11.9
-"MX","Mexico",2011,11.12
-"MX","Mexico",2012,10.32
-"MX","Mexico",2013,10.56
-"FM","Micronesia",1981,36.62
-"FM","Micronesia",1984,37.74
-"FM","Micronesia",1987,38.87
-"FM","Micronesia",1990,37.96
-"FM","Micronesia",1993,33.05
-"FM","Micronesia",1996,33.2
-"FM","Micronesia",1999,33.93
-"FM","Micronesia",2002,30.25
-"FM","Micronesia",2005,28.51
-"FM","Micronesia",2008,35.04
-"FM","Micronesia",2010,34.84
-"FM","Micronesia",2011,34.97
-"FM","Micronesia",2012,35.96
-"FM","Micronesia",2013,39.35
-"MD","Moldova",1981,0
-"MD","Moldova",1984,0
-"MD","Moldova",1987,0
-"MD","Moldova",1990,8.67
-"MD","Moldova",1993,17
-"MD","Moldova",1996,57.23
-"MD","Moldova",1999,68.35
-"MD","Moldova",2002,42.59
-"MD","Moldova",2005,38.67
-"MD","Moldova",2008,8.31
-"MD","Moldova",2010,5.19
-"MD","Moldova",2011,3.54
-"MD","Moldova",2012,2.88
-"MD","Moldova",2013,1.95
-"MN","Mongolia",1981,37.7
-"MN","Mongolia",1984,30.89
-"MN","Mongolia",1987,25.87
-"MN","Mongolia",1990,26.53
-"MN","Mongolia",1993,41.08
-"MN","Mongolia",1996,45.6
-"MN","Mongolia",1999,50.82
-"MN","Mongolia",2002,33.63
-"MN","Mongolia",2005,20.44
-"MN","Mongolia",2008,10.69
-"MN","Mongolia",2010,8.74
-"MN","Mongolia",2011,6.21
-"MN","Mongolia",2012,3.95
-"MN","Mongolia",2013,3.23
-"ME","Montenegro",1981,23.45
-"ME","Montenegro",1984,15.37
-"ME","Montenegro",1987,9.23
-"ME","Montenegro",1990,5.24
-"ME","Montenegro",1993,3.16
-"ME","Montenegro",1996,1.82
-"ME","Montenegro",1999,1.69
-"ME","Montenegro",2002,0.88
-"ME","Montenegro",2005,1.11
-"ME","Montenegro",2008,0.46
-"ME","Montenegro",2010,0.53
-"ME","Montenegro",2011,1.03
-"ME","Montenegro",2012,2.14
-"ME","Montenegro",2013,2.53
-"MA","Morocco",1981,36.75
-"MA","Morocco",1984,31.37
-"MA","Morocco",1987,26.32
-"MA","Morocco",1990,21.45
-"MA","Morocco",1993,23.66
-"MA","Morocco",1996,22.04
-"MA","Morocco",1999,26.95
-"MA","Morocco",2002,24.18
-"MA","Morocco",2005,18.77
-"MA","Morocco",2008,12.9
-"MA","Morocco",2010,10.88
-"MA","Morocco",2011,9.93
-"MA","Morocco",2012,9.63
-"MA","Morocco",2013,8.48
-"MZ","Mozambique",1981,95.05
-"MZ","Mozambique",1984,97.42
-"MZ","Mozambique",1987,96.83
-"MZ","Mozambique",1990,95.9
-"MZ","Mozambique",1993,96.21
-"MZ","Mozambique",1996,94.34
-"MZ","Mozambique",1999,93.04
-"MZ","Mozambique",2002,92.11
-"MZ","Mozambique",2005,90.42
-"MZ","Mozambique",2008,88.2
-"MZ","Mozambique",2010,86.26
-"MZ","Mozambique",2011,84.97
-"MZ","Mozambique",2012,83.68
-"MZ","Mozambique",2013,82.29
-"NA","Namibia",1981,61.38
-"NA","Namibia",1984,63.87
-"NA","Namibia",1987,64.59
-"NA","Namibia",1990,66.55
-"NA","Namibia",1993,65.7
-"NA","Namibia",1996,65.76
-"NA","Namibia",1999,60.46
-"NA","Namibia",2002,59.29
-"NA","Namibia",2005,52.45
-"NA","Namibia",2008,46.87
-"NA","Namibia",2010,45.07
-"NA","Namibia",2011,43.51
-"NA","Namibia",2012,42.4
-"NA","Namibia",2013,41.1
-"NP","Nepal",1981,94.01
-"NP","Nepal",1984,93.05
-"NP","Nepal",1987,91.95
-"NP","Nepal",1990,88.94
-"NP","Nepal",1993,87.12
-"NP","Nepal",1996,84.78
-"NP","Nepal",1999,79.77
-"NP","Nepal",2002,74.73
-"NP","Nepal",2005,69.57
-"NP","Nepal",2008,60.55
-"NP","Nepal",2010,48.77
-"NP","Nepal",2011,48.77
-"NP","Nepal",2012,39.35
-"NP","Nepal",2013,37.74
-"NI","Nicaragua",1981,51.75
-"NI","Nicaragua",1984,49.26
-"NI","Nicaragua",1987,46.76
-"NI","Nicaragua",1990,44.81
-"NI","Nicaragua",1993,42.21
-"NI","Nicaragua",1996,40.57
-"NI","Nicaragua",1999,39.07
-"NI","Nicaragua",2002,39.65
-"NI","Nicaragua",2005,39.35
-"NI","Nicaragua",2008,26.38
-"NI","Nicaragua",2010,23.52
-"NI","Nicaragua",2011,22.56
-"NI","Nicaragua",2012,20.52
-"NI","Nicaragua",2013,18.74
-"NE","Niger",1981,82.68
-"NE","Niger",1984,91.59
-"NE","Niger",1987,90.42
-"NE","Niger",1990,91.02
-"NE","Niger",1993,93.45
-"NE","Niger",1996,93
-"NE","Niger",1999,91.65
-"NE","Niger",2002,90.86
-"NE","Niger",2005,90.04
-"NE","Niger",2008,87.79
-"NE","Niger",2010,83.12
-"NE","Niger",2011,81.75
-"NE","Niger",2012,78.34
-"NE","Niger",2013,77.42
-"NG","Nigeria",1981,64.11
-"NG","Nigeria",1984,71.86
-"NG","Nigeria",1987,80.37
-"NG","Nigeria",1990,73.31
-"NG","Nigeria",1993,77.32
-"NG","Nigeria",1996,81.04
-"NG","Nigeria",1999,84.36
-"NG","Nigeria",2002,85.48
-"NG","Nigeria",2005,77.73
-"NG","Nigeria",2008,76.87
-"NG","Nigeria",2010,76.18
-"NG","Nigeria",2011,75.28
-"NG","Nigeria",2012,74.8
-"NG","Nigeria",2013,73.61
-"PK","Pakistan",1981,87.31
-"PK","Pakistan",1984,87.02
-"PK","Pakistan",1987,86.67
-"PK","Pakistan",1990,84.95
-"PK","Pakistan",1993,77.96
-"PK","Pakistan",1996,62.14
-"PK","Pakistan",1999,62.87
-"PK","Pakistan",2002,69.53
-"PK","Pakistan",2005,55.7
-"PK","Pakistan",2008,50.85
-"PK","Pakistan",2010,47.34
-"PK","Pakistan",2011,44.4
-"PK","Pakistan",2012,40.43
-"PK","Pakistan",2013,40.11
-"PS","Palestine",1981,27.77
-"PS","Palestine",1984,22.63
-"PS","Palestine",1987,17.57
-"PS","Palestine",1990,13.97
-"PS","Palestine",1993,10.46
-"PS","Palestine",1996,9
-"PS","Palestine",1999,2.24
-"PS","Palestine",2002,3.89
-"PS","Palestine",2005,2.08
-"PS","Palestine",2008,4.14
-"PS","Palestine",2010,1.31
-"PS","Palestine",2011,1.14
-"PS","Palestine",2012,0.61
-"PS","Palestine",2013,0.97
-"PA","Panama",1981,21.87
-"PA","Panama",1984,25.25
-"PA","Panama",1987,27.69
-"PA","Panama",1990,35.11
-"PA","Panama",1993,24.76
-"PA","Panama",1996,23.52
-"PA","Panama",1999,20.44
-"PA","Panama",2002,21.8
-"PA","Panama",2005,18.84
-"PA","Panama",2008,11.99
-"PA","Panama",2010,10.7
-"PA","Panama",2011,9.49
-"PA","Panama",2012,9.91
-"PA","Panama",2013,7.98
-"PG","Papua New Guinea",1981,76.67
-"PG","Papua New Guinea",1984,78.48
-"PG","Papua New Guinea",1987,77.54
-"PG","Papua New Guinea",1990,79.42
-"PG","Papua New Guinea",1993,70.59
-"PG","Papua New Guinea",1996,70.18
-"PG","Papua New Guinea",1999,72.59
-"PG","Papua New Guinea",2002,75.39
-"PG","Papua New Guinea",2005,72.9
-"PG","Papua New Guinea",2008,68.5
-"PG","Papua New Guinea",2010,63.78
-"PG","Papua New Guinea",2011,59.57
-"PG","Papua New Guinea",2012,57.01
-"PG","Papua New Guinea",2013,55.3
-"PY","Paraguay",1981,7.74
-"PY","Paraguay",1984,7.03
-"PY","Paraguay",1987,5.26
-"PY","Paraguay",1990,4.22
-"PY","Paraguay",1993,15.21
-"PY","Paraguay",1996,20.94
-"PY","Paraguay",1999,19.33
-"PY","Paraguay",2002,26.17
-"PY","Paraguay",2005,16.08
-"PY","Paraguay",2008,14.1
-"PY","Paraguay",2010,13.45
-"PY","Paraguay",2011,12.14
-"PY","Paraguay",2012,9.66
-"PY","Paraguay",2013,6.3
-"PE","Peru",1981,32.8
-"PE","Peru",1984,39.45
-"PE","Peru",1987,28.49
-"PE","Peru",1990,41.2
-"PE","Peru",1993,36.84
-"PE","Peru",1996,32.54
-"PE","Peru",1999,31.01
-"PE","Peru",2002,29.43
-"PE","Peru",2005,27.37
-"PE","Peru",2008,17.46
-"PE","Peru",2010,13.01
-"PE","Peru",2011,11.69
-"PE","Peru",2012,10.79
-"PE","Peru",2013,9.7
-"PH","Philippines",1981,51.3
-"PH","Philippines",1984,53.58
-"PH","Philippines",1987,55.18
-"PH","Philippines",1990,51.55
-"PH","Philippines",1993,50.89
-"PH","Philippines",1996,45.19
-"PH","Philippines",1999,43.12
-"PH","Philippines",2002,41.06
-"PH","Philippines",2005,40.45
-"PH","Philippines",2008,37.41
-"PH","Philippines",2010,37.71
-"PH","Philippines",2011,37.89
-"PH","Philippines",2012,37.61
-"PH","Philippines",2013,35.55
-"PL","Poland",1981,0.76
-"PL","Poland",1984,0.45
-"PL","Poland",1987,0.32
-"PL","Poland",1990,1.13
-"PL","Poland",1993,2.63
-"PL","Poland",1996,18.38
-"PL","Poland",1999,0.87
-"PL","Poland",2002,1.43
-"PL","Poland",2005,1.37
-"PL","Poland",2008,0.38
-"PL","Poland",2010,0.32
-"PL","Poland",2011,0.35
-"PL","Poland",2012,0.26
-"PL","Poland",2013,0.26
-"RO","Romania",1981,0.2
-"RO","Romania",1984,0.27
-"RO","Romania",1987,0.43
-"RO","Romania",1990,1.01
-"RO","Romania",1993,22.6
-"RO","Romania",1996,30.01
-"RO","Romania",1999,26.42
-"RO","Romania",2002,22.24
-"RO","Romania",2005,11.83
-"RO","Romania",2008,5.01
-"RO","Romania",2010,4.77
-"RO","Romania",2011,4.46
-"RO","Romania",2012,4.08
-"RO","Romania",2013,4.05
-"RU","Russian Federation",1981,2.67
-"RU","Russian Federation",1984,5.36
-"RU","Russian Federation",1987,10.12
-"RU","Russian Federation",1990,17.36
-"RU","Russian Federation",1993,10.11
-"RU","Russian Federation",1996,10.73
-"RU","Russian Federation",1999,12.38
-"RU","Russian Federation",2002,4.25
-"RU","Russian Federation",2005,3.21
-"RU","Russian Federation",2008,0.44
-"RU","Russian Federation",2010,0.85
-"RU","Russian Federation",2011,0.56
-"RU","Russian Federation",2012,0.48
-"RU","Russian Federation",2013,0.39
-"RW","Rwanda",1981,86.41
-"RW","Rwanda",1984,88.64
-"RW","Rwanda",1987,89.31
-"RW","Rwanda",1990,90.02
-"RW","Rwanda",1993,88.29
-"RW","Rwanda",1996,92.05
-"RW","Rwanda",1999,90.55
-"RW","Rwanda",2002,87.42
-"RW","Rwanda",2005,85.33
-"RW","Rwanda",2008,82.35
-"RW","Rwanda",2010,81.33
-"RW","Rwanda",2011,80.56
-"RW","Rwanda",2012,80.07
-"RW","Rwanda",2013,80.65
-"LC","Saint Lucia",1981,87.01
-"LC","Saint Lucia",1984,84.15
-"LC","Saint Lucia",1987,82.62
-"LC","Saint Lucia",1990,67.2
-"LC","Saint Lucia",1993,62.98
-"LC","Saint Lucia",1996,59.63
-"LC","Saint Lucia",1999,56.97
-"LC","Saint Lucia",2002,58.16
-"LC","Saint Lucia",2005,53.45
-"LC","Saint Lucia",2008,49.65
-"LC","Saint Lucia",2010,52.31
-"LC","Saint Lucia",2011,52.5
-"LC","Saint Lucia",2012,53.58
-"LC","Saint Lucia",2013,53.93
-"WS","Samoa",1981,32.94
-"WS","Samoa",1984,32.77
-"WS","Samoa",1987,28.52
-"WS","Samoa",1990,30.48
-"WS","Samoa",1993,30.85
-"WS","Samoa",1996,26.78
-"WS","Samoa",1999,25.11
-"WS","Samoa",2002,15.45
-"WS","Samoa",2005,10.71
-"WS","Samoa",2008,8.35
-"WS","Samoa",2010,10.28
-"WS","Samoa",2011,8.7
-"WS","Samoa",2012,8.7
-"WS","Samoa",2013,9.62
-"ST","Sao Tome & Principe",1981,74.4
-"ST","Sao Tome & Principe",1984,73.07
-"ST","Sao Tome & Principe",1987,71.4
-"ST","Sao Tome & Principe",1990,69.27
-"ST","Sao Tome & Principe",1993,67.39
-"ST","Sao Tome & Principe",1996,65.63
-"ST","Sao Tome & Principe",1999,63.19
-"ST","Sao Tome & Principe",2002,64.96
-"ST","Sao Tome & Principe",2005,65.93
-"ST","Sao Tome & Principe",2008,65.39
-"ST","Sao Tome & Principe",2010,68.1
-"ST","Sao Tome & Principe",2011,66.22
-"ST","Sao Tome & Principe",2012,64.58
-"ST","Sao Tome & Principe",2013,63.32
-"SN","Senegal",1981,81.84
-"SN","Senegal",1984,82.63
-"SN","Senegal",1987,81.82
-"SN","Senegal",1990,83.56
-"SN","Senegal",1993,82.72
-"SN","Senegal",1996,81.33
-"SN","Senegal",1999,77.13
-"SN","Senegal",2002,75.18
-"SN","Senegal",2005,67.29
-"SN","Senegal",2008,65.5
-"SN","Senegal",2010,65.48
-"SN","Senegal",2011,66.42
-"SN","Senegal",2012,65.78
-"SN","Senegal",2013,65.4
-"RS","Serbia",1981,18.87
-"RS","Serbia",1984,14.07
-"RS","Serbia",1987,10.22
-"RS","Serbia",1990,6.92
-"RS","Serbia",1993,4.78
-"RS","Serbia",1996,3.3
-"RS","Serbia",1999,2.99
-"RS","Serbia",2002,1.28
-"RS","Serbia",2005,3.99
-"RS","Serbia",2008,0.79
-"RS","Serbia",2010,1.65
-"RS","Serbia",2011,1.45
-"RS","Serbia",2012,1.42
-"RS","Serbia",2013,1.33
-"SC","Seychelles",1981,9.25
-"SC","Seychelles",1984,9.37
-"SC","Seychelles",1987,6.95
-"SC","Seychelles",1990,4.34
-"SC","Seychelles",1993,3.15
-"SC","Seychelles",1996,3.49
-"SC","Seychelles",1999,2.37
-"SC","Seychelles",2002,2.45
-"SC","Seychelles",2005,2.33
-"SC","Seychelles",2008,0.97
-"SC","Seychelles",2010,3.61
-"SC","Seychelles",2011,3.21
-"SC","Seychelles",2012,2.57
-"SC","Seychelles",2013,2.46
-"SL","Sierra Leone",1981,73.98
-"SL","Sierra Leone",1984,74.04
-"SL","Sierra Leone",1987,75.6
-"SL","Sierra Leone",1990,78.14
-"SL","Sierra Leone",1993,82.01
-"SL","Sierra Leone",1996,83.45
-"SL","Sierra Leone",1999,85.73
-"SL","Sierra Leone",2002,82.19
-"SL","Sierra Leone",2005,80.73
-"SL","Sierra Leone",2008,80.38
-"SL","Sierra Leone",2010,80.07
-"SL","Sierra Leone",2011,79.96
-"SL","Sierra Leone",2012,74.18
-"SL","Sierra Leone",2013,65.69
-"SK","Slovak Republic",1981,0
-"SK","Slovak Republic",1984,0
-"SK","Slovak Republic",1987,0
-"SK","Slovak Republic",1990,0
-"SK","Slovak Republic",1993,0.65
-"SK","Slovak Republic",1996,1.95
-"SK","Slovak Republic",1999,1.51
-"SK","Slovak Republic",2002,1.07
-"SK","Slovak Republic",2005,0.2
-"SK","Slovak Republic",2008,0
-"SK","Slovak Republic",2010,0.51
-"SK","Slovak Republic",2011,0.53
-"SK","Slovak Republic",2012,0.42
-"SK","Slovak Republic",2013,0.42
-"SI","Slovenia",1981,0.09
-"SI","Slovenia",1984,0.07
-"SI","Slovenia",1987,0.06
-"SI","Slovenia",1990,0.07
-"SI","Slovenia",1993,0.1
-"SI","Slovenia",1996,0.13
-"SI","Slovenia",1999,0.08
-"SI","Slovenia",2002,0.13
-"SI","Slovenia",2005,0.18
-"SI","Slovenia",2008,0.01
-"SI","Slovenia",2010,0.01
-"SI","Slovenia",2011,0.01
-"SI","Slovenia",2012,0.05
-"SI","Slovenia",2013,0.05
-"SB","Solomon Islands",1990,64.84
-"SB","Solomon Islands",1993,58.65
-"SB","Solomon Islands",1996,54.21
-"SB","Solomon Islands",1999,58.04
-"SB","Solomon Islands",2002,73.18
-"SB","Solomon Islands",2005,69.26
-"SB","Solomon Islands",2008,64
-"SB","Solomon Islands",2010,64.94
-"SB","Solomon Islands",2011,60.23
-"SB","Solomon Islands",2012,58.82
-"SB","Solomon Islands",2013,58.65
-"ZA","South Africa",1981,39.49
-"ZA","South Africa",1984,41.25
-"ZA","South Africa",1987,43.63
-"ZA","South Africa",1990,43.81
-"ZA","South Africa",1993,46.67
-"ZA","South Africa",1996,52.86
-"ZA","South Africa",1999,51.69
-"ZA","South Africa",2002,50.39
-"ZA","South Africa",2005,48.71
-"ZA","South Africa",2008,37.24
-"ZA","South Africa",2010,35.66
-"ZA","South Africa",2011,34.68
-"ZA","South Africa",2012,34.45
-"ZA","South Africa",2013,34.24
-"SS","South Sudan",1981,73.64
-"SS","South Sudan",1984,72.52
-"SS","South Sudan",1987,71.43
-"SS","South Sudan",1990,69.95
-"SS","South Sudan",1993,68.82
-"SS","South Sudan",1996,67.91
-"SS","South Sudan",1999,66.76
-"SS","South Sudan",2002,65.42
-"SS","South Sudan",2005,64.29
-"SS","South Sudan",2008,63.11
-"SS","South Sudan",2010,63.08
-"SS","South Sudan",2011,67.05
-"SS","South Sudan",2012,89.11
-"SS","South Sudan",2013,87.21
-"LK","Sri Lanka",1981,52.21
-"LK","Sri Lanka",1984,45.58
-"LK","Sri Lanka",1987,42.74
-"LK","Sri Lanka",1990,40.88
-"LK","Sri Lanka",1993,39.44
-"LK","Sri Lanka",1996,38.6
-"LK","Sri Lanka",1999,35.06
-"LK","Sri Lanka",2002,33.9
-"LK","Sri Lanka",2005,26.25
-"LK","Sri Lanka",2008,18.84
-"LK","Sri Lanka",2010,16.37
-"LK","Sri Lanka",2011,15.79
-"LK","Sri Lanka",2012,14.36
-"LK","Sri Lanka",2013,14.09
-"SD","Sudan",1981,70.35
-"SD","Sudan",1984,74.19
-"SD","Sudan",1987,71.93
-"SD","Sudan",1990,75.17
-"SD","Sudan",1993,70.54
-"SD","Sudan",1996,68.7
-"SD","Sudan",1999,63.8
-"SD","Sudan",2002,57.62
-"SD","Sudan",2005,51.46
-"SD","Sudan",2008,39.13
-"SD","Sudan",2010,38.43
-"SD","Sudan",2011,34.12
-"SD","Sudan",2012,29.29
-"SD","Sudan",2013,28.61
-"SR","Suriname",1981,29.92
-"SR","Suriname",1984,32.66
-"SR","Suriname",1987,42.8
+"AZ","Azerbaijan",2008,0
+"AZ","Azerbaijan",2010,0
+"AZ","Azerbaijan",2011,0
+"AZ","Azerbaijan",2012,0
+"AZ","Azerbaijan",2013,0
+"BD","Bangladesh",1981,75.482
+"BD","Bangladesh",1984,75.6703
+"BD","Bangladesh",1987,76.701
+"BD","Bangladesh",1990,80.7519
+"BD","Bangladesh",1993,78.4969
+"BD","Bangladesh",1996,75.7951
+"BD","Bangladesh",1999,74.6548
+"BD","Bangladesh",2002,72.0403
+"BD","Bangladesh",2005,66.3184
+"BD","Bangladesh",2008,62.1576
+"BD","Bangladesh",2010,60.3847
+"BD","Bangladesh",2011,58.835
+"BD","Bangladesh",2012,57.7459
+"BD","Bangladesh",2013,56.4215
+"BY","Belarus",1981,0.996145
+"BY","Belarus",1984,0.567749
+"BY","Belarus",1987,0.58125
+"BY","Belarus",1990,0.883927
+"BY","Belarus",1993,3.39325
+"BY","Belarus",1996,2.42658
+"BY","Belarus",1999,34.4556
+"BY","Belarus",2002,10.9513
+"BY","Belarus",2005,2.53892
+"BY","Belarus",2008,0.517929
+"BY","Belarus",2010,0.172133
+"BY","Belarus",2011,0.0546813
+"BY","Belarus",2012,0.081205
+"BY","Belarus",2013,0.0224735
+"BE","Belgium",1981,0.49625
+"BE","Belgium",1984,0.49625
+"BE","Belgium",1987,0.49625
+"BE","Belgium",1990,0.49625
+"BE","Belgium",1993,0.49625
+"BE","Belgium",1996,0.49625
+"BE","Belgium",1999,0.49625
+"BE","Belgium",2002,0.49625
+"BE","Belgium",2005,0.231347
+"BE","Belgium",2008,0.249292
+"BE","Belgium",2010,0.216745
+"BE","Belgium",2011,0.236752
+"BE","Belgium",2012,0.243216
+"BE","Belgium",2013,0.247349
+"BZ","Belize",1981,32.9406
+"BZ","Belize",1984,44.1212
+"BZ","Belize",1987,41.6946
+"BZ","Belize",1990,31.498
+"BZ","Belize",1993,24.7407
+"BZ","Belize",1996,30.126
+"BZ","Belize",1999,28.4197
+"BZ","Belize",2002,22.7214
+"BZ","Belize",2005,25.9064
+"BZ","Belize",2008,29.3825
+"BZ","Belize",2010,27.7009
+"BZ","Belize",2011,25.9645
+"BZ","Belize",2012,25.9645
+"BZ","Belize",2013,24.5083
+"BJ","Benin",1981,82.9744
+"BJ","Benin",1984,84.1928
+"BJ","Benin",1987,84.5883
+"BJ","Benin",1990,84.6832
+"BJ","Benin",1993,83.7002
+"BJ","Benin",1996,82.808
+"BJ","Benin",1999,80.7763
+"BJ","Benin",2002,78.4406
+"BJ","Benin",2005,78.2331
+"BJ","Benin",2008,76.3475
+"BJ","Benin",2010,76.8965
+"BJ","Benin",2011,76.8665
+"BJ","Benin",2012,76.6142
+"BJ","Benin",2013,76.4768
+"BT","Bhutan",1981,94.3716
+"BT","Bhutan",1984,93.3439
+"BT","Bhutan",1987,88.3856
+"BT","Bhutan",1990,84.5904
+"BT","Bhutan",1993,81.963
+"BT","Bhutan",1996,76.2131
+"BT","Bhutan",1999,71.3629
+"BT","Bhutan",2002,67.795
+"BT","Bhutan",2005,42.8432
+"BT","Bhutan",2008,32.931
+"BT","Bhutan",2010,20.5927
+"BT","Bhutan",2011,15.9845
+"BT","Bhutan",2012,14.5209
+"BT","Bhutan",2013,3.07085
+"BO","Bolivia",1981,20.4804
+"BO","Bolivia",1984,26.6361
+"BO","Bolivia",1987,24.2072
+"BO","Bolivia",1990,24.1675
+"BO","Bolivia",1993,26.9395
+"BO","Bolivia",1996,32.1576
+"BO","Bolivia",1999,38.1619
+"BO","Bolivia",2002,38.5647
+"BO","Bolivia",2005,32.062
+"BO","Bolivia",2008,20.3115
+"BO","Bolivia",2010,16.339
+"BO","Bolivia",2011,14.0972
+"BO","Bolivia",2012,14.6803
+"BO","Bolivia",2013,12.2273
+"BA","Bosnia & Herzegovina",1984,18.5126
+"BA","Bosnia & Herzegovina",1987,16.6769
+"BA","Bosnia & Herzegovina",1990,34.8478
+"BA","Bosnia & Herzegovina",1993,65.4006
+"BA","Bosnia & Herzegovina",1996,13.0481
+"BA","Bosnia & Herzegovina",1999,1.60227
+"BA","Bosnia & Herzegovina",2002,1.02194
+"BA","Bosnia & Herzegovina",2005,0.587826
+"BA","Bosnia & Herzegovina",2008,0.485793
+"BA","Bosnia & Herzegovina",2010,0.703283
+"BA","Bosnia & Herzegovina",2011,0.796682
+"BA","Bosnia & Herzegovina",2012,0.807826
+"BA","Bosnia & Herzegovina",2013,0.810593
+"BW","Botswana",1981,73.8856
+"BW","Botswana",1984,66.1875
+"BW","Botswana",1987,61.6286
+"BW","Botswana",1990,54.6482
+"BW","Botswana",1993,55.8019
+"BW","Botswana",1996,52.9192
+"BW","Botswana",1999,49.2761
+"BW","Botswana",2002,50.6972
+"BW","Botswana",2005,45.3917
+"BW","Botswana",2008,35.308
+"BW","Botswana",2010,35.2925
+"BW","Botswana",2011,33.4823
+"BW","Botswana",2012,32.6259
+"BW","Botswana",2013,28.5512
+"BR","Brazil",1981,39.1959
+"BR","Brazil",1984,46.5911
+"BR","Brazil",1987,33.135
+"BR","Brazil",1990,38.4678
+"BR","Brazil",1993,36.3945
+"BR","Brazil",1996,27.3114
+"BR","Brazil",1999,27.3134
+"BR","Brazil",2002,22.4096
+"BR","Brazil",2005,19.6968
+"BR","Brazil",2008,13.4924
+"BR","Brazil",2010,11.2126
+"BR","Brazil",2011,10.2738
+"BR","Brazil",2012,8.68286
+"BR","Brazil",2013,8.22849
+"BG","Bulgaria",1981,0.12918
+"BG","Bulgaria",1984,0.104227
+"BG","Bulgaria",1987,0.0924591
+"BG","Bulgaria",1990,0.123419
+"BG","Bulgaria",1993,0.424938
+"BG","Bulgaria",1996,2.26223
+"BG","Bulgaria",1999,8.05552
+"BG","Bulgaria",2002,5.64722
+"BG","Bulgaria",2005,3.42162
+"BG","Bulgaria",2008,3.21732
+"BG","Bulgaria",2010,4.22953
+"BG","Bulgaria",2011,4.97697
+"BG","Bulgaria",2012,4.99031
+"BG","Bulgaria",2013,4.74991
+"BF","Burkina Faso",1981,93.9806
+"BF","Burkina Faso",1984,93.9806
+"BF","Burkina Faso",1987,93.0764
+"BF","Burkina Faso",1990,93.2025
+"BF","Burkina Faso",1993,92.7459
+"BF","Burkina Faso",1996,91.9377
+"BF","Burkina Faso",1999,88.8931
+"BF","Burkina Faso",2002,84.5593
+"BF","Burkina Faso",2005,80.7359
+"BF","Burkina Faso",2008,80.3631
+"BF","Burkina Faso",2010,80.903
+"BF","Burkina Faso",2011,79.4659
+"BF","Burkina Faso",2012,77.9942
+"BF","Burkina Faso",2013,76.9434
+"BI","Burundi",1981,95.8905
+"BI","Burundi",1984,96.4203
+"BI","Burundi",1987,95.2112
+"BI","Burundi",1990,95.0242
+"BI","Burundi",1993,95.0804
+"BI","Burundi",1996,95.522
+"BI","Burundi",1999,95.1534
+"BI","Burundi",2002,93.9329
+"BI","Burundi",2005,93.5102
+"BI","Burundi",2008,91.477
+"BI","Burundi",2010,91.0993
+"BI","Burundi",2011,90.6834
+"BI","Burundi",2012,90.3059
+"BI","Burundi",2013,89.4988
+"CM","Cameroon",1981,58.596
+"CM","Cameroon",1984,51.7856
+"CM","Cameroon",1987,50.3659
+"CM","Cameroon",1990,64.5053
+"CM","Cameroon",1993,73.8602
+"CM","Cameroon",1996,73.3409
+"CM","Cameroon",1999,60.3535
+"CM","Cameroon",2002,53.06
+"CM","Cameroon",2005,54.4454
+"CM","Cameroon",2008,54.8542
+"CM","Cameroon",2010,55.0221
+"CM","Cameroon",2011,53.3294
+"CM","Cameroon",2012,51.3069
+"CM","Cameroon",2013,48.0534
+"CA","Canada",1981,0.670993
+"CA","Canada",1984,0.503983
+"CA","Canada",1987,0.336973
+"CA","Canada",1990,0.345972
+"CA","Canada",1993,0.338986
+"CA","Canada",1996,0.556002
+"CA","Canada",1999,0.504007
+"CA","Canada",2002,0.335492
+"CA","Canada",2005,0.334659
+"CA","Canada",2008,0.340007
+"CA","Canada",2010,0.352028
+"CA","Canada",2011,0.46035
+"CA","Canada",2012,0.568672
+"CA","Canada",2013,0.676993
+"CV","Cape Verde",1981,83.5458
+"CV","Cape Verde",1984,80.9833
+"CV","Cape Verde",1987,77.8449
+"CV","Cape Verde",1990,75.7909
+"CV","Cape Verde",1993,71.0094
+"CV","Cape Verde",1996,56.0608
+"CV","Cape Verde",1999,44.2058
+"CV","Cape Verde",2002,37.005
+"CV","Cape Verde",2005,31.8704
+"CV","Cape Verde",2008,25.0366
+"CV","Cape Verde",2010,25.7375
+"CV","Cape Verde",2011,24.564
+"CV","Cape Verde",2012,24.6074
+"CV","Cape Verde",2013,24.7702
+"CF","CAR",1981,89.0971
+"CF","CAR",1984,89.2324
+"CF","CAR",1987,89.9312
+"CF","CAR",1990,90.6189
+"CF","CAR",1993,92.0233
+"CF","CAR",1996,89.8444
+"CF","CAR",1999,85.9739
+"CF","CAR",2002,83.5376
+"CF","CAR",2005,84.0409
+"CF","CAR",2008,83.0797
+"CF","CAR",2010,82.4367
+"CF","CAR",2011,81.8981
+"CF","CAR",2012,81.1107
+"CF","CAR",2013,90.3982
+"TD","Chad",1981,93.5709
+"TD","Chad",1984,90.922
+"TD","Chad",1987,89.9182
+"TD","Chad",1990,88.7327
+"TD","Chad",1993,91.1701
+"TD","Chad",1996,90.461
+"TD","Chad",1999,90.2185
+"TD","Chad",2002,88.6403
+"TD","Chad",2005,67.7454
+"TD","Chad",2008,69.6477
+"TD","Chad",2010,65.0874
+"TD","Chad",2011,66.5311
+"TD","Chad",2012,63.9872
+"TD","Chad",2013,62.8445
+"CL","Chile",1981,21.0691
+"CL","Chile",1984,30.8776
+"CL","Chile",1987,28.3745
+"CL","Chile",1990,22.2472
+"CL","Chile",1993,15.9386
+"CL","Chile",1996,12.1895
+"CL","Chile",1999,12.2157
+"CL","Chile",2002,12.0673
+"CL","Chile",2005,8.5048
+"CL","Chile",2008,6.25693
+"CL","Chile",2010,5.51043
+"CL","Chile",2011,4.69227
+"CL","Chile",2012,3.45097
+"CL","Chile",2013,2.59452
+"CN","China",1981,99.3592
+"CN","China",1984,96.4167
+"CN","China",1987,90.319
+"CN","China",1990,90.1291
+"CN","China",1993,83.5262
+"CN","China",1996,73.1342
+"CN","China",1999,68.5485
+"CN","China",2002,57.9289
+"CN","China",2008,34.4103
+"CN","China",2010,28.5352
+"CN","China",2011,23.4837
+"CN","China",2012,20.1538
+"CN","China",2013,12.0892
+"CO","Colombia",1981,23.7812
+"CO","Colombia",1984,26.3032
+"CO","Colombia",1987,23.6941
+"CO","Colombia",1990,23.0507
+"CO","Colombia",1993,22.8712
+"CO","Colombia",1996,32.1176
+"CO","Colombia",1999,36.0469
+"CO","Colombia",2002,30.2742
+"CO","Colombia",2005,23.3815
+"CO","Colombia",2008,22.5522
+"CO","Colombia",2010,18.3956
+"CO","Colombia",2011,16.3187
+"CO","Colombia",2012,15.6458
+"CO","Colombia",2013,14.2618
+"KM","Comoros",1981,29.6457
+"KM","Comoros",1984,26.6885
+"KM","Comoros",1987,27.8142
+"KM","Comoros",1990,30.1478
+"KM","Comoros",1993,31.4923
+"KM","Comoros",1996,37.0408
+"KM","Comoros",1999,37.4109
+"KM","Comoros",2002,33.4889
+"KM","Comoros",2005,33.9289
+"KM","Comoros",2008,36.3539
+"KM","Comoros",2010,37.3177
+"KM","Comoros",2011,37.5271
+"KM","Comoros",2012,37.689
+"KM","Comoros",2013,37.5359
+"CG","Congo",1981,73.1425
+"CG","Congo",1984,63.0851
+"CG","Congo",1987,69.7426
+"CG","Congo",1990,70.9924
+"CG","Congo",1993,72.5646
+"CG","Congo",1996,74.6399
+"CG","Congo",1999,77.8521
+"CG","Congo",2002,74.8818
+"CG","Congo",2005,74.1686
+"CG","Congo",2008,70.0069
+"CG","Congo",2010,62.3986
+"CG","Congo",2011,61.2645
+"CG","Congo",2012,60.8151
+"CG","Congo",2013,60.3489
+"CR","Costa Rica",1981,42.4377
+"CR","Costa Rica",1984,33.0986
+"CR","Costa Rica",1987,25.7488
+"CR","Costa Rica",1990,19.2984
+"CR","Costa Rica",1993,16.1185
+"CR","Costa Rica",1996,16.7106
+"CR","Costa Rica",1999,13.0577
+"CR","Costa Rica",2002,9.7897
+"CR","Costa Rica",2005,7.70805
+"CR","Costa Rica",2008,5.19318
+"CR","Costa Rica",2010,4.0228
+"CR","Costa Rica",2011,4.27085
+"CR","Costa Rica",2012,4.21723
+"CR","Costa Rica",2013,3.97489
+"CI","Côte d'Ivoire",1981,13.9565
+"CI","Côte d'Ivoire",1984,19.332
+"CI","Côte d'Ivoire",1987,25.0858
+"CI","Côte d'Ivoire",1990,39.8949
+"CI","Côte d'Ivoire",1993,50.558
+"CI","Côte d'Ivoire",1996,52.1132
+"CI","Côte d'Ivoire",1999,54.9739
+"CI","Côte d'Ivoire",2002,56.5161
+"CI","Côte d'Ivoire",2005,57.6292
+"CI","Côte d'Ivoire",2008,57.1015
+"CI","Côte d'Ivoire",2010,59.7453
+"CI","Côte d'Ivoire",2011,64.826
+"CI","Côte d'Ivoire",2012,62.3062
+"CI","Côte d'Ivoire",2013,60.6603
+"HR","Croatia",1981,0.0965051
+"HR","Croatia",1984,0.10424
+"HR","Croatia",1987,0.0964856
+"HR","Croatia",1990,0.251929
+"HR","Croatia",1993,0.855091
+"HR","Croatia",1996,1.29866
+"HR","Croatia",1999,0.54529
+"HR","Croatia",2002,0.189704
+"HR","Croatia",2005,0.152599
+"HR","Croatia",2008,0.124757
+"HR","Croatia",2010,0.0507931
+"HR","Croatia",2011,1.9898
+"HR","Croatia",2012,2.46378
+"HR","Croatia",2013,2.24887
+"CY","Cyprus",1981,0.493173
+"CY","Cyprus",1984,0.245074
+"CY","Cyprus",1987,0.245074
+"CY","Cyprus",1990,0.245074
+"CY","Cyprus",1993,0.245074
+"CY","Cyprus",1996,0.245074
+"CY","Cyprus",1999,0.245074
+"CY","Cyprus",2002,0.245074
+"CY","Cyprus",2005,0
+"CY","Cyprus",2008,0
+"CY","Cyprus",2010,0
+"CY","Cyprus",2011,0
+"CY","Cyprus",2012,0
+"CY","Cyprus",2013,0.245254
+"CZ","Czech Republic",1981,0.0378966
+"CZ","Czech Republic",1984,0.0354029
+"CZ","Czech Republic",1987,0.0285565
+"CZ","Czech Republic",1990,0.025452
+"CZ","Czech Republic",1993,0.0370469
+"CZ","Czech Republic",1996,0.268026
+"CZ","Czech Republic",1999,0.238691
+"CZ","Czech Republic",2002,0.0587872
+"CZ","Czech Republic",2005,0
+"CZ","Czech Republic",2008,0.234496
+"CZ","Czech Republic",2010,0.238663
+"CZ","Czech Republic",2011,0.213777
+"CZ","Czech Republic",2012,0.16173
+"CZ","Czech Republic",2013,0
+"DK","Denmark",1981,0.470111
+"DK","Denmark",1984,0.470111
+"DK","Denmark",1987,0.470111
+"DK","Denmark",1990,0.470111
+"DK","Denmark",1993,0.470111
+"DK","Denmark",1996,0.470111
+"DK","Denmark",1999,0.470111
+"DK","Denmark",2002,0.470111
+"DK","Denmark",2005,0.224512
+"DK","Denmark",2008,0.249189
+"DK","Denmark",2010,0
+"DK","Denmark",2011,0
+"DK","Denmark",2012,0
+"DK","Denmark",2013,0.439393
+"DJ","Djibouti",1990,27.4454
+"DJ","Djibouti",1993,35.8226
+"DJ","Djibouti",1996,43.1508
+"DJ","Djibouti",1999,47.0466
+"DJ","Djibouti",2002,47.8238
+"DJ","Djibouti",2005,46.51
+"DJ","Djibouti",2008,42.2924
+"DJ","Djibouti",2010,40.8732
+"DJ","Djibouti",2011,39.6327
+"DJ","Djibouti",2012,38.7375
+"DJ","Djibouti",2013,44.603
+"DO","Dominican Republic",1981,13.619
+"DO","Dominican Republic",1984,13.0631
+"DO","Dominican Republic",1987,19.1114
+"DO","Dominican Republic",1990,31.0249
+"DO","Dominican Republic",1993,16.2291
+"DO","Dominican Republic",1996,13.4315
+"DO","Dominican Republic",1999,12.6858
+"DO","Dominican Republic",2002,14.5805
+"DO","Dominican Republic",2005,16.7886
+"DO","Dominican Republic",2008,14.1217
+"DO","Dominican Republic",2010,12.4257
+"DO","Dominican Republic",2011,10.4404
+"DO","Dominican Republic",2012,11.5373
+"DO","Dominican Republic",2013,10.4949
+"CD","DRC",1981,83.4421
+"CD","DRC",1984,83.7376
+"CD","DRC",1987,83.8133
+"CD","DRC",1990,88.3787
+"CD","DRC",1993,95.6305
+"CD","DRC",1996,96.758
+"CD","DRC",1999,98.1622
+"CD","DRC",2002,98.832
+"CD","DRC",2005,98.3986
+"CD","DRC",2008,96.4035
+"CD","DRC",2010,95.3905
+"CD","DRC",2011,94.2328
+"CD","DRC",2012,92.4732
+"CD","DRC",2013,90.7435
+"EC","Ecuador",1981,31.2157
+"EC","Ecuador",1984,33.498
+"EC","Ecuador",1987,32.4348
+"EC","Ecuador",1990,34.7644
+"EC","Ecuador",1993,35.3222
+"EC","Ecuador",1996,37.6277
+"EC","Ecuador",1999,40.2393
+"EC","Ecuador",2002,32.6266
+"EC","Ecuador",2005,25.6664
+"EC","Ecuador",2008,18.1478
+"EC","Ecuador",2010,14.7355
+"EC","Ecuador",2011,12.1969
+"EC","Ecuador",2012,11.4401
+"EC","Ecuador",2013,10.0522
+"EG","Egypt",1981,52.3995
+"EG","Egypt",1984,47.1934
+"EG","Egypt",1987,44.132
+"EG","Egypt",1990,38.78
+"EG","Egypt",1993,39.3013
+"EG","Egypt",1996,37.5679
+"EG","Egypt",1999,28.1946
+"EG","Egypt",2002,27.7908
+"EG","Egypt",2005,32.3561
+"EG","Egypt",2008,30.8069
+"EG","Egypt",2010,27.5915
+"EG","Egypt",2011,25.5339
+"EG","Egypt",2012,23.431
+"EG","Egypt",2013,21.6142
+"SV","El Salvador",1981,27.5233
+"SV","El Salvador",1984,30.4583
+"SV","El Salvador",1987,31.1204
+"SV","El Salvador",1990,30.9391
+"SV","El Salvador",1993,32.3711
+"SV","El Salvador",1996,28.8965
+"SV","El Salvador",1999,28.7475
+"SV","El Salvador",2002,25.8754
+"SV","El Salvador",2005,22.8438
+"SV","El Salvador",2008,19.5563
+"SV","El Salvador",2010,17.9443
+"SV","El Salvador",2011,16.1967
+"SV","El Salvador",2012,14.4036
+"SV","El Salvador",2013,12.3547
+"EE","Estonia",1981,3.01844
+"EE","Estonia",1984,2.40024
+"EE","Estonia",1987,2.46925
+"EE","Estonia",1990,2.0667
+"EE","Estonia",1993,6.36316
+"EE","Estonia",1996,4.80231
+"EE","Estonia",1999,5.03701
+"EE","Estonia",2002,5.33569
+"EE","Estonia",2005,1.9995
+"EE","Estonia",2008,0.973951
+"EE","Estonia",2010,1.68341
+"EE","Estonia",2011,1.72538
+"EE","Estonia",2012,1.487
+"EE","Estonia",2013,1.49919
+"ET","Ethiopia",1981,81.5141
+"ET","Ethiopia",1984,82.5449
+"ET","Ethiopia",1987,82.2142
+"ET","Ethiopia",1990,84.7361
+"ET","Ethiopia",1993,89.0671
+"ET","Ethiopia",1996,86.193
+"ET","Ethiopia",1999,88.5309
+"ET","Ethiopia",2002,85.2207
+"ET","Ethiopia",2005,77.5963
+"ET","Ethiopia",2008,75.2082
+"ET","Ethiopia",2010,73.568
+"ET","Ethiopia",2011,71.8126
+"ET","Ethiopia",2012,69.9047
+"ET","Ethiopia",2013,67.1578
+"FJ","Fiji",1981,28.8077
+"FJ","Fiji",1984,34.2828
+"FJ","Fiji",1987,38.096
+"FJ","Fiji",1990,31.2525
+"FJ","Fiji",1993,30.1539
+"FJ","Fiji",1996,25.6275
+"FJ","Fiji",1999,23.1535
+"FJ","Fiji",2002,21.9795
+"FJ","Fiji",2005,17.9255
+"FJ","Fiji",2008,16.6322
+"FJ","Fiji",2010,16.9371
+"FJ","Fiji",2011,16.3425
+"FJ","Fiji",2012,16.2099
+"FJ","Fiji",2013,14.7824
+"FI","Finland",1981,0.24938
+"FI","Finland",1984,0.24938
+"FI","Finland",1987,0.24938
+"FI","Finland",1990,0.24938
+"FI","Finland",1993,0.24938
+"FI","Finland",1996,0.24938
+"FI","Finland",1999,0.24938
+"FI","Finland",2002,0
+"FI","Finland",2005,0
+"FI","Finland",2008,0
+"FI","Finland",2010,0
+"FI","Finland",2011,0
+"FI","Finland",2012,0
+"FI","Finland",2013,0
+"FR","France",1981,0.247537
+"FR","France",1984,0.247537
+"FR","France",1987,0.247537
+"FR","France",1990,0.247537
+"FR","France",1993,0.247537
+"FR","France",1996,0.247537
+"FR","France",1999,0.247537
+"FR","France",2002,0.247537
+"FR","France",2005,0
+"FR","France",2008,0
+"FR","France",2010,0.249281
+"FR","France",2011,0
+"FR","France",2012,0
+"FR","France",2013,0
+"GA","Gabon",1981,15.3296
+"GA","Gabon",1984,14.6468
+"GA","Gabon",1987,26.9973
+"GA","Gabon",1990,19.1997
+"GA","Gabon",1993,19.8797
+"GA","Gabon",1996,18.0122
+"GA","Gabon",1999,21.1813
+"GA","Gabon",2002,24.6518
+"GA","Gabon",2005,25.8198
+"GA","Gabon",2008,30.607
+"GA","Gabon",2010,30.3858
+"GA","Gabon",2011,28.7617
+"GA","Gabon",2012,27.8087
+"GA","Gabon",2013,26.4905
+"GM","Gambia",1981,84.1626
+"GM","Gambia",1984,84.0531
+"GM","Gambia",1987,86.1394
+"GM","Gambia",1990,85.9524
+"GM","Gambia",1993,86.0332
+"GM","Gambia",1996,87.1221
+"GM","Gambia",1999,78.451
+"GM","Gambia",2002,82.5895
+"GM","Gambia",2005,66.9584
+"GM","Gambia",2008,60.7501
+"GM","Gambia",2010,52.7114
+"GM","Gambia",2011,54.542
+"GM","Gambia",2012,49.1926
+"GM","Gambia",2013,44.7032
+"GE","Georgia",1981,0
+"GE","Georgia",1984,0
+"GE","Georgia",1987,0
+"GE","Georgia",1990,0
+"GE","Georgia",1993,21.0801
+"GE","Georgia",1996,18.1666
+"GE","Georgia",1999,43.8281
+"GE","Georgia",2002,31.9827
+"GE","Georgia",2005,32.7225
+"GE","Georgia",2008,32.7564
+"GE","Georgia",2010,32.6287
+"GE","Georgia",2011,29.3716
+"GE","Georgia",2012,26.5326
+"GE","Georgia",2013,22.0504
+"DE","Germany",1981,0
+"DE","Germany",1984,0
+"DE","Germany",1987,0
+"DE","Germany",1990,0
+"DE","Germany",1993,0.227991
+"DE","Germany",1996,0.227991
+"DE","Germany",1999,0.0569977
+"DE","Germany",2002,0
+"DE","Germany",2005,0
+"DE","Germany",2008,0
+"DE","Germany",2010,0
+"DE","Germany",2011,0
+"DE","Germany",2012,0
+"DE","Germany",2013,0
+"GH","Ghana",1981,71.9117
+"GH","Ghana",1984,79.0156
+"GH","Ghana",1987,76.2717
+"GH","Ghana",1990,76.558
+"GH","Ghana",1993,75.2757
+"GH","Ghana",1996,68.6787
+"GH","Ghana",1999,62.465
+"GH","Ghana",2002,59.4737
+"GH","Ghana",2005,52.2208
+"GH","Ghana",2008,45.4207
+"GH","Ghana",2010,42.0742
+"GH","Ghana",2011,36.8412
+"GH","Ghana",2012,33.9937
+"GH","Ghana",2013,32.006
+"GR","Greece",1981,1.49255
+"GR","Greece",1984,1.49255
+"GR","Greece",1987,1.49255
+"GR","Greece",1990,0.997658
+"GR","Greece",1993,0.997658
+"GR","Greece",1996,0.997658
+"GR","Greece",1999,0.748585
+"GR","Greece",2002,0.748585
+"GR","Greece",2005,0.496242
+"GR","Greece",2008,0.496002
+"GR","Greece",2010,1.23798
+"GR","Greece",2011,1.99794
+"GR","Greece",2012,2.98585
+"GR","Greece",2013,2.73284
+"GT","Guatemala",1981,63.337
+"GT","Guatemala",1984,67.3564
+"GT","Guatemala",1987,64.5686
+"GT","Guatemala",1990,51.877
+"GT","Guatemala",1993,43.3426
+"GT","Guatemala",1996,33.9492
+"GT","Guatemala",1999,25.0919
+"GT","Guatemala",2002,22.8895
+"GT","Guatemala",2005,23.8364
+"GT","Guatemala",2008,23.609
+"GT","Guatemala",2010,24.9296
+"GT","Guatemala",2011,24.8621
+"GT","Guatemala",2012,25.0021
+"GT","Guatemala",2013,24.7619
+"GN","Guinea",1981,98.7382
+"GN","Guinea",1984,98.9554
+"GN","Guinea",1987,98.7377
+"GN","Guinea",1990,98.5259
+"GN","Guinea",1993,81.5379
+"GN","Guinea",1996,75.7111
+"GN","Guinea",1999,79.4128
+"GN","Guinea",2002,83.3641
+"GN","Guinea",2005,82.9981
+"GN","Guinea",2008,79.6269
+"GN","Guinea",2010,83.5969
+"GN","Guinea",2011,77.675
+"GN","Guinea",2012,70.2994
+"GN","Guinea",2013,69.5109
+"GW","Guinea-Bissau",1981,67.0877
+"GW","Guinea-Bissau",1984,66.339
+"GW","Guinea-Bissau",1987,66.7863
+"GW","Guinea-Bissau",1990,63.2626
+"GW","Guinea-Bissau",1993,86.0683
+"GW","Guinea-Bissau",1996,77.6714
+"GW","Guinea-Bissau",1999,85.3069
+"GW","Guinea-Bissau",2002,82.6265
+"GW","Guinea-Bissau",2005,83.335
+"GW","Guinea-Bissau",2008,84.0435
+"GW","Guinea-Bissau",2010,84.5159
+"GW","Guinea-Bissau",2011,83.0058
+"GW","Guinea-Bissau",2012,84.2041
+"GW","Guinea-Bissau",2013,84.0081
+"GY","Guyana",1981,51.7277
+"GY","Guyana",1984,65.6646
+"GY","Guyana",1987,63.1723
+"GY","Guyana",1990,68.446
+"GY","Guyana",1993,55.5695
+"GY","Guyana",1996,35.0306
+"GY","Guyana",1999,28.2359
+"GY","Guyana",2002,27.351
+"GY","Guyana",2005,27.2095
+"GY","Guyana",2008,22.2775
+"GY","Guyana",2010,20.0152
+"GY","Guyana",2011,18.6956
+"GY","Guyana",2012,17.4809
+"GY","Guyana",2013,16.4253
+"HT","Haiti",1996,79.435
+"HT","Haiti",1999,77.0149
+"HT","Haiti",2002,75.1925
+"HT","Haiti",2005,73.4521
+"HT","Haiti",2008,72.623
+"HT","Haiti",2010,67.175
+"HT","Haiti",2011,68.2938
+"HT","Haiti",2012,48.3368
+"HT","Haiti",2013,47.477
+"HN","Honduras",1981,61.3843
+"HN","Honduras",1984,61.9462
+"HN","Honduras",1987,62.4649
+"HN","Honduras",1990,64.2729
+"HN","Honduras",1993,45.9146
+"HN","Honduras",1996,50.7228
+"HN","Honduras",1999,43.2192
+"HN","Honduras",2002,40.0077
+"HN","Honduras",2005,41.4144
+"HN","Honduras",2008,30.2729
+"HN","Honduras",2010,29.3965
+"HN","Honduras",2011,31.7487
+"HN","Honduras",2012,36.093
+"HN","Honduras",2013,32.8771
+"HU","Hungary",1981,0.119524
+"HU","Hungary",1984,0.112321
+"HU","Hungary",1987,0.0994927
+"HU","Hungary",1990,0.542664
+"HU","Hungary",1993,0.400747
+"HU","Hungary",1996,0.764253
+"HU","Hungary",1999,0.311713
+"HU","Hungary",2002,0.0664772
+"HU","Hungary",2005,0.169743
+"HU","Hungary",2008,0.249397
+"HU","Hungary",2010,0.243674
+"HU","Hungary",2011,0.243168
+"HU","Hungary",2012,0.728133
+"HU","Hungary",2013,0.711448
+"IS","Iceland",1981,0.218494
+"IS","Iceland",1984,0.218494
+"IS","Iceland",1987,0.218494
+"IS","Iceland",1990,0.218494
+"IS","Iceland",1993,0.218494
+"IS","Iceland",1996,0.218494
+"IS","Iceland",1999,0
+"IS","Iceland",2002,0
+"IS","Iceland",2005,0
+"IS","Iceland",2008,0
+"IS","Iceland",2010,0.249728
+"IS","Iceland",2011,0.249474
+"IS","Iceland",2012,0
+"IS","Iceland",2013,0
+"IN","India",1981,85.8262
+"IN","India",1984,84.6281
+"IN","India",1987,82.0585
+"IN","India",1990,79.4229
+"IN","India",1993,81.1601
+"IN","India",1996,79.5382
+"IN","India",1999,78.179
+"IN","India",2002,77.1647
+"IN","India",2005,74.7149
+"IN","India",2008,71.5486
+"IN","India",2010,67.4713
+"IN","India",2011,61.8776
+"IN","India",2012,58.8448
+"IN","India",2013,54.4221
+"ID","Indonesia",1981,93.534
+"ID","Indonesia",1984,91.7373
+"ID","Indonesia",1987,92.6805
+"ID","Indonesia",1990,87.0049
+"ID","Indonesia",1993,86.5842
+"ID","Indonesia",1996,79.7508
+"ID","Indonesia",1999,80.1232
+"ID","Indonesia",2002,65.1816
+"ID","Indonesia",2005,61.3114
+"ID","Indonesia",2008,56.6306
+"ID","Indonesia",2010,48.1082
+"ID","Indonesia",2011,45.035
+"ID","Indonesia",2012,43.4655
+"ID","Indonesia",2013,40.7362
+"IR","Iran",1981,27.5212
+"IR","Iran",1984,19.6019
+"IR","Iran",1987,26.1143
+"IR","Iran",1990,19.5674
+"IR","Iran",1993,13.0825
+"IR","Iran",1996,15.3743
+"IR","Iran",1999,12.6509
+"IR","Iran",2002,5.78463
+"IR","Iran",2005,3.2274
+"IR","Iran",2008,3.49638
+"IR","Iran",2010,2.81726
+"IR","Iran",2011,2.01013
+"IR","Iran",2012,1.64753
+"IR","Iran",2013,1.18364
+"IQ","Iraq",1981,37.8593
+"IQ","Iraq",1984,54.3936
+"IQ","Iraq",1987,47.5413
+"IQ","Iraq",1990,20.0322
+"IQ","Iraq",1993,64.2423
+"IQ","Iraq",1996,58.928
+"IQ","Iraq",1999,15.7377
+"IQ","Iraq",2002,22.9318
+"IQ","Iraq",2005,23.3232
+"IQ","Iraq",2008,19.282
+"IQ","Iraq",2010,19.3358
+"IQ","Iraq",2011,19.0137
+"IQ","Iraq",2012,17.8535
+"IQ","Iraq",2013,16.3891
+"IE","Ireland",1981,0.49687
+"IE","Ireland",1984,0.49687
+"IE","Ireland",1987,0.49687
+"IE","Ireland",1990,0.242584
+"IE","Ireland",1993,0.242584
+"IE","Ireland",1996,0.242584
+"IE","Ireland",1999,0.242584
+"IE","Ireland",2002,0.242584
+"IE","Ireland",2005,0
+"IE","Ireland",2008,0.20072
+"IE","Ireland",2010,0.748845
+"IE","Ireland",2011,0.705339
+"IE","Ireland",2012,0.465494
+"IE","Ireland",2013,0.74101
+"IL","Israel",1981,0.693586
+"IL","Israel",1984,0.679422
+"IL","Israel",1987,0.623983
+"IL","Israel",1990,0.377663
+"IL","Israel",1993,0.522417
+"IL","Israel",1996,0.626044
+"IL","Israel",1999,0.678031
+"IL","Israel",2002,0.610284
+"IL","Israel",2005,1.00709
+"IL","Israel",2008,1.05963
+"IL","Israel",2010,1.06696
+"IL","Israel",2011,1.05392
+"IL","Israel",2012,1.34088
+"IL","Israel",2013,1.02291
+"IT","Italy",1981,1.74742
+"IT","Italy",1984,1.4893
+"IT","Italy",1987,1.4893
+"IT","Italy",1990,1.23523
+"IT","Italy",1993,1.23523
+"IT","Italy",1996,1.23523
+"IT","Italy",1999,1.23523
+"IT","Italy",2002,1.23523
+"IT","Italy",2005,0.995573
+"IT","Italy",2008,0.999832
+"IT","Italy",2010,1.74257
+"IT","Italy",2011,1.49765
+"IT","Italy",2012,1.74206
+"IT","Italy",2013,1.99166
+"JM","Jamaica",1981,21.9797
+"JM","Jamaica",1984,23.0124
+"JM","Jamaica",1987,21.6322
+"JM","Jamaica",1990,20.6618
+"JM","Jamaica",1993,30.9447
+"JM","Jamaica",1996,14.1367
+"JM","Jamaica",1999,10.107
+"JM","Jamaica",2002,11.3631
+"JM","Jamaica",2005,8.88454
+"JM","Jamaica",2008,8.34522
+"JM","Jamaica",2010,10.451
+"JM","Jamaica",2011,10.1841
+"JM","Jamaica",2012,10.451
+"JM","Jamaica",2013,10.4141
+"JP","Japan",1981,1.00181
+"JP","Japan",1984,1.00181
+"JP","Japan",1987,0.678871
+"JP","Japan",1990,0.678871
+"JP","Japan",1993,0.678871
+"JP","Japan",1996,0.678871
+"JP","Japan",1999,0.678871
+"JP","Japan",2002,0.678871
+"JP","Japan",2005,0.678871
+"JP","Japan",2008,0.678871
+"JP","Japan",2010,0.678871
+"JP","Japan",2011,0.678871
+"JP","Japan",2012,0.678871
+"JP","Japan",2013,0.678871
+"JO","Jordan",1981,4.02366
+"JO","Jordan",1984,2.74503
+"JO","Jordan",1987,3.00513
+"JO","Jordan",1990,16.6672
+"JO","Jordan",1993,16.0408
+"JO","Jordan",1996,13.8559
+"JO","Jordan",1999,11.9956
+"JO","Jordan",2002,8.53739
+"JO","Jordan",2005,4.9339
+"JO","Jordan",2008,2.97403
+"JO","Jordan",2010,2.17827
+"JO","Jordan",2011,2.19262
+"JO","Jordan",2012,2.38131
+"JO","Jordan",2013,2.70609
+"KZ","Kazakhstan",1981,16.9094
+"KZ","Kazakhstan",1984,14.6725
+"KZ","Kazakhstan",1987,15.3529
+"KZ","Kazakhstan",1990,17.7445
+"KZ","Kazakhstan",1993,24.6267
+"KZ","Kazakhstan",1996,24.9149
+"KZ","Kazakhstan",1999,30.4347
+"KZ","Kazakhstan",2002,28.0901
+"KZ","Kazakhstan",2005,24.2868
+"KZ","Kazakhstan",2008,2.19203
+"KZ","Kazakhstan",2010,1.86693
+"KZ","Kazakhstan",2011,0.728891
+"KZ","Kazakhstan",2012,0.427497
+"KZ","Kazakhstan",2013,0.273566
+"KE","Kenya",1981,52.7521
+"KE","Kenya",1984,55.8056
+"KE","Kenya",1987,53.1249
+"KE","Kenya",1990,51.1309
+"KE","Kenya",1993,58.4441
+"KE","Kenya",1996,55.9635
+"KE","Kenya",1999,61.2705
+"KE","Kenya",2002,66.8064
+"KE","Kenya",2005,68.1436
+"KE","Kenya",2008,66.7577
+"KE","Kenya",2010,64.4828
+"KE","Kenya",2011,63.0112
+"KE","Kenya",2012,62.1214
+"KE","Kenya",2013,60.6235
+"KI","Kiribati",1981,22.16
+"KI","Kiribati",1984,18.9671
+"KI","Kiribati",1987,31.3804
+"KI","Kiribati",1990,32.7911
+"KI","Kiribati",1993,34.6015
+"KI","Kiribati",1996,35.0842
+"KI","Kiribati",1999,34.1261
+"KI","Kiribati",2002,32.2441
+"KI","Kiribati",2005,32.2441
+"KI","Kiribati",2008,37.3113
+"KI","Kiribati",2010,40.8431
+"KI","Kiribati",2011,41.5208
+"KI","Kiribati",2012,39.7665
+"KI","Kiribati",2013,37.3113
+"XK","Kosovo",1996,38.02
+"XK","Kosovo",1999,39.623
+"XK","Kosovo",2002,18.8648
+"XK","Kosovo",2005,17.2822
+"XK","Kosovo",2008,13.2373
+"XK","Kosovo",2010,13.472
+"XK","Kosovo",2011,9.5859
+"XK","Kosovo",2012,5.42827
+"XK","Kosovo",2013,3.11489
+"KG","Kyrgyzstan",1981,18.7786
+"KG","Kyrgyzstan",1984,17.9033
+"KG","Kyrgyzstan",1987,19.0621
+"KG","Kyrgyzstan",1990,22.5563
+"KG","Kyrgyzstan",1993,39.5696
+"KG","Kyrgyzstan",1996,55.0204
+"KG","Kyrgyzstan",1999,52.1574
+"KG","Kyrgyzstan",2002,71.8938
+"KG","Kyrgyzstan",2005,51.7584
+"KG","Kyrgyzstan",2008,25.0213
+"KG","Kyrgyzstan",2010,23.3438
+"KG","Kyrgyzstan",2011,21.4033
+"KG","Kyrgyzstan",2012,21.5492
+"KG","Kyrgyzstan",2013,26.2528
+"LA","Lao",1984,75.3758
+"LA","Lao",1987,75.5191
+"LA","Lao",1990,71.0938
+"LA","Lao",1993,70.8969
+"LA","Lao",1996,77.7772
+"LA","Lao",1999,79.6996
+"LA","Lao",2002,72.7359
+"LA","Lao",2005,68.9269
+"LA","Lao",2008,64.4673
+"LA","Lao",2010,61.9934
+"LA","Lao",2011,60.6059
+"LA","Lao",2012,59.1442
+"LA","Lao",2013,55.1915
+"LV","Latvia",1981,0
+"LV","Latvia",1984,0
+"LV","Latvia",1987,0
+"LV","Latvia",1990,0
+"LV","Latvia",1993,2.85034
+"LV","Latvia",1996,7.14878
+"LV","Latvia",1999,5.94519
+"LV","Latvia",2002,3.48016
+"LV","Latvia",2005,4.98959
+"LV","Latvia",2008,0.756112
+"LV","Latvia",2010,3.74673
+"LV","Latvia",2011,2.99727
+"LV","Latvia",2012,2.74902
+"LV","Latvia",2013,2.49094
+"LB","Lebanon",1990,1.68231
+"LB","Lebanon",1993,0.0744657
+"LB","Lebanon",1996,0.0744657
+"LB","Lebanon",1999,0.0744657
+"LB","Lebanon",2002,0.0744657
+"LB","Lebanon",2005,0.313771
+"LB","Lebanon",2008,0.0744657
+"LB","Lebanon",2010,0.0611298
+"LB","Lebanon",2011,0.0611298
+"LB","Lebanon",2012,0.0611298
+"LB","Lebanon",2013,0.0744657
+"LS","Lesotho",1981,89.2152
+"LS","Lesotho",1984,88.3935
+"LS","Lesotho",1987,87.9239
+"LS","Lesotho",1990,84.9683
+"LS","Lesotho",1993,82.6867
+"LS","Lesotho",1996,81.1371
+"LS","Lesotho",1999,81.0865
+"LS","Lesotho",2002,80.284
+"LS","Lesotho",2005,79.4824
+"LS","Lesotho",2008,78.6145
+"LS","Lesotho",2010,78.0532
+"LS","Lesotho",2011,76.7331
+"LS","Lesotho",2012,75.4293
+"LS","Lesotho",2013,75.2361
+"LR","Liberia",1981,14.1888
+"LR","Liberia",1984,18.9656
+"LR","Liberia",1987,20.694
+"LR","Liberia",1990,79.9621
+"LR","Liberia",1993,98.1613
+"LR","Liberia",1996,99.2765
+"LR","Liberia",1999,89.2326
+"LR","Liberia",2002,81.5544
+"LR","Liberia",2005,91.9156
+"LR","Liberia",2008,88.962
+"LR","Liberia",2010,86.0854
+"LR","Liberia",2011,81.8333
+"LR","Liberia",2012,77.8376
+"LR","Liberia",2013,74.1454
+"LT","Lithuania",1981,7.4059
+"LT","Lithuania",1984,5.35294
+"LT","Lithuania",1987,5.71944
+"LT","Lithuania",1990,7.4766
+"LT","Lithuania",1993,30.7501
+"LT","Lithuania",1996,4.93811
+"LT","Lithuania",1999,4.14189
+"LT","Lithuania",2002,4.65326
+"LT","Lithuania",2005,4.47135
+"LT","Lithuania",2008,1.18682
+"LT","Lithuania",2010,3.16668
+"LT","Lithuania",2011,1.6536
+"LT","Lithuania",2012,1.99127
+"LT","Lithuania",2013,1.96603
+"LU","Luxembourg",1981,0.482433
+"LU","Luxembourg",1984,0.482433
+"LU","Luxembourg",1987,0.209359
+"LU","Luxembourg",1990,0.209359
+"LU","Luxembourg",1993,0.209359
+"LU","Luxembourg",1996,0.209359
+"LU","Luxembourg",1999,0.209359
+"LU","Luxembourg",2002,0.209359
+"LU","Luxembourg",2005,0
+"LU","Luxembourg",2008,0
+"LU","Luxembourg",2010,0
+"LU","Luxembourg",2011,0
+"LU","Luxembourg",2012,0.197691
+"LU","Luxembourg",2013,0.134055
+"MK","Macedonia",1984,7.93318
+"MK","Macedonia",1987,6.93336
+"MK","Macedonia",1990,9.46214
+"MK","Macedonia",1993,12.0888
+"MK","Macedonia",1996,9.9681
+"MK","Macedonia",1999,15.2948
+"MK","Macedonia",2002,6.84851
+"MK","Macedonia",2005,7.08329
+"MK","Macedonia",2008,4.30582
+"MK","Macedonia",2010,17.4182
+"MK","Macedonia",2011,16.0048
+"MK","Macedonia",2012,14.005
+"MK","Macedonia",2013,12.0057
+"MG","Madagascar",1981,76.9764
+"MG","Madagascar",1984,80.9403
+"MG","Madagascar",1987,83.1351
+"MG","Madagascar",1990,82.9424
+"MG","Madagascar",1993,87.8212
+"MG","Madagascar",1996,87.4315
+"MG","Madagascar",1999,86.1805
+"MG","Madagascar",2002,89.0158
+"MG","Madagascar",2005,89.2174
+"MG","Madagascar",2008,88.7169
+"MG","Madagascar",2010,91.3373
+"MG","Madagascar",2011,91.2747
+"MG","Madagascar",2012,91
+"MG","Madagascar",2013,91.0835
+"MW","Malawi",1981,85.469
+"MW","Malawi",1984,84.7364
+"MW","Malawi",1987,87.3805
+"MW","Malawi",1990,88.3261
+"MW","Malawi",1993,86.8743
+"MW","Malawi",1996,84.8957
+"MW","Malawi",1999,85.3536
+"MW","Malawi",2002,89.889
+"MW","Malawi",2005,90.322
+"MW","Malawi",2008,89.431
+"MW","Malawi",2010,88.8445
+"MW","Malawi",2011,88.4548
+"MW","Malawi",2012,88.7458
+"MW","Malawi",2013,88.2583
+"MY","Malaysia",1981,14.4179
+"MY","Malaysia",1984,12.8777
+"MY","Malaysia",1987,12.6771
+"MY","Malaysia",1990,11.2037
+"MY","Malaysia",1993,11.8481
+"MY","Malaysia",1996,8.12703
+"MY","Malaysia",1999,8.89162
+"MY","Malaysia",2002,4.85617
+"MY","Malaysia",2005,3.05054
+"MY","Malaysia",2008,2.83807
+"MY","Malaysia",2010,2.55735
+"MY","Malaysia",2011,2.14371
+"MY","Malaysia",2012,1.56999
+"MY","Malaysia",2013,1.12036
+"MV","Maldives",2002,78.1393
+"MV","Maldives",2005,31.9118
+"MV","Maldives",2008,20.0264
+"MV","Maldives",2010,23.4713
+"MV","Maldives",2011,21.3068
+"MV","Maldives",2012,21.1463
+"MV","Maldives",2013,19.0679
+"ML","Mali",1981,94.7681
+"ML","Mali",1984,95.8013
+"ML","Mali",1987,94.3856
+"ML","Mali",1990,93.9565
+"ML","Mali",1993,93.539
+"ML","Mali",1996,93.0023
+"ML","Mali",1999,88.0014
+"ML","Mali",2002,80.7804
+"ML","Mali",2005,78.0113
+"ML","Mali",2008,78.9686
+"ML","Mali",2010,79.2692
+"ML","Mali",2011,79.2057
+"ML","Mali",2012,80.6903
+"ML","Mali",2013,80.9272
+"MT","Malta",1981,0.972857
+"MT","Malta",1984,0.972857
+"MT","Malta",1987,0.972857
+"MT","Malta",1990,0.705562
+"MT","Malta",1993,0.705562
+"MT","Malta",1996,0.705562
+"MT","Malta",1999,0.705562
+"MT","Malta",2002,0.705562
+"MT","Malta",2005,0.705562
+"MT","Malta",2008,0.239915
+"MT","Malta",2010,0.220182
+"MT","Malta",2011,0.236981
+"MT","Malta",2012,0.246804
+"MT","Malta",2013,0
+"MR","Mauritania",1981,61.4913
+"MR","Mauritania",1984,66.7186
+"MR","Mauritania",1987,65.7365
+"MR","Mauritania",1990,68.8665
+"MR","Mauritania",1993,69.6601
+"MR","Mauritania",1996,48.1161
+"MR","Mauritania",1999,45.3207
+"MR","Mauritania",2002,47.0128
+"MR","Mauritania",2005,39.9641
+"MR","Mauritania",2008,34.4372
+"MR","Mauritania",2010,33.6598
+"MR","Mauritania",2011,31.7161
+"MR","Mauritania",2012,29.3633
+"MR","Mauritania",2013,26.4921
+"MU","Mauritius",1981,56.725
+"MU","Mauritius",1984,51.1544
+"MU","Mauritius",1987,35.5553
+"MU","Mauritius",1990,25.2421
+"MU","Mauritius",1993,18.0926
+"MU","Mauritius",1996,13.6132
+"MU","Mauritius",1999,9.70122
+"MU","Mauritius",2002,6.52888
+"MU","Mauritius",2005,4.73415
+"MU","Mauritius",2008,3.40688
+"MU","Mauritius",2010,3.3682
+"MU","Mauritius",2011,3.23084
+"MU","Mauritius",2012,3.15564
+"MU","Mauritius",2013,2.96241
+"MX","Mexico",1981,18.2512
+"MX","Mexico",1984,22.4618
+"MX","Mexico",1987,25.3856
+"MX","Mexico",1990,21.3308
+"MX","Mexico",1993,20.3688
+"MX","Mexico",1996,28.4583
+"MX","Mexico",1999,24.6418
+"MX","Mexico",2002,19.7718
+"MX","Mexico",2005,18.3412
+"MX","Mexico",2008,13.7818
+"MX","Mexico",2010,14.0363
+"MX","Mexico",2011,13.5476
+"MX","Mexico",2012,13.0933
+"MX","Mexico",2013,13.6488
+"FM","Micronesia",1987,35.0279
+"FM","Micronesia",1990,33.2106
+"FM","Micronesia",1993,27.8324
+"FM","Micronesia",1996,28.6826
+"FM","Micronesia",1999,29.1256
+"FM","Micronesia",2002,24.9753
+"FM","Micronesia",2005,24.3379
+"FM","Micronesia",2008,31.1096
+"FM","Micronesia",2010,32.7545
+"FM","Micronesia",2011,32.6476
+"FM","Micronesia",2012,35.5318
+"FM","Micronesia",2013,39.4656
+"MD","Moldova",1984,19.1964
+"MD","Moldova",1987,19.645
+"MD","Moldova",1990,11.0908
+"MD","Moldova",1993,35.7238
+"MD","Moldova",1996,49.6663
+"MD","Moldova",1999,69.9859
+"MD","Moldova",2002,44.4405
+"MD","Moldova",2005,40.4256
+"MD","Moldova",2008,9.20092
+"MD","Moldova",2010,6.06256
+"MD","Moldova",2011,4.34215
+"MD","Moldova",2012,3.41672
+"MD","Moldova",2013,2.24068
+"MN","Mongolia",1981,39.6388
+"MN","Mongolia",1984,32.653
+"MN","Mongolia",1987,27.4759
+"MN","Mongolia",1990,28.1565
+"MN","Mongolia",1993,43.0809
+"MN","Mongolia",1996,47.6377
+"MN","Mongolia",1999,53.1911
+"MN","Mongolia",2002,35.5421
+"MN","Mongolia",2005,22.0458
+"MN","Mongolia",2008,11.8794
+"MN","Mongolia",2010,9.79008
+"MN","Mongolia",2011,7.00211
+"MN","Mongolia",2012,4.53851
+"MN","Mongolia",2013,3.58704
+"ME","Montenegro",1984,0.553089
+"ME","Montenegro",1987,0.553089
+"ME","Montenegro",1990,0.884545
+"ME","Montenegro",1993,3.76878
+"ME","Montenegro",1996,2.98176
+"ME","Montenegro",1999,2.87076
+"ME","Montenegro",2002,2.35528
+"ME","Montenegro",2005,1.58251
+"ME","Montenegro",2008,0.457559
+"ME","Montenegro",2010,0.767829
+"ME","Montenegro",2011,1.02873
+"ME","Montenegro",2012,2.13556
+"ME","Montenegro",2013,2.5344
+"MA","Morocco",1981,40.5447
+"MA","Morocco",1984,33.2813
+"MA","Morocco",1987,27.6039
+"MA","Morocco",1990,22.4272
+"MA","Morocco",1993,24.5414
+"MA","Morocco",1996,22.9681
+"MA","Morocco",1999,28.0957
+"MA","Morocco",2002,26.25
+"MA","Morocco",2005,20.4536
+"MA","Morocco",2008,14.0841
+"MA","Morocco",2010,12.0717
+"MA","Morocco",2011,10.749
+"MA","Morocco",2012,10.1335
+"MA","Morocco",2013,9.53935
+"MZ","Mozambique",1981,92.8822
+"MZ","Mozambique",1984,96.2345
+"MZ","Mozambique",1987,95.4043
+"MZ","Mozambique",1990,94.2472
+"MZ","Mozambique",1993,94.3849
+"MZ","Mozambique",1996,91.8935
+"MZ","Mozambique",1999,91.9523
+"MZ","Mozambique",2002,92.3767
+"MZ","Mozambique",2005,90.9647
+"MZ","Mozambique",2008,89.0842
+"MZ","Mozambique",2010,86.9507
+"MZ","Mozambique",2011,85.6349
+"MZ","Mozambique",2012,84.3089
+"MZ","Mozambique",2013,83.2502
+"MM","Myanmar",1981,98.4489
+"MM","Myanmar",1984,98.0406
+"MM","Myanmar",1987,98.4489
+"MM","Myanmar",1990,98.8502
+"MM","Myanmar",1993,98.4489
+"MM","Myanmar",1996,97.7808
+"MM","Myanmar",1999,96.4062
+"MM","Myanmar",2002,92.2272
+"MM","Myanmar",2005,80.8641
+"MM","Myanmar",2008,63.8278
+"MM","Myanmar",2010,52.297
+"MM","Myanmar",2011,49.1207
+"MM","Myanmar",2012,44.4114
+"MM","Myanmar",2013,38.6991
+"NA","Namibia",1981,62.1862
+"NA","Namibia",1984,64.6371
+"NA","Namibia",1987,65.3425
+"NA","Namibia",1990,67.2902
+"NA","Namibia",1993,66.4665
+"NA","Namibia",1996,66.5379
+"NA","Namibia",1999,61.4425
+"NA","Namibia",2002,60.2909
+"NA","Namibia",2005,53.9813
+"NA","Namibia",2008,48.3287
+"NA","Namibia",2010,46.352
+"NA","Namibia",2011,45.1156
+"NA","Namibia",2012,43.608
+"NA","Namibia",2013,42.2937
+"NP","Nepal",1981,94.2702
+"NP","Nepal",1984,93.7881
+"NP","Nepal",1987,92.8095
+"NP","Nepal",1990,90.218
+"NP","Nepal",1993,89.1165
+"NP","Nepal",1996,85.5041
+"NP","Nepal",1999,81.8063
+"NP","Nepal",2002,75.8726
+"NP","Nepal",2005,71.3218
+"NP","Nepal",2008,62.7519
+"NP","Nepal",2010,51.1234
+"NP","Nepal",2011,51.4032
+"NP","Nepal",2012,41.2577
+"NP","Nepal",2013,40.4028
+"NL","Netherlands",1981,0.735748
+"NL","Netherlands",1984,0.735748
+"NL","Netherlands",1987,0.474911
+"NL","Netherlands",1990,0.474911
+"NL","Netherlands",1993,0.474911
+"NL","Netherlands",1996,0.474911
+"NL","Netherlands",1999,0.474911
+"NL","Netherlands",2002,0.474911
+"NL","Netherlands",2005,0.247796
+"NL","Netherlands",2008,0.248893
+"NL","Netherlands",2010,0
+"NL","Netherlands",2011,0.242995
+"NL","Netherlands",2012,0
+"NL","Netherlands",2013,0.244817
+"NI","Nicaragua",1981,23.7028
+"NI","Nicaragua",1984,25.9956
+"NI","Nicaragua",1987,30.9325
+"NI","Nicaragua",1990,40.5621
+"NI","Nicaragua",1993,43.529
+"NI","Nicaragua",1996,42.2236
+"NI","Nicaragua",1999,40.6646
+"NI","Nicaragua",2002,41.2511
+"NI","Nicaragua",2005,41.2288
+"NI","Nicaragua",2008,22.9012
+"NI","Nicaragua",2010,20.5576
+"NI","Nicaragua",2011,19.7315
+"NI","Nicaragua",2012,16.9964
+"NI","Nicaragua",2013,14.8009
+"NE","Niger",1981,83.6608
+"NE","Niger",1984,92.1752
+"NE","Niger",1987,91.1365
+"NE","Niger",1990,91.7009
+"NE","Niger",1993,93.9126
+"NE","Niger",1996,93.3991
+"NE","Niger",1999,92.0735
+"NE","Niger",2002,91.4568
+"NE","Niger",2005,90.7178
+"NE","Niger",2008,88.5967
+"NE","Niger",2010,84.7523
+"NE","Niger",2011,83.3448
+"NE","Niger",2012,79.7944
+"NE","Niger",2013,78.6009
+"NG","Nigeria",1981,72.9027
+"NG","Nigeria",1984,79.5478
+"NG","Nigeria",1987,85.0933
+"NG","Nigeria",1990,77.4351
+"NG","Nigeria",1993,78.4424
+"NG","Nigeria",1996,81.9792
+"NG","Nigeria",1999,85.1239
+"NG","Nigeria",2002,86.4945
+"NG","Nigeria",2005,79.1949
+"NG","Nigeria",2008,78.1792
+"NG","Nigeria",2010,77.3002
+"NG","Nigeria",2011,76.5552
+"NG","Nigeria",2012,75.976
+"NG","Nigeria",2013,75.0027
+"NO","Norway",1981,0.232137
+"NO","Norway",1984,0.232137
+"NO","Norway",1987,0.232137
+"NO","Norway",1990,0.232137
+"NO","Norway",1993,0.232137
+"NO","Norway",1996,0.232137
+"NO","Norway",1999,0.232137
+"NO","Norway",2002,0.232137
+"NO","Norway",2005,0.212072
+"NO","Norway",2008,0.240151
+"NO","Norway",2010,0.245795
+"NO","Norway",2011,0.239095
+"NO","Norway",2012,0.248552
+"NO","Norway",2013,0.246163
+"PK","Pakistan",1981,91.1276
+"PK","Pakistan",1984,89.3815
+"PK","Pakistan",1987,87.8817
+"PK","Pakistan",1990,86.019
+"PK","Pakistan",1993,79.6589
+"PK","Pakistan",1996,64.6075
+"PK","Pakistan",1999,65.2666
+"PK","Pakistan",2002,71.74
+"PK","Pakistan",2005,58.1919
+"PK","Pakistan",2008,53.4123
+"PK","Pakistan",2010,49.9678
+"PK","Pakistan",2011,47.1519
+"PK","Pakistan",2012,43.4876
+"PK","Pakistan",2013,42.8385
+"PS","Palestine",1996,6.8429
+"PS","Palestine",1999,3.98661
+"PS","Palestine",2002,10.0517
+"PS","Palestine",2005,5.67275
+"PS","Palestine",2008,5.76891
+"PS","Palestine",2010,3.71846
+"PS","Palestine",2011,3.35457
+"PS","Palestine",2012,2.21371
+"PS","Palestine",2013,3.31999
+"PA","Panama",1981,20.3502
+"PA","Panama",1984,25.8288
+"PA","Panama",1987,31.9085
+"PA","Panama",1990,36.9614
+"PA","Panama",1993,25.6887
+"PA","Panama",1996,24.9237
+"PA","Panama",1999,21.236
+"PA","Panama",2002,21.6352
+"PA","Panama",2005,18.7758
+"PA","Panama",2008,13.9208
+"PA","Panama",2010,10.8023
+"PA","Panama",2011,8.6603
+"PA","Panama",2012,10.0362
+"PA","Panama",2013,8.10317
+"PG","Papua New Guinea",1981,77.6024
+"PG","Papua New Guinea",1984,78.624
+"PG","Papua New Guinea",1987,77.9787
+"PG","Papua New Guinea",1990,80.3602
+"PG","Papua New Guinea",1993,71.4152
+"PG","Papua New Guinea",1996,70.8185
+"PG","Papua New Guinea",1999,72.982
+"PG","Papua New Guinea",2002,76.0971
+"PG","Papua New Guinea",2005,73.7973
+"PG","Papua New Guinea",2008,70.3081
+"PG","Papua New Guinea",2010,64.4769
+"PG","Papua New Guinea",2011,65.0547
+"PG","Papua New Guinea",2012,63.6314
+"PG","Papua New Guinea",2013,62.7853
+"PY","Paraguay",1981,5.6638
+"PY","Paraguay",1984,7.99925
+"PY","Paraguay",1987,6.60995
+"PY","Paraguay",1990,4.66343
+"PY","Paraguay",1993,16.8407
+"PY","Paraguay",1996,21.9086
+"PY","Paraguay",1999,20.1175
+"PY","Paraguay",2002,26.9672
+"PY","Paraguay",2005,14.7202
+"PY","Paraguay",2008,13.968
+"PY","Paraguay",2010,13.3231
+"PY","Paraguay",2011,12.7109
+"PY","Paraguay",2012,9.92057
+"PY","Paraguay",2013,6.72385
+"PE","Peru",1981,7.59588
+"PE","Peru",1984,10.2035
+"PE","Peru",1987,9.28957
+"PE","Peru",1990,25.3894
+"PE","Peru",1993,32.5548
+"PE","Peru",1996,33.5986
+"PE","Peru",1999,32.7655
+"PE","Peru",2002,29.5866
+"PE","Peru",2005,30.9362
+"PE","Peru",2008,19.5121
+"PE","Peru",2010,14.8212
+"PE","Peru",2011,13.2859
+"PE","Peru",2012,12.3496
+"PE","Peru",2013,11.3625
+"PH","Philippines",1981,53.1326
+"PH","Philippines",1984,55.4015
+"PH","Philippines",1987,56.9614
+"PH","Philippines",1990,53.2218
+"PH","Philippines",1993,52.5609
+"PH","Philippines",1996,46.921
+"PH","Philippines",1999,43.7517
+"PH","Philippines",2002,41.1573
+"PH","Philippines",2005,41.0374
+"PH","Philippines",2008,38.1821
+"PH","Philippines",2010,38.7402
+"PH","Philippines",2011,39.0887
+"PH","Philippines",2012,38.7333
+"PH","Philippines",2013,37.096
+"PL","Poland",1981,0.395764
+"PL","Poland",1984,0.509557
+"PL","Poland",1987,0.345893
+"PL","Poland",1990,1.35929
+"PL","Poland",1993,3.16252
+"PL","Poland",1996,20.1338
+"PL","Poland",1999,0.982228
+"PL","Poland",2002,1.59141
+"PL","Poland",2005,1.57025
+"PL","Poland",2008,0.418402
+"PL","Poland",2010,0.377803
+"PL","Poland",2011,0.401271
+"PL","Poland",2012,0.33168
+"PL","Poland",2013,0.327422
+"PT","Portugal",1981,3.23444
+"PT","Portugal",1984,3.48161
+"PT","Portugal",1987,2.72868
+"PT","Portugal",1990,2.22771
+"PT","Portugal",1993,1.98971
+"PT","Portugal",1996,1.72015
+"PT","Portugal",1999,1.48517
+"PT","Portugal",2002,1.48517
+"PT","Portugal",2005,0.995526
+"PT","Portugal",2008,0.954542
+"PT","Portugal",2010,0.489641
+"PT","Portugal",2011,0.949841
+"PT","Portugal",2012,1.47952
+"PT","Portugal",2013,1.74846
+"RO","Romania",1981,0.54421
+"RO","Romania",1984,0.635419
+"RO","Romania",1987,0.722233
+"RO","Romania",1990,0.956243
+"RO","Romania",1993,24.0204
+"RO","Romania",1996,32.5191
+"RO","Romania",1999,28.5558
+"RO","Romania",2002,23.9724
+"RO","Romania",2005,13.0687
+"RO","Romania",2008,5.58532
+"RO","Romania",2010,5.30263
+"RO","Romania",2011,5.04203
+"RO","Romania",2012,4.56732
+"RO","Romania",2013,4.5197
+"RU","Russian Federation",1981,9.55579
+"RU","Russian Federation",1984,8.13153
+"RU","Russian Federation",1987,8.2486
+"RU","Russian Federation",1990,9.40271
+"RU","Russian Federation",1993,10.7785
+"RU","Russian Federation",1996,11.3446
+"RU","Russian Federation",1999,13.2877
+"RU","Russian Federation",2002,4.71618
+"RU","Russian Federation",2005,3.21459
+"RU","Russian Federation",2008,0.528373
+"RU","Russian Federation",2010,0.502188
+"RU","Russian Federation",2011,0.318016
+"RU","Russian Federation",2012,0.304627
+"RU","Russian Federation",2013,0.294697
+"RW","Rwanda",1981,86.7702
+"RW","Rwanda",1984,88.9652
+"RW","Rwanda",1987,89.4249
+"RW","Rwanda",1990,89.9198
+"RW","Rwanda",1993,88.4995
+"RW","Rwanda",1996,91.9596
+"RW","Rwanda",1999,90.8734
+"RW","Rwanda",2002,87.8908
+"RW","Rwanda",2005,85.5209
+"RW","Rwanda",2008,82.9175
+"RW","Rwanda",2010,82.1598
+"RW","Rwanda",2011,81.5983
+"RW","Rwanda",2012,81.426
+"RW","Rwanda",2013,81.2708
+"LC","Saint Lucia",1981,87.8508
+"LC","Saint Lucia",1984,85.1165
+"LC","Saint Lucia",1987,77.5912
+"LC","Saint Lucia",1990,66.3005
+"LC","Saint Lucia",1993,63.9149
+"LC","Saint Lucia",1996,62.6448
+"LC","Saint Lucia",1999,60.5432
+"LC","Saint Lucia",2002,64.0979
+"LC","Saint Lucia",2005,59.2679
+"LC","Saint Lucia",2008,53.6173
+"LC","Saint Lucia",2010,55.0657
+"LC","Saint Lucia",2011,53.6238
+"LC","Saint Lucia",2012,54.3033
+"LC","Saint Lucia",2013,54.4695
+"WS","Samoa",1981,34.6097
+"WS","Samoa",1984,34.4064
+"WS","Samoa",1987,29.5051
+"WS","Samoa",1990,31.3822
+"WS","Samoa",1993,31.8817
+"WS","Samoa",1996,27.5376
+"WS","Samoa",1999,25.2311
+"WS","Samoa",2002,16.8582
+"WS","Samoa",2005,12.0486
+"WS","Samoa",2008,9.67777
+"WS","Samoa",2010,11.6473
+"WS","Samoa",2011,10.0203
+"WS","Samoa",2012,10.1469
+"WS","Samoa",2013,10.8133
+"ST","Sao Tome & Principe",2002,66.9172
+"ST","Sao Tome & Principe",2005,67.7863
+"ST","Sao Tome & Principe",2008,68.0683
+"ST","Sao Tome & Principe",2010,70.0776
+"ST","Sao Tome & Principe",2011,68.6772
+"ST","Sao Tome & Principe",2012,68.1701
+"ST","Sao Tome & Principe",2013,66.4427
+"SN","Senegal",1981,82.6652
+"SN","Senegal",1984,83.484
+"SN","Senegal",1987,82.7096
+"SN","Senegal",1990,84.3457
+"SN","Senegal",1993,83.7062
+"SN","Senegal",1996,82.6091
+"SN","Senegal",1999,78.4105
+"SN","Senegal",2002,76.4456
+"SN","Senegal",2005,68.7038
+"SN","Senegal",2008,66.9399
+"SN","Senegal",2010,66.8386
+"SN","Senegal",2011,67.5843
+"SN","Senegal",2012,67.0059
+"SN","Senegal",2013,66.8913
+"RS","Serbia",1984,1.25647
+"RS","Serbia",1987,1.19871
+"RS","Serbia",1990,1.44934
+"RS","Serbia",1993,5.55322
+"RS","Serbia",1996,3.75089
+"RS","Serbia",1999,3.45215
+"RS","Serbia",2002,1.40907
+"RS","Serbia",2005,4.11803
+"RS","Serbia",2008,0.984349
+"RS","Serbia",2010,2.11478
+"RS","Serbia",2011,1.85699
+"RS","Serbia",2012,10.4841
+"RS","Serbia",2013,1.67679
+"SC","Seychelles",1981,9.37217
+"SC","Seychelles",1984,9.37217
+"SC","Seychelles",1987,7.61299
+"SC","Seychelles",1990,4.33729
+"SC","Seychelles",1993,3.48803
+"SC","Seychelles",1996,3.70034
+"SC","Seychelles",1999,2.54777
+"SC","Seychelles",2002,2.93717
+"SC","Seychelles",2005,2.85452
+"SC","Seychelles",2008,1.35186
+"SC","Seychelles",2010,3.73984
+"SC","Seychelles",2011,3.321
+"SC","Seychelles",2012,2.90755
+"SC","Seychelles",2013,2.45645
+"SL","Sierra Leone",1981,76.9409
+"SL","Sierra Leone",1984,77.0889
+"SL","Sierra Leone",1987,78.6416
+"SL","Sierra Leone",1990,81.1614
+"SL","Sierra Leone",1993,85.0105
+"SL","Sierra Leone",1996,86.5334
+"SL","Sierra Leone",1999,88.5424
+"SL","Sierra Leone",2002,85.6448
+"SL","Sierra Leone",2005,83.9647
+"SL","Sierra Leone",2008,82.6679
+"SL","Sierra Leone",2010,81.731
+"SL","Sierra Leone",2011,81.2792
+"SL","Sierra Leone",2012,75.8495
+"SL","Sierra Leone",2013,67.8408
+"SK","Slovakia",1981,1.96984
+"SK","Slovakia",1984,1.95894
+"SK","Slovakia",1987,1.79635
+"SK","Slovakia",1990,1.57215
+"SK","Slovakia",1993,2.77512
+"SK","Slovakia",1996,2.08739
+"SK","Slovakia",1999,1.528
+"SK","Slovakia",2002,1.02022
+"SK","Slovakia",2005,0.358978
+"SK","Slovakia",2008,0.112786
+"SK","Slovakia",2010,0.992472
+"SK","Slovakia",2011,0.745823
+"SK","Slovakia",2012,0.744781
+"SK","Slovakia",2013,0.726862
+"SI","Slovenia",1984,0.0933462
+"SI","Slovenia",1987,0.0875162
+"SI","Slovenia",1990,0.103339
+"SI","Slovenia",1993,0.108145
+"SI","Slovenia",1996,0.124697
+"SI","Slovenia",1999,0.0825731
+"SI","Slovenia",2002,0.1343
+"SI","Slovenia",2005,0.238233
+"SI","Slovenia",2008,0
+"SI","Slovenia",2010,0
+"SI","Slovenia",2011,0
+"SI","Slovenia",2012,0
+"SI","Slovenia",2013,0
+"SB","Solomon Islands",1990,66.1022
+"SB","Solomon Islands",1993,59.7729
+"SB","Solomon Islands",1996,55.4322
+"SB","Solomon Islands",1999,59.0103
+"SB","Solomon Islands",2002,74.0931
+"SB","Solomon Islands",2005,70.5652
+"SB","Solomon Islands",2008,65.2552
+"SB","Solomon Islands",2010,65.4386
+"SB","Solomon Islands",2011,61.359
+"SB","Solomon Islands",2012,59.7247
+"SB","Solomon Islands",2013,58.7528
+"ZA","South Africa",1981,40.5697
+"ZA","South Africa",1984,42.3155
+"ZA","South Africa",1987,44.3866
+"ZA","South Africa",1990,44.5197
+"ZA","South Africa",1993,47.7647
+"ZA","South Africa",1996,53.8757
+"ZA","South Africa",1999,52.8677
+"ZA","South Africa",2002,50.8321
+"ZA","South Africa",2005,47.8635
+"ZA","South Africa",2008,37.6781
+"ZA","South Africa",2010,35.7995
+"ZA","South Africa",2011,35.7333
+"ZA","South Africa",2012,36.1293
+"ZA","South Africa",2013,36.3909
+"KR","South Korea",1981,7.67838
+"KR","South Korea",1984,5.00325
+"KR","South Korea",1987,3.33617
+"KR","South Korea",1990,1.67008
+"KR","South Korea",1993,1.00605
+"KR","South Korea",1996,0.668033
+"KR","South Korea",1999,0.668033
+"KR","South Korea",2002,0.668033
+"KR","South Korea",2005,0.668033
+"KR","South Korea",2008,0.667
+"KR","South Korea",2010,0.668
+"KR","South Korea",2011,0.6675
+"KR","South Korea",2012,0.667
+"KR","South Korea",2013,0.667
+"SS","South Sudan",2008,65.0485
+"SS","South Sudan",2010,64.2395
+"SS","South Sudan",2011,67.7827
+"SS","South Sudan",2012,89.416
+"SS","South Sudan",2013,87.2565
+"ES","Spain",1981,1.74479
+"ES","Spain",1984,1.74479
+"ES","Spain",1987,1.74479
+"ES","Spain",1990,1.49709
+"ES","Spain",1993,1.24674
+"ES","Spain",1996,1.24674
+"ES","Spain",1999,1.24674
+"ES","Spain",2002,1.24674
+"ES","Spain",2005,0.991105
+"ES","Spain",2008,0.994743
+"ES","Spain",2010,0.99804
+"ES","Spain",2011,1.73625
+"ES","Spain",2012,1.49265
+"ES","Spain",2013,1.74497
+"LK","Sri Lanka",1981,59.6997
+"LK","Sri Lanka",1984,49.3091
+"LK","Sri Lanka",1987,44.8094
+"LK","Sri Lanka",1990,45.5383
+"LK","Sri Lanka",1993,41.5751
+"LK","Sri Lanka",1996,42.9624
+"LK","Sri Lanka",1999,36.5042
+"LK","Sri Lanka",2002,36.0016
+"LK","Sri Lanka",2005,28.0382
+"LK","Sri Lanka",2008,19.8701
+"LK","Sri Lanka",2010,17.6484
+"LK","Sri Lanka",2011,15.9071
+"LK","Sri Lanka",2012,16.4922
+"LK","Sri Lanka",2013,14.1422
+"SD","Sudan",1981,74.1704
+"SD","Sudan",1984,77.782
+"SD","Sudan",1987,76.1375
+"SD","Sudan",1990,78.6812
+"SD","Sudan",1993,73.5787
+"SD","Sudan",1996,71.0971
+"SD","Sudan",1999,66.1783
+"SD","Sudan",2002,60.2001
+"SD","Sudan",2005,53.772
+"SD","Sudan",2008,40.9403
+"SD","Sudan",2010,40.0686
+"SD","Sudan",2011,35.5356
+"SD","Sudan",2012,28.9856
+"SD","Sudan",2013,27.8107
+"SR","Suriname",1981,30.7525
+"SR","Suriname",1984,33.8191
+"SR","Suriname",1987,42.8012
 "SR","Suriname",1990,40.05
-"SR","Suriname",1993,42.8
-"SR","Suriname",1996,41.49
-"SR","Suriname",1999,40.76
+"SR","Suriname",1993,42.8012
+"SR","Suriname",1996,42.8012
+"SR","Suriname",1999,42.8012
 "SR","Suriname",2002,40.05
-"SR","Suriname",2005,31.95
-"SR","Suriname",2008,29.64
-"SR","Suriname",2010,29.25
-"SR","Suriname",2011,26.1
-"SR","Suriname",2012,25.83
-"SR","Suriname",2013,23.38
-"SZ","Swaziland",1981,96.23
-"SZ","Swaziland",1984,96.28
-"SZ","Swaziland",1987,94.9
-"SZ","Swaziland",1990,91.94
-"SZ","Swaziland",1993,91.82
-"SZ","Swaziland",1996,82.03
-"SZ","Swaziland",1999,71.9
-"SZ","Swaziland",2002,68.97
-"SZ","Swaziland",2005,66.23
-"SZ","Swaziland",2008,63.44
-"SZ","Swaziland",2010,63.12
-"SZ","Swaziland",2011,63.23
-"SZ","Swaziland",2012,62.64
-"SZ","Swaziland",2013,62.03
-"TJ","Tajikistan",1981,9.37
-"TJ","Tajikistan",1984,9.37
-"TJ","Tajikistan",1987,10.35
-"TJ","Tajikistan",1990,11.05
-"TJ","Tajikistan",1993,51.59
-"TJ","Tajikistan",1996,88.65
-"TJ","Tajikistan",1999,86.06
-"TJ","Tajikistan",2002,70.84
-"TJ","Tajikistan",2005,41.83
-"TJ","Tajikistan",2008,24.99
-"TJ","Tajikistan",2010,37.8
-"TJ","Tajikistan",2011,50.9
-"TJ","Tajikistan",2012,63.34
-"TJ","Tajikistan",2013,60.82
-"TZ","Tanzania",1981,90.51
-"TZ","Tanzania",1984,89.88
-"TZ","Tanzania",1987,89.39
-"TZ","Tanzania",1990,87.95
-"TZ","Tanzania",1993,90.55
-"TZ","Tanzania",1996,92.78
-"TZ","Tanzania",1999,94.54
-"TZ","Tanzania",2002,91.97
-"TZ","Tanzania",2005,83.01
-"TZ","Tanzania",2008,77.74
-"TZ","Tanzania",2010,77.37
-"TZ","Tanzania",2011,76.45
-"TZ","Tanzania",2012,76.01
-"TZ","Tanzania",2013,74.41
-"TH","Thailand",1981,41.53
-"TH","Thailand",1984,40.36
-"TH","Thailand",1987,39.13
-"TH","Thailand",1990,34.31
-"TH","Thailand",1993,22.68
-"TH","Thailand",1996,13.93
-"TH","Thailand",1999,17.16
-"TH","Thailand",2002,10.75
-"TH","Thailand",2005,6.35
-"TH","Thailand",2008,2.97
-"TH","Thailand",2010,2.09
-"TH","Thailand",2011,1.17
-"TH","Thailand",2012,1.23
-"TH","Thailand",2013,0.92
-"TL","Timor-Leste",1981,100
-"TL","Timor-Leste",1984,99.98
-"TL","Timor-Leste",1987,99.74
-"TL","Timor-Leste",1990,99.14
-"TL","Timor-Leste",1993,97.21
-"TL","Timor-Leste",1996,93.57
-"TL","Timor-Leste",1999,84.1
-"TL","Timor-Leste",2002,73.75
-"TL","Timor-Leste",2005,78.32
-"TL","Timor-Leste",2008,80.41
-"TL","Timor-Leste",2010,71.98
-"TL","Timor-Leste",2011,70.61
-"TL","Timor-Leste",2012,61.73
-"TL","Timor-Leste",2013,61.1
-"TG","Togo",1981,66.09
-"TG","Togo",1984,72.59
-"TG","Togo",1987,73.66
-"TG","Togo",1990,72.94
-"TG","Togo",1993,82.32
-"TG","Togo",1996,75.34
-"TG","Togo",1999,72.99
-"TG","Togo",2002,77.02
-"TG","Togo",2005,77.02
-"TG","Togo",2008,76.4
-"TG","Togo",2010,75.6
-"TG","Togo",2011,74.54
-"TG","Togo",2012,73.83
-"TG","Togo",2013,73.15
-"TO","Tonga",1981,22.6
-"TO","Tonga",1984,19.81
-"TO","Tonga",1987,14.91
-"TO","Tonga",1990,16.89
-"TO","Tonga",1993,12.77
-"TO","Tonga",1996,10.66
-"TO","Tonga",1999,8.93
-"TO","Tonga",2002,7.16
-"TO","Tonga",2005,7.11
-"TO","Tonga",2008,8.13
-"TO","Tonga",2010,7.67
-"TO","Tonga",2011,7.33
-"TO","Tonga",2012,7.33
-"TO","Tonga",2013,7.83
-"TT","Trinidad & Tobago",1981,0
-"TT","Trinidad & Tobago",1984,1.62
-"TT","Trinidad & Tobago",1987,2.68
-"TT","Trinidad & Tobago",1990,12.57
-"TT","Trinidad & Tobago",1993,11.8
-"TT","Trinidad & Tobago",1996,13.95
-"TT","Trinidad & Tobago",1999,7.86
-"TT","Trinidad & Tobago",2002,6.21
-"TT","Trinidad & Tobago",2005,2.16
-"TT","Trinidad & Tobago",2008,2.38
-"TT","Trinidad & Tobago",2010,2.79
-"TT","Trinidad & Tobago",2011,1.84
-"TT","Trinidad & Tobago",2012,1.03
-"TT","Trinidad & Tobago",2013,0.99
-"TN","Tunisia",1981,36.66
-"TN","Tunisia",1984,34.12
-"TN","Tunisia",1987,32.98
-"TN","Tunisia",1990,27.42
-"TN","Tunisia",1993,28.02
-"TN","Tunisia",1996,27.22
-"TN","Tunisia",1999,21.74
-"TN","Tunisia",2002,17.51
-"TN","Tunisia",2005,13.69
-"TN","Tunisia",2008,10.59
-"TN","Tunisia",2010,8.79
-"TN","Tunisia",2011,7.27
-"TN","Tunisia",2012,6.05
-"TN","Tunisia",2013,5.06
-"TR","Turkey",1981,17.56
-"TR","Turkey",1984,14.41
-"TR","Turkey",1987,9.75
-"TR","Turkey",1990,9.8
-"TR","Turkey",1993,9.47
-"TR","Turkey",1996,10.33
-"TR","Turkey",1999,9.08
-"TR","Turkey",2002,9.94
-"TR","Turkey",2005,9.34
-"TR","Turkey",2008,5.36
-"TR","Turkey",2010,4.25
-"TR","Turkey",2011,3.99
-"TR","Turkey",2012,3.1
-"TR","Turkey",2013,2.62
-"TM","Turkmenistan",1981,85.5
-"TM","Turkmenistan",1984,81.38
-"TM","Turkmenistan",1987,80.54
-"TM","Turkmenistan",1990,62.29
-"TM","Turkmenistan",1993,50.21
-"TM","Turkmenistan",1996,64.97
-"TM","Turkmenistan",1999,61.85
-"TM","Turkmenistan",2002,58.28
-"TM","Turkmenistan",2005,48.57
-"TM","Turkmenistan",2008,31.67
-"TM","Turkmenistan",2010,25.66
-"TM","Turkmenistan",2011,20.19
-"TM","Turkmenistan",2012,16.5
-"TM","Turkmenistan",2013,13.43
-"TV","Tuvalu",1981,47.09
-"TV","Tuvalu",1984,42.54
-"TV","Tuvalu",1987,37.36
-"TV","Tuvalu",1990,31.96
-"TV","Tuvalu",1993,26.51
-"TV","Tuvalu",1996,28.65
-"TV","Tuvalu",1999,17.15
-"TV","Tuvalu",2002,15.49
-"TV","Tuvalu",2005,18.51
-"TV","Tuvalu",2008,12.56
-"TV","Tuvalu",2010,16.28
-"TV","Tuvalu",2011,12.56
-"TV","Tuvalu",2012,12.56
-"TV","Tuvalu",2013,12.56
-"UG","Uganda",1981,95.24
-"UG","Uganda",1984,95.07
-"UG","Uganda",1987,95.96
-"UG","Uganda",1990,91.77
-"UG","Uganda",1993,87.12
-"UG","Uganda",1996,83.49
-"UG","Uganda",1999,83.88
-"UG","Uganda",2002,82.69
-"UG","Uganda",2005,77.75
-"UG","Uganda",2008,71.21
-"UG","Uganda",2010,68.52
-"UG","Uganda",2011,66.27
-"UG","Uganda",2012,65.08
-"UG","Uganda",2013,64.99
-"UA","Ukraine",1981,12.46
-"UA","Ukraine",1984,9.63
-"UA","Ukraine",1987,7.31
-"UA","Ukraine",1990,7.38
-"UA","Ukraine",1993,8.3
-"UA","Ukraine",1996,21.37
-"UA","Ukraine",1999,34.65
-"UA","Ukraine",2002,10.58
-"UA","Ukraine",2005,2.26
-"UA","Ukraine",2008,0.4
-"UA","Ukraine",2010,0.25
-"UA","Ukraine",2011,0.17
-"UA","Ukraine",2012,0.2
-"UA","Ukraine",2013,0.08
-"UY","Uruguay",1981,3.92
-"UY","Uruguay",1984,7.27
-"UY","Uruguay",1987,2.66
-"UY","Uruguay",1990,3.11
-"UY","Uruguay",1993,2.88
-"UY","Uruguay",1996,3
-"UY","Uruguay",1999,2.93
-"UY","Uruguay",2002,7.05
-"UY","Uruguay",2005,5.41
-"UY","Uruguay",2008,2.55
-"UY","Uruguay",2010,1.61
-"UY","Uruguay",2011,1.61
-"UY","Uruguay",2012,1.67
-"UY","Uruguay",2013,1.56
-"UZ","Uzbekistan",1981,36.81
-"UZ","Uzbekistan",1984,21.06
-"UZ","Uzbekistan",1987,7.35
-"UZ","Uzbekistan",1990,3.35
-"UZ","Uzbekistan",1993,66.97
-"UZ","Uzbekistan",1996,72.1
-"UZ","Uzbekistan",1999,78.46
-"UZ","Uzbekistan",2002,87.99
-"UZ","Uzbekistan",2005,84.3
-"UZ","Uzbekistan",2008,76.2
-"UZ","Uzbekistan",2010,69.81
-"UZ","Uzbekistan",2011,66.52
-"UZ","Uzbekistan",2012,62.78
-"UZ","Uzbekistan",2013,58.26
-"VU","Vanuatu",1981,37.79
-"VU","Vanuatu",1984,37.82
-"VU","Vanuatu",1987,37.82
-"VU","Vanuatu",1990,37.82
-"VU","Vanuatu",1993,37.82
-"VU","Vanuatu",1996,37.84
-"VU","Vanuatu",1999,37.85
-"VU","Vanuatu",2002,37.85
-"VU","Vanuatu",2005,37.85
-"VU","Vanuatu",2008,39.16
-"VU","Vanuatu",2010,38.8
-"VU","Vanuatu",2011,38.52
-"VU","Vanuatu",2012,37.93
-"VU","Vanuatu",2013,37.5
-"VE","Venezuela",1981,9.52
-"VE","Venezuela",1984,10.96
-"VE","Venezuela",1987,10.24
-"VE","Venezuela",1990,12.72
-"VE","Venezuela",1993,10.95
-"VE","Venezuela",1996,20.27
-"VE","Venezuela",1999,20.47
-"VE","Venezuela",2002,27.83
-"VE","Venezuela",2005,23.97
-"VE","Venezuela",2008,12.19
-"VE","Venezuela",2010,13.16
-"VE","Venezuela",2011,12.8
-"VE","Venezuela",2012,12.19
-"VE","Venezuela",2013,11.81
-"VN","Viet Nam",1981,94.5
-"VN","Viet Nam",1984,91.51
-"VN","Viet Nam",1987,87.7
-"VN","Viet Nam",1990,82.51
-"VN","Viet Nam",1993,76.72
-"VN","Viet Nam",1996,71.78
-"VN","Viet Nam",1999,69.34
-"VN","Viet Nam",2002,69.32
-"VN","Viet Nam",2005,54.89
-"VN","Viet Nam",2008,45.61
-"VN","Viet Nam",2010,18.05
-"VN","Viet Nam",2011,16
-"VN","Viet Nam",2012,13.86
-"VN","Viet Nam",2013,12.99
-"ZM","Zambia",1981,60.37
-"ZM","Zambia",1984,64.51
-"ZM","Zambia",1987,66.13
-"ZM","Zambia",1990,67.48
-"ZM","Zambia",1993,72.87
-"ZM","Zambia",1996,63.29
-"ZM","Zambia",1999,66.65
-"ZM","Zambia",2002,73.84
-"ZM","Zambia",2005,74.6
-"ZM","Zambia",2008,77.97
-"ZM","Zambia",2010,78.87
-"ZM","Zambia",2011,78.19
-"ZM","Zambia",2012,77.37
-"ZM","Zambia",2013,76.57
-"ZW","Zimbabwe",1981,20.18
-"ZW","Zimbabwe",1984,24.38
-"ZW","Zimbabwe",1987,24.93
-"ZW","Zimbabwe",1990,20.71
-"ZW","Zimbabwe",1993,25.16
-"ZW","Zimbabwe",1996,19.49
-"ZW","Zimbabwe",1999,19.26
-"ZW","Zimbabwe",2002,24.92
-"ZW","Zimbabwe",2005,41.15
-"ZW","Zimbabwe",2008,57.41
-"ZW","Zimbabwe",2010,50.46
-"ZW","Zimbabwe",2011,45.5
-"ZW","Zimbabwe",2012,41.31
-"ZW","Zimbabwe",2013,40.19
+"SR","Suriname",2005,33.8191
+"SR","Suriname",2008,30.4806
+"SR","Suriname",2010,29.6433
+"SR","Suriname",2011,29.6433
+"SR","Suriname",2012,29.2518
+"SR","Suriname",2013,26.6311
+"SZ","Swaziland",1981,96.4739
+"SZ","Swaziland",1984,96.5205
+"SZ","Swaziland",1987,95.2061
+"SZ","Swaziland",1990,92.3831
+"SZ","Swaziland",1993,92.2568
+"SZ","Swaziland",1996,82.4534
+"SZ","Swaziland",1999,72.3062
+"SZ","Swaziland",2002,70.3581
+"SZ","Swaziland",2005,67.39
+"SZ","Swaziland",2008,65.1318
+"SZ","Swaziland",2010,63.7142
+"SZ","Swaziland",2011,63.5041
+"SZ","Swaziland",2012,62.4871
+"SZ","Swaziland",2013,60.5443
+"SE","Sweden",1981,0.746378
+"SE","Sweden",1984,0.746378
+"SE","Sweden",1987,0.483467
+"SE","Sweden",1990,0.483467
+"SE","Sweden",1993,0.746378
+"SE","Sweden",1996,0.483467
+"SE","Sweden",1999,0.483467
+"SE","Sweden",2002,0.483467
+"SE","Sweden",2005,1.24092
+"SE","Sweden",2008,0.499626
+"SE","Sweden",2010,0.491321
+"SE","Sweden",2011,0.497324
+"SE","Sweden",2012,0.497498
+"SE","Sweden",2013,0.490604
+"CH","Switzerland",1981,0.240444
+"CH","Switzerland",1984,0.240444
+"CH","Switzerland",1987,0.240444
+"CH","Switzerland",1990,0.240444
+"CH","Switzerland",1993,0.240444
+"CH","Switzerland",1996,0.240444
+"CH","Switzerland",1999,0.240444
+"CH","Switzerland",2002,0.240444
+"CH","Switzerland",2005,0.240444
+"CH","Switzerland",2008,0.229442
+"CH","Switzerland",2010,0.226796
+"CH","Switzerland",2011,0
+"CH","Switzerland",2012,0
+"CH","Switzerland",2013,0
+"SY","Syria",1981,24.0652
+"SY","Syria",1984,31.1289
+"SY","Syria",1987,35.8964
+"SY","Syria",1990,34.849
+"SY","Syria",1993,24.2242
+"SY","Syria",1996,18.7138
+"SY","Syria",1999,20.9367
+"SY","Syria",2002,16.8529
+"SY","Syria",2005,13.8617
+"SY","Syria",2008,10.645
+"SY","Syria",2010,7.58804
+"SY","Syria",2011,9.61177
+"SY","Syria",2012,20.1732
+"SY","Syria",2013,32.2662
+"TJ","Tajikistan",1984,4.15124
+"TJ","Tajikistan",1987,3.80946
+"TJ","Tajikistan",1990,4.15124
+"TJ","Tajikistan",1993,65.2236
+"TJ","Tajikistan",1996,94.9231
+"TJ","Tajikistan",1999,87.0692
+"TJ","Tajikistan",2002,70.0389
+"TJ","Tajikistan",2005,43.8585
+"TJ","Tajikistan",2008,29.2361
+"TJ","Tajikistan",2010,24.5391
+"TJ","Tajikistan",2011,23.9683
+"TJ","Tajikistan",2012,23.7356
+"TJ","Tajikistan",2013,23.3395
+"TZ","Tanzania",1981,88.6318
+"TZ","Tanzania",1984,88.2645
+"TZ","Tanzania",1987,86.6796
+"TZ","Tanzania",1990,90.0162
+"TZ","Tanzania",1993,92.4118
+"TZ","Tanzania",1996,94.2323
+"TZ","Tanzania",1999,95.5576
+"TZ","Tanzania",2002,93.5978
+"TZ","Tanzania",2005,87.556
+"TZ","Tanzania",2008,82.865
+"TZ","Tanzania",2010,81.2411
+"TZ","Tanzania",2011,79.6165
+"TZ","Tanzania",2012,78.8833
+"TZ","Tanzania",2013,77.186
+"TH","Thailand",1981,43.1442
+"TH","Thailand",1984,42.0352
+"TH","Thailand",1987,40.8647
+"TH","Thailand",1990,36.2334
+"TH","Thailand",1993,24.2529
+"TH","Thailand",1996,15.2403
+"TH","Thailand",1999,18.4217
+"TH","Thailand",2002,12.1009
+"TH","Thailand",2005,7.03131
+"TH","Thailand",2008,3.43416
+"TH","Thailand",2010,2.48377
+"TH","Thailand",2011,1.35617
+"TH","Thailand",2012,1.45589
+"TH","Thailand",2013,1.09627
+"TL","Timor-Leste",1981,95.0456
+"TL","Timor-Leste",1984,92.9998
+"TL","Timor-Leste",1987,96.0442
+"TL","Timor-Leste",1990,95.591
+"TL","Timor-Leste",1993,94.5787
+"TL","Timor-Leste",1996,94.1551
+"TL","Timor-Leste",1999,92.7401
+"TL","Timor-Leste",2002,74.5547
+"TL","Timor-Leste",2005,81.566
+"TL","Timor-Leste",2008,83.2987
+"TL","Timor-Leste",2010,75.7602
+"TL","Timor-Leste",2011,76.5928
+"TL","Timor-Leste",2012,75.9372
+"TL","Timor-Leste",2013,74.8623
+"TG","Togo",1981,66.7436
+"TG","Togo",1984,73.0432
+"TG","Togo",1987,74.2408
+"TG","Togo",1990,73.5633
+"TG","Togo",1993,82.6882
+"TG","Togo",1996,75.8664
+"TG","Togo",1999,74.3696
+"TG","Togo",2002,78.2423
+"TG","Togo",2005,78.1988
+"TG","Togo",2008,77.5726
+"TG","Togo",2010,76.52
+"TG","Togo",2011,75.4289
+"TG","Togo",2012,74.9784
+"TG","Togo",2013,74.5594
+"TO","Tonga",1981,23.7296
+"TO","Tonga",1984,20.6216
+"TO","Tonga",1987,15.9908
+"TO","Tonga",1990,18.0022
+"TO","Tonga",1993,13.5962
+"TO","Tonga",1996,11.3227
+"TO","Tonga",1999,9.41706
+"TO","Tonga",2002,7.89278
+"TO","Tonga",2005,8.00099
+"TO","Tonga",2008,8.96856
+"TO","Tonga",2010,8.05871
+"TO","Tonga",2011,7.69047
+"TO","Tonga",2012,7.36711
+"TO","Tonga",2013,8.41369
+"TT","Trinidad & Tobago",1981,3.5742
+"TT","Trinidad & Tobago",1984,6.61158
+"TT","Trinidad & Tobago",1987,7.89566
+"TT","Trinidad & Tobago",1990,14.3425
+"TT","Trinidad & Tobago",1993,11.4654
+"TT","Trinidad & Tobago",1996,11.9282
+"TT","Trinidad & Tobago",1999,3.71465
+"TT","Trinidad & Tobago",2002,1.89046
+"TT","Trinidad & Tobago",2005,5.89489
+"TT","Trinidad & Tobago",2008,2.73419
+"TT","Trinidad & Tobago",2010,2.89037
+"TT","Trinidad & Tobago",2011,2.43591
+"TT","Trinidad & Tobago",2012,2.16171
+"TT","Trinidad & Tobago",2013,3.46604
+"TN","Tunisia",1981,37.7667
+"TN","Tunisia",1984,35.8917
+"TN","Tunisia",1987,34.1498
+"TN","Tunisia",1990,28.8888
+"TN","Tunisia",1993,29.5704
+"TN","Tunisia",1996,28.6843
+"TN","Tunisia",1999,23.0705
+"TN","Tunisia",2002,18.7541
+"TN","Tunisia",2005,14.7172
+"TN","Tunisia",2008,11.5117
+"TN","Tunisia",2010,9.57177
+"TN","Tunisia",2011,8.06334
+"TN","Tunisia",2012,6.63669
+"TN","Tunisia",2013,5.64828
+"TR","Turkey",1981,24.1537
+"TR","Turkey",1984,18.1179
+"TR","Turkey",1987,10.8981
+"TR","Turkey",1990,10.7798
+"TR","Turkey",1993,10.3296
+"TR","Turkey",1996,10.8576
+"TR","Turkey",1999,9.56714
+"TR","Turkey",2002,10.7363
+"TR","Turkey",2005,9.95194
+"TR","Turkey",2008,5.98612
+"TR","Turkey",2010,4.54336
+"TR","Turkey",2011,4.14207
+"TR","Turkey",2012,3.44435
+"TR","Turkey",2013,2.89336
+"TM","Turkmenistan",1984,66.5025
+"TM","Turkmenistan",1987,61.4896
+"TM","Turkmenistan",1990,45.4132
+"TM","Turkmenistan",1993,61.1308
+"TM","Turkmenistan",1996,74.4117
+"TM","Turkmenistan",1999,71.7039
+"TM","Turkmenistan",2002,68.4782
+"TM","Turkmenistan",2005,59.3654
+"TM","Turkmenistan",2008,41.9708
+"TM","Turkmenistan",2010,35.6296
+"TM","Turkmenistan",2011,29.3879
+"TM","Turkmenistan",2012,25.2627
+"TM","Turkmenistan",2013,21.7654
+"TV","Tuvalu",1990,28.7883
+"TV","Tuvalu",1993,25.3102
+"TV","Tuvalu",1996,26.2137
+"TV","Tuvalu",1999,16.8448
+"TV","Tuvalu",2002,13.8941
+"TV","Tuvalu",2005,19.5557
+"TV","Tuvalu",2008,13.8941
+"TV","Tuvalu",2010,17.5789
+"TV","Tuvalu",2011,14.3164
+"TV","Tuvalu",2012,14.8938
+"TV","Tuvalu",2013,14.4447
+"UG","Uganda",1984,84.4751
+"UG","Uganda",1987,86.9789
+"UG","Uganda",1990,86.3592
+"UG","Uganda",1993,89.4664
+"UG","Uganda",1996,85.3977
+"UG","Uganda",1999,85.9612
+"UG","Uganda",2002,84.6852
+"UG","Uganda",2005,80.3639
+"UG","Uganda",2008,74.1999
+"UG","Uganda",2010,71.7045
+"UG","Uganda",2011,68.8075
+"UG","Uganda",2012,67.8554
+"UG","Uganda",2013,67.4331
+"UA","Ukraine",1981,8.58441
+"UA","Ukraine",1984,6.73345
+"UA","Ukraine",1987,6.62545
+"UA","Ukraine",1990,7.53417
+"UA","Ukraine",1993,9.57333
+"UA","Ukraine",1996,22.6972
+"UA","Ukraine",1999,37.0088
+"UA","Ukraine",2002,11.8651
+"UA","Ukraine",2005,2.64939
+"UA","Ukraine",2008,0.446712
+"UA","Ukraine",2010,0.29719
+"UA","Ukraine",2011,0.197442
+"UA","Ukraine",2012,0.219878
+"UA","Ukraine",2013,0.108039
+"GB","United Kingdom",1981,1.48236
+"GB","United Kingdom",1984,1.24996
+"GB","United Kingdom",1987,0.998394
+"GB","United Kingdom",1990,0.998394
+"GB","United Kingdom",1993,0.998394
+"GB","United Kingdom",1996,0.73397
+"GB","United Kingdom",1999,0.73397
+"GB","United Kingdom",2002,0.493319
+"GB","United Kingdom",2005,0.738776
+"GB","United Kingdom",2008,0.494408
+"GB","United Kingdom",2010,0.240785
+"GB","United Kingdom",2011,0.496055
+"GB","United Kingdom",2012,0.247791
+"GB","United Kingdom",2013,0.240061
+"UY","Uruguay",1981,3.27891
+"UY","Uruguay",1984,6.98991
+"UY","Uruguay",1987,2.98312
+"UY","Uruguay",1990,3.69685
+"UY","Uruguay",1993,2.80206
+"UY","Uruguay",1996,2.64736
+"UY","Uruguay",1999,2.42138
+"UY","Uruguay",2002,6.07024
+"UY","Uruguay",2005,4.2922
+"UY","Uruguay",2008,1.7756
+"UY","Uruguay",2010,1.2748
+"UY","Uruguay",2011,0.974304
+"UY","Uruguay",2012,1.07836
+"UY","Uruguay",2013,0.815432
+"US","USA",1981,0.764866
+"US","USA",1984,0.670014
+"US","USA",1987,0.669616
+"US","USA",1990,0.668404
+"US","USA",1993,0.89004
+"US","USA",1996,1.00104
+"US","USA",1999,1.0017
+"US","USA",2002,1.16804
+"US","USA",2005,1.33504
+"US","USA",2008,1.33733
+"US","USA",2010,1.33792
+"US","USA",2011,1.34228
+"US","USA",2012,1.34663
+"US","USA",2013,1.35099
+"UZ","Uzbekistan",1981,56.8068
+"UZ","Uzbekistan",1984,59.2495
+"UZ","Uzbekistan",1987,56.7762
+"UZ","Uzbekistan",1990,53.5542
+"UZ","Uzbekistan",1993,63.4788
+"UZ","Uzbekistan",1996,68.5924
+"UZ","Uzbekistan",1999,75.9527
+"UZ","Uzbekistan",2002,85.8577
+"UZ","Uzbekistan",2005,82.706
+"UZ","Uzbekistan",2008,73.7144
+"UZ","Uzbekistan",2010,66.8474
+"UZ","Uzbekistan",2011,63.8517
+"UZ","Uzbekistan",2012,59.4069
+"UZ","Uzbekistan",2013,55.0619
+"VU","Vanuatu",1981,50.9961
+"VU","Vanuatu",1984,34.981
+"VU","Vanuatu",1987,40.2852
+"VU","Vanuatu",1990,38.1411
+"VU","Vanuatu",1993,39.7198
+"VU","Vanuatu",1996,36.5964
+"VU","Vanuatu",1999,34.197
+"VU","Vanuatu",2002,40.2312
+"VU","Vanuatu",2005,38.445
+"VU","Vanuatu",2008,39.7198
+"VU","Vanuatu",2010,39.4809
+"VU","Vanuatu",2011,39.0084
+"VU","Vanuatu",2012,38.559
+"VU","Vanuatu",2013,37.6816
+"VE","Venezuela",1981,10.179
+"VE","Venezuela",1984,11.683
+"VE","Venezuela",1987,10.9839
+"VE","Venezuela",1990,13.4991
+"VE","Venezuela",1993,11.3886
+"VE","Venezuela",1996,21.2667
+"VE","Venezuela",1999,21.4362
+"VE","Venezuela",2002,28.8682
+"VE","Venezuela",2005,24.8086
+"VE","Venezuela",2008,12.5328
+"VE","Venezuela",2010,13.7248
+"VE","Venezuela",2011,13.3
+"VE","Venezuela",2012,12.573
+"VE","Venezuela",2013,12.1934
+"VN","Viet Nam",1981,93.0074
+"VN","Viet Nam",1984,89.2196
+"VN","Viet Nam",1987,88.3806
+"VN","Viet Nam",1990,85.2932
+"VN","Viet Nam",1993,79.6347
+"VN","Viet Nam",1996,74.0261
+"VN","Viet Nam",1999,71.2124
+"VN","Viet Nam",2002,70.7707
+"VN","Viet Nam",2005,55.8656
+"VN","Viet Nam",2008,46.6847
+"VN","Viet Nam",2010,17.3171
+"VN","Viet Nam",2011,15.4281
+"VN","Viet Nam",2012,13.3829
+"VN","Viet Nam",2013,12.3302
+"YE","Yemen",1981,54.6977
+"YE","Yemen",1984,54.9753
+"YE","Yemen",1987,34.5193
+"YE","Yemen",1990,34.6406
+"YE","Yemen",1993,32.8791
+"YE","Yemen",1996,30.6572
+"YE","Yemen",1999,29.8463
+"YE","Yemen",2002,34.3251
+"YE","Yemen",2005,38.2977
+"YE","Yemen",2008,39.7308
+"YE","Yemen",2010,37.3349
+"YE","Yemen",2011,50.2798
+"YE","Yemen",2012,50.9918
+"YE","Yemen",2013,48.8812
+"ZM","Zambia",1981,61.2284
+"ZM","Zambia",1984,65.8538
+"ZM","Zambia",1987,67.2088
+"ZM","Zambia",1990,68.3181
+"ZM","Zambia",1993,73.9289
+"ZM","Zambia",1996,64.6852
+"ZM","Zambia",1999,68.0802
+"ZM","Zambia",2002,75.1556
+"ZM","Zambia",2005,75.6453
+"ZM","Zambia",2008,78.8717
+"ZM","Zambia",2010,79.747
+"ZM","Zambia",2011,78.4753
+"ZM","Zambia",2012,76.6489
+"ZM","Zambia",2013,75.5231
+"ZW","Zimbabwe",1981,24.5955
+"ZW","Zimbabwe",1984,28.9199
+"ZW","Zimbabwe",1987,29.3323
+"ZW","Zimbabwe",1990,24.6888
+"ZW","Zimbabwe",1993,29.2905
+"ZW","Zimbabwe",1996,23.1211
+"ZW","Zimbabwe",1999,23.1058
+"ZW","Zimbabwe",2002,29.8306
+"ZW","Zimbabwe",2005,47.3559
+"ZW","Zimbabwe",2008,63.7505
+"ZW","Zimbabwe",2010,53.7594
+"ZW","Zimbabwe",2011,47.2061
+"ZW","Zimbabwe",2012,41.0523
+"ZW","Zimbabwe",2013,39.4385

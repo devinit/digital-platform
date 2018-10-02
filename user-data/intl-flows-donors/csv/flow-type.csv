@@ -1,4 +1,0 @@
-id,name,description,source,color-id
-official,International official finance,"International official financing includes the inflows and outflows related to official development assistance, other official flows, other flows from Development Finance Institutions and other long-term debt from commercial sources.","OECD DAC, Development Initiatives, World Bank International Debt Statistics",lightblue-high
-commercial,Commercial resources,Commercial resources includes inflows and outflows related to foreign direct investment and portfolio equity.,,yellow-high
-private,Private resource,Private resources includes the inflows and outflows related to remittances and private development assistance,,red-high

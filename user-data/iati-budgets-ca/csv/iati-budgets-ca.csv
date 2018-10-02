@@ -1,4 +1,4 @@
-"id","entity-name","year","value"
+"di_id","entity_name","year","value"
 "AF","Afghanistan",2016,58155308
 "AF","Afghanistan",2017,17495985
 "AF","Afghanistan",2018,16949965
@@ -27,9 +27,6 @@
 "BI","Burundi",2016,635055
 "BI","Burundi",2017,349024
 "BI","Burundi",2018,201004
-"CI","Côte d'Ivoire",2016,2421393
-"CI","Côte d'Ivoire",2017,2588096
-"CI","Côte d'Ivoire",2018,3220443
 "KH","Cambodia",2016,962168
 "KH","Cambodia",2017,1018290
 "CM","Cameroon",2016,2482953
@@ -45,6 +42,9 @@
 "CR","Costa Rica",2016,254478
 "CR","Costa Rica",2017,263655
 "CR","Costa Rica",2018,357171
+"CI","Côte d'Ivoire",2016,2421393
+"CI","Côte d'Ivoire",2017,2588096
+"CI","Côte d'Ivoire",2018,3220443
 "CU","Cuba",2016,798549
 "CU","Cuba",2017,664015
 "CU","Cuba",2018,377505

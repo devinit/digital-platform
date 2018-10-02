@@ -1,131 +1,131 @@
-"id","entity-name","2013"
-"AL","Albania",92510
-"AO","Angola",9727060
-"AM","Armenia",264316
-"AZ","Azerbaijan",80070
-"BD","Bangladesh",49772572
-"BY","Belarus",0
-"BZ","Belize",62628
-"BJ","Benin",6798816
-"BT","Bhutan",36150
-"BO","Bolivia",1104480
-"BA","Bosnia & Herzegovina",10314
-"BW","Botswana",472188
-"BR","Brazil",14032662
-"BG","Bulgaria",220281
-"BF","Burkina Faso",11160072
-"BI","Burundi",9071208
-"CI","Côte d'Ivoire",9022026
-"KH","Cambodia",1256164
-"CM","Cameroon",8555292
-"CV","Cape Verde",76398
-"CF","CAR",4125489
-"TD","Chad",6494785
-"CL","Chile",249636
-"CN","China",83750346
-"CO","Colombia",4776606
-"KM","Comoros",185325
-"CG","Congo",2199829
-"CR","Costa Rica",137061
-"HR","Croatia",57084
-"CZ","Czech Republic",15765
-"DJ","Djibouti",284144
-"DO","Dominican Republic",581848
-"CD","DRC",62030250
-"EC","Ecuador",1202688
-"SV","El Salvador",436044
-"EE","Estonia",16632
-"ET","Ethiopia",40528416
-"FJ","Fiji",90024
-"GA","Gabon",237765
-"GM","Gambia",1107414
-"GE","Georgia",786618
-"GH","Ghana",5757816
-"GT","Guatemala",2857149
-"GN","Guinea",6703950
-"GW","Guinea-Bissau",1382832
-"GY","Guyana",93480
-"HT","Haiti",6600104
-"HN","Honduras",2220765
-"HU","Hungary",33626
-"IN","India",490048500
-"ID","Indonesia",67842900
-"IR","Iran",200590
-"JM","Jamaica",132790
-"KZ","Kazakhstan",15336
-"KE","Kenya",17406096
-"KI","Kiribati",26422
-"XK","Kosovo",34398
-"KG","Kyrgyzstan",710424
-"LA","Lao",2104942
-"LV","Latvia",35577
-"LS","Lesotho",1415856
-"LR","Liberia",3123120
-"LT","Lithuania",33448
-"MK","Macedonia",97704
-"MG","Madagascar",19851012
-"MW","Malawi",13264467
-"MY","Malaysia",111986
-"MV","Maldives",47775
-"ML","Mali",11598069
-"MR","Mauritania",609525
-"MU","Mauritius",18900
-"MX","Mexico",7894612
-"FM","Micronesia",29080
-"MD","Moldova",16732
-"MN","Mongolia",37180
-"ME","Montenegro",11966
-"MA","Morocco",1501905
-"MZ","Mozambique",19791619
-"NA","Namibia",752705
-"NP","Nepal",6940802
-"NI","Nicaragua",759220
-"NE","Niger",12281004
-"NG","Nigeria",112955152
-"PK","Pakistan",44192241
-"PS","Palestine",21267
-"PA","Panama",216027
-"PG","Papua New Guinea",3364793
-"PY","Paraguay",280151
-"PE","Peru",2103216
-"PH","Philippines",24733995
-"PL","Poland",15216
-"RO","Romania",417582
-"RU","Russian Federation",258318
-"RW","Rwanda",8206956
-"LC","Saint Lucia",78444
-"WS","Samoa",8987
-"ST","Sao Tome & Principe",89928
-"SN","Senegal",7697286
-"RS","Serbia",53700
-"SC","Seychelles",1368
-"SL","Sierra Leone",3290850
-"SK","Slovak Republic",16771
-"SI","Slovenia",618
-"SB","Solomon Islands",272944
-"ZA","South Africa",14159178
-"SS","South Sudan",9366100
-"LK","Sri Lanka",1461180
-"SD","Sudan",7519104
-"SR","Suriname",111989
-"SZ","Swaziland",683375
-"TJ","Tajikistan",3637335
-"TZ","Tanzania",32144442
-"TH","Thailand",175370
-"TL","Timor-Leste",551768
-"TG","Togo",4499649
-"TO","Tonga",4400
-"TT","Trinidad & Tobago",7560
-"TN","Tunisia",309276
-"TR","Turkey",1036592
-"TM","Turkmenistan",398240
-"TV","Tuvalu",640
-"UG","Uganda",19597863
-"UA","Ukraine",18196
-"UY","Uruguay",27962
-"UZ","Uzbekistan",13375152
-"VU","Vanuatu",67900
-"VE","Venezuela",2967440
-"VN","Viet Nam",6974352
-"ZM","Zambia",10841225
-"ZW","Zimbabwe",4540030
+"di_id","entity_name","2013","2014","2015"
+"AL","Albania",92510,92510,92510
+"AO","Angola",9727060,9727060,9727060
+"AM","Armenia",264316,264316,264316
+"AZ","Azerbaijan",80070,80070,80070
+"BD","Bangladesh",49772572,49772572,49772572
+"BY","Belarus",,,
+"BZ","Belize",62628,62628,62628
+"BJ","Benin",6798816,6798816,6798816
+"BT","Bhutan",36150,36150,36150
+"BO","Bolivia",1104480,1104480,1104480
+"BA","Bosnia & Herzegovina",10314,10314,10314
+"BW","Botswana",472188,472188,472188
+"BR","Brazil",14032662,14032662,14032662
+"BG","Bulgaria",220281,220281,220281
+"BF","Burkina Faso",11160072,11160072,11160072
+"BI","Burundi",9071208,9071208,9071208
+"KH","Cambodia",1256164,1256164,1256164
+"CM","Cameroon",8555292,8555292,8555292
+"CV","Cape Verde",76398,76398,76398
+"CF","CAR",4125489,4125489,4125489
+"TD","Chad",6494785,6494785,6494785
+"CL","Chile",249636,249636,249636
+"CN","China",83750346,83750346,83750346
+"CO","Colombia",4776606,4776606,4776606
+"KM","Comoros",185325,185325,185325
+"CG","Congo",2199829,2199829,2199829
+"CR","Costa Rica",137061,137061,137061
+"CI","Côte d'Ivoire",9022026,9022026,9022026
+"HR","Croatia",57084,57084,57084
+"CZ","Czech Republic",15765,15765,15765
+"DJ","Djibouti",284144,284144,284144
+"DO","Dominican Republic",581848,581848,581848
+"CD","DRC",62030250,62030250,62030250
+"EC","Ecuador",1202688,1202688,1202688
+"SV","El Salvador",436044,436044,436044
+"EE","Estonia",16632,16632,16632
+"ET","Ethiopia",40528416,40528416,40528416
+"FJ","Fiji",90024,90024,90024
+"GA","Gabon",237765,237765,237765
+"GM","Gambia",1107414,1107414,1107414
+"GE","Georgia",786618,786618,786618
+"GH","Ghana",5757816,5757816,5757816
+"GT","Guatemala",2857149,2857149,2857149
+"GN","Guinea",6703950,6703950,6703950
+"GW","Guinea-Bissau",1382832,1382832,1382832
+"GY","Guyana",93480,93480,93480
+"HT","Haiti",6600104,6600104,6600104
+"HN","Honduras",2220765,2220765,2220765
+"HU","Hungary",33626,33626,33626
+"IN","India",490048500,490048500,490048500
+"ID","Indonesia",67842900,67842900,67842900
+"IR","Iran",200590,200590,200590
+"JM","Jamaica",132790,132790,132790
+"KZ","Kazakhstan",15336,15336,15336
+"KE","Kenya",17406096,17406096,17406096
+"KI","Kiribati",26422,26422,26422
+"XK","Kosovo",34398,34398,34398
+"KG","Kyrgyzstan",710424,710424,710424
+"LA","Lao",2104942,2104942,2104942
+"LV","Latvia",35577,35577,35577
+"LS","Lesotho",1415856,1415856,1415856
+"LR","Liberia",3123120,3123120,3123120
+"LT","Lithuania",33448,33448,33448
+"MK","Macedonia",97704,97704,97704
+"MG","Madagascar",19851012,19851012,19851012
+"MW","Malawi",13264467,13264467,13264467
+"MY","Malaysia",111986,111986,111986
+"MV","Maldives",47775,47775,47775
+"ML","Mali",11598069,11598069,11598069
+"MR","Mauritania",609525,609525,609525
+"MU","Mauritius",18900,18900,18900
+"MX","Mexico",7894612,7894612,7894612
+"FM","Micronesia",29080,29080,29080
+"MD","Moldova",16732,16732,16732
+"MN","Mongolia",37180,37180,37180
+"ME","Montenegro",11966,11966,11966
+"MA","Morocco",1501905,1501905,1501905
+"MZ","Mozambique",19791619,19791619,19791619
+"NA","Namibia",752705,752705,752705
+"NP","Nepal",6940802,6940802,6940802
+"NI","Nicaragua",759220,759220,759220
+"NE","Niger",12281004,12281004,12281004
+"NG","Nigeria",112955152,112955152,112955152
+"PK","Pakistan",44192241,44192241,44192241
+"PS","Palestine",21267,21267,21267
+"PA","Panama",216027,216027,216027
+"PG","Papua New Guinea",3364793,3364793,3364793
+"PY","Paraguay",280151,280151,280151
+"PE","Peru",2103216,2103216,2103216
+"PH","Philippines",24733995,24733995,24733995
+"PL","Poland",15216,15216,15216
+"RO","Romania",417582,417582,417582
+"RU","Russian Federation",258318,258318,258318
+"RW","Rwanda",8206956,8206956,8206956
+"LC","Saint Lucia",78444,78444,78444
+"WS","Samoa",8987,8987,8987
+"ST","Sao Tome & Principe",89928,89928,89928
+"SN","Senegal",7697286,7697286,7697286
+"RS","Serbia",53700,53700,53700
+"SC","Seychelles",1368,1368,1368
+"SL","Sierra Leone",3290850,3290850,3290850
+"SK","Slovakia",16771,16771,16771
+"SI","Slovenia",618,618,618
+"SB","Solomon Islands",272944,272944,272944
+"ZA","South Africa",14159178,14159178,14159178
+"SS","South Sudan",9366100,9366100,9366100
+"LK","Sri Lanka",1461180,1461180,1461180
+"SD","Sudan",7519104,7519104,7519104
+"SR","Suriname",111989,111989,111989
+"SZ","Swaziland",683375,683375,683375
+"TJ","Tajikistan",3637335,3637335,3637335
+"TZ","Tanzania",32144442,32144442,32144442
+"TH","Thailand",175370,175370,175370
+"TL","Timor-Leste",551768,551768,551768
+"TG","Togo",4499649,4499649,4499649
+"TO","Tonga",4400,4400,4400
+"TT","Trinidad & Tobago",7560,7560,7560
+"TN","Tunisia",309276,309276,309276
+"TR","Turkey",1036592,1036592,1036592
+"TM","Turkmenistan",398240,398240,398240
+"TV","Tuvalu",640,640,640
+"UG","Uganda",19597863,19597863,19597863
+"UA","Ukraine",18196,18196,18196
+"UY","Uruguay",27962,27962,27962
+"UZ","Uzbekistan",13375152,13375152,13375152
+"VU","Vanuatu",67900,67900,67900
+"VE","Venezuela",2967440,2967440,2967440
+"VN","Viet Nam",6974352,6974352,6974352
+"ZM","Zambia",10841225,10841225,10841225
+"ZW","Zimbabwe",4540030,4540030,4540030

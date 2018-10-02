@@ -1,0 +1,57 @@
+"district_id","district_name","year","budget_type","value"
+"d18974","Baringo",2014,"estimated",8.0592021327
+"d18974","Baringo",2015,"estimated",12.6585006283
+"d18975","Bomet",2015,"estimated",19.4419661335
+"d18975","Bomet",2016,"estimated",7.2260624958
+"d18987","Bungoma",2014,"estimated",9.7943611192
+"d18988","Busia",2016,"estimated",6.8708504212
+"d18976","Elgeyo-Marakwet",2014,"estimated",9.1308939853
+"d18976","Elgeyo-Marakwet",2015,"estimated",7.4026846632
+"d18976","Elgeyo-Marakwet",2016,"actual",8.396121134
+"d18976","Elgeyo-Marakwet",2017,"estimated",7.7116248176
+"d18965","Garissa",2014,"estimated",7.1497833712
+"d18968","Homa Bay",2015,"estimated",6.0281329168
+"d18989","Kakamega",2015,"estimated",10.0781978367
+"d18989","Kakamega",2016,"estimated",7.6224469609
+"d18943","Kiambu",2014,"estimated",6.7966567265
+"d18943","Kiambu",2016,"estimated",5.9989371405
+"d18949","Kilifi",2014,"estimated",8.9463409043
+"d18944","Kirinyaga",2014,"estimated",7.1532303955
+"d18969","Kisii",2014,"estimated",3.6557811309
+"d18970","Kisumu",2015,"estimated",5.1961325606
+"d18970","Kisumu",2016,"estimated",5.0645357438
+"d18957","Kitui",2015,"estimated",11.8251039587
+"d18950","Kwale",2016,"estimated",6.4440246506
+"d18951","Lamu",2016,"estimated",9.469834997
+"d18959","Makueni",2014,"estimated",17.1771925504
+"d18960","Marsabit",2014,"estimated",8.072796139
+"d18960","Marsabit",2015,"estimated",7.3723347826
+"d18971","Migori",2014,"estimated",5.4107173675
+"d18952","Mombasa",2014,"estimated",5.5813437976
+"d18952","Mombasa",2016,"estimated",2.7449729686
+"d18946","Murang'a",2016,"estimated",3.3914584203
+"d18964","Nairobi",2016,"estimated",1.0963811689
+"d18964","Nairobi",2017,"estimated",1.4838760979
+"d18979","Nakuru",2015,"estimated",6.5447008313
+"d18979","Nakuru",2016,"estimated",6.0602111666
+"d18981","Narok",2014,"estimated",4.4652985917
+"d18962","Nithi",2016,"estimated",4.4804263658
+"d18947","Nyandarua",2015,"estimated",13.4614083378
+"d18947","Nyandarua",2016,"estimated",
+"d18948","Nyeri",2016,"estimated",5.3358354793
+"d18948","Nyeri",2017,"estimated",7.7996558571
+"d18982","Samburu",2016,"estimated",7.3337049586
+"d18982","Samburu",2017,"estimated",5.8139560276
+"d18973","Siaya",2016,"estimated",7.2909657318
+"d18973","Siaya",2017,"estimated",6.9346604877
+"d18953","Taita Taveta",2015,"estimated",12.4202630304
+"d18953","Taita Taveta",2016,"estimated",5.4809531227
+"d18953","Taita Taveta",2017,"estimated",6.8286022967
+"d18983","Trans-Nzoia",2016,"estimated",9.3746929342
+"d18983","Trans-Nzoia",2017,"estimated",6.3414638394
+"d18984","Turkana",2015,"estimated",14.3153871931
+"d18985","Uasin Gishu",2015,"estimated",7.9518220427
+"d18985","Uasin Gishu",2017,"estimated",17.170318154
+"d18986","West Pokot",2015,"estimated",9.7344793764
+"d18986","West Pokot",2016,"estimated",10.0293024487
+"d18986","West Pokot",2017,"estimated",7.6915547782

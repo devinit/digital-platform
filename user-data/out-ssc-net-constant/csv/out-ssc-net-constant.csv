@@ -1,0 +1,389 @@
+"di_id","entity_name","year","value"
+"AZ","Azerbaijan",2014,14260000
+"AZ","Azerbaijan",2015,12910000
+"AZ","Azerbaijan",2016,7390000
+"BG","Bulgaria",2010,38010000
+"BG","Bulgaria",2011,42830000
+"BG","Bulgaria",2012,36210000
+"BG","Bulgaria",2013,44760000
+"BG","Bulgaria",2014,43680000
+"BG","Bulgaria",2015,40750000
+"BG","Bulgaria",2016,67660000
+"BG","Bulgaria",2017,61200000
+"HR","Croatia",2012,19370000
+"HR","Croatia",2013,40620000
+"HR","Croatia",2014,64710000
+"HR","Croatia",2015,51190000
+"HR","Croatia",2016,40630000
+"CY","Cyprus",2005,16140000
+"CY","Cyprus",2006,26980000
+"CY","Cyprus",2007,33500000
+"CY","Cyprus",2008,34280000
+"CY","Cyprus",2009,43120000
+"CY","Cyprus",2010,48050000
+"CY","Cyprus",2011,33330000
+"CY","Cyprus",2012,22760000
+"CY","Cyprus",2013,18370000
+"CY","Cyprus",2014,16610000
+"CY","Cyprus",2015,18160000
+"EE","Estonia",1998,330000
+"EE","Estonia",1999,810000
+"EE","Estonia",2000,1260000
+"EE","Estonia",2001,1150000
+"EE","Estonia",2002,2670000
+"EE","Estonia",2003,1850000
+"EE","Estonia",2004,7110000
+"EE","Estonia",2005,13210000
+"EE","Estonia",2006,17760000
+"EE","Estonia",2007,16680000
+"EE","Estonia",2008,19940000
+"EE","Estonia",2009,17580000
+"EE","Estonia",2010,18390000
+"EE","Estonia",2011,21410000
+"EE","Estonia",2012,21610000
+"EE","Estonia",2013,26780000
+"EE","Estonia",2014,32110000
+"EE","Estonia",2015,34280000
+"EE","Estonia",2016,43410000
+"IL","Israel",1997,124930000
+"IL","Israel",1998,125470000
+"IL","Israel",1999,167670000
+"IL","Israel",2000,234380000
+"IL","Israel",2001,133260000
+"IL","Israel",2002,203450000
+"IL","Israel",2003,167010000
+"IL","Israel",2004,123310000
+"IL","Israel",2005,138790000
+"IL","Israel",2006,127960000
+"IL","Israel",2007,144610000
+"IL","Israel",2008,152940000
+"IL","Israel",2009,145180000
+"IL","Israel",2010,158660000
+"IL","Israel",2011,212830000
+"IL","Israel",2012,194290000
+"IL","Israel",2013,198720000
+"IL","Israel",2014,192910000
+"IL","Israel",2015,237800000
+"IL","Israel",2016,274040000
+"KZ","Kazakhstan",2013,7650000
+"KZ","Kazakhstan",2014,29950000
+"KZ","Kazakhstan",2015,42770000
+"KZ","Kazakhstan",2016,30830000
+"KW","Kuwait",1970,863010000
+"KW","Kuwait",1971,563010000
+"KW","Kuwait",1972,756100000
+"KW","Kuwait",1973,1423950000
+"KW","Kuwait",1974,2256520000
+"KW","Kuwait",1975,2970130000
+"KW","Kuwait",1976,1973930000
+"KW","Kuwait",1977,2264570000
+"KW","Kuwait",1978,2119650000
+"KW","Kuwait",1979,2101510000
+"KW","Kuwait",1980,2246230000
+"KW","Kuwait",1981,2398560000
+"KW","Kuwait",1982,2308260000
+"KW","Kuwait",1983,1955110000
+"KW","Kuwait",1984,2126910000
+"KW","Kuwait",1985,1513100000
+"KW","Kuwait",1986,1214430000
+"KW","Kuwait",1987,495690000
+"KW","Kuwait",1988,94500000
+"KW","Kuwait",1989,257760000
+"KW","Kuwait",1990,1807620000
+"KW","Kuwait",1991,447760000
+"KW","Kuwait",1992,245390000
+"KW","Kuwait",1993,501540000
+"KW","Kuwait",1994,7.74e+08
+"KW","Kuwait",1995,434340000
+"KW","Kuwait",1996,493770000
+"KW","Kuwait",1997,475800000
+"KW","Kuwait",1998,362550000
+"KW","Kuwait",1999,188840000
+"KW","Kuwait",2000,219670000
+"KW","Kuwait",2001,102760000
+"KW","Kuwait",2002,27500000
+"KW","Kuwait",2003,164260000
+"KW","Kuwait",2004,176670000
+"KW","Kuwait",2005,234030000
+"KW","Kuwait",2006,163880000
+"KW","Kuwait",2007,105540000
+"KW","Kuwait",2008,259270000
+"KW","Kuwait",2009,209480000
+"KW","Kuwait",2010,218030000
+"KW","Kuwait",2011,155040000
+"KW","Kuwait",2012,162910000
+"KW","Kuwait",2013,208220000
+"KW","Kuwait",2014,248490000
+"KW","Kuwait",2015,303130000
+"KW","Kuwait",2016,1080090000
+"LV","Latvia",2002,2820000
+"LV","Latvia",2003,1450000
+"LV","Latvia",2004,12170000
+"LV","Latvia",2005,14510000
+"LV","Latvia",2006,14280000
+"LV","Latvia",2007,14530000
+"LV","Latvia",2008,16890000
+"LV","Latvia",2009,18720000
+"LV","Latvia",2010,14920000
+"LV","Latvia",2011,16370000
+"LV","Latvia",2012,18950000
+"LV","Latvia",2013,20200000
+"LV","Latvia",2014,21240000
+"LV","Latvia",2015,23160000
+"LV","Latvia",2016,30180000
+"LI","Liechtenstein",2007,17230000
+"LI","Liechtenstein",2008,21690000
+"LI","Liechtenstein",2009,24860000
+"LI","Liechtenstein",2010,24990000
+"LI","Liechtenstein",2011,27850000
+"LI","Liechtenstein",2012,25920000
+"LI","Liechtenstein",2013,25470000
+"LI","Liechtenstein",2014,24530000
+"LI","Liechtenstein",2015,24120000
+"LI","Liechtenstein",2016,24570000
+"LT","Lithuania",2001,3460000
+"LT","Lithuania",2002,2960000
+"LT","Lithuania",2003,2920000
+"LT","Lithuania",2004,12130000
+"LT","Lithuania",2005,19470000
+"LT","Lithuania",2006,29130000
+"LT","Lithuania",2007,46770000
+"LT","Lithuania",2008,40060000
+"LT","Lithuania",2009,33030000
+"LT","Lithuania",2010,34350000
+"LT","Lithuania",2011,43690000
+"LT","Lithuania",2012,46480000
+"LT","Lithuania",2013,42990000
+"LT","Lithuania",2014,38430000
+"LT","Lithuania",2015,48410000
+"LT","Lithuania",2016,57150000
+"MT","Malta",2009,12970000
+"MT","Malta",2010,12950000
+"MT","Malta",2011,17670000
+"MT","Malta",2012,16600000
+"MT","Malta",2013,16460000
+"MT","Malta",2014,18330000
+"MT","Malta",2015,16490000
+"MT","Malta",2016,20550000
+"non-dac-countries-total","Non-DAC Countries, Total",1966,1959670000
+"non-dac-countries-total","Non-DAC Countries, Total",1970,2253220000
+"non-dac-countries-total","Non-DAC Countries, Total",1971,2630860000
+"non-dac-countries-total","Non-DAC Countries, Total",1972,3360650000
+"non-dac-countries-total","Non-DAC Countries, Total",1973,10497070000
+"non-dac-countries-total","Non-DAC Countries, Total",1974,16743870000
+"non-dac-countries-total","Non-DAC Countries, Total",1975,21258310000
+"non-dac-countries-total","Non-DAC Countries, Total",1976,19078540000
+"non-dac-countries-total","Non-DAC Countries, Total",1977,15670150000
+"non-dac-countries-total","Non-DAC Countries, Total",1978,20902040000
+"non-dac-countries-total","Non-DAC Countries, Total",1979,18175370000
+"non-dac-countries-total","Non-DAC Countries, Total",1980,22374210000
+"non-dac-countries-total","Non-DAC Countries, Total",1981,19572670000
+"non-dac-countries-total","Non-DAC Countries, Total",1982,13332350000
+"non-dac-countries-total","Non-DAC Countries, Total",1983,10400700000
+"non-dac-countries-total","Non-DAC Countries, Total",1984,9980830000
+"non-dac-countries-total","Non-DAC Countries, Total",1985,8159390000
+"non-dac-countries-total","Non-DAC Countries, Total",1986,8.572e+09
+"non-dac-countries-total","Non-DAC Countries, Total",1987,5924980000
+"non-dac-countries-total","Non-DAC Countries, Total",1988,3186980000
+"non-dac-countries-total","Non-DAC Countries, Total",1989,3011740000
+"non-dac-countries-total","Non-DAC Countries, Total",1990,10512320000
+"non-dac-countries-total","Non-DAC Countries, Total",1991,5243210000
+"non-dac-countries-total","Non-DAC Countries, Total",1992,2277420000
+"non-dac-countries-total","Non-DAC Countries, Total",1993,2107410000
+"non-dac-countries-total","Non-DAC Countries, Total",1994,1839900000
+"non-dac-countries-total","Non-DAC Countries, Total",1995,1307990000
+"non-dac-countries-total","Non-DAC Countries, Total",1996,1524190000
+"non-dac-countries-total","Non-DAC Countries, Total",1997,1864100000
+"non-dac-countries-total","Non-DAC Countries, Total",1998,2175250000
+"non-dac-countries-total","Non-DAC Countries, Total",1999,1526020000
+"non-dac-countries-total","Non-DAC Countries, Total",2000,1473420000
+"non-dac-countries-total","Non-DAC Countries, Total",2001,1329880000
+"non-dac-countries-total","Non-DAC Countries, Total",2002,4459840000
+"non-dac-countries-total","Non-DAC Countries, Total",2003,4382610000
+"non-dac-countries-total","Non-DAC Countries, Total",2004,3619120000
+"non-dac-countries-total","Non-DAC Countries, Total",2005,3203300000
+"non-dac-countries-total","Non-DAC Countries, Total",2006,4604350000
+"non-dac-countries-total","Non-DAC Countries, Total",2007,5253840000
+"non-dac-countries-total","Non-DAC Countries, Total",2008,7525510000
+"non-dac-countries-total","Non-DAC Countries, Total",2009,5540890000
+"non-dac-countries-total","Non-DAC Countries, Total",2010,5784440000
+"non-dac-countries-total","Non-DAC Countries, Total",2011,7.543e+09
+"non-dac-countries-total","Non-DAC Countries, Total",2012,5119260000
+"non-dac-countries-total","Non-DAC Countries, Total",2013,14069300000
+"non-dac-countries-total","Non-DAC Countries, Total",2014,21645420000
+"non-dac-countries-total","Non-DAC Countries, Total",2015,17333150000
+"non-dac-countries-total","Non-DAC Countries, Total",2016,14152180000
+"RO","Romania",2008,112490000
+"RO","Romania",2009,144500000
+"RO","Romania",2010,107290000
+"RO","Romania",2011,145060000
+"RO","Romania",2012,129120000
+"RO","Romania",2013,120750000
+"RO","Romania",2014,191760000
+"RO","Romania",2015,157430000
+"RO","Romania",2016,269330000
+"RU","Russian Federation",2010,343420000
+"RU","Russian Federation",2011,318610000
+"RU","Russian Federation",2012,273450000
+"RU","Russian Federation",2013,408470000
+"RU","Russian Federation",2014,564880000
+"RU","Russian Federation",2015,1099690000
+"RU","Russian Federation",2016,1258040000
+"SA","Saudi Arabia",1966,1959670000
+"SA","Saudi Arabia",1970,1006830000
+"SA","Saudi Arabia",1971,1171140000
+"SA","Saudi Arabia",1972,1715920000
+"SA","Saudi Arabia",1973,4804880000
+"SA","Saudi Arabia",1974,7668910000
+"SA","Saudi Arabia",1975,8885450000
+"SA","Saudi Arabia",1976,8355060000
+"SA","Saudi Arabia",1977,6955930000
+"SA","Saudi Arabia",1978,13465390000
+"SA","Saudi Arabia",1979,8967310000
+"SA","Saudi Arabia",1980,12078680000
+"SA","Saudi Arabia",1981,12036460000
+"SA","Saudi Arabia",1982,8147880000
+"SA","Saudi Arabia",1983,6890600000
+"SA","Saudi Arabia",1984,7114620000
+"SA","Saudi Arabia",1985,5716500000
+"SA","Saudi Arabia",1986,6553670000
+"SA","Saudi Arabia",1987,4764910000
+"SA","Saudi Arabia",1988,2748240000
+"SA","Saudi Arabia",1989,1800540000
+"SA","Saudi Arabia",1990,4959320000
+"SA","Saudi Arabia",1991,2315340000
+"SA","Saudi Arabia",1992,1009120000
+"SA","Saudi Arabia",1993,629990000
+"SA","Saudi Arabia",1994,407230000
+"SA","Saudi Arabia",1995,345180000
+"SA","Saudi Arabia",1996,439320000
+"SA","Saudi Arabia",1997,288780000
+"SA","Saudi Arabia",1998,330620000
+"SA","Saudi Arabia",1999,237700000
+"SA","Saudi Arabia",2000,366730000
+"SA","Saudi Arabia",2001,286860000
+"SA","Saudi Arabia",2002,3344210000
+"SA","Saudi Arabia",2003,2850130000
+"SA","Saudi Arabia",2004,1903570000
+"SA","Saudi Arabia",2005,1099370000
+"SA","Saudi Arabia",2006,2101470000
+"SA","Saudi Arabia",2007,1486480000
+"SA","Saudi Arabia",2008,4558490000
+"SA","Saudi Arabia",2009,2968670000
+"SA","Saudi Arabia",2010,3266070000
+"SA","Saudi Arabia",2011,4509810000
+"SA","Saudi Arabia",2012,1177290000
+"SA","Saudi Arabia",2013,5121980000
+"SA","Saudi Arabia",2014,12238120000
+"SA","Saudi Arabia",2015,6728780000
+"TW","Taiwan",1988,24180000
+"TW","Taiwan",1989,32040000
+"TW","Taiwan",1990,34500000
+"TW","Taiwan",1991,169530000
+"TW","Taiwan",1992,136720000
+"TW","Taiwan",1993,79940000
+"TW","Taiwan",1994,99740000
+"TW","Taiwan",1995,104460000
+"TW","Taiwan",1996,104730000
+"TW","Taiwan",1997,83330000
+"TW","Taiwan",1998,34730000
+"TW","Taiwan",2004,462100000
+"TW","Taiwan",2005,517440000
+"TW","Taiwan",2006,532400000
+"TW","Taiwan",2007,492720000
+"TW","Taiwan",2008,398450000
+"TW","Taiwan",2009,389690000
+"TW","Taiwan",2010,357530000
+"TW","Taiwan",2011,337460000
+"TW","Taiwan",2012,2.76e+08
+"TW","Taiwan",2013,244930000
+"TW","Taiwan",2014,245920000
+"TW","Taiwan",2015,253650000
+"TW","Taiwan",2016,327540000
+"TH","Thailand",2006,76470000
+"TH","Thailand",2007,64200000
+"TH","Thailand",2008,162130000
+"TH","Thailand",2009,36600000
+"TH","Thailand",2010,4250000
+"TH","Thailand",2011,20220000
+"TH","Thailand",2012,10460000
+"TH","Thailand",2013,32870000
+"TH","Thailand",2014,61910000
+"TH","Thailand",2015,62150000
+"TH","Thailand",2016,69460000
+"TL","Timor-Leste",2014,3030000
+"TL","Timor-Leste",2015,3980000
+"TR","Turkey",1990,4040000
+"TR","Turkey",1991,162070000
+"TR","Turkey",1992,119520000
+"TR","Turkey",1993,81360000
+"TR","Turkey",1994,98570000
+"TR","Turkey",1995,149760000
+"TR","Turkey",1996,122940000
+"TR","Turkey",1997,110590000
+"TR","Turkey",1998,96970000
+"TR","Turkey",1999,176780000
+"TR","Turkey",2000,119970000
+"TR","Turkey",2001,120880000
+"TR","Turkey",2002,123020000
+"TR","Turkey",2003,90690000
+"TR","Turkey",2004,389920000
+"TR","Turkey",2005,604170000
+"TR","Turkey",2006,701800000
+"TR","Turkey",2007,506330000
+"TR","Turkey",2008,589950000
+"TR","Turkey",2009,598280000
+"TR","Turkey",2010,744320000
+"TR","Turkey",2011,1005440000
+"TR","Turkey",2012,1995220000
+"TR","Turkey",2013,2616650000
+"TR","Turkey",2014,3034260000
+"TR","Turkey",2015,3812020000
+"TR","Turkey",2016,6310190000
+"AE","UAE",1970,2980000
+"AE","UAE",1971,546420000
+"AE","UAE",1972,558150000
+"AE","UAE",1973,2781750000
+"AE","UAE",1974,4170660000
+"AE","UAE",1975,6909070000
+"AE","UAE",1976,7893110000
+"AE","UAE",1977,5663310000
+"AE","UAE",1978,4702300000
+"AE","UAE",1979,4271780000
+"AE","UAE",1980,4886070000
+"AE","UAE",1981,3740570000
+"AE","UAE",1982,2353330000
+"AE","UAE",1983,1401720000
+"AE","UAE",1984,761510000
+"AE","UAE",1985,855370000
+"AE","UAE",1986,542380000
+"AE","UAE",1987,553410000
+"AE","UAE",1988,157720000
+"AE","UAE",1989,499830000
+"AE","UAE",1990,3487990000
+"AE","UAE",1991,2096980000
+"AE","UAE",1992,746190000
+"AE","UAE",1993,793920000
+"AE","UAE",1994,457540000
+"AE","UAE",1995,274250000
+"AE","UAE",1996,363430000
+"AE","UAE",1997,780670000
+"AE","UAE",1998,1224580000
+"AE","UAE",1999,754220000
+"AE","UAE",2000,531410000
+"AE","UAE",2001,681510000
+"AE","UAE",2002,753210000
+"AE","UAE",2003,1104300000
+"AE","UAE",2004,532140000
+"AE","UAE",2005,546170000
+"AE","UAE",2006,812220000
+"AE","UAE",2007,2325250000
+"AE","UAE",2008,1158930000
+"AE","UAE",2009,898210000
+"AE","UAE",2010,393210000
+"AE","UAE",2011,635370000
+"AE","UAE",2012,692620000
+"AE","UAE",2013,4873400000
+"AE","UAE",2014,4560300000
+"AE","UAE",2015,4362280000
+"AE","UAE",2016,4241110000
