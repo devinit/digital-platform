@@ -1,4 +1,4 @@
-"id","entity-name","year","value"
+"district_id","district_name","year","value"
 "d314","Abim",2014,
 "d301","Adjumani",2014,47.92
 "d322","Agago",2014,37
@@ -13,7 +13,7 @@
 "d218","Bududa",2014,52.85
 "d201","Bugiri",2014,48.9
 "d420","Buhweju",2014,37.38
-"d117","Buikwe",2014,41
+"d117","Buikwe",2014,48.9
 "d219","Bukedea",2014,56.02
 "d118","Bukomansimbi",2014,40.6
 "d220","Bukwo",2014,60.2
@@ -102,11 +102,11 @@
 "d110","Rakai",2014,44.97
 "d425","Rubirizi",2014,48.8
 "d412","Rukungiri",2014,50.73
+"d111","Sembabule",2014,45.53
 "d232","Serere",2014,53.57
 "d426","Sheema",2014,48.78
 "d215","Sironko",2014,56.08
 "d211","Soroti",2014,53.57
-"d111","Ssembabule",2014,45.53
 "d212","Tororo",2014,54.07
 "d113","Wakiso",2014,50.37
 "d313","Yumbe",2014,46.47

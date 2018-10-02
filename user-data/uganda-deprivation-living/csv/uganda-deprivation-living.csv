@@ -1,4 +1,4 @@
-"id","entity-name","year","value"
+"district_id","district_name","year","value"
 "d314","Abim",2014,
 "d301","Adjumani",2014,18.8
 "d322","Agago",2014,13.2
@@ -102,11 +102,11 @@
 "d110","Rakai",2014,54.3
 "d425","Rubirizi",2014,36.3
 "d412","Rukungiri",2014,34.4
+"d111","Sembabule",2014,47.1
 "d232","Serere",2014,26.4
 "d426","Sheema",2014,36.3
 "d215","Sironko",2014,41.5
 "d211","Soroti",2014,26.4
-"d111","Ssembabule",2014,47.1
 "d212","Tororo",2014,19.9
 "d113","Wakiso",2014,19.7
 "d313","Yumbe",2014,57.5

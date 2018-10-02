@@ -1,192 +1,192 @@
-"id","entity-name","2015"
-"AF","Afghanistan",5.9
-"AL","Albania",3.5
-"DZ","Algeria",3.2
-"AO","Angola",1.8
-"AG","Antigua & Barbuda",5.7
-"AR","Argentina",3.9
-"AM","Armenia",4
-"AU","Australia",4.4
-"AT","Austria",2.5
-"AZ","Azerbaijan",4
-"BS","Bahamas",3.4
-"BH","Bahrain",0.2
-"BD","Bangladesh",9.1
-"BB","Barbados",3
-"BY","Belarus",1.5
-"BE","Belgium",1.6
-"BZ","Belize",4.4
-"BJ","Benin",3.9
-"BT","Bhutan",4.7
-"BO","Bolivia",3.8
-"BA","Bosnia & Herzegovina",3.5
-"BW","Botswana",2.5
-"BR","Brazil",4.1
-"BN","Brunei",0.2
-"BG","Bulgaria",3.2
-"BF","Burkina Faso",2.4
-"BI","Burundi",2.7
-"CI","Côte d'Ivoire",1.5
-"KH","Cambodia",5
-"CM","Cameroon",2.6
-"CA","Canada",6.1
-"CV","Cape Verde",2
-"CF","CAR",1.1
-"TD","Chad",3
-"CL","Chile",7.2
-"CN","China",7.9
-"CO","Colombia",5.8
-"KM","Comoros",1.9
-"CG","Congo",1.3
-"CR","Costa Rica",4.9
-"HR","Croatia",3.2
-"CU","Cuba",4.9
-"CY","Cyprus",2.5
-"CZ","Czech Republic",2
-"DK","Denmark",0.7
-"DJ","Djibouti",4.6
-"DM","Dominica",2.2
-"DO","Dominican Republic",7.1
-"CD","DRC",3.2
-"EC","Ecuador",7
-"EG","Egypt",5.7
-"SV","El Salvador",5.9
-"GQ","Equatorial Guinea",1
-"ER","Eritrea",2.8
-"EE","Estonia",0.6
-"ET","Ethiopia",4.2
-"FJ","Fiji",6.8
-"FI","Finland",0
-"FR","France",3.1
-"GA","Gabon",1.4
-"GM","Gambia",1.5
-"GE","Georgia",4.2
-"DE","Germany",2.8
-"GH","Ghana",1.5
-"GR","Greece",4.3
-"GD","Grenada",3.4
-"GT","Guatemala",6.8
-"GN","Guinea",1.2
-"GW","Guinea-Bissau",1.1
-"GY","Guyana",2.6
-"HT","Haiti",6.1
-"HN","Honduras",5.3
-"HU","Hungary",2.9
-"IS","Iceland",1.4
-"IN","India",8.2
-"ID","Indonesia",7.5
-"IR","Iran",7
-"IQ","Iraq",3.5
-"IE","Ireland",1.9
-"IL","Israel",3.1
-"IT","Italy",3.4
-"JM","Jamaica",5.1
-"JP","Japan",8.4
-"JO","Jordan",3
-"KZ","Kazakhstan",3.6
-"KE","Kenya",4.2
-"KI","Kiribati",1.5
-"KR","Korea",4.2
-"KW","Kuwait",1.9
-"KG","Kyrgyzstan",5.4
-"LA","Lao",4.7
-"LV","Latvia",1
-"LB","Lebanon",4.7
-"LS","Lesotho",2
-"LR","Liberia",0.9
-"LY","Libya",4.5
-"LI","Liechtenstein",1.9
-"LT","Lithuania",1.4
-"LU","Luxembourg",0.7
-"MK","Macedonia",2.8
-"MG","Madagascar",5.6
-"MW","Malawi",3.3
-"MY","Malaysia",3.4
-"MV","Maldives",0.3
-"ML","Mali",2.8
-"MT","Malta",0
-"MH","Marshall Islands",0.6
-"MR","Mauritania",3.9
-"MU","Mauritius",5.7
-"MX","Mexico",7.5
-"FM","Micronesia",1.4
-"MD","Moldova",3.8
-"MN","Mongolia",2.8
-"ME","Montenegro",2.4
-"MA","Morocco",2.9
-"MZ","Mozambique",5.6
-"MM","Myanmar",9.1
-"NA","Namibia",2.7
-"NR","Nauru",1.1
-"NP","Nepal",6.8
-"NL","Netherlands",2
-"NZ","New Zealand",6.9
-"NI","Nicaragua",5.3
-"NE","Niger",3.1
-"NG","Nigeria",2.4
-"KP","North Korea",3.4
-"NO","Norway",0.2
-"OM","Oman",3.4
-"PK","Pakistan",7.1
-"PW","Palau",2.3
-"PS","Palestine",2.4
-"PA","Panama",3.2
-"PG","Papua New Guinea",3.7
-"PY","Paraguay",2.8
-"PE","Peru",7.7
-"PH","Philippines",9.3
-"PL","Poland",2.3
-"PT","Portugal",2.9
-"QA","Qatar",1
-"RO","Romania",4.8
-"RU","Russian Federation",4.7
-"RW","Rwanda",2.9
-"KN","Saint Kitts and Nevis",5.2
-"LC","Saint Lucia",4.8
-"VC","Saint Vincent & the Grenadines",1.7
-"WS","Samoa",2.3
-"ST","Sao Tome & Principe",0
-"SA","Saudi Arabia",1.9
-"SN","Senegal",2.8
-"RS","Serbia",4.4
-"SC","Seychelles",3
-"SL","Sierra Leone",1.2
-"SG","Singapore",0
-"SK","Slovak Republic",2.7
-"SI","Slovenia",2.7
-"SB","Solomon Islands",4.7
-"SO","Somalia",5.6
-"ZA","South Africa",3.4
-"SS","South Sudan",2.9
-"ES","Spain",4.1
-"LK","Sri Lanka",6.4
-"SD","Sudan",4.2
-"SR","Suriname",1.1
-"SZ","Swaziland",1.7
-"SE","Sweden",0.9
-"CH","Switzerland",2.2
-"SY","Syria",4.4
-"TJ","Tajikistan",5.5
-"TZ","Tanzania",4.1
-"TH","Thailand",5.9
-"TL","Timor-Leste",4.9
-"TG","Togo",1.2
-"TO","Tonga",2.8
-"TT","Trinidad & Tobago",2.4
-"TN","Tunisia",2.4
-"TR","Turkey",6.7
-"TM","Turkmenistan",4
-"TV","Tuvalu",0.3
-"AE","UAE",2.9
-"UG","Uganda",3.2
-"UA","Ukraine",3
-"GB","United Kingdom",2.1
-"US","United States",7.6
-"UY","Uruguay",1.7
-"UZ","Uzbekistan",5.9
-"VU","Vanuatu",5.4
-"VE","Venezuela",4.1
-"VN","Viet Nam",7.7
-"YE","Yemen",2.1
-"ZM","Zambia",2
-"ZW","Zimbabwe",2.3
+"di_id","entity_name","2012","2013","2014","2015","2016","2017","2018"
+"AF","Afghanistan",6,6,6,6,6,6,6
+"AL","Albania",5.5,5.5,5.5,5.5,5.5,5.5,5.5
+"DZ","Algeria",3.9,3.9,3.9,3.9,3.9,3.9,3.9
+"AO","Angola",2.1,2.1,2.1,2.1,2.1,2.1,2.1
+"AG","Antigua & Barbuda",2.7,2.7,2.7,2.7,2.7,2.7,2.7
+"AR","Argentina",3.4,3.4,3.4,3.4,3.4,3.4,3.4
+"AM","Armenia",4.2,4.2,4.2,4.2,4.2,4.2,4.2
+"AU","Australia",5.5,5.5,5.5,5.5,5.6,5.5,5.5
+"AT","Austria",2.4,2.4,2.4,2.4,2.4,2.4,2.4
+"AZ","Azerbaijan",4.5,4.5,4.5,4.5,4.5,4.5,4.5
+"BS","Bahamas",3.4,3.4,3.4,3.4,3.4,3.4,3.4
+"BH","Bahrain",0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"BD","Bangladesh",8.3,8.3,8.3,8.3,8.3,8.3,8.3
+"BB","Barbados",2.5,2.5,2.5,2.5,2.5,2.5,2.5
+"BY","Belarus",2.3,2.3,2.3,2.3,2.3,2.3,2.3
+"BE","Belgium",1.6,1.6,1.6,1.6,1.6,1.6,1.6
+"BZ","Belize",5.2,5.2,5.2,5.2,5.2,5.2,5.2
+"BJ","Benin",1.5,1.5,1.5,1.5,1.5,1.5,1.5
+"BT","Bhutan",3.2,3.2,3.2,3.2,3.2,3.2,3.2
+"BO","Bolivia",3.8,3.8,3.8,3.8,3.8,3.8,3.8
+"BA","Bosnia & Herzegovina",4.2,4.2,4.2,4.2,4.2,4.2,4.2
+"BW","Botswana",2.7,2.7,2.7,2.7,2.7,2.7,2.7
+"BR","Brazil",3.7,3.7,3.7,3.7,3.7,3.7,3.7
+"BN","Brunei",2.1,2.1,2.1,2.1,2.1,2.1,2.1
+"BG","Bulgaria",3.3,3.3,3.3,3.3,3.3,3.3,3.3
+"BF","Burkina Faso",2.6,2.6,2.6,2.6,2.6,2.6,2.6
+"BI","Burundi",3,3,3,3,3,3,3
+"KH","Cambodia",5.5,5.5,5.5,5.5,5.5,5.5,5.5
+"CM","Cameroon",2.3,2.3,2.3,2.3,2.3,2.3,2.3
+"CA","Canada",4.8,4.8,4.8,4.8,4.8,4.8,4.8
+"CV","Cape Verde",1.9,1.8,1.8,1.8,1.8,1.9,1.9
+"CF","CAR",1.7,1.7,1.7,1.7,1.7,1.7,1.7
+"TD","Chad",3.8,3.8,3.8,3.8,3.8,3.8,3.8
+"CL","Chile",6.6,6.6,6.6,6.6,6.6,6.6,6.6
+"CN","China",7.9,7.9,7.9,7.9,7.9,7.9,7.9
+"CO","Colombia",6.5,6.5,6.5,6.5,6.5,6.5,6.5
+"KM","Comoros",2.6,2.5,2.5,2.5,2.5,2.6,2.6
+"CG","Congo",2.5,2.5,2.5,2.5,2.5,2.5,2.5
+"CR","Costa Rica",6.3,6.3,6.3,6.3,6.3,6.3,6.3
+"CI","Côte d'Ivoire",1.9,1.9,1.9,1.9,1.9,1.9,1.9
+"HR","Croatia",5,5,5,5,5,5,5
+"CU","Cuba",5.5,5.5,5.5,5.5,5.5,5.5,5.5
+"CY","Cyprus",3.1,3.1,3.1,3.1,3.1,3.1,3.1
+"CZ","Czech Republic",2.1,2.1,2.1,2.1,2.1,2.1,2.1
+"DK","Denmark",1,1,1,1,1,1,1
+"DJ","Djibouti",4.9,4.9,4.9,4.9,4.9,4.9,4.9
+"DM","Dominica",3.6,3.5,3.5,3.5,3.5,3.6,3.6
+"DO","Dominican Republic",5.7,5.7,5.7,5.7,5.7,5.7,5.7
+"CD","DRC",3.3,3.3,3.3,3.3,3.3,3.3,3.3
+"EC","Ecuador",6.8,6.8,6.8,6.8,6.8,6.8,6.8
+"EG","Egypt",5.4,5.4,5.4,5.4,5.4,5.4,5.4
+"SV","El Salvador",6.1,6.1,6.1,6.1,6.1,6.1,6.1
+"GQ","Equatorial Guinea",1.4,1.4,1.4,1.4,1.4,1.4,1.4
+"ER","Eritrea",4.1,4.1,4.1,4.1,4.1,4.1,4.1
+"EE","Estonia",0.9,0.9,0.9,0.9,0.9,0.9,0.9
+"ET","Ethiopia",4.1,4.1,4.1,4.1,4.1,4.1,4.1
+"FJ","Fiji",3.8,3.8,3.8,3.8,3.8,3.8,3.8
+"FI","Finland",0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"FR","France",3.7,3.7,3.7,3.7,3.7,3.7,3.7
+"GA","Gabon",1.8,1.8,1.8,1.8,1.8,1.8,1.8
+"GM","Gambia",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+"GE","Georgia",4.5,4.5,4.5,4.5,4.5,4.5,4.5
+"DE","Germany",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+"GH","Ghana",2.4,2.4,2.4,2.4,2.4,2.4,2.4
+"GR","Greece",4.6,4.6,4.6,4.6,4.6,4.6,4.6
+"GD","Grenada",0.5,0.5,0.5,0.5,0.5,0.5,0.5
+"GT","Guatemala",6.9,6.9,6.9,6.9,6.9,6.9,6.9
+"GN","Guinea",2.4,2.4,2.4,2.4,2.4,2.4,2.4
+"GW","Guinea-Bissau",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+"GY","Guyana",2.9,2.9,2.9,2.9,2.9,2.9,2.9
+"HT","Haiti",5.6,5.6,5.6,5.6,5.5,5.6,5.6
+"HN","Honduras",5.7,5.7,5.7,5.7,5.7,5.7,5.7
+"HU","Hungary",3.6,3.6,3.6,3.6,3.6,3.6,3.6
+"IS","Iceland",1.3,1.3,1.3,1.3,1.3,1.3,1.3
+"IN","India",7.8,7.8,7.8,7.8,7.7,7.8,7.8
+"ID","Indonesia",7.8,7.8,7.8,7.8,7.8,7.8,7.8
+"IR","Iran",6.9,6.9,6.9,6.9,6.9,6.9,6.9
+"IQ","Iraq",5.4,5.4,5.4,5.4,5.4,5.4,5.4
+"IE","Ireland",2,2,2,2,2,2,2
+"IL","Israel",4.3,4.3,4.3,4.3,4.3,4.3,4.3
+"IT","Italy",4.9,4.9,4.9,4.9,4.9,4.9,4.9
+"JM","Jamaica",3.7,3.7,3.7,3.7,3.7,3.7,3.7
+"JP","Japan",8.3,8.3,8.3,8.3,8.3,8.3,8.3
+"JO","Jordan",3.9,3.9,3.9,3.9,3.9,3.9,3.9
+"KZ","Kazakhstan",4.3,4.3,4.3,4.3,4.3,4.3,4.3
+"KE","Kenya",4.9,4.9,4.9,4.9,4.9,4.9,4.9
+"KI","Kiribati",2.9,2.9,2.9,2.9,2.9,2.9,2.9
+"KW","Kuwait",2.3,2.3,2.3,2.3,2.3,2.3,2.3
+"KG","Kyrgyzstan",5.8,5.8,5.8,5.8,5.8,5.8,5.8
+"LA","Lao",4.7,4.7,4.7,4.7,4.7,4.7,4.7
+"LV","Latvia",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+"LB","Lebanon",3.7,3.7,3.7,3.7,3.7,3.7,3.7
+"LS","Lesotho",2.1,2.1,2.1,2.1,2.1,2.1,2.1
+"LR","Liberia",2.9,2.9,2.9,2.9,2.9,2.9,2.9
+"LY","Libya",4.6,4.6,4.6,4.6,4.6,4.6,4.6
+"LI","Liechtenstein",1.3,1.3,1.3,1.3,1.3,1.3,1.3
+"LT","Lithuania",1.8,1.8,1.8,1.8,1.8,1.8,1.8
+"LU","Luxembourg",0.4,0.4,0.4,0.4,0.4,0.4,0.4
+"MK","Macedonia",3.3,3.3,3.3,3.3,3.3,3.3,3.3
+"MG","Madagascar",5.9,5.9,5.9,5.9,5.9,5.9,5.9
+"MW","Malawi",3.6,3.6,3.6,3.6,3.6,3.6,3.6
+"MY","Malaysia",4.8,4.8,4.8,4.8,4.8,4.8,4.8
+"MV","Maldives",3.1,3.1,3.1,3.1,3.1,3.1,3.1
+"ML","Mali",3.1,3.1,3.1,3.1,3.1,3.1,3.1
+"MT","Malta",2.1,2.1,2.1,2.1,2.1,2.1,2.1
+"MH","Marshall Islands",2.5,2.5,2.5,2.5,2.4,2.5,2.5
+"MR","Mauritania",5.1,5.1,5.1,5.1,5.1,5.1,5.1
+"MU","Mauritius",3.4,3.4,3.4,3.4,3.4,3.4,3.4
+"MX","Mexico",7,7,7,7,7,7,7
+"FM","Micronesia",3.7,3.7,3.7,3.7,3.5,3.7,3.7
+"MD","Moldova",3.7,3.7,3.7,3.7,3.7,3.7,3.7
+"MN","Mongolia",3.3,3.3,3.3,3.3,3.3,3.3,3.3
+"ME","Montenegro",4,4,4,4,4,4,4
+"MA","Morocco",4.9,4.9,4.9,4.9,4.9,4.9,4.9
+"MZ","Mozambique",5.9,5.9,5.9,5.9,5.9,5.9,5.9
+"MM","Myanmar",8,8,8,8,8,8,8
+"NA","Namibia",3.9,3.9,3.9,3.9,3.9,3.9,3.9
+"NR","Nauru",1.4,1.4,1.4,1.4,1.4,1.4,1.4
+"NP","Nepal",5.5,5.5,5.5,5.5,5.5,5.5,5.5
+"NL","Netherlands",1.9,1.9,1.9,1.9,1.9,1.9,1.9
+"NZ","New Zealand",5.1,5.1,5.1,5.1,5.2,5.1,5.1
+"NI","Nicaragua",6.6,6.6,6.6,6.6,6.6,6.6,6.6
+"NE","Niger",3.6,3.6,3.6,3.6,3.6,3.6,3.6
+"NG","Nigeria",2.8,2.8,2.8,2.8,2.8,2.8,2.8
+"KP","North Korea",4.8,4.8,4.8,4.8,4.8,4.8,4.8
+"NO","Norway",0.2,0.2,0.2,0.2,0.2,0.2,0.2
+"OM","Oman",6.2,6.2,6.2,6.2,6.2,6.2,6.2
+"PK","Pakistan",7.1,7.1,7.1,7.1,7.1,7.1,7.1
+"PW","Palau",3.1,3.1,3.1,3.1,3.1,3.1,3.1
+"PS","Palestine",3,3,3,3,3,3,3
+"PA","Panama",4.9,4.9,4.9,4.9,4.9,4.9,4.9
+"PG","Papua New Guinea",5.3,5.3,5.3,5.3,5.3,5.3,5.3
+"PY","Paraguay",2,2,2,2,1.9,2,2
+"PE","Peru",7,7,7,7,7,7,7
+"PH","Philippines",8.4,8.4,8.4,8.4,8.4,8.4,8.4
+"PL","Poland",2.3,2.3,2.3,2.3,2.3,2.3,2.3
+"PT","Portugal",3.6,3.6,3.6,3.6,3.6,3.6,3.6
+"QA","Qatar",1,1,1,1,1,1,1
+"RO","Romania",4.6,4.6,4.6,4.6,4.6,4.6,4.6
+"RU","Russian Federation",6.3,6.3,6.3,6.3,6.3,6.3,6.3
+"RW","Rwanda",3.1,3.1,3.1,3.1,3.1,3.1,3.1
+"KN","Saint Kitts and Nevis",1.7,1.7,1.7,1.7,1.7,1.7,1.7
+"LC","Saint Lucia",1.8,1.8,1.8,1.8,1.8,1.8,1.8
+"VC","Saint Vincent & the Grenadines",1,1,1,1,1,1,1
+"WS","Samoa",2.6,2.6,2.6,2.6,2.6,2.6,2.6
+"ST","Sao Tome & Principe",0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"SA","Saudi Arabia",2.3,2.3,2.3,2.3,2.3,2.3,2.3
+"SN","Senegal",4.3,4.3,4.3,4.3,4.3,4.3,4.3
+"RS","Serbia",4.6,4.6,4.6,4.6,4.6,4.6,4.6
+"SC","Seychelles",2.5,2.5,2.5,2.5,2.5,2.5,2.5
+"SL","Sierra Leone",2.3,2.3,2.3,2.3,2.3,2.3,2.3
+"SG","Singapore",0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"SK","Slovakia",3.3,3.3,3.3,3.3,3.3,3.3,3.3
+"SI","Slovenia",3.7,3.7,3.7,3.7,3.7,3.7,3.7
+"SB","Solomon Islands",5.3,5.3,5.3,5.3,5.3,5.3,5.3
+"SO","Somalia",6.8,6.8,6.8,6.8,6.8,6.8,6.8
+"ZA","South Africa",4.4,4.4,4.4,4.4,4.4,4.4,4.4
+"KR","South Korea",5.2,5.2,5.2,5.2,5.2,5.2,5.2
+"SS","South Sudan",,3.8,3.8,3.8,3.8,3.8,3.8
+"ES","Spain",4.4,4.4,4.4,4.4,4.4,4.4,4.4
+"LK","Sri Lanka",4.9,4.9,4.9,4.9,4.9,4.9,4.9
+"SD","Sudan",3.9,3.9,3.9,3.9,3.9,3.9,3.9
+"SR","Suriname",3.4,3.4,3.4,3.4,3.4,3.4,3.4
+"SZ","Swaziland",2.2,2.2,2.2,2.2,2.1,2.2,2.2
+"SE","Sweden",1.1,1.1,1.1,1.1,1.1,1.1,1.1
+"CH","Switzerland",1.8,1.8,1.8,1.8,1.8,1.8,1.8
+"SY","Syria",5.1,5.1,5.1,5.1,5.1,5.1,5.1
+"TJ","Tajikistan",6,6,6,6,6.1,6,6
+"TZ","Tanzania",4.6,4.6,4.6,4.6,4.6,4.6,4.6
+"TH","Thailand",6.3,6.3,6.3,6.3,6.3,6.3,6.3
+"TL","Timor-Leste",3.8,3.8,3.8,3.8,3.7,3.8,3.8
+"TG","Togo",1.6,1.6,1.6,1.6,1.6,1.6,1.6
+"TO","Tonga",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+"TT","Trinidad & Tobago",1.9,1.9,1.9,1.9,1.9,1.9,1.9
+"TN","Tunisia",4.5,4.5,4.5,4.5,4.5,4.5,4.5
+"TR","Turkey",5.8,5.8,5.8,5.8,5.8,5.8,5.8
+"TM","Turkmenistan",4.5,4.5,4.5,4.5,4.5,4.5,4.5
+"TV","Tuvalu",2.6,2.6,2.6,2.6,2.6,2.6,2.6
+"AE","UAE",6.1,6.1,6.1,6.1,6.1,6.1,6.1
+"UG","Uganda",3.4,3.4,3.4,3.4,3.4,3.4,3.4
+"UA","Ukraine",3.1,3.1,3.1,3.1,3.1,3.1,3.1
+"GB","United Kingdom",2.1,2.1,2.1,2.1,2.1,2.1,2.1
+"UY","Uruguay",1.3,1.3,1.3,1.3,1.3,1.3,1.3
+"US","USA",6.9,6.9,6.9,6.9,6.9,6.9,6.9
+"UZ","Uzbekistan",6.1,6.1,6.1,6.1,6.1,6.1,6.1
+"VU","Vanuatu",4,4,4,4,4,4,4
+"VE","Venezuela",5.8,5.8,5.8,5.8,5.8,5.8,5.8
+"VN","Viet Nam",7.2,7.2,7.2,7.2,7.2,7.2,7.2
+"YE","Yemen",3.2,3.2,3.2,3.2,3.2,3.2,3.2
+"ZM","Zambia",2.3,2.3,2.3,2.3,2.3,2.3,2.3
+"ZW","Zimbabwe",4.6,4.6,4.6,4.6,4.7,4.6,4.6
