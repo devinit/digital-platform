@@ -1,7 +1,7 @@
 "di_id","entity_name","year","value"
-"AF","Afghanistan",2000,
-"AF","Afghanistan",2001,
-"AF","Afghanistan",2002,
+"AF","Afghanistan",2000,1
+"AF","Afghanistan",2001,1
+"AF","Afghanistan",2002,1
 "AF","Afghanistan",2003,1
 "AF","Afghanistan",2004,1
 "AF","Afghanistan",2005,1
@@ -23,16 +23,16 @@
 "AL","Albania",2004,5
 "AL","Albania",2005,5
 "AL","Albania",2006,5
-"AL","Albania",2007,5
-"AL","Albania",2008,5
-"AL","Albania",2009,5
-"AL","Albania",2010,5
-"AL","Albania",2011,5
-"AL","Albania",2012,5
-"AL","Albania",2013,4
-"AL","Albania",2014,5
-"AL","Albania",2015,5
-"AL","Albania",2016,4
+"AL","Albania",2007,10
+"AL","Albania",2008,10
+"AL","Albania",2009,10
+"AL","Albania",2010,10
+"AL","Albania",2011,10
+"AL","Albania",2012,10
+"AL","Albania",2013,10
+"AL","Albania",2014,10
+"AL","Albania",2015,10
+"AL","Albania",2016,10
 "DZ","Algeria",2000,5
 "DZ","Algeria",2001,4
 "DZ","Algeria",2002,5
@@ -56,7 +56,7 @@
 "AO","Angola",2003,4
 "AO","Angola",2004,4
 "AO","Angola",2005,4
-"AO","Angola",2006,
+"AO","Angola",2006,4
 "AO","Angola",2007,4
 "AO","Angola",2008,4
 "AO","Angola",2009,4
@@ -67,33 +67,33 @@
 "AO","Angola",2014,4
 "AO","Angola",2015,4
 "AO","Angola",2016,4
-"AG","Antigua & Barbuda",2000,4
-"AG","Antigua & Barbuda",2001,4
-"AG","Antigua & Barbuda",2002,4
-"AG","Antigua & Barbuda",2003,4
-"AG","Antigua & Barbuda",2004,4
-"AG","Antigua & Barbuda",2005,4
+"AG","Antigua & Barbuda",2000,10
+"AG","Antigua & Barbuda",2001,10
+"AG","Antigua & Barbuda",2002,10
+"AG","Antigua & Barbuda",2003,10
+"AG","Antigua & Barbuda",2004,10
+"AG","Antigua & Barbuda",2005,10
 "AG","Antigua & Barbuda",2006,4
 "AG","Antigua & Barbuda",2007,4
-"AG","Antigua & Barbuda",2008,4
-"AG","Antigua & Barbuda",2009,4
-"AG","Antigua & Barbuda",2010,4
-"AG","Antigua & Barbuda",2011,4
-"AG","Antigua & Barbuda",2012,4
-"AG","Antigua & Barbuda",2013,4
-"AG","Antigua & Barbuda",2014,4
-"AG","Antigua & Barbuda",2015,4
-"AG","Antigua & Barbuda",2016,4
+"AG","Antigua & Barbuda",2008,10
+"AG","Antigua & Barbuda",2009,10
+"AG","Antigua & Barbuda",2010,10
+"AG","Antigua & Barbuda",2011,10
+"AG","Antigua & Barbuda",2012,10
+"AG","Antigua & Barbuda",2013,10
+"AG","Antigua & Barbuda",2014,10
+"AG","Antigua & Barbuda",2015,10
+"AG","Antigua & Barbuda",2016,10
 "AR","Argentina",2000,6
 "AR","Argentina",2001,3
 "AR","Argentina",2002,4
-"AR","Argentina",2003,3
+"AR","Argentina",2003,10
 "AR","Argentina",2004,6
 "AR","Argentina",2005,7
 "AR","Argentina",2006,6
 "AR","Argentina",2007,6
 "AR","Argentina",2008,4
-"AR","Argentina",2009,6
+"AR","Argentina",2009,10
 "AR","Argentina",2010,4
 "AR","Argentina",2011,4
 "AR","Argentina",2012,4
@@ -118,7 +118,7 @@
 "AM","Armenia",2014,5
 "AM","Armenia",2015,6
 "AM","Armenia",2016,5
-"AZ","Azerbaijan",2000,4
+"AZ","Azerbaijan",2000,9
 "AZ","Azerbaijan",2001,4
 "AZ","Azerbaijan",2002,4
 "AZ","Azerbaijan",2003,4
@@ -130,7 +130,7 @@
 "AZ","Azerbaijan",2009,5
 "AZ","Azerbaijan",2010,6
 "AZ","Azerbaijan",2011,5
-"AZ","Azerbaijan",2012,4
+"AZ","Azerbaijan",2012,10
 "AZ","Azerbaijan",2013,4
 "AZ","Azerbaijan",2014,4
 "AZ","Azerbaijan",2015,4
@@ -152,11 +152,11 @@
 "BD","Bangladesh",2014,5
 "BD","Bangladesh",2015,5
 "BD","Bangladesh",2016,5
-"BY","Belarus",2000,
-"BY","Belarus",2001,
-"BY","Belarus",2002,
-"BY","Belarus",2003,
-"BY","Belarus",2004,
+"BY","Belarus",2000,6
+"BY","Belarus",2001,6
+"BY","Belarus",2002,6
+"BY","Belarus",2003,7
+"BY","Belarus",2004,7
 "BY","Belarus",2005,7
 "BY","Belarus",2006,7
 "BY","Belarus",2007,7
@@ -174,18 +174,18 @@
 "BZ","Belize",2002,6
 "BZ","Belize",2003,6
 "BZ","Belize",2004,6
-"BZ","Belize",2005,6
-"BZ","Belize",2006,4
+"BZ","Belize",2005,10
+"BZ","Belize",2006,10
 "BZ","Belize",2007,6
-"BZ","Belize",2008,4
-"BZ","Belize",2009,4
-"BZ","Belize",2010,4
-"BZ","Belize",2011,4
-"BZ","Belize",2012,4
-"BZ","Belize",2013,4
-"BZ","Belize",2014,4
-"BZ","Belize",2015,5
-"BZ","Belize",2016,5
+"BZ","Belize",2008,10
+"BZ","Belize",2009,10
+"BZ","Belize",2010,10
+"BZ","Belize",2011,10
+"BZ","Belize",2012,10
+"BZ","Belize",2013,10
+"BZ","Belize",2014,10
+"BZ","Belize",2015,10
+"BZ","Belize",2016,10
 "BJ","Benin",2000,1
 "BJ","Benin",2001,1
 "BJ","Benin",2002,1
@@ -203,12 +203,12 @@
 "BJ","Benin",2014,1
 "BJ","Benin",2015,1
 "BJ","Benin",2016,1
-"BT","Bhutan",2000,
-"BT","Bhutan",2001,
-"BT","Bhutan",2002,
+"BT","Bhutan",2000,1
+"BT","Bhutan",2001,8
+"BT","Bhutan",2002,8
 "BT","Bhutan",2003,8
 "BT","Bhutan",2004,8
-"BT","Bhutan",2005,
+"BT","Bhutan",2005,1
 "BT","Bhutan",2006,1
 "BT","Bhutan",2007,1
 "BT","Bhutan",2008,1
@@ -254,23 +254,23 @@
 "BA","Bosnia & Herzegovina",2014,5
 "BA","Bosnia & Herzegovina",2015,5
 "BA","Bosnia & Herzegovina",2016,5
-"BW","Botswana",2000,4
-"BW","Botswana",2001,1
+"BW","Botswana",2000,10
+"BW","Botswana",2001,10
 "BW","Botswana",2002,4
-"BW","Botswana",2003,4
-"BW","Botswana",2004,4
-"BW","Botswana",2005,4
-"BW","Botswana",2006,4
-"BW","Botswana",2007,4
+"BW","Botswana",2003,10
+"BW","Botswana",2004,10
+"BW","Botswana",2005,10
+"BW","Botswana",2006,10
+"BW","Botswana",2007,10
 "BW","Botswana",2008,1
 "BW","Botswana",2009,3
-"BW","Botswana",2010,4
+"BW","Botswana",2010,10
 "BW","Botswana",2011,4
-"BW","Botswana",2012,4
-"BW","Botswana",2013,4
-"BW","Botswana",2014,4
-"BW","Botswana",2015,4
-"BW","Botswana",2016,1
+"BW","Botswana",2012,10
+"BW","Botswana",2013,10
+"BW","Botswana",2014,10
+"BW","Botswana",2015,10
+"BW","Botswana",2016,10
 "BR","Brazil",2000,6
 "BR","Brazil",2001,6
 "BR","Brazil",2002,6
@@ -305,10 +305,10 @@
 "BF","Burkina Faso",2014,1
 "BF","Burkina Faso",2015,1
 "BF","Burkina Faso",2016,1
-"BI","Burundi",2000,
-"BI","Burundi",2001,
-"BI","Burundi",2002,
-"BI","Burundi",2003,
+"BI","Burundi",2000,1
+"BI","Burundi",2001,1
+"BI","Burundi",2002,1
+"BI","Burundi",2003,1
 "BI","Burundi",2004,1
 "BI","Burundi",2005,1
 "BI","Burundi",2006,1
@@ -322,23 +322,23 @@
 "BI","Burundi",2014,1
 "BI","Burundi",2015,1
 "BI","Burundi",2016,1
-"KH","Cambodia",2000,1
-"KH","Cambodia",2001,1
-"KH","Cambodia",2002,1
-"KH","Cambodia",2003,1
-"KH","Cambodia",2004,1
-"KH","Cambodia",2005,1
-"KH","Cambodia",2006,4
-"KH","Cambodia",2007,4
-"KH","Cambodia",2008,4
-"KH","Cambodia",2009,4
-"KH","Cambodia",2010,4
-"KH","Cambodia",2011,4
-"KH","Cambodia",2012,4
-"KH","Cambodia",2013,4
-"KH","Cambodia",2014,4
-"KH","Cambodia",2015,4
-"KH","Cambodia",2016,4
+"KH","Cambodia",2000,10
+"KH","Cambodia",2001,10
+"KH","Cambodia",2002,10
+"KH","Cambodia",2003,10
+"KH","Cambodia",2004,10
+"KH","Cambodia",2005,10
+"KH","Cambodia",2006,10
+"KH","Cambodia",2007,10
+"KH","Cambodia",2008,10
+"KH","Cambodia",2009,10
+"KH","Cambodia",2010,10
+"KH","Cambodia",2011,10
+"KH","Cambodia",2012,10
+"KH","Cambodia",2013,10
+"KH","Cambodia",2014,10
+"KH","Cambodia",2015,10
+"KH","Cambodia",2016,10
 "CM","Cameroon",2000,1
 "CM","Cameroon",2001,1
 "CM","Cameroon",2002,1
@@ -358,53 +358,53 @@
 "CM","Cameroon",2016,1
 "CV","Cape Verde",2000,1
 "CV","Cape Verde",2001,1
-"CV","Cape Verde",2002,1
+"CV","Cape Verde",2002,10
 "CV","Cape Verde",2003,1
 "CV","Cape Verde",2004,1
 "CV","Cape Verde",2005,1
-"CV","Cape Verde",2006,1
-"CV","Cape Verde",2007,4
-"CV","Cape Verde",2008,1
-"CV","Cape Verde",2009,1
-"CV","Cape Verde",2010,1
-"CV","Cape Verde",2011,1
-"CV","Cape Verde",2012,1
-"CV","Cape Verde",2013,1
-"CV","Cape Verde",2014,1
-"CV","Cape Verde",2015,5
-"CV","Cape Verde",2016,5
+"CV","Cape Verde",2006,10
+"CV","Cape Verde",2007,10
+"CV","Cape Verde",2008,10
+"CV","Cape Verde",2009,10
+"CV","Cape Verde",2010,10
+"CV","Cape Verde",2011,10
+"CV","Cape Verde",2012,10
+"CV","Cape Verde",2013,10
+"CV","Cape Verde",2014,10
+"CV","Cape Verde",2015,10
+"CV","Cape Verde",2016,10
 "CF","CAR",2000,1
 "CF","CAR",2001,1
-"CF","CAR",2002,
-"CF","CAR",2003,
-"CF","CAR",2004,
-"CF","CAR",2005,
+"CF","CAR",2002,1
+"CF","CAR",2003,1
+"CF","CAR",2004,1
+"CF","CAR",2005,1
 "CF","CAR",2006,1
-"CF","CAR",2007,
+"CF","CAR",2007,1
 "CF","CAR",2008,1
-"CF","CAR",2009,
-"CF","CAR",2010,
+"CF","CAR",2009,1
+"CF","CAR",2010,1
 "CF","CAR",2011,1
-"CF","CAR",2012,
-"CF","CAR",2013,
-"CF","CAR",2014,
-"CF","CAR",2015,
-"CF","CAR",2016,
-"TD","Chad",2000,
+"CF","CAR",2012,1
+"CF","CAR",2013,1
+"CF","CAR",2014,1
+"CF","CAR",2015,1
+"CF","CAR",2016,1
+"TD","Chad",2000,4
 "TD","Chad",2001,4
 "TD","Chad",2002,4
 "TD","Chad",2003,4
 "TD","Chad",2004,4
-"TD","Chad",2005,
-"TD","Chad",2006,
-"TD","Chad",2007,
+"TD","Chad",2005,1
+"TD","Chad",2006,1
+"TD","Chad",2007,1
 "TD","Chad",2008,1
-"TD","Chad",2009,
+"TD","Chad",2009,1
 "TD","Chad",2010,1
 "TD","Chad",2011,1
 "TD","Chad",2012,1
 "TD","Chad",2013,1
-"TD","Chad",2014,
+"TD","Chad",2014,1
 "TD","Chad",2015,1
 "TD","Chad",2016,1
 "CL","Chile",2000,4
@@ -458,11 +458,11 @@
 "CO","Colombia",2014,6
 "CO","Colombia",2015,6
 "CO","Colombia",2016,6
-"KM","Comoros",2000,
-"KM","Comoros",2001,
-"KM","Comoros",2002,
-"KM","Comoros",2003,
-"KM","Comoros",2004,
+"KM","Comoros",2000,1
+"KM","Comoros",2001,1
+"KM","Comoros",2002,1
+"KM","Comoros",2003,1
+"KM","Comoros",2004,1
 "KM","Comoros",2005,5
 "KM","Comoros",2006,5
 "KM","Comoros",2007,5
@@ -479,53 +479,53 @@
 "CG","Congo",2001,7
 "CG","Congo",2002,4
 "CG","Congo",2003,3
-"CG","Congo",2004,
+"CG","Congo",2004,1
 "CG","Congo",2005,1
 "CG","Congo",2006,1
 "CG","Congo",2007,4
-"CG","Congo",2008,
+"CG","Congo",2008,4
 "CG","Congo",2009,4
 "CG","Congo",2010,1
-"CG","Congo",2011,
+"CG","Congo",2011,4
 "CG","Congo",2012,4
 "CG","Congo",2013,4
-"CG","Congo",2014,
+"CG","Congo",2014,4
 "CG","Congo",2015,4
 "CG","Congo",2016,4
-"CK","Cook Islands",2000,
-"CK","Cook Islands",2001,
-"CK","Cook Islands",2002,
-"CK","Cook Islands",2003,
-"CK","Cook Islands",2004,
-"CK","Cook Islands",2005,
-"CK","Cook Islands",2006,
-"CK","Cook Islands",2007,
-"CK","Cook Islands",2008,
+"CK","Cook Islands",2000,1
+"CK","Cook Islands",2001,1
+"CK","Cook Islands",2002,1
+"CK","Cook Islands",2003,1
+"CK","Cook Islands",2004,1
+"CK","Cook Islands",2005,1
+"CK","Cook Islands",2006,1
+"CK","Cook Islands",2007,4
+"CK","Cook Islands",2008,1
 "CK","Cook Islands",2009,1
-"CK","Cook Islands",2010,
-"CK","Cook Islands",2011,
+"CK","Cook Islands",2010,1
+"CK","Cook Islands",2011,1
 "CK","Cook Islands",2012,1
-"CK","Cook Islands",2013,
+"CK","Cook Islands",2013,1
 "CK","Cook Islands",2014,1
 "CK","Cook Islands",2015,4
 "CK","Cook Islands",2016,1
-"CR","Costa Rica",2000,4
-"CR","Costa Rica",2001,4
-"CR","Costa Rica",2002,4
-"CR","Costa Rica",2003,4
-"CR","Costa Rica",2004,4
-"CR","Costa Rica",2005,4
-"CR","Costa Rica",2006,4
-"CR","Costa Rica",2007,4
-"CR","Costa Rica",2008,4
-"CR","Costa Rica",2009,4
-"CR","Costa Rica",2010,4
-"CR","Costa Rica",2011,4
+"CR","Costa Rica",2000,10
+"CR","Costa Rica",2001,10
+"CR","Costa Rica",2002,10
+"CR","Costa Rica",2003,10
+"CR","Costa Rica",2004,10
+"CR","Costa Rica",2005,10
+"CR","Costa Rica",2006,10
+"CR","Costa Rica",2007,10
+"CR","Costa Rica",2008,10
+"CR","Costa Rica",2009,10
+"CR","Costa Rica",2010,10
+"CR","Costa Rica",2011,10
 "CR","Costa Rica",2012,6
 "CR","Costa Rica",2013,6
 "CR","Costa Rica",2014,6
 "CR","Costa Rica",2015,6
-"CR","Costa Rica",2016,6
+"CR","Costa Rica",2016,10
 "CI","Côte d'Ivoire",2000,1
 "CI","Côte d'Ivoire",2001,4
 "CI","Côte d'Ivoire",2002,1
@@ -543,23 +543,23 @@
 "CI","Côte d'Ivoire",2014,1
 "CI","Côte d'Ivoire",2015,8
 "CI","Côte d'Ivoire",2016,1
-"CU","Cuba",2000,
-"CU","Cuba",2001,
-"CU","Cuba",2002,
-"CU","Cuba",2003,
-"CU","Cuba",2004,
-"CU","Cuba",2005,
-"CU","Cuba",2006,
-"CU","Cuba",2007,
-"CU","Cuba",2008,
-"CU","Cuba",2009,
-"CU","Cuba",2010,
-"CU","Cuba",2011,
-"CU","Cuba",2012,
-"CU","Cuba",2013,
-"CU","Cuba",2014,
-"CU","Cuba",2015,
-"CU","Cuba",2016,
+"CU","Cuba",2000,10
+"CU","Cuba",2001,10
+"CU","Cuba",2002,10
+"CU","Cuba",2003,10
+"CU","Cuba",2004,10
+"CU","Cuba",2005,10
+"CU","Cuba",2006,10
+"CU","Cuba",2007,10
+"CU","Cuba",2008,10
+"CU","Cuba",2009,10
+"CU","Cuba",2010,10
+"CU","Cuba",2011,10
+"CU","Cuba",2012,10
+"CU","Cuba",2013,10
+"CU","Cuba",2014,10
+"CU","Cuba",2015,10
+"CU","Cuba",2016,10
 "DJ","Djibouti",2000,1
 "DJ","Djibouti",2001,1
 "DJ","Djibouti",2002,1
@@ -577,40 +577,40 @@
 "DJ","Djibouti",2014,8
 "DJ","Djibouti",2015,8
 "DJ","Djibouti",2016,8
-"DM","Dominica",2000,6
-"DM","Dominica",2001,1
-"DM","Dominica",2002,1
-"DM","Dominica",2003,7
-"DM","Dominica",2004,1
-"DM","Dominica",2005,5
-"DM","Dominica",2006,4
-"DM","Dominica",2007,4
-"DM","Dominica",2008,4
-"DM","Dominica",2009,4
-"DM","Dominica",2010,4
-"DM","Dominica",2011,4
-"DM","Dominica",2012,4
-"DM","Dominica",2013,5
-"DM","Dominica",2014,4
-"DM","Dominica",2015,4
-"DM","Dominica",2016,4
-"DO","Dominican Republic",2000,5
-"DO","Dominican Republic",2001,5
-"DO","Dominican Republic",2002,5
-"DO","Dominican Republic",2003,5
-"DO","Dominican Republic",2004,5
-"DO","Dominican Republic",2005,5
-"DO","Dominican Republic",2006,5
-"DO","Dominican Republic",2007,5
-"DO","Dominican Republic",2008,5
-"DO","Dominican Republic",2009,5
-"DO","Dominican Republic",2010,5
-"DO","Dominican Republic",2011,5
-"DO","Dominican Republic",2012,5
-"DO","Dominican Republic",2013,5
-"DO","Dominican Republic",2014,5
-"DO","Dominican Republic",2015,5
-"DO","Dominican Republic",2016,5
+"DM","Dominica",2000,10
+"DM","Dominica",2001,10
+"DM","Dominica",2002,10
+"DM","Dominica",2003,10
+"DM","Dominica",2004,10
+"DM","Dominica",2005,10
+"DM","Dominica",2006,10
+"DM","Dominica",2007,10
+"DM","Dominica",2008,10
+"DM","Dominica",2009,10
+"DM","Dominica",2010,10
+"DM","Dominica",2011,10
+"DM","Dominica",2012,10
+"DM","Dominica",2013,10
+"DM","Dominica",2014,10
+"DM","Dominica",2015,10
+"DM","Dominica",2016,10
+"DO","Dominican Republic",2000,10
+"DO","Dominican Republic",2001,10
+"DO","Dominican Republic",2002,10
+"DO","Dominican Republic",2003,10
+"DO","Dominican Republic",2004,10
+"DO","Dominican Republic",2005,10
+"DO","Dominican Republic",2006,10
+"DO","Dominican Republic",2007,10
+"DO","Dominican Republic",2008,10
+"DO","Dominican Republic",2009,10
+"DO","Dominican Republic",2010,10
+"DO","Dominican Republic",2011,10
+"DO","Dominican Republic",2012,10
+"DO","Dominican Republic",2013,10
+"DO","Dominican Republic",2014,10
+"DO","Dominican Republic",2015,10
+"DO","Dominican Republic",2016,10
 "CD","DRC",2000,1
 "CD","DRC",2001,1
 "CD","DRC",2002,1
@@ -645,17 +645,17 @@
 "EC","Ecuador",2014,6
 "EC","Ecuador",2015,6
 "EC","Ecuador",2016,6
-"EG","Egypt",2000,5
-"EG","Egypt",2001,5
-"EG","Egypt",2002,5
-"EG","Egypt",2003,5
-"EG","Egypt",2004,5
-"EG","Egypt",2005,4
+"EG","Egypt",2000,10
+"EG","Egypt",2001,10
+"EG","Egypt",2002,10
+"EG","Egypt",2003,10
+"EG","Egypt",2004,10
+"EG","Egypt",2005,10
 "EG","Egypt",2006,4
 "EG","Egypt",2007,4
-"EG","Egypt",2008,4
-"EG","Egypt",2009,5
-"EG","Egypt",2010,5
+"EG","Egypt",2008,10
+"EG","Egypt",2009,10
+"EG","Egypt",2010,10
 "EG","Egypt",2011,5
 "EG","Egypt",2012,5
 "EG","Egypt",2013,5
@@ -679,16 +679,16 @@
 "SV","El Salvador",2014,5
 "SV","El Salvador",2015,5
 "SV","El Salvador",2016,5
-"GQ","Equatorial Guinea",2000,
-"GQ","Equatorial Guinea",2001,
-"GQ","Equatorial Guinea",2002,
-"GQ","Equatorial Guinea",2003,
-"GQ","Equatorial Guinea",2004,
+"GQ","Equatorial Guinea",2000,4
+"GQ","Equatorial Guinea",2001,4
+"GQ","Equatorial Guinea",2002,4
+"GQ","Equatorial Guinea",2003,4
+"GQ","Equatorial Guinea",2004,4
 "GQ","Equatorial Guinea",2005,4
 "GQ","Equatorial Guinea",2006,4
 "GQ","Equatorial Guinea",2007,4
-"GQ","Equatorial Guinea",2008,
-"GQ","Equatorial Guinea",2009,
+"GQ","Equatorial Guinea",2008,1
+"GQ","Equatorial Guinea",2009,4
 "GQ","Equatorial Guinea",2010,4
 "GQ","Equatorial Guinea",2011,4
 "GQ","Equatorial Guinea",2012,4
@@ -698,21 +698,21 @@
 "GQ","Equatorial Guinea",2016,4
 "ER","Eritrea",2000,1
 "ER","Eritrea",2001,1
-"ER","Eritrea",2002,1
-"ER","Eritrea",2003,
-"ER","Eritrea",2004,
-"ER","Eritrea",2005,
-"ER","Eritrea",2006,
-"ER","Eritrea",2007,
-"ER","Eritrea",2008,
-"ER","Eritrea",2009,
-"ER","Eritrea",2010,
-"ER","Eritrea",2011,
-"ER","Eritrea",2012,
-"ER","Eritrea",2013,
-"ER","Eritrea",2014,
-"ER","Eritrea",2015,
-"ER","Eritrea",2016,
+"ER","Eritrea",2002,10
+"ER","Eritrea",2003,1
+"ER","Eritrea",2004,1
+"ER","Eritrea",2005,1
+"ER","Eritrea",2006,10
+"ER","Eritrea",2007,10
+"ER","Eritrea",2008,8
+"ER","Eritrea",2009,4
+"ER","Eritrea",2010,4
+"ER","Eritrea",2011,1
+"ER","Eritrea",2012,1
+"ER","Eritrea",2013,1
+"ER","Eritrea",2014,1
+"ER","Eritrea",2015,1
+"ER","Eritrea",2016,1
 "ET","Ethiopia",2000,1
 "ET","Ethiopia",2001,1
 "ET","Ethiopia",2002,1
@@ -730,24 +730,24 @@
 "ET","Ethiopia",2014,1
 "ET","Ethiopia",2015,1
 "ET","Ethiopia",2016,1
-"FJ","Fiji",2000,5
-"FJ","Fiji",2001,5
-"FJ","Fiji",2002,5
-"FJ","Fiji",2003,5
-"FJ","Fiji",2004,4
-"FJ","Fiji",2005,5
-"FJ","Fiji",2006,4
-"FJ","Fiji",2007,4
-"FJ","Fiji",2008,4
-"FJ","Fiji",2009,5
-"FJ","Fiji",2010,4
-"FJ","Fiji",2011,4
-"FJ","Fiji",2012,4
-"FJ","Fiji",2013,4
-"FJ","Fiji",2014,4
-"FJ","Fiji",2015,4
+"FJ","Fiji",2000,10
+"FJ","Fiji",2001,10
+"FJ","Fiji",2002,10
+"FJ","Fiji",2003,10
+"FJ","Fiji",2004,10
+"FJ","Fiji",2005,10
+"FJ","Fiji",2006,10
+"FJ","Fiji",2007,10
+"FJ","Fiji",2008,10
+"FJ","Fiji",2009,10
+"FJ","Fiji",2010,10
+"FJ","Fiji",2011,10
+"FJ","Fiji",2012,10
+"FJ","Fiji",2013,10
+"FJ","Fiji",2014,10
+"FJ","Fiji",2015,10
 "FJ","Fiji",2016,4
-"GA","Gabon",2000,1
+"GA","Gabon",2000,10
 "GA","Gabon",2001,3
 "GA","Gabon",2002,1
 "GA","Gabon",2003,4
@@ -764,7 +764,7 @@
 "GA","Gabon",2014,4
 "GA","Gabon",2015,4
 "GA","Gabon",2016,4
-"GM","Gambia",2000,
+"GM","Gambia",2000,1
 "GM","Gambia",2001,1
 "GM","Gambia",2002,1
 "GM","Gambia",2003,1
@@ -796,8 +796,8 @@
 "GE","Georgia",2012,5
 "GE","Georgia",2013,5
 "GE","Georgia",2014,5
-"GE","Georgia",2015,6
-"GE","Georgia",2016,6
+"GE","Georgia",2015,10
+"GE","Georgia",2016,10
 "GH","Ghana",2000,1
 "GH","Ghana",2001,1
 "GH","Ghana",2002,1
@@ -815,22 +815,22 @@
 "GH","Ghana",2014,4
 "GH","Ghana",2015,4
 "GH","Ghana",2016,4
-"GD","Grenada",2000,6
-"GD","Grenada",2001,4
+"GD","Grenada",2000,10
+"GD","Grenada",2001,10
 "GD","Grenada",2002,6
-"GD","Grenada",2003,4
-"GD","Grenada",2004,5
-"GD","Grenada",2005,4
-"GD","Grenada",2006,4
+"GD","Grenada",2003,10
+"GD","Grenada",2004,10
+"GD","Grenada",2005,10
+"GD","Grenada",2006,10
 "GD","Grenada",2007,4
 "GD","Grenada",2008,4
-"GD","Grenada",2009,4
-"GD","Grenada",2010,4
-"GD","Grenada",2011,4
-"GD","Grenada",2012,7
-"GD","Grenada",2013,4
-"GD","Grenada",2014,1
-"GD","Grenada",2015,4
+"GD","Grenada",2009,10
+"GD","Grenada",2010,10
+"GD","Grenada",2011,10
+"GD","Grenada",2012,10
+"GD","Grenada",2013,10
+"GD","Grenada",2014,10
+"GD","Grenada",2015,10
 "GD","Grenada",2016,6
 "GT","Guatemala",2000,5
 "GT","Guatemala",2001,5
@@ -951,9 +951,9 @@
 "IN","India",2014,6
 "IN","India",2015,5
 "IN","India",2016,5
-"ID","Indonesia",2000,6
-"ID","Indonesia",2001,6
-"ID","Indonesia",2002,6
+"ID","Indonesia",2000,10
+"ID","Indonesia",2001,10
+"ID","Indonesia",2002,10
 "ID","Indonesia",2003,6
 "ID","Indonesia",2004,6
 "ID","Indonesia",2005,6
@@ -968,12 +968,12 @@
 "ID","Indonesia",2014,6
 "ID","Indonesia",2015,6
 "ID","Indonesia",2016,6
-"IR","Iran",2000,6
-"IR","Iran",2001,6
+"IR","Iran",2000,9
+"IR","Iran",2001,9
 "IR","Iran",2002,4
 "IR","Iran",2003,4
 "IR","Iran",2004,7
-"IR","Iran",2005,4
+"IR","Iran",2005,9
 "IR","Iran",2006,4
 "IR","Iran",2007,4
 "IR","Iran",2008,4
@@ -981,14 +981,14 @@
 "IR","Iran",2010,4
 "IR","Iran",2011,4
 "IR","Iran",2012,4
-"IR","Iran",2013,4
-"IR","Iran",2014,4
-"IR","Iran",2015,4
+"IR","Iran",2013,10
+"IR","Iran",2014,10
+"IR","Iran",2015,10
 "IR","Iran",2016,4
-"IQ","Iraq",2000,
-"IQ","Iraq",2001,
-"IQ","Iraq",2002,
-"IQ","Iraq",2003,
+"IQ","Iraq",2000,1
+"IQ","Iraq",2001,1
+"IQ","Iraq",2002,1
+"IQ","Iraq",2003,4
 "IQ","Iraq",2004,1
 "IQ","Iraq",2005,1
 "IQ","Iraq",2006,1
@@ -999,26 +999,26 @@
 "IQ","Iraq",2011,1
 "IQ","Iraq",2012,4
 "IQ","Iraq",2013,1
-"IQ","Iraq",2014,1
-"IQ","Iraq",2015,1
-"IQ","Iraq",2016,1
-"JM","Jamaica",2000,5
-"JM","Jamaica",2001,5
-"JM","Jamaica",2002,5
-"JM","Jamaica",2003,5
-"JM","Jamaica",2004,5
-"JM","Jamaica",2005,5
-"JM","Jamaica",2006,5
-"JM","Jamaica",2007,6
-"JM","Jamaica",2008,5
-"JM","Jamaica",2009,5
-"JM","Jamaica",2010,5
+"IQ","Iraq",2014,10
+"IQ","Iraq",2015,10
+"IQ","Iraq",2016,10
+"JM","Jamaica",2000,10
+"JM","Jamaica",2001,10
+"JM","Jamaica",2002,10
+"JM","Jamaica",2003,10
+"JM","Jamaica",2004,10
+"JM","Jamaica",2005,10
+"JM","Jamaica",2006,10
+"JM","Jamaica",2007,10
+"JM","Jamaica",2008,10
+"JM","Jamaica",2009,10
+"JM","Jamaica",2010,10
 "JM","Jamaica",2011,5
 "JM","Jamaica",2012,5
 "JM","Jamaica",2013,5
 "JM","Jamaica",2014,5
 "JM","Jamaica",2015,6
-"JM","Jamaica",2016,5
+"JM","Jamaica",2016,10
 "JO","Jordan",2000,7
 "JO","Jordan",2001,5
 "JO","Jordan",2002,5
@@ -1027,15 +1027,15 @@
 "JO","Jordan",2005,5
 "JO","Jordan",2006,4
 "JO","Jordan",2007,5
-"JO","Jordan",2008,5
-"JO","Jordan",2009,5
-"JO","Jordan",2010,5
-"JO","Jordan",2011,5
-"JO","Jordan",2012,5
+"JO","Jordan",2008,10
+"JO","Jordan",2009,10
+"JO","Jordan",2010,10
+"JO","Jordan",2011,10
+"JO","Jordan",2012,10
 "JO","Jordan",2013,5
 "JO","Jordan",2014,5
 "JO","Jordan",2015,5
-"JO","Jordan",2016,5
+"JO","Jordan",2016,10
 "KZ","Kazakhstan",2000,6
 "KZ","Kazakhstan",2001,6
 "KZ","Kazakhstan",2002,6
@@ -1053,27 +1053,27 @@
 "KZ","Kazakhstan",2014,6
 "KZ","Kazakhstan",2015,6
 "KZ","Kazakhstan",2016,6
-"KE","Kenya",2000,1
-"KE","Kenya",2001,1
-"KE","Kenya",2002,1
-"KE","Kenya",2003,1
-"KE","Kenya",2004,1
-"KE","Kenya",2005,1
-"KE","Kenya",2006,1
-"KE","Kenya",2007,4
-"KE","Kenya",2008,1
+"KE","Kenya",2000,10
+"KE","Kenya",2001,10
+"KE","Kenya",2002,10
+"KE","Kenya",2003,10
+"KE","Kenya",2004,10
+"KE","Kenya",2005,10
+"KE","Kenya",2006,10
+"KE","Kenya",2007,10
+"KE","Kenya",2008,10
 "KE","Kenya",2009,1
-"KE","Kenya",2010,1
+"KE","Kenya",2010,10
 "KE","Kenya",2011,1
 "KE","Kenya",2012,1
 "KE","Kenya",2013,1
 "KE","Kenya",2014,6
 "KE","Kenya",2015,1
 "KE","Kenya",2016,1
-"KI","Kiribati",2000,
-"KI","Kiribati",2001,
+"KI","Kiribati",2000,1
+"KI","Kiribati",2001,1
 "KI","Kiribati",2002,1
-"KI","Kiribati",2003,
+"KI","Kiribati",2003,1
 "KI","Kiribati",2004,1
 "KI","Kiribati",2005,1
 "KI","Kiribati",2006,1
@@ -1087,18 +1087,18 @@
 "KI","Kiribati",2014,1
 "KI","Kiribati",2015,1
 "KI","Kiribati",2016,1
-"XK","Kosovo",2000,
-"XK","Kosovo",2001,
-"XK","Kosovo",2002,
-"XK","Kosovo",2003,
-"XK","Kosovo",2004,
-"XK","Kosovo",2005,
-"XK","Kosovo",2006,
-"XK","Kosovo",2007,
-"XK","Kosovo",2008,
+"XK","Kosovo",2000,1
+"XK","Kosovo",2001,1
+"XK","Kosovo",2002,1
+"XK","Kosovo",2003,1
+"XK","Kosovo",2004,5
+"XK","Kosovo",2005,5
+"XK","Kosovo",2006,5
+"XK","Kosovo",2007,5
+"XK","Kosovo",2008,5
 "XK","Kosovo",2009,5
 "XK","Kosovo",2010,5
-"XK","Kosovo",2011,
+"XK","Kosovo",2011,5
 "XK","Kosovo",2012,5
 "XK","Kosovo",2013,5
 "XK","Kosovo",2014,5
@@ -1131,9 +1131,9 @@
 "LA","Lao",2007,6
 "LA","Lao",2008,6
 "LA","Lao",2009,6
-"LA","Lao",2010,1
+"LA","Lao",2010,10
 "LA","Lao",2011,6
-"LA","Lao",2012,6
+"LA","Lao",2012,10
 "LA","Lao",2013,7
 "LA","Lao",2014,6
 "LA","Lao",2015,6
@@ -1141,16 +1141,16 @@
 "LB","Lebanon",2000,6
 "LB","Lebanon",2001,6
 "LB","Lebanon",2002,6
-"LB","Lebanon",2003,5
-"LB","Lebanon",2004,5
-"LB","Lebanon",2005,5
-"LB","Lebanon",2006,5
-"LB","Lebanon",2007,5
+"LB","Lebanon",2003,10
+"LB","Lebanon",2004,10
+"LB","Lebanon",2005,10
+"LB","Lebanon",2006,10
+"LB","Lebanon",2007,10
 "LB","Lebanon",2008,5
 "LB","Lebanon",2009,5
-"LB","Lebanon",2010,5
+"LB","Lebanon",2010,10
 "LB","Lebanon",2011,5
-"LB","Lebanon",2012,5
+"LB","Lebanon",2012,10
 "LB","Lebanon",2013,5
 "LB","Lebanon",2014,5
 "LB","Lebanon",2015,5
@@ -1173,10 +1173,10 @@
 "LS","Lesotho",2015,5
 "LS","Lesotho",2016,5
 "LR","Liberia",2000,1
-"LR","Liberia",2001,
-"LR","Liberia",2002,
-"LR","Liberia",2003,
-"LR","Liberia",2004,1
+"LR","Liberia",2001,1
+"LR","Liberia",2002,1
+"LR","Liberia",2003,4
+"LR","Liberia",2004,9
 "LR","Liberia",2005,1
 "LR","Liberia",2006,1
 "LR","Liberia",2007,1
@@ -1189,22 +1189,22 @@
 "LR","Liberia",2014,1
 "LR","Liberia",2015,1
 "LR","Liberia",2016,1
-"LY","Libya",2000,
-"LY","Libya",2001,
-"LY","Libya",2002,
-"LY","Libya",2003,
-"LY","Libya",2004,
+"LY","Libya",2000,4
+"LY","Libya",2001,10
+"LY","Libya",2002,10
+"LY","Libya",2003,10
+"LY","Libya",2004,4
 "LY","Libya",2005,4
 "LY","Libya",2006,4
-"LY","Libya",2007,
-"LY","Libya",2008,
-"LY","Libya",2009,
-"LY","Libya",2010,
-"LY","Libya",2011,
+"LY","Libya",2007,4
+"LY","Libya",2008,4
+"LY","Libya",2009,4
+"LY","Libya",2010,4
+"LY","Libya",2011,1
 "LY","Libya",2012,4
 "LY","Libya",2013,4
 "LY","Libya",2014,1
-"LY","Libya",2015,
+"LY","Libya",2015,4
 "LY","Libya",2016,4
 "MK","Macedonia",2000,4
 "MK","Macedonia",2001,4
@@ -1237,9 +1237,9 @@
 "MG","Madagascar",2011,4
 "MG","Madagascar",2012,4
 "MG","Madagascar",2013,1
-"MG","Madagascar",2014,1
+"MG","Madagascar",2014,10
 "MG","Madagascar",2015,1
-"MG","Madagascar",2016,1
+"MG","Madagascar",2016,10
 "MW","Malawi",2000,1
 "MW","Malawi",2001,1
 "MW","Malawi",2002,1
@@ -1257,40 +1257,40 @@
 "MW","Malawi",2014,1
 "MW","Malawi",2015,1
 "MW","Malawi",2016,1
-"MY","Malaysia",2000,6
-"MY","Malaysia",2001,6
-"MY","Malaysia",2002,6
+"MY","Malaysia",2000,10
+"MY","Malaysia",2001,10
+"MY","Malaysia",2002,10
 "MY","Malaysia",2003,6
 "MY","Malaysia",2004,6
-"MY","Malaysia",2005,6
-"MY","Malaysia",2006,6
-"MY","Malaysia",2007,7
-"MY","Malaysia",2008,7
-"MY","Malaysia",2009,6
-"MY","Malaysia",2010,6
-"MY","Malaysia",2011,7
+"MY","Malaysia",2005,10
+"MY","Malaysia",2006,10
+"MY","Malaysia",2007,10
+"MY","Malaysia",2008,10
+"MY","Malaysia",2009,10
+"MY","Malaysia",2010,10
+"MY","Malaysia",2011,10
 "MY","Malaysia",2012,7
-"MY","Malaysia",2013,6
-"MY","Malaysia",2014,6
+"MY","Malaysia",2013,10
+"MY","Malaysia",2014,10
 "MY","Malaysia",2015,6
-"MY","Malaysia",2016,6
-"MV","Maldives",2000,4
-"MV","Maldives",2001,7
-"MV","Maldives",2002,4
-"MV","Maldives",2003,4
-"MV","Maldives",2004,4
-"MV","Maldives",2005,4
-"MV","Maldives",2006,4
-"MV","Maldives",2007,4
-"MV","Maldives",2008,7
-"MV","Maldives",2009,4
-"MV","Maldives",2010,4
-"MV","Maldives",2011,4
-"MV","Maldives",2012,4
-"MV","Maldives",2013,4
-"MV","Maldives",2014,4
-"MV","Maldives",2015,4
-"MV","Maldives",2016,4
+"MY","Malaysia",2016,10
+"MV","Maldives",2000,10
+"MV","Maldives",2001,10
+"MV","Maldives",2002,10
+"MV","Maldives",2003,10
+"MV","Maldives",2004,10
+"MV","Maldives",2005,10
+"MV","Maldives",2006,10
+"MV","Maldives",2007,10
+"MV","Maldives",2008,10
+"MV","Maldives",2009,10
+"MV","Maldives",2010,10
+"MV","Maldives",2011,10
+"MV","Maldives",2012,10
+"MV","Maldives",2013,10
+"MV","Maldives",2014,10
+"MV","Maldives",2015,10
+"MV","Maldives",2016,10
 "ML","Mali",2000,1
 "ML","Mali",2001,1
 "ML","Mali",2002,1
@@ -1308,25 +1308,25 @@
 "ML","Mali",2014,1
 "ML","Mali",2015,1
 "ML","Mali",2016,1
-"MH","Marshall Islands",2000,
-"MH","Marshall Islands",2001,
-"MH","Marshall Islands",2002,
-"MH","Marshall Islands",2003,
-"MH","Marshall Islands",2004,
-"MH","Marshall Islands",2005,
-"MH","Marshall Islands",2006,
+"MH","Marshall Islands",2000,1
+"MH","Marshall Islands",2001,1
+"MH","Marshall Islands",2002,9
+"MH","Marshall Islands",2003,1
+"MH","Marshall Islands",2004,1
+"MH","Marshall Islands",2005,1
+"MH","Marshall Islands",2006,1
 "MH","Marshall Islands",2007,1
 "MH","Marshall Islands",2008,1
 "MH","Marshall Islands",2009,1
-"MH","Marshall Islands",2010,
-"MH","Marshall Islands",2011,
+"MH","Marshall Islands",2010,1
+"MH","Marshall Islands",2011,9
 "MH","Marshall Islands",2012,1
 "MH","Marshall Islands",2013,1
-"MH","Marshall Islands",2014,1
+"MH","Marshall Islands",2014,9
 "MH","Marshall Islands",2015,1
 "MH","Marshall Islands",2016,3
 "MR","Mauritania",2000,1
-"MR","Mauritania",2001,
+"MR","Mauritania",2001,1
 "MR","Mauritania",2002,1
 "MR","Mauritania",2003,1
 "MR","Mauritania",2004,4
@@ -1334,7 +1334,7 @@
 "MR","Mauritania",2006,1
 "MR","Mauritania",2007,1
 "MR","Mauritania",2008,1
-"MR","Mauritania",2009,
+"MR","Mauritania",2009,1
 "MR","Mauritania",2010,1
 "MR","Mauritania",2011,4
 "MR","Mauritania",2012,4
@@ -1342,16 +1342,16 @@
 "MR","Mauritania",2014,4
 "MR","Mauritania",2015,4
 "MR","Mauritania",2016,1
-"MU","Mauritius",2000,4
-"MU","Mauritius",2001,5
-"MU","Mauritius",2002,5
-"MU","Mauritius",2003,5
-"MU","Mauritius",2004,5
-"MU","Mauritius",2005,5
-"MU","Mauritius",2006,5
-"MU","Mauritius",2007,4
-"MU","Mauritius",2008,4
-"MU","Mauritius",2009,7
+"MU","Mauritius",2000,10
+"MU","Mauritius",2001,10
+"MU","Mauritius",2002,10
+"MU","Mauritius",2003,10
+"MU","Mauritius",2004,10
+"MU","Mauritius",2005,10
+"MU","Mauritius",2006,10
+"MU","Mauritius",2007,10
+"MU","Mauritius",2008,10
+"MU","Mauritius",2009,10
 "MU","Mauritius",2010,2
 "MU","Mauritius",2011,2
 "MU","Mauritius",2012,6
@@ -1376,15 +1376,15 @@
 "MX","Mexico",2014,6
 "MX","Mexico",2015,6
 "MX","Mexico",2016,6
-"FM","Micronesia",2000,
-"FM","Micronesia",2001,
-"FM","Micronesia",2002,
-"FM","Micronesia",2003,
-"FM","Micronesia",2004,
-"FM","Micronesia",2005,
-"FM","Micronesia",2006,
-"FM","Micronesia",2007,
-"FM","Micronesia",2008,
+"FM","Micronesia",2000,1
+"FM","Micronesia",2001,1
+"FM","Micronesia",2002,1
+"FM","Micronesia",2003,1
+"FM","Micronesia",2004,1
+"FM","Micronesia",2005,1
+"FM","Micronesia",2006,1
+"FM","Micronesia",2007,1
+"FM","Micronesia",2008,1
 "FM","Micronesia",2009,1
 "FM","Micronesia",2010,1
 "FM","Micronesia",2011,1
@@ -1412,11 +1412,11 @@
 "MD","Moldova",2016,5
 "MN","Mongolia",2000,1
 "MN","Mongolia",2001,1
-"MN","Mongolia",2002,1
+"MN","Mongolia",2002,10
 "MN","Mongolia",2003,7
-"MN","Mongolia",2004,5
-"MN","Mongolia",2005,4
-"MN","Mongolia",2006,4
+"MN","Mongolia",2004,10
+"MN","Mongolia",2005,10
+"MN","Mongolia",2006,10
 "MN","Mongolia",2007,4
 "MN","Mongolia",2008,4
 "MN","Mongolia",2009,4
@@ -1427,57 +1427,57 @@
 "MN","Mongolia",2014,6
 "MN","Mongolia",2015,6
 "MN","Mongolia",2016,6
-"ME","Montenegro",2000,
-"ME","Montenegro",2001,
-"ME","Montenegro",2002,
-"ME","Montenegro",2003,
-"ME","Montenegro",2004,
-"ME","Montenegro",2005,
-"ME","Montenegro",2006,
-"ME","Montenegro",2007,7
+"ME","Montenegro",2000,1
+"ME","Montenegro",2001,1
+"ME","Montenegro",2002,1
+"ME","Montenegro",2003,1
+"ME","Montenegro",2004,1
+"ME","Montenegro",2005,1
+"ME","Montenegro",2006,1
+"ME","Montenegro",2007,10
 "ME","Montenegro",2008,4
 "ME","Montenegro",2009,4
-"ME","Montenegro",2010,4
-"ME","Montenegro",2011,4
-"ME","Montenegro",2012,4
-"ME","Montenegro",2013,4
-"ME","Montenegro",2014,4
-"ME","Montenegro",2015,4
-"ME","Montenegro",2016,5
-"MS","Montserrat",2000,
-"MS","Montserrat",2001,
-"MS","Montserrat",2002,
-"MS","Montserrat",2003,
-"MS","Montserrat",2004,
-"MS","Montserrat",2005,
-"MS","Montserrat",2006,
-"MS","Montserrat",2007,
-"MS","Montserrat",2008,
-"MS","Montserrat",2009,
-"MS","Montserrat",2010,
-"MS","Montserrat",2011,
-"MS","Montserrat",2012,
-"MS","Montserrat",2013,
-"MS","Montserrat",2014,
-"MS","Montserrat",2015,
-"MS","Montserrat",2016,
-"MA","Morocco",2000,5
+"ME","Montenegro",2010,10
+"ME","Montenegro",2011,10
+"ME","Montenegro",2012,10
+"ME","Montenegro",2013,10
+"ME","Montenegro",2014,10
+"ME","Montenegro",2015,10
+"ME","Montenegro",2016,10
+"MS","Montserrat",2000,1
+"MS","Montserrat",2001,1
+"MS","Montserrat",2002,1
+"MS","Montserrat",2003,1
+"MS","Montserrat",2004,1
+"MS","Montserrat",2005,1
+"MS","Montserrat",2006,1
+"MS","Montserrat",2007,1
+"MS","Montserrat",2008,1
+"MS","Montserrat",2009,1
+"MS","Montserrat",2010,1
+"MS","Montserrat",2011,1
+"MS","Montserrat",2012,1
+"MS","Montserrat",2013,1
+"MS","Montserrat",2014,1
+"MS","Montserrat",2015,1
+"MS","Montserrat",2016,1
+"MA","Morocco",2000,10
 "MA","Morocco",2001,5
-"MA","Morocco",2002,5
-"MA","Morocco",2003,5
-"MA","Morocco",2004,5
-"MA","Morocco",2005,5
-"MA","Morocco",2006,5
-"MA","Morocco",2007,5
-"MA","Morocco",2008,5
-"MA","Morocco",2009,5
-"MA","Morocco",2010,5
-"MA","Morocco",2011,5
-"MA","Morocco",2012,5
-"MA","Morocco",2013,5
-"MA","Morocco",2014,5
-"MA","Morocco",2015,5
-"MA","Morocco",2016,5
+"MA","Morocco",2002,10
+"MA","Morocco",2003,10
+"MA","Morocco",2004,10
+"MA","Morocco",2005,10
+"MA","Morocco",2006,10
+"MA","Morocco",2007,10
+"MA","Morocco",2008,10
+"MA","Morocco",2009,10
+"MA","Morocco",2010,10
+"MA","Morocco",2011,10
+"MA","Morocco",2012,10
+"MA","Morocco",2013,10
+"MA","Morocco",2014,10
+"MA","Morocco",2015,10
+"MA","Morocco",2016,10
 "MZ","Mozambique",2000,1
 "MZ","Mozambique",2001,1
 "MZ","Mozambique",2002,1
@@ -1495,9 +1495,9 @@
 "MZ","Mozambique",2014,4
 "MZ","Mozambique",2015,4
 "MZ","Mozambique",2016,4
-"MM","Myanmar",2000,5
-"MM","Myanmar",2001,5
-"MM","Myanmar",2002,5
+"MM","Myanmar",2000,10
+"MM","Myanmar",2001,10
+"MM","Myanmar",2002,10
 "MM","Myanmar",2003,4
 "MM","Myanmar",2004,4
 "MM","Myanmar",2005,5
@@ -1511,41 +1511,41 @@
 "MM","Myanmar",2013,1
 "MM","Myanmar",2014,1
 "MM","Myanmar",2015,4
-"MM","Myanmar",2016,4
-"NA","Namibia",2000,4
+"MM","Myanmar",2016,10
+"NA","Namibia",2000,10
 "NA","Namibia",2001,4
-"NA","Namibia",2002,4
-"NA","Namibia",2003,4
-"NA","Namibia",2004,4
+"NA","Namibia",2002,10
+"NA","Namibia",2003,10
+"NA","Namibia",2004,10
 "NA","Namibia",2005,4
-"NA","Namibia",2006,4
+"NA","Namibia",2006,10
 "NA","Namibia",2007,4
 "NA","Namibia",2008,4
-"NA","Namibia",2009,4
+"NA","Namibia",2009,10
 "NA","Namibia",2010,4
 "NA","Namibia",2011,4
 "NA","Namibia",2012,4
 "NA","Namibia",2013,4
-"NA","Namibia",2014,4
+"NA","Namibia",2014,10
 "NA","Namibia",2015,4
-"NA","Namibia",2016,4
-"NR","Nauru",2000,
-"NR","Nauru",2001,
-"NR","Nauru",2002,
-"NR","Nauru",2003,
-"NR","Nauru",2004,
-"NR","Nauru",2005,
-"NR","Nauru",2006,
-"NR","Nauru",2007,
-"NR","Nauru",2008,
-"NR","Nauru",2009,
-"NR","Nauru",2010,
-"NR","Nauru",2011,
-"NR","Nauru",2012,
-"NR","Nauru",2013,
-"NR","Nauru",2014,
-"NR","Nauru",2015,
-"NR","Nauru",2016,
+"NA","Namibia",2016,10
+"NR","Nauru",2000,1
+"NR","Nauru",2001,1
+"NR","Nauru",2002,1
+"NR","Nauru",2003,1
+"NR","Nauru",2004,1
+"NR","Nauru",2005,1
+"NR","Nauru",2006,1
+"NR","Nauru",2007,1
+"NR","Nauru",2008,1
+"NR","Nauru",2009,1
+"NR","Nauru",2010,1
+"NR","Nauru",2011,1
+"NR","Nauru",2012,1
+"NR","Nauru",2013,1
+"NR","Nauru",2014,1
+"NR","Nauru",2015,1
+"NR","Nauru",2016,3
 "NP","Nepal",2000,1
 "NP","Nepal",2001,1
 "NP","Nepal",2002,5
@@ -1614,40 +1614,40 @@
 "NG","Nigeria",2014,5
 "NG","Nigeria",2015,5
 "NG","Nigeria",2016,5
-"NU","Niue",2000,
-"NU","Niue",2001,
-"NU","Niue",2002,
-"NU","Niue",2003,
-"NU","Niue",2004,
-"NU","Niue",2005,
-"NU","Niue",2006,
-"NU","Niue",2007,
-"NU","Niue",2008,
-"NU","Niue",2009,
-"NU","Niue",2010,
-"NU","Niue",2011,
-"NU","Niue",2012,
-"NU","Niue",2013,
-"NU","Niue",2014,
-"NU","Niue",2015,
-"NU","Niue",2016,
+"NU","Niue",2000,9
+"NU","Niue",2001,1
+"NU","Niue",2002,1
+"NU","Niue",2003,1
+"NU","Niue",2004,1
+"NU","Niue",2005,1
+"NU","Niue",2006,1
+"NU","Niue",2007,1
+"NU","Niue",2008,1
+"NU","Niue",2009,1
+"NU","Niue",2010,1
+"NU","Niue",2011,1
+"NU","Niue",2012,1
+"NU","Niue",2013,1
+"NU","Niue",2014,1
+"NU","Niue",2015,1
+"NU","Niue",2016,1
 "KP","North Korea",2000,1
-"KP","North Korea",2001,
+"KP","North Korea",2001,1
 "KP","North Korea",2002,1
-"KP","North Korea",2003,
+"KP","North Korea",2003,1
 "KP","North Korea",2004,1
-"KP","North Korea",2005,
-"KP","North Korea",2006,
+"KP","North Korea",2005,1
+"KP","North Korea",2006,9
 "KP","North Korea",2007,1
 "KP","North Korea",2008,1
 "KP","North Korea",2009,1
 "KP","North Korea",2010,1
 "KP","North Korea",2011,4
-"KP","North Korea",2012,4
+"KP","North Korea",2012,9
 "KP","North Korea",2013,4
 "KP","North Korea",2014,1
 "KP","North Korea",2015,1
-"KP","North Korea",2016,
+"KP","North Korea",2016,1
 "PK","Pakistan",2000,5
 "PK","Pakistan",2001,1
 "PK","Pakistan",2002,5
@@ -1665,22 +1665,22 @@
 "PK","Pakistan",2014,5
 "PK","Pakistan",2015,5
 "PK","Pakistan",2016,5
-"PW","Palau",2000,
-"PW","Palau",2001,
-"PW","Palau",2002,
-"PW","Palau",2003,
-"PW","Palau",2004,
-"PW","Palau",2005,1
-"PW","Palau",2006,4
-"PW","Palau",2007,1
-"PW","Palau",2008,1
-"PW","Palau",2009,1
-"PW","Palau",2010,1
-"PW","Palau",2011,1
-"PW","Palau",2012,4
-"PW","Palau",2013,1
-"PW","Palau",2014,4
-"PW","Palau",2015,4
+"PW","Palau",2000,10
+"PW","Palau",2001,10
+"PW","Palau",2002,10
+"PW","Palau",2003,10
+"PW","Palau",2004,10
+"PW","Palau",2005,10
+"PW","Palau",2006,10
+"PW","Palau",2007,10
+"PW","Palau",2008,10
+"PW","Palau",2009,10
+"PW","Palau",2010,10
+"PW","Palau",2011,10
+"PW","Palau",2012,10
+"PW","Palau",2013,10
+"PW","Palau",2014,10
+"PW","Palau",2015,10
 "PW","Palau",2016,4
 "PS","Palestine",2000,5
 "PS","Palestine",2001,5
@@ -1699,7 +1699,7 @@
 "PS","Palestine",2014,1
 "PS","Palestine",2015,1
 "PS","Palestine",2016,1
-"PA","Panama",2000,6
+"PA","Panama",2000,10
 "PA","Panama",2001,6
 "PA","Panama",2002,6
 "PA","Panama",2003,4
@@ -1711,11 +1711,11 @@
 "PA","Panama",2009,6
 "PA","Panama",2010,4
 "PA","Panama",2011,6
-"PA","Panama",2012,4
-"PA","Panama",2013,7
-"PA","Panama",2014,6
-"PA","Panama",2015,6
-"PA","Panama",2016,4
+"PA","Panama",2012,10
+"PA","Panama",2013,10
+"PA","Panama",2014,10
+"PA","Panama",2015,10
+"PA","Panama",2016,10
 "PG","Papua New Guinea",2000,1
 "PG","Papua New Guinea",2001,1
 "PG","Papua New Guinea",2002,1
@@ -1725,8 +1725,8 @@
 "PG","Papua New Guinea",2006,1
 "PG","Papua New Guinea",2007,6
 "PG","Papua New Guinea",2008,6
-"PG","Papua New Guinea",2009,6
-"PG","Papua New Guinea",2010,6
+"PG","Papua New Guinea",2009,9
+"PG","Papua New Guinea",2010,9
 "PG","Papua New Guinea",2011,6
 "PG","Papua New Guinea",2012,6
 "PG","Papua New Guinea",2013,6
@@ -1750,7 +1750,7 @@
 "PY","Paraguay",2014,6
 "PY","Paraguay",2015,6
 "PY","Paraguay",2016,6
-"PE","Peru",2000,4
+"PE","Peru",2000,10
 "PE","Peru",2001,4
 "PE","Peru",2002,4
 "PE","Peru",2003,4
@@ -1801,72 +1801,72 @@
 "RW","Rwanda",2014,1
 "RW","Rwanda",2015,1
 "RW","Rwanda",2016,1
-"SH","Saint Helena, Ascension & Tristan da Cunha",2000,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2001,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2002,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2003,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2004,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2005,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2006,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2007,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2008,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2009,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2010,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2011,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2012,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2013,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2014,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2015,
-"SH","Saint Helena, Ascension & Tristan da Cunha",2016,
-"LC","Saint Lucia",2000,4
-"LC","Saint Lucia",2001,4
-"LC","Saint Lucia",2002,4
-"LC","Saint Lucia",2003,4
-"LC","Saint Lucia",2004,4
-"LC","Saint Lucia",2005,4
-"LC","Saint Lucia",2006,4
-"LC","Saint Lucia",2007,4
+"SH","Saint Helena, Ascension & Tristan da Cunha",2000,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2001,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2002,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2003,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2004,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2005,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2006,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2007,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2008,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2009,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2010,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2011,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2012,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2013,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2014,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2015,1
+"SH","Saint Helena, Ascension & Tristan da Cunha",2016,1
+"LC","Saint Lucia",2000,10
+"LC","Saint Lucia",2001,10
+"LC","Saint Lucia",2002,10
+"LC","Saint Lucia",2003,10
+"LC","Saint Lucia",2004,10
+"LC","Saint Lucia",2005,10
+"LC","Saint Lucia",2006,10
+"LC","Saint Lucia",2007,10
 "LC","Saint Lucia",2008,7
-"LC","Saint Lucia",2009,4
-"LC","Saint Lucia",2010,7
-"LC","Saint Lucia",2011,4
-"LC","Saint Lucia",2012,4
-"LC","Saint Lucia",2013,4
-"LC","Saint Lucia",2014,4
-"LC","Saint Lucia",2015,4
-"LC","Saint Lucia",2016,4
-"VC","Saint Vincent & the Grenadines",2000,4
-"VC","Saint Vincent & the Grenadines",2001,5
-"VC","Saint Vincent & the Grenadines",2002,4
-"VC","Saint Vincent & the Grenadines",2003,4
-"VC","Saint Vincent & the Grenadines",2004,4
-"VC","Saint Vincent & the Grenadines",2005,4
-"VC","Saint Vincent & the Grenadines",2006,4
+"LC","Saint Lucia",2009,10
+"LC","Saint Lucia",2010,10
+"LC","Saint Lucia",2011,10
+"LC","Saint Lucia",2012,10
+"LC","Saint Lucia",2013,10
+"LC","Saint Lucia",2014,10
+"LC","Saint Lucia",2015,10
+"LC","Saint Lucia",2016,10
+"VC","Saint Vincent & the Grenadines",2000,10
+"VC","Saint Vincent & the Grenadines",2001,10
+"VC","Saint Vincent & the Grenadines",2002,10
+"VC","Saint Vincent & the Grenadines",2003,10
+"VC","Saint Vincent & the Grenadines",2004,10
+"VC","Saint Vincent & the Grenadines",2005,10
+"VC","Saint Vincent & the Grenadines",2006,10
 "VC","Saint Vincent & the Grenadines",2007,4
 "VC","Saint Vincent & the Grenadines",2008,4
 "VC","Saint Vincent & the Grenadines",2009,4
 "VC","Saint Vincent & the Grenadines",2010,4
-"VC","Saint Vincent & the Grenadines",2011,4
+"VC","Saint Vincent & the Grenadines",2011,10
 "VC","Saint Vincent & the Grenadines",2012,4
 "VC","Saint Vincent & the Grenadines",2013,4
-"VC","Saint Vincent & the Grenadines",2014,4
-"VC","Saint Vincent & the Grenadines",2015,4
-"VC","Saint Vincent & the Grenadines",2016,4
-"WS","Samoa",2000,
-"WS","Samoa",2001,1
-"WS","Samoa",2002,1
-"WS","Samoa",2003,1
-"WS","Samoa",2004,1
+"VC","Saint Vincent & the Grenadines",2014,10
+"VC","Saint Vincent & the Grenadines",2015,10
+"VC","Saint Vincent & the Grenadines",2016,10
+"WS","Samoa",2000,10
+"WS","Samoa",2001,10
+"WS","Samoa",2002,10
+"WS","Samoa",2003,10
+"WS","Samoa",2004,10
 "WS","Samoa",2005,5
-"WS","Samoa",2006,5
-"WS","Samoa",2007,5
-"WS","Samoa",2008,5
+"WS","Samoa",2006,10
+"WS","Samoa",2007,10
+"WS","Samoa",2008,10
 "WS","Samoa",2009,5
 "WS","Samoa",2010,5
 "WS","Samoa",2011,5
 "WS","Samoa",2012,5
 "WS","Samoa",2013,5
-"WS","Samoa",2014,5
+"WS","Samoa",2014,10
 "WS","Samoa",2015,5
 "WS","Samoa",2016,1
 "ST","Sao Tome & Principe",2000,1
@@ -1883,9 +1883,9 @@
 "ST","Sao Tome & Principe",2011,1
 "ST","Sao Tome & Principe",2012,1
 "ST","Sao Tome & Principe",2013,1
-"ST","Sao Tome & Principe",2014,1
-"ST","Sao Tome & Principe",2015,1
-"ST","Sao Tome & Principe",2016,1
+"ST","Sao Tome & Principe",2014,10
+"ST","Sao Tome & Principe",2015,10
+"ST","Sao Tome & Principe",2016,10
 "SN","Senegal",2000,1
 "SN","Senegal",2001,1
 "SN","Senegal",2002,1
@@ -1903,13 +1903,13 @@
 "SN","Senegal",2014,5
 "SN","Senegal",2015,5
 "SN","Senegal",2016,5
-"RS","Serbia",2000,
-"RS","Serbia",2001,
-"RS","Serbia",2002,
-"RS","Serbia",2003,
-"RS","Serbia",2004,
-"RS","Serbia",2005,
-"RS","Serbia",2006,
+"RS","Serbia",2000,1
+"RS","Serbia",2001,1
+"RS","Serbia",2002,1
+"RS","Serbia",2003,1
+"RS","Serbia",2004,6
+"RS","Serbia",2005,6
+"RS","Serbia",2006,6
 "RS","Serbia",2007,6
 "RS","Serbia",2008,6
 "RS","Serbia",2009,5
@@ -1920,23 +1920,23 @@
 "RS","Serbia",2014,6
 "RS","Serbia",2015,5
 "RS","Serbia",2016,5
-"SC","Seychelles",2000,1
-"SC","Seychelles",2001,4
-"SC","Seychelles",2002,1
-"SC","Seychelles",2003,4
-"SC","Seychelles",2004,4
-"SC","Seychelles",2005,4
-"SC","Seychelles",2006,4
-"SC","Seychelles",2007,4
-"SC","Seychelles",2008,4
-"SC","Seychelles",2009,4
-"SC","Seychelles",2010,4
-"SC","Seychelles",2011,4
-"SC","Seychelles",2012,4
-"SC","Seychelles",2013,4
-"SC","Seychelles",2014,4
-"SC","Seychelles",2015,4
-"SC","Seychelles",2016,4
+"SC","Seychelles",2000,10
+"SC","Seychelles",2001,10
+"SC","Seychelles",2002,10
+"SC","Seychelles",2003,10
+"SC","Seychelles",2004,10
+"SC","Seychelles",2005,10
+"SC","Seychelles",2006,10
+"SC","Seychelles",2007,10
+"SC","Seychelles",2008,10
+"SC","Seychelles",2009,10
+"SC","Seychelles",2010,10
+"SC","Seychelles",2011,10
+"SC","Seychelles",2012,10
+"SC","Seychelles",2013,10
+"SC","Seychelles",2014,10
+"SC","Seychelles",2015,10
+"SC","Seychelles",2016,10
 "SL","Sierra Leone",2000,1
 "SL","Sierra Leone",2001,1
 "SL","Sierra Leone",2002,1
@@ -1957,7 +1957,7 @@
 "SB","Solomon Islands",2000,1
 "SB","Solomon Islands",2001,1
 "SB","Solomon Islands",2002,1
-"SB","Solomon Islands",2003,
+"SB","Solomon Islands",2003,1
 "SB","Solomon Islands",2004,1
 "SB","Solomon Islands",2005,1
 "SB","Solomon Islands",2006,1
@@ -1971,57 +1971,57 @@
 "SB","Solomon Islands",2014,1
 "SB","Solomon Islands",2015,1
 "SB","Solomon Islands",2016,1
-"SO","Somalia",2000,
-"SO","Somalia",2001,
-"SO","Somalia",2002,
-"SO","Somalia",2003,
-"SO","Somalia",2004,
-"SO","Somalia",2005,
-"SO","Somalia",2006,
-"SO","Somalia",2007,
+"SO","Somalia",2000,1
+"SO","Somalia",2001,1
+"SO","Somalia",2002,1
+"SO","Somalia",2003,1
+"SO","Somalia",2004,1
+"SO","Somalia",2005,1
+"SO","Somalia",2006,1
+"SO","Somalia",2007,1
 "SO","Somalia",2008,1
-"SO","Somalia",2009,
-"SO","Somalia",2010,
+"SO","Somalia",2009,1
+"SO","Somalia",2010,1
 "SO","Somalia",2011,1
-"SO","Somalia",2012,
-"SO","Somalia",2013,
+"SO","Somalia",2012,1
+"SO","Somalia",2013,1
 "SO","Somalia",2014,1
-"SO","Somalia",2015,
+"SO","Somalia",2015,1
 "SO","Somalia",2016,1
 "ZA","South Africa",2000,2
 "ZA","South Africa",2001,4
-"ZA","South Africa",2002,6
-"ZA","South Africa",2003,6
-"ZA","South Africa",2004,2
-"ZA","South Africa",2005,2
+"ZA","South Africa",2002,10
+"ZA","South Africa",2003,10
+"ZA","South Africa",2004,10
+"ZA","South Africa",2005,10
 "ZA","South Africa",2006,2
-"ZA","South Africa",2007,6
+"ZA","South Africa",2007,10
 "ZA","South Africa",2008,4
 "ZA","South Africa",2009,2
-"ZA","South Africa",2010,6
-"ZA","South Africa",2011,6
-"ZA","South Africa",2012,7
-"ZA","South Africa",2013,6
-"ZA","South Africa",2014,2
+"ZA","South Africa",2010,10
+"ZA","South Africa",2011,10
+"ZA","South Africa",2012,10
+"ZA","South Africa",2013,10
+"ZA","South Africa",2014,10
 "ZA","South Africa",2015,6
 "ZA","South Africa",2016,6
-"SS","South Sudan",2000,
-"SS","South Sudan",2001,
-"SS","South Sudan",2002,
-"SS","South Sudan",2003,
-"SS","South Sudan",2004,
-"SS","South Sudan",2005,
-"SS","South Sudan",2006,
-"SS","South Sudan",2007,
-"SS","South Sudan",2008,
-"SS","South Sudan",2009,
-"SS","South Sudan",2010,
-"SS","South Sudan",2011,
-"SS","South Sudan",2012,
-"SS","South Sudan",2013,
+"SS","South Sudan",2000,1
+"SS","South Sudan",2001,1
+"SS","South Sudan",2002,1
+"SS","South Sudan",2003,1
+"SS","South Sudan",2004,1
+"SS","South Sudan",2005,1
+"SS","South Sudan",2006,1
+"SS","South Sudan",2007,1
+"SS","South Sudan",2008,1
+"SS","South Sudan",2009,1
+"SS","South Sudan",2010,1
+"SS","South Sudan",2011,1
+"SS","South Sudan",2012,1
+"SS","South Sudan",2013,1
 "SS","South Sudan",2014,1
-"SS","South Sudan",2015,
-"SS","South Sudan",2016,
+"SS","South Sudan",2015,1
+"SS","South Sudan",2016,1
 "LK","Sri Lanka",2000,5
 "LK","Sri Lanka",2001,5
 "LK","Sri Lanka",2002,5
@@ -2056,13 +2056,13 @@
 "SD","Sudan",2014,4
 "SD","Sudan",2015,4
 "SD","Sudan",2016,4
-"SR","Suriname",2000,
-"SR","Suriname",2001,1
+"SR","Suriname",2000,10
+"SR","Suriname",2001,10
 "SR","Suriname",2002,1
-"SR","Suriname",2003,1
-"SR","Suriname",2004,1
-"SR","Suriname",2005,1
-"SR","Suriname",2006,1
+"SR","Suriname",2003,9
+"SR","Suriname",2004,10
+"SR","Suriname",2005,10
+"SR","Suriname",2006,10
 "SR","Suriname",2007,1
 "SR","Suriname",2008,1
 "SR","Suriname",2009,1
@@ -2076,7 +2076,7 @@
 "SZ","Swaziland",2000,4
 "SZ","Swaziland",2001,5
 "SZ","Swaziland",2002,4
-"SZ","Swaziland",2003,5
+"SZ","Swaziland",2003,10
 "SZ","Swaziland",2004,5
 "SZ","Swaziland",2005,5
 "SZ","Swaziland",2006,4
@@ -2090,23 +2090,23 @@
 "SZ","Swaziland",2014,1
 "SZ","Swaziland",2015,1
 "SZ","Swaziland",2016,1
-"SY","Syria",2000,3
-"SY","Syria",2001,1
-"SY","Syria",2002,1
+"SY","Syria",2000,10
+"SY","Syria",2001,10
+"SY","Syria",2002,10
 "SY","Syria",2003,5
-"SY","Syria",2004,5
-"SY","Syria",2005,5
-"SY","Syria",2006,5
-"SY","Syria",2007,4
-"SY","Syria",2008,4
-"SY","Syria",2009,4
-"SY","Syria",2010,5
-"SY","Syria",2011,5
+"SY","Syria",2004,10
+"SY","Syria",2005,10
+"SY","Syria",2006,10
+"SY","Syria",2007,10
+"SY","Syria",2008,10
+"SY","Syria",2009,10
+"SY","Syria",2010,10
+"SY","Syria",2011,10
 "SY","Syria",2012,5
 "SY","Syria",2013,1
 "SY","Syria",2014,1
 "SY","Syria",2015,1
-"SY","Syria",2016,
+"SY","Syria",2016,1
 "TJ","Tajikistan",2000,1
 "TJ","Tajikistan",2001,1
 "TJ","Tajikistan",2002,1
@@ -2141,28 +2141,28 @@
 "TZ","Tanzania",2014,1
 "TZ","Tanzania",2015,1
 "TZ","Tanzania",2016,1
-"TH","Thailand",2000,4
-"TH","Thailand",2001,6
-"TH","Thailand",2002,6
-"TH","Thailand",2003,6
-"TH","Thailand",2004,6
+"TH","Thailand",2000,10
+"TH","Thailand",2001,10
+"TH","Thailand",2002,10
+"TH","Thailand",2003,10
+"TH","Thailand",2004,10
 "TH","Thailand",2005,6
-"TH","Thailand",2006,6
-"TH","Thailand",2007,6
-"TH","Thailand",2008,6
-"TH","Thailand",2009,6
-"TH","Thailand",2010,7
-"TH","Thailand",2011,6
-"TH","Thailand",2012,6
-"TH","Thailand",2013,6
-"TH","Thailand",2014,6
-"TH","Thailand",2015,6
-"TH","Thailand",2016,6
-"TL","Timor-Leste",2000,
-"TL","Timor-Leste",2001,
-"TL","Timor-Leste",2002,
+"TH","Thailand",2006,10
+"TH","Thailand",2007,10
+"TH","Thailand",2008,10
+"TH","Thailand",2009,10
+"TH","Thailand",2010,10
+"TH","Thailand",2011,10
+"TH","Thailand",2012,10
+"TH","Thailand",2013,10
+"TH","Thailand",2014,10
+"TH","Thailand",2015,10
+"TH","Thailand",2016,10
+"TL","Timor-Leste",2000,3
+"TL","Timor-Leste",2001,1
+"TL","Timor-Leste",2002,1
 "TL","Timor-Leste",2003,1
-"TL","Timor-Leste",2004,
+"TL","Timor-Leste",2004,1
 "TL","Timor-Leste",2005,1
 "TL","Timor-Leste",2006,1
 "TL","Timor-Leste",2007,1
@@ -2192,23 +2192,23 @@
 "TG","Togo",2014,5
 "TG","Togo",2015,5
 "TG","Togo",2016,5
-"TK","Tokelau",2000,
-"TK","Tokelau",2001,
-"TK","Tokelau",2002,
-"TK","Tokelau",2003,
-"TK","Tokelau",2004,
-"TK","Tokelau",2005,
-"TK","Tokelau",2006,
-"TK","Tokelau",2007,
-"TK","Tokelau",2008,
-"TK","Tokelau",2009,
-"TK","Tokelau",2010,
-"TK","Tokelau",2011,
-"TK","Tokelau",2012,
-"TK","Tokelau",2013,
-"TK","Tokelau",2014,
-"TK","Tokelau",2015,
-"TK","Tokelau",2016,
+"TK","Tokelau",2000,1
+"TK","Tokelau",2001,1
+"TK","Tokelau",2002,1
+"TK","Tokelau",2003,1
+"TK","Tokelau",2004,1
+"TK","Tokelau",2005,1
+"TK","Tokelau",2006,1
+"TK","Tokelau",2007,1
+"TK","Tokelau",2008,1
+"TK","Tokelau",2009,1
+"TK","Tokelau",2010,1
+"TK","Tokelau",2011,1
+"TK","Tokelau",2012,1
+"TK","Tokelau",2013,1
+"TK","Tokelau",2014,1
+"TK","Tokelau",2015,1
+"TK","Tokelau",2016,1
 "TO","Tonga",2000,1
 "TO","Tonga",2001,5
 "TO","Tonga",2002,5
@@ -2226,21 +2226,21 @@
 "TO","Tonga",2014,1
 "TO","Tonga",2015,5
 "TO","Tonga",2016,1
-"TN","Tunisia",2000,6
-"TN","Tunisia",2001,7
-"TN","Tunisia",2002,5
-"TN","Tunisia",2003,5
-"TN","Tunisia",2004,5
-"TN","Tunisia",2005,5
+"TN","Tunisia",2000,10
+"TN","Tunisia",2001,10
+"TN","Tunisia",2002,10
+"TN","Tunisia",2003,10
+"TN","Tunisia",2004,10
+"TN","Tunisia",2005,10
 "TN","Tunisia",2006,4
-"TN","Tunisia",2007,5
-"TN","Tunisia",2008,4
-"TN","Tunisia",2009,5
-"TN","Tunisia",2010,5
-"TN","Tunisia",2011,5
-"TN","Tunisia",2012,5
-"TN","Tunisia",2013,5
-"TN","Tunisia",2014,5
+"TN","Tunisia",2007,10
+"TN","Tunisia",2008,10
+"TN","Tunisia",2009,10
+"TN","Tunisia",2010,10
+"TN","Tunisia",2011,10
+"TN","Tunisia",2012,10
+"TN","Tunisia",2013,10
+"TN","Tunisia",2014,10
 "TN","Tunisia",2015,5
 "TN","Tunisia",2016,5
 "TR","Turkey",2000,6
@@ -2258,7 +2258,7 @@
 "TR","Turkey",2012,6
 "TR","Turkey",2013,6
 "TR","Turkey",2014,6
-"TR","Turkey",2015,6
+"TR","Turkey",2015,10
 "TR","Turkey",2016,6
 "TM","Turkmenistan",2000,8
 "TM","Turkmenistan",2001,4
@@ -2277,18 +2277,18 @@
 "TM","Turkmenistan",2014,4
 "TM","Turkmenistan",2015,4
 "TM","Turkmenistan",2016,4
-"TV","Tuvalu",2000,
-"TV","Tuvalu",2001,
-"TV","Tuvalu",2002,
-"TV","Tuvalu",2003,
-"TV","Tuvalu",2004,
-"TV","Tuvalu",2005,
-"TV","Tuvalu",2006,
-"TV","Tuvalu",2007,
+"TV","Tuvalu",2000,1
+"TV","Tuvalu",2001,1
+"TV","Tuvalu",2002,1
+"TV","Tuvalu",2003,1
+"TV","Tuvalu",2004,1
+"TV","Tuvalu",2005,1
+"TV","Tuvalu",2006,1
+"TV","Tuvalu",2007,1
 "TV","Tuvalu",2008,1
-"TV","Tuvalu",2009,
+"TV","Tuvalu",2009,1
 "TV","Tuvalu",2010,1
-"TV","Tuvalu",2011,
+"TV","Tuvalu",2011,1
 "TV","Tuvalu",2012,1
 "TV","Tuvalu",2013,1
 "TV","Tuvalu",2014,1
@@ -2311,11 +2311,11 @@
 "UG","Uganda",2014,1
 "UG","Uganda",2015,1
 "UG","Uganda",2016,1
-"UA","Ukraine",2000,
-"UA","Ukraine",2001,
-"UA","Ukraine",2002,
-"UA","Ukraine",2003,
-"UA","Ukraine",2004,
+"UA","Ukraine",2000,6
+"UA","Ukraine",2001,7
+"UA","Ukraine",2002,6
+"UA","Ukraine",2003,6
+"UA","Ukraine",2004,6
 "UA","Ukraine",2005,4
 "UA","Ukraine",2006,6
 "UA","Ukraine",2007,6
@@ -2328,11 +2328,11 @@
 "UA","Ukraine",2014,6
 "UA","Ukraine",2015,6
 "UA","Ukraine",2016,5
-"UY","Uruguay",2000,3
-"UY","Uruguay",2001,4
+"UY","Uruguay",2000,10
+"UY","Uruguay",2001,10
 "UY","Uruguay",2002,3
-"UY","Uruguay",2003,4
-"UY","Uruguay",2004,4
+"UY","Uruguay",2003,10
+"UY","Uruguay",2004,10
 "UY","Uruguay",2005,4
 "UY","Uruguay",2006,4
 "UY","Uruguay",2007,4
@@ -2343,8 +2343,8 @@
 "UY","Uruguay",2012,4
 "UY","Uruguay",2013,4
 "UY","Uruguay",2014,4
-"UY","Uruguay",2015,4
-"UY","Uruguay",2016,4
+"UY","Uruguay",2015,10
+"UY","Uruguay",2016,10
 "UZ","Uzbekistan",2000,6
 "UZ","Uzbekistan",2001,6
 "UZ","Uzbekistan",2002,6
@@ -2362,22 +2362,22 @@
 "UZ","Uzbekistan",2014,5
 "UZ","Uzbekistan",2015,5
 "UZ","Uzbekistan",2016,5
-"VU","Vanuatu",2000,1
-"VU","Vanuatu",2001,5
-"VU","Vanuatu",2002,7
-"VU","Vanuatu",2003,1
-"VU","Vanuatu",2004,1
-"VU","Vanuatu",2005,1
-"VU","Vanuatu",2006,4
-"VU","Vanuatu",2007,4
-"VU","Vanuatu",2008,1
-"VU","Vanuatu",2009,1
-"VU","Vanuatu",2010,1
-"VU","Vanuatu",2011,1
-"VU","Vanuatu",2012,7
-"VU","Vanuatu",2013,1
-"VU","Vanuatu",2014,1
-"VU","Vanuatu",2015,1
+"VU","Vanuatu",2000,10
+"VU","Vanuatu",2001,10
+"VU","Vanuatu",2002,10
+"VU","Vanuatu",2003,10
+"VU","Vanuatu",2004,10
+"VU","Vanuatu",2005,10
+"VU","Vanuatu",2006,10
+"VU","Vanuatu",2007,10
+"VU","Vanuatu",2008,10
+"VU","Vanuatu",2009,10
+"VU","Vanuatu",2010,10
+"VU","Vanuatu",2011,10
+"VU","Vanuatu",2012,10
+"VU","Vanuatu",2013,10
+"VU","Vanuatu",2014,10
+"VU","Vanuatu",2015,10
 "VU","Vanuatu",2016,1
 "VE","Venezuela",2000,4
 "VE","Venezuela",2001,4
@@ -2413,36 +2413,36 @@
 "VN","Viet Nam",2014,5
 "VN","Viet Nam",2015,5
 "VN","Viet Nam",2016,4
-"WF","Wallis & Futuna",2000,
-"WF","Wallis & Futuna",2001,
-"WF","Wallis & Futuna",2002,
-"WF","Wallis & Futuna",2003,
-"WF","Wallis & Futuna",2004,
-"WF","Wallis & Futuna",2005,
-"WF","Wallis & Futuna",2006,
-"WF","Wallis & Futuna",2007,
-"WF","Wallis & Futuna",2008,
-"WF","Wallis & Futuna",2009,
-"WF","Wallis & Futuna",2010,
-"WF","Wallis & Futuna",2011,
-"WF","Wallis & Futuna",2012,
-"WF","Wallis & Futuna",2013,
-"WF","Wallis & Futuna",2014,
-"WF","Wallis & Futuna",2015,
-"WF","Wallis & Futuna",2016,
+"WF","Wallis & Futuna",2000,1
+"WF","Wallis & Futuna",2001,1
+"WF","Wallis & Futuna",2002,1
+"WF","Wallis & Futuna",2003,1
+"WF","Wallis & Futuna",2004,1
+"WF","Wallis & Futuna",2005,1
+"WF","Wallis & Futuna",2006,1
+"WF","Wallis & Futuna",2007,1
+"WF","Wallis & Futuna",2008,1
+"WF","Wallis & Futuna",2009,1
+"WF","Wallis & Futuna",2010,1
+"WF","Wallis & Futuna",2011,1
+"WF","Wallis & Futuna",2012,1
+"WF","Wallis & Futuna",2013,1
+"WF","Wallis & Futuna",2014,1
+"WF","Wallis & Futuna",2015,1
+"WF","Wallis & Futuna",2016,1
 "YE","Yemen",2000,5
 "YE","Yemen",2001,5
 "YE","Yemen",2002,5
 "YE","Yemen",2003,5
 "YE","Yemen",2004,5
-"YE","Yemen",2005,
+"YE","Yemen",2005,5
 "YE","Yemen",2006,5
 "YE","Yemen",2007,5
 "YE","Yemen",2008,4
 "YE","Yemen",2009,5
 "YE","Yemen",2010,5
 "YE","Yemen",2011,5
-"YE","Yemen",2012,
+"YE","Yemen",2012,5
 "YE","Yemen",2013,5
 "YE","Yemen",2014,5
 "YE","Yemen",2015,5
@@ -2468,10 +2468,10 @@
 "ZW","Zimbabwe",2001,1
 "ZW","Zimbabwe",2002,1
 "ZW","Zimbabwe",2003,7
-"ZW","Zimbabwe",2004,1
+"ZW","Zimbabwe",2004,10
 "ZW","Zimbabwe",2005,1
-"ZW","Zimbabwe",2006,1
-"ZW","Zimbabwe",2007,1
+"ZW","Zimbabwe",2006,10
+"ZW","Zimbabwe",2007,10
 "ZW","Zimbabwe",2008,1
 "ZW","Zimbabwe",2009,1
 "ZW","Zimbabwe",2010,6

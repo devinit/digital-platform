@@ -1,6 +1,6 @@
 "Name: total-revenue-ppp-pc"
-"Description: Average revenue raised per person by the government, including tax, non-tax revenue and grants (borrowing is excluded). Figures are displayed in 2015 constant purchasing power parity (PPP)$. (Data series is from 1999-2021, where available. The hover function details whether the data point is an actual or a projected figure.)"
-"Units of measure: 2015 PPP$"
+"Description: Average revenue raised per person by the government, including tax, non-tax revenue and grants (borrowing is excluded). Figures are displayed in 2011 PPP$ (purchasing power parity). (Data series is from 1999-2023, where available. The hover function details whether the data point is an actual or a projected figure.)"
+"Units of measure: 2011 PPP$"
 "Source: 2"
 "Source-link: 1"
 ""

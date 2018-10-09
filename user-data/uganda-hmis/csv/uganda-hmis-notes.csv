@@ -1,7 +1,7 @@
 "Name: uganda-hmis"
 "Description: Health Management Information System (HMIS) reporting score, by district. The higher the score the better the rated performance, with 0 the lowest score possible and 10 the highest."
 "Units of measure: unit"
-"Source: 21"
+"Source: 22"
 ""
 "Notes:"
 "On the 'Data-wide-value' sheet, we have provided the indicator in a wide format. The values you see listed there are from the 'value' column."
