@@ -1,7 +1,7 @@
 "Name: uganda-gov-spend-pp"
 "Description: Total per capita local government expenditure allocations, by district."
 "Units of measure:  "
-"Source: 29"
+"Source: 30"
 ""
 "Notes:"
 "This data contains information that has been converted from current native currency units (NCU) to constant US Dollars. The NCU values are contained in the 'value-ncu' column, while the converted and deflated values are contained in the 'value' column."

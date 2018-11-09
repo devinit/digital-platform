@@ -1,0 +1,568 @@
+"di_id","entity_name","year","value"
+"AU","Australia",2000,0
+"AU","Australia",2001,0
+"AU","Australia",2002,0
+"AU","Australia",2003,0
+"AU","Australia",2004,0
+"AU","Australia",2005,0
+"AU","Australia",2006,6162893.081
+"AU","Australia",2007,5303903.093
+"AU","Australia",2008,4887107.532
+"AU","Australia",2009,5270885.154
+"AU","Australia",2010,7401279.414
+"AU","Australia",2011,49768059.22
+"AU","Australia",2012,46024980.13
+"AU","Australia",2013,47145346.76
+"AU","Australia",2014,73423452.24
+"AU","Australia",2015,0
+"AU","Australia",2016,47423138.9
+"AU","Australia",2017,21469333.17
+"AU","Australia",2018,20898063.67
+"AU","Australia",2019,65926313.67
+"AU","Australia",2020,85563504.58
+"BR","Brazil",2000,0
+"BR","Brazil",2001,0
+"BR","Brazil",2002,0
+"BR","Brazil",2003,0
+"BR","Brazil",2004,0
+"BR","Brazil",2005,0
+"BR","Brazil",2006,0
+"BR","Brazil",2007,0
+"BR","Brazil",2008,0
+"BR","Brazil",2009,0
+"BR","Brazil",2010,0
+"BR","Brazil",2011,0
+"BR","Brazil",2012,0
+"BR","Brazil",2013,0
+"BR","Brazil",2014,0
+"BR","Brazil",2015,0
+"BR","Brazil",2016,0
+"BR","Brazil",2017,0
+"BR","Brazil",2018,0
+"BR","Brazil",2019,0
+"BR","Brazil",2020,0
+"CA","Canada",2000,0
+"CA","Canada",2001,0
+"CA","Canada",2002,3018595.49
+"CA","Canada",2003,6600262.193
+"CA","Canada",2004,11310728.87
+"CA","Canada",2005,147472378
+"CA","Canada",2006,5335871.292
+"CA","Canada",2007,0
+"CA","Canada",2008,0
+"CA","Canada",2009,0
+"CA","Canada",2010,13820646.03
+"CA","Canada",2011,44177114.37
+"CA","Canada",2012,58133575.91
+"CA","Canada",2013,62255088.67
+"CA","Canada",2014,54017305.66
+"CA","Canada",2015,11183040.6
+"CA","Canada",2016,82758781.5
+"CA","Canada",2017,92545097.03
+"CA","Canada",2018,76863140.85
+"CA","Canada",2019,90563729.31
+"CA","Canada",2020,94956141.48
+"CN","China",2000,0
+"CN","China",2001,0
+"CN","China",2002,0
+"CN","China",2003,0
+"CN","China",2004,0
+"CN","China",2005,0
+"CN","China",2006,0
+"CN","China",2007,0
+"CN","China",2008,0
+"CN","China",2009,0
+"CN","China",2010,0
+"CN","China",2011,0
+"CN","China",2012,0
+"CN","China",2013,0
+"CN","China",2014,0
+"CN","China",2015,0
+"CN","China",2016,2132874.873
+"CN","China",2017,1e+06
+"CN","China",2018,0
+"CN","China",2019,0
+"CN","China",2020,0
+"DK","Denmark",2000,0
+"DK","Denmark",2001,1849413.299
+"DK","Denmark",2002,0
+"DK","Denmark",2003,0
+"DK","Denmark",2004,3653877.344
+"DK","Denmark",2005,3636172.513
+"DK","Denmark",2006,4561670.519
+"DK","Denmark",2007,4378216.942
+"DK","Denmark",2008,0
+"DK","Denmark",2009,7909987.956
+"DK","Denmark",2010,1596765.957
+"DK","Denmark",2011,7373529.989
+"DK","Denmark",2012,3843664.778
+"DK","Denmark",2013,3904305.435
+"DK","Denmark",2014,0
+"DK","Denmark",2015,0
+"DK","Denmark",2016,0
+"DK","Denmark",2017,0
+"DK","Denmark",2018,0
+"DK","Denmark",2019,0
+"DK","Denmark",2020,0
+"EU","European Union",2000,0
+"EU","European Union",2001,0
+"EU","European Union",2002,0
+"EU","European Union",2003,1491374.061
+"EU","European Union",2004,0
+"EU","European Union",2005,0
+"EU","European Union",2006,0
+"EU","European Union",2007,4302439.043
+"EU","European Union",2008,19081075.25
+"EU","European Union",2009,25323797.84
+"EU","European Union",2010,0
+"EU","European Union",2011,0
+"EU","European Union",2012,11386733.92
+"EU","European Union",2013,0
+"EU","European Union",2014,0
+"EU","European Union",2015,22270090
+"EU","European Union",2016,14605955.11
+"EU","European Union",2017,7813890
+"EU","European Union",2018,54832750
+"EU","European Union",2019,0
+"EU","European Union",2020,32250000
+"FR","France",2000,0
+"FR","France",2001,0
+"FR","France",2002,0
+"FR","France",2003,0
+"FR","France",2004,6229060.168
+"FR","France",2005,0
+"FR","France",2006,158447551.9
+"FR","France",2007,106460499
+"FR","France",2008,61651620.04
+"FR","France",2009,78781636.49
+"FR","France",2010,79325770.16
+"FR","France",2011,91565634.73
+"FR","France",2012,40256341.01
+"FR","France",2013,72854659.19
+"FR","France",2014,5776186.083
+"FR","France",2015,5858600
+"FR","France",2016,159337958.9
+"FR","France",2017,30812027.23
+"FR","France",2018,107314875.7
+"FR","France",2019,107314875.7
+"FR","France",2020,132470264.7
+"DE","Germany",2000,0
+"DE","Germany",2001,0
+"DE","Germany",2002,0
+"DE","Germany",2003,0
+"DE","Germany",2004,0
+"DE","Germany",2005,0
+"DE","Germany",2006,5316937.119
+"DE","Germany",2007,5421383.242
+"DE","Germany",2008,0
+"DE","Germany",2009,4991066.498
+"DE","Germany",2010,4661503.418
+"DE","Germany",2011,7325340.996
+"DE","Germany",2012,31747397.78
+"DE","Germany",2013,30776680.05
+"DE","Germany",2014,51513355.08
+"DE","Germany",2015,63296056.62
+"DE","Germany",2016,113943211.1
+"DE","Germany",2017,149743712.2
+"DE","Germany",2018,48654975
+"DE","Germany",2019,0
+"DE","Germany",2020,0
+"IN","India",2000,0
+"IN","India",2001,0
+"IN","India",2002,0
+"IN","India",2003,0
+"IN","India",2004,0
+"IN","India",2005,0
+"IN","India",2006,0
+"IN","India",2007,0
+"IN","India",2008,0
+"IN","India",2009,0
+"IN","India",2010,0
+"IN","India",2011,0
+"IN","India",2012,0
+"IN","India",2013,0
+"IN","India",2014,1901237.63
+"IN","India",2015,1e+06
+"IN","India",2016,988780.704
+"IN","India",2017,0
+"IN","India",2018,4e+06
+"IN","India",2019,2e+06
+"IN","India",2020,2e+06
+"IE","Ireland",2000,0
+"IE","Ireland",2001,0
+"IE","Ireland",2002,672285.223
+"IE","Ireland",2003,660574.605
+"IE","Ireland",2004,622922.429
+"IE","Ireland",2005,773610.555
+"IE","Ireland",2006,7079094.349
+"IE","Ireland",2007,6729094.74
+"IE","Ireland",2008,2922454.799
+"IE","Ireland",2009,2995191.51
+"IE","Ireland",2010,3331649.509
+"IE","Ireland",2011,4290289.703
+"IE","Ireland",2012,3245645.09
+"IE","Ireland",2013,2665909.434
+"IE","Ireland",2014,669193.491
+"IE","Ireland",2015,3281400
+"IE","Ireland",2016,3208693.986
+"IE","Ireland",2017,3532777.49
+"IE","Ireland",2018,0
+"IE","Ireland",2019,0
+"IE","Ireland",2020,0
+"IT","Italy",2000,0
+"IT","Italy",2001,0
+"IT","Italy",2002,0
+"IT","Italy",2003,0
+"IT","Italy",2004,0
+"IT","Italy",2005,0
+"IT","Italy",2006,58742358.43
+"IT","Italy",2007,42876154.59
+"IT","Italy",2008,24805299.54
+"IT","Italy",2009,31118823.99
+"IT","Italy",2010,49470019.05
+"IT","Italy",2011,68496596.64
+"IT","Italy",2012,91386505
+"IT","Italy",2013,84473762.38
+"IT","Italy",2014,63290781.45
+"IT","Italy",2015,53218072.73
+"IT","Italy",2016,67880340.22
+"IT","Italy",2017,38550712.24
+"IT","Italy",2018,116406520.4
+"IT","Italy",2019,155461989.6
+"IT","Italy",2020,110362785.5
+"JP","Japan",2000,0
+"JP","Japan",2001,0
+"JP","Japan",2002,0
+"JP","Japan",2003,0
+"JP","Japan",2004,0
+"JP","Japan",2005,0
+"JP","Japan",2006,0
+"JP","Japan",2007,0
+"JP","Japan",2008,0
+"JP","Japan",2009,0
+"JP","Japan",2010,0
+"JP","Japan",2011,6330966.768
+"JP","Japan",2012,6186875.245
+"JP","Japan",2013,7592752.404
+"JP","Japan",2014,7758491.981
+"JP","Japan",2015,17368928
+"JP","Japan",2016,16815756.44
+"JP","Japan",2017,19166666
+"JP","Japan",2018,18999999
+"JP","Japan",2019,0
+"JP","Japan",2020,0
+"LU","Luxembourg",2000,0
+"LU","Luxembourg",2001,0
+"LU","Luxembourg",2002,0
+"LU","Luxembourg",2003,0
+"LU","Luxembourg",2004,0
+"LU","Luxembourg",2005,760377.524
+"LU","Luxembourg",2006,1440706.698
+"LU","Luxembourg",2007,800555.231
+"LU","Luxembourg",2008,1257911.39
+"LU","Luxembourg",2009,1097424.401
+"LU","Luxembourg",2010,1026992.097
+"LU","Luxembourg",2011,1007546.465
+"LU","Luxembourg",2012,963947.073
+"LU","Luxembourg",2013,905539.907
+"LU","Luxembourg",2014,942355.367
+"LU","Luxembourg",2015,920747.66
+"LU","Luxembourg",2016,904003.268
+"LU","Luxembourg",2017,863788
+"LU","Luxembourg",2018,984000
+"LU","Luxembourg",2019,1041400
+"LU","Luxembourg",2020,1057800
+"MC","Monaco",2000,0
+"MC","Monaco",2001,0
+"MC","Monaco",2002,0
+"MC","Monaco",2003,0
+"MC","Monaco",2004,0
+"MC","Monaco",2005,0
+"MC","Monaco",2006,0
+"MC","Monaco",2007,0
+"MC","Monaco",2008,0
+"MC","Monaco",2009,0
+"MC","Monaco",2010,0
+"MC","Monaco",2011,0
+"MC","Monaco",2012,0
+"MC","Monaco",2013,0
+"MC","Monaco",2014,0
+"MC","Monaco",2015,0
+"MC","Monaco",2016,0
+"MC","Monaco",2017,107821
+"MC","Monaco",2018,184512
+"MC","Monaco",2019,190500
+"MC","Monaco",2020,193500
+"NL","Netherlands",2000,0
+"NL","Netherlands",2001,36822309.68
+"NL","Netherlands",2002,18732291.66
+"NL","Netherlands",2003,18881075.04
+"NL","Netherlands",2004,17803911.66
+"NL","Netherlands",2005,15952016.42
+"NL","Netherlands",2006,12926958.44
+"NL","Netherlands",2007,38754831.56
+"NL","Netherlands",2008,36332090.35
+"NL","Netherlands",2009,33036192.1
+"NL","Netherlands",2010,28867177.34
+"NL","Netherlands",2011,27562211.6
+"NL","Netherlands",2012,14601905.51
+"NL","Netherlands",2013,32959206.82
+"NL","Netherlands",2014,33506180.68
+"NL","Netherlands",2015,33945600
+"NL","Netherlands",2016,38799113.86
+"NL","Netherlands",2017,64944297.6
+"NL","Netherlands",2018,47767431.55
+"NL","Netherlands",2019,64345690.81
+"NL","Netherlands",2020,73621553.1
+"NO","Norway",2000,0
+"NO","Norway",2001,32034175.88
+"NO","Norway",2002,34483270.98
+"NO","Norway",2003,30530045.32
+"NO","Norway",2004,51353998.76
+"NO","Norway",2005,43575706.33
+"NO","Norway",2006,97896088.17
+"NO","Norway",2007,98731451.11
+"NO","Norway",2008,63015668.66
+"NO","Norway",2009,92993617.69
+"NO","Norway",2010,78851021.04
+"NO","Norway",2011,74295651.23
+"NO","Norway",2012,93406933.07
+"NO","Norway",2013,106305653.6
+"NO","Norway",2014,116224851.1
+"NO","Norway",2015,158252945.1
+"NO","Norway",2016,151874471.6
+"NO","Norway",2017,162598344.7
+"NO","Norway",2018,148406242.3
+"NO","Norway",2019,155192802.5
+"NO","Norway",2020,225745623.1
+"OM","Oman",2000,0
+"OM","Oman",2001,0
+"OM","Oman",2002,0
+"OM","Oman",2003,0
+"OM","Oman",2004,0
+"OM","Oman",2005,0
+"OM","Oman",2006,0
+"OM","Oman",2007,0
+"OM","Oman",2008,0
+"OM","Oman",2009,0
+"OM","Oman",2010,0
+"OM","Oman",2011,0
+"OM","Oman",2012,0
+"OM","Oman",2013,0
+"OM","Oman",2014,0
+"OM","Oman",2015,6e+05
+"OM","Oman",2016,0
+"OM","Oman",2017,6e+05
+"OM","Oman",2018,6e+05
+"OM","Oman",2019,6e+05
+"OM","Oman",2020,6e+05
+"QA","Qatar",2000,0
+"QA","Qatar",2001,0
+"QA","Qatar",2002,0
+"QA","Qatar",2003,0
+"QA","Qatar",2004,0
+"QA","Qatar",2005,0
+"QA","Qatar",2006,0
+"QA","Qatar",2007,0
+"QA","Qatar",2008,0
+"QA","Qatar",2009,0
+"QA","Qatar",2010,0
+"QA","Qatar",2011,0
+"QA","Qatar",2012,0
+"QA","Qatar",2013,0
+"QA","Qatar",2014,0
+"QA","Qatar",2015,0
+"QA","Qatar",2016,2160816.688
+"QA","Qatar",2017,2e+06
+"QA","Qatar",2018,2e+06
+"QA","Qatar",2019,2e+06
+"QA","Qatar",2020,2e+06
+"RU","Russian Federation",2000,0
+"RU","Russian Federation",2001,0
+"RU","Russian Federation",2002,0
+"RU","Russian Federation",2003,0
+"RU","Russian Federation",2004,0
+"RU","Russian Federation",2005,0
+"RU","Russian Federation",2006,0
+"RU","Russian Federation",2007,0
+"RU","Russian Federation",2008,0
+"RU","Russian Federation",2009,0
+"RU","Russian Federation",2010,785686.62
+"RU","Russian Federation",2011,2816101.742
+"RU","Russian Federation",2012,5890771.523
+"RU","Russian Federation",2013,5804340.858
+"RU","Russian Federation",2014,6687864.718
+"RU","Russian Federation",2015,7608594.036
+"RU","Russian Federation",2016,8377616.335
+"RU","Russian Federation",2017,4158764.076
+"RU","Russian Federation",2018,7768896.279
+"RU","Russian Federation",2019,12879457.48
+"RU","Russian Federation",2020,5432065.997
+"SA","Saudi Arabia",2000,0
+"SA","Saudi Arabia",2001,0
+"SA","Saudi Arabia",2002,0
+"SA","Saudi Arabia",2003,0
+"SA","Saudi Arabia",2004,0
+"SA","Saudi Arabia",2005,0
+"SA","Saudi Arabia",2006,0
+"SA","Saudi Arabia",2007,0
+"SA","Saudi Arabia",2008,0
+"SA","Saudi Arabia",2009,0
+"SA","Saudi Arabia",2010,0
+"SA","Saudi Arabia",2011,0
+"SA","Saudi Arabia",2012,0
+"SA","Saudi Arabia",2013,0
+"SA","Saudi Arabia",2014,0
+"SA","Saudi Arabia",2015,0
+"SA","Saudi Arabia",2016,2574366.696
+"SA","Saudi Arabia",2017,5e+06
+"SA","Saudi Arabia",2018,5e+06
+"SA","Saudi Arabia",2019,5e+06
+"SA","Saudi Arabia",2020,5e+06
+"ZA","South Africa",2000,0
+"ZA","South Africa",2001,0
+"ZA","South Africa",2002,0
+"ZA","South Africa",2003,0
+"ZA","South Africa",2004,0
+"ZA","South Africa",2005,0
+"ZA","South Africa",2006,1745759.268
+"ZA","South Africa",2007,1364502.308
+"ZA","South Africa",2008,933640.495
+"ZA","South Africa",2009,1074873.47
+"ZA","South Africa",2010,850471.958
+"ZA","South Africa",2011,546942.029
+"ZA","South Africa",2012,196009.472
+"ZA","South Africa",2013,434121.958
+"ZA","South Africa",2014,0
+"ZA","South Africa",2015,0
+"ZA","South Africa",2016,232198.597
+"ZA","South Africa",2017,205220.494
+"ZA","South Africa",2018,720066.451
+"ZA","South Africa",2019,720066.451
+"ZA","South Africa",2020,842957.449
+"KR","South Korea",2000,0
+"KR","South Korea",2001,0
+"KR","South Korea",2002,0
+"KR","South Korea",2003,0
+"KR","South Korea",2004,0
+"KR","South Korea",2005,0
+"KR","South Korea",2006,0
+"KR","South Korea",2007,0
+"KR","South Korea",2008,0
+"KR","South Korea",2009,0
+"KR","South Korea",2010,435938.908
+"KR","South Korea",2011,308555.682
+"KR","South Korea",2012,310376.895
+"KR","South Korea",2013,997040.348
+"KR","South Korea",2014,953163.48
+"KR","South Korea",2015,4e+06
+"KR","South Korea",2016,4030690.981
+"KR","South Korea",2017,4e+06
+"KR","South Korea",2018,4e+06
+"KR","South Korea",2019,0
+"KR","South Korea",2020,0
+"ES","Spain",2000,0
+"ES","Spain",2001,0
+"ES","Spain",2002,0
+"ES","Spain",2003,0
+"ES","Spain",2004,0
+"ES","Spain",2005,0
+"ES","Spain",2006,22387637.48
+"ES","Spain",2007,16198979.48
+"ES","Spain",2008,40304589
+"ES","Spain",2009,11997246.61
+"ES","Spain",2010,12191358.08
+"ES","Spain",2011,10101930.79
+"ES","Spain",2012,2870452.434
+"ES","Spain",2013,5537372.716
+"ES","Spain",2014,0
+"ES","Spain",2015,0
+"ES","Spain",2016,2830167.449
+"ES","Spain",2017,2530922.527
+"ES","Spain",2018,8880362.593
+"ES","Spain",2019,8880362.593
+"ES","Spain",2020,10216616.82
+"SE","Sweden",2000,0
+"SE","Sweden",2001,2912068.639
+"SE","Sweden",2002,1592172.991
+"SE","Sweden",2003,2780286.934
+"SE","Sweden",2004,5201308.498
+"SE","Sweden",2005,13475122.7
+"SE","Sweden",2006,19141529.86
+"SE","Sweden",2007,17219995.14
+"SE","Sweden",2008,18388879.05
+"SE","Sweden",2009,16019923.75
+"SE","Sweden",2010,35672203.44
+"SE","Sweden",2011,77076597.98
+"SE","Sweden",2012,478989.971
+"SE","Sweden",2013,57773555.01
+"SE","Sweden",2014,41364652.65
+"SE","Sweden",2015,41475000
+"SE","Sweden",2016,36817600.72
+"SE","Sweden",2017,33856347
+"SE","Sweden",2018,43671215.37
+"SE","Sweden",2019,1234264.482
+"SE","Sweden",2020,1419273.204
+"CH","Switzerland",2000,0
+"CH","Switzerland",2001,0
+"CH","Switzerland",2002,0
+"CH","Switzerland",2003,0
+"CH","Switzerland",2004,0
+"CH","Switzerland",2005,0
+"CH","Switzerland",2006,0
+"CH","Switzerland",2007,0
+"CH","Switzerland",2008,0
+"CH","Switzerland",2009,0
+"CH","Switzerland",2010,0
+"CH","Switzerland",2011,0
+"CH","Switzerland",2012,0
+"CH","Switzerland",2013,0
+"CH","Switzerland",2014,0
+"CH","Switzerland",2015,0
+"CH","Switzerland",2016,1626018.512
+"CH","Switzerland",2017,0
+"CH","Switzerland",2018,0
+"CH","Switzerland",2019,420000
+"CH","Switzerland",2020,0
+"GB","United Kingdom",2000,6036273.459
+"GB","United Kingdom",2001,0
+"GB","United Kingdom",2002,19926545.15
+"GB","United Kingdom",2003,6658672.092
+"GB","United Kingdom",2004,19130979.37
+"GB","United Kingdom",2005,6718160.656
+"GB","United Kingdom",2006,261058335.2
+"GB","United Kingdom",2007,216737111.9
+"GB","United Kingdom",2008,116828292.5
+"GB","United Kingdom",2009,164997254.4
+"GB","United Kingdom",2010,179399040.2
+"GB","United Kingdom",2011,248656497.4
+"GB","United Kingdom",2012,287067819.2
+"GB","United Kingdom",2013,603266712.9
+"GB","United Kingdom",2014,391548225.7
+"GB","United Kingdom",2015,499862929.3
+"GB","United Kingdom",2016,435518270.4
+"GB","United Kingdom",2017,339761690.7
+"GB","United Kingdom",2018,414024031.5
+"GB","United Kingdom",2019,487465947.7
+"GB","United Kingdom",2020,507836923.5
+"US","USA",2000,0
+"US","USA",2001,63170919.22
+"US","USA",2002,68565079.28
+"US","USA",2003,73566727.17
+"US","USA",2004,73621999.99
+"US","USA",2005,77115368.07
+"US","USA",2006,80408771.92
+"US","USA",2007,78324751.51
+"US","USA",2008,79714029.11
+"US","USA",2009,82508940.22
+"US","USA",2010,84773736.86
+"US","USA",2011,95646193.85
+"US","USA",2012,135928595.7
+"US","USA",2013,141977794.4
+"US","USA",2014,176897001.5
+"US","USA",2015,2e+08
+"US","USA",2016,232039132
+"US","USA",2017,2.75e+08
+"US","USA",2018,0
+"US","USA",2019,0
+"US","USA",2020,0
