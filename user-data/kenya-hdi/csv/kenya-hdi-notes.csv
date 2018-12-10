@@ -1,7 +1,7 @@
 "Name: kenya-hdi"
 "Description: A composite statistic of life expectancy, education, and per capita income indicators, used to rank counties on level of human development. A county scores higher HDI when the lifespan is higher, the education level is higher, and the GDP per capita is higher"
 "Units of measure: "
-"Source: 48"
+"Source: 47"
 ""
 "Notes:"
 "On the 'Data-wide-value' sheet, we have provided the indicator in a wide format. The values you see listed there are from the 'value' column."

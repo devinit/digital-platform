@@ -1,0 +1,189 @@
+"district_id","district_name","year","budget_type","value"
+"d18974","Baringo",2015,"actual",7.19641440965129
+"d18974","Baringo",2016,"actual",7.21263154302582
+"d18974","Baringo",2017,"actual",7.78902230174574
+"d18974","Baringo",2018,"actual",5.12133939469663
+"d18975","Bomet",2015,"actual",5.02354183377064
+"d18975","Bomet",2016,"actual",7.75606552721722
+"d18975","Bomet",2017,"actual",6.86844005527935
+"d18975","Bomet",2018,"actual",5.22115219434311
+"d18987","Bungoma",2015,"actual",1.98500504543692
+"d18987","Bungoma",2016,"actual",
+"d18987","Bungoma",2017,"actual",1.97381180283153
+"d18987","Bungoma",2018,"actual",
+"d18988","Busia",2015,"actual",3.71723180011448
+"d18988","Busia",2016,"actual",5.25369175113966
+"d18988","Busia",2017,"actual",4.97381575815282
+"d18988","Busia",2018,"actual",5.11428197588337
+"d18976","Elgeyo-Marakwet",2015,"actual",4.39236059863624
+"d18976","Elgeyo-Marakwet",2016,"actual",
+"d18976","Elgeyo-Marakwet",2017,"actual",
+"d18976","Elgeyo-Marakwet",2018,"actual",
+"d18955","Embu",2015,"actual",
+"d18955","Embu",2016,"actual",
+"d18955","Embu",2017,"actual",
+"d18955","Embu",2018,"actual",1.99253318584071
+"d18965","Garissa",2015,"actual",11.4702404414663
+"d18965","Garissa",2016,"actual",13.2042038372235
+"d18965","Garissa",2017,"actual",10.3881518916263
+"d18965","Garissa",2018,"actual",4.57100348435269
+"d18968","Homa Bay",2015,"actual",3.68584856159466
+"d18968","Homa Bay",2016,"actual",6.3357934154284
+"d18968","Homa Bay",2017,"actual",5.62392822786399
+"d18968","Homa Bay",2018,"actual",4.55078136387399
+"d18956","Isiolo",2015,"actual",7.47893135029134
+"d18956","Isiolo",2016,"actual",4.60796273705223
+"d18956","Isiolo",2017,"actual",5.70187743697503
+"d18956","Isiolo",2018,"actual",4.27006325678945
+"d18991","Kajiado",2015,"actual",3.93709298836984
+"d18991","Kajiado",2016,"actual",5.22279611310514
+"d18991","Kajiado",2017,"actual",4.77448235942559
+"d18991","Kajiado",2018,"actual",4.49353319120035
+"d18989","Kakamega",2015,"actual",1.7909016479928
+"d18989","Kakamega",2016,"actual",1.68507956565613
+"d18989","Kakamega",2017,"actual",1.19353220619043
+"d18989","Kakamega",2018,"actual",1.49451341533968
+"d18977","Kericho",2015,"actual",
+"d18977","Kericho",2016,"actual",
+"d18977","Kericho",2017,"actual",
+"d18977","Kericho",2018,"actual",5.95822692377534
+"d18943","Kiambu",2015,"actual",3.39566204914732
+"d18943","Kiambu",2016,"actual",3.17820788970449
+"d18943","Kiambu",2017,"actual",3.55915005868713
+"d18943","Kiambu",2018,"actual",3.43730077852375
+"d18949","Kilifi",2015,"actual",4.00581736195397
+"d18949","Kilifi",2016,"actual",
+"d18949","Kilifi",2017,"actual",11.0984553539253
+"d18949","Kilifi",2018,"actual",9.24473905436792
+"d18944","Kirinyaga",2015,"actual",10.7449771266558
+"d18944","Kirinyaga",2016,"actual",9.15989421695185
+"d18944","Kirinyaga",2017,"actual",6.12235286360522
+"d18944","Kirinyaga",2018,"actual",2.57011316282862
+"d18969","Kisii",2015,"actual",2.53231349481286
+"d18969","Kisii",2016,"actual",3.81603538342963
+"d18969","Kisii",2017,"actual",3.72620250675903
+"d18969","Kisii",2018,"actual",2.73098620758757
+"d18970","Kisumu",2015,"actual",0.4887521015993
+"d18970","Kisumu",2016,"actual",1.51829233260819
+"d18970","Kisumu",2017,"actual",2.99743340377458
+"d18970","Kisumu",2018,"actual",1.60279344446701
+"d18957","Kitui",2015,"actual",
+"d18957","Kitui",2016,"actual",
+"d18957","Kitui",2017,"actual",
+"d18957","Kitui",2018,"actual",
+"d18950","Kwale",2015,"actual",4.26141694291305
+"d18950","Kwale",2016,"actual",6.59441811879123
+"d18950","Kwale",2017,"actual",7.19851893561294
+"d18950","Kwale",2018,"actual",
+"d18978","Laikipia",2015,"actual",
+"d18978","Laikipia",2016,"actual",3.40675793416322
+"d18978","Laikipia",2017,"actual",4.84220894736619
+"d18978","Laikipia",2018,"actual",3.21633591314831
+"d18951","Lamu",2015,"actual",
+"d18951","Lamu",2016,"actual",
+"d18951","Lamu",2017,"actual",
+"d18951","Lamu",2018,"actual",
+"d18958","Machakos",2015,"actual",7.11551706617589
+"d18958","Machakos",2016,"actual",11.7778991793388
+"d18958","Machakos",2017,"actual",
+"d18958","Machakos",2018,"actual",
+"d18959","Makueni",2015,"actual",7.83361048191919
+"d18959","Makueni",2016,"actual",9.80120782817963
+"d18959","Makueni",2017,"actual",10.5169957780938
+"d18959","Makueni",2018,"actual",7.32028687385334
+"d18966","Mandera",2015,"actual",
+"d18966","Mandera",2016,"actual",12.8175360064319
+"d18966","Mandera",2017,"actual",
+"d18966","Mandera",2018,"actual",
+"d18960","Marsabit",2015,"actual",10.0646316950551
+"d18960","Marsabit",2016,"actual",13.7934627348607
+"d18960","Marsabit",2017,"actual",10.2688435542515
+"d18960","Marsabit",2018,"actual",8.49176114476084
+"d18961","Meru",2015,"actual",7.38793368130181
+"d18961","Meru",2016,"actual",6.10700049584967
+"d18961","Meru",2017,"actual",7.01219073734067
+"d18961","Meru",2018,"actual",9.32490636566432
+"d18971","Migori",2015,"actual",
+"d18971","Migori",2016,"actual",
+"d18971","Migori",2017,"actual",1.34545492055524
+"d18971","Migori",2018,"actual",
+"d18952","Mombasa",2015,"actual",8.75420174626136
+"d18952","Mombasa",2016,"actual",5.76087910544701
+"d18952","Mombasa",2017,"actual",0.80417624214847
+"d18952","Mombasa",2018,"actual",0.922844851016906
+"d18946","Murang'a",2015,"actual",
+"d18946","Murang'a",2016,"actual",15.2824381781468
+"d18946","Murang'a",2017,"actual",18.4194243463498
+"d18946","Murang'a",2018,"actual",
+"d18964","Nairobi",2015,"actual",
+"d18964","Nairobi",2016,"actual",
+"d18964","Nairobi",2017,"actual",
+"d18964","Nairobi",2018,"actual",
+"d18979","Nakuru",2015,"actual",4.31263560788903
+"d18979","Nakuru",2016,"actual",
+"d18979","Nakuru",2017,"actual",
+"d18979","Nakuru",2018,"actual",
+"d18980","Nandi",2015,"actual",9.06382613914013
+"d18980","Nandi",2016,"actual",
+"d18980","Nandi",2017,"actual",10.1036554337554
+"d18980","Nandi",2018,"actual",
+"d18981","Narok",2015,"actual",
+"d18981","Narok",2016,"actual",
+"d18981","Narok",2017,"actual",1.78960650065362
+"d18981","Narok",2018,"actual",
+"d18962","Nithi",2015,"actual",
+"d18962","Nithi",2016,"actual",1.82327982672166
+"d18962","Nithi",2017,"actual",2.0743806419981
+"d18962","Nithi",2018,"actual",6.34872809047855
+"d18972","Nyamira",2015,"actual",3.71801248038777
+"d18972","Nyamira",2016,"actual",6.2102795945971
+"d18972","Nyamira",2017,"actual",
+"d18972","Nyamira",2018,"actual",
+"d18947","Nyandarua",2015,"actual",
+"d18947","Nyandarua",2016,"actual",5.48077278116705
+"d18947","Nyandarua",2017,"actual",7.50309287490278
+"d18947","Nyandarua",2018,"actual",
+"d18948","Nyeri",2015,"actual",2.60407202183275
+"d18948","Nyeri",2016,"actual",3.79985701195259
+"d18948","Nyeri",2017,"actual",3.32048668340073
+"d18948","Nyeri",2018,"actual",2.14291858816841
+"d18982","Samburu",2015,"actual",
+"d18982","Samburu",2016,"actual",18.0286668833847
+"d18982","Samburu",2017,"actual",
+"d18982","Samburu",2018,"actual",
+"d18973","Siaya",2015,"actual",5.30768105971441
+"d18973","Siaya",2016,"actual",5.40814464962601
+"d18973","Siaya",2017,"actual",5.02472398652969
+"d18973","Siaya",2018,"actual",2.52783980617949
+"d18953","Taita Taveta",2015,"actual",5.65282356027512
+"d18953","Taita Taveta",2016,"actual",3.66398105634006
+"d18953","Taita Taveta",2017,"actual",2.92167028552015
+"d18953","Taita Taveta",2018,"actual",1.13166843942413
+"d18954","Tana River",2015,"actual",
+"d18954","Tana River",2016,"actual",
+"d18954","Tana River",2017,"actual",
+"d18954","Tana River",2018,"actual",
+"d18983","Trans-Nzoia",2015,"actual",5.19251968215248
+"d18983","Trans-Nzoia",2016,"actual",
+"d18983","Trans-Nzoia",2017,"actual",3.37650138897216
+"d18983","Trans-Nzoia",2018,"actual",5.80756739316614
+"d18984","Turkana",2015,"actual",
+"d18984","Turkana",2016,"actual",
+"d18984","Turkana",2017,"actual",
+"d18984","Turkana",2018,"actual",
+"d18985","Uasin Gishu",2015,"actual",6.39985408498827
+"d18985","Uasin Gishu",2016,"actual",2.51190667464444
+"d18985","Uasin Gishu",2017,"actual",8.36163529354715
+"d18985","Uasin Gishu",2018,"actual",6.40896612660118
+"d18990","Vihiga",2015,"actual",2.79370403966067
+"d18990","Vihiga",2016,"actual",1.44441304094831
+"d18990","Vihiga",2017,"actual",1.97134544124686
+"d18990","Vihiga",2018,"actual",1.65004546496241
+"d18967","Wajir",2015,"actual",16.6184124646461
+"d18967","Wajir",2016,"actual",18.6519243526369
+"d18967","Wajir",2017,"actual",11.426210952712
+"d18967","Wajir",2018,"actual",7.31115532605077
+"d18986","West Pokot",2015,"actual",3.92822706778472
+"d18986","West Pokot",2016,"actual",4.84367745286879
+"d18986","West Pokot",2017,"actual",3.34401168999045
+"d18986","West Pokot",2018,"actual",3.44180140139232
